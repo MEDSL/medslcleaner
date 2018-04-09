@@ -1,0 +1,23 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+23|02060|Auburn|Auburn city
+23|02100|Augusta|Augusta city
+23|02795|Bangor|Bangor city
+23|03355|Bath|Bath city
+23|03950|Belfast|Belfast city
+23|04860|Biddeford|Biddeford city
+23|06925|Brewer|Brewer city
+23|09585|Calais|Calais city
+23|10565|Caribou|Caribou city
+23|21730|Eastport|Eastport city
+23|23200|Ellsworth|Ellsworth city
+23|27085|Gardiner|Gardiner city
+23|30550|Hallowell|Hallowell city
+23|38740|Lewiston|Lewiston city
+23|55225|Old Town|Old Town city
+23|60545|Portland|Portland city
+23|60825|Presque Isle|Presque Isle city
+23|63590|Rockland|Rockland city
+23|64675|Saco|Saco city
+23|71990|South Portland|South Portland city
+23|80740|Waterville|Waterville city
+23|82105|Westbrook|Westbrook city

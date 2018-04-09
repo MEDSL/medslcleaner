@@ -1,0 +1,9 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+44|14140|Central Falls|Central Falls city
+44|19180|Cranston|Cranston city
+44|22960|East Providence|East Providence city
+44|49960|Newport|Newport city
+44|54640|Pawtucket|Pawtucket city
+44|59000|Providence|Providence city
+44|74300|Warwick|Warwick city
+44|80780|Woonsocket|Woonsocket city

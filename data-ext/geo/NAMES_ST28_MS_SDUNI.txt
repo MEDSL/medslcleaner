@@ -1,0 +1,150 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+28|00360|Aberdeen School District|Aberdeen School District
+28|00390|Alcorn School District|Alcorn School District
+28|00420|Amite County School District|Amite County School District
+28|00450|Amory School District|Amory School District
+28|00510|Attala County School District|Attala County School District
+28|00540|Baldwyn School District|Baldwyn School District
+28|00570|Bay St. Louis School District|Bay St. Louis School District
+28|00600|Benton County School District|Benton County School District
+28|00630|Biloxi Public School District|Biloxi Public School District
+28|00660|West Bolivar School District|West Bolivar School District
+28|00690|Benoit School District|Benoit School District
+28|00720|North Bolivar School District|North Bolivar School District
+28|00750|Cleveland School District|Cleveland School District
+28|00780|Shaw School District|Shaw School District
+28|00810|Mound Bayou Public School|Mound Bayou Public School
+28|00820|Booneville School District|Booneville School District
+28|00840|Brookhaven School District|Brookhaven School District
+28|00870|Calhoun County School District|Calhoun County School District
+28|00900|Canton Public School District|Canton Public School District
+28|00930|Carroll County School District|Carroll County School District
+28|00960|Chickasaw County School District|Chickasaw County School District
+28|00990|Choctaw County School District|Choctaw County School District
+28|01020|Claiborne County School District|Claiborne County School District
+28|01050|Clarksdale Municipal School District|Clarksdale Municipal School District
+28|01080|Clay County School District|Clay County School District
+28|01090|Clinton Public School District|Clinton Public School District
+28|01110|Coahoma County School District|Coahoma County School District
+28|01140|Coffeeville School District|Coffeeville School District
+28|01170|Columbia School District|Columbia School District
+28|01200|Columbus Municipal School District|Columbus Municipal School District
+28|01220|Copiah County School District|Copiah County School District
+28|01260|Corinth School District|Corinth School District
+28|01290|Covington County School District|Covington County School District
+28|01320|DeSoto County School District|DeSoto County School District
+28|01350|Drew School District|Drew School District
+28|01360|Durant Public School District|Durant Public School District
+28|01380|East Jasper School District|East Jasper School District
+28|01410|East Tallahatchie School District|East Tallahatchie School District
+28|01440|Enterprise School District|Enterprise School District
+28|01470|Forest Municipal School District|Forest Municipal School District
+28|01490|Forrest County Schools|Forrest County Schools
+28|01530|Franklin County School District|Franklin County School District
+28|01560|George County School District|George County School District
+28|01590|Greene County School District|Greene County School District
+28|01620|Greenville Public School District|Greenville Public School District
+28|01650|Greenwood Public School District|Greenwood Public School District
+28|01680|Grenada School District|Grenada School District
+28|01710|Gulfport School District|Gulfport School District
+28|01740|Hancock County School District|Hancock County School District
+28|01770|Harrison County School District|Harrison County School District
+28|01800|Hattiesburg Public School District|Hattiesburg Public School District
+28|01830|Hazlehurst City School District|Hazlehurst City School District
+28|01860|Hinds County School District|Hinds County School District
+28|01890|Hollandale School District|Hollandale School District
+28|01950|Holly Springs School District|Holly Springs School District
+28|01980|Holmes County School District|Holmes County School District
+28|02010|Houston School District|Houston School District
+28|02040|Humphreys County School District|Humphreys County School District
+28|02070|Indianola School District|Indianola School District
+28|02100|Itawamba County School District|Itawamba County School District
+28|02160|Jackson County School District|Jackson County School District
+28|02190|Jackson Public School District|Jackson Public School District
+28|02220|Jefferson County School District|Jefferson County School District
+28|02250|Jefferson Davis County School District|Jefferson Davis County School District
+28|02280|Jones County School District|Jones County School District
+28|02310|Kemper County School District|Kemper County School District
+28|02340|Kosciusko School District|Kosciusko School District
+28|02370|Lafayette County School District|Lafayette County School District
+28|02400|Lamar County School District|Lamar County School District
+28|02430|Lauderdale County School District|Lauderdale County School District
+28|02460|Laurel School District|Laurel School District
+28|02490|Lawrence County School District|Lawrence County School District
+28|02520|Leake County School District|Leake County School District
+28|02550|Lee County School District|Lee County School District
+28|02580|Leflore County School District|Leflore County School District
+28|02610|Leland School District|Leland School District
+28|02640|Lincoln County School District|Lincoln County School District
+28|02670|Long Beach School District|Long Beach School District
+28|02700|Louisville Municipal School District|Louisville Municipal School District
+28|02730|Lowndes County School District|Lowndes County School District
+28|02760|Lumberton Public School District|Lumberton Public School District
+28|02790|Madison County School District|Madison County School District
+28|02820|Marion County School District|Marion County School District
+28|02850|Marshall County School District|Marshall County School District
+28|02880|McComb School District|McComb School District
+28|02910|Meridian Public School District|Meridian Public School District
+28|02940|Monroe County School District|Monroe County School District
+28|02970|Montgomery County School District|Montgomery County School District
+28|03000|Moss Point School District|Moss Point School District
+28|03030|Natchez-Adams School District|Natchez-Adams School District
+28|03060|Neshoba County School District|Neshoba County School District
+28|03090|Nettleton School District|Nettleton School District
+28|03120|New Albany Public Schools|New Albany Public Schools
+28|03150|Newton County School District|Newton County School District
+28|03180|Newton Municipal School|Newton Municipal School
+28|03210|North Panola School District|North Panola School District
+28|03240|North Pike School District|North Pike School District
+28|03270|North Tippah School District|North Tippah School District
+28|03300|Noxubee County School District|Noxubee County School District
+28|03360|Ocean Springs School District|Ocean Springs School District
+28|03390|Okolona Separate School District|Okolona Separate School District
+28|03420|Oktibbeha County School District|Oktibbeha County School District
+28|03450|Oxford School District|Oxford School District
+28|03480|Pascagoula Separate School District|Pascagoula Separate School District
+28|03510|Pass Christian Public School District|Pass Christian Public School District
+28|03520|Pearl Public School District|Pearl Public School District
+28|03530|Petal School District|Petal School District
+28|03540|Pearl River County School District|Pearl River County School District
+28|03570|Perry County Schools|Perry County Schools
+28|03600|Philadelphia Public School District|Philadelphia Public School District
+28|03630|Picayune School District|Picayune School District
+28|03660|Pontotoc County Schools|Pontotoc County Schools
+28|03690|Pontotoc City Schools|Pontotoc City Schools
+28|03720|Poplarville Separate School District|Poplarville Separate School District
+28|03750|Prentiss County School District|Prentiss County School District
+28|03780|Quitman School District|Quitman School District
+28|03810|Quitman County School District|Quitman County School District
+28|03830|Rankin County School District|Rankin County School District
+28|03870|Richton School District|Richton School District
+28|03900|Scott County School District|Scott County School District
+28|03930|Senatobia Municipal School District|Senatobia Municipal School District
+28|03960|South Delta School District|South Delta School District
+28|03990|Simpson County School District|Simpson County School District
+28|04020|Smith County School District|Smith County School District
+28|04050|South Panola School District|South Panola School District
+28|04080|South Pike School District|South Pike School District
+28|04110|South Tippah School District|South Tippah School District
+28|04140|Starkville School District|Starkville School District
+28|04170|Stone County School District|Stone County School District
+28|04200|Sunflower County School District|Sunflower County School District
+28|04230|Tate County School District|Tate County School District
+28|04260|Tishomingo County Schools|Tishomingo County Schools
+28|04290|Tunica County School District|Tunica County School District
+28|04320|Tupelo Public School District|Tupelo Public School District
+28|04350|Union County School District|Union County School District
+28|04380|Union Public School District|Union Public School District
+28|04440|Walthall County School District|Walthall County School District
+28|04470|Vicksburg Warren School District|Vicksburg Warren School District
+28|04500|Water Valley School District|Water Valley School District
+28|04530|Wayne County School District|Wayne County School District
+28|04560|Webster County School District|Webster County School District
+28|04590|West Jasper School District|West Jasper School District
+28|04620|West Point School District|West Point School District
+28|04650|West Tallahatchie School|West Tallahatchie School
+28|04680|Western Line School District|Western Line School District
+28|04710|Wilkinson County School District|Wilkinson County School District
+28|04740|Winona Separate School District|Winona Separate School District
+28|04770|Yazoo City Municipal School District|Yazoo City Municipal School District
+28|04800|Yazoo County School District|Yazoo County School District

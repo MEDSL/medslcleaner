@@ -1,0 +1,8 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+45|0525|Catawba|Catawba Reservation
+45|9525|Beaver Creek|Beaver Creek SDTSA
+45|9844|Pee Dee|Pee Dee SDTSA
+45|9875|Santee|Santee SDTSA
+45|9963|Upper South Carolina Pee Dee|Upper South Carolina Pee Dee SDTSA
+45|9967|Waccamaw|Waccamaw SDTSA
+45|9975|Wassamasaw|Wassamasaw SDTSA

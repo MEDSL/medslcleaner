@@ -1,0 +1,45 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+20|00225|Ada|Ada CDP
+20|02600|Asherville|Asherville CDP
+20|03675|Baileyville|Baileyville CDP
+20|05975|Bendena|Bendena CDP
+20|09050|Bucyrus|Bucyrus CDP
+20|11025|Catharine|Catharine CDP
+20|13100|Chicopee|Chicopee CDP
+20|17875|Detroit|Detroit CDP
+20|22900|Falun|Falun CDP
+20|23890|Fort Dodge|Fort Dodge CDP
+20|23975|Fort Riley|Fort Riley CDP
+20|24325|Franklin|Franklin CDP
+20|28200|Grantville|Grantville CDP
+20|30250|Harris|Harris CDP
+20|31200|Healy|Healy CDP
+20|32300|Hillsdale|Hillsdale CDP
+20|32875|Home|Home CDP
+20|36735|Kickapoo Site 1|Kickapoo Site 1 CDP
+20|36736|Kickapoo Site 2|Kickapoo Site 2 CDP
+20|36739|Kickapoo Site 5|Kickapoo Site 5 CDP
+20|36740|Kickapoo Site 6|Kickapoo Site 6 CDP
+20|36741|Kickapoo Site 7|Kickapoo Site 7 CDP
+20|36744|Kickapoo Tribal Center|Kickapoo Tribal Center CDP
+20|37200|Kipp|Kipp CDP
+20|39700|Levant|Levant CDP
+20|43050|Lowell|Lowell CDP
+20|43675|McConnell AFB|McConnell AFB CDP
+20|44600|Marienthal|Marienthal CDP
+20|46925|Milton|Milton CDP
+20|49200|Munjor|Munjor CDP
+20|51810|Oaklawn-Sunview|Oaklawn-Sunview CDP
+20|52175|Odin|Odin CDP
+20|56000|Piqua|Piqua CDP
+20|60200|Riverton|Riverton CDP
+20|61100|Rosalia|Rosalia CDP
+20|61550|Roxbury|Roxbury CDP
+20|69925|Talmage|Talmage CDP
+20|73450|Vassar|Vassar CDP
+20|74425|Wakarusa|Wakarusa CDP
+20|76425|Welda|Welda CDP
+20|76675|Weskan|Weskan CDP
+20|79625|Wilroads Gardens|Wilroads Gardens CDP
+20|80500|Wright|Wright CDP
+20|80750|Yoder|Yoder CDP

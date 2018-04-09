@@ -1,0 +1,2 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+28|2300|Mississippi Choctaw|Mississippi Choctaw Reservation

@@ -1,0 +1,1023 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+48|00001|Crosbyton Consolidated Independent School District|Crosbyton Consolidated Independent School District
+48|00002|Spur Independent School District|Spur Independent School District
+48|00003|Rocksprings Independent School District|Rocksprings Independent School District
+48|00005|Blackwell Consolidated Independent School District|Blackwell Consolidated Independent School District
+48|00006|Aspermont Independent School District|Aspermont Independent School District
+48|00007|Panther Creek Consolidated Independent School District|Panther Creek Consolidated Independent School District
+48|00008|Dripping Springs Independent School District|Dripping Springs Independent School District
+48|00009|Wimberley Independent School District|Wimberley Independent School District
+48|00010|Hays Consolidated Independent School District|Hays Consolidated Independent School District
+48|00011|Alvarado Independent School District|Alvarado Independent School District
+48|00012|Chisum Independent School District|Chisum Independent School District
+48|07350|College Station Independent School District|College Station Independent School District
+48|07380|Abbott Independent School District|Abbott Independent School District
+48|07410|Abernathy Independent School District|Abernathy Independent School District
+48|07440|Abilene Independent School District|Abilene Independent School District
+48|07470|Academy Independent School District|Academy Independent School District
+48|07500|Adrian Independent School District|Adrian Independent School District
+48|07530|Agua Dulce Independent School District|Agua Dulce Independent School District
+48|07590|Alamo Heights Independent School District|Alamo Heights Independent School District
+48|07650|Alba-Golden Independent School District|Alba-Golden Independent School District
+48|07680|Albany Independent School District|Albany Independent School District
+48|07710|Aldine Independent School District|Aldine Independent School District
+48|07780|Aledo Independent School District|Aledo Independent School District
+48|07800|Alice Independent School District|Alice Independent School District
+48|07830|Alief Independent School District|Alief Independent School District
+48|07890|Allen Independent School District|Allen Independent School District
+48|07950|Alpine Independent School District|Alpine Independent School District
+48|07980|Alto Independent School District|Alto Independent School District
+48|08090|Alvin Independent School District|Alvin Independent School District
+48|08100|Alvord Independent School District|Alvord Independent School District
+48|08130|Amarillo Independent School District|Amarillo Independent School District
+48|08160|Amherst Independent School District|Amherst Independent School District
+48|08190|Anahuac Independent School District|Anahuac Independent School District
+48|08230|Anderson-Shiro Consolidated Independent School District|Anderson-Shiro Consolidated Independent School District
+48|08280|Andrews Independent School District|Andrews Independent School District
+48|08310|Angleton Independent School District|Angleton Independent School District
+48|08340|Anna Independent School District|Anna Independent School District
+48|08400|Anson Independent School District|Anson Independent School District
+48|08430|Anthony Independent School District|Anthony Independent School District
+48|08460|Anton Independent School District|Anton Independent School District
+48|08490|Apple Springs Independent School District|Apple Springs Independent School District
+48|08520|Aquilla Independent School District|Aquilla Independent School District
+48|08550|Aransas County Independent School District|Aransas County Independent School District
+48|08580|Aransas Pass Independent School District|Aransas Pass Independent School District
+48|08610|Archer City Independent School District|Archer City Independent School District
+48|08670|Argyle Independent School District|Argyle Independent School District
+48|08700|Arlington Independent School District|Arlington Independent School District
+48|08730|Arp Independent School District|Arp Independent School District
+48|08870|Athens Independent School District|Athens Independent School District
+48|08880|Atlanta Independent School District|Atlanta Independent School District
+48|08910|Aubrey Independent School District|Aubrey Independent School District
+48|08940|Austin Independent School District|Austin Independent School District
+48|09000|Austwell-Tivoli Independent School District|Austwell-Tivoli Independent School District
+48|09030|Avalon Independent School District|Avalon Independent School District
+48|09060|Avery Independent School District|Avery Independent School District
+48|09090|Avinger Independent School District|Avinger Independent School District
+48|09150|Axtell Independent School District|Axtell Independent School District
+48|09200|Azle Independent School District|Azle Independent School District
+48|09280|Baird Independent School District|Baird Independent School District
+48|09300|Ballinger Independent School District|Ballinger Independent School District
+48|09330|Balmorhea Independent School District|Balmorhea Independent School District
+48|09360|Bandera Independent School District|Bandera Independent School District
+48|09390|Bangs Independent School District|Bangs Independent School District
+48|09410|Banquete Independent School District|Banquete Independent School District
+48|09450|Barbers Hill Independent School District|Barbers Hill Independent School District
+48|09540|Bartlett Independent School District|Bartlett Independent School District
+48|09570|Bastrop Independent School District|Bastrop Independent School District
+48|09630|Bay City Independent School District|Bay City Independent School District
+48|09670|Beaumont Independent School District|Beaumont Independent School District
+48|09690|Beckville Independent School District|Beckville Independent School District
+48|09720|Beeville Independent School District|Beeville Independent School District
+48|09750|Bellevue Independent School District|Bellevue Independent School District
+48|09780|Bells Independent School District|Bells Independent School District
+48|09810|Bellville Independent School District|Bellville Independent School District
+48|09860|Belton Independent School District|Belton Independent School District
+48|09870|Ben Bolt-Palito Blanco Independent School District|Ben Bolt-Palito Blanco Independent School District
+48|09980|Benjamin Independent School District|Benjamin Independent School District
+48|10140|Big Sandy Independent School District|Big Sandy Independent School District
+48|10170|Big Sandy Independent School District|Big Sandy Independent School District
+48|10200|Big Spring Independent School District|Big Spring Independent School District
+48|10230|Birdville Independent School District|Birdville Independent School District
+48|10260|Bishop Consolidated Independent School District|Bishop Consolidated Independent School District
+48|10320|Blanco Independent School District|Blanco Independent School District
+48|10350|Bland Independent School District|Bland Independent School District
+48|10380|Blanket Independent School District|Blanket Independent School District
+48|10440|Bloomburg Independent School District|Bloomburg Independent School District
+48|10470|Blooming Grove Independent School District|Blooming Grove Independent School District
+48|10500|Bloomington Independent School District|Bloomington Independent School District
+48|10590|Blue Ridge Independent School District|Blue Ridge Independent School District
+48|10650|Blum Independent School District|Blum Independent School District
+48|10710|Boerne Independent School District|Boerne Independent School District
+48|10740|Boles Independent School District|Boles Independent School District
+48|10780|Boling Independent School District|Boling Independent School District
+48|10800|Bonham Independent School District|Bonham Independent School District
+48|10830|Booker Independent School District|Booker Independent School District
+48|10860|Borden County Independent School District|Borden County Independent School District
+48|10890|Borger Independent School District|Borger Independent School District
+48|10910|Bosqueville Independent School District|Bosqueville Independent School District
+48|10950|Bovina Independent School District|Bovina Independent School District
+48|10990|Bowie Independent School District|Bowie Independent School District
+48|11010|Boyd Independent School District|Boyd Independent School District
+48|11040|Boys Ranch Independent School District|Boys Ranch Independent School District
+48|11070|Brackett Independent School District|Brackett Independent School District
+48|11110|Brady Independent School District|Brady Independent School District
+48|11190|Brazosport Independent School District|Brazosport Independent School District
+48|11220|Breckenridge Independent School District|Breckenridge Independent School District
+48|11250|Bremond Independent School District|Bremond Independent School District
+48|11280|Brenham Independent School District|Brenham Independent School District
+48|11310|Bridge City Independent School District|Bridge City Independent School District
+48|11340|Bridgeport Independent School District|Bridgeport Independent School District
+48|11400|Fort Elliott Consolidated Independent School District|Fort Elliott Consolidated Independent School District
+48|11430|Broaddus Independent School District|Broaddus Independent School District
+48|11460|Brock Independent School District|Brock Independent School District
+48|11490|Bronte Independent School District|Bronte Independent School District
+48|11520|Brookeland Independent School District|Brookeland Independent School District
+48|11550|Brookesmith Independent School District|Brookesmith Independent School District
+48|11580|Brooks County Independent School District|Brooks County Independent School District
+48|11610|Brownfield Independent School District|Brownfield Independent School District
+48|11640|Brownsboro Independent School District|Brownsboro Independent School District
+48|11680|Brownsville Independent School District|Brownsville Independent School District
+48|11700|Brownwood Independent School District|Brownwood Independent School District
+48|11730|Bruceville-Eddy Independent School District|Bruceville-Eddy Independent School District
+48|11790|Bryan Independent School District|Bryan Independent School District
+48|11820|Bryson Independent School District|Bryson Independent School District
+48|11850|Buckholts Independent School District|Buckholts Independent School District
+48|11910|Buena Vista Independent School District|Buena Vista Independent School District
+48|11990|Buffalo Independent School District|Buffalo Independent School District
+48|12060|Bullard Independent School District|Bullard Independent School District
+48|12090|Buna Independent School District|Buna Independent School District
+48|12120|Burkburnett Independent School District|Burkburnett Independent School District
+48|12150|Burkeville Independent School District|Burkeville Independent School District
+48|12180|Burleson Independent School District|Burleson Independent School District
+48|12220|Burnet Consolidated Independent School District|Burnet Consolidated Independent School District
+48|12240|Burton Independent School District|Burton Independent School District
+48|12330|Byers Independent School District|Byers Independent School District
+48|12360|Bynum Independent School District|Bynum Independent School District
+48|12390|Caddo Mills Independent School District|Caddo Mills Independent School District
+48|12420|Calallen Independent School District|Calallen Independent School District
+48|12460|Caldwell Independent School District|Caldwell Independent School District
+48|12480|Calhoun County Independent School District|Calhoun County Independent School District
+48|12510|Callisburg Independent School District|Callisburg Independent School District
+48|12540|Calvert Independent School District|Calvert Independent School District
+48|12640|Cameron Independent School District|Cameron Independent School District
+48|12660|Campbell Independent School District|Campbell Independent School District
+48|12700|Canadian Independent School District|Canadian Independent School District
+48|12750|Canton Independent School District|Canton Independent School District
+48|12780|Canutillo Independent School District|Canutillo Independent School District
+48|12810|Canyon Independent School District|Canyon Independent School District
+48|12870|Carlisle Independent School District|Carlisle Independent School District
+48|12990|Carrizo Springs Consolidated Independent School District|Carrizo Springs Consolidated Independent School District
+48|13020|Carroll Independent School District|Carroll Independent School District
+48|13050|Carrollton-Farmers Branch Independent School District|Carrollton-Farmers Branch Independent School District
+48|13110|Carthage Independent School District|Carthage Independent School District
+48|13170|Castleberry Independent School District|Castleberry Independent School District
+48|13200|Cayuga Independent School District|Cayuga Independent School District
+48|13230|Cedar Hill Independent School District|Cedar Hill Independent School District
+48|13260|Celeste Independent School District|Celeste Independent School District
+48|13290|Celina Independent School District|Celina Independent School District
+48|13320|Center Independent School District|Center Independent School District
+48|13350|Center Point Independent School District|Center Point Independent School District
+48|13380|Centerville Independent School District|Centerville Independent School District
+48|13410|Centerville Independent School District|Centerville Independent School District
+48|13440|Central Heights Independent School District|Central Heights Independent School District
+48|13500|Central Independent School District|Central Independent School District
+48|13530|Lumberton Independent School District|Lumberton Independent School District
+48|13590|Channelview Independent School District|Channelview Independent School District
+48|13620|Channing Independent School District|Channing Independent School District
+48|13650|Chapel Hill Independent School District|Chapel Hill Independent School District
+48|13680|Chapel Hill Independent School District|Chapel Hill Independent School District
+48|13710|Charlotte Independent School District|Charlotte Independent School District
+48|13740|Cherokee Independent School District|Cherokee Independent School District
+48|13770|Chester Independent School District|Chester Independent School District
+48|13800|Chico Independent School District|Chico Independent School District
+48|13860|Childress Independent School District|Childress Independent School District
+48|13890|Chillicothe Independent School District|Chillicothe Independent School District
+48|13920|Chilton Independent School District|Chilton Independent School District
+48|13960|China Spring Independent School District|China Spring Independent School District
+48|13980|Chireno Independent School District|Chireno Independent School District
+48|14010|Christoval Independent School District|Christoval Independent School District
+48|14070|Cisco Independent School District|Cisco Independent School District
+48|14130|City View Independent School District|City View Independent School District
+48|14160|Clarendon Independent School District|Clarendon Independent School District
+48|14190|Clarksville Independent School District|Clarksville Independent School District
+48|14250|Claude Independent School District|Claude Independent School District
+48|14280|Clear Creek Independent School District|Clear Creek Independent School District
+48|14310|Cleburne Independent School District|Cleburne Independent School District
+48|14370|Cleveland Independent School District|Cleveland Independent School District
+48|14400|Clifton Independent School District|Clifton Independent School District
+48|14430|Clint Independent School District|Clint Independent School District
+48|14450|Clyde Consolidated Independent School District|Clyde Consolidated Independent School District
+48|14490|Coahoma Independent School District|Coahoma Independent School District
+48|14520|Coldspring-Oakhurst Consolidated Independent School District|Coldspring-Oakhurst Consolidated Independent School District
+48|14550|Coleman Independent School District|Coleman Independent School District
+48|14580|Collinsville Independent School District|Collinsville Independent School District
+48|14600|Colmesneil Independent School District|Colmesneil Independent School District
+48|14640|Colorado Independent School District|Colorado Independent School District
+48|14670|Columbia-Brazoria Independent School District|Columbia-Brazoria Independent School District
+48|14700|Columbus Independent School District|Columbus Independent School District
+48|14730|Comal Independent School District|Comal Independent School District
+48|14760|Comanche Independent School District|Comanche Independent School District
+48|14790|Comfort Independent School District|Comfort Independent School District
+48|14820|Commerce Independent School District|Commerce Independent School District
+48|14850|Community Independent School District|Community Independent School District
+48|14880|Como-Pickton Consolidated Independent School District|Como-Pickton Consolidated Independent School District
+48|14920|Comstock Independent School District|Comstock Independent School District
+48|14970|Connally Independent School District|Connally Independent School District
+48|15000|Conroe Independent School District|Conroe Independent School District
+48|15120|Coolidge Independent School District|Coolidge Independent School District
+48|15150|Cooper Independent School District|Cooper Independent School District
+48|15180|Lubbock-Cooper Independent School District|Lubbock-Cooper Independent School District
+48|15210|Coppell Independent School District|Coppell Independent School District
+48|15240|Copperas Cove Independent School District|Copperas Cove Independent School District
+48|15270|Corpus Christi Independent School District|Corpus Christi Independent School District
+48|15300|Corrigan-Camden Independent School District|Corrigan-Camden Independent School District
+48|15330|Corsicana Independent School District|Corsicana Independent School District
+48|15360|Cotton Center Independent School District|Cotton Center Independent School District
+48|15400|Cotulla Independent School District|Cotulla Independent School District
+48|15420|Coupland Independent School District|Coupland Independent School District
+48|15480|Covington Independent School District|Covington Independent School District
+48|15510|Crandall Independent School District|Crandall Independent School District
+48|15540|Crane Independent School District|Crane Independent School District
+48|15570|Cranfills Gap Independent School District|Cranfills Gap Independent School District
+48|15600|Crawford Independent School District|Crawford Independent School District
+48|15690|Crockett County Consolidated Common School District|Crockett County Consolidated Common School District
+48|15720|Crockett Independent School District|Crockett Independent School District
+48|15750|Crosby Independent School District|Crosby Independent School District
+48|15810|Cross Plains Independent School District|Cross Plains Independent School District
+48|15840|Cross Roads Independent School District|Cross Roads Independent School District
+48|15870|Crowell Independent School District|Crowell Independent School District
+48|15910|Crowley Independent School District|Crowley Independent School District
+48|15930|Crystal City Independent School District|Crystal City Independent School District
+48|15960|Cuero Independent School District|Cuero Independent School District
+48|15990|Culberson County-Allamoore Independent School District|Culberson County-Allamoore Independent School District
+48|16020|Cumby Independent School District|Cumby Independent School District
+48|16080|Cushing Independent School District|Cushing Independent School District
+48|16110|Cypress-Fairbanks Independent School District|Cypress-Fairbanks Independent School District
+48|16140|D'Hanis Independent School District|D'Hanis Independent School District
+48|16180|Daingerfield-Lone Star Independent School District|Daingerfield-Lone Star Independent School District
+48|16200|Dalhart Independent School District|Dalhart Independent School District
+48|16230|Dallas Independent School District|Dallas Independent School District
+48|16260|Damon Independent School District|Damon Independent School District
+48|16290|Danbury Independent School District|Danbury Independent School District
+48|16320|Darrouzett Independent School District|Darrouzett Independent School District
+48|16350|Dawson Independent School District|Dawson Independent School District
+48|16380|Dawson Independent School District|Dawson Independent School District
+48|16410|Dayton Independent School District|Dayton Independent School District
+48|16440|DeLeon Independent School District|DeLeon Independent School District
+48|16500|Decatur Independent School District|Decatur Independent School District
+48|16530|Deer Park Independent School District|Deer Park Independent School District
+48|16570|DeKalb Independent School District|DeKalb Independent School District
+48|16620|Del Valle Independent School District|Del Valle Independent School District
+48|16650|Dell City Independent School District|Dell City Independent School District
+48|16710|Denison Independent School District|Denison Independent School District
+48|16740|Denton Independent School District|Denton Independent School District
+48|16770|Denver City Independent School District|Denver City Independent School District
+48|16860|DeSoto Independent School District|DeSoto Independent School District
+48|16890|Detroit Independent School District|Detroit Independent School District
+48|16920|Devers Independent School District|Devers Independent School District
+48|16950|Devine Independent School District|Devine Independent School District
+48|16980|Dew Independent School District|Dew Independent School District
+48|17010|Deweyville Independent School District|Deweyville Independent School District
+48|17040|Diboll Independent School District|Diboll Independent School District
+48|17070|Dickinson Independent School District|Dickinson Independent School District
+48|17100|Dilley Independent School District|Dilley Independent School District
+48|17130|Dime Box Independent School District|Dime Box Independent School District
+48|17160|Dimmitt Independent School District|Dimmitt Independent School District
+48|17190|Divide Independent School District|Divide Independent School District
+48|17280|Dodd City Independent School District|Dodd City Independent School District
+48|17390|Donna Independent School District|Donna Independent School District
+48|17400|Doss Consolidated Common School District|Doss Consolidated Common School District
+48|17460|Douglass Independent School District|Douglass Independent School District
+48|17550|Driscoll Independent School District|Driscoll Independent School District
+48|17580|Dublin Independent School District|Dublin Independent School District
+48|17610|Dumas Independent School District|Dumas Independent School District
+48|17640|Duncanville Independent School District|Duncanville Independent School District
+48|17700|Eagle Mountain-Saginaw Independent School District|Eagle Mountain-Saginaw Independent School District
+48|17730|Eagle Pass Independent School District|Eagle Pass Independent School District
+48|17760|Eanes Independent School District|Eanes Independent School District
+48|17790|Early Independent School District|Early Independent School District
+48|17830|East Bernard Independent School District|East Bernard Independent School District
+48|17850|East Central Independent School District|East Central Independent School District
+48|17880|East Chambers Independent School District|East Chambers Independent School District
+48|17960|Eastland Independent School District|Eastland Independent School District
+48|18000|Ector County Independent School District|Ector County Independent School District
+48|18030|Ector Independent School District|Ector Independent School District
+48|18060|Edcouch-Elsa Independent School District|Edcouch-Elsa Independent School District
+48|18070|Eden Consolidated Independent School District|Eden Consolidated Independent School District
+48|18120|Edgewood Independent School District|Edgewood Independent School District
+48|18150|Edgewood Independent School District|Edgewood Independent School District
+48|18180|Edinburg Consolidated Independent School District|Edinburg Consolidated Independent School District
+48|18210|Edna Independent School District|Edna Independent School District
+48|18280|El Campo Independent School District|El Campo Independent School District
+48|18300|El Paso Independent School District|El Paso Independent School District
+48|18330|Electra Independent School District|Electra Independent School District
+48|18360|Elgin Independent School District|Elgin Independent School District
+48|18390|Elkhart Independent School District|Elkhart Independent School District
+48|18480|Elysian Fields Independent School District|Elysian Fields Independent School District
+48|18540|Ennis Independent School District|Ennis Independent School District
+48|18600|Era Independent School District|Era Independent School District
+48|18660|Etoile Independent School District|Etoile Independent School District
+48|18690|Eula Independent School District|Eula Independent School District
+48|18720|Eustace Independent School District|Eustace Independent School District
+48|18750|Evadale Independent School District|Evadale Independent School District
+48|18780|Evant Independent School District|Evant Independent School District
+48|18810|Everman Independent School District|Everman Independent School District
+48|18840|Excelsior Independent School District|Excelsior Independent School District
+48|18890|Ezzell Independent School District|Ezzell Independent School District
+48|18900|Fabens Independent School District|Fabens Independent School District
+48|18940|Fairfield Independent School District|Fairfield Independent School District
+48|19020|Falls City Independent School District|Falls City Independent School District
+48|19050|Fannindel Independent School District|Fannindel Independent School District
+48|19080|Farmersville Independent School District|Farmersville Independent School District
+48|19110|Farwell Independent School District|Farwell Independent School District
+48|19140|Fayetteville Independent School District|Fayetteville Independent School District
+48|19170|Ferris Independent School District|Ferris Independent School District
+48|19280|Flatonia Independent School District|Flatonia Independent School District
+48|19320|Florence Independent School District|Florence Independent School District
+48|19350|Floresville Independent School District|Floresville Independent School District
+48|19380|Flour Bluff Independent School District|Flour Bluff Independent School District
+48|19440|Floydada Independent School District|Floydada Independent School District
+48|19500|Follett Independent School District|Follett Independent School District
+48|19530|Forestburg Independent School District|Forestburg Independent School District
+48|19560|Forney Independent School District|Forney Independent School District
+48|19620|Forsan Independent School District|Forsan Independent School District
+48|19650|Fort Bend Independent School District|Fort Bend Independent School District
+48|19700|Fort Worth Independent School District|Fort Worth Independent School District
+48|19740|Franklin Independent School District|Franklin Independent School District
+48|19770|Frankston Independent School District|Frankston Independent School District
+48|19820|Freer Independent School District|Freer Independent School District
+48|19830|Frenship Independent School District|Frenship Independent School District
+48|19840|Fredericksburg Independent School District|Fredericksburg Independent School District
+48|19950|Friendswood Independent School District|Friendswood Independent School District
+48|19980|Friona Independent School District|Friona Independent School District
+48|20010|Frisco Independent School District|Frisco Independent School District
+48|20040|Frost Independent School District|Frost Independent School District
+48|20070|Fruitvale Independent School District|Fruitvale Independent School District
+48|20100|Fort Davis Independent School District|Fort Davis Independent School District
+48|20130|Fort Hancock Independent School District|Fort Hancock Independent School District
+48|20160|Fort Sam Houston Independent School District|Fort Sam Houston Independent School District
+48|20190|Fort Stockton Independent School District|Fort Stockton Independent School District
+48|20220|Gainesville Independent School District|Gainesville Independent School District
+48|20250|Galena Park Independent School District|Galena Park Independent School District
+48|20280|Galveston Independent School District|Galveston Independent School District
+48|20310|Ganado Independent School District|Ganado Independent School District
+48|20340|Garland Independent School District|Garland Independent School District
+48|20370|Garner Independent School District|Garner Independent School District
+48|20400|Garrison Independent School District|Garrison Independent School District
+48|20460|Gary Independent School District|Gary Independent School District
+48|20500|Gatesville Independent School District|Gatesville Independent School District
+48|20520|Gause Independent School District|Gause Independent School District
+48|20550|George West Independent School District|George West Independent School District
+48|20600|Georgetown Independent School District|Georgetown Independent School District
+48|20640|Giddings Independent School District|Giddings Independent School District
+48|20700|Gilmer Independent School District|Gilmer Independent School District
+48|20760|Gladewater Independent School District|Gladewater Independent School District
+48|20790|Glasscock County Independent School District|Glasscock County Independent School District
+48|20850|Glen Rose Independent School District|Glen Rose Independent School District
+48|20960|Godley Independent School District|Godley Independent School District
+48|20970|Gold-Burg Independent School District|Gold-Burg Independent School District
+48|21000|Goldthwaite Independent School District|Goldthwaite Independent School District
+48|21030|Goliad Independent School District|Goliad Independent School District
+48|21060|Gonzales Independent School District|Gonzales Independent School District
+48|21090|Goodrich Independent School District|Goodrich Independent School District
+48|21150|Goose Creek Consolidated Independent School District|Goose Creek Consolidated Independent School District
+48|21180|Gordon Independent School District|Gordon Independent School District
+48|21270|Gorman Independent School District|Gorman Independent School District
+48|21300|Grady Independent School District|Grady Independent School District
+48|21330|Graford Independent School District|Graford Independent School District
+48|21360|Graham Independent School District|Graham Independent School District
+48|21390|Granbury Independent School District|Granbury Independent School District
+48|21420|Grand Prairie Independent School District|Grand Prairie Independent School District
+48|21450|Grand Saline Independent School District|Grand Saline Independent School District
+48|21480|Grandfalls-Royalty Independent School District|Grandfalls-Royalty Independent School District
+48|21540|Grandview Independent School District|Grandview Independent School District
+48|21560|Grandview-Hopkins Independent School District|Grandview-Hopkins Independent School District
+48|21590|Granger Independent School District|Granger Independent School District
+48|21600|Grape Creek Independent School District|Grape Creek Independent School District
+48|21630|Grapeland Independent School District|Grapeland Independent School District
+48|21660|Grapevine-Colleyville Independent School District|Grapevine-Colleyville Independent School District
+48|21720|Greenville Independent School District|Greenville Independent School District
+48|21750|Greenwood Independent School District|Greenwood Independent School District
+48|21780|Gregory-Portland Independent School District|Gregory-Portland Independent School District
+48|21810|Groesbeck Independent School District|Groesbeck Independent School District
+48|21840|Groom Independent School District|Groom Independent School District
+48|21900|Groveton Independent School District|Groveton Independent School District
+48|21930|Gruver Independent School District|Gruver Independent School District
+48|21960|Gunter Independent School District|Gunter Independent School District
+48|21990|Gustine Independent School District|Gustine Independent School District
+48|22020|Guthrie Common School District|Guthrie Common School District
+48|22050|Hale Center Independent School District|Hale Center Independent School District
+48|22120|Hallettsville Independent School District|Hallettsville Independent School District
+48|22140|Hallsburg Independent School District|Hallsburg Independent School District
+48|22170|Hallsville Independent School District|Hallsville Independent School District
+48|22230|Hamilton Independent School District|Hamilton Independent School District
+48|22260|Hamlin Independent School District|Hamlin Independent School District
+48|22320|Hamshire-Fannett Independent School District|Hamshire-Fannett Independent School District
+48|22350|Happy Independent School District|Happy Independent School District
+48|22380|Hardin Independent School District|Hardin Independent School District
+48|22410|Hardin-Jefferson Independent School District|Hardin-Jefferson Independent School District
+48|22470|Harlandale Independent School District|Harlandale Independent School District
+48|22500|Harleton Independent School District|Harleton Independent School District
+48|22530|Harlingen Consolidated Independent School District|Harlingen Consolidated Independent School District
+48|22560|Harmony Independent School District|Harmony Independent School District
+48|22590|Harper Independent School District|Harper Independent School District
+48|22620|Harrold Independent School District|Harrold Independent School District
+48|22650|Hart Independent School District|Hart Independent School District
+48|22680|Hartley Independent School District|Hartley Independent School District
+48|22710|Harts Bluff Independent School District|Harts Bluff Independent School District
+48|22740|Haskell Consolidated Independent School District|Haskell Consolidated Independent School District
+48|22770|Hawkins Independent School District|Hawkins Independent School District
+48|22800|Hawley Independent School District|Hawley Independent School District
+48|22830|Hearne Independent School District|Hearne Independent School District
+48|22850|Hedley Independent School District|Hedley Independent School District
+48|22890|Hemphill Independent School District|Hemphill Independent School District
+48|22920|Hempstead Independent School District|Hempstead Independent School District
+48|22970|Henderson Independent School District|Henderson Independent School District
+48|22980|Henrietta Independent School District|Henrietta Independent School District
+48|23010|Hereford Independent School District|Hereford Independent School District
+48|23040|Hermleigh Independent School District|Hermleigh Independent School District
+48|23070|Hico Independent School District|Hico Independent School District
+48|23100|Hidalgo Independent School District|Hidalgo Independent School District
+48|23140|Higgins Independent School District|Higgins Independent School District
+48|23160|High Island Independent School District|High Island Independent School District
+48|23190|Highland Independent School District|Highland Independent School District
+48|23250|Highland Park Independent School District|Highland Park Independent School District
+48|23280|Hillsboro Independent School District|Hillsboro Independent School District
+48|23310|Hitchcock Independent School District|Hitchcock Independent School District
+48|23370|Holland Independent School District|Holland Independent School District
+48|23400|Holliday Independent School District|Holliday Independent School District
+48|23430|Hondo Independent School District|Hondo Independent School District
+48|23460|Honey Grove Independent School District|Honey Grove Independent School District
+48|23490|Hooks Independent School District|Hooks Independent School District
+48|23640|Houston Independent School District|Houston Independent School District
+48|23670|Howe Independent School District|Howe Independent School District
+48|23700|Hubbard Independent School District|Hubbard Independent School District
+48|23730|Hubbard Independent School District|Hubbard Independent School District
+48|23760|Huckabay Independent School District|Huckabay Independent School District
+48|23790|Hudson Independent School District|Hudson Independent School District
+48|23820|Huffman Independent School District|Huffman Independent School District
+48|23850|Hughes Springs Independent School District|Hughes Springs Independent School District
+48|23880|Hull-Daisetta Independent School District|Hull-Daisetta Independent School District
+48|23910|Humble Independent School District|Humble Independent School District
+48|23970|Hunt Independent School District|Hunt Independent School District
+48|24000|Huntington Independent School District|Huntington Independent School District
+48|24030|Huntsville Independent School District|Huntsville Independent School District
+48|24060|Hurst-Euless-Bedford Independent School District|Hurst-Euless-Bedford Independent School District
+48|24100|Hutto Independent School District|Hutto Independent School District
+48|24120|Idalou Independent School District|Idalou Independent School District
+48|24150|Industrial Independent School District|Industrial Independent School District
+48|24180|Ingleside Independent School District|Ingleside Independent School District
+48|24210|Ingram Independent School District|Ingram Independent School District
+48|24240|Iola Independent School District|Iola Independent School District
+48|24260|Iowa Park Consolidated Independent School District|Iowa Park Consolidated Independent School District
+48|24300|Ira Independent School District|Ira Independent School District
+48|24330|Iraan-Sheffield Independent School District|Iraan-Sheffield Independent School District
+48|24360|Iredell Independent School District|Iredell Independent School District
+48|24420|Irving Independent School District|Irving Independent School District
+48|24450|Italy Independent School District|Italy Independent School District
+48|24480|Itasca Independent School District|Itasca Independent School District
+48|24530|Jacksboro Independent School District|Jacksboro Independent School District
+48|24590|Jacksonville Independent School District|Jacksonville Independent School District
+48|24600|Jarrell Independent School District|Jarrell Independent School District
+48|24630|Jasper Independent School District|Jasper Independent School District
+48|24660|Jayton-Girard Independent School District|Jayton-Girard Independent School District
+48|24730|Jefferson Independent School District|Jefferson Independent School District
+48|24750|Jim Hogg County Independent School District|Jim Hogg County Independent School District
+48|24780|Jim Ned Consolidated Independent School District|Jim Ned Consolidated Independent School District
+48|24810|Joaquin Independent School District|Joaquin Independent School District
+48|24840|Johnson City Independent School District|Johnson City Independent School District
+48|24900|Jonesboro Independent School District|Jonesboro Independent School District
+48|24930|Joshua Independent School District|Joshua Independent School District
+48|24960|Jourdanton Independent School District|Jourdanton Independent School District
+48|24990|Judson Independent School District|Judson Independent School District
+48|25020|Junction Independent School District|Junction Independent School District
+48|25110|Karnack Independent School District|Karnack Independent School District
+48|25140|Karnes City Independent School District|Karnes City Independent School District
+48|25170|Katy Independent School District|Katy Independent School District
+48|25200|Kaufman Independent School District|Kaufman Independent School District
+48|25230|Keene Independent School District|Keene Independent School District
+48|25260|Keller Independent School District|Keller Independent School District
+48|25290|Kelton Independent School District|Kelton Independent School District
+48|25320|Kemp Independent School District|Kemp Independent School District
+48|25380|Kendleton Independent School District|Kendleton Independent School District
+48|25410|Kenedy County-wide Common School District|Kenedy County-wide Common School District
+48|25440|Kenedy Independent School District|Kenedy Independent School District
+48|25470|Kennard Independent School District|Kennard Independent School District
+48|25500|Kennedale Independent School District|Kennedale Independent School District
+48|25530|Kerens Independent School District|Kerens Independent School District
+48|25560|Kermit Independent School District|Kermit Independent School District
+48|25590|Kerrville Independent School District|Kerrville Independent School District
+48|25620|Kilgore Independent School District|Kilgore Independent School District
+48|25660|Killeen Independent School District|Killeen Independent School District
+48|25680|Kingsville Independent School District|Kingsville Independent School District
+48|25710|Kirbyville Consolidated Independent School District|Kirbyville Consolidated Independent School District
+48|25740|Klein Independent School District|Klein Independent School District
+48|25790|Klondike Independent School District|Klondike Independent School District
+48|25800|Knippa Independent School District|Knippa Independent School District
+48|25870|Knox City-O'Brien Independent School District|Knox City-O'Brien Independent School District
+48|25890|Kopperl Independent School District|Kopperl Independent School District
+48|25920|Kountze Independent School District|Kountze Independent School District
+48|25950|Kress Independent School District|Kress Independent School District
+48|25980|Krum Independent School District|Krum Independent School District
+48|26040|La Feria Independent School District|La Feria Independent School District
+48|26070|La Gloria Independent School District|La Gloria Independent School District
+48|26100|La Grange Independent School District|La Grange Independent School District
+48|26130|La Joya Independent School District|La Joya Independent School District
+48|26160|La Marque Independent School District|La Marque Independent School District
+48|26190|La Porte Independent School District|La Porte Independent School District
+48|26220|Lapoynor Independent School District|Lapoynor Independent School District
+48|26250|La Pryor Independent School District|La Pryor Independent School District
+48|26280|La Vega Independent School District|La Vega Independent School District
+48|26310|La Vernia Independent School District|La Vernia Independent School District
+48|26340|La Villa Independent School District|La Villa Independent School District
+48|26370|Lackland Independent School District|Lackland Independent School District
+48|26400|Lago Vista Independent School District|Lago Vista Independent School District
+48|26430|Lake Dallas Independent School District|Lake Dallas Independent School District
+48|26470|Lake Travis Independent School District|Lake Travis Independent School District
+48|26490|Lake Worth Independent School District|Lake Worth Independent School District
+48|26580|Lamar Consolidated Independent School District|Lamar Consolidated Independent School District
+48|26610|Lamesa Independent School District|Lamesa Independent School District
+48|26640|Lampasas Independent School District|Lampasas Independent School District
+48|26670|Lancaster Independent School District|Lancaster Independent School District
+48|26700|Laneville Independent School District|Laneville Independent School District
+48|26790|Laredo Independent School District|Laredo Independent School District
+48|26910|Latexo Independent School District|Latexo Independent School District
+48|26970|Lazbuddie Independent School District|Lazbuddie Independent School District
+48|27000|Leakey Independent School District|Leakey Independent School District
+48|27030|Leander Independent School District|Leander Independent School District
+48|27060|Leary Independent School District|Leary Independent School District
+48|27090|Lefors Independent School District|Lefors Independent School District
+48|27120|Leggett Independent School District|Leggett Independent School District
+48|27180|Leon Independent School District|Leon Independent School District
+48|27210|Leonard Independent School District|Leonard Independent School District
+48|27240|Levelland Independent School District|Levelland Independent School District
+48|27270|Leveretts Chapel Independent School District|Leveretts Chapel Independent School District
+48|27300|Lewisville Independent School District|Lewisville Independent School District
+48|27330|Lexington Independent School District|Lexington Independent School District
+48|27390|Liberty-Eylau Independent School District|Liberty-Eylau Independent School District
+48|27420|Liberty Hill Independent School District|Liberty Hill Independent School District
+48|27450|Liberty Independent School District|Liberty Independent School District
+48|27510|Lindale Independent School District|Lindale Independent School District
+48|27540|Linden-Kildare Consolidated Independent School District|Linden-Kildare Consolidated Independent School District
+48|27570|Lindsay Independent School District|Lindsay Independent School District
+48|27600|Lingleville Independent School District|Lingleville Independent School District
+48|27630|Lipan Independent School District|Lipan Independent School District
+48|27690|Little Cypress-Mauriceville Consolidated Independent School District|Little Cypress-Mauriceville Consolidated Independent School District
+48|27720|Little Elm Independent School District|Little Elm Independent School District
+48|27750|Littlefield Independent School District|Littlefield Independent School District
+48|27780|Livingston Independent School District|Livingston Independent School District
+48|27810|Llano Independent School District|Llano Independent School District
+48|27870|Lockhart Independent School District|Lockhart Independent School District
+48|27890|Lockney Independent School District|Lockney Independent School District
+48|27930|Lohn Independent School District|Lohn Independent School District
+48|27960|Lometa Independent School District|Lometa Independent School District
+48|28020|Lone Oak Independent School District|Lone Oak Independent School District
+48|28110|Longview Independent School District|Longview Independent School District
+48|28140|Loop Independent School District|Loop Independent School District
+48|28170|Loraine Independent School District|Loraine Independent School District
+48|28200|Lorena Independent School District|Lorena Independent School District
+48|28230|Lorenzo Independent School District|Lorenzo Independent School District
+48|28290|Los Fresnos Consolidated Independent School District|Los Fresnos Consolidated Independent School District
+48|28350|Louise Independent School District|Louise Independent School District
+48|28380|Lovejoy Independent School District|Lovejoy Independent School District
+48|28410|Lovelady Independent School District|Lovelady Independent School District
+48|28500|Lubbock Independent School District|Lubbock Independent School District
+48|28530|Lueders-Avoca Independent School District|Lueders-Avoca Independent School District
+48|28550|Lufkin Independent School District|Lufkin Independent School District
+48|28590|Luling Independent School District|Luling Independent School District
+48|28620|Lyford Consolidated Independent School District|Lyford Consolidated Independent School District
+48|28650|Lytle Independent School District|Lytle Independent School District
+48|28680|Mabank Independent School District|Mabank Independent School District
+48|28710|Madisonville Consolidated Independent School District|Madisonville Consolidated Independent School District
+48|28740|Magnolia Independent School District|Magnolia Independent School District
+48|28780|Malakoff Independent School District|Malakoff Independent School District
+48|28800|Malone Independent School District|Malone Independent School District
+48|28830|Malta Independent School District|Malta Independent School District
+48|28890|Manor Independent School District|Manor Independent School District
+48|28920|Mansfield Independent School District|Mansfield Independent School District
+48|28980|Marathon Independent School District|Marathon Independent School District
+48|29010|Marble Falls Independent School District|Marble Falls Independent School District
+48|29040|Marfa Independent School District|Marfa Independent School District
+48|29100|Marion Independent School District|Marion Independent School District
+48|29130|Marlin Independent School District|Marlin Independent School District
+48|29160|Marshall Independent School District|Marshall Independent School District
+48|29190|Mart Independent School District|Mart Independent School District
+48|29220|Martins Mill Independent School District|Martins Mill Independent School District
+48|29250|Martinsville Independent School District|Martinsville Independent School District
+48|29280|Mason Independent School District|Mason Independent School District
+48|29370|Matagorda Independent School District|Matagorda Independent School District
+48|29400|Mathis Independent School District|Mathis Independent School District
+48|29460|Maud Independent School District|Maud Independent School District
+48|29520|May Independent School District|May Independent School District
+48|29580|Maypearl Independent School District|Maypearl Independent School District
+48|29670|McAllen Independent School District|McAllen Independent School District
+48|29700|McCamey Independent School District|McCamey Independent School District
+48|29820|McGregor Independent School District|McGregor Independent School District
+48|29850|McKinney Independent School District|McKinney Independent School District
+48|29880|McLean Independent School District|McLean Independent School District
+48|29910|McLeod Independent School District|McLeod Independent School District
+48|29940|McMullen County Independent School District|McMullen County Independent School District
+48|30000|Meadow Independent School District|Meadow Independent School District
+48|30030|Medina Independent School District|Medina Independent School District
+48|30060|Medina Valley Independent School District|Medina Valley Independent School District
+48|30120|Melissa Independent School District|Melissa Independent School District
+48|30180|Memphis Independent School District|Memphis Independent School District
+48|30210|Menard Independent School District|Menard Independent School District
+48|30250|Mercedes Independent School District|Mercedes Independent School District
+48|30300|Meridian Independent School District|Meridian Independent School District
+48|30340|Merkel Independent School District|Merkel Independent School District
+48|30360|Irion County Independent School District|Irion County Independent School District
+48|30390|Mesquite Independent School District|Mesquite Independent School District
+48|30420|Mexia Independent School District|Mexia Independent School District
+48|30450|Meyersville Independent School District|Meyersville Independent School District
+48|30480|Miami Independent School District|Miami Independent School District
+48|30570|Midland Independent School District|Midland Independent School District
+48|30600|Midlothian Independent School District|Midlothian Independent School District
+48|30640|Midway Independent School District|Midway Independent School District
+48|30660|Midway Independent School District|Midway Independent School District
+48|30690|Milano Independent School District|Milano Independent School District
+48|30720|Mildred Independent School District|Mildred Independent School District
+48|30750|Miles Independent School District|Miles Independent School District
+48|30780|Milford Independent School District|Milford Independent School District
+48|30810|Miller Grove Independent School District|Miller Grove Independent School District
+48|30870|Millsap Independent School District|Millsap Independent School District
+48|30930|Mineola Independent School District|Mineola Independent School District
+48|30950|Mineral Wells Independent School District|Mineral Wells Independent School District
+48|31040|Mission Consolidated Independent School District|Mission Consolidated Independent School District
+48|31170|Monahans-Wickett-Pyote Independent School District|Monahans-Wickett-Pyote Independent School District
+48|31200|Montague Independent School District|Montague Independent School District
+48|31230|Monte Alto Independent School District|Monte Alto Independent School District
+48|31260|Montgomery Independent School District|Montgomery Independent School District
+48|31290|Moody Independent School District|Moody Independent School District
+48|31320|Moran Independent School District|Moran Independent School District
+48|31380|Morgan Independent School District|Morgan Independent School District
+48|31410|Morgan Mill Independent School District|Morgan Mill Independent School District
+48|31470|Morton Independent School District|Morton Independent School District
+48|31500|Motley County Independent School District|Motley County Independent School District
+48|31560|Moulton Independent School District|Moulton Independent School District
+48|31620|Mount Calm Independent School District|Mount Calm Independent School District
+48|31650|Mount Enterprise Independent School District|Mount Enterprise Independent School District
+48|31760|Mount Pleasant Independent School District|Mount Pleasant Independent School District
+48|31770|Mount Vernon Independent School District|Mount Vernon Independent School District
+48|31860|Muenster Independent School District|Muenster Independent School District
+48|31890|Muleshoe Independent School District|Muleshoe Independent School District
+48|31920|Mullin Independent School District|Mullin Independent School District
+48|31950|Mumford Independent School District|Mumford Independent School District
+48|31970|Munday Consolidated Independent School District|Munday Consolidated Independent School District
+48|32010|Murchison Independent School District|Murchison Independent School District
+48|32090|Nacogdoches Independent School District|Nacogdoches Independent School District
+48|32130|Natalia Independent School District|Natalia Independent School District
+48|32160|Navarro Independent School District|Navarro Independent School District
+48|32190|Navasota Independent School District|Navasota Independent School District
+48|32220|Nazareth Independent School District|Nazareth Independent School District
+48|32250|Neches Independent School District|Neches Independent School District
+48|32280|Nederland Independent School District|Nederland Independent School District
+48|32310|Needville Independent School District|Needville Independent School District
+48|32340|New Boston Independent School District|New Boston Independent School District
+48|32370|New Braunfels Independent School District|New Braunfels Independent School District
+48|32400|New Caney Independent School District|New Caney Independent School District
+48|32430|New Deal Independent School District|New Deal Independent School District
+48|32460|New Diana Independent School District|New Diana Independent School District
+48|32490|New Home Independent School District|New Home Independent School District
+48|32610|New Summerfield Independent School District|New Summerfield Independent School District
+48|32640|New Waverly Independent School District|New Waverly Independent School District
+48|32700|Newcastle Independent School District|Newcastle Independent School District
+48|32730|Newton Independent School District|Newton Independent School District
+48|32740|Nixon-Smiley Consolidated Independent School District|Nixon-Smiley Consolidated Independent School District
+48|32790|Nocona Independent School District|Nocona Independent School District
+48|32880|Nordheim Independent School District|Nordheim Independent School District
+48|32910|Normangee Independent School District|Normangee Independent School District
+48|32940|North East Independent School District|North East Independent School District
+48|32970|North Hopkins Independent School District|North Hopkins Independent School District
+48|33010|North Lamar Independent School District|North Lamar Independent School District
+48|33030|North Zulch Independent School District|North Zulch Independent School District
+48|33060|North Forest Independent School District|North Forest Independent School District
+48|33090|Northside Independent School District|Northside Independent School District
+48|33120|Northside Independent School District|Northside Independent School District
+48|33180|Northwest Independent School District|Northwest Independent School District
+48|33210|Novice Independent School District|Novice Independent School District
+48|33240|Nueces Canyon Consolidated Independent School District|Nueces Canyon Consolidated Independent School District
+48|33270|Nursery Independent School District|Nursery Independent School District
+48|33340|Oakwood Independent School District|Oakwood Independent School District
+48|33360|Odem-Edroy Independent School District|Odem-Edroy Independent School District
+48|33390|O'Donnell Independent School District|O'Donnell Independent School District
+48|33420|Oglesby Independent School District|Oglesby Independent School District
+48|33570|Olfen Independent School District|Olfen Independent School District
+48|33630|Olney Independent School District|Olney Independent School District
+48|33660|Olton Independent School District|Olton Independent School District
+48|33690|Onalaska Independent School District|Onalaska Independent School District
+48|33720|Orange Grove Independent School District|Orange Grove Independent School District
+48|33780|Orangefield Independent School District|Orangefield Independent School District
+48|33840|Ore City Independent School District|Ore City Independent School District
+48|33870|Overton Independent School District|Overton Independent School District
+48|33900|Paducah Independent School District|Paducah Independent School District
+48|33960|Paint Creek Independent School District|Paint Creek Independent School District
+48|33980|Paint Rock Independent School District|Paint Rock Independent School District
+48|34020|Palacios Independent School District|Palacios Independent School District
+48|34050|Palestine Independent School District|Palestine Independent School District
+48|34110|Palmer Independent School District|Palmer Independent School District
+48|34140|Palo Pinto Independent School District|Palo Pinto Independent School District
+48|34170|Pampa Independent School District|Pampa Independent School District
+48|34230|Panhandle Independent School District|Panhandle Independent School District
+48|34260|Paradise Independent School District|Paradise Independent School District
+48|34290|Paris Independent School District|Paris Independent School District
+48|34320|Pasadena Independent School District|Pasadena Independent School District
+48|34380|Patton Springs Independent School District|Patton Springs Independent School District
+48|34410|Pawnee Independent School District|Pawnee Independent School District
+48|34440|Pearland Independent School District|Pearland Independent School District
+48|34470|Pearsall Independent School District|Pearsall Independent School District
+48|34500|Peaster Independent School District|Peaster Independent School District
+48|34550|Pecos-Barstow-Toyah Independent School District|Pecos-Barstow-Toyah Independent School District
+48|34560|Penelope Independent School District|Penelope Independent School District
+48|34630|Perrin-Whitt Consolidated Independent School District|Perrin-Whitt Consolidated Independent School District
+48|34650|Perryton Independent School District|Perryton Independent School District
+48|34680|Petersburg Independent School District|Petersburg Independent School District
+48|34710|Petrolia Independent School District|Petrolia Independent School District
+48|34770|Pettus Independent School District|Pettus Independent School District
+48|34800|Pewitt Consolidated Independent School District|Pewitt Consolidated Independent School District
+48|34830|Pflugerville Independent School District|Pflugerville Independent School District
+48|34860|Pharr-San Juan-Alamo Independent School District|Pharr-San Juan-Alamo Independent School District
+48|34920|Pilot Point Independent School District|Pilot Point Independent School District
+48|34980|Pine Tree Independent School District|Pine Tree Independent School District
+48|35010|Pittsburg Independent School District|Pittsburg Independent School District
+48|35040|Plains Independent School District|Plains Independent School District
+48|35070|Plainview Independent School District|Plainview Independent School District
+48|35100|Plano Independent School District|Plano Independent School District
+48|35130|Pleasant Grove Independent School District|Pleasant Grove Independent School District
+48|35190|Pleasanton Independent School District|Pleasanton Independent School District
+48|35250|Point Isabel Independent School District|Point Isabel Independent School District
+48|35310|Ponder Independent School District|Ponder Independent School District
+48|35340|Poolville Independent School District|Poolville Independent School District
+48|35370|Port Aransas Independent School District|Port Aransas Independent School District
+48|35400|Port Arthur Independent School District|Port Arthur Independent School District
+48|35430|Port Neches-Groves Independent School District|Port Neches-Groves Independent School District
+48|35490|Post Independent School District|Post Independent School District
+48|35520|Poteet Independent School District|Poteet Independent School District
+48|35550|Poth Independent School District|Poth Independent School District
+48|35560|Highland Park Independent School District|Highland Park Independent School District
+48|35570|Bushland Independent School District|Bushland Independent School District
+48|35580|Pottsboro Independent School District|Pottsboro Independent School District
+48|35700|Prairie Lea Independent School District|Prairie Lea Independent School District
+48|35730|Prairie Valley Independent School District|Prairie Valley Independent School District
+48|35740|Prairiland Independent School District|Prairiland Independent School District
+48|35760|Premont Independent School District|Premont Independent School District
+48|35800|Presidio Independent School District|Presidio Independent School District
+48|35820|Priddy Independent School District|Priddy Independent School District
+48|35850|Princeton Independent School District|Princeton Independent School District
+48|35890|Pringle-Morse Consolidated Independent School District|Pringle-Morse Consolidated Independent School District
+48|35910|Progreso Independent School District|Progreso Independent School District
+48|36000|Prosper Independent School District|Prosper Independent School District
+48|36180|Quanah Independent School District|Quanah Independent School District
+48|36210|Queen City Independent School District|Queen City Independent School District
+48|36240|Quinlan Independent School District|Quinlan Independent School District
+48|36300|Quitman Independent School District|Quitman Independent School District
+48|36360|Rains Independent School District|Rains Independent School District
+48|36390|Ralls Independent School District|Ralls Independent School District
+48|36420|Ramirez Common School District|Ramirez Common School District
+48|36450|Randolph Field Independent School District|Randolph Field Independent School District
+48|36480|Ranger Independent School District|Ranger Independent School District
+48|36510|Rankin Independent School District|Rankin Independent School District
+48|36540|Raymondville Independent School District|Raymondville Independent School District
+48|36570|Reagan County Independent School District|Reagan County Independent School District
+48|36630|Red Lick Independent School District|Red Lick Independent School District
+48|36660|Red Oak Independent School District|Red Oak Independent School District
+48|36750|Redwater Independent School District|Redwater Independent School District
+48|36780|Refugio Independent School District|Refugio Independent School District
+48|36930|Ricardo Independent School District|Ricardo Independent School District
+48|36960|Rice Independent School District|Rice Independent School District
+48|36970|Rice Consolidated Independent School District|Rice Consolidated Independent School District
+48|36990|Richards Independent School District|Richards Independent School District
+48|37020|Richardson Independent School District|Richardson Independent School District
+48|37080|Richland Springs Independent School District|Richland Springs Independent School District
+48|37110|Riesel Independent School District|Riesel Independent School District
+48|37140|Rio Grande City Consolidated Independent School District|Rio Grande City Consolidated Independent School District
+48|37170|Rio Hondo Independent School District|Rio Hondo Independent School District
+48|37200|Rio Vista Independent School District|Rio Vista Independent School District
+48|37230|Rising Star Independent School District|Rising Star Independent School District
+48|37260|River Road Independent School District|River Road Independent School District
+48|37320|Riviera Independent School District|Riviera Independent School District
+48|37380|Robert Lee Independent School District|Robert Lee Independent School District
+48|37410|Robinson Independent School District|Robinson Independent School District
+48|37440|Robstown Independent School District|Robstown Independent School District
+48|37470|Roby Consolidated Independent School District|Roby Consolidated Independent School District
+48|37500|Rochelle Independent School District|Rochelle Independent School District
+48|37590|Rockdale Independent School District|Rockdale Independent School District
+48|37650|Rockwall Independent School District|Rockwall Independent School District
+48|37710|Rogers Independent School District|Rogers Independent School District
+48|37740|Roma Independent School District|Roma Independent School District
+48|37800|Roosevelt Independent School District|Roosevelt Independent School District
+48|37830|Ropes Independent School District|Ropes Independent School District
+48|37860|Roscoe Independent School District|Roscoe Independent School District
+48|37900|Rosebud-Lott Independent School District|Rosebud-Lott Independent School District
+48|38040|Rotan Independent School District|Rotan Independent School District
+48|38080|Round Rock Independent School District|Round Rock Independent School District
+48|38100|Round Top-Carmine Independent School District|Round Top-Carmine Independent School District
+48|38160|Roxton Independent School District|Roxton Independent School District
+48|38190|Royal Independent School District|Royal Independent School District
+48|38220|Royse City Independent School District|Royse City Independent School District
+48|38280|Rule Independent School District|Rule Independent School District
+48|38310|Runge Independent School District|Runge Independent School District
+48|38360|Rusk Independent School District|Rusk Independent School District
+48|38400|S and S Consolidated Independent School District|S and S Consolidated Independent School District
+48|38430|Sabinal Independent School District|Sabinal Independent School District
+48|38460|Sabine Independent School District|Sabine Independent School District
+48|38490|Sabine Pass Independent School District|Sabine Pass Independent School District
+48|38520|St. Jo Independent School District|St. Jo Independent School District
+48|38580|Salado Independent School District|Salado Independent School District
+48|38610|Saltillo Independent School District|Saltillo Independent School District
+48|38640|Sam Rayburn Independent School District|Sam Rayburn Independent School District
+48|38670|Samnorwood Independent School District|Samnorwood Independent School District
+48|38700|San Angelo Independent School District|San Angelo Independent School District
+48|38730|San Antonio Independent School District|San Antonio Independent School District
+48|38760|San Augustine Independent School District|San Augustine Independent School District
+48|38790|San Benito Consolidated Independent School District|San Benito Consolidated Independent School District
+48|38820|San Diego Independent School District|San Diego Independent School District
+48|38850|San Elizario Independent School District|San Elizario Independent School District
+48|38900|San Felipe-Del Rio Consolidated Independent School District|San Felipe-Del Rio Consolidated Independent School District
+48|38910|San Isidro Independent School District|San Isidro Independent School District
+48|38970|San Marcos Consolidated Independent School District|San Marcos Consolidated Independent School District
+48|39000|San Perlita Independent School District|San Perlita Independent School District
+48|39030|San Saba Independent School District|San Saba Independent School District
+48|39060|San Vincente Independent School District|San Vincente Independent School District
+48|39120|Sands Consolidated Independent School District|Sands Consolidated Independent School District
+48|39150|Sanford-Fritch Independent School District|Sanford-Fritch Independent School District
+48|39180|Sanger Independent School District|Sanger Independent School District
+48|39210|Santa Anna Independent School District|Santa Anna Independent School District
+48|39270|Santa Fe Independent School District|Santa Fe Independent School District
+48|39300|Santa Gertrudis Independent School District|Santa Gertrudis Independent School District
+48|39330|Santa Maria Independent School District|Santa Maria Independent School District
+48|39360|Santa Rosa Independent School District|Santa Rosa Independent School District
+48|39390|Santo Independent School District|Santo Independent School District
+48|39450|Savoy Independent School District|Savoy Independent School District
+48|39480|Schertz-Cibolo-Universal City Independent School District|Schertz-Cibolo-Universal City Independent School District
+48|39510|Schleicher Independent School District|Schleicher Independent School District
+48|39540|Schulenburg Independent School District|Schulenburg Independent School District
+48|39570|Scurry-Rosser Independent School District|Scurry-Rosser Independent School District
+48|39600|Seagraves Independent School District|Seagraves Independent School District
+48|39630|Sealy Independent School District|Sealy Independent School District
+48|39690|Seguin Independent School District|Seguin Independent School District
+48|39750|Seminole Independent School District|Seminole Independent School District
+48|39780|Seymour Independent School District|Seymour Independent School District
+48|39870|Shallowater Independent School District|Shallowater Independent School District
+48|39900|Shamrock Independent School District|Shamrock Independent School District
+48|39930|Sharyland Independent School District|Sharyland Independent School District
+48|39960|Shelbyville Independent School District|Shelbyville Independent School District
+48|39990|Sheldon Independent School District|Sheldon Independent School District
+48|40020|Shepherd Independent School District|Shepherd Independent School District
+48|40080|Sherman Independent School District|Sherman Independent School District
+48|40110|Shiner Independent School District|Shiner Independent School District
+48|40170|Sidney Independent School District|Sidney Independent School District
+48|40200|Sierra Blanca Independent School District|Sierra Blanca Independent School District
+48|40230|Silsbee Independent School District|Silsbee Independent School District
+48|40290|Silverton Independent School District|Silverton Independent School District
+48|40320|Simms Independent School District|Simms Independent School District
+48|40350|Sinton Independent School District|Sinton Independent School District
+48|40380|Sivells Bend Independent School District|Sivells Bend Independent School District
+48|40410|Skidmore-Tynan Independent School District|Skidmore-Tynan Independent School District
+48|40440|Slaton Independent School District|Slaton Independent School District
+48|40470|Slidell Independent School District|Slidell Independent School District
+48|40500|Slocum Independent School District|Slocum Independent School District
+48|40550|Smithville Independent School District|Smithville Independent School District
+48|40590|Smyer Independent School District|Smyer Independent School District
+48|40620|Snook Independent School District|Snook Independent School District
+48|40650|Snyder Independent School District|Snyder Independent School District
+48|40680|South San Antonio Independent School District|South San Antonio Independent School District
+48|40710|Socorro Independent School District|Socorro Independent School District
+48|40740|Somerset Independent School District|Somerset Independent School District
+48|40770|Somerville Independent School District|Somerville Independent School District
+48|40800|Sonora Independent School District|Sonora Independent School District
+48|40890|Southland Independent School District|Southland Independent School District
+48|40920|Southside Independent School District|Southside Independent School District
+48|40950|Southwest Independent School District|Southwest Independent School District
+48|41010|Spearman Independent School District|Spearman Independent School District
+48|41070|Splendora Independent School District|Splendora Independent School District
+48|41100|Spring Branch Independent School District|Spring Branch Independent School District
+48|41130|Spring Creek Independent School District|Spring Creek Independent School District
+48|41190|Spring Hill Independent School District|Spring Hill Independent School District
+48|41220|Spring Independent School District|Spring Independent School District
+48|41250|Springlake-Earth Independent School District|Springlake-Earth Independent School District
+48|41280|Springtown Independent School District|Springtown Independent School District
+48|41340|Spurger Independent School District|Spurger Independent School District
+48|41350|Stafford Municipal School District|Stafford Municipal School District
+48|41400|Stamford Independent School District|Stamford Independent School District
+48|41430|Stanton Independent School District|Stanton Independent School District
+48|41460|Star Independent School District|Star Independent School District
+48|41520|Stephenville Independent School District|Stephenville Independent School District
+48|41550|Sterling City Independent School District|Sterling City Independent School District
+48|41580|Plemons-Stinnett-Phillips Consolidated Independent School District|Plemons-Stinnett-Phillips Consolidated Independent School District
+48|41610|Stockdale Independent School District|Stockdale Independent School District
+48|41670|Stratford Independent School District|Stratford Independent School District
+48|41700|Strawn Independent School District|Strawn Independent School District
+48|41760|Sudan Independent School District|Sudan Independent School District
+48|41790|Sulphur Bluff Independent School District|Sulphur Bluff Independent School District
+48|41820|Sulphur Springs Independent School District|Sulphur Springs Independent School District
+48|41850|Sundown Independent School District|Sundown Independent School District
+48|41880|Sunnyvale Independent School District|Sunnyvale Independent School District
+48|41910|Sunray Independent School District|Sunray Independent School District
+48|41970|Sweeny Independent School District|Sweeny Independent School District
+48|42000|Sweet Home Independent School District|Sweet Home Independent School District
+48|42030|Sweetwater Independent School District|Sweetwater Independent School District
+48|42060|Taft Independent School District|Taft Independent School District
+48|42090|Tahoka Independent School District|Tahoka Independent School District
+48|42120|Rivercrest Independent School District|Rivercrest Independent School District
+48|42210|Tarkington Independent School District|Tarkington Independent School District
+48|42240|Tatum Independent School District|Tatum Independent School District
+48|42280|Taylor Independent School District|Taylor Independent School District
+48|42300|Teague Independent School District|Teague Independent School District
+48|42330|Temple Independent School District|Temple Independent School District
+48|42360|Tenaha Independent School District|Tenaha Independent School District
+48|42390|Terlingua Common School District|Terlingua Common School District
+48|42420|Terrell County Independent School District|Terrell County Independent School District
+48|42450|Terrell Independent School District|Terrell Independent School District
+48|42480|Texarkana Independent School District|Texarkana Independent School District
+48|42510|Texas City Independent School District|Texas City Independent School District
+48|42540|Texhoma Independent School District|Texhoma Independent School District
+48|42570|Texline Independent School District|Texline Independent School District
+48|42630|Thorndale Independent School District|Thorndale Independent School District
+48|42660|Thrall Independent School District|Thrall Independent School District
+48|42690|Three Rivers Independent School District|Three Rivers Independent School District
+48|42720|Three Way Independent School District|Three Way Independent School District
+48|42780|Throckmorton Independent School District|Throckmorton Independent School District
+48|42810|Tidehaven Independent School District|Tidehaven Independent School District
+48|42840|Timpson Independent School District|Timpson Independent School District
+48|42870|Tioga Independent School District|Tioga Independent School District
+48|42900|Tolar Independent School District|Tolar Independent School District
+48|42930|Tom Bean Independent School District|Tom Bean Independent School District
+48|42960|Tomball Independent School District|Tomball Independent School District
+48|42990|Tornillo Independent School District|Tornillo Independent School District
+48|43110|Trent Independent School District|Trent Independent School District
+48|43140|Trenton Independent School District|Trenton Independent School District
+48|43170|Trinidad Independent School District|Trinidad Independent School District
+48|43200|Trinity Independent School District|Trinity Independent School District
+48|43230|Troup Independent School District|Troup Independent School District
+48|43260|Troy Independent School District|Troy Independent School District
+48|43290|Westwood Independent School District|Westwood Independent School District
+48|43320|Tulia Independent School District|Tulia Independent School District
+48|43350|Tuloso-Midway Independent School District|Tuloso-Midway Independent School District
+48|43400|Turkey-Quitaque Independent School District|Turkey-Quitaque Independent School District
+48|43470|Tyler Independent School District|Tyler Independent School District
+48|43530|Union Grove Independent School District|Union Grove Independent School District
+48|43560|Union Hill Independent School District|Union Hill Independent School District
+48|43650|United Independent School District|United Independent School District
+48|43680|Utopia Independent School District|Utopia Independent School District
+48|43720|Uvalde Consolidated Independent School District|Uvalde Consolidated Independent School District
+48|43740|Valentine Independent School District|Valentine Independent School District
+48|43760|Valley Mills Independent School District|Valley Mills Independent School District
+48|43800|Valley View Independent School District|Valley View Independent School District
+48|43860|Valley View Independent School District|Valley View Independent School District
+48|43890|Van Alstyne Independent School District|Van Alstyne Independent School District
+48|43920|Van Independent School District|Van Independent School District
+48|43950|Van Vleck Independent School District|Van Vleck Independent School District
+48|43980|Vega Independent School District|Vega Independent School District
+48|44010|Venus Independent School District|Venus Independent School District
+48|44040|Veribest Independent School District|Veribest Independent School District
+48|44110|Vernon Independent School District|Vernon Independent School District
+48|44150|Victoria Independent School District|Victoria Independent School District
+48|44160|Vidor Independent School District|Vidor Independent School District
+48|44280|Waco Independent School District|Waco Independent School District
+48|44310|Waelder Independent School District|Waelder Independent School District
+48|44370|Walcott Independent School District|Walcott Independent School District
+48|44410|Wall Independent School District|Wall Independent School District
+48|44430|Waller Independent School District|Waller Independent School District
+48|44470|Brazos Independent School District|Brazos Independent School District
+48|44490|Walnut Bend Independent School District|Walnut Bend Independent School District
+48|44520|Walnut Springs Independent School District|Walnut Springs Independent School District
+48|44580|Warren Independent School District|Warren Independent School District
+48|44670|Waskom Independent School District|Waskom Independent School District
+48|44710|Water Valley Independent School District|Water Valley Independent School District
+48|44730|Waxahachie Independent School District|Waxahachie Independent School District
+48|44800|Weatherford Independent School District|Weatherford Independent School District
+48|44810|Webb Consolidated Independent School District|Webb Consolidated Independent School District
+48|44820|Weimar Independent School District|Weimar Independent School District
+48|44890|Wellington Independent School District|Wellington Independent School District
+48|44910|Wellman-Union Consolidated Independent School District|Wellman-Union Consolidated Independent School District
+48|44940|Wells Independent School District|Wells Independent School District
+48|44960|Weslaco Independent School District|Weslaco Independent School District
+48|45000|West Hardin County Consolidated Independent School District|West Hardin County Consolidated Independent School District
+48|45040|West Independent School District|West Independent School District
+48|45090|West Orange-Cove Consolidated Independent School District|West Orange-Cove Consolidated Independent School District
+48|45120|West Oso Independent School District|West Oso Independent School District
+48|45150|West Rusk Independent School District|West Rusk Independent School District
+48|45180|West Sabine Independent School District|West Sabine Independent School District
+48|45210|Westbrook Independent School District|Westbrook Independent School District
+48|45240|Westhoff Independent School District|Westhoff Independent School District
+48|45330|Westphalia Independent School District|Westphalia Independent School District
+48|45380|Wharton Independent School District|Wharton Independent School District
+48|45420|Wheeler Independent School District|Wheeler Independent School District
+48|45450|White Deer Independent School District|White Deer Independent School District
+48|45480|White Oak Independent School District|White Oak Independent School District
+48|45540|White Settlement Independent School District|White Settlement Independent School District
+48|45570|Whiteface Consolidated Independent School District|Whiteface Consolidated Independent School District
+48|45600|Whitehouse Independent School District|Whitehouse Independent School District
+48|45630|Whitesboro Independent School District|Whitesboro Independent School District
+48|45670|Whitewright Independent School District|Whitewright Independent School District
+48|45690|Whitharral Independent School District|Whitharral Independent School District
+48|45720|Whitney Independent School District|Whitney Independent School District
+48|45780|Wichita Falls Independent School District|Wichita Falls Independent School District
+48|45840|Wildorado Independent School District|Wildorado Independent School District
+48|45900|Willis Independent School District|Willis Independent School District
+48|45950|Wills Point Independent School District|Wills Point Independent School District
+48|45990|Wilson Independent School District|Wilson Independent School District
+48|46080|Windthorst Independent School District|Windthorst Independent School District
+48|46170|Wink-Loving Independent School District|Wink-Loving Independent School District
+48|46200|Winnsboro Independent School District|Winnsboro Independent School District
+48|46230|Winona Independent School District|Winona Independent School District
+48|46260|Winters Independent School District|Winters Independent School District
+48|46320|Woden Independent School District|Woden Independent School District
+48|46350|Wolfe City Independent School District|Wolfe City Independent School District
+48|46380|Woodsboro Independent School District|Woodsboro Independent School District
+48|46410|Woodson Independent School District|Woodson Independent School District
+48|46440|Woodville Independent School District|Woodville Independent School District
+48|46470|Wortham Independent School District|Wortham Independent School District
+48|46500|Wylie Independent School District|Wylie Independent School District
+48|46530|Wylie Independent School District|Wylie Independent School District
+48|46590|Yantis Independent School District|Yantis Independent School District
+48|46620|Yoakum Independent School District|Yoakum Independent School District
+48|46650|Yorktown Independent School District|Yorktown Independent School District
+48|46680|Ysleta Independent School District|Ysleta Independent School District
+48|46710|Zapata County Independent School District|Zapata County Independent School District
+48|46740|Zavalla Independent School District|Zavalla Independent School District
+48|46770|Zephyr Independent School District|Zephyr Independent School District
+48|99130|Benavides Independent School District|Benavides Independent School District

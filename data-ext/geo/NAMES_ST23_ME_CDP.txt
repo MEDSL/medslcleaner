@@ -1,0 +1,110 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+23|01360|Anson|Anson CDP
+23|01675|Ashland|Ashland CDP
+23|02830|Bar Harbor|Bar Harbor CDP
+23|04685|Berwick|Berwick CDP
+23|04965|Bingham|Bingham CDP
+23|05350|Blaine|Blaine CDP
+23|05665|Blue Hill|Blue Hill CDP
+23|06085|Boothbay Harbor|Boothbay Harbor CDP
+23|06330|Bowdoinham|Bowdoinham CDP
+23|07135|Bridgton|Bridgton CDP
+23|08395|Brunswick|Brunswick CDP
+23|08500|Brunswick Station|Brunswick Station CDP
+23|08780|Bucksport|Bucksport CDP
+23|09690|Camden|Camden CDP
+23|10320|Cape Neddick|Cape Neddick CDP
+23|11090|Casco|Casco CDP
+23|11230|Castine|Castine CDP
+23|12770|Chisholm|Chisholm CDP
+23|13435|Clinton|Clinton CDP
+23|14800|Cousins Island|Cousins Island CDP
+23|15500|Cumberland Center|Cumberland Center CDP
+23|16200|Damariscotta|Damariscotta CDP
+23|17495|Dexter|Dexter CDP
+23|17705|Dixfield|Dixfield CDP
+23|18230|Dover-Foxcroft|Dover-Foxcroft CDP
+23|19385|Eagle Lake|Eagle Lake CDP
+23|21065|East Millinocket|East Millinocket CDP
+23|24285|Fairfield|Fairfield CDP
+23|24480|Falmouth|Falmouth CDP
+23|24530|Falmouth Foreside|Falmouth Foreside CDP
+23|24635|Farmingdale|Farmingdale CDP
+23|24740|Farmington|Farmington CDP
+23|25580|Fort Fairfield|Fort Fairfield CDP
+23|25720|Fort Kent|Fort Kent CDP
+23|26490|Freeport|Freeport CDP
+23|26875|Fryeburg|Fryeburg CDP
+23|28205|Gorham|Gorham CDP
+23|28835|Gray|Gray CDP
+23|29500|Greenville|Greenville CDP
+23|30060|Guilford|Guilford CDP
+23|30760|Hampden|Hampden CDP
+23|31705|Hartland|Hartland CDP
+23|33945|Houlton|Houlton CDP
+23|34225|Howland|Howland CDP
+23|36500|Kennebunk|Kennebunk CDP
+23|36710|Kennebunkport|Kennebunkport CDP
+23|37235|Kittery|Kittery CDP
+23|37375|Kittery Point|Kittery Point CDP
+23|37795|Lake Arrowhead|Lake Arrowhead CDP
+23|39265|Limestone|Limestone CDP
+23|39440|Lincoln|Lincoln CDP
+23|40105|Lisbon Falls|Lisbon Falls CDP
+23|40350|Little Falls|Little Falls CDP
+23|40470|Littlejohn Island|Littlejohn Island CDP
+23|40735|Livermore Falls|Livermore Falls CDP
+23|41575|Lubec|Lubec CDP
+23|41925|Machias|Machias CDP
+23|42485|Madawaska|Madawaska CDP
+23|42625|Madison|Madison CDP
+23|43220|Mapleton|Mapleton CDP
+23|43675|Mars Hill|Mars Hill CDP
+23|44620|Mechanic Falls|Mechanic Falls CDP
+23|45250|Mexico|Mexico CDP
+23|45635|Milford|Milford CDP
+23|45845|Millinocket|Millinocket CDP
+23|45985|Milo|Milo CDP
+23|48050|Naples|Naples CDP
+23|48610|Newcastle|Newcastle CDP
+23|49100|Newport|Newport CDP
+23|49800|Norridgewock|Norridgewock CDP
+23|50290|North Berwick|North Berwick CDP
+23|53685|North Windham|North Windham CDP
+23|53965|Norway|Norway CDP
+23|54525|Oakland|Oakland CDP
+23|55120|Old Orchard Beach|Old Orchard Beach CDP
+23|55575|Orono|Orono CDP
+23|56240|Oxford|Oxford CDP
+23|58970|Pittsfield|Pittsfield CDP
+23|61735|Randolph|Randolph CDP
+23|62610|Richmond|Richmond CDP
+23|64255|Rumford|Rumford CDP
+23|65725|Sanford|Sanford CDP
+23|66110|Scarborough|Scarborough CDP
+23|66600|Searsport|Searsport CDP
+23|68875|Skowhegan|Skowhegan CDP
+23|70660|South Eliot|South Eliot CDP
+23|71780|South Paris|South Paris CDP
+23|72200|South Sanford|South Sanford CDP
+23|72830|Southwest Harbor|Southwest Harbor CDP
+23|72900|South Windham|South Windham CDP
+23|73285|Springvale|Springvale CDP
+23|73635|Standish|Standish CDP
+23|73985|Steep Falls|Steep Falls CDP
+23|76330|Thomaston|Thomaston CDP
+23|76925|Topsham|Topsham CDP
+23|78220|Unity|Unity CDP
+23|78535|Van Buren|Van Buren CDP
+23|79515|Waldoboro|Waldoboro CDP
+23|80250|Washburn|Washburn CDP
+23|83330|West Kennebunk|West Kennebunk CDP
+23|85815|Wilton|Wilton CDP
+23|86480|Winslow|Winslow CDP
+23|86620|Winter Harbor|Winter Harbor CDP
+23|86725|Winterport|Winterport CDP
+23|86935|Winthrop|Winthrop CDP
+23|87040|Wiscasset|Wiscasset CDP
+23|87250|Woodland|Woodland CDP
+23|87810|Yarmouth|Yarmouth CDP
+23|88160|York Harbor|York Harbor CDP

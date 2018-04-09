@@ -1,0 +1,539 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+48|01060|Abram|Abram CDP
+48|01390|Agua Dulce|Agua Dulce CDP
+48|01420|Aguilares|Aguilares CDP
+48|01500|Airport Heights|Airport Heights CDP
+48|01514|Airport Road Addition|Airport Road Addition CDP
+48|01696|Aldine|Aldine CDP
+48|01816|Alfred|Alfred CDP
+48|01858|Alice Acres|Alice Acres CDP
+48|02194|Alto Bonito Heights|Alto Bonito Heights CDP
+48|02286|Amada Acres|Amada Acres CDP
+48|02290|Amargosa|Amargosa CDP
+48|03008|Amaya|Amaya CDP
+48|03096|Amistad|Amistad CDP
+48|03126|Anacua|Anacua CDP
+48|04174|Arroyo Colorado Estates|Arroyo Colorado Estates CDP
+48|04176|Arroyo Gardens|Arroyo Gardens CDP
+48|04462|Atascocita|Atascocita CDP
+48|05180|Bacliff|Bacliff CDP
+48|05520|B and E|B and E CDP
+48|05576|Banquete|Banquete CDP
+48|05690|Barrera|Barrera CDP
+48|05696|Barrett|Barrett CDP
+48|05750|Barton Creek|Barton Creek CDP
+48|05924|Batesville|Batesville CDP
+48|07642|Benjamin Perez|Benjamin Perez CDP
+48|08164|Bigfoot|Bigfoot CDP
+48|08240|Big Thicket Lake Estates|Big Thicket Lake Estates CDP
+48|08410|Bixby|Bixby CDP
+48|08668|Blessing|Blessing CDP
+48|08800|Bloomington|Bloomington CDP
+48|08830|Blue Berry Hill|Blue Berry Hill CDP
+48|08908|Bluetown|Bluetown CDP
+48|09232|Boling|Boling CDP
+48|09250|Bolivar Peninsula|Bolivar Peninsula CDP
+48|09310|Bonanza Hills|Bonanza Hills CDP
+48|09598|Botines|Botines CDP
+48|09656|Box Canyon|Box Canyon CDP
+48|09796|Boys Ranch|Boys Ranch CDP
+48|10192|Briar|Briar CDP
+48|10336|Bristol|Bristol CDP
+48|10852|Brundage|Brundage CDP
+48|10876|Bruni|Bruni CDP
+48|10897|Brushy Creek|Brushy Creek CDP
+48|10984|Buchanan Dam|Buchanan Dam CDP
+48|10990|Buchanan Lake Village|Buchanan Lake Village CDP
+48|11102|Buena Vista|Buena Vista CDP
+48|11236|Buna|Buna CDP
+48|11626|Butterfield|Butterfield CDP
+48|11940|Callender Lake|Callender Lake CDP
+48|12010|Camargito|Camargito CDP
+48|12045|Cameron Park|Cameron Park CDP
+48|12226|Campo Verde|Campo Verde CDP
+48|12334|Camp Swift|Camp Swift CDP
+48|12502|Cantu Addition|Cantu Addition CDP
+48|12508|Canutillo|Canutillo CDP
+48|12562|Canyon Creek|Canyon Creek CDP
+48|12580|Canyon Lake|Canyon Lake CDP
+48|12600|Cape Royale|Cape Royale CDP
+48|12892|Carlsbad|Carlsbad CDP
+48|12982|Carrizo Hill|Carrizo Hill CDP
+48|13128|Casa Blanca|Casa Blanca CDP
+48|13150|Casas|Casas CDP
+48|13324|Catarina|Catarina CDP
+48|13570|Cedar Point|Cedar Point CDP
+48|13972|Central Gardens|Central Gardens CDP
+48|14038|Cesar Chavez|Cesar Chavez CDP
+48|14236|Channelview|Channelview CDP
+48|14266|Chaparrito|Chaparrito CDP
+48|14290|Chapeno|Chapeno CDP
+48|14692|Chilton|Chilton CDP
+48|14740|China Spring|China Spring CDP
+48|14872|Christoval|Christoval CDP
+48|14880|Chula Vista|Chula Vista CDP
+48|14881|Chula Vista|Chula Vista CDP
+48|14882|Chula Vista|Chula Vista CDP
+48|14927|Cienegas Terrace|Cienegas Terrace CDP
+48|14929|Cinco Ranch|Cinco Ranch CDP
+48|14986|Circle D-KC Estates|Circle D-KC Estates CDP
+48|15028|Citrus City|Citrus City CDP
+48|15628|Cloverleaf|Cloverleaf CDP
+48|16110|Colorado Acres|Colorado Acres CDP
+48|16228|Comfort|Comfort CDP
+48|16300|Concepcion|Concepcion CDP
+48|17236|Country Acres|Country Acres CDP
+48|17408|Coyanosa|Coyanosa CDP
+48|17426|Coyote Acres|Coyote Acres CDP
+48|17429|Coyote Flats|Coyote Flats CDP
+48|17756|Crosby|Crosby CDP
+48|17811|Cross Mountain|Cross Mountain CDP
+48|18104|Cuevitas|Cuevitas CDP
+48|18134|Cumings|Cumings CDP
+48|19108|Damon|Damon CDP
+48|19714|Del Mar Heights|Del Mar Heights CDP
+48|19732|Delmita|Delmita CDP
+48|19808|Del Sol|Del Sol CDP
+48|20212|Deweyville|Deweyville CDP
+48|20248|D'Hanis|D'Hanis CDP
+48|20734|Doffing|Doffing CDP
+48|20926|Doolittle|Doolittle CDP
+48|21283|Doyle|Doyle CDP
+48|21412|Driftwood|Driftwood CDP
+48|21958|East Alto Bonito|East Alto Bonito CDP
+48|22150|East Lopez|East Lopez CDP
+48|22593|Edgewater Estates|Edgewater Estates CDP
+48|22768|Edroy|Edroy CDP
+48|22810|Eidson Road|Eidson Road CDP
+48|22840|Elbert|Elbert CDP
+48|22853|El Brazil|El Brazil CDP
+48|22858|El Camino Angosto|El Camino Angosto CDP
+48|22892|El Castillo|El Castillo CDP
+48|22898|El Cenizo|El Cenizo CDP
+48|22920|El Chaparral|El Chaparral CDP
+48|23062|Elias-Fela Solis|Elias-Fela Solis CDP
+48|23080|El Indio|El Indio CDP
+48|23254|Elm Creek|Elm Creek CDP
+48|23278|El Mesquite|El Mesquite CDP
+48|23356|Elmo|Elmo CDP
+48|24013|El Quiote|El Quiote CDP
+48|24015|El Rancho Vela|El Rancho Vela CDP
+48|24018|El Refugio|El Refugio CDP
+48|24055|El Socio|El Socio CDP
+48|24158|Emerald Bay|Emerald Bay CDP
+48|24223|Encantada-Ranchito-El Calaboz|Encantada-Ranchito-El Calaboz CDP
+48|24252|Encino|Encino CDP
+48|24558|Escobar I|Escobar I CDP
+48|24738|Eugenio Saenz|Eugenio Saenz CDP
+48|24840|Evadale|Evadale CDP
+48|24894|Evergreen|Evergreen CDP
+48|25032|Fabens|Fabens CDP
+48|25038|Fabrica|Fabrica CDP
+48|25338|Falconaire|Falconaire CDP
+48|25344|Falcon Heights|Falcon Heights CDP
+48|25348|Falcon Lake Estates|Falcon Lake Estates CDP
+48|25352|Falcon Mesa|Falcon Mesa CDP
+48|25356|Falcon Village|Falcon Village CDP
+48|25397|Falman|Falman CDP
+48|25404|Fannett|Fannett CDP
+48|25656|Faysville|Faysville CDP
+48|25744|Fernando Salinas|Fernando Salinas CDP
+48|25795|Fifth Street|Fifth Street CDP
+48|26130|Flor del Rio|Flor del Rio CDP
+48|26220|Flowella|Flowella CDP
+48|26664|Fort Bliss|Fort Bliss CDP
+48|26680|Fort Clark Springs|Fort Clark Springs CDP
+48|26688|Fort Davis|Fort Davis CDP
+48|26724|Fort Hancock|Fort Hancock CDP
+48|26736|Fort Hood|Fort Hood CDP
+48|27102|Four Corners|Four Corners CDP
+48|27124|Four Points|Four Points CDP
+48|27144|Fowlerton|Fowlerton CDP
+48|27540|Fresno|Fresno CDP
+48|27744|Fronton|Fronton CDP
+48|27748|Fronton Ranchettes|Fronton Ranchettes CDP
+48|27972|Gail|Gail CDP
+48|28128|Garceno|Garceno CDP
+48|28152|Garciasville|Garciasville CDP
+48|28176|Garden City|Garden City CDP
+48|28200|Gardendale|Gardendale CDP
+48|28320|Garfield|Garfield CDP
+48|29114|Garza-Salinas II|Garza-Salinas II CDP
+48|29384|Geronimo|Geronimo CDP
+48|29612|Girard|Girard CDP
+48|29912|Glidden|Glidden CDP
+48|30422|Grand Acres|Grand Acres CDP
+48|30629|Grape Creek|Grape Creek CDP
+48|30806|Greatwood|Greatwood CDP
+48|30890|Green Valley Farms|Green Valley Farms CDP
+48|31442|Guadalupe-Guerra|Guadalupe-Guerra CDP
+48|31484|Guerra|Guerra CDP
+48|31640|Guthrie|Guthrie CDP
+48|31646|Gutierrez|Gutierrez CDP
+48|32300|Hargill|Hargill CDP
+48|32456|Harper|Harper CDP
+48|32612|Hartley|Hartley CDP
+48|32792|Havana|Havana CDP
+48|32910|H. Cuellar Estates|H. Cuellar Estates CDP
+48|33008|Hebbronville|Hebbronville CDP
+48|33092|Heidelberg|Heidelberg CDP
+48|33356|Hermleigh|Hermleigh CDP
+48|33836|Highlands|Highlands CDP
+48|34105|Hillside Acres|Hillside Acres CDP
+48|34130|Hilltop|Hilltop CDP
+48|34133|Hilltop|Hilltop CDP
+48|34136|Hilltop Lakes|Hilltop Lakes CDP
+48|34478|Holiday Beach|Holiday Beach CDP
+48|34586|Holly Lake Ranch|Holly Lake Ranch CDP
+48|34671|Homestead Meadows North|Homestead Meadows North CDP
+48|34673|Homestead Meadows South|Homestead Meadows South CDP
+48|34856|Hornsby Bend|Hornsby Bend CDP
+48|34865|Horseshoe Bend|Horseshoe Bend CDP
+48|35253|Hudson Bend|Hudson Bend CDP
+48|35324|Hull|Hull CDP
+48|35420|Hungerford|Hungerford CDP
+48|35684|Iago|Iago CDP
+48|35754|Iglesia Antigua|Iglesia Antigua CDP
+48|35828|Imperial|Imperial CDP
+48|35915|Indian Hills|Indian Hills CDP
+48|35954|Indian Springs|Indian Springs CDP
+48|35966|Indio|Indio CDP
+48|35996|Inez|Inez CDP
+48|37390|Jardin de San Julian|Jardin de San Julian CDP
+48|37665|JF Villarreal|JF Villarreal CDP
+48|37936|Jollyville|Jollyville CDP
+48|38168|Juarez|Juarez CDP
+48|38518|K-Bar Ranch|K-Bar Ranch CDP
+48|39292|Kingsbury|Kingsbury CDP
+48|39304|Kingsland|Kingsland CDP
+48|39664|Knippa|Knippa CDP
+48|39988|La Blanca|La Blanca CDP
+48|39994|La Carla|La Carla CDP
+48|40000|La Casita|La Casita CDP
+48|40018|La Chuparosa|La Chuparosa CDP
+48|40036|Lackland AFB|Lackland AFB CDP
+48|40100|La Coma|La Coma CDP
+48|40186|La Escondida|La Escondida CDP
+48|40188|La Esperanza|La Esperanza CDP
+48|40210|La Feria North|La Feria North CDP
+48|40258|Lago|Lago CDP
+48|40270|Lago Vista|Lago Vista CDP
+48|40300|Laguna Heights|Laguna Heights CDP
+48|40312|Laguna Park|Laguna Park CDP
+48|40320|Laguna Seca|Laguna Seca CDP
+48|40342|La Homa|La Homa CDP
+48|40456|Lake Brownwood|Lake Brownwood CDP
+48|40462|Lake Bryan|Lake Bryan CDP
+48|40468|Lake Cherokee|Lake Cherokee CDP
+48|40475|Lake Colorado City|Lake Colorado City CDP
+48|40522|Lake Dunlap|Lake Dunlap CDP
+48|40576|Lakehills|Lakehills CDP
+48|40624|Lake Kiowa|Lake Kiowa CDP
+48|40674|Lake Medina Shores|Lake Medina Shores CDP
+48|40676|Lake Meredith Estates|Lake Meredith Estates CDP
+48|40714|Lakeshore Gardens-Hidden Acres|Lakeshore Gardens-Hidden Acres CDP
+48|40966|Lake View|Lake View CDP
+48|41086|La Loma de Falcon|La Loma de Falcon CDP
+48|41092|Lamar|Lamar CDP
+48|41170|La Minita|La Minita CDP
+48|41404|Lantana|Lantana CDP
+48|41416|La Paloma|La Paloma CDP
+48|41420|La Paloma Addition|La Paloma Addition CDP
+48|41422|La Paloma-Lost Creek|La Paloma-Lost Creek CDP
+48|41424|La Paloma Ranchettes|La Paloma Ranchettes CDP
+48|41449|La Presa|La Presa CDP
+48|41452|La Pryor|La Pryor CDP
+48|41458|La Puerta|La Puerta CDP
+48|41473|Laredo Ranchettes|Laredo Ranchettes CDP
+48|41475|Laredo Ranchettes West|Laredo Ranchettes West CDP
+48|41503|La Rosita|La Rosita CDP
+48|41542|Lasana|Lasana CDP
+48|41548|Lasara|Lasara CDP
+48|41565|Las Haciendas|Las Haciendas CDP
+48|41566|Las Lomas|Las Lomas CDP
+48|41569|Las Lomitas|Las Lomitas CDP
+48|41579|Las Palmas|Las Palmas CDP
+48|41580|Las Palmas II|Las Palmas II CDP
+48|41582|Las Pilas|Las Pilas CDP
+48|41583|Las Quintas Fronterizas|Las Quintas Fronterizas CDP
+48|41660|La Tina Ranch|La Tina Ranch CDP
+48|41704|Laughlin AFB|Laughlin AFB CDP
+48|41728|Laureles|Laureles CDP
+48|41782|La Victoria|La Victoria CDP
+48|42256|Leming|Leming CDP
+48|42616|Liberty City|Liberty City CDP
+48|42874|Lindsay|Lindsay CDP
+48|42916|Linn|Linn CDP
+48|42952|Lipscomb|Lipscomb CDP
+48|43150|Llano Grande|Llano Grande CDP
+48|43432|Lolita|Lolita CDP
+48|43458|Loma Grande|Loma Grande CDP
+48|43460|Loma Linda|Loma Linda CDP
+48|43462|Loma Linda East|Loma Linda East CDP
+48|43463|Loma Linda East|Loma Linda East CDP
+48|43465|Loma Linda West|Loma Linda West CDP
+48|43474|Loma Vista|Loma Vista CDP
+48|43822|Longoria|Longoria CDP
+48|43948|Loop|Loop CDP
+48|43960|Lopeño|Lopeño CDP
+48|43972|Lopezville|Lopezville CDP
+48|44038|Los Altos|Los Altos CDP
+48|44044|Los Alvarez|Los Alvarez CDP
+48|44062|Los Angeles|Los Angeles CDP
+48|44072|Los Arcos|Los Arcos CDP
+48|44075|Los Arrieros|Los Arrieros CDP
+48|44076|Los Barreras|Los Barreras CDP
+48|44078|Los Centenarios|Los Centenarios CDP
+48|44079|Los Corralitos|Los Corralitos CDP
+48|44104|Los Ebanos|Los Ebanos CDP
+48|44110|Los Ebanos|Los Ebanos CDP
+48|44120|Los Fresnos|Los Fresnos CDP
+48|44123|Los Huisaches|Los Huisaches CDP
+48|44142|Los Lobos|Los Lobos CDP
+48|44145|Los Minerales|Los Minerales CDP
+48|44146|Los Nopalitos|Los Nopalitos CDP
+48|44166|Lost Creek|Lost Creek CDP
+48|44167|Los Veteranos I|Los Veteranos I CDP
+48|44168|Los Veteranos II|Los Veteranos II CDP
+48|44212|Louise|Louise CDP
+48|44344|Lozano|Lozano CDP
+48|45564|McDade|McDade CDP
+48|45576|Macdona|Macdona CDP
+48|45750|McKinney Acres|McKinney Acres CDP
+48|45948|McQueeney|McQueeney CDP
+48|46308|Manchaca|Manchaca CDP
+48|46492|Manuel Garcia|Manuel Garcia CDP
+48|46494|Manuel Garcia II|Manuel Garcia II CDP
+48|46572|Marathon|Marathon CDP
+48|46716|Markham|Markham CDP
+48|46854|Martinez|Martinez CDP
+48|47016|Matagorda|Matagorda CDP
+48|47100|Mauriceville|Mauriceville CDP
+48|47406|Medina|Medina CDP
+48|47676|Mentone|Mentone CDP
+48|47898|Mesquite|Mesquite CDP
+48|48272|Midway North|Midway North CDP
+48|48280|Midway South|Midway South CDP
+48|48315|Miguel Barrera|Miguel Barrera CDP
+48|48318|Mikes|Mikes CDP
+48|48320|Mila Doce|Mila Doce CDP
+48|48324|Milam|Milam CDP
+48|48750|Mi Ranchito Estate|Mi Ranchito Estate CDP
+48|48756|Mirando City|Mirando City CDP
+48|48772|Mission Bend|Mission Bend CDP
+48|49032|Montague|Montague CDP
+48|49080|Monte Alto|Monte Alto CDP
+48|49224|Moore|Moore CDP
+48|49300|Moraida|Moraida CDP
+48|49314|Morales-Sanchez|Morales-Sanchez CDP
+48|49359|Morgan Farm|Morgan Farm CDP
+48|49411|Morning Glory|Morning Glory CDP
+48|49440|Morse|Morse CDP
+48|50058|Muniz|Muniz CDP
+48|50092|Murillo|Murillo CDP
+48|50232|Myrtle Springs|Myrtle Springs CDP
+48|50322|Narciso Pena|Narciso Pena CDP
+48|50742|Netos|Netos CDP
+48|50924|New Falcon|New Falcon CDP
+48|51366|New Territory|New Territory CDP
+48|51552|Nina|Nina CDP
+48|51654|Nocona Hills|Nocona Hills CDP
+48|51852|Normanna|Normanna CDP
+48|51900|North Alamo|North Alamo CDP
+48|52068|North Escobares|North Escobares CDP
+48|52302|North Pearsall|North Pearsall CDP
+48|52362|Northridge|Northridge CDP
+48|52404|North San Pedro|North San Pedro CDP
+48|52992|Oakhurst|Oakhurst CDP
+48|53004|Oak Island|Oak Island CDP
+48|53212|Oak Trail Shores|Oak Trail Shores CDP
+48|53556|Oilton|Oilton CDP
+48|53718|Old Escobares|Old Escobares CDP
+48|53934|Olivarez|Olivarez CDP
+48|53946|Olivia Lopez de Gutierrez|Olivia Lopez de Gutierrez CDP
+48|53964|Olmito|Olmito CDP
+48|53970|Olmito and Olmito|Olmito and Olmito CDP
+48|54186|Orason|Orason CDP
+48|54509|Owl Ranch|Owl Ranch CDP
+48|54552|Ozona|Ozona CDP
+48|54558|Pablo Pena|Pablo Pena CDP
+48|54666|Paisano Park|Paisano Park CDP
+48|54810|Palmview South|Palmview South CDP
+48|54846|Palo Blanco|Palo Blanco CDP
+48|54868|Paloma Creek|Paloma Creek CDP
+48|54872|Paloma Creek South|Paloma Creek South CDP
+48|54876|Palo Pinto|Palo Pinto CDP
+48|56252|Pawnee|Pawnee CDP
+48|56462|Pecan Acres|Pecan Acres CDP
+48|56482|Pecan Grove|Pecan Grove CDP
+48|56498|Pecan Plantation|Pecan Plantation CDP
+48|56644|Pena|Pena CDP
+48|56804|Perezville|Perezville CDP
+48|56864|Perrin|Perrin CDP
+48|57116|Pettus|Pettus CDP
+48|57566|Pine Harbor|Pine Harbor CDP
+48|57596|Pinehurst|Pinehurst CDP
+48|57752|Pinewood Estates|Pinewood Estates CDP
+48|57932|Placedo|Placedo CDP
+48|58232|Pleasant Hill|Pleasant Hill CDP
+48|58850|Porter Heights|Porter Heights CDP
+48|58928|Port Mansfield|Port Mansfield CDP
+48|58952|Port O'Connor|Port O'Connor CDP
+48|59108|Potosi|Potosi CDP
+48|59156|Powderly|Powderly CDP
+48|59210|Prado Verde|Prado Verde CDP
+48|59420|Preston|Preston CDP
+48|59726|Providence|Providence CDP
+48|59794|Pueblo East|Pueblo East CDP
+48|59798|Pueblo Nuevo|Pueblo Nuevo CDP
+48|60020|Quail|Quail CDP
+48|60026|Quail Creek|Quail Creek CDP
+48|60092|Quemado|Quemado CDP
+48|60098|Quesada|Quesada CDP
+48|60278|Radar Base|Radar Base CDP
+48|60290|Rafael Pena|Rafael Pena CDP
+48|60380|Ramireno|Ramireno CDP
+48|60408|Ramirez-Perez|Ramirez-Perez CDP
+48|60422|Ramos|Ramos CDP
+48|60458|Ranchette Estates|Ranchette Estates CDP
+48|60478|Ranchitos Del Norte|Ranchitos Del Norte CDP
+48|60480|Ranchitos East|Ranchitos East CDP
+48|60482|Ranchitos Las Lomas|Ranchitos Las Lomas CDP
+48|60518|Rancho Alegre|Rancho Alegre CDP
+48|60529|Rancho Banquete|Rancho Banquete CDP
+48|60534|Rancho Chico|Rancho Chico CDP
+48|60539|Ranchos Penitas West|Ranchos Penitas West CDP
+48|60554|Rancho Viejo|Rancho Viejo CDP
+48|60608|Randolph AFB|Randolph AFB CDP
+48|60686|Ratamosa|Ratamosa CDP
+48|60932|Realitos|Realitos CDP
+48|61040|Redfield|Redfield CDP
+48|61076|Redford|Redford CDP
+48|61124|Redland|Redland CDP
+48|61352|Redwood|Redwood CDP
+48|61454|Regino Ramirez|Regino Ramirez CDP
+48|61466|Reid Hope King|Reid Hope King CDP
+48|61532|Relampago|Relampago CDP
+48|61568|Rendon|Rendon CDP
+48|61724|Ricardo|Ricardo CDP
+48|62292|Rivera|Rivera CDP
+48|62318|Rivereno|Rivereno CDP
+48|62468|Riviera|Riviera CDP
+48|63026|Roma Creek|Roma Creek CDP
+48|63332|Rosharon|Rosharon CDP
+48|63350|Rosita|Rosita CDP
+48|64244|St. Paul|St. Paul CDP
+48|64316|Salineño|Salineño CDP
+48|64322|Salineño North|Salineño North CDP
+48|64442|Sammy Martinez|Sammy Martinez CDP
+48|64448|Samnorwood|Samnorwood CDP
+48|64460|Sam Rayburn|Sam Rayburn CDP
+48|65048|San Carlos|San Carlos CDP
+48|65049|San Carlos I|San Carlos I CDP
+48|65050|San Carlos II|San Carlos II CDP
+48|65084|Sanderson|Sanderson CDP
+48|65168|Sandia|Sandia CDP
+48|65210|Sandoval|Sandoval CDP
+48|65240|Sand Springs|Sand Springs CDP
+48|65342|Sandy Hollow-Escondidas|Sandy Hollow-Escondidas CDP
+48|65360|San Elizario|San Elizario CDP
+48|65378|San Fernando|San Fernando CDP
+48|65432|San Isidro|San Isidro CDP
+48|65532|San Juan|San Juan CDP
+48|65564|San Leon|San Leon CDP
+48|65620|San Pedro|San Pedro CDP
+48|65678|Santa Anna|Santa Anna CDP
+48|65708|Santa Cruz|Santa Cruz CDP
+48|65744|Santa Maria|Santa Maria CDP
+48|65756|Santa Monica|Santa Monica CDP
+48|65774|Santa Rosa|Santa Rosa CDP
+48|65777|Santel|Santel CDP
+48|65792|San Ygnacio|San Ygnacio CDP
+48|65876|Sarita|Sarita CDP
+48|66000|Savannah|Savannah CDP
+48|66089|Scenic Oaks|Scenic Oaks CDP
+48|66248|Scissors|Scissors CDP
+48|66512|Sebastian|Sebastian CDP
+48|66536|Seco Mines|Seco Mines CDP
+48|66806|Serenada|Serenada CDP
+48|66848|Seth Ward|Seth Ward CDP
+48|67010|Shadybrook|Shadybrook CDP
+48|67082|Shady Hollow|Shady Hollow CDP
+48|67376|Sheldon|Sheldon CDP
+48|67554|Sherwood Shores|Sherwood Shores CDP
+48|67766|Sienna Plantation|Sienna Plantation CDP
+48|67772|Sierra Blanca|Sierra Blanca CDP
+48|67775|Siesta Acres|Siesta Acres CDP
+48|67778|Siesta Shores|Siesta Shores CDP
+48|68132|Skidmore|Skidmore CDP
+48|68678|Solis|Solis CDP
+48|68846|South Alamo|South Alamo CDP
+48|68966|South Fork Estates|South Fork Estates CDP
+48|69072|South La Paloma|South La Paloma CDP
+48|69194|South Point|South Point CDP
+48|69326|South Toledo Bend|South Toledo Bend CDP
+48|69380|Spade|Spade CDP
+48|69432|Sparks|Sparks CDP
+48|69596|Spring|Spring CDP
+48|69708|Spring Gardens|Spring Gardens CDP
+48|70460|Stonewall|Stonewall CDP
+48|70520|Stowell|Stowell CDP
+48|70688|Study Butte|Study Butte CDP
+48|71264|Sunset|Sunset CDP
+48|71274|Sunset|Sunset CDP
+48|71289|Sunset Acres|Sunset Acres CDP
+48|71696|Taft Southwest|Taft Southwest CDP
+48|71820|Tanquecitos South Acres|Tanquecitos South Acres CDP
+48|71824|Tanquecitos South Acres II|Tanquecitos South Acres II CDP
+48|72248|Terlingua|Terlingua CDP
+48|72656|The Woodlands|The Woodlands CDP
+48|72758|Thompsonville|Thompsonville CDP
+48|72902|Thunderbird Bay|Thunderbird Bay CDP
+48|72948|Tierra Bonita|Tierra Bonita CDP
+48|72950|Tierra Dorada|Tierra Dorada CDP
+48|72952|Tierra Grande|Tierra Grande CDP
+48|72954|Tierra Verde|Tierra Verde CDP
+48|72992|Tilden|Tilden CDP
+48|73057|Timberwood Park|Timberwood Park CDP
+48|73148|Tivoli|Tivoli CDP
+48|73376|Tornillo|Tornillo CDP
+48|73526|Tradewinds|Tradewinds CDP
+48|73562|Travis Ranch|Travis Ranch CDP
+48|73856|Tuleta|Tuleta CDP
+48|73904|Tulsita|Tulsita CDP
+48|74168|Tynan|Tynan CDP
+48|74576|Utopia|Utopia CDP
+48|74594|Uvalde Estates|Uvalde Estates CDP
+48|74667|Valle Hermoso|Valle Hermoso CDP
+48|74668|Valle Verde|Valle Verde CDP
+48|74670|Valle Vista|Valle Vista CDP
+48|74895|Val Verde Park|Val Verde Park CDP
+48|74984|Vanderbilt|Vanderbilt CDP
+48|75068|Van Vleck|Van Vleck CDP
+48|75432|Victoria Vera|Victoria Vera CDP
+48|75554|Villa del Sol|Villa del Sol CDP
+48|75614|Villa Pancho|Villa Pancho CDP
+48|75617|Villarreal|Villarreal CDP
+48|75626|Villa Verde|Villa Verde CDP
+48|76564|Warren|Warren CDP
+48|77080|Welch|Welch CDP
+48|77196|Wells Branch|Wells Branch CDP
+48|77336|West Alto Bonito|West Alto Bonito CDP
+48|77422|Westdale|Westdale CDP
+48|77490|Western Lake|Western Lake CDP
+48|77662|West Livingston|West Livingston CDP
+48|77680|Westminster|Westminster CDP
+48|77728|West Odessa|West Odessa CDP
+48|77866|West Sharyland|West Sharyland CDP
+48|78016|Westway|Westway CDP
+48|78040|Westwood Shores|Westwood Shores CDP
+48|79192|Wild Peach Village|Wild Peach Village CDP
+48|79204|Wildwood|Wildwood CDP
+48|79676|Windemere|Windemere CDP
+48|79792|Winnie|Winnie CDP
+48|80350|Wyldwood|Wyldwood CDP
+48|80686|Yznaga|Yznaga CDP
+48|80716|Zapata|Zapata CDP
+48|80722|Zapata Ranch|Zapata Ranch CDP
+48|80724|Zarate|Zarate CDP
+48|80836|Zuehl|Zuehl CDP

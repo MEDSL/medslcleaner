@@ -1,0 +1,4 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+36|19020|Bellmore-Merrick Central High School District|Bellmore-Merrick Central High School District
+36|26520|Sewanhaka Central High School District|Sewanhaka Central High School District
+36|29520|Valley Stream Central High School District|Valley Stream Central High School District

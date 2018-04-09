@@ -1,0 +1,348 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+47|00200|Adams|Adams city
+47|00240|Adamsville|Adamsville town
+47|00440|Alamo|Alamo town
+47|00540|Alcoa|Alcoa city
+47|00620|Alexandria|Alexandria town
+47|00640|Algood|Algood city
+47|00660|Allardt|Allardt city
+47|00940|Altamont|Altamont town
+47|01640|Ardmore|Ardmore city
+47|01740|Arlington|Arlington town
+47|02180|Ashland City|Ashland City town
+47|02320|Athens|Athens city
+47|02340|Atoka|Atoka town
+47|02380|Atwood|Atwood town
+47|02400|Auburntown|Auburntown town
+47|02780|Baileyton|Baileyton town
+47|03078|Baneberry|Baneberry city
+47|03440|Bartlett|Bartlett city
+47|03680|Baxter|Baxter town
+47|03760|Bean Station|Bean Station city
+47|04240|Beersheba Springs|Beersheba Springs town
+47|04460|Bell Buckle|Bell Buckle town
+47|04620|Belle Meade|Belle Meade city
+47|04720|Bells|Bells city
+47|05040|Benton|Benton town
+47|05140|Berry Hill|Berry Hill city
+47|05380|Bethel Springs|Bethel Springs town
+47|05860|Big Sandy|Big Sandy town
+47|06340|Blaine|Blaine city
+47|06960|Bluff City|Bluff City city
+47|07180|Bolivar|Bolivar city
+47|07840|Braden|Braden town
+47|07860|Bradford|Bradford town
+47|08280|Brentwood|Brentwood city
+47|08500|Brighton|Brighton town
+47|08540|Bristol|Bristol city
+47|08920|Brownsville|Brownsville city
+47|08960|Bruceton|Bruceton town
+47|09560|Bulls Gap|Bulls Gap town
+47|09860|Burlison|Burlison town
+47|09880|Burns|Burns town
+47|10180|Byrdstown|Byrdstown town
+47|10440|Calhoun|Calhoun town
+47|10560|Camden|Camden city
+47|11280|Carthage|Carthage town
+47|11360|Caryville|Caryville town
+47|11980|Cedar Hill|Cedar Hill city
+47|12100|Celina|Celina city
+47|12380|Centertown|Centertown town
+47|12420|Centerville|Centerville town
+47|12880|Chapel Hill|Chapel Hill town
+47|13020|Charleston|Charleston city
+47|13080|Charlotte|Charlotte town
+47|14000|Chattanooga|Chattanooga city
+47|14980|Church Hill|Church Hill city
+47|15140|Clarksburg|Clarksburg town
+47|15160|Clarksville|Clarksville city
+47|15400|Cleveland|Cleveland city
+47|15480|Clifton|Clifton city
+47|15580|Clinton|Clinton city
+47|15920|Coalmont|Coalmont city
+47|16300|Collegedale|Collegedale city
+47|16420|Collierville|Collierville town
+47|16480|Collinwood|Collinwood city
+47|16540|Columbia|Columbia city
+47|16920|Cookeville|Cookeville city
+47|16980|Coopertown|Coopertown town
+47|17000|Copperhill|Copperhill city
+47|17180|Cornersville|Cornersville town
+47|17340|Cottage Grove|Cottage Grove town
+47|17680|Covington|Covington city
+47|17700|Cowan|Cowan city
+47|17840|Crab Orchard|Crab Orchard city
+47|18420|Cross Plains|Cross Plains city
+47|18540|Crossville|Crossville city
+47|18620|Crump|Crump city
+47|18820|Cumberland City|Cumberland City town
+47|18880|Cumberland Gap|Cumberland Gap town
+47|19380|Dandridge|Dandridge town
+47|19700|Dayton|Dayton city
+47|19880|Decatur|Decatur town
+47|19900|Decaturville|Decaturville town
+47|19920|Decherd|Decherd city
+47|20620|Dickson|Dickson city
+47|21400|Dover|Dover city
+47|21420|Dowelltown|Dowelltown town
+47|21500|Doyle|Doyle town
+47|21540|Dresden|Dresden town
+47|21740|Ducktown|Ducktown city
+47|22000|Dunlap|Dunlap city
+47|22180|Dyer|Dyer city
+47|22200|Dyersburg|Dyersburg city
+47|22360|Eagleville|Eagleville city
+47|22720|East Ridge|East Ridge city
+47|22920|Eastview|Eastview town
+47|23500|Elizabethton|Elizabethton city
+47|23660|Elkton|Elkton city
+47|24040|Englewood|Englewood town
+47|24240|Enville|Enville town
+47|24320|Erin|Erin city
+47|24360|Erwin|Erwin town
+47|24440|Estill Springs|Estill Springs town
+47|24460|Ethridge|Ethridge town
+47|24480|Etowah|Etowah city
+47|25440|Fairview|Fairview city
+47|25760|Farragut|Farragut town
+47|25920|Fayetteville|Fayetteville city
+47|26160|Finger|Finger city
+47|27020|Forest Hills|Forest Hills city
+47|27740|Franklin|Franklin city
+47|27960|Friendship|Friendship city
+47|28060|Friendsville|Friendsville city
+47|28380|Gadsden|Gadsden town
+47|28420|Gainesboro|Gainesboro town
+47|28540|Gallatin|Gallatin city
+47|28560|Gallaway|Gallaway city
+47|28680|Garland|Garland town
+47|28740|Gates|Gates town
+47|28800|Gatlinburg|Gatlinburg city
+47|28960|Germantown|Germantown city
+47|29020|Gibson|Gibson town
+47|29160|Gilt Edge|Gilt Edge city
+47|29300|Gleason|Gleason town
+47|29920|Goodlettsville|Goodlettsville city
+47|30120|Gordonsville|Gordonsville town
+47|30280|Grand Junction|Grand Junction city
+47|30760|Graysville|Graysville town
+47|30880|Greenback|Greenback city
+47|30960|Greenbrier|Greenbrier town
+47|30980|Greeneville|Greeneville town
+47|31000|Greenfield|Greenfield city
+47|31490|Gruetli-Laager|Gruetli-Laager city
+47|31680|Guys|Guys town
+47|31820|Halls|Halls town
+47|32520|Harriman|Harriman city
+47|32640|Harrogate|Harrogate city
+47|32742|Hartsville/Trousdale County|Hartsville/Trousdale County
+47|33260|Henderson|Henderson city
+47|33280|Hendersonville|Hendersonville city
+47|33360|Henning|Henning town
+47|33400|Henry|Henry town
+47|33920|Hickory Valley|Hickory Valley town
+47|35160|Hohenwald|Hohenwald city
+47|35280|Hollow Rock|Hollow Rock town
+47|36000|Hornbeak|Hornbeak town
+47|36080|Hornsby|Hornsby town
+47|36460|Humboldt|Humboldt city
+47|36580|Huntingdon|Huntingdon town
+47|36600|Huntland|Huntland town
+47|36640|Huntsville|Huntsville town
+47|37360|Iron City|Iron City city
+47|37600|Jacksboro|Jacksboro town
+47|37640|Jackson|Jackson city
+47|37780|Jamestown|Jamestown city
+47|37820|Jasper|Jasper town
+47|37960|Jefferson City|Jefferson City city
+47|38020|Jellico|Jellico city
+47|38320|Johnson City|Johnson City city
+47|38540|Jonesborough|Jonesborough town
+47|39140|Kenton|Kenton town
+47|39400|Kimball|Kimball town
+47|39560|Kingsport|Kingsport city
+47|39620|Kingston|Kingston city
+47|39660|Kingston Springs|Kingston Springs town
+47|40000|Knoxville|Knoxville city
+47|40160|Lafayette|Lafayette city
+47|40180|La Follette|La Follette city
+47|40200|La Grange|La Grange town
+47|40240|Lake City|Lake City city
+47|40350|Lakeland|Lakeland city
+47|40540|Lakesite|Lakesite city
+47|40720|Lakewood|Lakewood city
+47|41200|La Vergne|La Vergne city
+47|41340|Lawrenceburg|Lawrenceburg city
+47|41520|Lebanon|Lebanon city
+47|41760|Lenoir City|Lenoir City city
+47|41860|Lewisburg|Lewisburg city
+47|41980|Lexington|Lexington city
+47|42040|Liberty|Liberty town
+47|42720|Linden|Linden town
+47|43140|Livingston|Livingston town
+47|43160|Lobelville|Lobelville city
+47|43640|Lookout Mountain|Lookout Mountain town
+47|43700|Loretto|Loretto city
+47|43780|Loudon|Loudon town
+47|43820|Louisville|Louisville city
+47|44300|Luttrell|Luttrell town
+47|44382|Lynchburg, Moore County|Lynchburg, Moore County metropolitan government
+47|44420|Lynnville|Lynnville town
+47|44840|McEwen|McEwen city
+47|44940|McKenzie|McKenzie city
+47|45000|McLemoresville|McLemoresville town
+47|45100|McMinnville|McMinnville city
+47|45320|Madisonville|Madisonville city
+47|45500|Manchester|Manchester city
+47|46240|Martin|Martin city
+47|46380|Maryville|Maryville city
+47|46420|Mason|Mason town
+47|46540|Maury City|Maury City town
+47|46700|Maynardville|Maynardville city
+47|47000|Medina|Medina city
+47|47020|Medon|Medon city
+47|48000|Memphis|Memphis city
+47|48180|Michie|Michie town
+47|48340|Middleton|Middleton city
+47|48660|Milan|Milan city
+47|48920|Milledgeville|Milledgeville town
+47|48980|Millersville|Millersville city
+47|49060|Millington|Millington city
+47|49360|Minor Hill|Minor Hill city
+47|49460|Mitchellville|Mitchellville city
+47|49740|Monteagle|Monteagle town
+47|49760|Monterey|Monterey town
+47|50220|Morrison|Morrison town
+47|50280|Morristown|Morristown city
+47|50300|Moscow|Moscow city
+47|50320|Mosheim|Mosheim town
+47|50400|Mountain City|Mountain City town
+47|50580|Mount Carmel|Mount Carmel town
+47|50780|Mount Juliet|Mount Juliet city
+47|51080|Mount Pleasant|Mount Pleasant city
+47|51540|Munford|Munford city
+47|51560|Murfreesboro|Murfreesboro city
+47|52006|Nashville-Davidson metropolitan government (balance)|Nashville-Davidson metropolitan government (balance)
+47|52400|Newbern|Newbern town
+47|52780|New Hope|New Hope city
+47|52820|New Johnsonville|New Johnsonville city
+47|52940|New Market|New Market town
+47|53000|Newport|Newport city
+47|53140|New Tazewell|New Tazewell town
+47|53380|Niota|Niota city
+47|53460|Nolensville|Nolensville town
+47|53580|Normandy|Normandy town
+47|53600|Norris|Norris city
+47|54280|Oakdale|Oakdale town
+47|54780|Oak Hill|Oak Hill city
+47|54920|Oakland|Oakland town
+47|55120|Oak Ridge|Oak Ridge city
+47|55240|Obion|Obion town
+47|55800|Oliver Springs|Oliver Springs town
+47|55860|Oneida|Oneida town
+47|56020|Orlinda|Orlinda city
+47|56040|Orme|Orme town
+47|56560|Palmer|Palmer town
+47|56720|Paris|Paris city
+47|56870|Parker's Crossroads|Parker's Crossroads city
+47|57040|Parrottsville|Parrottsville town
+47|57080|Parsons|Parsons city
+47|57480|Pegram|Pegram town
+47|57740|Petersburg|Petersburg town
+47|57900|Philadelphia|Philadelphia city
+47|58080|Pigeon Forge|Pigeon Forge city
+47|58120|Pikeville|Pikeville city
+47|58840|Piperton|Piperton city
+47|58940|Pittman Center|Pittman Center town
+47|59020|Plainview|Plainview city
+47|59240|Pleasant Hill|Pleasant Hill town
+47|59560|Pleasant View|Pleasant View city
+47|60280|Portland|Portland city
+47|60500|Powells Crossroads|Powells Crossroads town
+47|61040|Pulaski|Pulaski city
+47|61160|Puryear|Puryear city
+47|61520|Ramer|Ramer city
+47|61960|Red Bank|Red Bank city
+47|62000|Red Boiling Springs|Red Boiling Springs city
+47|63060|Ridgely|Ridgely town
+47|63080|Ridgeside|Ridgeside city
+47|63140|Ridgetop|Ridgetop city
+47|63340|Ripley|Ripley city
+47|63800|Rives|Rives town
+47|64160|Rockford|Rockford city
+47|64440|Rockwood|Rockwood city
+47|64820|Rogersville|Rogersville town
+47|65240|Rossville|Rossville town
+47|65760|Rutherford|Rutherford town
+47|65820|Rutledge|Rutledge town
+47|66160|St. Joseph|St. Joseph city
+47|66340|Saltillo|Saltillo town
+47|66360|Samburg|Samburg town
+47|66660|Sardis|Sardis town
+47|66680|Saulsbury|Saulsbury town
+47|66720|Savannah|Savannah city
+47|66880|Scotts Hill|Scotts Hill town
+47|66940|Selmer|Selmer town
+47|67120|Sevierville|Sevierville city
+47|67540|Sharon|Sharon town
+47|67760|Shelbyville|Shelbyville city
+47|68540|Signal Mountain|Signal Mountain town
+47|68560|Silerton|Silerton town
+47|69080|Slayden|Slayden town
+47|69320|Smithville|Smithville city
+47|69420|Smyrna|Smyrna town
+47|69460|Sneedville|Sneedville town
+47|69560|Soddy-Daisy|Soddy-Daisy city
+47|69620|Somerville|Somerville town
+47|69680|South Carthage|South Carthage town
+47|69900|South Fulton|South Fulton city
+47|70060|South Pittsburg|South Pittsburg city
+47|70180|Sparta|Sparta city
+47|70240|Spencer|Spencer town
+47|70400|Spring City|Spring City town
+47|70500|Springfield|Springfield city
+47|70580|Spring Hill|Spring Hill city
+47|70820|Stanton|Stanton town
+47|70840|Stantonville|Stantonville town
+47|72140|Sunbright|Sunbright city
+47|72380|Surgoinsville|Surgoinsville town
+47|72540|Sweetwater|Sweetwater city
+47|73120|Tazewell|Tazewell town
+47|73260|Tellico Plains|Tellico Plains town
+47|73460|Tennessee Ridge|Tennessee Ridge town
+47|73900|Thompson's Station|Thompson's Station town
+47|74100|Three Way|Three Way city
+47|74540|Tiptonville|Tiptonville town
+47|74640|Toone|Toone town
+47|74860|Townsend|Townsend city
+47|74880|Tracy City|Tracy City town
+47|75000|Trenton|Trenton city
+47|75100|Trezevant|Trezevant town
+47|75160|Trimble|Trimble town
+47|75240|Troy|Troy town
+47|75320|Tullahoma|Tullahoma city
+47|75560|Tusculum|Tusculum city
+47|75820|Unicoi|Unicoi town
+47|75940|Union City|Union City city
+47|76860|Vanleer|Vanleer town
+47|77400|Viola|Viola town
+47|77480|Vonore|Vonore town
+47|77540|Walden|Walden town
+47|78100|Wartburg|Wartburg city
+47|78120|Wartrace|Wartrace town
+47|78240|Watauga|Watauga city
+47|78320|Watertown|Watertown city
+47|78560|Waverly|Waverly city
+47|78600|Waynesboro|Waynesboro city
+47|79420|Westmoreland|Westmoreland town
+47|79980|White Bluff|White Bluff town
+47|80200|White House|White House city
+47|80360|White Pine|White Pine town
+47|80540|Whiteville|Whiteville town
+47|80620|Whitwell|Whitwell city
+47|81020|Williston|Williston city
+47|81080|Winchester|Winchester city
+47|81280|Winfield|Winfield town
+47|81560|Woodbury|Woodbury town
+47|81700|Woodland Mills|Woodland Mills city
+47|82360|Yorkville|Yorkville city

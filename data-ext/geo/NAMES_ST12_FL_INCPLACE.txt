@@ -1,0 +1,412 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+12|00375|Alachua|Alachua city
+12|00625|Alford|Alford town
+12|00950|Altamonte Springs|Altamonte Springs city
+12|01000|Altha|Altha town
+12|01475|Anna Maria|Anna Maria city
+12|01625|Apalachicola|Apalachicola city
+12|01700|Apopka|Apopka city
+12|01750|Arcadia|Arcadia city
+12|01775|Archer|Archer city
+12|02250|Astatula|Astatula town
+12|02400|Atlantic Beach|Atlantic Beach city
+12|02500|Atlantis|Atlantis city
+12|02550|Auburndale|Auburndale city
+12|02681|Aventura|Aventura city
+12|02750|Avon Park|Avon Park city
+12|03250|Baldwin|Baldwin town
+12|03275|Bal Harbour|Bal Harbour village
+12|03675|Bartow|Bartow city
+12|03725|Bascom|Bascom town
+12|03975|Bay Harbor Islands|Bay Harbor Islands town
+12|04150|Bay Lake|Bay Lake city
+12|04975|Bell|Bell town
+12|05075|Belleair|Belleair town
+12|05100|Belleair Beach|Belleair Beach city
+12|05125|Belleair Bluffs|Belleair Bluffs city
+12|05150|Belleair Shore|Belleair Shore town
+12|05200|Belle Glade|Belle Glade city
+12|05300|Belle Isle|Belle Isle city
+12|05375|Belleview|Belleview city
+12|06100|Beverly Beach|Beverly Beach town
+12|06600|Biscayne Park|Biscayne Park village
+12|06925|Blountstown|Blountstown city
+12|07300|Boca Raton|Boca Raton city
+12|07450|Bonifay|Bonifay city
+12|07525|Bonita Springs|Bonita Springs city
+12|07775|Bowling Green|Bowling Green city
+12|07875|Boynton Beach|Boynton Beach city
+12|07950|Bradenton|Bradenton city
+12|07975|Bradenton Beach|Bradenton Beach city
+12|08175|Branford|Branford town
+12|08575|Briny Breezes|Briny Breezes town
+12|08600|Bristol|Bristol city
+12|08700|Bronson|Bronson town
+12|08725|Brooker|Brooker town
+12|08800|Brooksville|Brooksville city
+12|09550|Bunnell|Bunnell city
+12|09625|Bushnell|Bushnell city
+12|09700|Callahan|Callahan town
+12|09725|Callaway|Callaway city
+12|09900|Campbellton|Campbellton town
+12|10250|Cape Canaveral|Cape Canaveral city
+12|10275|Cape Coral|Cape Coral city
+12|10725|Carrabelle|Carrabelle city
+12|10975|Caryville|Caryville town
+12|11050|Casselberry|Casselberry city
+12|11225|Cedar Key|Cedar Key city
+12|11325|Center Hill|Center Hill city
+12|11362|Century|Century town
+12|11800|Chattahoochee|Chattahoochee city
+12|11925|Chiefland|Chiefland city
+12|11975|Chipley|Chipley city
+12|12325|Cinco Bayou|Cinco Bayou town
+12|12875|Clearwater|Clearwater city
+12|12925|Clermont|Clermont city
+12|13000|Clewiston|Clewiston city
+12|13050|Cloud Lake|Cloud Lake town
+12|13150|Cocoa|Cocoa city
+12|13175|Cocoa Beach|Cocoa Beach city
+12|13275|Coconut Creek|Coconut Creek city
+12|13400|Coleman|Coleman city
+12|14125|Cooper City|Cooper City city
+12|14250|Coral Gables|Coral Gables city
+12|14400|Coral Springs|Coral Springs city
+12|14850|Cottondale|Cottondale town
+12|15375|Crescent City|Crescent City city
+12|15475|Crestview|Crestview city
+12|15575|Cross City|Cross City town
+12|15775|Crystal River|Crystal River city
+12|15968|Cutler Bay|Cutler Bay town
+12|16125|Dade City|Dade City city
+12|16335|Dania Beach|Dania Beach city
+12|16450|Davenport|Davenport city
+12|16475|Davie|Davie town
+12|16525|Daytona Beach|Daytona Beach city
+12|16550|Daytona Beach Shores|Daytona Beach Shores city
+12|16675|DeBary|DeBary city
+12|16725|Deerfield Beach|Deerfield Beach city
+12|16800|De Funiak Springs|De Funiak Springs city
+12|16875|DeLand|DeLand city
+12|17100|Delray Beach|Delray Beach city
+12|17200|Deltona|Deltona city
+12|17325|Destin|Destin city
+12|17935|Doral|Doral city
+12|18550|Dundee|Dundee town
+12|18575|Dunedin|Dunedin city
+12|18675|Dunnellon|Dunnellon city
+12|18875|Eagle Lake|Eagle Lake city
+12|19650|Eatonville|Eatonville town
+12|19725|Ebro|Ebro town
+12|19825|Edgewater|Edgewater city
+12|19900|Edgewood|Edgewood city
+12|20650|El Portal|El Portal village
+12|21250|Esto|Esto town
+12|21350|Eustis|Eustis city
+12|21425|Everglades|Everglades city
+12|21850|Fanning Springs|Fanning Springs city
+12|22100|Fellsmere|Fellsmere city
+12|22175|Fernandina Beach|Fernandina Beach city
+12|22550|Flagler Beach|Flagler Beach city
+12|22975|Florida City|Florida City city
+12|24000|Fort Lauderdale|Fort Lauderdale city
+12|24100|Fort Meade|Fort Meade city
+12|24125|Fort Myers|Fort Myers city
+12|24150|Fort Myers Beach|Fort Myers Beach town
+12|24300|Fort Pierce|Fort Pierce city
+12|24475|Fort Walton Beach|Fort Walton Beach city
+12|24500|Fort White|Fort White town
+12|24825|Freeport|Freeport city
+12|24900|Frostproof|Frostproof city
+12|24975|Fruitland Park|Fruitland Park city
+12|25175|Gainesville|Gainesville city
+12|26050|Glen Ridge|Glen Ridge town
+12|26075|Glen St. Mary|Glen St. Mary town
+12|26250|Golden Beach|Golden Beach town
+12|26550|Golf|Golf village
+12|27000|Graceville|Graceville city
+12|27175|Grand Ridge|Grand Ridge town
+12|27256|Grant-Valkaria|Grant-Valkaria town
+12|27322|Greenacres|Greenacres city
+12|27400|Green Cove Springs|Green Cove Springs city
+12|27550|Greensboro|Greensboro town
+12|27575|Greenville|Greenville town
+12|27600|Greenwood|Greenwood town
+12|27650|Gretna|Gretna city
+12|27800|Groveland|Groveland city
+12|28000|Gulf Breeze|Gulf Breeze city
+12|28175|Gulfport|Gulfport city
+12|28275|Gulf Stream|Gulf Stream town
+12|28400|Haines City|Haines City city
+12|28452|Hallandale Beach|Hallandale Beach city
+12|28575|Hampton|Hampton city
+12|29100|Hastings|Hastings town
+12|29150|Havana|Havana town
+12|29200|Haverhill|Haverhill town
+12|29275|Hawthorne|Hawthorne city
+12|30000|Hialeah|Hialeah city
+12|30025|Hialeah Gardens|Hialeah Gardens city
+12|30200|Highland Beach|Highland Beach town
+12|30325|Highland Park|Highland Park village
+12|30525|High Springs|High Springs city
+12|30700|Hillcrest Heights|Hillcrest Heights town
+12|30750|Hilliard|Hilliard town
+12|30850|Hillsboro Beach|Hillsboro Beach town
+12|31350|Holly Hill|Holly Hill city
+12|32000|Hollywood|Hollywood city
+12|32150|Holmes Beach|Holmes Beach city
+12|32275|Homestead|Homestead city
+12|32650|Horseshoe Beach|Horseshoe Beach town
+12|32775|Howey-in-the-Hills|Howey-in-the-Hills town
+12|33150|Hypoluxo|Hypoluxo town
+12|33375|Indialantic|Indialantic town
+12|33425|Indian Creek|Indian Creek village
+12|33450|Indian Harbour Beach|Indian Harbour Beach city
+12|33600|Indian River Shores|Indian River Shores town
+12|33625|Indian Rocks Beach|Indian Rocks Beach city
+12|33675|Indian Shores|Indian Shores town
+12|33800|Inglis|Inglis town
+12|33900|Interlachen|Interlachen town
+12|33950|Inverness|Inverness city
+12|34132|Islamorada, Village of Islands|Islamorada, Village of Islands village
+12|34175|Islandia|Islandia city
+12|35000|Jacksonville|Jacksonville city
+12|35050|Jacksonville Beach|Jacksonville Beach city
+12|35200|Jacob City|Jacob City city
+12|35375|Jasper|Jasper city
+12|35425|Jay|Jay town
+12|35525|Jennings|Jennings town
+12|35850|Juno Beach|Juno Beach town
+12|35875|Jupiter|Jupiter town
+12|35900|Jupiter Inlet Colony|Jupiter Inlet Colony town
+12|35925|Jupiter Island|Jupiter Island town
+12|36175|Kenneth City|Kenneth City town
+12|36300|Key Biscayne|Key Biscayne village
+12|36325|Key Colony Beach|Key Colony Beach city
+12|36475|Keystone Heights|Keystone Heights city
+12|36550|Key West|Key West city
+12|36950|Kissimmee|Kissimmee city
+12|37225|LaBelle|LaBelle city
+12|37300|La Crosse|La Crosse town
+12|37375|Lady Lake|Lady Lake town
+12|37525|Lake Alfred|Lake Alfred city
+12|37625|Lake Buena Vista|Lake Buena Vista city
+12|37650|Lake Butler|Lake Butler city
+12|37775|Lake City|Lake City city
+12|37800|Lake Clarke Shores|Lake Clarke Shores town
+12|37975|Lake Hamilton|Lake Hamilton town
+12|38025|Lake Helen|Lake Helen city
+12|38250|Lakeland|Lakeland city
+12|38425|Lake Mary|Lake Mary city
+12|38600|Lake Park|Lake Park town
+12|38625|Lake Placid|Lake Placid town
+12|38950|Lake Wales|Lake Wales city
+12|39075|Lake Worth|Lake Worth city
+12|39375|Lantana|Lantana town
+12|39425|Largo|Largo city
+12|39475|Lauderdale-by-the-Sea|Lauderdale-by-the-Sea town
+12|39525|Lauderdale Lakes|Lauderdale Lakes city
+12|39550|Lauderhill|Lauderhill city
+12|39650|Laurel Hill|Laurel Hill city
+12|39700|Lawtey|Lawtey city
+12|39725|Layton|Layton city
+12|39750|Lazy Lake|Lazy Lake village
+12|39850|Lee|Lee town
+12|39875|Leesburg|Leesburg city
+12|40450|Lighthouse Point|Lighthouse Point city
+12|40875|Live Oak|Live Oak city
+12|41150|Longboat Key|Longboat Key town
+12|41250|Longwood|Longwood city
+12|41577|Loxahatchee Groves|Loxahatchee Groves town
+12|41825|Lynn Haven|Lynn Haven city
+12|41950|Macclenny|Macclenny city
+12|42150|McIntosh|McIntosh town
+12|42400|Madeira Beach|Madeira Beach city
+12|42425|Madison|Madison city
+12|42575|Maitland|Maitland city
+12|42625|Malabar|Malabar town
+12|42650|Malone|Malone town
+12|42700|Manalapan|Manalapan town
+12|42900|Mangonia Park|Mangonia Park town
+12|43000|Marathon|Marathon city
+12|43083|Marco Island|Marco Island city
+12|43125|Margate|Margate city
+12|43175|Marianna|Marianna city
+12|43250|Marineland|Marineland town
+12|43375|Mary Esther|Mary Esther city
+12|43425|Mascotte|Mascotte city
+12|43575|Mayo|Mayo town
+12|43900|Medley|Medley town
+12|43975|Melbourne|Melbourne city
+12|44000|Melbourne Beach|Melbourne Beach town
+12|44075|Melbourne Village|Melbourne Village town
+12|44300|Mexico Beach|Mexico Beach city
+12|45000|Miami|Miami city
+12|45025|Miami Beach|Miami Beach city
+12|45060|Miami Gardens|Miami Gardens city
+12|45100|Miami Lakes|Miami Lakes town
+12|45175|Miami Shores|Miami Shores village
+12|45200|Miami Springs|Miami Springs city
+12|45225|Micanopy|Micanopy town
+12|45425|Midway|Midway city
+12|45750|Milton|Milton city
+12|45900|Minneola|Minneola city
+12|45975|Miramar|Miramar city
+12|46500|Monticello|Monticello city
+12|46525|Montverde|Montverde town
+12|46550|Moore Haven|Moore Haven city
+12|47050|Mount Dora|Mount Dora city
+12|47200|Mulberry|Mulberry city
+12|47625|Naples|Naples city
+12|48100|Neptune Beach|Neptune Beach city
+12|48200|Newberry|Newberry city
+12|48500|New Port Richey|New Port Richey city
+12|48625|New Smyrna Beach|New Smyrna Beach city
+12|48750|Niceville|Niceville city
+12|48900|Noma|Noma town
+12|49225|North Bay Village|North Bay Village city
+12|49425|North Lauderdale|North Lauderdale city
+12|49450|North Miami|North Miami city
+12|49475|North Miami Beach|North Miami Beach city
+12|49600|North Palm Beach|North Palm Beach village
+12|49675|North Port|North Port city
+12|49725|North Redington Beach|North Redington Beach town
+12|50450|Oak Hill|Oak Hill city
+12|50525|Oakland|Oakland town
+12|50575|Oakland Park|Oakland Park city
+12|50750|Ocala|Ocala city
+12|50900|Ocean Breeze Park|Ocean Breeze Park town
+12|50950|Ocean Ridge|Ocean Ridge town
+12|51075|Ocoee|Ocoee city
+12|51200|Okeechobee|Okeechobee city
+12|51350|Oldsmar|Oldsmar city
+12|51650|Opa-locka|Opa-locka city
+12|51825|Orange City|Orange City city
+12|52125|Orange Park|Orange Park town
+12|52175|Orchid|Orchid town
+12|53000|Orlando|Orlando city
+12|53150|Ormond Beach|Ormond Beach city
+12|53500|Otter Creek|Otter Creek town
+12|53575|Oviedo|Oviedo city
+12|53800|Pahokee|Pahokee city
+12|53875|Palatka|Palatka city
+12|54000|Palm Bay|Palm Bay city
+12|54025|Palm Beach|Palm Beach town
+12|54075|Palm Beach Gardens|Palm Beach Gardens city
+12|54150|Palm Beach Shores|Palm Beach Shores town
+12|54200|Palm Coast|Palm Coast city
+12|54250|Palmetto|Palmetto city
+12|54275|Palmetto Bay|Palmetto Bay village
+12|54425|Palm Shores|Palm Shores town
+12|54450|Palm Springs|Palm Springs village
+12|54700|Panama City|Panama City city
+12|54725|Panama City Beach|Panama City Beach city
+12|55075|Parker|Parker city
+12|55125|Parkland|Parkland city
+12|55475|Paxton|Paxton town
+12|55750|Pembroke Park|Pembroke Park town
+12|55775|Pembroke Pines|Pembroke Pines city
+12|55875|Penney Farms|Penney Farms town
+12|55925|Pensacola|Pensacola city
+12|56150|Perry|Perry city
+12|56425|Pierson|Pierson town
+12|56625|Pinecrest|Pinecrest village
+12|56975|Pinellas Park|Pinellas Park city
+12|57425|Plantation|Plantation city
+12|57550|Plant City|Plant City city
+12|57950|Polk City|Polk City town
+12|58025|Pomona Park|Pomona Park town
+12|58050|Pompano Beach|Pompano Beach city
+12|58175|Ponce de Leon|Ponce de Leon town
+12|58200|Ponce Inlet|Ponce Inlet town
+12|58575|Port Orange|Port Orange city
+12|58600|Port Richey|Port Richey city
+12|58675|Port St. Joe|Port St. Joe city
+12|58715|Port St. Lucie|Port St. Lucie city
+12|59200|Punta Gorda|Punta Gorda city
+12|59325|Quincy|Quincy city
+12|59400|Raiford|Raiford town
+12|59675|Reddick|Reddick town
+12|59725|Redington Beach|Redington Beach town
+12|59750|Redington Shores|Redington Shores town
+12|60975|Riviera Beach|Riviera Beach city
+12|61500|Rockledge|Rockledge city
+12|62100|Royal Palm Beach|Royal Palm Beach village
+12|62425|Safety Harbor|Safety Harbor city
+12|62500|St. Augustine|St. Augustine city
+12|62525|St. Augustine Beach|St. Augustine Beach city
+12|62625|St. Cloud|St. Cloud city
+12|62775|St. Leo|St. Leo town
+12|62800|St. Lucie Village|St. Lucie Village town
+12|62825|St. Marks|St. Marks city
+12|62885|St. Pete Beach|St. Pete Beach city
+12|63000|St. Petersburg|St. Petersburg city
+12|63375|San Antonio|San Antonio city
+12|63650|Sanford|Sanford city
+12|63700|Sanibel|Sanibel city
+12|64175|Sarasota|Sarasota city
+12|64400|Satellite Beach|Satellite Beach city
+12|64725|Sea Ranch Lakes|Sea Ranch Lakes village
+12|64825|Sebastian|Sebastian city
+12|64875|Sebring|Sebring city
+12|64975|Seminole|Seminole city
+12|65225|Sewall's Point|Sewall's Point town
+12|65425|Shalimar|Shalimar town
+12|66725|Sneads|Sneads town
+12|66925|Sopchoppy|Sopchoppy city
+12|67175|South Bay|South Bay city
+12|67325|South Daytona|South Daytona city
+12|67550|South Miami|South Miami city
+12|67650|South Palm Beach|South Palm Beach town
+12|67675|South Pasadena|South Pasadena city
+12|68135|Southwest Ranches|Southwest Ranches town
+12|68275|Springfield|Springfield city
+12|68525|Starke|Starke city
+12|68875|Stuart|Stuart city
+12|69555|Sunny Isles Beach|Sunny Isles Beach city
+12|69700|Sunrise|Sunrise city
+12|70075|Surfside|Surfside town
+12|70345|Sweetwater|Sweetwater city
+12|70600|Tallahassee|Tallahassee city
+12|70675|Tamarac|Tamarac city
+12|71000|Tampa|Tampa city
+12|71150|Tarpon Springs|Tarpon Springs city
+12|71225|Tavares|Tavares city
+12|71400|Temple Terrace|Temple Terrace city
+12|71525|Tequesta|Tequesta village
+12|71900|Titusville|Titusville city
+12|72325|Treasure Island|Treasure Island city
+12|72350|Trenton|Trenton city
+12|73025|Umatilla|Umatilla city
+12|73675|Valparaiso|Valparaiso city
+12|73900|Venice|Venice city
+12|74125|Vernon|Vernon city
+12|74150|Vero Beach|Vero Beach city
+12|74575|Virginia Gardens|Virginia Gardens village
+12|74925|Waldo|Waldo city
+12|75375|Wauchula|Wauchula city
+12|75450|Wausau|Wausau town
+12|75600|Webster|Webster city
+12|75625|Weeki Wachee|Weeki Wachee city
+12|75750|Welaka|Welaka town
+12|75812|Wellington|Wellington village
+12|76500|West Melbourne|West Melbourne city
+12|76525|West Miami|West Miami city
+12|76582|Weston|Weston city
+12|76600|West Palm Beach|West Palm Beach city
+12|76658|West Park|West Park city
+12|76975|Westville|Westville town
+12|77100|Wewahitchka|Wewahitchka city
+12|77400|White Springs|White Springs town
+12|77675|Wildwood|Wildwood city
+12|77825|Williston|Williston city
+12|78000|Wilton Manors|Wilton Manors city
+12|78050|Windermere|Windermere town
+12|78250|Winter Garden|Winter Garden city
+12|78275|Winter Haven|Winter Haven city
+12|78300|Winter Park|Winter Park city
+12|78325|Winter Springs|Winter Springs city
+12|78775|Worthington Springs|Worthington Springs town
+12|78925|Yankeetown|Yankeetown town
+12|79225|Zephyrhills|Zephyrhills city
+12|79250|Zolfo Springs|Zolfo Springs town

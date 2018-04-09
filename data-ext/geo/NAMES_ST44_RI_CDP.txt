@@ -1,0 +1,27 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+44|03520|Ashaway|Ashaway CDP
+44|08020|Bradford|Bradford CDP
+44|12340|Carolina|Carolina CDP
+44|14860|Chepachet|Chepachet CDP
+44|15940|Clayville|Clayville CDP
+44|20260|Cumberland Hill|Cumberland Hill CDP
+44|27640|Foster Center|Foster Center CDP
+44|31240|Greene|Greene CDP
+44|31600|Greenville|Greenville CDP
+44|33040|Harmony|Harmony CDP
+44|33400|Harrisville|Harrisville CDP
+44|34660|Hope Valley|Hope Valley CDP
+44|38980|Kingston|Kingston CDP
+44|45010|Melville|Melville CDP
+44|46000|Misquamicut|Misquamicut CDP
+44|48700|Narragansett Pier|Narragansett Pier CDP
+44|50140|Newport East|Newport East CDP
+44|54460|Pascoag|Pascoag CDP
+44|60260|Quonochontaug|Quonochontaug CDP
+44|70700|Tiverton|Tiverton CDP
+44|72500|Valley Falls|Valley Falls CDP
+44|73130|Wakefield-Peacedale|Wakefield-Peacedale CDP
+44|75200|Watch Hill|Watch Hill CDP
+44|75920|Weekapaug|Weekapaug CDP
+44|76820|Westerly|Westerly CDP
+44|80960|Wyoming|Wyoming CDP

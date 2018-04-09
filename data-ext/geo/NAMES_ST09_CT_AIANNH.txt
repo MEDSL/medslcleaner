@@ -1,0 +1,6 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+09|2145|Mashantucket Pequot|Mashantucket Pequot Reservation and Off-Reservation Trust Land
+09|2320|Mohegan|Mohegan Reservation and Off-Reservation Trust Land
+09|9100|Golden Hill Paugussett|Golden Hill Paugussett (state) Reservation
+09|9280|Paucatuck Eastern Pequot|Paucatuck Eastern Pequot (state) Reservation
+09|9350|Schaghticoke|Schaghticoke (state) Reservation

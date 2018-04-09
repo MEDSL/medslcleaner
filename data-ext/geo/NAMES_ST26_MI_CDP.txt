@@ -1,0 +1,160 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+26|00480|Advance|Advance CDP
+26|00900|Alba|Alba CDP
+26|01060|Alden|Alden CDP
+26|01340|Allendale|Allendale CDP
+26|01960|Amasa|Amasa CDP
+26|03300|Arcadia|Arcadia CDP
+26|03400|Argentine|Argentine CDP
+26|03920|Atlanta|Atlanta CDP
+26|04020|Attica|Attica CDP
+26|04280|Au Sable|Au Sable CDP
+26|05470|Barnes Lake-Millers Lake|Barnes Lake-Millers Lake CDP
+26|05880|Bath|Bath CDP
+26|06120|Bay Port|Bay Port CDP
+26|06190|Bay Shore|Bay Shore CDP
+26|06260|Bay View|Bay View CDP
+26|06360|Beal City|Beal City CDP
+26|06430|Bear Lake|Bear Lake CDP
+26|06820|Beecher|Beecher CDP
+26|06880|Beechwood|Beechwood CDP
+26|07220|Bendon|Bendon CDP
+26|07540|Benton Heights|Benton Heights CDP
+26|08180|Big Bay|Big Bay CDP
+26|09560|Boon|Boon CDP
+26|10300|Brethren|Brethren CDP
+26|10440|Bridgeport|Bridgeport CDP
+26|11200|Brownlee Park|Brownlee Park CDP
+26|11380|Brutus|Brutus CDP
+26|11555|Buena Vista|Buena Vista CDP
+26|12000|Burt|Burt CDP
+26|12280|Byron Center|Byron Center CDP
+26|12290|Caberfae|Caberfae CDP
+26|12980|Canada Creek Ranch|Canada Creek Ranch CDP
+26|13010|Canadian Lakes|Canadian Lakes CDP
+26|13480|Carp Lake|Carp Lake CDP
+26|14020|Cedar|Cedar CDP
+26|15715|Chums Corner|Chums Corner CDP
+26|17690|Comstock Northwest|Comstock Northwest CDP
+26|17700|Comstock Park|Comstock Park CDP
+26|17900|Conway|Conway CDP
+26|18100|Copper Harbor|Copper Harbor CDP
+26|18880|Cross Village|Cross Village CDP
+26|19135|Crystal Downs Country Club|Crystal Downs Country Club CDP
+26|19195|Crystal Mountain|Crystal Mountain CDP
+26|19500|Cutlerville|Cutlerville CDP
+26|21560|Delton|Delton CDP
+26|22040|Detroit Beach|Detroit Beach CDP
+26|22520|Dollar Bay|Dollar Bay CDP
+26|22900|Dowling|Dowling CDP
+26|23600|Eagle Harbor|Eagle Harbor CDP
+26|23740|Eagle River|Eagle River CDP
+26|24300|Eastport|Eastport CDP
+26|24500|Eastwood|Eastwood CDP
+26|24880|Edgemont Park|Edgemont Park CDP
+26|27160|Fair Plain|Fair Plain CDP
+26|28060|Filer City|Filer City CDP
+26|29580|Forest Hills|Forest Hills CDP
+26|29920|Fostoria|Fostoria CDP
+26|30540|Freeland|Freeland CDP
+26|32360|Glen Arbor|Glen Arbor CDP
+26|34620|Grawn|Grawn CDP
+26|35300|Greilickville|Greilickville CDP
+26|35760|Gwinn|Gwinn CDP
+26|36585|Hardwood Acres|Hardwood Acres CDP
+26|36590|Haring|Haring CDP
+26|37080|Harvey|Harvey CDP
+26|37100|Haslett|Haslett CDP
+26|37600|Hemlock|Hemlock CDP
+26|37620|Henderson|Henderson CDP
+26|37960|Hickory Corners|Hickory Corners CDP
+26|38780|Holt|Holt CDP
+26|39340|Horton Bay|Horton Bay CDP
+26|39400|Houghton Lake|Houghton Lake CDP
+26|39634|Hubbard Lake|Hubbard Lake CDP
+26|39680|Hubbell|Hubbell CDP
+26|40480|Indian River|Indian River CDP
+26|40800|Interlochen|Interlochen CDP
+26|41040|Ironton|Ironton CDP
+26|41540|Jasper|Jasper CDP
+26|41680|Jenison|Jenison CDP
+26|41720|Jennings|Jennings CDP
+26|43558|K. I. Sawyer|K. I. Sawyer CDP
+26|44520|Lake Fenton|Lake Fenton CDP
+26|44760|Lake Leelanau|Lake Leelanau CDP
+26|44820|Lake Michigan Beach|Lake Michigan Beach CDP
+26|45070|Lakes of the North|Lakes of the North CDP
+26|45190|Lake Victoria|Lake Victoria CDP
+26|45420|Lambertville|Lambertville CDP
+26|46800|Leland|Leland CDP
+26|47230|Level Park-Oak Park|Level Park-Oak Park CDP
+26|47240|Levering|Levering CDP
+26|47260|Lewiston|Lewiston CDP
+26|49400|Loomis|Loomis CDP
+26|49450|Lost Lake Woods|Lost Lake Woods CDP
+26|49720|Lupton|Lupton CDP
+26|50755|Manistee Lake|Manistee Lake CDP
+26|50830|Manitou Beach-Devils Lake|Manitou Beach-Devils Lake CDP
+26|50920|Maple City|Maple City CDP
+26|50970|Maple Grove|Maple Grove CDP
+26|51540|Marenisco|Marenisco CDP
+26|53520|Michigamme|Michigamme CDP
+26|53580|Michigan Center|Michigan Center CDP
+26|53730|Middletown|Middletown CDP
+26|54660|Mio|Mio CDP
+26|56620|Napoleon|Napoleon CDP
+26|56960|Nessen City|Nessen City CDP
+26|57660|New Troy|New Troy CDP
+26|58945|Northview|Northview CDP
+26|59320|Norwood|Norwood CDP
+26|59740|Oak Hill|Oak Hill CDP
+26|60180|Oden|Oden CDP
+26|60340|Okemos|Okemos CDP
+26|60640|Omena|Omena CDP
+26|61320|Oscoda|Oscoda CDP
+26|61500|Ossineke|Ossineke CDP
+26|62180|Palmer|Palmer CDP
+26|62500|Parkdale|Parkdale CDP
+26|63020|Paw Paw Lake|Paw Paw Lake CDP
+26|63200|Pearl Beach|Pearl Beach CDP
+26|64100|Pilgrim|Pilgrim CDP
+26|65420|Ponshewaing|Ponshewaing CDP
+26|66343|Presque Isle Harbor|Presque Isle Harbor CDP
+26|66400|Prudenville|Prudenville CDP
+26|66720|Quinnesec|Quinnesec CDP
+26|67140|Rapid City|Rapid City CDP
+26|67980|Republic|Republic CDP
+26|68990|Robin Glen-Indiantown|Robin Glen-Indiantown CDP
+26|70800|St. Helen|St. Helen CDP
+26|70900|St. James|St. James CDP
+26|71340|Sand Lake|Sand Lake CDP
+26|73560|Shields|Shields CDP
+26|73730|Shorewood-Tower Hills-Harbert|Shorewood-Tower Hills-Harbert CDP
+26|74200|Skidway Lake|Skidway Lake CDP
+26|74380|Snover|Snover CDP
+26|74740|South Boardman|South Boardman CDP
+26|74975|South Gull Lake|South Gull Lake CDP
+26|75140|South Monroe|South Monroe CDP
+26|75620|Spring Arbor|Spring Arbor CDP
+26|76720|Stony Point|Stony Point CDP
+26|76820|Stronach|Stronach CDP
+26|79240|Temperance|Temperance CDP
+26|80660|Trowbridge Park|Trowbridge Park CDP
+26|81040|Twin Lake|Twin Lake CDP
+26|81740|Vandercook Lake|Vandercook Lake CDP
+26|82490|Vineyard Lake|Vineyard Lake CDP
+26|82680|Wacousta|Wacousta CDP
+26|83140|Walloon Lake|Walloon Lake CDP
+26|84360|Watersmeet|Watersmeet CDP
+26|84800|Waverly|Waverly CDP
+26|85110|Wedgewood|Wedgewood CDP
+26|85140|Weidman|Weidman CDP
+26|85300|Wellston|Wellston CDP
+26|85700|West Ishpeming|West Ishpeming CDP
+26|86050|West Monroe|West Monroe CDP
+26|86380|Westwood|Westwood CDP
+26|86960|White Pine|White Pine CDP
+26|87060|Whitmore Lake|Whitmore Lake CDP
+26|88220|Wolf Lake|Wolf Lake CDP
+26|88480|Woodland Beach|Woodland Beach CDP
+26|89240|Zeba|Zeba CDP

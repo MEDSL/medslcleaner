@@ -1,0 +1,10 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+22|0635|Chitimacha|Chitimacha Reservation
+22|0795|Coushatta|Coushatta Reservation and Off-Reservation Trust Land
+22|1690|Jena Band of Choctaw|Jena Band of Choctaw Reservation
+22|4315|Tunica-Biloxi|Tunica-Biloxi Reservation and Off-Reservation Trust Land
+22|9510|Adais Caddo|Adais Caddo SDTSA
+22|9515|Apache Choctaw|Apache Choctaw SDTSA
+22|9630|Clifton Choctaw|Clifton Choctaw SDTSA
+22|9720|Four Winds Cherokee|Four Winds Cherokee SDTSA
+22|9960|United Houma Nation|United Houma Nation SDTSA

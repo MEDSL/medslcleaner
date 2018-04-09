@@ -1,0 +1,36 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+25|01710|Acton-Boxborough School District|Acton-Boxborough School District
+25|01920|Amherst-Pelham School District|Amherst-Pelham School District
+25|02580|Berlin-Boylston School District|Berlin-Boylston School District
+25|03870|Concord-Carlisle School District|Concord-Carlisle School District
+25|04290|Dover-Sherborn School District|Dover-Sherborn School District
+25|04560|Nauset School District|Nauset School District
+25|05070|Freetown-Lakeville School District|Freetown-Lakeville School District
+25|05100|Frontier School District|Frontier School District
+25|05740|Hampshire School District|Hampshire School District
+25|06510|King Philip School District|King Philip School District
+25|06930|Lincoln-Sudbury School District|Lincoln-Sudbury School District
+25|07380|Martha's Vineyard School District|Martha's Vineyard School District
+25|07410|Masconomet School District|Masconomet School District
+25|08160|Mount Greylock School District|Mount Greylock School District
+25|08910|Northborough-Southborough School District|Northborough-Southborough School District
+25|09150|Old Rochester School District|Old Rochester School District
+25|09900|Ralph C. Mahar School District|Ralph C. Mahar School District
+25|10830|Silver Lake School District|Silver Lake School District
+25|11490|Tantasqua School District|Tantasqua School District
+25|22222|Mohawk Trail Regional School District in Hawley and Charlemont towns|Mohawk Trail Regional School District in Hawley and Charlemont towns
+25|25001|Somerset School District in Berkley (9-12)|Somerset School District in Berkley (9-12)
+25|25002|North Adams School District in Clarksburg (9-12)|North Adams School District in Clarksburg (9-12)
+25|25003|Gill-Montague School District in Erving (7-12)|Gill-Montague School District in Erving (7-12)
+25|25004|Southwick-Tolland School District in Granville (9-12)|Southwick-Tolland School District in Granville (9-12)
+25|25005|Swampscott School District in Nahant (7-12)|Swampscott School District in Nahant (7-12)
+25|25006|Pittsfield School District in Richmond (9-12)|Pittsfield School District in Richmond (9-12)
+25|25007|Mohawk Trail School District in Rowe (7-12)|Mohawk Trail School District in Rowe (7-12)
+25|25008|Adams-Cheshire School District in Savoy (7-12)|Adams-Cheshire School District in Savoy (7-12)
+25|25009|North Adams School District in Florida (9-12)|North Adams School District in Florida (9-12)
+25|25010|Fairhaven/New Bedford School Districts in Acushnet (9-12)|Fairhaven/New Bedford School Districts in Acushnet (9-12)
+25|25011|Ayer/Lunenberg School Districts in Shirley (9-12)|Ayer/Lunenberg School Districts in Shirley (9-12)
+25|25012|Nauset/Provincetown School Districts in Turo (7-12)|Nauset/Provincetown School Districts in Turo (7-12)
+25|25013|Mount Greylock/New Lebanon (NY) School Districts in Hancock (7-12)|Mount Greylock/New Lebanon (NY) School Districts in Hancock (7-12)
+25|25014|North Adams School District in Monroe (9-12)|North Adams School District in Monroe (9-12)
+25|25015|Lee/Berkshire Hills in Farmington River Regional (7-12)|Lee/Berkshire Hills in Farmington River Regional (7-12)

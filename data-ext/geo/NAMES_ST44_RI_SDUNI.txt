@@ -1,0 +1,32 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+44|00030|Barrington School District|Barrington School District
+44|00065|Bristol-Warren Regional School District|Bristol-Warren Regional School District
+44|00090|Burrillville School District|Burrillville School District
+44|00120|Central Falls School District|Central Falls School District
+44|00150|Chariho Regional School District|Chariho Regional School District
+44|00210|Coventry School District|Coventry School District
+44|00240|Cranston School District|Cranston School District
+44|00270|Cumberland School District|Cumberland School District
+44|00300|East Greenwich School District|East Greenwich School District
+44|00330|East Providence School District|East Providence School District
+44|00540|Johnston School District|Johnston School District
+44|00570|Lincoln School District|Lincoln School District
+44|00630|Middletown School District|Middletown School District
+44|00660|Narragansett School District|Narragansett School District
+44|00690|New Shoreham School District|New Shoreham School District
+44|00720|Newport School District|Newport School District
+44|00750|North Kingstown School District|North Kingstown School District
+44|00780|North Providence School District|North Providence School District
+44|00810|North Smithfield School District|North Smithfield School District
+44|00840|Pawtucket School District|Pawtucket School District
+44|00870|Portsmouth School District|Portsmouth School District
+44|00900|Providence School District|Providence School District
+44|00960|Scituate School District|Scituate School District
+44|00990|Smithfield School District|Smithfield School District
+44|01020|South Kingstown School District|South Kingstown School District
+44|01050|Tiverton School District|Tiverton School District
+44|01110|Warwick School District|Warwick School District
+44|01140|West Warwick School District|West Warwick School District
+44|01170|Westerly School District|Westerly School District
+44|01200|Woonsocket School District|Woonsocket School District
+44|99998|School District Not Defined (Water)|School District Not Defined (Water)

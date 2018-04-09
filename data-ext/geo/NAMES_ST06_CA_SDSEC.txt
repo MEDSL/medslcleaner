@@ -1,0 +1,105 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+06|01650|Acalanes Union High School District|Acalanes Union High School District
+06|02630|Anaheim Union High School District|Anaheim Union High School District
+06|02670|West Sonoma County Union High School District|West Sonoma County Union High School District
+06|02700|Anderson Union High School District|Anderson Union High School District
+06|02820|Antelope Valley Union High School District|Antelope Valley Union High School District
+06|03030|Northern Humboldt Union High School District|Northern Humboldt Union High School District
+06|05160|Bishop Joint Union High School District|Bishop Joint Union High School District
+06|05820|Brawley Union High School District|Brawley Union High School District
+06|05940|Bret Harte Union High School District|Bret Harte Union High School District
+06|06001|Yosemite Unified School District in Bass Lake|Yosemite Unified School District in Bass Lake
+06|06002|Yosemite Unified School District in Raymond-Knowles|Yosemite Unified School District in Raymond-Knowles
+06|06003|Twin Rivers Unified School District in Elverta|Twin Rivers Unified School District in Elverta
+06|06004|Twin Rivers Unified School District in Robla|Twin Rivers Unified School District in Robla
+06|06005|Scott Valley Unified School District in Forks of Salmon|Scott Valley Unified School District in Forks of Salmon
+06|06006|Trinity Alps Unified School District in Burnt Ranch|Trinity Alps Unified School District in Burnt Ranch
+06|06007|Trinity Alps Unified School District in Coffee Creek|Trinity Alps Unified School District in Coffee Creek
+06|06008|Trinity Alps Unified School District in Cox Bar|Trinity Alps Unified School District in Cox Bar
+06|06009|Trinity Alps Unified School District in Douglas City|Trinity Alps Unified School District in Douglas City
+06|06010|Trinity Alps Unified School District in Junction City|Trinity Alps Unified School District in Junction City
+06|06011|Trinity Alps Unified School District in Lewiston|Trinity Alps Unified School District in Lewiston
+06|06012|Trinity Alps Unified School District in Trinity Center|Trinity Alps Unified School District in Trinity Center
+06|06013|Turlock Unified School District in Chatom Union|Turlock Unified School District in Chatom Union
+06|06014|Turlock Unified School District in Keyes Union|Turlock Unified School District in Keyes Union
+06|06015|Santa Cruz City High School District (9-12) in Soquel|Santa Cruz City High School District (9-12) in Soquel
+06|06016|Dinuba Unified (9-12) in Kings River Union|Dinuba Unified (9-12) in Kings River Union
+06|06017|Dinuba Unified (9-12) in Monson-Sultana Joint Union|Dinuba Unified (9-12) in Monson-Sultana Joint Union
+06|06037|Alhambra Unified (9-12) School District|Alhambra Unified (9-12) School District
+06|06053|Gonzales Unified (9-12) School District|Gonzales Unified (9-12) School District
+06|06107|Porterville Unified (9-12) School District|Porterville Unified (9-12) School District
+06|07230|Campbell Union High School District|Campbell Union High School District
+06|07920|Centinela Valley Union High School District|Centinela Valley Union High School District
+06|08010|Central Union High School District|Central Union High School District
+06|08160|Chaffey Joint Union High School District|Chaffey Joint Union High School District
+06|08550|Chowchilla Union High School District|Chowchilla Union High School District
+06|09810|Corning Union High School District|Corning Union High School District
+06|10860|Delano Joint Union High School District|Delano Joint Union High School District
+06|11700|Dunsmuir Joint Union High School District|Dunsmuir Joint Union High School District
+06|11780|East Nicolaus Joint Union High School District|East Nicolaus Joint Union High School District
+06|11820|East Side Union High School District|East Side Union High School District
+06|12070|El Dorado Union High School District|El Dorado Union High School District
+06|12120|El Monte Union High School District|El Monte Union High School District
+06|12910|Escondido Union High School District|Escondido Union High School District
+06|13230|Exeter Union High School District|Exeter Union High School District
+06|13530|Fallbrook Union High School District|Fallbrook Union High School District
+06|14190|Fortuna Union High School District|Fortuna Union High School District
+06|14430|Fremont Union High School District|Fremont Union High School District
+06|14760|Fullerton Joint Union High School District|Fullerton Joint Union High School District
+06|14820|Galt Joint Union High School District|Galt Joint Union High School District
+06|16230|Grossmont Union High School District|Grossmont Union High School District
+06|16440|Hamilton Union High School District|Hamilton Union High School District
+06|16500|Hanford Joint Union High School District|Hanford Joint Union High School District
+06|18060|Huntington Beach Union High School District|Huntington Beach Union High School District
+06|18930|Jefferson Union High School District|Jefferson Union High School District
+06|19110|Julian Union High School District|Julian Union High School District
+06|19540|Kern Union High School District|Kern Union High School District
+06|19650|King City Joint Union High School District|King City Joint Union High School District
+06|19830|Kingsburg Joint Union High School District|Kingsburg Joint Union High School District
+06|21060|Lassen Union High School District|Lassen Union High School District
+06|21270|Le Grand Union High School District|Le Grand Union High School District
+06|21400|Lemoore Union High School District|Lemoore Union High School District
+06|21600|Liberty Union High School District|Liberty Union High School District
+06|22800|Los Gatos-Saratoga Joint Union School District|Los Gatos-Saratoga Joint Union School District
+06|24660|Merced Union High School District|Merced Union High School District
+06|25150|Modesto City High School District|Modesto City High School District
+06|26310|Mountain View-Los Altos Union School District|Mountain View-Los Altos Union School District
+06|26880|Nevada Joint Union High School District|Nevada Joint Union High School District
+06|29130|Oroville Union High School District|Oroville Union High School District
+06|29270|Oxnard Union High School District|Oxnard Union High School District
+06|30210|Perris Union High School District|Perris Union High School District
+06|30250|Petaluma Joint Union High School District|Petaluma Joint Union High School District
+06|30750|Placer Union High School District|Placer Union High School District
+06|31230|Point Arena Joint Union High School District|Point Arena Joint Union High School District
+06|32010|Red Bluff Joint Union High School District|Red Bluff Joint Union High School District
+06|33630|Roseville Joint Union High School District|Roseville Joint Union High School District
+06|33980|Salinas Union High School District|Salinas Union High School District
+06|34140|San Benito High School District|San Benito High School District
+06|34380|San Dieguito Union High School District|San Dieguito Union High School District
+06|34980|San Mateo Union High School District|San Mateo Union High School District
+06|35110|San Rafael City High School District|San Rafael City High School District
+06|35370|Santa Barbara High School District|Santa Barbara High School District
+06|35600|Santa Cruz City High School District|Santa Cruz City High School District
+06|35670|Santa Maria Joint Union High School District|Santa Maria Joint Union High School District
+06|35760|Santa Paula Union High School District|Santa Paula Union High School District
+06|35830|Santa Rosa High School District|Santa Rosa High School District
+06|35850|Santa Ynez Valley Union High School District|Santa Ynez Valley Union High School District
+06|36390|Sequoia Union High School District|Sequoia Union High School District
+06|36600|Shasta Union High School District|Shasta Union High School District
+06|36940|Siskiyou Union High School District|Siskiyou Union High School District
+06|36972|Victor Valley Union High School District|Victor Valley Union High School District
+06|37260|Sonora Union High School District|Sonora Union High School District
+06|38280|Summerville Union High School District|Summerville Union High School District
+06|38610|Sutter Union High School District|Sutter Union High School District
+06|38640|Sweetwater Union High School District|Sweetwater Union High School District
+06|38730|Taft Union High School District|Taft Union High School District
+06|38790|Tamalpais Union High School District|Tamalpais Union High School District
+06|39930|Tulare Joint Union High School District|Tulare Joint Union High School District
+06|40500|Upper Lake Union High School District|Upper Lake Union High School District
+06|41430|Wasco Union High School District|Wasco Union High School District
+06|41640|Washington Union High School District|Washington Union High School District
+06|42350|Wheatland Union High School District|Wheatland Union High School District
+06|42480|Whittier Union High School District|Whittier Union High School District
+06|42510|William S. Hart Union High School District|William S. Hart Union High School District
+06|43050|Woodlake Union High School District|Woodlake Union High School District
+06|43410|Yreka Union High School District|Yreka Union High School District

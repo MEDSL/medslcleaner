@@ -1,0 +1,531 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+31|00205|Abie|Abie village
+31|00240|Adams|Adams village
+31|00415|Ainsworth|Ainsworth city
+31|00555|Albion|Albion city
+31|00625|Alda|Alda village
+31|00730|Alexandria|Alexandria village
+31|00870|Allen|Allen village
+31|00905|Alliance|Alliance city
+31|00975|Alma|Alma city
+31|01150|Alvo|Alvo village
+31|01290|Amherst|Amherst village
+31|01465|Anoka|Anoka village
+31|01500|Anselmo|Anselmo village
+31|01535|Ansley|Ansley village
+31|01780|Arapahoe|Arapahoe city
+31|01850|Arcadia|Arcadia village
+31|01990|Arlington|Arlington village
+31|02095|Arnold|Arnold village
+31|02200|Arthur|Arthur village
+31|02305|Ashland|Ashland city
+31|02375|Ashton|Ashton village
+31|02550|Atkinson|Atkinson city
+31|02620|Atlanta|Atlanta village
+31|02655|Auburn|Auburn city
+31|02690|Aurora|Aurora city
+31|02795|Avoca|Avoca village
+31|02830|Axtell|Axtell village
+31|02865|Ayr|Ayr village
+31|03005|Bancroft|Bancroft village
+31|03040|Barada|Barada village
+31|03075|Barneston|Barneston village
+31|03145|Bartlett|Bartlett village
+31|03180|Bartley|Bartley village
+31|03215|Bassett|Bassett city
+31|03250|Battle Creek|Battle Creek city
+31|03285|Bayard|Bayard city
+31|03355|Bazile Mills|Bazile Mills village
+31|03390|Beatrice|Beatrice city
+31|03495|Beaver City|Beaver City city
+31|03530|Beaver Crossing|Beaver Crossing village
+31|03600|Bee|Bee village
+31|03635|Beemer|Beemer village
+31|03775|Belden|Belden village
+31|03810|Belgrade|Belgrade village
+31|03950|Bellevue|Bellevue city
+31|04020|Bellwood|Bellwood village
+31|04160|Belvidere|Belvidere village
+31|04195|Benedict|Benedict village
+31|04230|Benkelman|Benkelman city
+31|04300|Bennet|Bennet village
+31|04405|Bennington|Bennington city
+31|04615|Bertrand|Bertrand village
+31|04650|Berwyn|Berwyn village
+31|04895|Big Springs|Big Springs village
+31|05140|Bladen|Bladen village
+31|05350|Blair|Blair city
+31|05455|Bloomfield|Bloomfield city
+31|05490|Bloomington|Bloomington village
+31|05560|Blue Hill|Blue Hill city
+31|05630|Blue Springs|Blue Springs city
+31|06015|Boys Town|Boys Town village
+31|06050|Bradshaw|Bradshaw village
+31|06085|Brady|Brady village
+31|06120|Brainard|Brainard village
+31|06260|Brewster|Brewster village
+31|06295|Bridgeport|Bridgeport city
+31|06400|Bristow|Bristow village
+31|06470|Broadwater|Broadwater village
+31|06505|Brock|Brock village
+31|06610|Broken Bow|Broken Bow city
+31|06750|Brownville|Brownville village
+31|06785|Brule|Brule village
+31|06820|Bruning|Bruning village
+31|06855|Bruno|Bruno village
+31|06890|Brunswick|Brunswick village
+31|07065|Burchard|Burchard village
+31|07205|Burr|Burr village
+31|07310|Burton|Burton village
+31|07345|Burwell|Burwell city
+31|07415|Bushnell|Bushnell village
+31|07485|Butte|Butte village
+31|07555|Byron|Byron village
+31|07625|Cairo|Cairo village
+31|07660|Callaway|Callaway village
+31|07730|Cambridge|Cambridge city
+31|07870|Campbell|Campbell village
+31|07975|Carleton|Carleton village
+31|08010|Carroll|Carroll village
+31|08150|Cedar Bluffs|Cedar Bluffs village
+31|08185|Cedar Creek|Cedar Creek village
+31|08220|Cedar Rapids|Cedar Rapids village
+31|08360|Center|Center village
+31|08535|Central City|Central City city
+31|08570|Ceresco|Ceresco village
+31|08605|Chadron|Chadron city
+31|08675|Chambers|Chambers village
+31|08780|Chapman|Chapman village
+31|08885|Chappell|Chappell city
+31|09095|Chester|Chester village
+31|09165|Clarks|Clarks village
+31|09200|Clarkson|Clarkson city
+31|09270|Clatonia|Clatonia village
+31|09375|Clay Center|Clay Center city
+31|09445|Clearwater|Clearwater village
+31|09655|Clinton|Clinton village
+31|09760|Cody|Cody village
+31|09865|Coleridge|Coleridge village
+31|10005|Colon|Colon village
+31|10110|Columbus|Columbus city
+31|10180|Comstock|Comstock village
+31|10250|Concord|Concord village
+31|10390|Cook|Cook village
+31|10495|Cordova|Cordova village
+31|10600|Cornlea|Cornlea village
+31|10635|Cortland|Cortland village
+31|10740|Cotesfield|Cotesfield village
+31|10985|Cowles|Cowles village
+31|11020|Cozad|Cozad city
+31|11055|Crab Orchard|Crab Orchard village
+31|11090|Craig|Craig village
+31|11195|Crawford|Crawford city
+31|11230|Creighton|Creighton city
+31|11300|Creston|Creston village
+31|11370|Crete|Crete city
+31|11440|Crofton|Crofton city
+31|11475|Crookston|Crookston village
+31|11615|Culbertson|Culbertson village
+31|11825|Curtis|Curtis city
+31|11860|Cushing|Cushing village
+31|12000|Dakota City|Dakota City city
+31|12070|Dalton|Dalton village
+31|12105|Danbury|Danbury village
+31|12140|Dannebrog|Dannebrog village
+31|12245|Davenport|Davenport village
+31|12280|Davey|Davey village
+31|12315|David City|David City city
+31|12420|Dawson|Dawson village
+31|12455|Daykin|Daykin village
+31|12525|Decatur|Decatur village
+31|12770|Denton|Denton village
+31|12840|Deshler|Deshler city
+31|12945|Deweese|Deweese village
+31|13015|De Witt|De Witt village
+31|13085|Diller|Diller village
+31|13190|Dix|Dix village
+31|13225|Dixon|Dixon village
+31|13295|Dodge|Dodge village
+31|13365|Doniphan|Doniphan village
+31|13435|Dorchester|Dorchester village
+31|13505|Douglas|Douglas village
+31|13750|Du Bois|Du Bois village
+31|13855|Dunbar|Dunbar village
+31|13890|Duncan|Duncan village
+31|13960|Dunning|Dunning village
+31|14065|Dwight|Dwight village
+31|14100|Eagle|Eagle village
+31|14380|Eddyville|Eddyville village
+31|14450|Edgar|Edgar city
+31|14520|Edison|Edison village
+31|14555|Elba|Elba village
+31|14730|Elgin|Elgin city
+31|14975|Elk Creek|Elk Creek village
+31|15360|Elm Creek|Elm Creek village
+31|15430|Elmwood|Elmwood village
+31|15500|Elsie|Elsie village
+31|15570|Elwood|Elwood village
+31|15605|Elyria|Elyria village
+31|15710|Emerson|Emerson village
+31|15815|Emmet|Emmet village
+31|15920|Endicott|Endicott village
+31|16025|Ericson|Ericson village
+31|16165|Eustis|Eustis village
+31|16270|Ewing|Ewing village
+31|16340|Exeter|Exeter village
+31|16410|Fairbury|Fairbury city
+31|16445|Fairfield|Fairfield city
+31|16550|Fairmont|Fairmont village
+31|16655|Falls City|Falls City city
+31|16725|Farnam|Farnam village
+31|16760|Farwell|Farwell village
+31|16830|Filley|Filley village
+31|16935|Firth|Firth village
+31|17110|Fordyce|Fordyce village
+31|17145|Fort Calhoun|Fort Calhoun city
+31|17320|Foster|Foster village
+31|17530|Franklin|Franklin city
+31|17670|Fremont|Fremont city
+31|17775|Friend|Friend city
+31|17810|Fullerton|Fullerton city
+31|17880|Funk|Funk village
+31|17950|Gandy|Gandy village
+31|18230|Garland|Garland village
+31|18300|Garrison|Garrison village
+31|18405|Geneva|Geneva city
+31|18475|Genoa|Genoa city
+31|18580|Gering|Gering city
+31|18615|Gibbon|Gibbon city
+31|18720|Gilead|Gilead village
+31|18825|Giltner|Giltner village
+31|19070|Glenvil|Glenvil village
+31|19245|Goehner|Goehner village
+31|19350|Gordon|Gordon city
+31|19385|Gothenburg|Gothenburg city
+31|19455|Grafton|Grafton village
+31|19595|Grand Island|Grand Island city
+31|19910|Grant|Grant city
+31|20050|Greeley Center|Greeley Center village
+31|20190|Greenwood|Greenwood village
+31|20225|Gresham|Gresham village
+31|20260|Gretna|Gretna city
+31|20295|Gross|Gross village
+31|20365|Guide Rock|Guide Rock village
+31|20435|Gurley|Gurley village
+31|20470|Hadar|Hadar village
+31|20540|Haigler|Haigler village
+31|20610|Hallam|Hallam village
+31|20680|Halsey|Halsey village
+31|20750|Hamlet|Hamlet village
+31|20785|Hampton|Hampton village
+31|20960|Harbine|Harbine village
+31|20995|Hardy|Hardy village
+31|21240|Harrison|Harrison village
+31|21275|Hartington|Hartington city
+31|21345|Harvard|Harvard city
+31|21415|Hastings|Hastings city
+31|21660|Hayes Center|Hayes Center village
+31|21730|Hay Springs|Hay Springs village
+31|21765|Hazard|Hazard village
+31|21835|Heartwell|Heartwell village
+31|21905|Hebron|Hebron city
+31|22045|Hemingford|Hemingford village
+31|22080|Henderson|Henderson city
+31|22115|Hendley|Hendley village
+31|22150|Henry|Henry village
+31|22185|Herman|Herman village
+31|22290|Hershey|Hershey village
+31|22325|Hickman|Hickman city
+31|22430|Hildreth|Hildreth village
+31|22605|Holbrook|Holbrook village
+31|22640|Holdrege|Holdrege city
+31|22815|Holstein|Holstein village
+31|22920|Homer|Homer village
+31|23025|Hooper|Hooper city
+31|23200|Hordville|Hordville village
+31|23235|Hoskins|Hoskins village
+31|23270|Howard City|Howard City village
+31|23340|Howells|Howells village
+31|23375|Hubbard|Hubbard village
+31|23410|Hubbell|Hubbell village
+31|23445|Humboldt|Humboldt city
+31|23480|Humphrey|Humphrey city
+31|23550|Huntley|Huntley village
+31|23655|Hyannis|Hyannis village
+31|23690|Imperial|Imperial city
+31|23830|Indianola|Indianola city
+31|23970|Inglewood|Inglewood village
+31|24075|Inman|Inman village
+31|24285|Ithaca|Ithaca village
+31|24355|Jackson|Jackson village
+31|24530|Jansen|Jansen village
+31|24670|Johnson|Johnson village
+31|24740|Johnstown|Johnstown village
+31|24915|Julian|Julian village
+31|24950|Juniata|Juniata village
+31|25055|Kearney|Kearney city
+31|25160|Kenesaw|Kenesaw village
+31|25230|Kennard|Kennard village
+31|25405|Kilgore|Kilgore village
+31|25475|Kimball|Kimball city
+31|26175|Lamar|Lamar village
+31|26350|Laurel|Laurel city
+31|26385|La Vista|La Vista city
+31|26420|Lawrence|Lawrence village
+31|26455|Lebanon|Lebanon village
+31|26560|Leigh|Leigh village
+31|26630|Leshara|Leshara village
+31|26805|Lewellen|Lewellen village
+31|26875|Lewiston|Lewiston village
+31|26910|Lexington|Lexington city
+31|26980|Liberty|Liberty village
+31|28000|Lincoln|Lincoln city
+31|28105|Lindsay|Lindsay village
+31|28245|Linwood|Linwood village
+31|28350|Litchfield|Litchfield village
+31|28420|Lodgepole|Lodgepole village
+31|29050|Long Pine|Long Pine city
+31|29085|Loomis|Loomis village
+31|29175|Lorton|Lorton village
+31|29260|Louisville|Louisville city
+31|29470|Loup City|Loup City city
+31|29645|Lushton|Lushton village
+31|29715|Lyman|Lyman village
+31|29750|Lynch|Lynch village
+31|29855|Lyons|Lyons city
+31|29925|McCook|McCook city
+31|29960|McCool Junction|McCool Junction village
+31|30030|McGrew|McGrew village
+31|30065|McLean|McLean village
+31|30240|Madison|Madison city
+31|30275|Madrid|Madrid village
+31|30310|Magnet|Magnet village
+31|30345|Malcolm|Malcolm village
+31|30380|Malmo|Malmo village
+31|30415|Manley|Manley village
+31|30730|Marquette|Marquette village
+31|30940|Martinsburg|Martinsburg village
+31|31045|Maskell|Maskell village
+31|31115|Mason City|Mason City village
+31|31220|Maxwell|Maxwell village
+31|31325|Maywood|Maywood village
+31|31395|Mead|Mead village
+31|31465|Meadow Grove|Meadow Grove village
+31|31570|Melbeta|Melbeta village
+31|31640|Memphis|Memphis village
+31|31780|Merna|Merna village
+31|31815|Merriman|Merriman village
+31|32060|Milford|Milford city
+31|32130|Miller|Miller village
+31|32200|Milligan|Milligan village
+31|32305|Minatare|Minatare city
+31|32340|Minden|Minden city
+31|32410|Mitchell|Mitchell city
+31|32550|Monowi|Monowi village
+31|32585|Monroe|Monroe village
+31|32760|Moorefield|Moorefield village
+31|32830|Morrill|Morrill village
+31|32865|Morse Bluff|Morse Bluff village
+31|33250|Mullen|Mullen village
+31|33320|Murdock|Murdock village
+31|33425|Murray|Murray village
+31|33530|Naper|Naper village
+31|33565|Naponee|Naponee village
+31|33705|Nebraska City|Nebraska City city
+31|33740|Nehawka|Nehawka village
+31|33775|Neligh|Neligh city
+31|33880|Nelson|Nelson city
+31|33950|Nemaha|Nemaha village
+31|33985|Nenzel|Nenzel village
+31|34090|Newcastle|Newcastle village
+31|34230|Newman Grove|Newman Grove city
+31|34265|Newport|Newport village
+31|34300|Nickerson|Nickerson village
+31|34370|Niobrara|Niobrara village
+31|34545|Nora|Nora village
+31|34615|Norfolk|Norfolk city
+31|34650|Norman|Norman village
+31|34720|North Bend|North Bend city
+31|34825|North Loup|North Loup village
+31|35000|North Platte|North Platte city
+31|35245|Oak|Oak village
+31|35385|Oakdale|Oakdale village
+31|35490|Oakland|Oakland city
+31|35560|Obert|Obert village
+31|35665|Oconto|Oconto village
+31|35700|Octavia|Octavia village
+31|35735|Odell|Odell village
+31|35980|Ogallala|Ogallala city
+31|36015|Ohiowa|Ohiowa village
+31|37000|Omaha|Omaha city
+31|37105|O'Neill|O'Neill city
+31|37140|Ong|Ong village
+31|37210|Orchard|Orchard village
+31|37280|Ord|Ord city
+31|37420|Orleans|Orleans village
+31|37525|Osceola|Osceola city
+31|37560|Oshkosh|Oshkosh city
+31|37595|Osmond|Osmond city
+31|37630|Otoe|Otoe village
+31|37770|Overton|Overton village
+31|37910|Oxford|Oxford village
+31|38085|Page|Page village
+31|38130|Palisade|Palisade village
+31|38160|Palmer|Palmer village
+31|38190|Palmyra|Palmyra village
+31|38225|Panama|Panama village
+31|38295|Papillion|Papillion city
+31|38575|Pawnee City|Pawnee City city
+31|38610|Paxton|Paxton village
+31|38750|Pender|Pender village
+31|38960|Peru|Peru city
+31|38995|Petersburg|Petersburg village
+31|39030|Phillips|Phillips village
+31|39065|Pickrell|Pickrell village
+31|39100|Pierce|Pierce city
+31|39135|Pilger|Pilger village
+31|39170|Plainview|Plainview city
+31|39310|Platte Center|Platte Center village
+31|39345|Plattsmouth|Plattsmouth city
+31|39380|Pleasant Dale|Pleasant Dale village
+31|39450|Pleasanton|Pleasanton village
+31|39590|Plymouth|Plymouth village
+31|39660|Polk|Polk village
+31|39695|Ponca|Ponca city
+31|39870|Potter|Potter village
+31|39975|Prague|Prague village
+31|40325|Preston|Preston village
+31|40360|Primrose|Primrose village
+31|40430|Prosser|Prosser village
+31|40570|Ragan|Ragan village
+31|40605|Ralston|Ralston city
+31|40675|Randolph|Randolph city
+31|40710|Ravenna|Ravenna city
+31|40780|Raymond|Raymond village
+31|40920|Red Cloud|Red Cloud city
+31|41130|Republican City|Republican City village
+31|41235|Reynolds|Reynolds village
+31|41375|Richland|Richland village
+31|41480|Rising City|Rising City village
+31|41515|Riverdale|Riverdale village
+31|41760|Riverton|Riverton village
+31|41830|Roca|Roca village
+31|42075|Rockville|Rockville village
+31|42145|Rogers|Rogers village
+31|42250|Rosalie|Rosalie village
+31|42355|Roseland|Roseland village
+31|42495|Royal|Royal village
+31|42670|Rulo|Rulo village
+31|42775|Rushville|Rushville city
+31|42810|Ruskin|Ruskin village
+31|43055|St. Edward|St. Edward city
+31|43090|St. Helena|St. Helena village
+31|43265|St. Paul|St. Paul city
+31|43370|Salem|Salem village
+31|43475|Santee|Santee village
+31|43685|Sargent|Sargent city
+31|43755|Saronville|Saronville village
+31|44035|Schuyler|Schuyler city
+31|44070|Scotia|Scotia village
+31|44245|Scottsbluff|Scottsbluff city
+31|44280|Scribner|Scribner city
+31|44385|Seneca|Seneca village
+31|44420|Seward|Seward city
+31|44595|Shelby|Shelby village
+31|44700|Shelton|Shelton village
+31|45085|Shickley|Shickley village
+31|45190|Sholes|Sholes village
+31|45225|Shubert|Shubert village
+31|45295|Sidney|Sidney city
+31|45400|Silver Creek|Silver Creek village
+31|45575|Smithfield|Smithfield village
+31|45610|Snyder|Snyder village
+31|45680|South Bend|South Bend village
+31|46030|South Sioux City|South Sioux City city
+31|46135|Spalding|Spalding village
+31|46275|Spencer|Spencer village
+31|46380|Sprague|Sprague village
+31|46520|Springfield|Springfield city
+31|46625|Springview|Springview village
+31|46695|Stamford|Stamford village
+31|46800|Stanton|Stanton city
+31|46835|Staplehurst|Staplehurst village
+31|46870|Stapleton|Stapleton village
+31|47010|Steele City|Steele City village
+31|47080|Steinauer|Steinauer village
+31|47115|Stella|Stella village
+31|47150|Sterling|Sterling village
+31|47220|Stockham|Stockham village
+31|47290|Stockville|Stockville village
+31|47360|Strang|Strang village
+31|47395|Stratton|Stratton village
+31|47465|Stromsburg|Stromsburg city
+31|47500|Stuart|Stuart village
+31|47675|Sumner|Sumner village
+31|47815|Superior|Superior city
+31|47850|Surprise|Surprise village
+31|47920|Sutherland|Sutherland village
+31|47955|Sutton|Sutton city
+31|48060|Swanton|Swanton village
+31|48235|Syracuse|Syracuse city
+31|48270|Table Rock|Table Rock village
+31|48305|Talmage|Talmage village
+31|48410|Tarnov|Tarnov village
+31|48445|Taylor|Taylor village
+31|48480|Tecumseh|Tecumseh city
+31|48515|Tekamah|Tekamah city
+31|48585|Terrytown|Terrytown city
+31|48690|Thayer|Thayer village
+31|48760|Thedford|Thedford village
+31|48900|Thurston|Thurston village
+31|48935|Tilden|Tilden city
+31|49005|Tobias|Tobias village
+31|49145|Trenton|Trenton village
+31|49285|Trumbull|Trumbull village
+31|49425|Uehling|Uehling village
+31|49460|Ulysses|Ulysses village
+31|49530|Unadilla|Unadilla village
+31|49635|Union|Union village
+31|49880|Upland|Upland village
+31|49915|Utica|Utica village
+31|49950|Valentine|Valentine city
+31|50020|Valley|Valley city
+31|50125|Valparaiso|Valparaiso village
+31|50230|Venango|Venango village
+31|50335|Verdel|Verdel village
+31|50370|Verdigre|Verdigre village
+31|50510|Verdon|Verdon village
+31|50790|Virginia|Virginia village
+31|50895|Waco|Waco village
+31|50965|Wahoo|Wahoo city
+31|51070|Wakefield|Wakefield city
+31|51175|Wallace|Wallace village
+31|51245|Walthill|Walthill village
+31|51595|Washington|Washington village
+31|51630|Waterbury|Waterbury village
+31|51665|Waterloo|Waterloo village
+31|51700|Wauneta|Wauneta village
+31|51735|Wausa|Wausa village
+31|51770|Waverly|Waverly city
+31|51840|Wayne|Wayne city
+31|52015|Weeping Water|Weeping Water city
+31|52085|Wellfleet|Wellfleet village
+31|52295|Western|Western village
+31|52540|Weston|Weston village
+31|52575|West Point|West Point city
+31|52925|Whitney|Whitney village
+31|52960|Wilber|Wilber city
+31|52995|Wilcox|Wilcox village
+31|53240|Wilsonville|Wilsonville village
+31|53275|Winnebago|Winnebago village
+31|53345|Winnetoon|Winnetoon village
+31|53380|Winside|Winside village
+31|53415|Winslow|Winslow village
+31|53450|Wisner|Wisner city
+31|53520|Wolbach|Wolbach village
+31|53555|Wood Lake|Wood Lake village
+31|53660|Wood River|Wood River city
+31|53835|Wymore|Wymore city
+31|53905|Wynot|Wynot village
+31|54045|York|York city
+31|54115|Yutan|Yutan city

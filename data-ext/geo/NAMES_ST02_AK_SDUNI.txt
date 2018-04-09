@@ -1,0 +1,54 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+02|00001|Lower Kuskokwim School District|Lower Kuskokwim School District
+02|00003|Lower Yukon School District|Lower Yukon School District
+02|00004|Yupiit School District|Yupiit School District
+02|00005|Kashunamiut School District|Kashunamiut School District
+02|00007|Aleutians East Borough School District|Aleutians East Borough School District
+02|00010|Aleutian Region School District|Aleutian Region School District
+02|00020|Bering Strait School District|Bering Strait School District
+02|00030|Bristol Bay Borough School District|Bristol Bay Borough School District
+02|00050|Alaska Gateway School District|Alaska Gateway School District
+02|00060|Cordova City School District|Cordova City School District
+02|00070|Copper River School District|Copper River School District
+02|00090|Craig City School District|Craig City School District
+02|00100|Delta/Greely School District|Delta/Greely School District
+02|00120|Dillingham City School District|Dillingham City School District
+02|00130|Galena City School District|Galena City School District
+02|00150|Ketchikan Gateway Borough School District|Ketchikan Gateway Borough School District
+02|00180|Anchorage School District|Anchorage School District
+02|00210|Juneau Borough School District|Juneau Borough School District
+02|00240|Sitka Borough School District|Sitka Borough School District
+02|00270|Haines Borough School District|Haines Borough School District
+02|00300|Hoonah City School District|Hoonah City School District
+02|00330|Hydaburg City School District|Hydaburg City School District
+02|00360|Kake City School District|Kake City School District
+02|00390|Kenai Peninsula Borough School District|Kenai Peninsula Borough School District
+02|00450|Klawock City School District|Klawock City School District
+02|00480|Kodiak Island Borough School District|Kodiak Island Borough School District
+02|00485|Lake And Peninsula School District|Lake And Peninsula School District
+02|00510|Matanuska-Susitna Borough School District|Matanuska-Susitna Borough School District
+02|00520|Iditarod Area School District|Iditarod Area School District
+02|00525|Annette Island School District|Annette Island School District
+02|00540|Nenana City School District|Nenana City School District
+02|00570|Nome School District|Nome School District
+02|00600|Fairbanks North Star Borough School District|Fairbanks North Star Borough School District
+02|00610|North Slope Borough School District|North Slope Borough School District
+02|00625|Northwest Arctic Borough School District|Northwest Arctic Borough School District
+02|00630|Pelican City School District|Pelican City School District
+02|00660|Petersburg City School District|Petersburg City School District
+02|00670|Pribilof School District|Pribilof School District
+02|00680|St. Marys City School District|St. Marys City School District
+02|00690|Skagway School District|Skagway School District
+02|00700|Southeast Island School District|Southeast Island School District
+02|00710|Southwest Region School District|Southwest Region School District
+02|00715|Tanana School District|Tanana School District
+02|00720|Unalaska City School District|Unalaska City School District
+02|00730|Chatham School District|Chatham School District
+02|00760|Kuspuk School District|Kuspuk School District
+02|00770|Denali Borough School District|Denali Borough School District
+02|00775|Yukon Flats School District|Yukon Flats School District
+02|00780|Valdez City School District|Valdez City School District
+02|00800|Chugach School District|Chugach School District
+02|00810|Wrangell City School District|Wrangell City School District
+02|00840|Yakutat City School District|Yakutat City School District
+02|00862|Yukon-Koyukuk School District|Yukon-Koyukuk School District

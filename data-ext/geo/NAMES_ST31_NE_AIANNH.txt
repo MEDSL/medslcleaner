@@ -1,0 +1,8 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+31|1590|Iowa (KS-NE)|Iowa (KS-NE) Reservation and Off-Reservation Trust Land
+31|2550|Omaha|Omaha Reservation
+31|2810|Pine Ridge|Pine Ridge Reservation
+31|2900|Ponca (NE)|Ponca (NE) Trust Land
+31|3285|Sac and Fox Nation|Sac and Fox Nation Reservation and Off-Reservation Trust Land
+31|3565|Santee|Santee Reservation
+31|4625|Winnebago|Winnebago Reservation and Off-Reservation Trust Land

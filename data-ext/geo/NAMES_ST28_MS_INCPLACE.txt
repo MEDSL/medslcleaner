@@ -1,0 +1,299 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+28|00100|Abbeville|Abbeville town
+28|00180|Aberdeen|Aberdeen city
+28|00300|Ackerman|Ackerman town
+28|00820|Algoma|Algoma town
+28|00940|Alligator|Alligator town
+28|01260|Amory|Amory city
+28|01500|Anguilla|Anguilla town
+28|01820|Arcola|Arcola town
+28|02100|Artesia|Artesia town
+28|02140|Ashland|Ashland town
+28|02700|Baldwyn|Baldwyn city
+28|03580|Bassfield|Bassfield town
+28|03620|Batesville|Batesville city
+28|03980|Bay St. Louis|Bay St. Louis city
+28|04060|Bay Springs|Bay Springs city
+28|04500|Beaumont|Beaumont town
+28|04540|Beauregard|Beauregard village
+28|05100|Belmont|Belmont town
+28|05140|Belzoni|Belzoni city
+28|05220|Benoit|Benoit town
+28|05380|Bentonia|Bentonia town
+28|05820|Beulah|Beulah town
+28|06060|Big Creek|Big Creek village
+28|06220|Biloxi|Biloxi city
+28|07060|Blue Mountain|Blue Mountain town
+28|07100|Blue Springs|Blue Springs village
+28|07540|Bolton|Bolton town
+28|07780|Booneville|Booneville city
+28|08180|Boyle|Boyle town
+28|08300|Brandon|Brandon city
+28|08460|Braxton|Braxton village
+28|08820|Brookhaven|Brookhaven city
+28|08980|Brooksville|Brooksville town
+28|09180|Bruce|Bruce town
+28|09460|Bude|Bude town
+28|09820|Burnsville|Burnsville town
+28|10060|Byhalia|Byhalia town
+28|10140|Byram|Byram city
+28|10460|Caledonia|Caledonia town
+28|10580|Calhoun City|Calhoun City town
+28|11100|Canton|Canton city
+28|11580|Carrollton|Carrollton town
+28|11780|Carthage|Carthage city
+28|11820|Cary|Cary town
+28|12740|Centreville|Centreville town
+28|12900|Charleston|Charleston city
+28|13580|Chunky|Chunky town
+28|13820|Clarksdale|Clarksdale city
+28|14260|Cleveland|Cleveland city
+28|14420|Clinton|Clinton city
+28|14580|Coahoma|Coahoma town
+28|14740|Coffeeville|Coffeeville town
+28|14900|Coldwater|Coldwater town
+28|15140|Collins|Collins city
+28|15340|Columbia|Columbia city
+28|15380|Columbus|Columbus city
+28|15500|Como|Como town
+28|15700|Corinth|Corinth city
+28|15980|Courtland|Courtland town
+28|16420|Crawford|Crawford town
+28|16460|Crenshaw|Crenshaw town
+28|16620|Crosby|Crosby town
+28|16940|Crowder|Crowder town
+28|16980|Cruger|Cruger town
+28|17060|Crystal Springs|Crystal Springs city
+28|18180|Decatur|Decatur town
+28|18340|De Kalb|De Kalb town
+28|18940|Derma|Derma town
+28|19180|D'Iberville|D'Iberville city
+28|19340|D'Lo|D'Lo town
+28|19420|Doddsville|Doddsville town
+28|20020|Drew|Drew city
+28|20260|Duck Hill|Duck Hill town
+28|20340|Dumas|Dumas town
+28|20380|Duncan|Duncan town
+28|20500|Durant|Durant city
+28|21340|Ecru|Ecru town
+28|21420|Eden|Eden village
+28|21580|Edwards|Edwards town
+28|22020|Ellisville|Ellisville city
+28|22580|Enterprise|Enterprise town
+28|23220|Ethel|Ethel town
+28|23420|Eupora|Eupora city
+28|24180|Falcon|Falcon town
+28|24220|Falkner|Falkner town
+28|24420|Farmington|Farmington town
+28|24500|Fayette|Fayette city
+28|24940|Flora|Flora town
+28|24980|Florence|Florence town
+28|25100|Flowood|Flowood city
+28|25340|Forest|Forest city
+28|26020|French Camp|French Camp town
+28|26060|Friars Point|Friars Point town
+28|26300|Fulton|Fulton city
+28|26780|Gattman|Gattman village
+28|26860|Gautier|Gautier city
+28|26980|Georgetown|Georgetown town
+28|27540|Glen|Glen town
+28|27660|Glendora|Glendora village
+28|27820|Gloster|Gloster town
+28|27940|Golden|Golden town
+28|28220|Goodman|Goodman town
+28|29180|Greenville|Greenville city
+28|29340|Greenwood|Greenwood city
+28|29460|Grenada|Grenada city
+28|29700|Gulfport|Gulfport city
+28|29900|Gunnison|Gunnison town
+28|29940|Guntown|Guntown town
+28|30980|Hatley|Hatley town
+28|31020|Hattiesburg|Hattiesburg city
+28|31220|Hazlehurst|Hazlehurst city
+28|31420|Heidelberg|Heidelberg town
+28|31780|Hernando|Hernando city
+28|31980|Hickory|Hickory town
+28|32020|Hickory Flat|Hickory Flat town
+28|32900|Hollandale|Hollandale city
+28|33100|Holly Springs|Holly Springs city
+28|33700|Horn Lake|Horn Lake city
+28|33900|Houston|Houston city
+28|34740|Indianola|Indianola city
+28|35020|Inverness|Inverness town
+28|35220|Isola|Isola town
+28|35260|Itta Bena|Itta Bena city
+28|35300|Iuka|Iuka city
+28|36000|Jackson|Jackson city
+28|36800|Jonestown|Jonestown town
+28|37040|Jumpertown|Jumpertown town
+28|37560|Kilmichael|Kilmichael town
+28|38320|Kosciusko|Kosciusko city
+28|38360|Kossuth|Kossuth village
+28|38600|Lake|Lake town
+28|39080|Lambert|Lambert town
+28|39640|Laurel|Laurel city
+28|39840|Leakesville|Leakesville town
+28|39880|Learned|Learned town
+28|40280|Leland|Leland city
+28|40360|Lena|Lena town
+28|40600|Lexington|Lexington city
+28|40640|Liberty|Liberty town
+28|41680|Long Beach|Long Beach city
+28|42200|Louin|Louin town
+28|42240|Louise|Louise town
+28|42280|Louisville|Louisville city
+28|42440|Lucedale|Lucedale city
+28|42600|Lula|Lula town
+28|42640|Lumberton|Lumberton city
+28|42960|Lyon|Lyon town
+28|42980|Maben|Maben town
+28|43280|McComb|McComb city
+28|43400|McCool|McCool town
+28|43840|McLain|McLain town
+28|44240|Macon|Macon city
+28|44520|Madison|Madison city
+28|44600|Magee|Magee city
+28|44680|Magnolia|Magnolia city
+28|44920|Mantachie|Mantachie town
+28|44960|Mantee|Mantee village
+28|45120|Marietta|Marietta town
+28|45160|Marion|Marion town
+28|45240|Marks|Marks city
+28|45720|Mathiston|Mathiston town
+28|46000|Mayersville|Mayersville town
+28|46200|Meadville|Meadville town
+28|46600|Mendenhall|Mendenhall city
+28|46640|Meridian|Meridian city
+28|46720|Merigold|Merigold town
+28|46880|Metcalfe|Metcalfe town
+28|48240|Mize|Mize town
+28|48560|Monticello|Monticello town
+28|48640|Montrose|Montrose town
+28|48760|Moorhead|Moorhead city
+28|48800|Morgan City|Morgan City town
+28|49080|Morton|Morton city
+28|49240|Moss Point|Moss Point city
+28|49320|Mound Bayou|Mound Bayou city
+28|49520|Mount Olive|Mount Olive town
+28|50280|Myrtle|Myrtle town
+28|50440|Natchez|Natchez city
+28|50880|Nettleton|Nettleton city
+28|51000|New Albany|New Albany city
+28|51040|New Augusta|New Augusta town
+28|51360|New Hebron|New Hebron town
+28|51420|New Houlka|New Houlka town
+28|51720|Newton|Newton city
+28|52400|North Carrollton|North Carrollton town
+28|52880|Noxapater|Noxapater town
+28|53200|Oakland|Oakland town
+28|53520|Ocean Springs|Ocean Springs city
+28|53680|Okolona|Okolona city
+28|54040|Olive Branch|Olive Branch city
+28|54640|Osyka|Osyka town
+28|54840|Oxford|Oxford city
+28|54920|Pace|Pace town
+28|54960|Pachuta|Pachuta town
+28|55000|Paden|Paden village
+28|55360|Pascagoula|Pascagoula city
+28|55400|Pass Christian|Pass Christian city
+28|55760|Pearl|Pearl city
+28|56200|Pelahatchie|Pelahatchie town
+28|56800|Petal|Petal city
+28|56960|Philadelphia|Philadelphia city
+28|57160|Picayune|Picayune city
+28|57200|Pickens|Pickens town
+28|58360|Pittsboro|Pittsboro village
+28|58440|Plantersville|Plantersville town
+28|58960|Polkville|Polkville town
+28|59160|Pontotoc|Pontotoc city
+28|59240|Pope|Pope village
+28|59480|Poplarville|Poplarville city
+28|59560|Port Gibson|Port Gibson city
+28|59720|Potts Camp|Potts Camp town
+28|59920|Prentiss|Prentiss town
+28|60360|Puckett|Puckett village
+28|60480|Purvis|Purvis city
+28|60720|Quitman|Quitman city
+28|60840|Raleigh|Raleigh town
+28|61160|Raymond|Raymond city
+28|61890|Renova|Renova town
+28|62400|Richland|Richland city
+28|62480|Richton|Richton town
+28|62520|Ridgeland|Ridgeland city
+28|62560|Rienzi|Rienzi town
+28|62600|Ripley|Ripley city
+28|63560|Rolling Fork|Rolling Fork city
+28|63720|Rosedale|Rosedale city
+28|64080|Roxie|Roxie town
+28|64200|Ruleville|Ruleville city
+28|64800|Sallis|Sallis town
+28|64840|Saltillo|Saltillo city
+28|64920|Sandersville|Sandersville town
+28|65560|Sardis|Sardis town
+28|65680|Satartia|Satartia village
+28|66080|Schlater|Schlater town
+28|66160|Scooba|Scooba town
+28|66280|Sebastopol|Sebastopol town
+28|66400|Seminary|Seminary town
+28|66440|Senatobia|Senatobia city
+28|66720|Shannon|Shannon town
+28|67000|Shaw|Shaw city
+28|67040|Shelby|Shelby city
+28|67200|Sherman|Sherman town
+28|67520|Shubuta|Shubuta town
+28|67640|Shuqualak|Shuqualak town
+28|67840|Sidon|Sidon town
+28|67920|Silver City|Silver City town
+28|67960|Silver Creek|Silver Creek town
+28|68320|Slate Springs|Slate Springs village
+28|68400|Sledge|Sledge town
+28|68720|Smithville|Smithville town
+28|68960|Snow Lake Shores|Snow Lake Shores town
+28|69160|Soso|Soso town
+28|69280|Southaven|Southaven city
+28|70240|Starkville|Starkville city
+28|70320|State Line|State Line town
+28|70760|Stonewall|Stonewall town
+28|71320|Sturgis|Sturgis town
+28|71480|Summit|Summit town
+28|71520|Sumner|Sumner town
+28|71560|Sumrall|Sumrall town
+28|71600|Sunflower|Sunflower town
+28|72040|Sylvarena|Sylvarena village
+28|72360|Taylor|Taylor village
+28|72400|Taylorsville|Taylorsville town
+28|72440|Tchula|Tchula town
+28|72680|Terry|Terry town
+28|72760|Thaxton|Thaxton town
+28|73440|Tillatoba|Tillatoba town
+28|73720|Tishomingo|Tishomingo town
+28|73760|Toccopola|Toccopola town
+28|74400|Tremont|Tremont town
+28|74760|Tunica|Tunica town
+28|74840|Tupelo|Tupelo city
+28|75040|Tutwiler|Tutwiler town
+28|75160|Tylertown|Tylertown town
+28|75360|Union|Union town
+28|75760|Utica|Utica town
+28|75880|Vaiden|Vaiden town
+28|76320|Vardaman|Vardaman town
+28|76560|Verona|Verona city
+28|76720|Vicksburg|Vicksburg city
+28|77400|Walls|Walls town
+28|77480|Walnut|Walnut town
+28|77520|Walnut Grove|Walnut Grove town
+28|77640|Walthall|Walthall village
+28|78000|Water Valley|Water Valley city
+28|78200|Waveland|Waveland city
+28|78360|Waynesboro|Waynesboro city
+28|78480|Webb|Webb town
+28|78520|Weir|Weir town
+28|78640|Wesson|Wesson town
+28|78680|West|West town
+28|79120|West Point|West Point city
+28|80160|Wiggins|Wiggins city
+28|80760|Winona|Winona city
+28|80800|Winstonville|Winstonville town
+28|81000|Woodland|Woodland village
+28|81120|Woodville|Woodville town
+28|81520|Yazoo City|Yazoo City city

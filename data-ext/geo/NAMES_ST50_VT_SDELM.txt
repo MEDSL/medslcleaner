@@ -1,0 +1,176 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+50|00001|Castleton-Hubbardton Union School District 42|Castleton-Hubbardton Union School District 42
+50|00003|Lakeview Union School District 43|Lakeview Union School District 43
+50|00008|Duxbury/Waterbury Union School District 45|Duxbury/Waterbury Union School District 45
+50|00009|Mettawee Community Union School District 47|Mettawee Community Union School District 47
+50|00026|Athens/Grafton Joint Contract School District|Athens/Grafton Joint Contract School District
+50|01710|Addison School District|Addison School District
+50|01740|Albany School District|Albany School District
+50|01770|Alburgh School District|Alburgh School District
+50|01890|Bakersfield School District|Bakersfield School District
+50|01950|Barnard School District|Barnard School District
+50|01980|Barnet School District|Barnet School District
+50|02010|Barre City School District|Barre City School District
+50|02040|Barre Town School District|Barre Town School District
+50|02070|Barton Incorporated School District|Barton Incorporated School District
+50|02100|Belvidere School District|Belvidere School District
+50|02130|Bennington Incorporated School District|Bennington Incorporated School District
+50|02160|Benson School District|Benson School District
+50|02190|Berkshire School District|Berkshire School District
+50|02220|Berlin School District|Berlin School District
+50|02250|Bethel School District|Bethel School District
+50|02310|Bolton School District|Bolton School District
+50|02340|Bradford Incorporated School District|Bradford Incorporated School District
+50|02370|Braintree School District|Braintree School District
+50|02480|Brandon School District|Brandon School District
+50|02490|Brattleboro School District|Brattleboro School District
+50|02550|Bridport School District|Bridport School District
+50|02580|Bridgewater School District|Bridgewater School District
+50|02610|Brighton School District|Brighton School District
+50|02640|Bristol School District|Bristol School District
+50|02670|Brookfield School District|Brookfield School District
+50|02700|Brookline School District|Brookline School District
+50|02730|Brownington School District|Brownington School District
+50|02790|Burke School District|Burke School District
+50|02880|Calais School District|Calais School District
+50|02910|Cambridge School District|Cambridge School District
+50|03010|Cavendish School District|Cavendish School District
+50|03060|Charleston School District|Charleston School District
+50|03090|Charlotte School District|Charlotte School District
+50|03210|Clarendon School District|Clarendon School District
+50|03330|Cornwall School District|Cornwall School District
+50|03360|Coventry School District|Coventry School District
+50|03480|Derby School District|Derby School District
+50|03510|Dorset School District|Dorset School District
+50|03540|Dover School District|Dover School District
+50|03570|Dummerston School District|Dummerston School District
+50|03690|East Montpelier School District|East Montpelier School District
+50|03720|Eden School District|Eden School District
+50|03750|Elmore School District|Elmore School District
+50|03810|Essex Junction Incorporated School District|Essex Junction Incorporated School District
+50|03840|Essex Town School District|Essex Town School District
+50|03870|Fair Haven School District|Fair Haven School District
+50|03960|Fairfield School District|Fairfield School District
+50|04020|Fayston School District|Fayston School District
+50|04050|Ferrisburg School District|Ferrisburg School District
+50|04080|Fletcher School District|Fletcher School District
+50|04110|Franklin School District|Franklin School District
+50|04140|Georgia School District|Georgia School District
+50|04170|Glover School District|Glover School District
+50|04200|Goshen School District|Goshen School District
+50|04260|Granby School District|Granby School District
+50|04290|Grand Isle School District|Grand Isle School District
+50|04440|Guildhall School District|Guildhall School District
+50|04470|Guilford School District|Guilford School District
+50|04500|Halifax School District|Halifax School District
+50|04560|Hardwick School District|Hardwick School District
+50|04620|Hartland School District|Hartland School District
+50|04650|Highgate School District|Highgate School District
+50|04680|Hinesburg School District|Hinesburg School District
+50|04710|Holland School District|Holland School District
+50|04770|Huntington School District|Huntington School District
+50|04800|Hyde Park School District|Hyde Park School District
+50|04860|Irasburg School District|Irasburg School District
+50|04890|Isle La Motte School District|Isle La Motte School District
+50|04920|Jamaica School District|Jamaica School District
+50|04960|Jay/Westfield Joint Elementary School District|Jay/Westfield Joint Elementary School District
+50|04980|Jericho School District|Jericho School District
+50|05010|Johnson School District|Johnson School District
+50|05100|Leicester School District|Leicester School District
+50|05160|Lincoln School District|Lincoln School District
+50|05220|Lowell School District|Lowell School District
+50|05250|Ludlow School District|Ludlow School District
+50|05280|Lunenburg School District|Lunenburg School District
+50|05310|Lyndon School District|Lyndon School District
+50|05370|Manchester School District|Manchester School District
+50|05400|Marlboro School District|Marlboro School District
+50|05490|Middlebury Incorporated School District|Middlebury Incorporated School District
+50|05550|Middlesex School District|Middlesex School District
+50|05580|Middletown Springs School District|Middletown Springs School District
+50|05640|Monkton School District|Monkton School District
+50|05670|Montgomery School District|Montgomery School District
+50|05730|Moretown School District|Moretown School District
+50|05760|Morgan School District|Morgan School District
+50|05820|Mount Holly School District|Mount Holly School District
+50|05880|New Haven School District|New Haven School District
+50|05910|Newark School District|Newark School District
+50|05940|Newbury School District|Newbury School District
+50|05970|Newfane School District|Newfane School District
+50|06000|Newport City School District|Newport City School District
+50|06030|Newport Town School District|Newport Town School District
+50|06060|North Bennington Incorporated School District|North Bennington Incorporated School District
+50|06090|North Hero School District|North Hero School District
+50|06150|Norton School District|Norton School District
+50|06180|Norwich School District|Norwich School District
+50|06210|Orange School District|Orange School District
+50|06240|Orleans Incorporated School District|Orleans Incorporated School District
+50|06270|Orwell School District|Orwell School District
+50|06390|Peacham School District|Peacham School District
+50|06480|Pittsford School District|Pittsford School District
+50|06540|Plymouth School District|Plymouth School District
+50|06570|Pomfret School District|Pomfret School District
+50|06630|Pownal School District|Pownal School District
+50|06690|Putney School District|Putney School District
+50|06720|Randolph School District|Randolph School District
+50|06750|Reading School District|Reading School District
+50|06840|Richmond School District|Richmond School District
+50|06870|Ripton School District|Ripton School District
+50|06930|Rockingham School District|Rockingham School District
+50|06960|Roxbury School District|Roxbury School District
+50|07080|Rutland Town School District|Rutland Town School District
+50|07140|Salisbury School District|Salisbury School District
+50|07230|Shaftsbury School District|Shaftsbury School District
+50|07260|Sharon School District|Sharon School District
+50|07320|Shelburne School District|Shelburne School District
+50|07350|Sheldon School District|Sheldon School District
+50|07380|Sherburne School District|Sherburne School District
+50|07410|Shoreham School District|Shoreham School District
+50|07440|Shrewsbury School District|Shrewsbury School District
+50|07500|South Hero School District|South Hero School District
+50|07560|St. Albans City School District|St. Albans City School District
+50|07600|St. Albans Town School District|St. Albans Town School District
+50|07650|St. Johnsbury School District|St. Johnsbury School District
+50|07740|Starksboro School District|Starksboro School District
+50|07770|Stockbridge School District|Stockbridge School District
+50|07890|Sudbury School District|Sudbury School District
+50|07920|Sunderland School District|Sunderland School District
+50|07950|Sutton School District|Sutton School District
+50|07980|Swanton School District|Swanton School District
+50|08010|Thetford School District|Thetford School District
+50|08040|Tinmouth School District|Tinmouth School District
+50|08100|Townshend School District|Townshend School District
+50|08130|Troy School District|Troy School District
+50|08160|Tunbridge School District|Tunbridge School District
+50|08190|Underhill Incorporated School District|Underhill Incorporated School District
+50|08220|Underhill Town School District|Underhill Town School District
+50|08228|Millers Run Union School District 37|Millers Run Union School District 37
+50|08240|Currier Memorial Union School District 23|Currier Memorial Union School District 23
+50|08245|Chester-Andover Union School District 29|Chester-Andover Union School District 29
+50|08250|Vergennes Union High School District 44|Vergennes Union High School District 44
+50|08310|Vernon School District|Vernon School District
+50|08400|Waitsfield School District|Waitsfield School District
+50|08430|Walden School District|Walden School District
+50|08460|Wallingford School District|Wallingford School District
+50|08520|Wardsboro School District|Wardsboro School District
+50|08550|Warren School District|Warren School District
+50|08580|Washington School District|Washington School District
+50|08670|Waterville School District|Waterville School District
+50|08760|Wells School District|Wells School District
+50|08820|West Haven School District|West Haven School District
+50|08880|West Windsor School District|West Windsor School District
+50|08940|Westford School District|Westford School District
+50|08970|Westminster School District|Westminster School District
+50|09000|Westmore School District|Westmore School District
+50|09060|Weybridge School District|Weybridge School District
+50|09120|Whiting School District|Whiting School District
+50|09150|Whitingham School District|Whitingham School District
+50|09210|Williston School District|Williston School District
+50|09240|Wilmington School District|Wilmington School District
+50|09270|Windham School District|Windham School District
+50|09330|Winhall School District|Winhall School District
+50|09390|Wolcott School District|Wolcott School District
+50|09420|Woodbury School District|Woodbury School District
+50|09450|Woodford School District|Woodford School District
+50|09480|Woodstock School District|Woodstock School District
+50|09540|Worcester School District|Worcester School District
+50|99960|Barstow Joint Contract School District|Barstow Joint Contract School District

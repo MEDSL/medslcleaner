@@ -1,0 +1,296 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+53|00001|Enumclaw School District|Enumclaw School District
+53|00002|Inchelium School District|Inchelium School District
+53|00003|Kelso School District|Kelso School District
+53|00030|Aberdeen School District|Aberdeen School District
+53|00060|Adna School District|Adna School District
+53|00090|Almira School District|Almira School District
+53|00150|Anacortes School District|Anacortes School District
+53|00240|Arlington School District|Arlington School District
+53|00280|Asotin-Anatone School District|Asotin-Anatone School District
+53|00300|Auburn School District|Auburn School District
+53|00330|Bainbridge Island School District|Bainbridge Island School District
+53|00380|Battle Ground School District|Battle Ground School District
+53|00390|Bellevue School District|Bellevue School District
+53|00420|Bellingham School District|Bellingham School District
+53|00450|Benge School District|Benge School District
+53|00480|Bethel School District|Bethel School District
+53|00510|Bickleton School District|Bickleton School District
+53|00570|Blaine School District|Blaine School District
+53|00630|Boistfort School District|Boistfort School District
+53|00660|Bremerton School District|Bremerton School District
+53|00690|Brewster School District|Brewster School District
+53|00720|Bridgeport School District|Bridgeport School District
+53|00750|Brinnon School District|Brinnon School District
+53|00780|Burlington-Edison School District|Burlington-Edison School District
+53|00810|Camas School District|Camas School District
+53|00840|Cape Flattery School District|Cape Flattery School District
+53|00870|Carbonado School District|Carbonado School District
+53|00950|Cascade School District|Cascade School District
+53|00960|Cashmere School District|Cashmere School District
+53|00990|Castle Rock School District|Castle Rock School District
+53|01050|Centerville School District|Centerville School District
+53|01080|Central Kitsap School District|Central Kitsap School District
+53|01110|Central Valley School District|Central Valley School District
+53|01140|Centralia School District|Centralia School District
+53|01170|Chehalis School District|Chehalis School District
+53|01200|Lake Chelan School District|Lake Chelan School District
+53|01230|Cheney School District|Cheney School District
+53|01260|Chewelah School District|Chewelah School District
+53|01290|Chimacum School District|Chimacum School District
+53|01320|Clarkston School District|Clarkston School District
+53|01350|Cle Elum-Roslyn School District|Cle Elum-Roslyn School District
+53|01380|Queets-Clearwater School District|Queets-Clearwater School District
+53|01410|Clover Park School District|Clover Park School District
+53|01440|Colfax School District|Colfax School District
+53|01470|College Place School District|College Place School District
+53|01500|Colton School District|Colton School District
+53|01560|Columbia School District|Columbia School District
+53|01590|Columbia School District|Columbia School District
+53|01630|Colville School District|Colville School District
+53|01660|Concrete School District|Concrete School District
+53|01680|Conway School District|Conway School District
+53|01710|Cosmopolis School District|Cosmopolis School District
+53|01800|Coupeville School District|Coupeville School District
+53|01830|Crescent School District|Crescent School District
+53|01860|Creston School District|Creston School District
+53|01890|Curlew School District|Curlew School District
+53|01920|Cusick School District|Cusick School District
+53|01950|Damman School District|Damman School District
+53|01980|Darrington School District|Darrington School District
+53|02010|Davenport School District|Davenport School District
+53|02040|Dayton School District|Dayton School District
+53|02070|Deer Park School District|Deer Park School District
+53|02130|Dieringer School District|Dieringer School District
+53|02160|Dixie School District|Dixie School District
+53|02280|East Valley School District (Spokane)|East Valley School District (Spokane)
+53|02310|Eastmont School District|Eastmont School District
+53|02340|Easton School District|Easton School District
+53|02370|Eatonville School District|Eatonville School District
+53|02400|Edmonds School District|Edmonds School District
+53|02460|Ellensburg School District|Ellensburg School District
+53|02490|Elma School District|Elma School District
+53|02520|Endicott School District|Endicott School District
+53|02550|Entiat School District|Entiat School District
+53|02610|Ephrata School District|Ephrata School District
+53|02640|Evaline School District|Evaline School District
+53|02670|Everett School District|Everett School District
+53|02700|Evergreen School District (Clark)|Evergreen School District (Clark)
+53|02730|Evergreen School District (Stevens)|Evergreen School District (Stevens)
+53|02820|Federal Way School District|Federal Way School District
+53|02850|Ferndale School District|Ferndale School District
+53|02880|Fife Public Schools|Fife Public Schools
+53|02910|Finley School District|Finley School District
+53|02940|Franklin Pierce School District|Franklin Pierce School District
+53|02970|Freeman School District|Freeman School District
+53|03000|Garfield School District|Garfield School District
+53|03030|Glenwood School District|Glenwood School District
+53|03090|Goldendale School District|Goldendale School District
+53|03130|Grand Coulee Dam School District|Grand Coulee Dam School District
+53|03150|Grandview School District|Grandview School District
+53|03180|Granger School District|Granger School District
+53|03210|Granite Falls School District|Granite Falls School District
+53|03240|Grapeview School District|Grapeview School District
+53|03270|Great Northern School District|Great Northern School District
+53|03300|Green Mountain School District|Green Mountain School District
+53|03330|Griffin School District|Griffin School District
+53|03360|Harrington School District|Harrington School District
+53|03440|Coulee-Hartline School District|Coulee-Hartline School District
+53|03510|Highland School District|Highland School District
+53|03540|Highline School District|Highline School District
+53|03570|Hockinson School District|Hockinson School District
+53|03600|Hood Canal School District|Hood Canal School District
+53|03660|Hoquiam School District|Hoquiam School District
+53|03720|Index School District|Index School District
+53|03750|Issaquah School District|Issaquah School District
+53|03780|Kahlotus School District|Kahlotus School District
+53|03810|Kalama School District|Kalama School District
+53|03870|Keller School District|Keller School District
+53|03930|Kennewick School District|Kennewick School District
+53|03960|Kent School District|Kent School District
+53|03990|Kettle Falls School District|Kettle Falls School District
+53|04020|Kiona-Benton School District|Kiona-Benton School District
+53|04050|Kittitas School District|Kittitas School District
+53|04080|Klickitat School District|Klickitat School District
+53|04110|La Conner School District|La Conner School District
+53|04150|LaCrosse School District|LaCrosse School District
+53|04170|La Center School District|La Center School District
+53|04200|Lake Stevens School District|Lake Stevens School District
+53|04230|Lake Washington School District|Lake Washington School District
+53|04260|Lakewood School District|Lakewood School District
+53|04290|Lamont School District|Lamont School District
+53|04380|Liberty School District|Liberty School District
+53|04410|Lind School District|Lind School District
+53|04470|Longview Public Schools|Longview Public Schools
+53|04500|Loon Lake School District|Loon Lake School District
+53|04530|Lopez School District|Lopez School District
+53|04560|Riverview School District|Riverview School District
+53|04590|Lyle School District|Lyle School District
+53|04620|Lynden School District|Lynden School District
+53|04650|Mabton School District|Mabton School District
+53|04710|Mansfield School District|Mansfield School District
+53|04740|Manson School District|Manson School District
+53|04800|Mary M. Knight School District|Mary M. Knight School District
+53|04830|Mary Walker School District|Mary Walker School District
+53|04860|Marysville School District|Marysville School District
+53|04890|McCleary School District|McCleary School District
+53|04920|Mead School District|Mead School District
+53|04950|Medical Lake School District|Medical Lake School District
+53|04980|Mercer Island School District|Mercer Island School District
+53|05010|Meridian School District|Meridian School District
+53|05020|Methow Valley School District|Methow Valley School District
+53|05040|Mill A School District|Mill A School District
+53|05130|Monroe School District|Monroe School District
+53|05160|Montesano School District|Montesano School District
+53|05190|Morton School District|Morton School District
+53|05220|Moses Lake School District|Moses Lake School District
+53|05250|Mossyrock School District|Mossyrock School District
+53|05280|Mount Adams School District|Mount Adams School District
+53|05310|Mount Baker School District|Mount Baker School District
+53|05340|Mount Pleasant School District|Mount Pleasant School District
+53|05370|East Valley School District (Yakima)|East Valley School District (Yakima)
+53|05400|Mount Vernon School District|Mount Vernon School District
+53|05430|Mukilteo School District|Mukilteo School District
+53|05460|Naches Valley School District|Naches Valley School District
+53|05490|Napavine School District|Napavine School District
+53|05520|Naselle-Grays River Valley School District|Naselle-Grays River Valley School District
+53|05550|Nespelem School District|Nespelem School District
+53|05610|Newport School District|Newport School District
+53|05640|Nine Mile Falls School District|Nine Mile Falls School District
+53|05670|Nooksack Valley School District|Nooksack Valley School District
+53|05700|North Beach School District|North Beach School District
+53|05730|North Franklin School District|North Franklin School District
+53|05760|North Kitsap School District|North Kitsap School District
+53|05790|North Mason School District|North Mason School District
+53|05820|North River School District|North River School District
+53|05850|North Thurston Public Schools|North Thurston Public Schools
+53|05880|Northport School District|Northport School District
+53|05910|Northshore School District|Northshore School District
+53|05940|Oak Harbor School District|Oak Harbor School District
+53|05970|Oakesdale School District|Oakesdale School District
+53|06000|Oakville School District|Oakville School District
+53|06060|Ocean Beach School District|Ocean Beach School District
+53|06090|Ocosta School District|Ocosta School District
+53|06120|Odessa School District|Odessa School District
+53|06150|Okanogan School District|Okanogan School District
+53|06180|Olympia School District|Olympia School District
+53|06220|Omak School District|Omak School District
+53|06240|Onalaska School District|Onalaska School District
+53|06270|Onion Creek School District|Onion Creek School District
+53|06300|Orcas Island School District|Orcas Island School District
+53|06330|Orchard Prairie School District|Orchard Prairie School District
+53|06360|Orient School District|Orient School District
+53|06390|Orondo School District|Orondo School District
+53|06420|Oroville School District|Oroville School District
+53|06450|Orting School District|Orting School District
+53|06480|Othello School District|Othello School District
+53|06510|Palisades School District|Palisades School District
+53|06540|Palouse School District|Palouse School District
+53|06570|Pasco School District|Pasco School District
+53|06600|Pateros School District|Pateros School District
+53|06630|Paterson School District|Paterson School District
+53|06660|Pe Ell School District|Pe Ell School District
+53|06690|Peninsula School District|Peninsula School District
+53|06750|Pioneer School District|Pioneer School District
+53|06780|Pomeroy School District|Pomeroy School District
+53|06820|Port Angeles School District|Port Angeles School District
+53|06840|Port Townsend School District|Port Townsend School District
+53|06870|Prescott School District|Prescott School District
+53|06900|Prosser School District|Prosser School District
+53|06930|Pullman School District|Pullman School District
+53|06960|Puyallup School District|Puyallup School District
+53|06990|Quilcene School District|Quilcene School District
+53|07020|Quillayute Valley School District|Quillayute Valley School District
+53|07050|Lake Quinault School District|Lake Quinault School District
+53|07080|Quincy School District|Quincy School District
+53|07110|Rainier School District|Rainier School District
+53|07140|Raymond School District|Raymond School District
+53|07210|Reardan-Edwall School District|Reardan-Edwall School District
+53|07230|Renton School District|Renton School District
+53|07260|Republic School District|Republic School District
+53|07320|Richland School District|Richland School District
+53|07350|Ridgefield School District|Ridgefield School District
+53|07380|Ritzville School District|Ritzville School District
+53|07440|Riverside School District|Riverside School District
+53|07470|Rochester School District|Rochester School District
+53|07530|Roosevelt School District|Roosevelt School District
+53|07560|Rosalia School District|Rosalia School District
+53|07620|Royal School District|Royal School District
+53|07650|San Juan Island School District|San Juan Island School District
+53|07680|Satsop School District|Satsop School District
+53|07710|Seattle School District|Seattle School District
+53|07740|Sedro-Woolley School District|Sedro-Woolley School District
+53|07770|Selah School District|Selah School District
+53|07800|Selkirk School District|Selkirk School District
+53|07830|Sequim School District|Sequim School District
+53|07860|Shaw Island School District|Shaw Island School District
+53|07900|Shelton School District|Shelton School District
+53|07920|Shoreline School District|Shoreline School District
+53|07950|Skamania School District|Skamania School District
+53|07980|Skykomish School District|Skykomish School District
+53|08020|Snohomish School District|Snohomish School District
+53|08040|Snoqualmie Valley School District|Snoqualmie Valley School District
+53|08070|Soap Lake School District|Soap Lake School District
+53|08100|South Bend School District|South Bend School District
+53|08130|Tukwila School District|Tukwila School District
+53|08160|South Kitsap School District|South Kitsap School District
+53|08190|South Whidbey School District|South Whidbey School District
+53|08220|Southside School District|Southside School District
+53|08250|Spokane Public Schools|Spokane Public Schools
+53|08280|Sprague School District|Sprague School District
+53|08310|St. John School District|St. John School District
+53|08340|Stanwood-Camano School District|Stanwood-Camano School District
+53|08370|Star School District|Star School District
+53|08400|Starbuck School District|Starbuck School District
+53|08430|Stehekin School District|Stehekin School District
+53|08460|Steilacoom Historical School District|Steilacoom Historical School District
+53|08490|Steptoe School District|Steptoe School District
+53|08520|Stevenson-Carson School District|Stevenson-Carson School District
+53|08550|Sultan School District|Sultan School District
+53|08580|Summit Valley School District|Summit Valley School District
+53|08610|Sumner School District|Sumner School District
+53|08670|Sunnyside School District|Sunnyside School District
+53|08700|Tacoma Public Schools|Tacoma Public Schools
+53|08730|Taholah School District|Taholah School District
+53|08760|Tahoma School District|Tahoma School District
+53|08790|Tekoa School District|Tekoa School District
+53|08820|Tenino School District|Tenino School District
+53|08850|Thorp School District|Thorp School District
+53|08910|Toledo School District|Toledo School District
+53|08940|Tonasket School District|Tonasket School District
+53|08970|Toppenish School District|Toppenish School District
+53|09000|Touchet School District|Touchet School District
+53|09030|Toutle Lake School District|Toutle Lake School District
+53|09060|Trout Lake School District|Trout Lake School District
+53|09100|Tumwater School District|Tumwater School District
+53|09150|Union Gap School District|Union Gap School District
+53|09180|University Place School District|University Place School District
+53|09240|Valley School District|Valley School District
+53|09270|Vancouver Public Schools|Vancouver Public Schools
+53|09300|Vashon Island School District|Vashon Island School District
+53|09330|Wahkiakum School District|Wahkiakum School District
+53|09360|Wahluke School District|Wahluke School District
+53|09390|Waitsburg School District|Waitsburg School District
+53|09450|Walla Walla School District|Walla Walla School District
+53|09480|Wapato School District|Wapato School District
+53|09510|Warden School District|Warden School District
+53|09540|Washougal School District|Washougal School District
+53|09570|Washtucna School District|Washtucna School District
+53|09600|Waterville School District|Waterville School District
+53|09630|Wellpinit School District|Wellpinit School District
+53|09660|Wenatchee School District|Wenatchee School District
+53|09690|West Valley School District|West Valley School District
+53|09720|West Valley School District|West Valley School District
+53|09750|White Pass School District|White Pass School District
+53|09780|White River School District|White River School District
+53|09810|White Salmon Valley School District|White Salmon Valley School District
+53|09840|Wilbur School District|Wilbur School District
+53|09870|Willapa Valley School District|Willapa Valley School District
+53|09900|Wilson Creek School District|Wilson Creek School District
+53|09930|Winlock School District|Winlock School District
+53|09990|Wishkah Valley School District|Wishkah Valley School District
+53|10020|Wishram School District|Wishram School District
+53|10050|Woodland School District|Woodland School District
+53|10110|Yakima School District|Yakima School District
+53|10140|Yelm Community Schools|Yelm Community Schools
+53|10170|Zillah School District|Zillah School District

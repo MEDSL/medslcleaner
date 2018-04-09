@@ -1,0 +1,525 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+26|00005|Battle Creek Public Schools|Battle Creek Public Schools
+26|00006|Bessemer Area School District|Bessemer Area School District
+26|00007|Harbor Beach Community Schools|Harbor Beach Community Schools
+26|00012|St. Ignace Area Schools|St. Ignace Area Schools
+26|00013|Marquette Area Public Schools|Marquette Area Public Schools
+26|00014|Ewen-Trout Creek Consolidated Schools|Ewen-Trout Creek Consolidated Schools
+26|00015|Wayne-Westland Community School District|Wayne-Westland Community School District
+26|00016|Crestwood School District|Crestwood School District
+26|00017|Bad Axe Public Schools|Bad Axe Public Schools
+26|00018|L'Anse Area Schools|L'Anse Area Schools
+26|00019|Superior Central Schools|Superior Central Schools
+26|01890|Adams Township School District|Adams Township School District
+26|01920|Addison Community Schools|Addison Community Schools
+26|01950|Adrian City School District|Adrian City School District
+26|01980|Airport Community School District|Airport Community School District
+26|02010|Akron-Fairgrove Schools|Akron-Fairgrove Schools
+26|02040|Alba Public Schools|Alba Public Schools
+26|02070|Albion Public Schools|Albion Public Schools
+26|02160|Alcona Community Schools|Alcona Community Schools
+26|02190|Algonac Community School District|Algonac Community School District
+26|02220|Allegan Public Schools|Allegan Public Schools
+26|02520|Allen Park Public Schools|Allen Park Public Schools
+26|02550|Allendale Public School District|Allendale Public School District
+26|02640|Alma Public Schools|Alma Public Schools
+26|02670|Almont Community Schools|Almont Community Schools
+26|02730|Alpena Public Schools|Alpena Public Schools
+26|02790|Anchor Bay School District|Anchor Bay School District
+26|02820|Ann Arbor Public Schools|Ann Arbor Public Schools
+26|03060|Arenac Eastern School District|Arenac Eastern School District
+26|03240|Armada Area Schools|Armada Area Schools
+26|03480|Ashley Community Schools|Ashley Community Schools
+26|03510|Athens Area Schools|Athens Area Schools
+26|03540|Atherton Community Schools|Atherton Community Schools
+26|03570|Atlanta Community Schools|Atlanta Community Schools
+26|03600|Au Gres-Sims School District|Au Gres-Sims School District
+26|03690|Avondale School District|Avondale School District
+26|03810|Baldwin Community Schools|Baldwin Community Schools
+26|03870|Bangor Public Schools|Bangor Public Schools
+26|03900|Bangor Township Schools|Bangor Township Schools
+26|03990|Baraga Area Schools|Baraga Area Schools
+26|04020|Bark River-Harris School District|Bark River-Harris School District
+26|04170|Bath Community Schools|Bath Community Schools
+26|04260|Bay City School District|Bay City School District
+26|04290|Beal City Public Schools|Beal City Public Schools
+26|04320|Bear Lake School District|Bear Lake School District
+26|04350|Beaver Island Community School|Beaver Island Community School
+26|04440|Beaverton Rural Schools|Beaverton Rural Schools
+26|04470|Bedford Public Schools|Bedford Public Schools
+26|04500|Beecher Community School District|Beecher Community School District
+26|04530|Belding Area School District|Belding Area School District
+26|04620|Bellaire Public Schools|Bellaire Public Schools
+26|04650|Bellevue Community Schools|Bellevue Community Schools
+26|04740|Bendle Public Schools|Bendle Public Schools
+26|04800|Bentley Community Schools|Bentley Community Schools
+26|04830|Benton Harbor Area Schools|Benton Harbor Area Schools
+26|04950|Benzie County Central School|Benzie County Central School
+26|05010|Berkley School District|Berkley School District
+26|05430|Berrien Springs Public Schools|Berrien Springs Public Schools
+26|05690|Big Bay de Noc School District|Big Bay de Noc School District
+26|05780|Big Rapids Public Schools|Big Rapids Public Schools
+26|05820|Birch Run Area School District|Birch Run Area School District
+26|05850|Birmingham City School District|Birmingham City School District
+26|06000|Blissfield Community Schools|Blissfield Community Schools
+26|06090|Bloomfield Hills School District|Bloomfield Hills School District
+26|06270|Bloomingdale Public School District|Bloomingdale Public School District
+26|06500|Boyne City Public Schools|Boyne City Public Schools
+26|06510|Boyne Falls Public School District|Boyne Falls Public School District
+26|06570|Brandon School District|Brandon School District
+26|06600|Brandywine Public School District|Brandywine Public School District
+26|06630|Breckenridge Community Schools|Breckenridge Community Schools
+26|06720|Breitung Township Schools|Breitung Township Schools
+26|06780|Bridgeport-Spaulding Community School District|Bridgeport-Spaulding Community School District
+26|06840|Bridgman Public Schools|Bridgman Public Schools
+26|06870|Brighton Area Schools|Brighton Area Schools
+26|06900|Brimley Area Schools|Brimley Area Schools
+26|06930|Britton-Macon Area School District|Britton-Macon Area School District
+26|06960|Bronson Community School District|Bronson Community School District
+26|06990|Columbia School District|Columbia School District
+26|07040|Brown City Community School District|Brown City Community School District
+26|07080|Flat Rock Community Schools|Flat Rock Community Schools
+26|07140|Buchanan Community School District|Buchanan Community School District
+26|07170|Buckley Community School District|Buckley Community School District
+26|07230|Buena Vista School District|Buena Vista School District
+26|07320|Bullock Creek School District|Bullock Creek School District
+26|07410|Burr Oak Community School District|Burr Oak Community School District
+26|07470|Burt Township School District|Burt Township School District
+26|07530|Byron Area Schools|Byron Area Schools
+26|07560|Byron Center Public Schools|Byron Center Public Schools
+26|07590|Cadillac Area Public Schools|Cadillac Area Public Schools
+26|07620|Caledonia Community Schools|Caledonia Community Schools
+26|07690|Calumet Public Schools|Calumet Public Schools
+26|07710|Camden-Frontier School District|Camden-Frontier School District
+26|07800|Capac Community School District|Capac Community School District
+26|07890|Carman-Ainsworth Community School District|Carman-Ainsworth Community School District
+26|08010|Carney-Nadeau Public Schools|Carney-Nadeau Public Schools
+26|08040|Caro Community Schools|Caro Community Schools
+26|08070|Carrollton School District|Carrollton School District
+26|08130|Carson City-Crystal Area School District|Carson City-Crystal Area School District
+26|08160|Carsonville-Port Sanilac School District|Carsonville-Port Sanilac School District
+26|08280|Caseville Public Schools|Caseville Public Schools
+26|08400|Cass City Public Schools|Cass City Public Schools
+26|08430|Cassopolis Public Schools|Cassopolis Public Schools
+26|08520|Cedar Springs Public Schools|Cedar Springs Public Schools
+26|08580|Center Line Public Schools|Center Line Public Schools
+26|08610|Central Lake Public Schools|Central Lake Public Schools
+26|08640|Central Montcalm Public Schools|Central Montcalm Public Schools
+26|08670|Centreville Public Schools|Centreville Public Schools
+26|08730|Charlevoix Public Schools|Charlevoix Public Schools
+26|08770|Charlotte Public Schools|Charlotte Public Schools
+26|08880|Chassell Township School District|Chassell Township School District
+26|08910|Cheboygan Area Schools|Cheboygan Area Schools
+26|08940|Chelsea School District|Chelsea School District
+26|09150|Chesaning Union Schools|Chesaning Union Schools
+26|09560|Chippewa Hills School District|Chippewa Hills School District
+26|09570|Chippewa Valley Schools|Chippewa Valley Schools
+26|09750|Clare Public Schools|Clare Public Schools
+26|09840|Clarenceville School District|Clarenceville School District
+26|09900|Clarkston Community School District|Clarkston Community School District
+26|09930|Clawson City School District|Clawson City School District
+26|10020|Climax-Scotts Community School District|Climax-Scotts Community School District
+26|10050|Clinton Community Schools|Clinton Community Schools
+26|10080|Clintondale Community Schools|Clintondale Community Schools
+26|10110|Clio Area School District|Clio Area School District
+26|10140|Coldwater Community Schools|Coldwater Community Schools
+26|10200|Coleman Community School District|Coleman Community School District
+26|10380|Coloma Community Schools|Coloma Community Schools
+26|10410|Colon Community School District|Colon Community School District
+26|10560|Fairview Area School District|Fairview Area School District
+26|10590|Comstock Public Schools|Comstock Public Schools
+26|10620|Comstock Park Public Schools|Comstock Park Public Schools
+26|10650|Concord Community Schools|Concord Community Schools
+26|10750|Constantine Public School District|Constantine Public School District
+26|10830|Coopersville Public School District|Coopersville Public School District
+26|10860|Corunna Public School District|Corunna Public School District
+26|10980|Covert Public Schools|Covert Public Schools
+26|11030|Crawford AuSable Schools|Crawford AuSable Schools
+26|11140|Croswell-Lexington Community School District|Croswell-Lexington Community School District
+26|11190|Forest Park School District|Forest Park School District
+26|11400|Dansville Schools|Dansville Schools
+26|11430|Davison Community Schools|Davison Community Schools
+26|11550|DeWitt Public Schools|DeWitt Public Schools
+26|11600|Dearborn City School District|Dearborn City School District
+26|11610|Dearborn Heights School District 7|Dearborn Heights School District 7
+26|11640|Westwood Community Schools|Westwood Community Schools
+26|11670|Decatur Public Schools|Decatur Public Schools
+26|11700|Deckerville Community School District|Deckerville Community School District
+26|11730|Deerfield Public Schools|Deerfield Public Schools
+26|11910|Delton-Kellogg School District|Delton-Kellogg School District
+26|11970|DeTour Area Schools|DeTour Area Schools
+26|12000|Detroit City School District|Detroit City School District
+26|12030|Dexter Community School District|Dexter Community School District
+26|12150|Dowagiac Union Schools|Dowagiac Union Schools
+26|12240|Dryden Community Schools|Dryden Community Schools
+26|12300|Dundee Community Schools|Dundee Community Schools
+26|12330|Durand Area Schools|Durand Area Schools
+26|12420|East China School District|East China School District
+26|12450|East Detroit Public Schools|East Detroit Public Schools
+26|12480|East Grand Rapids Public School District|East Grand Rapids Public School District
+26|12540|East Jackson Community Schools|East Jackson Community Schools
+26|12560|East Jordan Public Schools|East Jordan Public Schools
+26|12600|East Lansing School District|East Lansing School District
+26|12690|Eaton Rapids Public Schools|Eaton Rapids Public Schools
+26|12810|Eau Claire Public Schools|Eau Claire Public Schools
+26|12930|Ecorse Public School District|Ecorse Public School District
+26|12960|Montabella Community Schools|Montabella Community Schools
+26|12990|Edwardsburg Public Schools|Edwardsburg Public Schools
+26|13050|Elk Rapids Schools|Elk Rapids Schools
+26|13090|Elkton-Pigeon-Bay Port Schools|Elkton-Pigeon-Bay Port Schools
+26|13110|Ellsworth Community Schools|Ellsworth Community Schools
+26|13500|Escanaba Area Public Schools|Escanaba Area Public Schools
+26|13530|Essexville-Hampton Public Schools|Essexville-Hampton Public Schools
+26|13560|Evart Public Schools|Evart Public Schools
+26|14070|Farmington Public School District|Farmington Public School District
+26|14100|Farwell Area Schools|Farwell Area Schools
+26|14230|Fennville Public Schools|Fennville Public Schools
+26|14250|Fenton Area Public Schools|Fenton Area Public Schools
+26|14280|Ferndale Public Schools|Ferndale Public Schools
+26|14460|Fitzgerald Public Schools|Fitzgerald Public Schools
+26|14520|Flint City School District|Flint City School District
+26|14550|Flushing Community Schools|Flushing Community Schools
+26|14570|Forest Area Community Schools|Forest Area Community Schools
+26|14610|Forest Hills Public Schools|Forest Hills Public Schools
+26|14690|Gwinn Area Community Schools|Gwinn Area Community Schools
+26|14700|Fowler Public Schools|Fowler Public Schools
+26|14730|Fowlerville Community Schools|Fowlerville Community Schools
+26|14760|Frankenmuth School District|Frankenmuth School District
+26|14790|Frankfort-Elberta Area Schools|Frankfort-Elberta Area Schools
+26|14820|Fraser Public Schools|Fraser Public Schools
+26|15060|Freeland Community School District|Freeland Community School District
+26|15090|Free Soil Community Schools|Free Soil Community Schools
+26|15150|Fremont Public School District|Fremont Public School District
+26|15390|Fruitport Community Schools|Fruitport Community Schools
+26|15420|Fulton Schools|Fulton Schools
+26|15450|Galesburg-Augusta Community School District|Galesburg-Augusta Community School District
+26|15480|Galien Township School District|Galien Township School District
+26|15540|Garden City School District|Garden City School District
+26|15600|Engadine Consolidated Schools|Engadine Consolidated Schools
+26|15730|Gaylord Community Schools|Gaylord Community Schools
+26|15750|Genesee School District|Genesee School District
+26|15830|Gerrish-Higgins School District|Gerrish-Higgins School District
+26|15870|Gibraltar School District|Gibraltar School District
+26|15970|Gladstone Area Schools|Gladstone Area Schools
+26|15990|Gladwin Community Schools|Gladwin Community Schools
+26|16020|Glen Lake Community Schools|Glen Lake Community Schools
+26|16050|Gobles Public School District|Gobles Public School District
+26|16080|Godfrey-Lee Public Schools|Godfrey-Lee Public Schools
+26|16110|Godwin Heights Public Schools|Godwin Heights Public Schools
+26|16320|Goodrich Area Schools|Goodrich Area Schools
+26|16350|Grand Blanc Community Schools|Grand Blanc Community Schools
+26|16380|Grand Haven Area Public Schools|Grand Haven Area Public Schools
+26|16410|Grand Ledge Public Schools|Grand Ledge Public Schools
+26|16440|Grand Rapids Public Schools|Grand Rapids Public Schools
+26|16470|Grandville Public Schools|Grandville Public Schools
+26|16500|Grant Public School District|Grant Public School District
+26|16830|Grass Lake Community Schools|Grass Lake Community Schools
+26|17160|Greenville Public Schools|Greenville Public Schools
+26|17220|Grosse Ile Township Schools|Grosse Ile Township Schools
+26|17250|Gull Lake Community Schools|Gull Lake Community Schools
+26|17370|Hale Area Schools|Hale Area Schools
+26|17400|Hamilton Community Schools|Hamilton Community Schools
+26|17520|Hamtramck Public Schools|Hamtramck Public Schools
+26|17550|Hancock Public Schools|Hancock Public Schools
+26|17640|Hanover-Horton Schools|Hanover-Horton Schools
+26|17700|Harbor Springs School District|Harbor Springs School District
+26|17730|Harper Creek Community Schools|Harper Creek Community Schools
+26|17760|Harper Woods City Schools|Harper Woods City Schools
+26|17820|Harrison Community Schools|Harrison Community Schools
+26|17860|Hart Public School District|Hart Public School District
+26|17880|Hartford Public School District|Hartford Public School District
+26|17910|Hartland Consolidated Schools|Hartland Consolidated Schools
+26|17940|Haslett Public Schools|Haslett Public Schools
+26|17970|Hastings Area School District|Hastings Area School District
+26|18030|Hazel Park City School District|Hazel Park City School District
+26|18180|Hemlock Public School District|Hemlock Public School District
+26|18270|Hesperia Community Schools|Hesperia Community Schools
+26|18330|Highland Park City Schools|Highland Park City Schools
+26|18360|Hillman Community Schools|Hillman Community Schools
+26|18390|Hillsdale Community Schools|Hillsdale Community Schools
+26|18420|Holland City School District|Holland City School District
+26|18450|Holly Area School District|Holly Area School District
+26|18480|Holt Public Schools|Holt Public Schools
+26|18510|Holton Public Schools|Holton Public Schools
+26|18540|Homer Community Schools|Homer Community Schools
+26|18570|Hopkins Public Schools|Hopkins Public Schools
+26|18600|Houghton Lake Community School District|Houghton Lake Community School District
+26|18720|Howell Public Schools|Howell Public Schools
+26|18810|Hudson Area Schools|Hudson Area Schools
+26|18840|Hudsonville Public School District|Hudsonville Public School District
+26|18930|Huron School District|Huron School District
+26|18990|Huron Valley Schools|Huron Valley Schools
+26|19050|Ida Public School District|Ida Public School District
+26|19100|Imlay City Community Schools|Imlay City Community Schools
+26|19140|Inkster City School District|Inkster City School District
+26|19170|Inland Lakes Schools|Inland Lakes Schools
+26|19250|Ionia Public Schools|Ionia Public Schools
+26|19410|Iron Mountain Public Schools|Iron Mountain Public Schools
+26|19470|Ironwood Area Schools|Ironwood Area Schools
+26|19530|Ishpeming Public School District|Ishpeming Public School District
+26|19580|Ithaca Public Schools|Ithaca Public Schools
+26|19620|Jackson Public Schools|Jackson Public Schools
+26|19800|Jefferson Schools|Jefferson Schools
+26|19830|Jenison Public Schools|Jenison Public Schools
+26|19890|Johannesburg-Lewiston Area School District|Johannesburg-Lewiston Area School District
+26|19920|Jonesville Community Schools|Jonesville Community Schools
+26|19950|Kalamazoo Public School District|Kalamazoo Public School District
+26|20010|Kaleva Norman Dickson School District|Kaleva Norman Dickson School District
+26|20050|Kalkaska Public Schools|Kalkaska Public Schools
+26|20070|Kearsley Community Schools|Kearsley Community Schools
+26|20160|Kelloggsville Public Schools|Kelloggsville Public Schools
+26|20280|Kenowa Hills Public Schools|Kenowa Hills Public Schools
+26|20310|Kent City Community Schools|Kent City Community Schools
+26|20340|Kentwood Public Schools|Kentwood Public Schools
+26|20380|Kingsley Area Schools|Kingsley Area Schools
+26|20400|Kingston Community School District|Kingston Community School District
+26|20550|Laingsburg Community School District|Laingsburg Community School District
+26|20610|Lake City Area School District|Lake City Area School District
+26|20670|Lake Fenton Community Schools|Lake Fenton Community Schools
+26|20700|Lake Linden-Hubbell School District|Lake Linden-Hubbell School District
+26|20730|Lake Orion Community Schools|Lake Orion Community Schools
+26|20820|Lakeshore School District|Lakeshore School District
+26|20850|Lakeview School District|Lakeview School District
+26|20880|Lakeview Public Schools|Lakeview Public Schools
+26|20910|Lakeview Community Schools|Lakeview Community Schools
+26|20940|Lakeville Community Schools|Lakeville Community Schools
+26|20980|Lakewood Public Schools|Lakewood Public Schools
+26|21120|Lamphere Public Schools|Lamphere Public Schools
+26|21150|Lansing Public School District|Lansing Public School District
+26|21180|Lapeer Community Schools|Lapeer Community Schools
+26|21210|Lawrence Public School District|Lawrence Public School District
+26|21240|Lawton Community School District|Lawton Community School District
+26|21390|Leland Public School District|Leland Public School District
+26|21420|Les Cheneaux Community Schools|Les Cheneaux Community Schools
+26|21450|Leslie Public Schools|Leslie Public Schools
+26|21570|Lincoln Consolidated School District|Lincoln Consolidated School District
+26|21600|Lincoln Park Public Schools|Lincoln Park Public Schools
+26|21690|Linden Community Schools|Linden Community Schools
+26|21750|Litchfield Community Schools|Litchfield Community Schools
+26|21810|Littlefield Schools|Littlefield Schools
+26|21840|Livonia Public Schools|Livonia Public Schools
+26|21870|L'Anse Creuse Public Schools|L'Anse Creuse Public Schools
+26|22050|Lowell Area Schools|Lowell Area Schools
+26|22200|Ludington Area School District|Ludington Area School District
+26|22230|Mackinac Island Public Schools|Mackinac Island Public Schools
+26|22260|Mackinaw City Public Schools|Mackinaw City Public Schools
+26|22290|Madison Public Schools|Madison Public Schools
+26|22320|Madison School District|Madison School District
+26|22350|Mancelona Public Schools|Mancelona Public Schools
+26|22380|Manchester Community Schools|Manchester Community Schools
+26|22410|Manistee Area Schools|Manistee Area Schools
+26|22470|Manistique Area Schools|Manistique Area Schools
+26|22500|Manton Consolidated Schools|Manton Consolidated Schools
+26|22620|Maple Valley Schools|Maple Valley Schools
+26|22740|Marcellus Community Schools|Marcellus Community Schools
+26|22800|Marion Public Schools|Marion Public Schools
+26|22860|Marlette Community Schools|Marlette Community Schools
+26|22970|Marshall Public Schools|Marshall Public Schools
+26|22980|Martin Public Schools|Martin Public Schools
+26|23040|Marysville Public Schools|Marysville Public Schools
+26|23070|Mason Public Schools|Mason Public Schools
+26|23100|Mason Consolidated Schools|Mason Consolidated Schools
+26|23130|Mason County Central Schools|Mason County Central Schools
+26|23160|Mason County Eastern Schools|Mason County Eastern Schools
+26|23250|Mattawan Consolidated School|Mattawan Consolidated School
+26|23280|Mayville Community School District|Mayville Community School District
+26|23310|McBain Rural Agricultural Schools|McBain Rural Agricultural Schools
+26|23460|Melvindale-North Allen Park School District|Melvindale-North Allen Park School District
+26|23490|Memphis Community Schools|Memphis Community Schools
+26|23520|Mendon Community School District|Mendon Community School District
+26|23550|Menominee Area Public Schools|Menominee Area Public Schools
+26|23580|Meridian Public Schools|Meridian Public Schools
+26|23610|Merrill Community Schools|Merrill Community Schools
+26|23670|Mesick Consolidated Schools|Mesick Consolidated Schools
+26|23790|Michigan Center School District|Michigan Center School District
+26|23820|Midland Public Schools|Midland Public Schools
+26|23830|Mid Peninsula School District|Mid Peninsula School District
+26|23850|Milan Area Schools|Milan Area Schools
+26|23910|Millington Community Schools|Millington Community Schools
+26|24000|Mio-AuSable Schools|Mio-AuSable Schools
+26|24120|Mona Shores Public School District|Mona Shores Public School District
+26|24150|Monroe Public Schools|Monroe Public Schools
+26|24180|Montague Area Public Schools|Montague Area Public Schools
+26|24420|Montrose Community Schools|Montrose Community Schools
+26|24570|Morenci Area Schools|Morenci Area Schools
+26|24600|Morley Stanwood Community Schools|Morley Stanwood Community Schools
+26|24630|Morrice Area Schools|Morrice Area Schools
+26|24690|Mount Clemens Community School District|Mount Clemens Community School District
+26|24720|Mount Morris Consolidated School District|Mount Morris Consolidated School District
+26|24750|Mount Pleasant City School District|Mount Pleasant City School District
+26|24810|Munising Public Schools|Munising Public Schools
+26|24840|Muskegon City School District|Muskegon City School District
+26|24870|Muskegon Heights School District|Muskegon Heights School District
+26|24960|Napoleon Community Schools|Napoleon Community Schools
+26|25020|Negaunee Public Schools|Negaunee Public Schools
+26|25140|New Buffalo Area School District|New Buffalo Area School District
+26|25230|New Haven Community Schools|New Haven Community Schools
+26|25290|New Lothrop Area Public School|New Lothrop Area Public School
+26|25320|Newaygo Public School District|Newaygo Public School District
+26|25350|Tahquamenon Area Schools|Tahquamenon Area Schools
+26|25400|N.I.C.E. Community Schools|N.I.C.E. Community Schools
+26|25560|Niles Community School District|Niles Community School District
+26|25650|North Adams-Jerome Schools|North Adams-Jerome Schools
+26|25680|North Branch Area Schools|North Branch Area Schools
+26|25740|Grosse Pointe Public Schools|Grosse Pointe Public Schools
+26|25780|North Huron School District|North Huron School District
+26|25800|North Muskegon Public Schools|North Muskegon Public Schools
+26|25920|Northport Public School District|Northport Public School District
+26|25950|Northview Public School District|Northview Public School District
+26|25980|Northville Public Schools|Northville Public Schools
+26|26010|Northwest School District|Northwest School District
+26|26040|Norway-Vulcan Area Schools|Norway-Vulcan Area Schools
+26|26130|Novi Community School District|Novi Community School District
+26|26190|Oak Park City School District|Oak Park City School District
+26|26220|Oakridge Public Schools|Oakridge Public Schools
+26|26280|Okemos Public Schools|Okemos Public Schools
+26|26370|Olivet Community Schools|Olivet Community Schools
+26|26400|Onaway Area Community School District|Onaway Area Community School District
+26|26490|Onekama Consolidated Schools|Onekama Consolidated Schools
+26|26520|Onsted Community Schools|Onsted Community Schools
+26|26550|Ontonagon Area Schools|Ontonagon Area Schools
+26|26760|Orchard View Schools|Orchard View Schools
+26|26940|Dollar Bay-Tamarack City Area Schools|Dollar Bay-Tamarack City Area Schools
+26|26970|Oscoda Area Schools|Oscoda Area Schools
+26|27060|Otsego Public Schools|Otsego Public Schools
+26|27150|Ovid-Elsie Area Schools|Ovid-Elsie Area Schools
+26|27180|Owendale-Gagetown Area Schools|Owendale-Gagetown Area Schools
+26|27210|Owosso Public Schools|Owosso Public Schools
+26|27240|Oxford Area Community Schools|Oxford Area Community Schools
+26|27420|Parchment School District|Parchment School District
+26|27660|Paw Paw Public School District|Paw Paw Public School District
+26|27690|Peck Community School District|Peck Community School District
+26|27720|Pellston Public Schools|Pellston Public Schools
+26|27810|Pennfield School District|Pennfield School District
+26|27840|Pentwater Public School District|Pentwater Public School District
+26|27900|Perry Public School District|Perry Public School District
+26|27930|Petoskey Public Schools|Petoskey Public Schools
+26|27960|Pewamo-Westphalia Community School District|Pewamo-Westphalia Community School District
+26|28020|Pickford Public Schools|Pickford Public Schools
+26|28140|Pinckney Community Schools|Pinckney Community Schools
+26|28170|Pinconning Area Schools|Pinconning Area Schools
+26|28200|Pine River Area Schools|Pine River Area Schools
+26|28500|Pittsford Area Schools|Pittsford Area Schools
+26|28530|Plainwell Community Schools|Plainwell Community Schools
+26|28560|Plymouth-Canton Community Schools|Plymouth-Canton Community Schools
+26|28740|Pontiac City School District|Pontiac City School District
+26|28810|Port Hope Community Schools|Port Hope Community Schools
+26|28830|Port Huron Area School District|Port Huron Area School District
+26|28890|Houghton-Portage Township Schools|Houghton-Portage Township Schools
+26|28950|Portage Public Schools|Portage Public Schools
+26|29120|Portland Public School District|Portland Public School District
+26|29130|Posen Consolidated School District|Posen Consolidated School District
+26|29160|Potterville Public Schools|Potterville Public Schools
+26|29220|North Central Area Schools|North Central Area Schools
+26|29250|Quincy Community School District|Quincy Community School District
+26|29340|Rapid River Public Schools|Rapid River Public Schools
+26|29370|Ravenna Public Schools|Ravenna Public Schools
+26|29400|Reading Community Schools|Reading Community Schools
+26|29460|Redford Union School District|Redford Union School District
+26|29490|Reed City Area Public Schools|Reed City Area Public Schools
+26|29520|Reese Public Schools|Reese Public Schools
+26|29540|Reeths-Puffer Schools|Reeths-Puffer Schools
+26|29580|Republic-Michigamme Schools|Republic-Michigamme Schools
+26|29670|Richmond Community Schools|Richmond Community Schools
+26|29760|River Rouge School District|River Rouge School District
+26|29790|River Valley School District|River Valley School District
+26|29910|Riverview Community School District|Riverview Community School District
+26|29940|Rochester Community School District|Rochester Community School District
+26|30030|Rockford Public Schools|Rockford Public Schools
+26|30060|Rogers City Area Schools|Rogers City Area Schools
+26|30090|Romeo Community Schools|Romeo Community Schools
+26|30120|Romulus Community Schools|Romulus Community Schools
+26|30210|Roseville Community Schools|Roseville Community Schools
+26|30300|Royal Oak City School District|Royal Oak City School District
+26|30360|Rudyard Area Schools|Rudyard Area Schools
+26|30390|Saginaw City School District|Saginaw City School District
+26|30450|Saginaw Township Community Schools|Saginaw Township Community Schools
+26|30480|North Dickinson County Schools|North Dickinson County Schools
+26|30660|Saline Area Schools|Saline Area Schools
+26|30780|Sand Creek Community Schools|Sand Creek Community Schools
+26|30840|Sandusky Community School District|Sandusky Community School District
+26|30930|Saranac Community Schools|Saranac Community Schools
+26|30960|Saugatuck Public Schools|Saugatuck Public Schools
+26|30990|Sault Ste. Marie Area Schools|Sault Ste. Marie Area Schools
+26|31020|Schoolcraft Community Schools|Schoolcraft Community Schools
+26|31320|Shelby Public Schools|Shelby Public Schools
+26|31380|Shepherd Public School District|Shepherd Public School District
+26|32220|South Lake Schools|South Lake Schools
+26|32250|South Lyon Community Schools|South Lyon Community Schools
+26|32280|South Redford School District|South Redford School District
+26|32300|South Haven Public Schools|South Haven Public Schools
+26|32310|Southfield Public School District|Southfield Public School District
+26|32340|Southgate Community School District|Southgate Community School District
+26|32370|Sparta Area Schools|Sparta Area Schools
+26|32550|Spring Lake Public Schools|Spring Lake Public Schools
+26|32610|Springport Public Schools|Springport Public Schools
+26|32640|St. Charles Community Schools|St. Charles Community Schools
+26|32670|Lake Shore Public Schools|Lake Shore Public Schools
+26|32820|St. Johns Public Schools|St. Johns Public Schools
+26|32850|St. Joseph Public Schools|St. Joseph Public Schools
+26|32880|St. Louis Public Schools|St. Louis Public Schools
+26|32910|West Iron County Public Schools|West Iron County Public Schools
+26|32940|Standish-Sterling Community School District|Standish-Sterling Community School District
+26|33000|Stephenson Area Public Schools|Stephenson Area Public Schools
+26|33030|Stockbridge Community Schools|Stockbridge Community Schools
+26|33090|Sturgis Public Schools|Sturgis Public Schools
+26|33120|Summerfield School District|Summerfield School District
+26|33360|Suttons Bay Public Schools|Suttons Bay Public Schools
+26|33410|Swan Valley School District|Swan Valley School District
+26|33420|Swartz Creek Community Schools|Swartz Creek Community Schools
+26|33510|Tawas Area Schools|Tawas Area Schools
+26|33540|Taylor School District|Taylor School District
+26|33720|Tecumseh Public Schools|Tecumseh Public Schools
+26|33750|Tekonsha Community Schools|Tekonsha Community Schools
+26|33810|Thornapple Kellogg School District|Thornapple Kellogg School District
+26|33840|Three Rivers Community Schools|Three Rivers Community Schools
+26|33870|Traverse City Area Public Schools|Traverse City Area Public Schools
+26|33900|Trenton Public Schools|Trenton Public Schools
+26|33930|Tri County Area Schools|Tri County Area Schools
+26|34260|Troy School District|Troy School District
+26|34380|Ubly Community Schools|Ubly Community Schools
+26|34410|Union City Community Schools|Union City Community Schools
+26|34440|Unionville-Sebewaing Area School District|Unionville-Sebewaing Area School District
+26|34470|Utica Community Schools|Utica Community Schools
+26|34560|Van Buren Public Schools|Van Buren Public Schools
+26|34620|Vanderbilt Area Schools|Vanderbilt Area Schools
+26|34650|Vandercook Lake Public Schools|Vandercook Lake Public Schools
+26|34680|Van Dyke Public Schools|Van Dyke Public Schools
+26|34710|Vassar Public Schools|Vassar Public Schools
+26|34920|Vestaburg Community Schools|Vestaburg Community Schools
+26|34950|Vicksburg Community Schools|Vicksburg Community Schools
+26|35010|Wakefield-Marenisco School District|Wakefield-Marenisco School District
+26|35040|Waldron Area Schools|Waldron Area Schools
+26|35130|Walkerville Rural Community School District|Walkerville Rural Community School District
+26|35160|Walled Lake Consolidated Schools|Walled Lake Consolidated Schools
+26|35190|Warren Consolidated Schools|Warren Consolidated Schools
+26|35220|Warren Woods Public Schools|Warren Woods Public Schools
+26|35310|Waterford School District|Waterford School District
+26|35340|Watersmeet Township School District|Watersmeet Township School District
+26|35460|Watervliet School District|Watervliet School District
+26|35520|Waverly Community Schools|Waverly Community Schools
+26|35550|Wayland Union Schools|Wayland Union Schools
+26|35730|Webberville Community Schools|Webberville Community Schools
+26|35820|West Bloomfield School District|West Bloomfield School District
+26|35850|West Branch-Rose City Area Schools|West Branch-Rose City Area Schools
+26|35910|West Ottawa Public School District|West Ottawa Public School District
+26|35940|Western School District|Western School District
+26|35970|Westwood Heights Schools|Westwood Heights Schools
+26|36060|White Cloud Public Schools|White Cloud Public Schools
+26|36120|White Pigeon Community Schools|White Pigeon Community Schools
+26|36150|White Pine School District|White Pine School District
+26|36240|Whitefish Township Schools|Whitefish Township Schools
+26|36270|Whiteford Agricultural School District|Whiteford Agricultural School District
+26|36300|Whitehall School District|Whitehall School District
+26|36330|Whitmore Lake Public Schools|Whitmore Lake Public Schools
+26|36390|Whittemore-Prescott Area Schools|Whittemore-Prescott Area Schools
+26|36420|Williamston Community Schools|Williamston Community Schools
+26|36450|Willow Run Community Schools|Willow Run Community Schools
+26|36480|Wolverine Community Schools|Wolverine Community Schools
+26|36485|Woodhaven-Brownstown School District|Woodhaven-Brownstown School District
+26|36540|Wyandotte City School District|Wyandotte City School District
+26|36570|Wyoming Public Schools|Wyoming Public Schools
+26|36600|Yale Public Schools|Yale Public Schools
+26|36630|Ypsilanti School District|Ypsilanti School District
+26|36660|Zeeland Public Schools|Zeeland Public Schools
+26|99998|School District Not Defined (Water)|School District Not Defined (Water)

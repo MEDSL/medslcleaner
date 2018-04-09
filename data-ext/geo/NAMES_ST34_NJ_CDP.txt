@@ -1,0 +1,222 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+34|00640|Allamuchy|Allamuchy CDP
+34|00790|Allenwood|Allenwood CDP
+34|00850|Alloway|Alloway CDP
+34|01300|Anderson|Anderson CDP
+34|01480|Annandale|Annandale CDP
+34|01900|Asbury|Asbury CDP
+34|01990|Ashland|Ashland CDP
+34|02350|Avenel|Avenel CDP
+34|02880|Barclay|Barclay CDP
+34|03040|Barnegat|Barnegat CDP
+34|04120|Beach Haven West|Beach Haven West CDP
+34|04252|Beattystown|Beattystown CDP
+34|04400|Beckett|Beckett CDP
+34|04600|Belford|Belford CDP
+34|04630|Belle Mead|Belle Mead CDP
+34|04660|Belleplain|Belleplain CDP
+34|06025|Blackwells Mills|Blackwells Mills CDP
+34|06040|Blackwood|Blackwood CDP
+34|06130|Blairstown|Blairstown CDP
+34|06190|Blawenburg|Blawenburg CDP
+34|07000|Bradley Gardens|Bradley Gardens CDP
+34|07120|Brainards|Brainards CDP
+34|07360|Brass Castle|Brass Castle CDP
+34|07660|Bridgeville|Bridgeville CDP
+34|08020|Broadway|Broadway CDP
+34|08110|Brookdale|Brookdale CDP
+34|08140|Brookfield|Brookfield CDP
+34|08455|Browns Mills|Browns Mills CDP
+34|08492|Brownville|Brownville CDP
+34|08620|Budd Lake|Budd Lake CDP
+34|08890|Burleigh|Burleigh CDP
+34|09100|Buttzville|Buttzville CDP
+34|09170|Byram Center|Byram Center CDP
+34|10300|Cape May Court House|Cape May Court House CDP
+34|10600|Carneys Point|Carneys Point CDP
+34|11140|Cedar Glen Lakes|Cedar Glen Lakes CDP
+34|11155|Cedar Glen West|Cedar Glen West CDP
+34|11410|Cedarville|Cedarville CDP
+34|12385|Cherry Hill Mall|Cherry Hill Mall CDP
+34|13399|Clearbrook Park|Clearbrook Park CDP
+34|13630|Cliffwood Beach|Cliffwood Beach CDP
+34|13990|Clyde|Clyde CDP
+34|14230|Collings Lakes|Collings Lakes CDP
+34|14380|Colonia|Colonia CDP
+34|14590|Columbia|Columbia CDP
+34|14758|Concordia|Concordia CDP
+34|15250|Country Lake Estates|Country Lake Estates CDP
+34|15520|Cranbury|Cranbury CDP
+34|15610|Crandon Lakes|Crandon Lakes CDP
+34|15910|Crestwood Village|Crestwood Village CDP
+34|16630|Dayton|Dayton CDP
+34|17200|Delaware|Delaware CDP
+34|17260|Delaware Park|Delaware Park CDP
+34|17815|Diamond Beach|Diamond Beach CDP
+34|18148|Dover Beaches North|Dover Beaches North CDP
+34|18151|Dover Beaches South|Dover Beaches South CDP
+34|19130|East Franklin|East Franklin CDP
+34|19150|East Freehold|East Freehold CDP
+34|19330|East Millstone|East Millstone CDP
+34|19490|East Rocky Hill|East Rocky Hill CDP
+34|19900|Echelon|Echelon CDP
+34|21120|Ellisburg|Ellisburg CDP
+34|21420|Elwood|Elwood CDP
+34|21660|Erma|Erma CDP
+34|22530|Fairton|Fairton CDP
+34|22740|Fairview|Fairview CDP
+34|23310|Finderne|Finderne CDP
+34|23340|Finesville|Finesville CDP
+34|23880|Florence|Florence CDP
+34|24030|Fords|Fords CDP
+34|24180|Forked River|Forked River CDP
+34|24300|Fort Dix|Fort Dix CDP
+34|24965|Franklin Center|Franklin Center CDP
+34|25020|Franklin Park|Franklin Park CDP
+34|26100|Gibbstown|Gibbstown CDP
+34|26520|Glendora|Glendora CDP
+34|26902|Golden Triangle|Golden Triangle CDP
+34|27360|Great Meadows|Great Meadows CDP
+34|27840|Green Knoll|Green Knoll CDP
+34|27995|Greentree|Greentree CDP
+34|28250|Greenwich|Greenwich CDP
+34|28470|Griggstown|Griggstown CDP
+34|28620|Groveville|Groveville CDP
+34|28920|Hainesburg|Hainesburg CDP
+34|29370|Hamilton Square|Hamilton Square CDP
+34|29520|Hancocks Bridge|Hancocks Bridge CDP
+34|29940|Harlingen|Harlingen CDP
+34|30060|Harmony|Harmony CDP
+34|30738|Heathcote|Heathcote CDP
+34|31405|Highland Lake|Highland Lake CDP
+34|32415|Holiday City-Berkeley|Holiday City-Berkeley CDP
+34|32418|Holiday City South|Holiday City South CDP
+34|32424|Holiday Heights|Holiday Heights CDP
+34|33030|Hope|Hope CDP
+34|33690|Hutchinson|Hutchinson CDP
+34|34470|Iselin|Iselin CDP
+34|36150|Johnsonburg|Johnsonburg CDP
+34|36300|Juliustown|Juliustown CDP
+34|36660|Kendall Park|Kendall Park CDP
+34|36720|Kenvil|Kenvil CDP
+34|36930|Kingston|Kingston CDP
+34|36960|Kingston Estates|Kingston Estates CDP
+34|38040|Lake Mohawk|Lake Mohawk CDP
+34|38430|Lake Telemark|Lake Telemark CDP
+34|38580|Lakewood|Lakewood CDP
+34|39120|Laurel Lake|Laurel Lake CDP
+34|39360|Laurence Harbor|Laurence Harbor CDP
+34|39570|Lawrenceville|Lawrenceville CDP
+34|39883|Leisure Knoll|Leisure Knoll CDP
+34|39885|Leisuretowne|Leisuretowne CDP
+34|39900|Leisure Village|Leisure Village CDP
+34|39910|Leisure Village East|Leisure Village East CDP
+34|39920|Leisure Village West|Leisure Village West CDP
+34|39990|Leonardo|Leonardo CDP
+34|40320|Lincroft|Lincroft CDP
+34|41400|Long Valley|Long Valley CDP
+34|41495|Lopatcong Overlook|Lopatcong Overlook CDP
+34|42390|McGuire AFB|McGuire AFB CDP
+34|42540|Madison Park|Madison Park CDP
+34|42930|Manahawkin|Manahawkin CDP
+34|43980|Marksboro|Marksboro CDP
+34|44100|Marlton|Marlton CDP
+34|44430|Martinsville|Martinsville CDP
+34|44820|Mays Landing|Mays Landing CDP
+34|45480|Mercerville|Mercerville CDP
+34|45870|Middlebush|Middlebush CDP
+34|47190|Monmouth Junction|Monmouth Junction CDP
+34|47895|Moorestown-Lenola|Moorestown-Lenola CDP
+34|48030|Morganville|Morganville CDP
+34|48450|Mountain Lake|Mountain Lake CDP
+34|48840|Mount Hermon|Mount Hermon CDP
+34|49440|Mullica Hill|Mullica Hill CDP
+34|49560|Mystic Island|Mystic Island CDP
+34|49740|Navesink|Navesink CDP
+34|51360|New Egypt|New Egypt CDP
+34|52050|New Village|New Village CDP
+34|52410|North Beach Haven|North Beach Haven CDP
+34|52650|North Cape May|North Cape May CDP
+34|53205|North Middletown|North Middletown CDP
+34|53790|Oakhurst|Oakhurst CDP
+34|54060|Oak Valley|Oak Valley CDP
+34|54315|Ocean Acres|Ocean Acres CDP
+34|54480|Ocean Grove|Ocean Grove CDP
+34|54690|Old Bridge|Old Bridge CDP
+34|54960|Olivet|Olivet CDP
+34|55500|Oxford|Oxford CDP
+34|55895|Panther Valley|Panther Valley CDP
+34|57360|Pedricktown|Pedricktown CDP
+34|57540|Pemberton Heights|Pemberton Heights CDP
+34|57840|Pennsville|Pennsville CDP
+34|58830|Pine Lake Park|Pine Lake Park CDP
+34|58852|Pine Ridge at Crestwood|Pine Ridge at Crestwood CDP
+34|59285|Plainsboro Center|Plainsboro Center CDP
+34|59500|Pleasant Plains|Pleasant Plains CDP
+34|60030|Pomona|Pomona CDP
+34|60210|Port Colden|Port Colden CDP
+34|60360|Port Monmouth|Port Monmouth CDP
+34|60450|Port Murray|Port Murray CDP
+34|60510|Port Norris|Port Norris CDP
+34|60540|Port Reading|Port Reading CDP
+34|60840|Presidential Lakes Estates|Presidential Lakes Estates CDP
+34|60960|Princeton Junction|Princeton Junction CDP
+34|60975|Princeton Meadows|Princeton Meadows CDP
+34|61440|Quinton|Quinton CDP
+34|61650|Ramblewood|Ramblewood CDP
+34|61725|Ramtown|Ramtown CDP
+34|62820|Richwood|Richwood CDP
+34|63180|Rio Grande|Rio Grande CDP
+34|63840|Robbinsville|Robbinsville CDP
+34|63900|Robertsville|Robertsville CDP
+34|64350|Roebling|Roebling CDP
+34|64740|Rosenhayn|Rosenhayn CDP
+34|64860|Ross Corner|Ross Corner CDP
+34|64865|Rossmoor|Rossmoor CDP
+34|66300|Seabrook Farms|Seabrook Farms CDP
+34|66720|Sewaren|Sewaren CDP
+34|66840|Shark River Hills|Shark River Hills CDP
+34|67320|Short Hills|Short Hills CDP
+34|67590|Silver Lake|Silver Lake CDP
+34|67650|Silver Lake|Silver Lake CDP
+34|67665|Silver Ridge|Silver Ridge CDP
+34|67770|Singac|Singac CDP
+34|67820|Six Mile Run|Six Mile Run CDP
+34|67860|Skillman|Skillman CDP
+34|68190|Smithville|Smithville CDP
+34|68304|Society Hill|Society Hill CDP
+34|68370|Somerset|Somerset CDP
+34|69900|Springdale|Springdale CDP
+34|70800|Stewartsville|Stewartsville CDP
+34|71250|Strathmere|Strathmere CDP
+34|71280|Strathmore|Strathmore CDP
+34|71370|Succasunna|Succasunna CDP
+34|72435|Ten Mile Run|Ten Mile Run CDP
+34|73110|Toms River|Toms River CDP
+34|74270|Turnersville|Turnersville CDP
+34|74330|Twin Rivers|Twin Rivers CDP
+34|75020|Upper Montclair|Upper Montclair CDP
+34|75120|Upper Pohatcong|Upper Pohatcong CDP
+34|75145|Upper Stewartsville|Upper Stewartsville CDP
+34|75745|Vernon Center|Vernon Center CDP
+34|75750|Vernon Valley|Vernon Valley CDP
+34|75920|Victory Lakes|Victory Lakes CDP
+34|75950|Vienna|Vienna CDP
+34|76010|Villas|Villas CDP
+34|76107|Vista Center|Vista Center CDP
+34|76250|Voorhees|Voorhees CDP
+34|76700|Wanamassa|Wanamassa CDP
+34|76820|Waretown|Waretown CDP
+34|78350|West Belmar|West Belmar CDP
+34|79100|West Freehold|West Freehold CDP
+34|79715|Weston|Weston CDP
+34|80630|White Horse|White Horse CDP
+34|80720|White House Station|White House Station CDP
+34|80750|White Meadow Lake|White Meadow Lake CDP
+34|80855|Whitesboro|Whitesboro CDP
+34|81042|Whittingham|Whittingham CDP
+34|81380|Williamstown|Williamstown CDP
+34|81950|Woodbridge|Woodbridge CDP
+34|83170|Yardville|Yardville CDP
+34|83245|Yorketown|Yorketown CDP
+34|83290|Zarephath|Zarephath CDP

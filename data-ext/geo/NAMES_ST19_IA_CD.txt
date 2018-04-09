@@ -1,0 +1,6 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+19|01|1|Congressional District 1
+19|02|2|Congressional District 2
+19|03|3|Congressional District 3
+19|04|4|Congressional District 4
+19|05|5|Congressional District 5

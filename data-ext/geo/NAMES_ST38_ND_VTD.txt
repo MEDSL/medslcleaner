@@ -1,0 +1,520 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+38|001|39-01|Adams 39-01|Adams 39-01 Voting District
+38|001|39-02|Adams 39-02|Adams 39-02 Voting District
+38|001|39-03|Adams 39-03|Adams 39-03 Voting District
+38|003|20-06|Barnes 20-06|Barnes 20-06 Voting District
+38|003|20-10|Barnes 20-10|Barnes 20-10 Voting District
+38|003|20-12|Barnes 20-12|Barnes 20-12 Voting District
+38|003|20-13|Barnes 20-13|Barnes 20-13 Voting District
+38|003|24-01|Barnes 24-01|Barnes 24-01 Voting District
+38|003|24-02|Barnes 24-02|Barnes 24-02 Voting District
+38|003|24-03|Barnes 24-03|Barnes 24-03 Voting District
+38|003|24-04|Barnes 24-04|Barnes 24-04 Voting District
+38|003|24-05|Barnes 24-05|Barnes 24-05 Voting District
+38|003|24-07|Barnes 24-07|Barnes 24-07 Voting District
+38|003|24-08|Barnes 24-08|Barnes 24-08 Voting District
+38|003|24-09|Barnes 24-09|Barnes 24-09 Voting District
+38|003|24-11|Barnes 24-11|Barnes 24-11 Voting District
+38|003|24-14|Barnes 24-14|Barnes 24-14 Voting District
+38|003|24-15|Barnes 24-15|Barnes 24-15 Voting District
+38|005|07-01|Benson 07-01|Benson 07-01 Voting District
+38|005|07-02|Benson 07-02|Benson 07-02 Voting District
+38|005|07-03|Benson 07-03|Benson 07-03 Voting District
+38|005|07-04|Benson 07-04|Benson 07-04 Voting District
+38|005|23-05|Benson 23-05|Benson 23-05 Voting District
+38|005|23-06|Benson 23-06|Benson 23-06 Voting District
+38|005|23-07|Benson 23-07|Benson 23-07 Voting District
+38|005|23-08|Benson 23-08|Benson 23-08 Voting District
+38|007|39-01|Billings 39-01|Billings 39-01 Voting District
+38|007|39-02|Billings 39-02|Billings 39-02 Voting District
+38|007|39-03|Billings 39-03|Billings 39-03 Voting District
+38|009|06-01|Bottineau 06-01|Bottineau 06-01 Voting District
+38|009|06-03|Bottineau 06-03|Bottineau 06-03 Voting District
+38|009|06-04|Bottineau 06-04|Bottineau 06-04 Voting District
+38|009|06-05|Bottineau 06-05|Bottineau 06-05 Voting District
+38|009|06-06|Bottineau 06-06|Bottineau 06-06 Voting District
+38|009|06-07|Bottineau 06-07|Bottineau 06-07 Voting District
+38|009|06-08|Bottineau 06-08|Bottineau 06-08 Voting District
+38|009|06-10|Bottineau 06-10|Bottineau 06-10 Voting District
+38|009|06-11|Bottineau 06-11|Bottineau 06-11 Voting District
+38|009|06-12|Bottineau 06-12|Bottineau 06-12 Voting District
+38|009|06-13|Bottineau 06-13|Bottineau 06-13 Voting District
+38|009|06-14|Bottineau 06-14|Bottineau 06-14 Voting District
+38|009|06-15|Bottineau 06-15|Bottineau 06-15 Voting District
+38|011|39-01|Bowman 39-01|Bowman 39-01 Voting District
+38|011|39-02|Bowman 39-02|Bowman 39-02 Voting District
+38|011|39-03|Bowman 39-03|Bowman 39-03 Voting District
+38|011|39-04|Bowman 39-04|Bowman 39-04 Voting District
+38|013|2-01|Burke 2-01|Burke 2-01 Voting District
+38|013|2-02|Burke 2-02|Burke 2-02 Voting District
+38|013|2-03|Burke 2-03|Burke 2-03 Voting District
+38|013|2-04|Burke 2-04|Burke 2-04 Voting District
+38|013|2-05|Burke 2-05|Burke 2-05 Voting District
+38|013|2-06|Burke 2-06|Burke 2-06 Voting District
+38|015|14-11|Burleigh 14-11|Burleigh 14-11 Voting District
+38|015|14-12|Burleigh 14-12|Burleigh 14-12 Voting District
+38|015|14-13|Burleigh 14-13|Burleigh 14-13 Voting District
+38|015|14-16|Burleigh 14-16|Burleigh 14-16 Voting District
+38|015|14-17|Burleigh 14-17|Burleigh 14-17 Voting District
+38|015|14-19|Burleigh 14-19|Burleigh 14-19 Voting District
+38|015|30-20|Burleigh 30-20|Burleigh 30-20 Voting District
+38|015|30-21|Burleigh 30-21|Burleigh 30-21 Voting District
+38|015|30-22|Burleigh 30-22|Burleigh 30-22 Voting District
+38|015|30-23|Burleigh 30-23|Burleigh 30-23 Voting District
+38|015|30-24|Burleigh 30-24|Burleigh 30-24 Voting District
+38|015|30-25|Burleigh 30-25|Burleigh 30-25 Voting District
+38|015|32-31|Burleigh 32-31|Burleigh 32-31 Voting District
+38|015|32-33|Burleigh 32-33|Burleigh 32-33 Voting District
+38|015|32-34|Burleigh 32-34|Burleigh 32-34 Voting District
+38|015|32-36|Burleigh 32-36|Burleigh 32-36 Voting District
+38|015|32-37|Burleigh 32-37|Burleigh 32-37 Voting District
+38|015|32-38|Burleigh 32-38|Burleigh 32-38 Voting District
+38|015|32-39|Burleigh 32-39|Burleigh 32-39 Voting District
+38|015|35-51|Burleigh 35-51|Burleigh 35-51 Voting District
+38|015|35-52|Burleigh 35-52|Burleigh 35-52 Voting District
+38|015|35-53|Burleigh 35-53|Burleigh 35-53 Voting District
+38|015|35-54|Burleigh 35-54|Burleigh 35-54 Voting District
+38|015|35-55|Burleigh 35-55|Burleigh 35-55 Voting District
+38|015|35-56|Burleigh 35-56|Burleigh 35-56 Voting District
+38|015|47-40|Burleigh 47-40|Burleigh 47-40 Voting District
+38|015|47-41|Burleigh 47-41|Burleigh 47-41 Voting District
+38|015|47-42|Burleigh 47-42|Burleigh 47-42 Voting District
+38|015|47-45|Burleigh 47-45|Burleigh 47-45 Voting District
+38|015|47-46|Burleigh 47-46|Burleigh 47-46 Voting District
+38|015|47-48|Burleigh 47-48|Burleigh 47-48 Voting District
+38|015|8-04|Burleigh 8-04|Burleigh 8-04 Voting District
+38|015|8-05|Burleigh 8-05|Burleigh 8-05 Voting District
+38|015|8-06|Burleigh 8-06|Burleigh 8-06 Voting District
+38|015|8-10|Burleigh 8-10|Burleigh 8-10 Voting District
+38|017|11-01|Cass Precinct 11-01|Cass Precinct 11-01
+38|017|11-02|Cass Precinct 11-02|Cass Precinct 11-02
+38|017|13-01|Cass Precinct 13-01|Cass Precinct 13-01
+38|017|13-02|Cass Precinct 13-02|Cass Precinct 13-02
+38|017|13-03|Cass Precinct 13-03|Cass Precinct 13-03
+38|017|20-01|Cass Precinct 20-01|Cass Precinct 20-01
+38|017|20-02|Cass Precinct 20-02|Cass Precinct 20-02
+38|017|21-01|Cass Precinct 21-01|Cass Precinct 21-01
+38|017|21-02|Cass Precinct 21-02|Cass Precinct 21-02
+38|017|22-01|Cass Precinct 22-01|Cass Precinct 22-01
+38|017|22-02|Cass Precinct 22-02|Cass Precinct 22-02
+38|017|22-03|Cass Precinct 22-03|Cass Precinct 22-03
+38|017|22-04|Cass Precinct 22-04|Cass Precinct 22-04
+38|017|22-05|Cass Precinct 22-05|Cass Precinct 22-05
+38|017|22-06|Cass Precinct 22-06|Cass Precinct 22-06
+38|017|22-07|Cass Precinct 22-07|Cass Precinct 22-07
+38|017|22-08|Cass Precinct 22-08|Cass Precinct 22-08
+38|017|22-09|Cass Precinct 22-09|Cass Precinct 22-09
+38|017|22-10|Cass Precinct 22-10|Cass Precinct 22-10
+38|017|22-11|Cass Precinct 22-11|Cass Precinct 22-11
+38|017|22-12|Cass Precinct 22-12|Cass Precinct 22-12
+38|017|27-01|Cass Precinct 27-01|Cass Precinct 27-01
+38|017|27-02|Cass Precinct 27-02|Cass Precinct 27-02
+38|017|27-03|Cass Precinct 27-03|Cass Precinct 27-03
+38|017|27-04|Cass Precinct 27-04|Cass Precinct 27-04
+38|017|27-05|Cass Precinct 27-05|Cass Precinct 27-05
+38|017|41-01|Cass Precinct 41-01|Cass Precinct 41-01
+38|017|41-02|Cass Precinct 41-02|Cass Precinct 41-02
+38|017|44-01|Cass Precinct 44-01|Cass Precinct 44-01
+38|017|44-02|Cass Precinct 44-02|Cass Precinct 44-02
+38|017|45-01|Cass Precinct 45-01|Cass Precinct 45-01
+38|017|45-02|Cass Precinct 45-02|Cass Precinct 45-02
+38|017|45-06|Cass Precinct 45-06|Cass Precinct 45-06
+38|017|46-01|Cass Precinct 46-01|Cass Precinct 46-01
+38|017|46-02|Cass Precinct 46-02|Cass Precinct 46-02
+38|019|10-01|Cavalier 10-01|Cavalier 10-01 Voting District
+38|019|10-02|Cavalier 10-02|Cavalier 10-02 Voting District
+38|019|10-03|Cavalier 10-03|Cavalier 10-03 Voting District
+38|019|10-04|Cavalier 10-04|Cavalier 10-04 Voting District
+38|019|10-05|Cavalier 10-05|Cavalier 10-05 Voting District
+38|019|10-06|Cavalier 10-06|Cavalier 10-06 Voting District
+38|019|10-07|Cavalier 10-07|Cavalier 10-07 Voting District
+38|019|10-08|Cavalier 10-08|Cavalier 10-08 Voting District
+38|019|10-09|Cavalier 10-09|Cavalier 10-09 Voting District
+38|019|10-10|Cavalier 10-10|Cavalier 10-10 Voting District
+38|021|26-02|Dickey 26-02|Dickey 26-02 Voting District
+38|021|26-03|Dickey 26-03|Dickey 26-03 Voting District
+38|021|28-01|Dickey 28-01|Dickey 28-01 Voting District
+38|023|02-01|Divide 02-01|Divide 02-01 Voting District
+38|023|02-02|Divide 02-02|Divide 02-02 Voting District
+38|023|02-03|Divide 02-03|Divide 02-03 Voting District
+38|023|02-04|Divide 02-04|Divide 02-04 Voting District
+38|025|04-01|Dunn 04-01|Dunn 04-01 Voting District
+38|025|04-02|Dunn 04-02|Dunn 04-02 Voting District
+38|025|04-03|Dunn 04-03|Dunn 04-03 Voting District
+38|025|04-04|Dunn 04-04|Dunn 04-04 Voting District
+38|025|04-05|Dunn 04-05|Dunn 04-05 Voting District
+38|025|36-06|Dunn 36-06|Dunn 36-06 Voting District
+38|025|36-07|Dunn 36-07|Dunn 36-07 Voting District
+38|025|36-08|Dunn 36-08|Dunn 36-08 Voting District
+38|025|36-09|Dunn 36-09|Dunn 36-09 Voting District
+38|025|36-10|Dunn 36-10|Dunn 36-10 Voting District
+38|025|36-11|Dunn 36-11|Dunn 36-11 Voting District
+38|027|23-01|Eddy 23-01|Eddy 23-01 Voting District
+38|027|23-02|Eddy 23-02|Eddy 23-02 Voting District
+38|027|23-03|Eddy 23-03|Eddy 23-03 Voting District
+38|027|23-04|Eddy 23-04|Eddy 23-04 Voting District
+38|027|29-05|Eddy 29-05|Eddy 29-05 Voting District
+38|029|28-01|Emmons 28-01|Emmons 28-01 Voting District
+38|029|28-02|Emmons 28-02|Emmons 28-02 Voting District
+38|029|28-03|Emmons 28-03|Emmons 28-03 Voting District
+38|029|28-04|Emmons 28-04|Emmons 28-04 Voting District
+38|029|28-05|Emmons 28-05|Emmons 28-05 Voting District
+38|031|29-01|Foster 29-01|Foster 29-01 Voting District
+38|031|29-02|Foster 29-02|Foster 29-02 Voting District
+38|031|29-03|Foster 29-03|Foster 29-03 Voting District
+38|031|29-04|Foster 29-04|Foster 29-04 Voting District
+38|031|29-05|Foster 29-05|Foster 29-05 Voting District
+38|031|29-06|Foster 29-06|Foster 29-06 Voting District
+38|033|39-01|Golden Valley Precinct 1|Golden Valley Precinct 1
+38|035|17-01|Grand Forks 17-01|Grand Forks 17-01 Voting District
+38|035|17-02|Grand Forks 17-02|Grand Forks 17-02 Voting District
+38|035|17-03|Grand Forks 17-03|Grand Forks 17-03 Voting District
+38|035|17-04|Grand Forks 17-04|Grand Forks 17-04 Voting District
+38|035|17-05|Grand Forks 17-05|Grand Forks 17-05 Voting District
+38|035|17-06|Grand Forks 17-06|Grand Forks 17-06 Voting District
+38|035|17-07|Grand Forks 17-07|Grand Forks 17-07 Voting District
+38|035|17-08|Grand Forks 17-08|Grand Forks 17-08 Voting District
+38|035|18-09|Grand Forks 18-09|Grand Forks 18-09 Voting District
+38|035|18-10|Grand Forks 18-10|Grand Forks 18-10 Voting District
+38|035|18-11|Grand Forks 18-11|Grand Forks 18-11 Voting District
+38|035|18-12|Grand Forks 18-12|Grand Forks 18-12 Voting District
+38|035|18-13|Grand Forks 18-13|Grand Forks 18-13 Voting District
+38|035|18-14|Grand Forks 18-14|Grand Forks 18-14 Voting District
+38|035|18-15|Grand Forks 18-15|Grand Forks 18-15 Voting District
+38|035|18-16|Grand Forks 18-16|Grand Forks 18-16 Voting District
+38|035|19-17|Grand Forks 19-17|Grand Forks 19-17 Voting District
+38|035|19-18|Grand Forks 19-18|Grand Forks 19-18 Voting District
+38|035|19-19|Grand Forks 19-19|Grand Forks 19-19 Voting District
+38|035|19-20|Grand Forks 19-20|Grand Forks 19-20 Voting District
+38|035|19-21|Grand Forks 19-21|Grand Forks 19-21 Voting District
+38|035|19-22|Grand Forks 19-22|Grand Forks 19-22 Voting District
+38|035|19-23|Grand Forks 19-23|Grand Forks 19-23 Voting District
+38|035|19-24|Grand Forks 19-24|Grand Forks 19-24 Voting District
+38|035|19-25|Grand Forks 19-25|Grand Forks 19-25 Voting District
+38|035|19-26|Grand Forks 19-26|Grand Forks 19-26 Voting District
+38|035|19-27|Grand Forks 19-27|Grand Forks 19-27 Voting District
+38|035|19-28|Grand Forks 19-28|Grand Forks 19-28 Voting District
+38|035|19-29|Grand Forks 19-29|Grand Forks 19-29 Voting District
+38|035|19-30|Grand Forks 19-30|Grand Forks 19-30 Voting District
+38|035|42-31|Grand Forks 42-31|Grand Forks 42-31 Voting District
+38|035|42-32|Grand Forks 42-32|Grand Forks 42-32 Voting District
+38|035|42-33|Grand Forks 42-33|Grand Forks 42-33 Voting District
+38|035|42-34|Grand Forks 42-34|Grand Forks 42-34 Voting District
+38|035|42-35|Grand Forks 42-35|Grand Forks 42-35 Voting District
+38|035|42-36|Grand Forks 42-36|Grand Forks 42-36 Voting District
+38|035|43-37|Grand Forks 43-37|Grand Forks 43-37 Voting District
+38|035|43-38|Grand Forks 43-38|Grand Forks 43-38 Voting District
+38|035|43-39|Grand Forks 43-39|Grand Forks 43-39 Voting District
+38|035|43-40|Grand Forks 43-40|Grand Forks 43-40 Voting District
+38|035|43-41|Grand Forks 43-41|Grand Forks 43-41 Voting District
+38|035|43-42|Grand Forks 43-42|Grand Forks 43-42 Voting District
+38|035|43-43|Grand Forks 43-43|Grand Forks 43-43 Voting District
+38|037|31-01|Grant 31-01|Grant 31-01 Voting District
+38|037|31-02|Grant 31-02|Grant 31-02 Voting District
+38|037|31-03|Grant 31-03|Grant 31-03 Voting District
+38|037|31-04|Grant 31-04|Grant 31-04 Voting District
+38|039|23-01|Griggs 23-01|Griggs 23-01 Voting District
+38|039|23-02|Griggs 23-02|Griggs 23-02 Voting District
+38|039|23-03|Griggs 23-03|Griggs 23-03 Voting District
+38|039|23-04|Griggs 23-04|Griggs 23-04 Voting District
+38|039|23-05|Griggs 23-05|Griggs 23-05 Voting District
+38|039|23-06|Griggs 23-06|Griggs 23-06 Voting District
+38|039|23-07|Griggs 23-07|Griggs 23-07 Voting District
+38|041|31-01|Hettinger 31-01|Hettinger 31-01 Voting District
+38|041|31-02|Hettinger 31-02|Hettinger 31-02 Voting District
+38|041|36-03|Hettinger 36-03|Hettinger 36-03 Voting District
+38|043|14-01|Kidder 14-01|Kidder 14-01 Voting District
+38|043|14-02|Kidder 14-02|Kidder 14-02 Voting District
+38|043|14-03|Kidder 14-03|Kidder 14-03 Voting District
+38|043|14-04|Kidder 14-04|Kidder 14-04 Voting District
+38|043|14-05|Kidder 14-05|Kidder 14-05 Voting District
+38|043|14-06|Kidder 14-06|Kidder 14-06 Voting District
+38|045|26-01|LaMoure 26-01|LaMoure 26-01 Voting District
+38|045|26-02|LaMoure 26-02|LaMoure 26-02 Voting District
+38|045|28-03|LaMoure 28-03|LaMoure 28-03 Voting District
+38|045|28-04|LaMoure 28-04|LaMoure 28-04 Voting District
+38|045|28-05|LaMoure 28-05|LaMoure 28-05 Voting District
+38|045|29-06|LaMoure 29-06|LaMoure 29-06 Voting District
+38|045|29-07|LaMoure 29-07|LaMoure 29-07 Voting District
+38|045|29-08|LaMoure 29-08|LaMoure 29-08 Voting District
+38|045|29-09|LaMoure 29-09|LaMoure 29-09 Voting District
+38|047|28-01|Logan 28-01|Logan 28-01 Voting District
+38|047|28-02|Logan 28-02|Logan 28-02 Voting District
+38|047|28-03|Logan 28-03|Logan 28-03 Voting District
+38|047|28-04|Logan 28-04|Logan 28-04 Voting District
+38|047|28-05|Logan 28-05|Logan 28-05 Voting District
+38|049|07-16|McHenry 07-16|McHenry 07-16 Voting District
+38|049|07-18|McHenry 07-18|McHenry 07-18 Voting District
+38|049|07-27|McHenry 07-27|McHenry 07-27 Voting District
+38|049|07-41|McHenry 07-41|McHenry 07-41 Voting District
+38|049|07-47|McHenry 07-47|McHenry 07-47 Voting District
+38|049|07-55|McHenry 07-55|McHenry 07-55 Voting District
+38|049|07-58|McHenry 07-58|McHenry 07-58 Voting District
+38|049|07-62|McHenry 07-62|McHenry 07-62 Voting District
+38|051|28-01|McIntosh 28-01|McIntosh 28-01 Voting District
+38|051|28-02|McIntosh 28-02|McIntosh 28-02 Voting District
+38|051|28-03|McIntosh 28-03|McIntosh 28-03 Voting District
+38|051|28-04|McIntosh 28-04|McIntosh 28-04 Voting District
+38|051|28-05|McIntosh 28-05|McIntosh 28-05 Voting District
+38|051|28-06|McIntosh 28-06|McIntosh 28-06 Voting District
+38|053|04-01|McKenzie 04-01|McKenzie 04-01 Voting District
+38|053|04-02|McKenzie 04-02|McKenzie 04-02 Voting District
+38|053|39-03|McKenzie 39-03|McKenzie 39-03 Voting District
+38|053|39-04|McKenzie 39-04|McKenzie 39-04 Voting District
+38|053|39-05|McKenzie 39-05|McKenzie 39-05 Voting District
+38|053|39-06|McKenzie 39-06|McKenzie 39-06 Voting District
+38|053|39-07|McKenzie 39-07|McKenzie 39-07 Voting District
+38|053|39-08|McKenzie 39-08|McKenzie 39-08 Voting District
+38|053|39-09|McKenzie 39-09|McKenzie 39-09 Voting District
+38|053|39-10|McKenzie 39-10|McKenzie 39-10 Voting District
+38|053|39-11|McKenzie 39-11|McKenzie 39-11 Voting District
+38|053|39-12|McKenzie 39-12|McKenzie 39-12 Voting District
+38|053|39-13|McKenzie 39-13|McKenzie 39-13 Voting District
+38|053|39-14|McKenzie 39-14|McKenzie 39-14 Voting District
+38|055|04-08|McLean 04-08|McLean 04-08 Voting District
+38|055|04-09|McLean 04-09|McLean 04-09 Voting District
+38|055|04-10|McLean 04-10|McLean 04-10 Voting District
+38|055|04-11|McLean 04-11|McLean 04-11 Voting District
+38|055|08-01|McLean 08-01|McLean 08-01 Voting District
+38|055|08-02|McLean 08-02|McLean 08-02 Voting District
+38|055|08-03|McLean 08-03|McLean 08-03 Voting District
+38|055|08-04|McLean 08-04|McLean 08-04 Voting District
+38|055|08-05|McLean 08-05|McLean 08-05 Voting District
+38|055|08-06|McLean 08-06|McLean 08-06 Voting District
+38|055|08-07|McLean 08-07|McLean 08-07 Voting District
+38|057|33-01|Mercer 33-01|Mercer 33-01 Voting District
+38|057|33-02|Mercer 33-02|Mercer 33-02 Voting District
+38|057|33-03|Mercer 33-03|Mercer 33-03 Voting District
+38|057|33-04|Mercer 33-04|Mercer 33-04 Voting District
+38|057|33-05|Mercer 33-05|Mercer 33-05 Voting District
+38|057|33-06|Mercer 33-06|Mercer 33-06 Voting District
+38|057|33-07|Mercer 33-07|Mercer 33-07 Voting District
+38|059|31-17|Morton 31-17|Morton 31-17 Voting District
+38|059|31-18|Morton 31-18|Morton 31-18 Voting District
+38|059|31-20|Morton 31-20|Morton 31-20 Voting District
+38|059|31-23|Morton 31-23|Morton 31-23 Voting District
+38|059|31-24|Morton 31-24|Morton 31-24 Voting District
+38|059|33-32|Morton 33-32|Morton 33-32 Voting District
+38|059|33-33|Morton 33-33|Morton 33-33 Voting District
+38|059|33-34|Morton 33-34|Morton 33-34 Voting District
+38|059|34-01|Morton 34-01|Morton 34-01 Voting District
+38|059|34-02|Morton 34-02|Morton 34-02 Voting District
+38|059|34-03|Morton 34-03|Morton 34-03 Voting District
+38|059|34-04|Morton 34-04|Morton 34-04 Voting District
+38|059|34-05|Morton 34-05|Morton 34-05 Voting District
+38|059|34-06|Morton 34-06|Morton 34-06 Voting District
+38|059|34-07|Morton 34-07|Morton 34-07 Voting District
+38|059|34-08|Morton 34-08|Morton 34-08 Voting District
+38|059|36-36|Morton 36-36|Morton 36-36 Voting District
+38|059|36-38|Morton 36-38|Morton 36-38 Voting District
+38|061|02-01|Mountrail 02-01|Mountrail 02-01 Voting District
+38|061|02-06|Mountrail 02-06|Mountrail 02-06 Voting District
+38|061|02-07|Mountrail 02-07|Mountrail 02-07 Voting District
+38|061|04-02|Mountrail 04-02|Mountrail 04-02 Voting District
+38|061|04-03|Mountrail 04-03|Mountrail 04-03 Voting District
+38|061|04-04|Mountrail 04-04|Mountrail 04-04 Voting District
+38|061|04-05|Mountrail 04-05|Mountrail 04-05 Voting District
+38|061|04-08|Mountrail 04-08|Mountrail 04-08 Voting District
+38|061|04-09|Mountrail 04-09|Mountrail 04-09 Voting District
+38|063|23-01|Nelson 23-01|Nelson 23-01 Voting District
+38|063|23-02|Nelson 23-02|Nelson 23-02 Voting District
+38|063|23-03|Nelson 23-03|Nelson 23-03 Voting District
+38|063|23-04|Nelson 23-04|Nelson 23-04 Voting District
+38|063|23-05|Nelson 23-05|Nelson 23-05 Voting District
+38|065|33-01|Oliver 33-01|Oliver 33-01 Voting District
+38|065|33-02|Oliver 33-02|Oliver 33-02 Voting District
+38|065|33-03|Oliver 33-03|Oliver 33-03 Voting District
+38|065|33-04|Oliver 33-04|Oliver 33-04 Voting District
+38|065|33-05|Oliver 33-05|Oliver 33-05 Voting District
+38|065|33-06|Oliver 33-06|Oliver 33-06 Voting District
+38|065|33-07|Oliver 33-07|Oliver 33-07 Voting District
+38|067|10-01|Pembina 10-01|Pembina 10-01 Voting District
+38|067|10-02|Pembina 10-02|Pembina 10-02 Voting District
+38|067|10-03|Pembina 10-03|Pembina 10-03 Voting District
+38|067|10-04|Pembina 10-04|Pembina 10-04 Voting District
+38|067|10-05|Pembina 10-05|Pembina 10-05 Voting District
+38|067|16-01|Pembina 16-01|Pembina 16-01 Voting District
+38|069|7-01|Pierce 7-01|Pierce 7-01 Voting District
+38|069|7-02|Pierce 7-02|Pierce 7-02 Voting District
+38|069|7-03|Pierce 7-03|Pierce 7-03 Voting District
+38|069|7-04|Pierce 7-04|Pierce 7-04 Voting District
+38|069|7-05|Pierce 7-05|Pierce 7-05 Voting District
+38|069|7-06|Pierce 7-06|Pierce 7-06 Voting District
+38|069|7-07|Pierce 7-07|Pierce 7-07 Voting District
+38|069|7-08|Pierce 7-08|Pierce 7-08 Voting District
+38|071|15-01|Ramsey 15-01|Ramsey 15-01 Voting District
+38|071|15-02|Ramsey 15-02|Ramsey 15-02 Voting District
+38|071|15-03|Ramsey 15-03|Ramsey 15-03 Voting District
+38|071|15-04|Ramsey 15-04|Ramsey 15-04 Voting District
+38|071|15-05|Ramsey 15-05|Ramsey 15-05 Voting District
+38|071|15-06|Ramsey 15-06|Ramsey 15-06 Voting District
+38|071|15-07|Ramsey 15-07|Ramsey 15-07 Voting District
+38|071|15-08|Ramsey 15-08|Ramsey 15-08 Voting District
+38|073|24-01|Ransom 24-01|Ransom 24-01 Voting District
+38|073|24-02|Ransom 24-02|Ransom 24-02 Voting District
+38|073|24-03|Ransom 24-03|Ransom 24-03 Voting District
+38|073|24-04|Ransom 24-04|Ransom 24-04 Voting District
+38|073|26-05|Ransom 26-05|Ransom 26-05 Voting District
+38|073|26-06|Ransom 26-06|Ransom 26-06 Voting District
+38|075|6-01|Renville 6-01|Renville 6-01 Voting District
+38|075|6-02|Renville 6-02|Renville 6-02 Voting District
+38|075|6-03|Renville 6-03|Renville 6-03 Voting District
+38|075|6-04|Renville 6-04|Renville 6-04 Voting District
+38|075|6-05|Renville 6-05|Renville 6-05 Voting District
+38|077|25-01|Richland 25-01|Richland 25-01 Voting District
+38|077|25-02|Richland 25-02|Richland 25-02 Voting District
+38|077|25-03|Richland 25-03|Richland 25-03 Voting District
+38|077|25-04|Richland 25-04|Richland 25-04 Voting District
+38|077|25-08|Richland 25-08|Richland 25-08 Voting District
+38|077|25-10|Richland 25-10|Richland 25-10 Voting District
+38|077|25-11|Richland 25-11|Richland 25-11 Voting District
+38|077|25-12|Richland 25-12|Richland 25-12 Voting District
+38|077|25-13|Richland 25-13|Richland 25-13 Voting District
+38|077|25-14|Richland 25-14|Richland 25-14 Voting District
+38|077|25-15|Richland 25-15|Richland 25-15 Voting District
+38|077|26-05|Richland 26-05|Richland 26-05 Voting District
+38|077|26-06|Richland 26-06|Richland 26-06 Voting District
+38|077|26-07|Richland 26-07|Richland 26-07 Voting District
+38|077|26-09|Richland 26-09|Richland 26-09 Voting District
+38|077|26-16|Richland 26-16|Richland 26-16 Voting District
+38|077|26-17|Richland 26-17|Richland 26-17 Voting District
+38|077|26-18|Richland 26-18|Richland 26-18 Voting District
+38|079|9-01|Rolette Precinct 9-01|Rolette Precinct 9-01
+38|079|9-02|Rolette Precinct 9-02|Rolette Precinct 9-02
+38|079|9-03|Rolette Precinct 9-03|Rolette Precinct 9-03
+38|079|9-04|Rolette Precinct 9-04|Rolette Precinct 9-04
+38|079|9-05|Rolette Precinct 9-05|Rolette Precinct 9-05
+38|081|26-01|Sargent 26-01|Sargent 26-01 Voting District
+38|081|26-02|Sargent 26-02|Sargent 26-02 Voting District
+38|081|26-03|Sargent 26-03|Sargent 26-03 Voting District
+38|081|26-04|Sargent 26-04|Sargent 26-04 Voting District
+38|081|26-05|Sargent 26-05|Sargent 26-05 Voting District
+38|083|14-02|Sheridan Precinct 14-02|Sheridan Precinct 14-02
+38|083|7-01|Sheridan Precinct 7-01|Sheridan Precinct 7-01
+38|085|31-01|Sioux 31-01|Sioux 31-01 Voting District
+38|085|31-02|Sioux 31-02|Sioux 31-02 Voting District
+38|085|31-03|Sioux 31-03|Sioux 31-03 Voting District
+38|085|31-04|Sioux 31-04|Sioux 31-04 Voting District
+38|085|31-05|Sioux 31-05|Sioux 31-05 Voting District
+38|085|31-06|Sioux 31-06|Sioux 31-06 Voting District
+38|085|31-07|Sioux 31-07|Sioux 31-07 Voting District
+38|087|39-01|Slope 39-01|Slope 39-01 Voting District
+38|087|39-02|Slope 39-02|Slope 39-02 Voting District
+38|087|39-03|Slope 39-03|Slope 39-03 Voting District
+38|089|36-07|Stark 36-07|Stark 36-07 Voting District
+38|089|36-08|Stark 36-08|Stark 36-08 Voting District
+38|089|36-09|Stark 36-09|Stark 36-09 Voting District
+38|089|36-10|Stark 36-10|Stark 36-10 Voting District
+38|089|36-11|Stark 36-11|Stark 36-11 Voting District
+38|089|36-12|Stark 36-12|Stark 36-12 Voting District
+38|089|36-13|Stark 36-13|Stark 36-13 Voting District
+38|089|37-01|Stark 37-01|Stark 37-01 Voting District
+38|089|37-02|Stark 37-02|Stark 37-02 Voting District
+38|089|37-03|Stark 37-03|Stark 37-03 Voting District
+38|089|37-04|Stark 37-04|Stark 37-04 Voting District
+38|089|37-05|Stark 37-05|Stark 37-05 Voting District
+38|089|37-06|Stark 37-06|Stark 37-06 Voting District
+38|091|20-03|Steele 20-03|Steele 20-03 Voting District
+38|091|20-04|Steele 20-04|Steele 20-04 Voting District
+38|091|20-05|Steele 20-05|Steele 20-05 Voting District
+38|091|23-01|Steele 23-01|Steele 23-01 Voting District
+38|091|23-02|Steele 23-02|Steele 23-02 Voting District
+38|093|29-01|Stutsman 29-01|Stutsman 29-01 Voting District
+38|093|29-02|Stutsman 29-02|Stutsman 29-02 Voting District
+38|093|29-03|Stutsman 29-03|Stutsman 29-03 Voting District
+38|093|29-04|Stutsman 29-04|Stutsman 29-04 Voting District
+38|093|29-05|Stutsman 29-05|Stutsman 29-05 Voting District
+38|093|29-06|Stutsman 29-06|Stutsman 29-06 Voting District
+38|093|29-07|Stutsman 29-07|Stutsman 29-07 Voting District
+38|093|29-08|Stutsman 29-08|Stutsman 29-08 Voting District
+38|093|29-09|Stutsman 29-09|Stutsman 29-09 Voting District
+38|093|29-10|Stutsman 29-10|Stutsman 29-10 Voting District
+38|093|29-11|Stutsman 29-11|Stutsman 29-11 Voting District
+38|093|29-12|Stutsman 29-12|Stutsman 29-12 Voting District
+38|095|10-02|Towner 10-02|Towner 10-02 Voting District
+38|095|10-03|Towner 10-03|Towner 10-03 Voting District
+38|095|15-01|Towner 15-01|Towner 15-01 Voting District
+38|097|20-01|Traill 20-01|Traill 20-01 Voting District
+38|097|20-02|Traill 20-02|Traill 20-02 Voting District
+38|097|20-03|Traill 20-03|Traill 20-03 Voting District
+38|097|20-04|Traill 20-04|Traill 20-04 Voting District
+38|097|20-05|Traill 20-05|Traill 20-05 Voting District
+38|097|20-06|Traill 20-06|Traill 20-06 Voting District
+38|097|20-07|Traill 20-07|Traill 20-07 Voting District
+38|097|20-08|Traill 20-08|Traill 20-08 Voting District
+38|097|20-09|Traill 20-09|Traill 20-09 Voting District
+38|097|20-10|Traill 20-10|Traill 20-10 Voting District
+38|097|20-11|Traill 20-11|Traill 20-11 Voting District
+38|097|20-12|Traill 20-12|Traill 20-12 Voting District
+38|097|20-13|Traill 20-13|Traill 20-13 Voting District
+38|099|16-01|Walsh 16-01|Walsh 16-01 Voting District
+38|099|16-02|Walsh 16-02|Walsh 16-02 Voting District
+38|099|16-03|Walsh 16-03|Walsh 16-03 Voting District
+38|099|16-04|Walsh 16-04|Walsh 16-04 Voting District
+38|099|16-05|Walsh 16-05|Walsh 16-05 Voting District
+38|099|16-06|Walsh 16-06|Walsh 16-06 Voting District
+38|099|16-07|Walsh 16-07|Walsh 16-07 Voting District
+38|099|16-08|Walsh 16-08|Walsh 16-08 Voting District
+38|099|16-09|Walsh 16-09|Walsh 16-09 Voting District
+38|099|16-10|Walsh 16-10|Walsh 16-10 Voting District
+38|099|16-11|Walsh 16-11|Walsh 16-11 Voting District
+38|099|16-12|Walsh 16-12|Walsh 16-12 Voting District
+38|099|16-13|Walsh 16-13|Walsh 16-13 Voting District
+38|099|16-14|Walsh 16-14|Walsh 16-14 Voting District
+38|099|16-15|Walsh 16-15|Walsh 16-15 Voting District
+38|099|16-16|Walsh 16-16|Walsh 16-16 Voting District
+38|099|16-17|Walsh 16-17|Walsh 16-17 Voting District
+38|099|16-18|Walsh 16-18|Walsh 16-18 Voting District
+38|101|03-08|Ward 03-08|Ward 03-08
+38|101|03-14|Ward 03-14|Ward 03-14
+38|101|03-15|Ward 03-15|Ward 03-15
+38|101|03-16|Ward 03-16|Ward 03-16
+38|101|03-17|Ward 03-17|Ward 03-17
+38|101|03-18|Ward 03-18|Ward 03-18
+38|101|03-19|Ward 03-19|Ward 03-19
+38|101|04-07|Ward 04-07|Ward 04-07
+38|101|04-11|Ward 04-11|Ward 04-11
+38|101|04-12|Ward 04-12|Ward 04-12
+38|101|04-13|Ward 04-13|Ward 04-13
+38|101|05-24|Ward 05-24|Ward 05-24
+38|101|05-27|Ward 05-27|Ward 05-27
+38|101|05-28|Ward 05-28|Ward 05-28
+38|101|05-29|Ward 05-29|Ward 05-29
+38|101|05-30|Ward 05-30|Ward 05-30
+38|101|05-31|Ward 05-31|Ward 05-31
+38|101|05-32|Ward 05-32|Ward 05-32
+38|101|06-02|Ward 06-02|Ward 06-02
+38|101|06-04|Ward 06-04|Ward 06-04
+38|101|06-06|Ward 06-06|Ward 06-06
+38|101|38-01|Ward 38-01|Ward 38-01
+38|101|38-03|Ward 38-03|Ward 38-03
+38|101|38-05|Ward 38-05|Ward 38-05
+38|101|38-09|Ward 38-09|Ward 38-09
+38|101|38-23|Ward 38-23|Ward 38-23
+38|101|38-26|Ward 38-26|Ward 38-26
+38|101|38-31|Ward 38-31|Ward 38-31
+38|101|40-10|Ward 40-10|Ward 40-10
+38|101|40-20|Ward 40-20|Ward 40-20
+38|101|40-21|Ward 40-21|Ward 40-21
+38|101|40-22|Ward 40-22|Ward 40-22
+38|101|40-25|Ward 40-25|Ward 40-25
+38|101|40-33|Ward 40-33|Ward 40-33
+38|103|14-01|Wells 14-01|Wells 14-01 Voting District
+38|103|14-02|Wells 14-02|Wells 14-02 Voting District
+38|103|14-03|Wells 14-03|Wells 14-03 Voting District
+38|103|14-04|Wells 14-04|Wells 14-04 Voting District
+38|105|01-59|Williams 01-59|Williams 01-59 Voting District
+38|105|01-60|Williams 01-60|Williams 01-60 Voting District
+38|105|01-73|Williams 01-73|Williams 01-73 Voting District
+38|105|01-74|Williams 01-74|Williams 01-74 Voting District
+38|105|01-76|Williams 01-76|Williams 01-76 Voting District
+38|105|2-43|Williams 2-43|Williams 2-43 Voting District
+38|105|2-45|Williams 2-45|Williams 2-45 Voting District
+38|105|2-48|Williams 2-48|Williams 2-48 Voting District
+38|105|2-53|Williams 2-53|Williams 2-53 Voting District
+38|105|2-55|Williams 2-55|Williams 2-55 Voting District
+38|105|2-62|Williams 2-62|Williams 2-62 Voting District
+38|105|2-63|Williams 2-63|Williams 2-63 Voting District
+38|105|2-64|Williams 2-64|Williams 2-64 Voting District
+38|105|2-65|Williams 2-65|Williams 2-65 Voting District
+38|105|2-67|Williams 2-67|Williams 2-67 Voting District

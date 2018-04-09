@@ -1,0 +1,17 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+10|00080|Appoquinimink School District|Appoquinimink School District
+10|00170|Cape Henlopen School District|Cape Henlopen School District
+10|00180|Caesar Rodney School District|Caesar Rodney School District
+10|00190|Capital School District|Capital School District
+10|00200|Christina School District|Christina School District
+10|00230|Colonial School District|Colonial School District
+10|00270|Delmar School District|Delmar School District
+10|00680|Indian River School District|Indian River School District
+10|00790|Lake Forest School District|Lake Forest School District
+10|00810|Laurel School District|Laurel School District
+10|01080|Milford School District|Milford School District
+10|01240|Brandywine School District|Brandywine School District
+10|01300|Red Clay Consolidated School District|Red Clay Consolidated School District
+10|01530|Seaford School District|Seaford School District
+10|01620|Smyrna School District|Smyrna School District
+10|01850|Woodbridge School District|Woodbridge School District

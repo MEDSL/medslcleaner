@@ -1,0 +1,65 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+28|00680|Alcorn State University|Alcorn State University CDP
+28|02060|Arnold Line|Arnold Line CDP
+28|04705|Beechwood|Beechwood CDP
+28|06180|Big Point|Big Point CDP
+28|07330|Bogue Chitto|Bogue Chitto CDP
+28|07340|Bogue Chitto|Bogue Chitto CDP
+28|08655|Bridgetown|Bridgetown CDP
+28|09380|Buckatunna|Buckatunna CDP
+28|13700|Clara|Clara CDP
+28|14140|Cleary|Cleary CDP
+28|14540|Cloverdale|Cloverdale CDP
+28|15180|Collinsville|Collinsville CDP
+28|15420|Columbus AFB|Columbus AFB CDP
+28|15540|Conehatta|Conehatta CDP
+28|17700|Darling|Darling CDP
+28|18420|DeLisle|DeLisle CDP
+28|19100|Diamondhead|Diamondhead CDP
+28|21940|Elliott|Elliott CDP
+28|22900|Escatawpa|Escatawpa CDP
+28|24460|Farrell|Farrell CDP
+28|25740|Foxworth|Foxworth CDP
+28|27620|Glendale|Glendale CDP
+28|29620|Gulf Hills|Gulf Hills CDP
+28|29660|Gulf Park Estates|Gulf Park Estates CDP
+28|30220|Hamilton|Hamilton CDP
+28|31460|Helena|Helena CDP
+28|31540|Henderson Point|Henderson Point CDP
+28|32110|Hide-A-Way Lake|Hide-A-Way Lake CDP
+28|32460|Hillsboro|Hillsboro CDP
+28|32820|Holcomb|Holcomb CDP
+28|34340|Hurley|Hurley CDP
+28|37190|Kearney Park|Kearney Park CDP
+28|37600|Kiln|Kiln CDP
+28|39520|Latimer|Latimer CDP
+28|39600|Lauderdale|Lauderdale CDP
+28|42800|Lyman|Lyman CDP
+28|42840|Lynchburg|Lynchburg CDP
+28|46680|Meridian Station|Meridian Station CDP
+28|48030|Mississippi State|Mississippi State CDP
+28|48120|Mississippi Valley State University|Mississippi Valley State University CDP
+28|48720|Mooresville|Mooresville CDP
+28|48880|Morgantown|Morgantown CDP
+28|50720|Nellieburg|Nellieburg CDP
+28|51240|New Hamilton|New Hamilton CDP
+28|51400|New Hope|New Hope CDP
+28|51840|Nicholson|Nicholson CDP
+28|52680|North Tunica|North Tunica CDP
+28|55920|Pearlington|Pearlington CDP
+28|55930|Pearl River|Pearl River CDP
+28|61080|Rawls Springs|Rawls Springs CDP
+28|61400|Redwater|Redwater CDP
+28|62900|Robinhood|Robinhood CDP
+28|64680|St. Martin|St. Martin CDP
+28|65720|Saucier|Saucier CDP
+28|66840|Sharon|Sharon CDP
+28|70120|Standing Pine|Standing Pine CDP
+28|73880|Toomsuba|Toomsuba CDP
+28|74675|Tucker|Tucker CDP
+28|74820|Tunica Resorts|Tunica Resorts CDP
+28|75520|University|University CDP
+28|76200|Vancleave|Vancleave CDP
+28|77080|Wade|Wade CDP
+28|78890|West Hattiesburg|West Hattiesburg CDP
+28|79620|White Oak|White Oak CDP

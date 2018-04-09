@@ -1,0 +1,83 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+24|006|6|State Legislative District 6
+24|007|7|State Legislative District 7
+24|008|8|State Legislative District 8
+24|010|10|State Legislative District 10
+24|011|11|State Legislative District 11
+24|013|13|State Legislative District 13
+24|014|14|State Legislative District 14
+24|015|15|State Legislative District 15
+24|016|16|State Legislative District 16
+24|017|17|State Legislative District 17
+24|018|18|State Legislative District 18
+24|019|19|State Legislative District 19
+24|01A|1A|State Legislative Subdistrict 1A
+24|01B|1B|State Legislative Subdistrict 1B
+24|01C|1C|State Legislative Subdistrict 1C
+24|020|20|State Legislative District 20
+24|021|21|State Legislative District 21
+24|022|22|State Legislative District 22
+24|024|24|State Legislative District 24
+24|025|25|State Legislative District 25
+24|026|26|State Legislative District 26
+24|028|28|State Legislative District 28
+24|02A|2A|State Legislative Subdistrict 2A
+24|02B|2B|State Legislative Subdistrict 2B
+24|02C|2C|State Legislative Subdistrict 2C
+24|030|30|State Legislative District 30
+24|031|31|State Legislative District 31
+24|032|32|State Legislative District 32
+24|036|36|State Legislative District 36
+24|039|39|State Legislative District 39
+24|03A|3A|State Legislative Subdistrict 3A
+24|03B|3B|State Legislative Subdistrict 3B
+24|040|40|State Legislative District 40
+24|041|41|State Legislative District 41
+24|042|42|State Legislative District 42
+24|043|43|State Legislative District 43
+24|044|44|State Legislative District 44
+24|045|45|State Legislative District 45
+24|046|46|State Legislative District 46
+24|047|47|State Legislative District 47
+24|04A|4A|State Legislative Subdistrict 4A
+24|04B|4B|State Legislative Subdistrict 4B
+24|05A|5A|State Legislative Subdistrict 5A
+24|05B|5B|State Legislative Subdistrict 5B
+24|09A|9A|State Legislative Subdistrict 9A
+24|09B|9B|State Legislative Subdistrict 9B
+24|12A|12A|State Legislative Subdistrict 12A
+24|12B|12B|State Legislative Subdistrict 12B
+24|23A|23A|State Legislative Subdistrict 23A
+24|23B|23B|State Legislative Subdistrict 23B
+24|27A|27A|State Legislative Subdistrict 27A
+24|27B|27B|State Legislative Subdistrict 27B
+24|29A|29A|State Legislative Subdistrict 29A
+24|29B|29B|State Legislative Subdistrict 29B
+24|29C|29C|State Legislative Subdistrict 29C
+24|33A|33A|State Legislative Subdistrict 33A
+24|33B|33B|State Legislative Subdistrict 33B
+24|34A|34A|State Legislative Subdistrict 34A
+24|34B|34B|State Legislative Subdistrict 34B
+24|35A|35A|State Legislative Subdistrict 35A
+24|35B|35B|State Legislative Subdistrict 35B
+24|37A|37A|State Legislative Subdistrict 37A
+24|37B|37B|State Legislative Subdistrict 37B
+24|38A|38A|State Legislative Subdistrict 38A
+24|38B|38B|State Legislative Subdistrict 38B
+24|Z03|State House Districts not defined (Anne Arundel County)|State House Districts not defined (Anne Arundel County)
+24|Z05|State House Districts not defined (Baltimore County)|State House Districts not defined (Baltimore County)
+24|Z09|State House Districts not defined (Calvert County)|State House Districts not defined (Calvert County)
+24|Z15|State House Districts not defined (Cecil County)|State House Districts not defined (Cecil County)
+24|Z17|State House Districts not defined (Charles County)|State House Districts not defined (Charles County)
+24|Z19|State House Districts not defined (Dorchester County)|State House Districts not defined (Dorchester County)
+24|Z25|State House Districts not defined (Harford County)|State House Districts not defined (Harford County)
+24|Z29|State House Districts not defined (Kent County)|State House Districts not defined (Kent County)
+24|Z33|State House Districts not defined (Prince George's County)|State House Districts not defined (Prince George's County)
+24|Z35|State House Districts not defined (Queen Anne's County)|State House Districts not defined (Queen Anne's County)
+24|Z37|State House Districts not defined (St. Mary's County)|State House Districts not defined (St. Mary's County)
+24|Z39|State House Districts not defined (Somerset County)|State House Districts not defined (Somerset County)
+24|Z41|State House Districts not defined (Talbot County)|State House Districts not defined (Talbot County)
+24|Z43|State House Districts not defined (Washington County)|State House Districts not defined (Washington County)
+24|Z45|State House Districts not defined (Wicomico County)|State House Districts not defined (Wicomico County)
+24|Z47|State House Districts not defined (Worcester County)|State House Districts not defined (Worcester County)
+24|Z51|State House Districts not defined (Baltimore city)|State House Districts not defined (Baltimore city)

@@ -1,0 +1,325 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+34|00100|Absecon|Absecon city
+34|00700|Allendale|Allendale borough
+34|00730|Allenhurst|Allenhurst borough
+34|00760|Allentown|Allentown borough
+34|01030|Alpha|Alpha borough
+34|01090|Alpine|Alpine borough
+34|01330|Andover|Andover borough
+34|01960|Asbury Park|Asbury Park city
+34|02080|Atlantic City|Atlantic City city
+34|02110|Atlantic Highlands|Atlantic Highlands borough
+34|02200|Audubon|Audubon borough
+34|02230|Audubon Park|Audubon Park borough
+34|02320|Avalon|Avalon borough
+34|02440|Avon-by-the-Sea|Avon-by-the-Sea borough
+34|03130|Barnegat Light|Barnegat Light borough
+34|03250|Barrington|Barrington borough
+34|03520|Bay Head|Bay Head borough
+34|03580|Bayonne|Bayonne city
+34|03940|Beach Haven|Beach Haven borough
+34|04180|Beachwood|Beachwood borough
+34|04750|Bellmawr|Bellmawr borough
+34|04930|Belmar|Belmar borough
+34|04990|Belvidere|Belvidere town
+34|05170|Bergenfield|Bergenfield borough
+34|05440|Berlin|Berlin borough
+34|05590|Bernardsville|Bernardsville borough
+34|05740|Beverly|Beverly city
+34|06340|Bloomingdale|Bloomingdale borough
+34|06370|Bloomsbury|Bloomsbury borough
+34|06490|Bogota|Bogota borough
+34|06610|Boonton|Boonton town
+34|06670|Bordentown|Bordentown city
+34|06790|Bound Brook|Bound Brook borough
+34|06970|Bradley Beach|Bradley Beach borough
+34|07300|Branchville|Branchville borough
+34|07600|Bridgeton|Bridgeton city
+34|07750|Brielle|Brielle borough
+34|07810|Brigantine|Brigantine city
+34|08170|Brooklawn|Brooklawn borough
+34|08680|Buena|Buena borough
+34|08920|Burlington|Burlington city
+34|09040|Butler|Butler borough
+34|09250|Caldwell|Caldwell borough
+34|09280|Califon|Califon borough
+34|10000|Camden|Camden city
+34|10270|Cape May|Cape May city
+34|10330|Cape May Point|Cape May Point borough
+34|10480|Carlstadt|Carlstadt borough
+34|10750|Carteret|Carteret borough
+34|12100|Chatham|Chatham borough
+34|12550|Chesilhurst|Chesilhurst borough
+34|12580|Chester|Chester borough
+34|13360|Clayton|Clayton borough
+34|13420|Clementon|Clementon borough
+34|13570|Cliffside Park|Cliffside Park borough
+34|13690|Clifton|Clifton city
+34|13720|Clinton|Clinton town
+34|13810|Closter|Closter borough
+34|14260|Collingswood|Collingswood borough
+34|15160|Corbin City|Corbin City city
+34|15820|Cresskill|Cresskill borough
+34|16660|Deal|Deal borough
+34|17530|Demarest|Demarest borough
+34|18070|Dover|Dover town
+34|18400|Dumont|Dumont borough
+34|18490|Dunellen|Dunellen borough
+34|19360|East Newark|East Newark borough
+34|19390|East Orange|East Orange city
+34|19510|East Rutherford|East Rutherford borough
+34|19840|Eatontown|Eatontown borough
+34|20020|Edgewater|Edgewater borough
+34|20350|Egg Harbor City|Egg Harbor City city
+34|21000|Elizabeth|Elizabeth city
+34|21240|Elmer|Elmer borough
+34|21300|Elmwood Park|Elmwood Park borough
+34|21450|Emerson|Emerson borough
+34|21480|Englewood|Englewood city
+34|21510|Englewood Cliffs|Englewood Cliffs borough
+34|21570|Englishtown|Englishtown borough
+34|21840|Essex Fells|Essex Fells borough
+34|21870|Estell Manor|Estell Manor city
+34|22440|Fair Haven|Fair Haven borough
+34|22470|Fair Lawn|Fair Lawn borough
+34|22560|Fairview|Fairview borough
+34|22860|Fanwood|Fanwood borough
+34|22890|Far Hills|Far Hills borough
+34|22950|Farmingdale|Farmingdale borough
+34|23250|Fieldsboro|Fieldsboro borough
+34|23700|Flemington|Flemington borough
+34|23910|Florham Park|Florham Park borough
+34|23940|Folsom|Folsom borough
+34|24420|Fort Lee|Fort Lee borough
+34|24930|Franklin|Franklin borough
+34|24990|Franklin Lakes|Franklin Lakes borough
+34|25200|Freehold|Freehold borough
+34|25350|Frenchtown|Frenchtown borough
+34|25770|Garfield|Garfield city
+34|25800|Garwood|Garwood borough
+34|26070|Gibbsboro|Gibbsboro borough
+34|26340|Glassboro|Glassboro borough
+34|26550|Glen Gardner|Glen Gardner borough
+34|26610|Glen Ridge|Glen Ridge borough
+34|26640|Glen Rock|Glen Rock borough
+34|26820|Gloucester City|Gloucester City city
+34|28650|Guttenberg|Guttenberg town
+34|28680|Hackensack|Hackensack city
+34|28710|Hackettstown|Hackettstown town
+34|28770|Haddonfield|Haddonfield borough
+34|28800|Haddon Heights|Haddon Heights borough
+34|29070|Haledon|Haledon borough
+34|29220|Hamburg|Hamburg borough
+34|29430|Hammonton|Hammonton town
+34|29460|Hampton|Hampton borough
+34|30150|Harrington Park|Harrington Park borough
+34|30210|Harrison|Harrison town
+34|30390|Harvey Cedars|Harvey Cedars borough
+34|30420|Hasbrouck Heights|Hasbrouck Heights borough
+34|30540|Haworth|Haworth borough
+34|30570|Hawthorne|Hawthorne borough
+34|30840|Helmetta|Helmetta borough
+34|31320|High Bridge|High Bridge borough
+34|31470|Highland Park|Highland Park borough
+34|31500|Highlands|Highlands borough
+34|31620|Hightstown|Hightstown borough
+34|31920|Hillsdale|Hillsdale borough
+34|32220|Hi-Nella|Hi-Nella borough
+34|32250|Hoboken|Hoboken city
+34|32310|Ho-Ho-Kus|Ho-Ho-Kus borough
+34|32910|Hopatcong|Hopatcong borough
+34|33150|Hopewell|Hopewell borough
+34|34200|Interlaken|Interlaken borough
+34|34530|Island Heights|Island Heights borough
+34|34890|Jamesburg|Jamesburg borough
+34|36000|Jersey City|Jersey City city
+34|36480|Keansburg|Keansburg borough
+34|36510|Kearny|Kearny town
+34|36690|Kenilworth|Kenilworth borough
+34|36810|Keyport|Keyport borough
+34|37110|Kinnelon|Kinnelon borough
+34|37560|Lake Como|Lake Como borough
+34|37770|Lakehurst|Lakehurst borough
+34|38610|Lambertville|Lambertville city
+34|39210|Laurel Springs|Laurel Springs borough
+34|39390|Lavallette|Lavallette borough
+34|39420|Lawnside|Lawnside borough
+34|39630|Lebanon|Lebanon borough
+34|40020|Leonia|Leonia borough
+34|40290|Lincoln Park|Lincoln Park borough
+34|40350|Linden|Linden city
+34|40440|Lindenwold|Lindenwold borough
+34|40530|Linwood|Linwood city
+34|40680|Little Ferry|Little Ferry borough
+34|40770|Little Silver|Little Silver borough
+34|41010|Loch Arbour|Loch Arbour village
+34|41100|Lodi|Lodi borough
+34|41310|Long Branch|Long Branch city
+34|41370|Longport|Longport borough
+34|42510|Madison|Madison borough
+34|42630|Magnolia|Magnolia borough
+34|43050|Manasquan|Manasquan borough
+34|43380|Mantoloking|Mantoloking borough
+34|43620|Manville|Manville borough
+34|43890|Margate City|Margate City city
+34|44520|Matawan|Matawan borough
+34|44880|Maywood|Maywood borough
+34|45210|Medford Lakes|Medford Lakes borough
+34|45330|Mendham|Mendham borough
+34|45510|Merchantville|Merchantville borough
+34|45690|Metuchen|Metuchen borough
+34|45900|Middlesex|Middlesex borough
+34|46110|Midland Park|Midland Park borough
+34|46260|Milford|Milford borough
+34|46590|Millstone|Millstone borough
+34|46620|Milltown|Milltown borough
+34|46680|Millville|Millville city
+34|47130|Monmouth Beach|Monmouth Beach borough
+34|47610|Montvale|Montvale borough
+34|47700|Moonachie|Moonachie borough
+34|48210|Morris Plains|Morris Plains borough
+34|48300|Morristown|Morristown town
+34|48480|Mountain Lakes|Mountain Lakes borough
+34|48510|Mountainside|Mountainside borough
+34|48690|Mount Arlington|Mount Arlington borough
+34|48750|Mount Ephraim|Mount Ephraim borough
+34|49680|National Park|National Park borough
+34|49920|Neptune City|Neptune City borough
+34|50130|Netcong|Netcong borough
+34|51000|Newark|Newark city
+34|51210|New Brunswick|New Brunswick city
+34|51390|Newfield|Newfield borough
+34|51660|New Milford|New Milford borough
+34|51810|New Providence|New Providence borough
+34|51930|Newton|Newton town
+34|52320|North Arlington|North Arlington borough
+34|52620|North Caldwell|North Caldwell borough
+34|52950|Northfield|Northfield city
+34|53040|North Haledon|North Haledon borough
+34|53280|North Plainfield|North Plainfield borough
+34|53430|Northvale|Northvale borough
+34|53490|North Wildwood|North Wildwood city
+34|53610|Norwood|Norwood borough
+34|53850|Oakland|Oakland borough
+34|53880|Oaklyn|Oaklyn borough
+34|54360|Ocean City|Ocean City city
+34|54450|Ocean Gate|Ocean Gate borough
+34|54570|Oceanport|Oceanport borough
+34|54660|Ogdensburg|Ogdensburg borough
+34|54870|Old Tappan|Old Tappan borough
+34|54990|Oradell|Oradell borough
+34|55770|Palisades Park|Palisades Park borough
+34|55800|Palmyra|Palmyra borough
+34|55950|Paramus|Paramus borough
+34|56130|Park Ridge|Park Ridge borough
+34|56550|Passaic|Passaic city
+34|57000|Paterson|Paterson city
+34|57150|Paulsboro|Paulsboro borough
+34|57300|Peapack and Gladstone|Peapack and Gladstone borough
+34|57480|Pemberton|Pemberton borough
+34|57600|Pennington|Pennington borough
+34|57750|Penns Grove|Penns Grove borough
+34|58200|Perth Amboy|Perth Amboy city
+34|58350|Phillipsburg|Phillipsburg town
+34|58590|Pine Beach|Pine Beach borough
+34|58770|Pine Hill|Pine Hill borough
+34|58920|Pine Valley|Pine Valley borough
+34|59070|Pitman|Pitman borough
+34|59190|Plainfield|Plainfield city
+34|59640|Pleasantville|Pleasantville city
+34|59880|Point Pleasant|Point Pleasant borough
+34|59910|Point Pleasant Beach|Point Pleasant Beach borough
+34|60090|Pompton Lakes|Pompton Lakes borough
+34|60600|Port Republic|Port Republic city
+34|60900|Princeton|Princeton borough
+34|61170|Prospect Park|Prospect Park borough
+34|61530|Rahway|Rahway city
+34|61680|Ramsey|Ramsey borough
+34|61980|Raritan|Raritan borough
+34|62430|Red Bank|Red Bank borough
+34|62910|Ridgefield|Ridgefield borough
+34|62940|Ridgefield Park|Ridgefield Park village
+34|63000|Ridgewood|Ridgewood village
+34|63150|Ringwood|Ringwood borough
+34|63300|Riverdale|Riverdale borough
+34|63360|River Edge|River Edge borough
+34|63660|Riverton|Riverton borough
+34|64050|Rockaway|Rockaway borough
+34|64170|Rockleigh|Rockleigh borough
+34|64320|Rocky Hill|Rocky Hill borough
+34|64410|Roosevelt|Roosevelt borough
+34|64590|Roseland|Roseland borough
+34|64620|Roselle|Roselle borough
+34|64650|Roselle Park|Roselle Park borough
+34|65130|Rumson|Rumson borough
+34|65160|Runnemede|Runnemede borough
+34|65280|Rutherford|Rutherford borough
+34|65400|Saddle River|Saddle River borough
+34|65490|Salem|Salem city
+34|65790|Sayreville|Sayreville borough
+34|66240|Sea Bright|Sea Bright borough
+34|66330|Sea Girt|Sea Girt borough
+34|66390|Sea Isle City|Sea Isle City city
+34|66450|Seaside Heights|Seaside Heights borough
+34|66480|Seaside Park|Seaside Park borough
+34|66570|Secaucus|Secaucus town
+34|67020|Shiloh|Shiloh borough
+34|67110|Ship Bottom|Ship Bottom borough
+34|67350|Shrewsbury|Shrewsbury borough
+34|68340|Somerdale|Somerdale borough
+34|68430|Somers Point|Somers Point city
+34|68460|Somerville|Somerville borough
+34|68550|South Amboy|South Amboy city
+34|68730|South Bound Brook|South Bound Brook borough
+34|69390|South Plainfield|South Plainfield borough
+34|69420|South River|South River borough
+34|69510|South Toms River|South Toms River borough
+34|69810|Spotswood|Spotswood borough
+34|70110|Spring Lake|Spring Lake borough
+34|70140|Spring Lake Heights|Spring Lake Heights borough
+34|70380|Stanhope|Stanhope borough
+34|70980|Stockton|Stockton borough
+34|71010|Stone Harbor|Stone Harbor borough
+34|71220|Stratford|Stratford borough
+34|71430|Summit|Summit city
+34|71640|Surf City|Surf City borough
+34|71670|Sussex|Sussex borough
+34|71850|Swedesboro|Swedesboro borough
+34|72240|Tavistock|Tavistock borough
+34|72420|Tenafly|Tenafly borough
+34|72480|Teterboro|Teterboro borough
+34|73020|Tinton Falls|Tinton Falls borough
+34|73140|Totowa|Totowa borough
+34|74000|Trenton|Trenton city
+34|74210|Tuckerton|Tuckerton borough
+34|74540|Union Beach|Union Beach borough
+34|74630|Union City|Union City city
+34|75140|Upper Saddle River|Upper Saddle River borough
+34|75620|Ventnor City|Ventnor City city
+34|75890|Victory Gardens|Victory Gardens borough
+34|76070|Vineland|Vineland city
+34|76400|Waldwick|Waldwick borough
+34|76490|Wallington|Wallington borough
+34|76730|Wanaque|Wanaque borough
+34|77270|Washington|Washington borough
+34|77600|Watchung|Watchung borough
+34|78110|Wenonah|Wenonah borough
+34|78530|West Cape May|West Cape May borough
+34|79040|Westfield|Westfield town
+34|79310|West Long Branch|West Long Branch borough
+34|79610|West New York|West New York town
+34|80120|Westville|Westville borough
+34|80210|West Wildwood|West Wildwood borough
+34|80270|Westwood|Westwood borough
+34|80390|Wharton|Wharton borough
+34|81170|Wildwood|Wildwood city
+34|81200|Wildwood Crest|Wildwood Crest borough
+34|81890|Woodbine|Woodbine borough
+34|82120|Woodbury|Woodbury city
+34|82180|Woodbury Heights|Woodbury Heights borough
+34|82300|Woodcliff Lake|Woodcliff Lake borough
+34|82423|Woodland Park|Woodland Park borough
+34|82450|Woodlynne|Woodlynne borough
+34|82570|Wood-Ridge|Wood-Ridge borough
+34|82720|Woodstown|Woodstown borough
+34|82960|Wrightstown|Wrightstown borough

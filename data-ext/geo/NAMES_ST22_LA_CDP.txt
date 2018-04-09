@@ -1,0 +1,170 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+22|01780|Ama|Ama CDP
+22|01815|Amelia|Amelia CDP
+22|02550|Arabi|Arabi CDP
+22|03810|Avondale|Avondale CDP
+22|04230|Banks Springs|Banks Springs CDP
+22|04300|Barataria|Barataria CDP
+22|05105|Bawcomville|Bawcomville CDP
+22|05175|Bayou Blue|Bayou Blue CDP
+22|05210|Bayou Cane|Bayou Cane CDP
+22|05260|Bayou Country Club|Bayou Country Club CDP
+22|05315|Bayou Gauche|Bayou Gauche CDP
+22|05350|Bayou Goula|Bayou Goula CDP
+22|05378|Bayou L'Ourse|Bayou L'Ourse CDP
+22|05525|Bayou Vista|Bayou Vista CDP
+22|06120|Belle Chasse|Belle Chasse CDP
+22|06260|Belle Rose|Belle Rose CDP
+22|06750|Belmont|Belmont CDP
+22|08710|Boothville|Boothville CDP
+22|08745|Bordelonville|Bordelonville CDP
+22|09095|Bourg|Bourg CDP
+22|09130|Boutte|Boutte CDP
+22|09235|Branch|Branch CDP
+22|09480|Bridge City|Bridge City CDP
+22|10145|Brownfields|Brownfields CDP
+22|10225|Brownsville|Brownsville CDP
+22|10985|Buras|Buras CDP
+22|11580|Cade|Cade CDP
+22|11825|Calhoun|Calhoun CDP
+22|12000|Cameron|Cameron CDP
+22|12840|Carlyss|Carlyss CDP
+22|13330|Catahoula|Catahoula CDP
+22|13575|Cecilia|Cecilia CDP
+22|13855|Center Point|Center Point CDP
+22|14100|Chackbay|Chackbay CDP
+22|14135|Chalmette|Chalmette CDP
+22|14310|Charenton|Charenton CDP
+22|14520|Chauvin|Chauvin CDP
+22|15150|Choctaw|Choctaw CDP
+22|15605|Claiborne|Claiborne CDP
+22|17180|Convent|Convent CDP
+22|18335|Crescent|Crescent CDP
+22|18930|Cut Off|Cut Off CDP
+22|20680|Des Allemands|Des Allemands CDP
+22|20820|Destrehan|Destrehan CDP
+22|20890|Deville|Deville CDP
+22|21940|Dulac|Dulac CDP
+22|22610|Eastwood|Eastwood CDP
+22|22722|Eden Isle|Eden Isle CDP
+22|22815|Edgard|Edgard CDP
+22|23025|Egan|Egan CDP
+22|23567|Elmwood|Elmwood CDP
+22|23725|Empire|Empire CDP
+22|24250|Erwinville|Erwinville CDP
+22|24390|Estelle|Estelle CDP
+22|25545|Fifth Ward|Fifth Ward CDP
+22|26665|Fort Jesup|Fort Jesup CDP
+22|26746|Fort Polk North|Fort Polk North CDP
+22|26757|Fort Polk South|Fort Polk South CDP
+22|27540|Frierson|Frierson CDP
+22|28065|Galliano|Galliano CDP
+22|28275|Gardere|Gardere CDP
+22|28345|Garyville|Garyville CDP
+22|29045|Gillis|Gillis CDP
+22|29150|Glencoe|Glencoe CDP
+22|29395|Gloster|Gloster CDP
+22|30900|Grand Point|Grand Point CDP
+22|31180|Gray|Gray CDP
+22|32405|Hackberry|Hackberry CDP
+22|32510|Hahnville|Hahnville CDP
+22|33245|Harvey|Harvey CDP
+22|33490|Hayes|Hayes CDP
+22|34085|Hester|Hester CDP
+22|37270|Inniswold|Inniswold CDP
+22|38145|Jefferson|Jefferson CDP
+22|38845|Jordan Hill|Jordan Hill CDP
+22|38880|Joyce|Joyce CDP
+22|39720|Killona|Killona CDP
+22|40210|Kraemer|Kraemer CDP
+22|40420|Labadieville|Labadieville CDP
+22|40595|Lacassine|Lacassine CDP
+22|40665|Lacombe|Lacombe CDP
+22|40840|Lafitte|Lafitte CDP
+22|40878|Lafourche Crossing|Lafourche Crossing CDP
+22|41470|Lakeshore|Lakeshore CDP
+22|41645|Lakeview|Lakeview CDP
+22|42030|Laplace|Laplace CDP
+22|42135|Larose|Larose CDP
+22|42520|Lawtell|Lawtell CDP
+22|43255|Lemannville|Lemannville CDP
+22|44970|Lockport Heights|Lockport Heights CDP
+22|45530|Longville|Longville CDP
+22|46615|Luling|Luling CDP
+22|46755|Lydia|Lydia CDP
+22|48785|Marrero|Marrero CDP
+22|49170|Mathews|Mathews CDP
+22|49800|Meraux|Meraux CDP
+22|49940|Merrydale|Merrydale CDP
+22|50115|Metairie|Metairie CDP
+22|50395|Midway|Midway CDP
+22|50815|Milton|Milton CDP
+22|50990|Minorca|Minorca CDP
+22|51550|Montegut|Montegut CDP
+22|51585|Monterey|Monterey CDP
+22|51645|Monticello|Monticello CDP
+22|51795|Montz|Montz CDP
+22|51800|Moonshine|Moonshine CDP
+22|52425|Moss Bluff|Moss Bluff CDP
+22|53475|Natalbany|Natalbany CDP
+22|55140|New Sarpy|New Sarpy CDP
+22|55525|Norco|Norco CDP
+22|56170|North Vacherie|North Vacherie CDP
+22|56855|Oak Hills Place|Oak Hills Place CDP
+22|57705|Old Jefferson|Old Jefferson CDP
+22|58150|Oretta|Oretta CDP
+22|58360|Ossun|Ossun CDP
+22|58745|Paincourtville|Paincourtville CDP
+22|58920|Paradis|Paradis CDP
+22|59375|Paulina|Paulina CDP
+22|60075|Pierre Part|Pierre Part CDP
+22|60600|Pitkin|Pitkin CDP
+22|61160|Pleasure Bend|Pleasure Bend CDP
+22|61440|Pointe a la Hache|Pointe a la Hache CDP
+22|61473|Point Place|Point Place CDP
+22|62070|Port Sulphur|Port Sulphur CDP
+22|62280|Poydras|Poydras CDP
+22|62385|Prairieville|Prairieville CDP
+22|62510|Presquille|Presquille CDP
+22|62647|Prien|Prien CDP
+22|62733|Prospect|Prospect CDP
+22|63155|Raceland|Raceland CDP
+22|63855|Red Chute|Red Chute CDP
+22|63890|Reddell|Reddell CDP
+22|64310|Reserve|Reserve CDP
+22|65150|River Ridge|River Ridge CDP
+22|65290|Roanoke|Roanoke CDP
+22|65535|Rock Hill|Rock Hill CDP
+22|65850|Romeville|Romeville CDP
+22|67355|St. James|St. James CDP
+22|67635|St. Maurice|St. Maurice CDP
+22|67740|St. Rose|St. Rose CDP
+22|68300|Schriever|Schriever CDP
+22|69225|Shenandoah|Shenandoah CDP
+22|70665|Singer|Singer CDP
+22|70675|Siracusaville|Siracusaville CDP
+22|71190|Sorrel|Sorrel CDP
+22|72092|South Vacherie|South Vacherie CDP
+22|72310|Spokane|Spokane CDP
+22|72975|Starks|Starks CDP
+22|73010|Start|Start CDP
+22|73570|Sugartown|Sugartown CDP
+22|74235|Supreme|Supreme CDP
+22|74340|Swartz|Swartz CDP
+22|74550|Taft|Taft CDP
+22|75180|Terrytown|Terrytown CDP
+22|75740|Timberlane|Timberlane CDP
+22|76440|Triumph|Triumph CDP
+22|77035|Union|Union CDP
+22|78015|Venice|Venice CDP
+22|78050|Ventress|Ventress CDP
+22|78545|Vienna Bend|Vienna Bend CDP
+22|78680|Village St. George|Village St. George CDP
+22|78855|Violet|Violet CDP
+22|79100|Waggaman|Waggaman CDP
+22|79275|Wallace|Wallace CDP
+22|79310|Wallace Ridge|Wallace Ridge CDP
+22|80010|Watson|Watson CDP
+22|80360|Welcome|Welcome CDP
+22|80920|Westminster|Westminster CDP
+22|83002|Woodmere|Woodmere CDP

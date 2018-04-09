@@ -1,0 +1,69 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+17|00178|Adair|Adair CDP
+17|01556|Annapolis|Annapolis CDP
+17|01647|Apple Canyon Lake|Apple Canyon Lake CDP
+17|04403|Beason|Beason CDP
+17|07315|Boody|Boody CDP
+17|07419|Boulder Hill|Boulder Hill CDP
+17|12489|Channel Lake|Channel Lake CDP
+17|12879|Chemung|Chemung CDP
+17|13230|Chestnut|Chestnut CDP
+17|15950|Como|Como CDP
+17|16431|Cornland|Cornland CDP
+17|17077|Coyne Center|Coyne Center CDP
+17|17094|Crab Orchard|Crab Orchard CDP
+17|17939|Crystal Lawns|Crystal Lawns CDP
+17|18641|Darmstadt|Darmstadt CDP
+17|18771|Dayton|Dayton CDP
+17|24920|Fairmont|Fairmont CDP
+17|26467|Floraville|Floraville CDP
+17|26896|Forest Lake|Forest Lake CDP
+17|27455|Fox Lake Hills|Fox Lake Hills CDP
+17|27644|Frankfort Square|Frankfort Square CDP
+17|28248|Gages Lake|Gages Lake CDP
+17|28950|Georgetown|Georgetown CDP
+17|29340|Gilson|Gilson CDP
+17|30510|Goofy Ridge|Goofy Ridge CDP
+17|30705|Grand Detour|Grand Detour CDP
+17|30900|Grandwood Park|Grandwood Park CDP
+17|33162|Harrison|Harrison CDP
+17|34272|Heritage Lake|Heritage Lake CDP
+17|35541|Holiday Shores|Holiday Shores CDP
+17|37465|Ingalls Park|Ingalls Park CDP
+17|40364|Knollwood|Knollwood CDP
+17|40962|Lake Camelot|Lake Camelot CDP
+17|40988|Lake Catherine|Lake Catherine CDP
+17|41157|Lake Holiday|Lake Holiday CDP
+17|41346|Lake of the Woods|Lake of the Woods CDP
+17|41404|Lake Petersburg|Lake Petersburg CDP
+17|41456|Lake Summerset|Lake Summerset CDP
+17|41716|Lakewood Shores|Lakewood Shores CDP
+17|42002|Langleyville|Langleyville CDP
+17|42067|LaPlace|LaPlace CDP
+17|44550|Long Lake|Long Lake CDP
+17|44836|Lost Nation|Lost Nation CDP
+17|49698|Mitchell|Mitchell CDP
+17|51310|Mulkeytown|Mulkeytown CDP
+17|54924|Oak Run|Oak Run CDP
+17|55847|Olive Branch|Olive Branch CDP
+17|55886|Olivet|Olivet CDP
+17|56198|Opdyke|Opdyke CDP
+17|57160|Paderborn|Paderborn CDP
+17|58577|Penfield|Penfield CDP
+17|60144|Pistakee Highlands|Pistakee Highlands CDP
+17|61821|Prestbury|Prestbury CDP
+17|61860|Preston Heights|Preston Heights CDP
+17|63355|Rentchler|Rentchler CDP
+17|65104|Rock Island Arsenal|Rock Island Arsenal CDP
+17|65403|Rome|Rome CDP
+17|65884|Rosewood Heights|Rosewood Heights CDP
+17|68328|Scott AFB|Scott AFB CDP
+17|68809|Seymour|Seymour CDP
+17|74970|The Galena Territory|The Galena Territory CDP
+17|76511|Twin Grove|Twin Grove CDP
+17|77460|Venetian Village|Venetian Village CDP
+17|80255|Westervelt|Westervelt CDP
+17|80879|West Union|West Union CDP
+17|80957|West York|West York CDP
+17|81295|White Heath|White Heath CDP
+17|81938|Willowbrook|Willowbrook CDP

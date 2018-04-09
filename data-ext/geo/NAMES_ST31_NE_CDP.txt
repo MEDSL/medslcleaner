@@ -1,0 +1,51 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+31|01220|Ames|Ames CDP
+31|01920|Archer|Archer CDP
+31|02480|Aten|Aten CDP
+31|04055|Belmar|Belmar CDP
+31|04545|Berea|Berea CDP
+31|05980|Bow Valley|Bow Valley CDP
+31|06680|Brownlee|Brownlee CDP
+31|08640|Chalco|Chalco CDP
+31|08745|Champion|Champion CDP
+31|15885|Enders|Enders CDP
+31|17040|Fontanelle|Fontanelle CDP
+31|19160|Glenwood|Glenwood CDP
+31|21030|Harrisburg|Harrisburg CDP
+31|22780|Holmesville|Holmesville CDP
+31|23725|Inavale|Inavale CDP
+31|24055|Inland|Inland CDP
+31|25335|Keystone|Keystone CDP
+31|25510|King Lake|King Lake CDP
+31|26150|Lakeview|Lakeview CDP
+31|26315|La Platte|La Platte CDP
+31|26595|Lemoyne|Lemoyne CDP
+31|28140|Lindy|Lindy CDP
+31|28315|Lisco|Lisco CDP
+31|29120|Lorenzo|Lorenzo CDP
+31|29155|Loretto|Loretto CDP
+31|30170|Macy|Macy CDP
+31|30905|Martin|Martin CDP
+31|31150|Max|Max CDP
+31|35770|Odessa|Odessa CDP
+31|35875|Offutt AFB|Offutt AFB CDP
+31|37735|Overland|Overland CDP
+31|38365|Parks|Parks CDP
+31|39835|Poole|Poole CDP
+31|40535|Raeville|Raeville CDP
+31|41340|Richfield|Richfield CDP
+31|42285|Roscoe|Roscoe CDP
+31|43160|St. Libory|St. Libory CDP
+31|43650|Sarben|Sarben CDP
+31|47745|Sunol|Sunol CDP
+31|48340|Tamora|Tamora CDP
+31|49320|Tryon|Tryon CDP
+31|50265|Venice|Venice CDP
+31|51280|Walton|Walton CDP
+31|51350|Wann|Wann CDP
+31|52330|Westerville|Westerville CDP
+31|52855|White Clay|White Clay CDP
+31|53205|Willow Island|Willow Island CDP
+31|53575|Woodland Hills|Woodland Hills CDP
+31|53580|Woodland Park|Woodland Park CDP
+31|54020|Yankee Hill|Yankee Hill CDP

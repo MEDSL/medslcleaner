@@ -1,0 +1,12 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+46|0605|Cheyenne River|Cheyenne River Reservation and Off-Reservation Trust Land
+46|0855|Crow Creek|Crow Creek Reservation
+46|1100|Flandreau|Flandreau Reservation
+46|1860|Lake Traverse|Lake Traverse Reservation and Off-Reservation Trust Land
+46|2030|Lower Brule|Lower Brule Reservation and Off-Reservation Trust Land
+46|2490|Northern Cheyenne|Northern Cheyenne Indian Reservation and Off-Reservation Trust Land
+46|2810|Pine Ridge|Pine Ridge Reservation
+46|3235|Rosebud|Rosebud Indian Reservation and Off-Reservation Trust Land
+46|3970|Standing Rock|Standing Rock Reservation
+46|4345|Turtle Mountain|Turtle Mountain Reservation and Off-Reservation Trust Land
+46|4700|Yankton|Yankton Reservation

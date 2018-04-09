@@ -1,0 +1,30 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+38|00015|Naughton Public School District 25|Naughton Public School District 25
+38|00033|Fort Ransom Public School District 6|Fort Ransom Public School District 6
+38|00037|Central Elementary Public School District 32|Central Elementary Public School District 32
+38|01680|Adams Public School District 128|Adams Public School District 128
+38|02014|Apple Creek Public School District 39|Apple Creek Public School District 39
+38|02240|Bakker Public School District 10|Bakker Public School District 10
+38|02320|Baldwin Public School District 29|Baldwin Public School District 29
+38|02840|Billings County Public School District 1|Billings County Public School District 1
+38|05670|Earl Public School District 18|Earl Public School District 18
+38|06360|Emerado Public School District 127|Emerado Public School District 127
+38|06600|Eureka Public School District 19|Eureka Public School District 19
+38|09810|Horse Creek Public School District 32|Horse Creek Public School District 32
+38|11540|Little Heart Public School District 4|Little Heart Public School District 4
+38|11610|Lonetree Public School District 6|Lonetree Public School District 6
+38|11970|Manning Public School District 45|Manning Public School District 45
+38|12000|Manvel Public School District 125|Manvel Public School District 125
+38|12030|Mapleton Public School District 7|Mapleton Public School District 7
+38|12120|Marmarth Public School District 12|Marmarth Public School District 12
+38|12720|Menoken Public School District 33|Menoken Public School District 33
+38|13660|Nedrose Public School District 4|Nedrose Public School District 4
+38|13760|New Public School District 8|New Public School District 8
+38|14520|Oberon Public School District 16|Oberon Public School District 16
+38|15360|Pleasant Valley Public School District 35|Pleasant Valley Public School District 35
+38|15960|Robinson Public School District 14|Robinson Public School District 14
+38|17170|South Prairie Public School District 70|South Prairie Public School District 70
+38|17760|Sterling Public School District 35|Sterling Public School District 35
+38|17940|Sweet Briar Public School District 17|Sweet Briar Public School District 17
+38|18600|Twin Buttes Public School District 37|Twin Buttes Public School District 37
+38|20340|Yellowstone Public School District 14|Yellowstone Public School District 14

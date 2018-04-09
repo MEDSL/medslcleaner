@@ -1,0 +1,2 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+11|50000|Washington|Washington city

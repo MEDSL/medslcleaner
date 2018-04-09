@@ -1,0 +1,116 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+09|00060|Ansonia School District|Ansonia School District
+09|00120|Avon School District|Avon School District
+09|00210|Berlin School District|Berlin School District
+09|00270|Bethel School District|Bethel School District
+09|00330|Bloomfield School District|Bloomfield School District
+09|00360|Bolton School District|Bolton School District
+09|00420|Branford School District|Branford School District
+09|00450|Bridgeport School District|Bridgeport School District
+09|00510|Bristol School District|Bristol School District
+09|00540|Brookfield School District|Brookfield School District
+09|00690|Canton School District|Canton School District
+09|00750|Cheshire School District|Cheshire School District
+09|00810|Clinton School District|Clinton School District
+09|00840|Colchester School District|Colchester School District
+09|00960|Coventry School District|Coventry School District
+09|00990|Cromwell School District|Cromwell School District
+09|01020|Danbury School District|Danbury School District
+09|01050|Darien School District|Darien School District
+09|01110|Derby School District|Derby School District
+09|01170|East Granby School District|East Granby School District
+09|01200|East Haddam School District|East Haddam School District
+09|01230|East Hampton School District|East Hampton School District
+09|01260|East Hartford School District|East Hartford School District
+09|01290|East Haven School District|East Haven School District
+09|01320|East Lyme School District|East Lyme School District
+09|01350|East Windsor School District|East Windsor School District
+09|01440|Ellington School District|Ellington School District
+09|01470|Enfield School District|Enfield School District
+09|01530|Fairfield School District|Fairfield School District
+09|01560|Farmington School District|Farmington School District
+09|01620|Glastonbury School District|Glastonbury School District
+09|01680|Granby School District|Granby School District
+09|01710|Greenwich School District|Greenwich School District
+09|01740|Griswold School District|Griswold School District
+09|01770|Groton School District|Groton School District
+09|01800|Guilford School District|Guilford School District
+09|01860|Hamden School District|Hamden School District
+09|01920|Hartford School District|Hartford School District
+09|02070|Killingly School District|Killingly School District
+09|02130|Lebanon School District|Lebanon School District
+09|02160|Ledyard School District|Ledyard School District
+09|02220|Litchfield School District|Litchfield School District
+09|02280|Madison School District|Madison School District
+09|02310|Manchester School District|Manchester School District
+09|02400|Meriden School District|Meriden School District
+09|02490|Middletown School District|Middletown School District
+09|02520|Milford School District|Milford School District
+09|02550|Monroe School District|Monroe School District
+09|02580|Montville School District|Montville School District
+09|02640|Naugatuck School District|Naugatuck School District
+09|02670|New Britain School District|New Britain School District
+09|02700|New Canaan School District|New Canaan School District
+09|02730|New Fairfield School District|New Fairfield School District
+09|02790|New Haven School District|New Haven School District
+09|02820|New London School District|New London School District
+09|02850|New Milford School District|New Milford School District
+09|02880|Newington School District|Newington School District
+09|02910|Newtown School District|Newtown School District
+09|02970|North Branford School District|North Branford School District
+09|03030|North Haven School District|North Haven School District
+09|03060|North Stonington School District|North Stonington School District
+09|03090|Norwalk School District|Norwalk School District
+09|03120|Norwich School District|Norwich School District
+09|03180|Old Saybrook School District|Old Saybrook School District
+09|03240|Oxford School District|Oxford School District
+09|03270|Plainfield School District|Plainfield School District
+09|03300|Plainville School District|Plainville School District
+09|03330|Plymouth School District|Plymouth School District
+09|03390|Portland School District|Portland School District
+09|03480|Putnam School District|Putnam School District
+09|03515|Regional School District 06|Regional School District 06
+09|03520|Regional School District 10|Regional School District 10
+09|03530|Regional School District 12|Regional School District 12
+09|03535|Regional School District 13|Regional School District 13
+09|03536|Regional School District 14|Regional School District 14
+09|03537|Regional School District 15|Regional School District 15
+09|03538|Regional School District 16|Regional School District 16
+09|03539|Regional School District 17|Regional School District 17
+09|03540|Regional School District 18|Regional School District 18
+09|03810|Ridgefield School District|Ridgefield School District
+09|03840|Rocky Hill School District|Rocky Hill School District
+09|03990|Seymour School District|Seymour School District
+09|04050|Shelton School District|Shelton School District
+09|04110|Simsbury School District|Simsbury School District
+09|04140|Somers School District|Somers School District
+09|04170|South Windsor School District|South Windsor School District
+09|04230|Southington School District|Southington School District
+09|04290|Stafford School District|Stafford School District
+09|04320|Stamford School District|Stamford School District
+09|04380|Stonington School District|Stonington School District
+09|04440|Stratford School District|Stratford School District
+09|04470|Suffield School District|Suffield School District
+09|04500|Thomaston School District|Thomaston School District
+09|04530|Thompson School District|Thompson School District
+09|04560|Tolland School District|Tolland School District
+09|04590|Torrington School District|Torrington School District
+09|04620|Trumbull School District|Trumbull School District
+09|04680|Vernon School District|Vernon School District
+09|04740|Wallingford School District|Wallingford School District
+09|04830|Waterbury School District|Waterbury School District
+09|04860|Waterford School District|Waterford School District
+09|04890|Watertown School District|Watertown School District
+09|04920|West Hartford School District|West Hartford School District
+09|04950|West Haven School District|West Haven School District
+09|04980|Westbrook School District|Westbrook School District
+09|05010|Weston School District|Weston School District
+09|05040|Westport School District|Westport School District
+09|05070|Wethersfield School District|Wethersfield School District
+09|05130|Wilton School District|Wilton School District
+09|05160|Winchester School District|Winchester School District
+09|05190|Windham School District|Windham School District
+09|05220|Windsor School District|Windsor School District
+09|05250|Windsor Locks School District|Windsor Locks School District
+09|05280|Wolcott School District|Wolcott School District
+09|99998|School District Not Defined (Water)|School District Not Defined (Water)

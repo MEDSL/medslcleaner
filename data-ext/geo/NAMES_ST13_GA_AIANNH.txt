@@ -1,0 +1,2 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+13|9400|Tama|Tama (state) Reservation

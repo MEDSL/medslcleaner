@@ -1,0 +1,268 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+30|00002|Somers Elementary School District|Somers Elementary School District
+30|00003|Cut Bank Elementary School District|Cut Bank Elementary School District
+30|00004|Mountain View Elementary School District|Mountain View Elementary School District
+30|00005|Helena Elementary School District|Helena Elementary School District
+30|00006|Broadus Elementary School District|Broadus Elementary School District
+30|00007|South Stacey Elementary School District|South Stacey Elementary School District
+30|00008|Ashland Elementary School District|Ashland Elementary School District
+30|00089|Cottonwood Elementary School District|Cottonwood Elementary School District
+30|00090|Noxon Elementary School District|Noxon Elementary School District
+30|00093|Liberty Elementary School District|Liberty Elementary School District
+30|00094|West Glacier Elementary School District|West Glacier Elementary School District
+30|00096|North Star Elementary School District|North Star Elementary School District
+30|00098|Chester-Joplin-Inverness Elementary School District|Chester-Joplin-Inverness Elementary School District
+30|00932|Shields Valley Elementary School District|Shields Valley Elementary School District
+30|01710|Absarokee Elementary School District|Absarokee Elementary School District
+30|01950|Alzada Elementary School District|Alzada Elementary School District
+30|01980|Amsterdam Elementary School District|Amsterdam Elementary School District
+30|02010|Anaconda Elementary School District|Anaconda Elementary School District
+30|02070|Anderson Elementary School District|Anderson Elementary School District
+30|02220|Arlee Elementary School District|Arlee Elementary School District
+30|02300|Arrowhead Elementary School District|Arrowhead Elementary School District
+30|02430|Augusta Elementary School District|Augusta Elementary School District
+30|02490|Auchard Creek Elementary School District|Auchard Creek Elementary School District
+30|02550|Avon Elementary School District|Avon Elementary School District
+30|02570|Ayers Elementary School District|Ayers Elementary School District
+30|02820|Basin Elementary School District|Basin Elementary School District
+30|02850|Smith Valley Elementary School District|Smith Valley Elementary School District
+30|03000|Bear Paw Elementary School District|Bear Paw Elementary School District
+30|03290|Belgrade Elementary School District|Belgrade Elementary School District
+30|03420|Belt Elementary School District|Belt Elementary School District
+30|03480|Benton Lake Elementary School District|Benton Lake Elementary School District
+30|03600|Biddle Elementary School District|Biddle Elementary School District
+30|03660|Spring Creek Elementary School District|Spring Creek Elementary School District
+30|03760|Big Sandy Elementary School District|Big Sandy Elementary School District
+30|03800|Big Timber Elementary School District|Big Timber Elementary School District
+30|03820|Bigfork Elementary School District|Bigfork Elementary School District
+30|03870|Billings Elementary School District|Billings Elementary School District
+30|03990|Birney Elementary School District|Birney Elementary School District
+30|04050|Cleveland Elementary School District|Cleveland Elementary School District
+30|04200|Bloomfield Elementary School District|Bloomfield Elementary School District
+30|04230|Blue Creek Elementary School District|Blue Creek Elementary School District
+30|04260|Bonner Elementary School District|Bonner Elementary School District
+30|04380|Boulder Elementary School District|Boulder Elementary School District
+30|04440|Box Elder Elementary School District|Box Elder Elementary School District
+30|04560|Bozeman Elementary School District|Bozeman Elementary School District
+30|04890|Broadview Elementary School District|Broadview Elementary School District
+30|05010|Brockton Elementary School District|Brockton Elementary School District
+30|05130|Brorson Elementary School District|Brorson Elementary School District
+30|05140|Browning Elementary School District|Browning Elementary School District
+30|05280|Butte Elementary School District|Butte Elementary School District
+30|05330|Bynum Elementary School District|Bynum Elementary School District
+30|05400|Camas Prairie Elementary School District|Camas Prairie Elementary School District
+30|05460|Canyon Creek Elementary School District|Canyon Creek Elementary School District
+30|05550|Cardwell Elementary School District|Cardwell Elementary School District
+30|05760|Carter Elementary School District|Carter Elementary School District
+30|05850|Vaughn Elementary School District|Vaughn Elementary School District
+30|05880|Cascade Elementary School District|Cascade Elementary School District
+30|05990|Cayuse Prairie Elementary School District|Cayuse Prairie Elementary School District
+30|06030|McCormick Elementary School District|McCormick Elementary School District
+30|06112|Charlo Elementary School District|Charlo Elementary School District
+30|06260|Chinook Elementary School District|Chinook Elementary School District
+30|06320|Choteau Elementary School District|Choteau Elementary School District
+30|06790|Circle Elementary School District|Circle Elementary School District
+30|06840|Clancy Elementary School District|Clancy Elementary School District
+30|06870|Clinton Elementary School District|Clinton Elementary School District
+30|07030|Cohagen Elementary School District|Cohagen Elementary School District
+30|07050|Colstrip Elementary School District|Colstrip Elementary School District
+30|07110|Columbia Falls Elementary School District|Columbia Falls Elementary School District
+30|07190|Columbus Elementary School District|Columbus Elementary School District
+30|07330|Conrad Elementary School District|Conrad Elementary School District
+30|07350|Cooke City Elementary School District|Cooke City Elementary School District
+30|07500|Cottonwood Elementary School District|Cottonwood Elementary School District
+30|07710|Creston Elementary School District|Creston Elementary School District
+30|07830|Culbertson Elementary School District|Culbertson Elementary School District
+30|07950|Spring Creek Elementary School District|Spring Creek Elementary School District
+30|07980|Kinsey Elementary School District|Kinsey Elementary School District
+30|08010|S Y Elementary School District|S Y Elementary School District
+30|08040|S H Elementary School District|S H Elementary School District
+30|08310|Davey Elementary School District|Davey Elementary School District
+30|08400|Lindsay Elementary School District|Lindsay Elementary School District
+30|08470|Deer Creek Elementary School District|Deer Creek Elementary School District
+30|08640|Deep Creek Elementary School District|Deep Creek Elementary School District
+30|08670|Deer Lodge Elementary School District|Deer Lodge Elementary School District
+30|08700|Deer Park Elementary School District|Deer Park Elementary School District
+30|08730|Deerfield Elementary School District|Deerfield Elementary School District
+30|08860|Denton Elementary School District|Denton Elementary School District
+30|08880|De Smet Elementary School District|De Smet Elementary School District
+30|08910|Dillon Elementary School District|Dillon Elementary School District
+30|09000|Divide Elementary School District|Divide Elementary School District
+30|09030|Dixon Elementary School District|Dixon Elementary School District
+30|09090|Dodson Elementary School District|Dodson Elementary School District
+30|09180|Drummond Elementary School District|Drummond Elementary School District
+30|09330|Dupuyer Elementary School District|Dupuyer Elementary School District
+30|09510|East Glacier Park Elementary School District|East Glacier Park Elementary School District
+30|09560|East Helena Elementary School District|East Helena Elementary School District
+30|09670|Ekalaka Elementary School District|Ekalaka Elementary School District
+30|09720|Elder Grove Elementary School District|Elder Grove Elementary School District
+30|09780|Elliston Elementary School District|Elliston Elementary School District
+30|09840|Elysian Elementary School District|Elysian Elementary School District
+30|10080|Eureka Elementary School District|Eureka Elementary School District
+30|10140|Fairfield Elementary School District|Fairfield Elementary School District
+30|10210|Fairview Elementary School District|Fairview Elementary School District
+30|10230|Fair-Mont-Egan Elementary School District|Fair-Mont-Egan Elementary School District
+30|10800|Fishtail Elementary School District|Fishtail Elementary School District
+30|10820|Wise River Elementary School District|Wise River Elementary School District
+30|10920|Evergreen Elementary School District|Evergreen Elementary School District
+30|10950|Olney-Bissell Elementary School District|Olney-Bissell Elementary School District
+30|11160|Forsyth Elementary School District|Forsyth Elementary School District
+30|11240|Fort Benton Elementary School District|Fort Benton Elementary School District
+30|11340|Fortine Elementary School District|Fortine Elementary School District
+30|11420|Frazer Elementary School District|Frazer Elementary School District
+30|11550|Froid Elementary School District|Froid Elementary School District
+30|11670|Frontier Elementary School District|Frontier Elementary School District
+30|11730|Galata Elementary School District|Galata Elementary School District
+30|11790|Gallatin Gateway Elementary School District|Gallatin Gateway Elementary School District
+30|11820|Gardiner Elementary School District|Gardiner Elementary School District
+30|11910|Big Dry Creek Elementary School District|Big Dry Creek Elementary School District
+30|11990|Ross Elementary School District|Ross Elementary School District
+30|12060|Sand Springs Elementary School District|Sand Springs Elementary School District
+30|12180|Geraldine Elementary School District|Geraldine Elementary School District
+30|12270|Geyser Elementary School District|Geyser Elementary School District
+30|12350|Gildford Colony Elementary School District|Gildford Colony Elementary School District
+30|12510|Glendive Elementary School District|Glendive Elementary School District
+30|12570|Gold Creek Elementary School District|Gold Creek Elementary School District
+30|12600|Golden Ridge Elementary School District|Golden Ridge Elementary School District
+30|12900|Grant Elementary School District|Grant Elementary School District
+30|12960|Grass Range Elementary School District|Grass Range Elementary School District
+30|13040|Great Falls Elementary School District|Great Falls Elementary School District
+30|13110|Greenfield Elementary School District|Greenfield Elementary School District
+30|13140|Greycliff Elementary School District|Greycliff Elementary School District
+30|13200|Hall Elementary School District|Hall Elementary School District
+30|13280|Hawks Home Elementary School District|Hawks Home Elementary School District
+30|13310|Hardin Elementary School District|Hardin Elementary School District
+30|13395|Harlem Elementary School District|Harlem Elementary School District
+30|13440|Harlowton Elementary School District|Harlowton Elementary School District
+30|13560|Havre Elementary School District|Havre Elementary School District
+30|13800|Helena Flats Elementary School District|Helena Flats Elementary School District
+30|13860|Hellgate Elementary School District|Hellgate Elementary School District
+30|13890|Helmville Elementary School District|Helmville Elementary School District
+30|14040|Highwood Elementary School District|Highwood Elementary School District
+30|14150|Cottonwood Elementary School District|Cottonwood Elementary School District
+30|14340|Hinsdale Elementary School District|Hinsdale Elementary School District
+30|14610|Hot Springs Elementary School District|Hot Springs Elementary School District
+30|14820|Independent Elementary School District|Independent Elementary School District
+30|15060|Jackson Elementary School District|Jackson Elementary School District
+30|15200|Joliet Elementary School District|Joliet Elementary School District
+30|15340|Jordan Elementary School District|Jordan Elementary School District
+30|15360|Judith Gap Elementary School District|Judith Gap Elementary School District
+30|15450|Kalispell Elementary School District|Kalispell Elementary School District
+30|15510|Kester Elementary School District|Kester Elementary School District
+30|15570|Kila Elementary School District|Kila Elementary School District
+30|15610|King Colony Elementary School District|King Colony Elementary School District
+30|15640|Kircher Elementary School District|Kircher Elementary School District
+30|15690|Knees Elementary School District|Knees Elementary School District
+30|15900|Upper West Shore Elementary School District|Upper West Shore Elementary School District
+30|15930|Swan Lake-Salmon Elementary School District|Swan Lake-Salmon Elementary School District
+30|15990|Lambert Elementary School District|Lambert Elementary School District
+30|16050|Lame Deer Elementary School District|Lame Deer Elementary School District
+30|16110|La Motte Elementary School District|La Motte Elementary School District
+30|16140|Landusky Elementary School District|Landusky Elementary School District
+30|16200|Laurel Elementary School District|Laurel Elementary School District
+30|16360|Lennep Elementary School District|Lennep Elementary School District
+30|16490|Lewistown Elementary School District|Lewistown Elementary School District
+30|16880|Livingston Elementary School District|Livingston Elementary School District
+30|16950|Lockwood Elementary School District|Lockwood Elementary School District
+30|17010|Lodge Grass Elementary School District|Lodge Grass Elementary School District
+30|17130|Lolo Elementary School District|Lolo Elementary School District
+30|17190|Lone Rock Elementary School District|Lone Rock Elementary School District
+30|17340|Lustre Elementary School District|Lustre Elementary School District
+30|17370|Luther Elementary School District|Luther Elementary School District
+30|17460|Alder Elementary School District|Alder Elementary School District
+30|17520|Malmborg Elementary School District|Malmborg Elementary School District
+30|17610|Manhattan Elementary School District|Manhattan Elementary School District
+30|17700|Marion Elementary School District|Marion Elementary School District
+30|18060|McLeod Elementary School District|McLeod Elementary School District
+30|18210|Melrose Elementary School District|Melrose Elementary School District
+30|18240|Melstone Elementary School District|Melstone Elementary School District
+30|18290|Melville Elementary School District|Melville Elementary School District
+30|18410|Miles City Elementary School District|Miles City Elementary School District
+30|18570|Missoula Elementary School District|Missoula Elementary School District
+30|18660|Molt Elementary School District|Molt Elementary School District
+30|18750|Monforton Elementary School District|Monforton Elementary School District
+30|18780|Montana City Elementary School District|Montana City Elementary School District
+30|18870|Moore Elementary School District|Moore Elementary School District
+30|18960|Morin Elementary School District|Morin Elementary School District
+30|19310|North Harlem Colony Elementary School District|North Harlem Colony Elementary School District
+30|19530|Nye Elementary School District|Nye Elementary School District
+30|19770|Ophir Elementary School District|Ophir Elementary School District
+30|19950|Ovando Elementary School District|Ovando Elementary School District
+30|19980|Paradise Elementary School District|Paradise Elementary School District
+30|20040|Park City Elementary School District|Park City Elementary School District
+30|20170|Pass Creek Elementary School District|Pass Creek Elementary School District
+30|20240|Pendroy Elementary School District|Pendroy Elementary School District
+30|20670|Pine Creek Elementary School District|Pine Creek Elementary School District
+30|20690|Pine Grove Elementary School District|Pine Grove Elementary School District
+30|20790|Pioneer Elementary School District|Pioneer Elementary School District
+30|20820|Plains Elementary School District|Plains Elementary School District
+30|20880|Pleasant Valley Elementary School District|Pleasant Valley Elementary School District
+30|21030|Polaris Elementary School District|Polaris Elementary School District
+30|21060|Polson Elementary School District|Polson Elementary School District
+30|21150|Miami Elementary School District|Miami Elementary School District
+30|21240|Poplar Elementary School District|Poplar Elementary School District
+30|21330|Potomac Elementary School District|Potomac Elementary School District
+30|21480|Garrison Elementary School District|Garrison Elementary School District
+30|21510|Power Elementary School District|Power Elementary School District
+30|21720|Pryor Elementary School District|Pryor Elementary School District
+30|21850|Ramsay Elementary School District|Ramsay Elementary School District
+30|21870|Rapelje Elementary School District|Rapelje Elementary School District
+30|21960|Rau Elementary School District|Rau Elementary School District
+30|22020|Raynesford Elementary School District|Raynesford Elementary School District
+30|22080|Red Lodge Elementary School District|Red Lodge Elementary School District
+30|22230|Reedpoint Elementary School District|Reedpoint Elementary School District
+30|22290|Reichle Elementary School District|Reichle Elementary School District
+30|22370|Richey Elementary School District|Richey Elementary School District
+30|22650|Ringling Elementary School District|Ringling Elementary School District
+30|22750|Rocky Boy Elementary School District|Rocky Boy Elementary School District
+30|22790|Ronan Elementary School District|Ronan Elementary School District
+30|22890|Rosebud Elementary School District|Rosebud Elementary School District
+30|23040|Roundup Elementary School District|Roundup Elementary School District
+30|23370|Saco Elementary School District|Saco Elementary School District
+30|23520|Savage Elementary School District|Savage Elementary School District
+30|23730|Seeley Lake Elementary School District|Seeley Lake Elementary School District
+30|23850|Shawmut Elementary School District|Shawmut Elementary School District
+30|23900|Shelby Elementary School District|Shelby Elementary School District
+30|23940|Shepherd Elementary School District|Shepherd Elementary School District
+30|24150|Sheridan Elementary School District|Sheridan Elementary School District
+30|24200|Sidney Elementary School District|Sidney Elementary School District
+30|24300|Sun River Valley Elementary School District|Sun River Valley Elementary School District
+30|24690|Spring Creek Colony Elementary School District|Spring Creek Colony Elementary School District
+30|24780|Springdale Elementary School District|Springdale Elementary School District
+30|24810|Springhill Elementary School District|Springhill Elementary School District
+30|25020|Stevensville Elementary School District|Stevensville Elementary School District
+30|25130|Centerville Elementary School District|Centerville Elementary School District
+30|25380|Sunset Elementary School District|Sunset Elementary School District
+30|25500|Swan River Elementary School District|Swan River Elementary School District
+30|25530|Swan Valley Elementary School District|Swan Valley Elementary School District
+30|25800|Sylvanite Elementary School District|Sylvanite Elementary School District
+30|25890|Target Range Elementary School District|Target Range Elementary School District
+30|26070|Thompson Falls Elementary School District|Thompson Falls Elementary School District
+30|26160|Three Forks Elementary School District|Three Forks Elementary School District
+30|26400|Trail Creek Elementary School District|Trail Creek Elementary School District
+30|26460|Trego Elementary School District|Trego Elementary School District
+30|26490|Trinity Elementary School District|Trinity Elementary School District
+30|26520|Trout Creek Elementary School District|Trout Creek Elementary School District
+30|26550|Troy Elementary School District|Troy Elementary School District
+30|26640|Turner Elementary School District|Turner Elementary School District
+30|26760|Twin Buttes Elementary School District|Twin Buttes Elementary School District
+30|26880|Ulm Elementary School District|Ulm Elementary School District
+30|27060|Valier Elementary School District|Valier Elementary School District
+30|27150|Valley View Elementary School District|Valley View Elementary School District
+30|27180|Van Norman Elementary School District|Van Norman Elementary School District
+30|27340|Vida Elementary School District|Vida Elementary School District
+30|27480|Warrick Elementary School District|Warrick Elementary School District
+30|27570|West Valley Elementary School District|West Valley Elementary School District
+30|27740|Whitefish Elementary School District|Whitefish Elementary School District
+30|27810|Whitehall Elementary School District|Whitehall Elementary School District
+30|27960|Whitlash Elementary School District|Whitlash Elementary School District
+30|28140|Willow Creek Elementary School District|Willow Creek Elementary School District
+30|28500|Wisdom Elementary School District|Wisdom Elementary School District
+30|28550|Wolf Creek Elementary School District|Wolf Creek Elementary School District
+30|28590|Wolf Point Elementary School District|Wolf Point Elementary School District
+30|28650|Woodman Elementary School District|Woodman Elementary School District
+30|28750|White Sulphur Springs Elementary School District|White Sulphur Springs Elementary School District
+30|28800|Wyola Elementary School District|Wyola Elementary School District
+30|28830|Yaak Elementary School District|Yaak Elementary School District
+30|28860|Yellowstone Academy Elementary School District|Yellowstone Academy Elementary School District
+30|28910|Zurich Elementary School District|Zurich Elementary School District

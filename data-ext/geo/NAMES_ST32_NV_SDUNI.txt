@@ -1,0 +1,18 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+32|00030|Churchill County School District|Churchill County School District
+32|00060|Clark County School District|Clark County School District
+32|00090|Douglas County School District|Douglas County School District
+32|00120|Elko County School District|Elko County School District
+32|00150|Esmeralda County School District|Esmeralda County School District
+32|00180|Eureka County School District|Eureka County School District
+32|00210|Humboldt County School District|Humboldt County School District
+32|00240|Lander County School District|Lander County School District
+32|00270|Lincoln County School District|Lincoln County School District
+32|00300|Lyon County School District|Lyon County School District
+32|00330|Mineral County School District|Mineral County School District
+32|00360|Nye County School District|Nye County School District
+32|00390|Carson City School District|Carson City School District
+32|00420|Pershing County School District|Pershing County School District
+32|00450|Storey County School District|Storey County School District
+32|00480|Washoe County School District|Washoe County School District
+32|00510|White Pine County School District|White Pine County School District

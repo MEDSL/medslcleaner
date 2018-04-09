@@ -1,0 +1,65 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+24|001|1|State Senate District 1
+24|002|2|State Senate District 2
+24|003|3|State Senate District 3
+24|004|4|State Senate District 4
+24|005|5|State Senate District 5
+24|006|6|State Senate District 6
+24|007|7|State Senate District 7
+24|008|8|State Senate District 8
+24|009|9|State Senate District 9
+24|010|10|State Senate District 10
+24|011|11|State Senate District 11
+24|012|12|State Senate District 12
+24|013|13|State Senate District 13
+24|014|14|State Senate District 14
+24|015|15|State Senate District 15
+24|016|16|State Senate District 16
+24|017|17|State Senate District 17
+24|018|18|State Senate District 18
+24|019|19|State Senate District 19
+24|020|20|State Senate District 20
+24|021|21|State Senate District 21
+24|022|22|State Senate District 22
+24|023|23|State Senate District 23
+24|024|24|State Senate District 24
+24|025|25|State Senate District 25
+24|026|26|State Senate District 26
+24|027|27|State Senate District 27
+24|028|28|State Senate District 28
+24|029|29|State Senate District 29
+24|030|30|State Senate District 30
+24|031|31|State Senate District 31
+24|032|32|State Senate District 32
+24|033|33|State Senate District 33
+24|034|34|State Senate District 34
+24|035|35|State Senate District 35
+24|036|36|State Senate District 36
+24|037|37|State Senate District 37
+24|038|38|State Senate District 38
+24|039|39|State Senate District 39
+24|040|40|State Senate District 40
+24|041|41|State Senate District 41
+24|042|42|State Senate District 42
+24|043|43|State Senate District 43
+24|044|44|State Senate District 44
+24|045|45|State Senate District 45
+24|046|46|State Senate District 46
+24|047|47|State Senate District 47
+24|Z03|State Senate Districts not defined (Anne Arundel County)|State Senate Districts not defined (Anne Arundel County)
+24|Z05|State Senate Districts not defined (Baltimore County)|State Senate Districts not defined (Baltimore County)
+24|Z09|State Senate Districts not defined (Calvert County)|State Senate Districts not defined (Calvert County)
+24|Z15|State Senate Districts not defined (Cecil County)|State Senate Districts not defined (Cecil County)
+24|Z17|State Senate Districts not defined (Charles County)|State Senate Districts not defined (Charles County)
+24|Z19|State Senate Districts not defined (Dorchester County)|State Senate Districts not defined (Dorchester County)
+24|Z25|State Senate Districts not defined (Harford County)|State Senate Districts not defined (Harford County)
+24|Z29|State Senate Districts not defined (Kent County)|State Senate Districts not defined (Kent County)
+24|Z33|State Senate Districts not defined (Prince George's County)|State Senate Districts not defined (Prince George's County)
+24|Z35|State Senate Districts not defined (Queen Anne's County)|State Senate Districts not defined (Queen Anne's County)
+24|Z37|State Senate Districts not defined (St. Mary's County)|State Senate Districts not defined (St. Mary's County)
+24|Z39|State Senate Districts not defined (Somerset County)|State Senate Districts not defined (Somerset County)
+24|Z41|State Senate Districts not defined (Talbot County)|State Senate Districts not defined (Talbot County)
+24|Z43|State Senate Districts not defined (Washington County)|State Senate Districts not defined (Washington County)
+24|Z45|State Senate Districts not defined (Wicomico County)|State Senate Districts not defined (Wicomico County)
+24|Z47|State Senate Districts not defined (Worcester County)|State Senate Districts not defined (Worcester County)
+24|Z51|State Senate Districts not defined (Baltimore city)|State Senate Districts not defined (Baltimore city)

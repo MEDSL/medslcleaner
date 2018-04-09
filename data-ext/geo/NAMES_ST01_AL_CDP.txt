@@ -1,0 +1,119 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+01|00100|Abanda|Abanda CDP
+01|01180|Alexandria|Alexandria CDP
+01|03508|Axis|Axis CDP
+01|03820|Ballplay|Ballplay CDP
+01|05140|Belgreen|Belgreen CDP
+01|05188|Bellamy|Bellamy CDP
+01|05212|Belle Fontaine|Belle Fontaine CDP
+01|07588|Blue Ridge|Blue Ridge CDP
+01|08680|Boykin|Boykin CDP
+01|09064|Brantleyville|Brantleyville CDP
+01|09457|Bristow Cove|Bristow Cove CDP
+01|09500|Brook Highland|Brook Highland CDP
+01|09880|Broomtown|Broomtown CDP
+01|10456|Bucks|Bucks CDP
+01|11488|Calvert|Calvert CDP
+01|12070|Carlisle-Rockledge|Carlisle-Rockledge CDP
+01|12112|Carlton|Carlton CDP
+01|12544|Catherine|Catherine CDP
+01|14728|Choccolocco|Choccolocco CDP
+01|14968|Chunchula|Chunchula CDP
+01|16080|Coats Bend|Coats Bend CDP
+01|16936|Concord|Concord CDP
+01|19024|Cullomburg|Cullomburg CDP
+01|20152|Deer Park|Deer Park CDP
+01|20272|Delta|Delta CDP
+01|21890|Dunnavant|Dunnavant CDP
+01|22504|East Point|East Point CDP
+01|23032|Edgewater|Edgewater CDP
+01|23224|Egypt|Egypt CDP
+01|23880|Emerald Mountain|Emerald Mountain CDP
+01|24616|Eunola|Eunola CDP
+01|25216|Fairford|Fairford CDP
+01|25864|Fayetteville|Fayetteville CDP
+01|26152|Fitzpatrick|Fitzpatrick CDP
+01|27088|Forestdale|Forestdale CDP
+01|27640|Fort Rucker|Fort Rucker CDP
+01|28120|Fredonia|Fredonia CDP
+01|28408|Fruitdale|Fruitdale CDP
+01|28816|Gallant|Gallant CDP
+01|31000|Graham|Graham CDP
+01|31024|Grand Bay|Grand Bay CDP
+01|31348|Grayson Valley|Grayson Valley CDP
+01|32248|Gulfcrest|Gulfcrest CDP
+01|32584|Hackneyville|Hackneyville CDP
+01|33472|Harvest|Harvest CDP
+01|33544|Hatton|Hatton CDP
+01|33808|Hazel Green|Hazel Green CDP
+01|34490|Highland Lakes|Highland Lakes CDP
+01|34984|Hissop|Hissop CDP
+01|35130|Hobson|Hobson CDP
+01|35512|Hollins|Hollins CDP
+01|35536|Hollis Crossroads|Hollis Crossroads CDP
+01|35704|Holt|Holt CDP
+01|35752|Holtville|Holtville CDP
+01|36592|Huguley|Huguley CDP
+01|38032|Ivalee|Ivalee CDP
+01|39088|Joppa|Joppa CDP
+01|40648|Ladonia|Ladonia CDP
+01|42304|Leroy|Leroy CDP
+01|44160|Lookout Mountain|Lookout Mountain CDP
+01|45208|McDonald Chapel|McDonald Chapel CDP
+01|45316|Macedonia|Macedonia CDP
+01|46192|Malcolm|Malcolm CDP
+01|46600|Marbury|Marbury CDP
+01|47740|Meadowbrook|Meadowbrook CDP
+01|47848|Megargel|Megargel CDP
+01|48112|Meridianville|Meridianville CDP
+01|48616|Mignon|Mignon CDP
+01|48784|Millerville|Millerville CDP
+01|49072|Minor|Minor CDP
+01|51216|Moores Mill|Moores Mill CDP
+01|51468|Morrison Crossroads|Morrison Crossroads CDP
+01|52320|Mount Olive|Mount Olive CDP
+01|52344|Mount Olive|Mount Olive CDP
+01|52680|Movico|Movico CDP
+01|53208|Nanafalia|Nanafalia CDP
+01|53232|Nances Creek|Nances Creek CDP
+01|54312|New Market|New Market CDP
+01|54582|New Union|New Union CDP
+01|57384|Our Town|Our Town CDP
+01|57912|Panola|Panola CDP
+01|59016|Penton|Penton CDP
+01|59232|Peterman|Peterman CDP
+01|60264|Pine Level|Pine Level CDP
+01|61488|Point Clear|Point Clear CDP
+01|62952|Putnam|Putnam CDP
+01|63495|Ray|Ray CDP
+01|63730|Redland|Redland CDP
+01|63912|Redstone Arsenal|Redstone Arsenal CDP
+01|64040|Reeltown|Reeltown CDP
+01|65412|Rock Creek|Rock Creek CDP
+01|65592|Rock Mills|Rock Mills CDP
+01|65784|Rockville|Rockville CDP
+01|67584|St. Stephens|St. Stephens CDP
+01|67608|Saks|Saks CDP
+01|69180|Selmont-West Selmont|Selmont-West Selmont CDP
+01|69672|Shelby|Shelby CDP
+01|69978|Shoal Creek|Shoal Creek CDP
+01|70632|Sims Chapel|Sims Chapel CDP
+01|71201|Smoke Rise|Smoke Rise CDP
+01|72408|Spring Garden|Spring Garden CDP
+01|72672|Spruce Pine|Spruce Pine CDP
+01|72720|Standing Rock|Standing Rock CDP
+01|73056|Sterrett|Sterrett CDP
+01|73152|Stewartville|Stewartville CDP
+01|75768|Theodore|Theodore CDP
+01|76200|Tibbie|Tibbie CDP
+01|76208|Tidmore Bend|Tidmore Bend CDP
+01|76320|Tillmans Corner|Tillmans Corner CDP
+01|77580|Underwood-Petersville|Underwood-Petersville CDP
+01|78120|Uriah|Uriah CDP
+01|78312|Vandiver|Vandiver CDP
+01|79032|Vinegar Bend|Vinegar Bend CDP
+01|80736|Weogufka|Weogufka CDP
+01|81084|West End-Cobb Town|West End-Cobb Town CDP
+01|81744|Whatley|Whatley CDP
+01|82104|White Plains|White Plains CDP
+01|82176|Whitesboro|Whitesboro CDP

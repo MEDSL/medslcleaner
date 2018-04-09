@@ -1,0 +1,103 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+21|01648|Annville|Annville CDP
+21|02188|Artemus|Artemus CDP
+21|02764|Auxier|Auxier CDP
+21|03412|Bandana|Bandana CDP
+21|04978|Beech Grove|Beech Grove CDP
+21|05014|Beechmont|Beechmont CDP
+21|05428|Belleview|Belleview CDP
+21|06220|Betsy Layne|Betsy Layne CDP
+21|08722|Boston|Boston CDP
+21|09379|Breckinridge Center|Breckinridge Center CDP
+21|09964|Brooks|Brooks CDP
+21|10648|Buckner|Buckner CDP
+21|10774|Buffalo|Buffalo CDP
+21|11170|Burlington|Burlington CDP
+21|11188|Burna|Burna CDP
+21|12610|Cannonsburg|Cannonsburg CDP
+21|13582|Cawood|Cawood CDP
+21|13600|Cayce|Cayce CDP
+21|13636|Cecilia|Cecilia CDP
+21|14068|Cerulean|Cerulean CDP
+21|14266|Chaplin|Chaplin CDP
+21|15166|Claryville|Claryville CDP
+21|16354|Coldiron|Coldiron CDP
+21|18190|Crayne|Crayne CDP
+21|21322|Dexter|Dexter CDP
+21|21358|Diablock|Diablock CDP
+21|21844|Doe Valley|Doe Valley CDP
+21|23000|Dunmor|Dunmor CDP
+21|23104|Dwale|Dwale CDP
+21|23284|East Bernstadt|East Bernstadt CDP
+21|24292|Elizaville|Elizaville CDP
+21|24346|Elk Creek|Elk Creek CDP
+21|24922|Emlyn|Emlyn CDP
+21|25876|Ezel|Ezel CDP
+21|26182|Fairview|Fairview CDP
+21|26452|Fancy Farm|Fancy Farm CDP
+21|26528|Farley|Farley CDP
+21|26560|Farmers|Farmers CDP
+21|26614|Farmington|Farmington CDP
+21|27730|Flat Lick|Flat Lick CDP
+21|28486|Fort Campbell North|Fort Campbell North CDP
+21|28540|Fort Knox|Fort Knox CDP
+21|28882|Francisville|Francisville CDP
+21|29134|Freeburn|Freeburn CDP
+21|30232|Garrison|Garrison CDP
+21|30880|Gilbertsville|Gilbertsville CDP
+21|32032|Gracey|Gracey CDP
+21|34660|Hardyville|Hardyville CDP
+21|35398|Hazel Green|Hazel Green CDP
+21|35542|Hebron|Hebron CDP
+21|35902|Hendron|Hendron CDP
+21|36460|High Bridge|High Bridge CDP
+21|37234|Hiseville|Hiseville CDP
+21|40204|Jeff|Jeff CDP
+21|42112|Kenvir|Kenvir CDP
+21|44434|Ledbetter|Ledbetter CDP
+21|48072|Lovelaceville|Lovelaceville CDP
+21|48234|Lowes|Lowes CDP
+21|48810|McCarr|McCarr CDP
+21|49026|Maceo|Maceo CDP
+21|49278|McRoberts|McRoberts CDP
+21|49476|Magnolia|Magnolia CDP
+21|49746|Manitou|Manitou CDP
+21|50124|Marrowbone|Marrowbone CDP
+21|50520|Masonville|Masonville CDP
+21|50556|Massac|Massac CDP
+21|50952|Mayking|Mayking CDP
+21|51006|Mays Lick|Mays Lick CDP
+21|51060|Maytown|Maytown CDP
+21|52464|Millstone|Millstone CDP
+21|55794|New Hope|New Hope CDP
+21|56694|North Corbin|North Corbin CDP
+21|57030|Oakbrook|Oakbrook CDP
+21|58062|Oneida|Oneida CDP
+21|58116|Onton|Onton CDP
+21|59466|Pathfork|Pathfork CDP
+21|59592|Payne Gap|Payne Gap CDP
+21|60312|Petersburg|Petersburg CDP
+21|60600|Phelps|Phelps CDP
+21|61122|Pine Knot|Pine Knot CDP
+21|61536|Plano|Plano CDP
+21|61734|Pleasant View|Pleasant View CDP
+21|63426|Pryorsburg|Pryorsburg CDP
+21|63804|Rabbit Hash|Rabbit Hash CDP
+21|64632|Reidland|Reidland CDP
+21|66162|Rockholds|Rockholds CDP
+21|66846|Rosine|Rosine CDP
+21|68214|Salvisa|Salvisa CDP
+21|69258|Sedalia|Sedalia CDP
+21|72255|South Wallins|South Wallins CDP
+21|72264|South Williamson|South Williamson CDP
+21|72570|Spottsville|Spottsville CDP
+21|73362|Stearns|Stearns CDP
+21|74586|Summer Shade|Summer Shade CDP
+21|74604|Summersville|Summersville CDP
+21|75270|Symsonia|Symsonia CDP
+21|77124|Tolu|Tolu CDP
+21|79464|Verona|Verona CDP
+21|79860|Virgie|Virgie CDP
+21|81948|Westport|Westport CDP
+21|82146|Westwood|Westwood CDP
+21|82938|Whitley City|Whitley City CDP

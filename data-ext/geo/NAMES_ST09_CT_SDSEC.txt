@@ -1,0 +1,9 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+09|00005|Regional High School District 19|Regional High School District 19
+09|03570|Regional High School District 11|Regional High School District 11
+09|03600|Regional High School District 01|Regional High School District 01
+09|03630|Regional High School District 04|Regional High School District 04
+09|03660|Regional High School District 05|Regional High School District 05
+09|03720|Regional High School District 07|Regional High School District 07
+09|03750|Regional High School District 08|Regional High School District 08
+09|03780|Regional High School District 09|Regional High School District 09

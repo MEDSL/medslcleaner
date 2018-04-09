@@ -1,0 +1,670 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+36|00001|Dolgeville Central School District|Dolgeville Central School District
+36|00002|Sauquoit Valley Central School District|Sauquoit Valley Central School District
+36|00003|Edwards-Knox Central School District|Edwards-Knox Central School District
+36|00004|Rotterdam-Mohonasen Central School District|Rotterdam-Mohonasen Central School District
+36|00005|Broadalbin-Perth Central School District|Broadalbin-Perth Central School District
+36|00006|Cherry Valley-Springfield Central School District|Cherry Valley-Springfield Central School District
+36|00007|Jasper-Troupsburg Central School District|Jasper-Troupsburg Central School District
+36|00008|South Country Central School District|South Country Central School District
+36|00009|Saranac Central School District|Saranac Central School District
+36|00010|Cobleskill-Richmondville Central School District|Cobleskill-Richmondville Central School District
+36|00011|Wayland-Cohocton Central School District|Wayland-Cohocton Central School District
+36|00012|Bolivar-Richburg Central School District|Bolivar-Richburg Central School District
+36|00013|Oneida City School District|Oneida City School District
+36|00014|Waterloo Central School District|Waterloo Central School District
+36|00015|Allegany-Limestone Central School District|Allegany-Limestone Central School District
+36|00016|Averill Park Central School District|Averill Park Central School District
+36|00017|Genesee Valley Central School District at Angelica-Belmont|Genesee Valley Central School District at Angelica-Belmont
+36|00018|Chautauqua Lake Central School District|Chautauqua Lake Central School District
+36|00019|Unadilla Valley Central School District|Unadilla Valley Central School District
+36|00020|Campbell-Savona Central School District|Campbell-Savona Central School District
+36|00021|Mattituck-Cutchogue Union Free School District|Mattituck-Cutchogue Union Free School District
+36|00023|Sullivan West Central School District|Sullivan West Central School District
+36|00124|Canisteo-Greenwood Central School District|Canisteo-Greenwood Central School District
+36|00125|Eastport-South Manor Central School District|Eastport-South Manor Central School District
+36|00971|North Colonie Central School District|North Colonie Central School District
+36|02310|Glens Falls Common School District|Glens Falls Common School District
+36|02340|South Jefferson Central School District|South Jefferson Central School District
+36|02370|Addison Central School District|Addison Central School District
+36|02400|Afton Central School District|Afton Central School District
+36|02430|Akron Central School District|Akron Central School District
+36|02460|Albany City School District|Albany City School District
+36|02520|Albion Central School District|Albion Central School District
+36|02550|Alden Central School District|Alden Central School District
+36|02580|Alexander Central School District|Alexander Central School District
+36|02670|Alexandria Central School District|Alexandria Central School District
+36|02700|Alfred-Almond Central School District|Alfred-Almond Central School District
+36|02730|Windsor Central School District|Windsor Central School District
+36|02820|Altmar-Parish-Williamstown Central School District|Altmar-Parish-Williamstown Central School District
+36|02880|Amagansett Union Free School District|Amagansett Union Free School District
+36|02920|Amherst Central School District|Amherst Central School District
+36|02940|Amityville Union Free School District|Amityville Union Free School District
+36|02970|Amsterdam City School District|Amsterdam City School District
+36|03000|Andes Central School District|Andes Central School District
+36|03030|Andover Central School District|Andover Central School District
+36|03060|Schenevus Central School District|Schenevus Central School District
+36|03180|Ardsley Union Free School District|Ardsley Union Free School District
+36|03210|Argyle Central School District|Argyle Central School District
+36|03240|Arkport Central School District|Arkport Central School District
+36|03270|Arlington Central School District|Arlington Central School District
+36|03420|Attica Central School District|Attica Central School District
+36|03480|Auburn City School District|Auburn City School District
+36|03630|Avoca Central School District|Avoca Central School District
+36|03660|Avon Central School District|Avon Central School District
+36|03720|Babylon Union Free School District|Babylon Union Free School District
+36|03810|Bainbridge-Guilford Central School District|Bainbridge-Guilford Central School District
+36|03840|Baldwin Union Free School District|Baldwin Union Free School District
+36|03870|Baldwinsville Central School District|Baldwinsville Central School District
+36|03930|Ballston Spa Central School District|Ballston Spa Central School District
+36|03960|Barker Central School District|Barker Central School District
+36|03990|Batavia City School District|Batavia City School District
+36|04050|Bath Central School District|Bath Central School District
+36|04080|Bay Shore Union Free School District|Bay Shore Union Free School District
+36|04110|Bayport-Blue Point Union Free School District|Bayport-Blue Point Union Free School District
+36|04140|Beacon City School District|Beacon City School District
+36|04200|Beaver River Central School District|Beaver River Central School District
+36|04290|Beekmantown Central School District|Beekmantown Central School District
+36|04350|Belfast Central School District|Belfast Central School District
+36|04370|Belleville Henderson Central School District|Belleville Henderson Central School District
+36|04530|Bemus Point Central School District|Bemus Point Central School District
+36|04620|Berlin Central School District|Berlin Central School District
+36|04650|Berne-Knox-Westerlo Central School District|Berne-Knox-Westerlo Central School District
+36|04710|Bethlehem Central School District|Bethlehem Central School District
+36|04740|Bethpage Union Free School District|Bethpage Union Free School District
+36|04757|Gilbertsville-Mount Upton Central School District|Gilbertsville-Mount Upton Central School District
+36|04758|Kiryas Joel Village Union Free School District|Kiryas Joel Village Union Free School District
+36|04800|Binghamton Common School District|Binghamton Common School District
+36|04870|Binghamton City School District|Binghamton City School District
+36|04920|Bloomfield Central School District|Bloomfield Central School District
+36|05010|Bolton Central School District|Bolton Central School District
+36|05040|Adirondack Central School District|Adirondack Central School District
+36|05220|Bradford Central School District|Bradford Central School District
+36|05280|Brentwood Union Free School District|Brentwood Union Free School District
+36|05310|Brewster Central School District|Brewster Central School District
+36|05340|Briarcliff Manor Union Free School District|Briarcliff Manor Union Free School District
+36|05370|Bridgehampton Union Free School District|Bridgehampton Union Free School District
+36|05460|Brighton Central School District|Brighton Central School District
+36|05520|Brunswick Central School District (Brittonkill)|Brunswick Central School District (Brittonkill)
+36|05580|Brockport Central School District|Brockport Central School District
+36|05610|Brocton Central School District|Brocton Central School District
+36|05640|Bronxville Union Free School District|Bronxville Union Free School District
+36|05670|Brookfield Central School District|Brookfield Central School District
+36|05820|Brushton-Moira Central School District|Brushton-Moira Central School District
+36|05850|Buffalo City School District|Buffalo City School District
+36|05940|Burnt Hills-Ballston Lake Central School District|Burnt Hills-Ballston Lake Central School District
+36|06060|Byram Hills Central School District|Byram Hills Central School District
+36|06090|Byron-Bergen Central School District|Byron-Bergen Central School District
+36|06160|Cairo-Durham Central School District|Cairo-Durham Central School District
+36|06180|Caledonia-Mumford Central School District|Caledonia-Mumford Central School District
+36|06210|Cambridge Central School District|Cambridge Central School District
+36|06240|Camden Central School District|Camden Central School District
+36|06300|Canajoharie Central School District|Canajoharie Central School District
+36|06330|Canandaigua City School District|Canandaigua City School District
+36|06360|Canaseraga Central School District|Canaseraga Central School District
+36|06390|Canastota Central School District|Canastota Central School District
+36|06420|Candor Central School District|Candor Central School District
+36|06470|Canton Central School District|Canton Central School District
+36|06500|Spackenkill Union Free School District|Spackenkill Union Free School District
+36|06540|Carle Place Union Free School District|Carle Place Union Free School District
+36|06570|Carmel Central School District|Carmel Central School District
+36|06630|Carthage Central School District|Carthage Central School District
+36|06660|Cassadaga Valley Central School District|Cassadaga Valley Central School District
+36|06690|Cato-Meridian Central School District|Cato-Meridian Central School District
+36|06720|Catskill Central School District|Catskill Central School District
+36|06750|Cattaraugus-Little Valley Central School District|Cattaraugus-Little Valley Central School District
+36|06780|Cazenovia Central School District|Cazenovia Central School District
+36|06840|Center Moriches Union Free School District|Center Moriches Union Free School District
+36|06870|Central Islip Union Free School District|Central Islip Union Free School District
+36|06900|Central Square Central School District|Central Square Central School District
+36|06990|Chappaqua Central School District|Chappaqua Central School District
+36|07020|Grand Island Central School District|Grand Island Central School District
+36|07050|Charlotte Valley Central School District|Charlotte Valley Central School District
+36|07080|Chateaugay Central School District|Chateaugay Central School District
+36|07110|Chatham Central School District|Chatham Central School District
+36|07170|Chazy Union Free School District|Chazy Union Free School District
+36|07230|Cheektowaga Central School District|Cheektowaga Central School District
+36|07260|Chenango Forks Central School District|Chenango Forks Central School District
+36|07290|Chenango Valley Central School District|Chenango Valley Central School District
+36|07320|Westhill Central School District|Westhill Central School District
+36|07380|Chester Union Free School District|Chester Union Free School District
+36|07470|Chittenango Central School District|Chittenango Central School District
+36|07530|Churchville-Chili Central School District|Churchville-Chili Central School District
+36|07560|Cincinnatus Central School District|Cincinnatus Central School District
+36|07590|Clarence Central School District|Clarence Central School District
+36|07650|Thousand Islands Central School District|Thousand Islands Central School District
+36|07680|Cleveland Hill Union Free School District|Cleveland Hill Union Free School District
+36|07710|Clifton-Fine Central School District|Clifton-Fine Central School District
+36|07770|Clinton Central School District|Clinton Central School District
+36|07860|Clyde-Savannah Central School District|Clyde-Savannah Central School District
+36|07890|Clymer Central School District|Clymer Central School District
+36|07980|Cohoes City School District|Cohoes City School District
+36|08010|Cold Spring Harbor Central School District|Cold Spring Harbor Central School District
+36|08100|Colton-Pierrepont Central School District|Colton-Pierrepont Central School District
+36|08130|Commack Union Free School District|Commack Union Free School District
+36|08160|Connetquot Central School District|Connetquot Central School District
+36|08250|Cooperstown Central School District|Cooperstown Central School District
+36|08280|Copenhagen Central School District|Copenhagen Central School District
+36|08310|Copiague Union Free School District|Copiague Union Free School District
+36|08340|Pembroke Central School District|Pembroke Central School District
+36|08370|Corinth Central School District|Corinth Central School District
+36|08400|Corning City School District|Corning City School District
+36|08430|Cornwall Central School District|Cornwall Central School District
+36|08460|Cortland City School District|Cortland City School District
+36|08490|Coxsackie-Athens Central School District|Coxsackie-Athens Central School District
+36|08580|Croton-Harmon Union Free School District|Croton-Harmon Union Free School District
+36|08610|Crown Point Central School District|Crown Point Central School District
+36|08790|Dansville Central School District|Dansville Central School District
+36|08850|DeRuyter Central School District|DeRuyter Central School District
+36|08880|Deer Park Union Free School District|Deer Park Union Free School District
+36|08910|Delhi Central School District|Delhi Central School District
+36|08970|Yorkshire-Pioneer Central School District|Yorkshire-Pioneer Central School District
+36|09030|Depew Union Free School District|Depew Union Free School District
+36|09060|Deposit Central School District|Deposit Central School District
+36|09090|Jamesville-DeWitt Central School District|Jamesville-DeWitt Central School District
+36|09120|Dobbs Ferry Union Free School District|Dobbs Ferry Union Free School District
+36|09210|Dover Union Free School District|Dover Union Free School District
+36|09240|Downsville Central School District|Downsville Central School District
+36|09330|Dryden Central School District|Dryden Central School District
+36|09360|Duanesburg Central School District|Duanesburg Central School District
+36|09390|Dundee Central School District|Dundee Central School District
+36|09420|Dunkirk City School District|Dunkirk City School District
+36|09540|East Aurora Union Free School District|East Aurora Union Free School District
+36|09630|East Greenbush Central School District|East Greenbush Central School District
+36|09660|East Hampton Union Free School District|East Hampton Union Free School District
+36|09690|East Irondequoit Central School District|East Irondequoit Central School District
+36|09720|East Islip Union Free School District|East Islip Union Free School District
+36|09840|East Meadow Union Free School District|East Meadow Union Free School District
+36|09870|East Moriches Union Free School District|East Moriches Union Free School District
+36|09900|East Quogue Union Free School District|East Quogue Union Free School District
+36|09930|East Rochester Union Free School District|East Rochester Union Free School District
+36|09960|East Rockaway Union Free School District|East Rockaway Union Free School District
+36|09990|East Syracuse-Minoa Central School District|East Syracuse-Minoa Central School District
+36|10050|East Williston Union Free School District|East Williston Union Free School District
+36|10080|Eastchester Union Free School District|Eastchester Union Free School District
+36|10170|Eden Central School District|Eden Central School District
+36|10200|Edgemont Union Free School District|Edgemont Union Free School District
+36|10230|Edinburg Common School District|Edinburg Common School District
+36|10260|Edmeston Central School District|Edmeston Central School District
+36|10380|Elba Central School District|Elba Central School District
+36|10410|Eldred Central School District|Eldred Central School District
+36|10440|Elizabethtown-Lewis Central School District|Elizabethtown-Lewis Central School District
+36|10500|Ellenville Central School District|Ellenville Central School District
+36|10530|Ellicottville Central School District|Ellicottville Central School District
+36|10560|Elmira City School District|Elmira City School District
+36|10590|Elmira Heights Central School District|Elmira Heights Central School District
+36|10650|Elmsford Union Free School District|Elmsford Union Free School District
+36|10680|Elwood Union Free School District|Elwood Union Free School District
+36|10710|Union-Endicott Central School District|Union-Endicott Central School District
+36|10860|Fabius-Pompey Central School District|Fabius-Pompey Central School District
+36|10890|Fairport Central School District|Fairport Central School District
+36|10920|Falconer Central School District|Falconer Central School District
+36|10950|Fallsburg Central School District|Fallsburg Central School District
+36|10980|Farmingdale Union Free School District|Farmingdale Union Free School District
+36|11070|Fillmore Central School District|Fillmore Central School District
+36|11100|Fishers Island Union Free School District|Fishers Island Union Free School District
+36|11190|Fonda-Fultonville Central School District|Fonda-Fultonville Central School District
+36|11250|Forestville Central School District|Forestville Central School District
+36|11280|Fort Ann Central School District|Fort Ann Central School District
+36|11310|Fort Edward Union Free School District|Fort Edward Union Free School District
+36|11370|Fort Plain Central School District|Fort Plain Central School District
+36|11400|Frankfort-Schuyler Central School District|Frankfort-Schuyler Central School District
+36|11430|Franklin Central School District|Franklin Central School District
+36|11490|Franklinville Central School District|Franklinville Central School District
+36|11520|Fredonia Central School District|Fredonia Central School District
+36|11550|Freeport Union Free School District|Freeport Union Free School District
+36|11610|Frewsburg Central School District|Frewsburg Central School District
+36|11640|Friendship Central School District|Friendship Central School District
+36|11670|Frontier Central School District|Frontier Central School District
+36|11700|Fulton City School District|Fulton City School District
+36|11730|Galway Central School District|Galway Central School District
+36|11740|Gananda Central School District|Gananda Central School District
+36|11760|Garden City Union Free School District|Garden City Union Free School District
+36|11860|Garrison Union Free School District|Garrison Union Free School District
+36|11880|Gates-Chili Central School District|Gates-Chili Central School District
+36|11910|General Brown Central School District|General Brown Central School District
+36|11940|Geneseo Central School District|Geneseo Central School District
+36|11970|Geneva City School District|Geneva City School District
+36|12030|Germantown Central School District|Germantown Central School District
+36|12120|Gilboa-Conesville Central School District|Gilboa-Conesville Central School District
+36|12180|Glen Cove City School District|Glen Cove City School District
+36|12240|Glens Falls City School District|Glens Falls City School District
+36|12270|Gloversville City School District|Gloversville City School District
+36|12300|Marcus Whitman Central School District|Marcus Whitman Central School District
+36|12330|Goshen Central School District|Goshen Central School District
+36|12360|Gouverneur Central School District|Gouverneur Central School District
+36|12390|Gowanda Central School District|Gowanda Central School District
+36|12450|Granville Central School District|Granville Central School District
+36|12510|Great Neck Union Free School District|Great Neck Union Free School District
+36|12630|Greece Central School District|Greece Central School District
+36|12660|Green Island Union Free School District|Green Island Union Free School District
+36|12720|Greenburgh Central School District|Greenburgh Central School District
+36|12750|Greene Central School District|Greene Central School District
+36|12840|Greenport Union Free School District|Greenport Union Free School District
+36|12870|Greenville Central School District|Greenville Central School District
+36|12900|Greenwich Central School District|Greenwich Central School District
+36|12960|Greenwood Lake Union Free School District|Greenwood Lake Union Free School District
+36|12990|Springville-Griffith Institute Central School District|Springville-Griffith Institute Central School District
+36|13020|Groton Central School District|Groton Central School District
+36|13080|Guilderland Central School District|Guilderland Central School District
+36|13110|Hadley-Luzerne Central School District|Hadley-Luzerne Central School District
+36|13230|Haldane Central School District|Haldane Central School District
+36|13290|Half Hollow Hills Central School District|Half Hollow Hills Central School District
+36|13350|Hamburg Central School District|Hamburg Central School District
+36|13380|Hamilton Central School District|Hamilton Central School District
+36|13440|Hammond Central School District|Hammond Central School District
+36|13470|Hammondsport Central School District|Hammondsport Central School District
+36|13530|Hampton Bays Union Free School District|Hampton Bays Union Free School District
+36|13560|Hancock Central School District|Hancock Central School District
+36|13590|Hannibal Central School District|Hannibal Central School District
+36|13620|Harborfields Central School District|Harborfields Central School District
+36|13710|Harpursville Central School District|Harpursville Central School District
+36|13740|Harrison Central School District|Harrison Central School District
+36|13770|Harrisville Central School District|Harrisville Central School District
+36|13830|Hartford Central School District|Hartford Central School District
+36|13950|Hastings-on-Hudson Union Free School District|Hastings-on-Hudson Union Free School District
+36|13980|Hauppauge Union Free School District|Hauppauge Union Free School District
+36|14010|Haverstraw-Stony Point Central School District|Haverstraw-Stony Point Central School District
+36|14130|Hempstead Union Free School District|Hempstead Union Free School District
+36|14190|Hendrick Hudson Central School District|Hendrick Hudson Central School District
+36|14220|Herkimer Central School District|Herkimer Central School District
+36|14250|Hermon-DeKalb Central School District|Hermon-DeKalb Central School District
+36|14280|Herricks Union Free School District|Herricks Union Free School District
+36|14310|Heuvelton Central School District|Heuvelton Central School District
+36|14340|Hicksville Union Free School District|Hicksville Union Free School District
+36|14400|Highland Central School District|Highland Central School District
+36|14430|Highland Falls Central School District|Highland Falls Central School District
+36|14460|Hilton Central School District|Hilton Central School District
+36|14490|Hinsdale Central School District|Hinsdale Central School District
+36|14550|Holland Central School District|Holland Central School District
+36|14580|Holland Patent Central School District|Holland Patent Central School District
+36|14610|Holley Central School District|Holley Central School District
+36|14640|Homer Central School District|Homer Central School District
+36|14670|Honeoye Central School District|Honeoye Central School District
+36|14700|Honeoye Falls-Lima Central School District|Honeoye Falls-Lima Central School District
+36|14730|Hoosic Valley Central School District|Hoosic Valley Central School District
+36|14760|Hoosick Falls Central School District|Hoosick Falls Central School District
+36|14820|Hornell City School District|Hornell City School District
+36|14850|Horseheads Central School District|Horseheads Central School District
+36|14880|Sackets Harbor Central School District|Sackets Harbor Central School District
+36|14940|Hudson City School District|Hudson City School District
+36|14970|Hudson Falls Central School District|Hudson Falls Central School District
+36|15060|Hunter-Tannersville Central School District|Hunter-Tannersville Central School District
+36|15090|Huntington Union Free School District|Huntington Union Free School District
+36|15180|Hyde Park Central School District|Hyde Park Central School District
+36|15210|Kinderhook Central School District|Kinderhook Central School District
+36|15240|Ilion Central School District|Ilion Central School District
+36|15270|Indian Lake Central School District|Indian Lake Central School District
+36|15300|Indian River Central School District|Indian River Central School District
+36|15330|Inlet Common School District|Inlet Common School District
+36|15360|Iroquois Central School District|Iroquois Central School District
+36|15390|West Irondequoit Central School District|West Irondequoit Central School District
+36|15450|Irvington Union Free School District|Irvington Union Free School District
+36|15480|Island Park Union Free School District|Island Park Union Free School District
+36|15510|Island Trees Union Free School District|Island Trees Union Free School District
+36|15540|Islip Union Free School District|Islip Union Free School District
+36|15570|Ithaca City School District|Ithaca City School District
+36|15630|Jamestown City School District|Jamestown City School District
+36|15720|Jefferson Central School District|Jefferson Central School District
+36|15780|Brookhaven-Comsewogue Union Free School District|Brookhaven-Comsewogue Union Free School District
+36|15810|Jericho Union Free School District|Jericho Union Free School District
+36|15870|Johnsburg Central School District|Johnsburg Central School District
+36|15900|Johnson City Central School District|Johnson City Central School District
+36|15980|Johnstown City School District|Johnstown City School District
+36|15990|Jordan-Elbridge Central School District|Jordan-Elbridge Central School District
+36|16080|Katonah-Lewisboro Union Free School District|Katonah-Lewisboro Union Free School District
+36|16140|Keene Central School District|Keene Central School District
+36|16170|AuSable Valley Central School District|AuSable Valley Central School District
+36|16200|Kendall Central School District|Kendall Central School District
+36|16230|Kenmore-Tonawanda Union Free School District|Kenmore-Tonawanda Union Free School District
+36|16260|Kings Park Central School District|Kings Park Central School District
+36|16290|Kingston City School District|Kingston City School District
+36|16380|LaFargeville Central School District|LaFargeville Central School District
+36|16410|LaFayette Central School District|LaFayette Central School District
+36|16440|Lackawanna City School District|Lackawanna City School District
+36|16470|Lake George Central School District|Lake George Central School District
+36|16500|Lake Placid Central School District|Lake Placid Central School District
+36|16560|Evans-Brant Central School District|Evans-Brant Central School District
+36|16620|Lakeland Central School District|Lakeland Central School District
+36|16680|Lancaster Central School District|Lancaster Central School District
+36|16710|Lansing Central School District|Lansing Central School District
+36|16740|Lansingburgh Central School District|Lansingburgh Central School District
+36|16800|Laurens Central School District|Laurens Central School District
+36|16830|Lawrence Union Free School District|Lawrence Union Free School District
+36|16950|Le Roy Central School District|Le Roy Central School District
+36|16960|North Warren Central School District|North Warren Central School District
+36|16980|North Rose-Wolcott Central School District|North Rose-Wolcott Central School District
+36|17130|Letchworth Central School District|Letchworth Central School District
+36|17160|Levittown Union Free School District|Levittown Union Free School District
+36|17190|Lewiston-Porter Central School District|Lewiston-Porter Central School District
+36|17220|Liberty Central School District|Liberty Central School District
+36|17380|Lindenhurst Union Free School District|Lindenhurst Union Free School District
+36|17430|Lisbon Central School District|Lisbon Central School District
+36|17460|Little Falls City School District|Little Falls City School District
+36|17520|Liverpool Central School District|Liverpool Central School District
+36|17580|Livingston Manor Central School District|Livingston Manor Central School District
+36|17640|Livonia Central School District|Livonia Central School District
+36|17670|Lockport City School District|Lockport City School District
+36|17700|Locust Valley Central School District|Locust Valley Central School District
+36|17730|Long Beach City School District|Long Beach City School District
+36|17760|Long Lake Central School District|Long Lake Central School District
+36|17820|Lowville Academy and Central School District|Lowville Academy and Central School District
+36|17880|Lyme Central School District|Lyme Central School District
+36|17910|Lynbrook Union Free School District|Lynbrook Union Free School District
+36|17940|Lyncourt Union Free School District|Lyncourt Union Free School District
+36|17970|Lyndonville Central School District|Lyndonville Central School District
+36|18030|Lyons Central School District|Lyons Central School District
+36|18080|Madison Central School District|Madison Central School District
+36|18090|Madrid-Waddington Central School District|Madrid-Waddington Central School District
+36|18120|Mahopac Central School District|Mahopac Central School District
+36|18150|Maine-Endwell Central School District|Maine-Endwell Central School District
+36|18180|Malone Central School District|Malone Central School District
+36|18210|Malverne Union Free School District|Malverne Union Free School District
+36|18240|Mamaroneck Union Free School District|Mamaroneck Union Free School District
+36|18270|Manhasset Union Free School District|Manhasset Union Free School District
+36|18330|Fayetteville-Manlius Central School District|Fayetteville-Manlius Central School District
+36|18450|Marathon Central School District|Marathon Central School District
+36|18480|Marcellus Central School District|Marcellus Central School District
+36|18510|Margaretville Central School District|Margaretville Central School District
+36|18540|Marion Central School District|Marion Central School District
+36|18570|Marlboro Central School District|Marlboro Central School District
+36|18600|Cheektowaga-Maryvale Union Free School District|Cheektowaga-Maryvale Union Free School District
+36|18630|Massapequa Union Free School District|Massapequa Union Free School District
+36|18660|Massena Central School District|Massena Central School District
+36|18690|William Floyd Union Free School District|William Floyd Union Free School District
+36|18750|Mayfield Central School District|Mayfield Central School District
+36|18840|McGraw Central School District|McGraw Central School District
+36|18900|Mechanicville City School District|Mechanicville City School District
+36|18960|Medina Central School District|Medina Central School District
+36|18990|Menands Union Free School District|Menands Union Free School District
+36|19170|Mexico Central School District|Mexico Central School District
+36|19200|Middle Country Central School District|Middle Country Central School District
+36|19230|Longwood Central School District|Longwood Central School District
+36|19260|Middleburgh Central School District|Middleburgh Central School District
+36|19320|Middletown City School District|Middletown City School District
+36|19350|Milford Central School District|Milford Central School District
+36|19380|Millbrook Central School District|Millbrook Central School District
+36|19410|Miller Place Union Free School District|Miller Place Union Free School District
+36|19500|Mineola Union Free School District|Mineola Union Free School District
+36|19530|Minerva Central School District|Minerva Central School District
+36|19560|Minisink Valley Central School District|Minisink Valley Central School District
+36|19590|Mohawk Central School District|Mohawk Central School District
+36|19650|Monroe-Woodbury Central School District|Monroe-Woodbury Central School District
+36|19680|Valley Central School District|Valley Central School District
+36|19710|Montauk Union Free School District|Montauk Union Free School District
+36|19740|Monticello Central School District|Monticello Central School District
+36|19800|Moravia Central School District|Moravia Central School District
+36|19830|Moriah Central School District|Moriah Central School District
+36|19860|Morris Central School District|Morris Central School District
+36|19890|Morristown Central School District|Morristown Central School District
+36|19920|Morrisville-Eaton Central School District|Morrisville-Eaton Central School District
+36|19950|Bedford Central School District|Bedford Central School District
+36|20010|Mount Morris Central School District|Mount Morris Central School District
+36|20040|Mount Sinai Union Free School District|Mount Sinai Union Free School District
+36|20100|Mount Vernon City School District|Mount Vernon City School District
+36|20160|Mount Pleasant Central School District|Mount Pleasant Central School District
+36|20190|Nanuet Union Free School District|Nanuet Union Free School District
+36|20220|Naples Central School District|Naples Central School District
+36|20340|Clarkstown Central School District|Clarkstown Central School District
+36|20370|New Hartford Central School District|New Hartford Central School District
+36|20430|New Lebanon Central School District|New Lebanon Central School District
+36|20460|New Paltz Central School District|New Paltz Central School District
+36|20490|New Rochelle City School District|New Rochelle City School District
+36|20520|New Suffolk Common School District|New Suffolk Common School District
+36|20580|New York City Department Of Education|New York City Department Of Education
+36|20610|New York Mills Union Free School District|New York Mills Union Free School District
+36|20640|Newark Central School District|Newark Central School District
+36|20670|Newark Valley Central School District|Newark Valley Central School District
+36|20700|Newburgh City School District|Newburgh City School District
+36|20730|Newcomb Central School District|Newcomb Central School District
+36|20760|Newfane Central School District|Newfane Central School District
+36|20790|Newfield Central School District|Newfield Central School District
+36|20820|Niagara Falls City School District|Niagara Falls City School District
+36|20850|Niagara-Wheatfield Central School District|Niagara-Wheatfield Central School District
+36|20880|Niskayuna Central School District|Niskayuna Central School District
+36|20910|North Babylon Union Free School District|North Babylon Union Free School District
+36|20970|North Collins Central School District|North Collins Central School District
+36|21180|North Salem Central School District|North Salem Central School District
+36|21210|North Syracuse Central School District|North Syracuse Central School District
+36|21240|North Tonawanda City School District|North Tonawanda City School District
+36|21250|Northeastern Clinton Central School District|Northeastern Clinton Central School District
+36|21260|Northern Adirondack Central School District|Northern Adirondack Central School District
+36|21270|Northport-East Northport Union Free School District|Northport-East Northport Union Free School District
+36|21300|Northville Central School District|Northville Central School District
+36|21330|Norwich City School District|Norwich City School District
+36|21360|Norwood-Norfolk Central School District|Norwood-Norfolk Central School District
+36|21450|Keshequa Central School District|Keshequa Central School District
+36|21480|Nyack Union Free School District|Nyack Union Free School District
+36|21510|Oakfield-Alabama Central School District|Oakfield-Alabama Central School District
+36|21540|Fire Island Union Free School District|Fire Island Union Free School District
+36|21570|Oceanside Union Free School District|Oceanside Union Free School District
+36|21630|Odessa-Montour Central School District|Odessa-Montour Central School District
+36|21660|Ogdensburg City School District|Ogdensburg City School District
+36|21720|Olean City School District|Olean City School District
+36|21780|Oneonta City School District|Oneonta City School District
+36|21810|Onondaga Central School District|Onondaga Central School District
+36|21840|Onteora Central School District|Onteora Central School District
+36|21870|Oppenheim-Ephratah Central School District|Oppenheim-Ephratah Central School District
+36|21900|Orchard Park Central School District|Orchard Park Central School District
+36|21930|Oysterponds Union Free School District|Oysterponds Union Free School District
+36|21960|Oriskany Central School District|Oriskany Central School District
+36|22020|Ossining Union Free School District|Ossining Union Free School District
+36|22050|Oswego City School District|Oswego City School District
+36|22100|Georgetown-South Otselic Central School District|Georgetown-South Otselic Central School District
+36|22140|South Seneca Central School District|South Seneca Central School District
+36|22170|Owego-Apalachin Central School District|Owego-Apalachin Central School District
+36|22200|Owen D. Young Central School District|Owen D. Young Central School District
+36|22260|Oxford Academy and Central School District|Oxford Academy and Central School District
+36|22290|Oyster Bay-East Norwich Central School District|Oyster Bay-East Norwich Central School District
+36|22380|Palmyra-Macedon Central School District|Palmyra-Macedon Central School District
+36|22410|Panama Central School District|Panama Central School District
+36|22440|Parishville-Hopkinton Central School District|Parishville-Hopkinton Central School District
+36|22470|Patchogue-Medford Union Free School District|Patchogue-Medford Union Free School District
+36|22500|Pavilion Central School District|Pavilion Central School District
+36|22530|Pawling Central School District|Pawling Central School District
+36|22560|Pearl River Union Free School District|Pearl River Union Free School District
+36|22650|Peekskill City School District|Peekskill City School District
+36|22680|Pelham Union Free School District|Pelham Union Free School District
+36|22710|Penfield Central School District|Penfield Central School District
+36|22740|Penn Yan Central School District|Penn Yan Central School District
+36|22770|Perry Central School District|Perry Central School District
+36|22830|Peru Central School District|Peru Central School District
+36|22890|Phelps-Clifton Springs Central School District|Phelps-Clifton Springs Central School District
+36|22920|Phoenix Central School District|Phoenix Central School District
+36|23010|Pine Bush Central School District|Pine Bush Central School District
+36|23040|Pine Plains Central School District|Pine Plains Central School District
+36|23070|Pine Valley Central School District|Pine Valley Central School District
+36|23130|Piseco Common School District|Piseco Common School District
+36|23160|Pittsford Central School District|Pittsford Central School District
+36|23190|Plainedge Union Free School District|Plainedge Union Free School District
+36|23220|Plainview-Old Bethpage Central School District|Plainview-Old Bethpage Central School District
+36|23280|Plattsburgh City School District|Plattsburgh City School District
+36|23310|Pleasantville Union Free School District|Pleasantville Union Free School District
+36|23340|Pocantico Hills Central School District|Pocantico Hills Central School District
+36|23370|Poland Central School District|Poland Central School District
+36|23430|Port Byron Central School District|Port Byron Central School District
+36|23460|Port Chester-Rye Union Free School District|Port Chester-Rye Union Free School District
+36|23490|Port Jefferson Union Free School District|Port Jefferson Union Free School District
+36|23520|Port Jervis City School District|Port Jervis City School District
+36|23580|Port Washington Union Free School District|Port Washington Union Free School District
+36|23640|Portville Central School District|Portville Central School District
+36|23670|Potsdam Central School District|Potsdam Central School District
+36|23760|Poughkeepsie City School District|Poughkeepsie City School District
+36|23790|Prattsburgh Central School District|Prattsburgh Central School District
+36|23880|Pulaski Central School District|Pulaski Central School District
+36|23970|Putnam Central School District|Putnam Central School District
+36|24000|Putnam Valley Central School District|Putnam Valley Central School District
+36|24030|Queensbury Union Free School District|Queensbury Union Free School District
+36|24060|Quogue Union Free School District|Quogue Union Free School District
+36|24090|Randolph Central School District|Randolph Central School District
+36|24120|Raquette Lake Union Free School District|Raquette Lake Union Free School District
+36|24150|Ravena-Coeymans-Selkirk Central School District|Ravena-Coeymans-Selkirk Central School District
+36|24210|Red Creek Central School District|Red Creek Central School District
+36|24240|Red Hook Central School District|Red Hook Central School District
+36|24270|Manchester-Shortsville Central School District|Manchester-Shortsville Central School District
+36|24360|Remsen Central School District|Remsen Central School District
+36|24450|Rensselaer City School District|Rensselaer City School District
+36|24480|Rhinebeck Central School District|Rhinebeck Central School District
+36|24570|Richfield Springs Central School District|Richfield Springs Central School District
+36|24630|Blind Brook-Rye Union Free School District|Blind Brook-Rye Union Free School District
+36|24660|Ripley Central School District|Ripley Central School District
+36|24690|Riverhead Central School District|Riverhead Central School District
+36|24750|Rochester City School District|Rochester City School District
+36|24780|Rockville Centre Union Free School District|Rockville Centre Union Free School District
+36|24840|Rocky Point Union Free School District|Rocky Point Union Free School District
+36|24900|Rome City School District|Rome City School District
+36|24930|Romulus Central School District|Romulus Central School District
+36|24960|Rondout Valley Central School District|Rondout Valley Central School District
+36|24990|Roosevelt Union Free School District|Roosevelt Union Free School District
+36|25020|Roscoe Central School District|Roscoe Central School District
+36|25050|Roslyn Union Free School District|Roslyn Union Free School District
+36|25110|Roxbury Central School District|Roxbury Central School District
+36|25140|Royalton-Hartland Central School District|Royalton-Hartland Central School District
+36|25170|Rush-Henrietta Central School District|Rush-Henrietta Central School District
+36|25260|Rye City School District|Rye City School District
+36|25290|Rye Neck Union Free School District|Rye Neck Union Free School District
+36|25320|Florida Union Free School District|Florida Union Free School District
+36|25350|Sachem Central School District|Sachem Central School District
+36|25380|Sag Harbor Union Free School District|Sag Harbor Union Free School District
+36|25410|Sagaponack Common School District|Sagaponack Common School District
+36|25440|Salamanca City School District|Salamanca City School District
+36|25470|Salem Central School District|Salem Central School District
+36|25500|Salmon River Central School District|Salmon River Central School District
+36|25650|Sandy Creek Central School District|Sandy Creek Central School District
+36|25740|Saranac Lake Central School District|Saranac Lake Central School District
+36|25770|Saratoga Springs City School District|Saratoga Springs City School District
+36|25800|Saugerties Central School District|Saugerties Central School District
+36|25920|Sayville Union Free School District|Sayville Union Free School District
+36|25950|Scarsdale Union Free School District|Scarsdale Union Free School District
+36|25980|Schalmont Central School District|Schalmont Central School District
+36|26010|Schenectady City School District|Schenectady City School District
+36|26070|Schodack Central School District|Schodack Central School District
+36|26100|Schoharie Central School District|Schoharie Central School District
+36|26130|Schroon Lake Central School District|Schroon Lake Central School District
+36|26160|Schuylerville Central School District|Schuylerville Central School District
+36|26190|Scio Central School District|Scio Central School District
+36|26310|Scotia-Glenville Central School District|Scotia-Glenville Central School District
+36|26370|North Shore Central School District|North Shore Central School District
+36|26400|Seaford Union Free School District|Seaford Union Free School District
+36|26430|Seneca Falls Central School District|Seneca Falls Central School District
+36|26580|Sharon Springs Central School District|Sharon Springs Central School District
+36|26640|Shelter Island Union Free School District|Shelter Island Union Free School District
+36|26670|Shenendehowa Central School District|Shenendehowa Central School District
+36|26700|Sherburne-Earlville Central School District|Sherburne-Earlville Central School District
+36|26730|Sherman Central School District|Sherman Central School District
+36|26760|Sherrill City School District|Sherrill City School District
+36|26840|Shoreham-Wading River Central School District|Shoreham-Wading River Central School District
+36|26850|Sidney Central School District|Sidney Central School District
+36|26880|Silver Creek Central School District|Silver Creek Central School District
+36|26940|Skaneateles Central School District|Skaneateles Central School District
+36|27000|Cheektowaga-Sloan Union Free School District|Cheektowaga-Sloan Union Free School District
+36|27060|Smithtown Central School District|Smithtown Central School District
+36|27120|Sodus Central School District|Sodus Central School District
+36|27150|Solvay Union Free School District|Solvay Union Free School District
+36|27180|Somers Central School District|Somers Central School District
+36|27210|South Colonie Central School District|South Colonie Central School District
+36|27240|South Glens Falls Central School District|South Glens Falls Central School District
+36|27300|South Huntington Union Free School District|South Huntington Union Free School District
+36|27330|South Kortright Central School District|South Kortright Central School District
+36|27360|South Lewis Central School District|South Lewis Central School District
+36|27450|South Orangetown Central School District|South Orangetown Central School District
+36|27540|Southampton Union Free School District|Southampton Union Free School District
+36|27570|Southern Cayuga Central School District|Southern Cayuga Central School District
+36|27620|Southold Union Free School District|Southold Union Free School District
+36|27660|Southwestern Central School District|Southwestern Central School District
+36|27750|Spencer-Van Etten Central School District|Spencer-Van Etten Central School District
+36|27780|Spencerport Central School District|Spencerport Central School District
+36|27810|East Ramapo Central School District|East Ramapo Central School District
+36|27900|Springs Union Free School District|Springs Union Free School District
+36|27930|St. Johnsville Central School District|St. Johnsville Central School District
+36|27960|Brasher Falls Central School District|Brasher Falls Central School District
+36|27990|St. Regis Falls Central School District|St. Regis Falls Central School District
+36|28020|Stamford Central School District|Stamford Central School District
+36|28050|Starpoint Central School District|Starpoint Central School District
+36|28110|Stillwater Central School District|Stillwater Central School District
+36|28140|Stockbridge Valley Central School District|Stockbridge Valley Central School District
+36|28200|Three Village Central School District|Three Village Central School District
+36|28320|Ramapo Central School District|Ramapo Central School District
+36|28380|Susquehanna Valley Central School District|Susquehanna Valley Central School District
+36|28500|Sweet Home Central School District|Sweet Home Central School District
+36|28560|Syosset Central School District|Syosset Central School District
+36|28590|Syracuse City School District|Syracuse City School District
+36|28620|Taconic Hills Central School District|Taconic Hills Central School District
+36|28650|The Tarrytowns Union Free School District|The Tarrytowns Union Free School District
+36|28680|Ticonderoga Central School District|Ticonderoga Central School District
+36|28710|Tioga Central School District|Tioga Central School District
+36|28740|Tonawanda City School District|Tonawanda City School District
+36|28800|Webb Town Union Free School District|Webb Town Union Free School District
+36|28890|Tri-Valley Central School District|Tri-Valley Central School District
+36|28950|Troy City School District|Troy City School District
+36|28980|Trumansburg Central School District|Trumansburg Central School District
+36|29040|Tuckahoe Union Free School District|Tuckahoe Union Free School District
+36|29070|Tuckahoe Common School District|Tuckahoe Common School District
+36|29130|Tully Central School District|Tully Central School District
+36|29160|Tupper Lake Central School District|Tupper Lake Central School District
+36|29190|Tuxedo Union Free School District|Tuxedo Union Free School District
+36|29240|Otego-Unadilla Central School District|Otego-Unadilla Central School District
+36|29250|Union Springs Central School District|Union Springs Central School District
+36|29280|Uniondale Union Free School District|Uniondale Union Free School District
+36|29370|Utica City School District|Utica City School District
+36|29400|Valhalla Union Free School District|Valhalla Union Free School District
+36|29610|Vestal Central School District|Vestal Central School District
+36|29640|Victor Central School District|Victor Central School District
+36|29670|Voorheesville Central School District|Voorheesville Central School District
+36|29760|Wainscott Common School District|Wainscott Common School District
+36|29790|Wallkill Central School District|Wallkill Central School District
+36|29820|Walton Central School District|Walton Central School District
+36|29850|Wantagh Union Free School District|Wantagh Union Free School District
+36|29880|Wappingers Central School District|Wappingers Central School District
+36|29910|Warrensburg Central School District|Warrensburg Central School District
+36|29940|Warsaw Central School District|Warsaw Central School District
+36|29970|Warwick Valley Central School District|Warwick Valley Central School District
+36|30030|Washingtonville Central School District|Washingtonville Central School District
+36|30060|Waterford-Halfmoon Union Free School District|Waterford-Halfmoon Union Free School District
+36|30120|Watertown City School District|Watertown City School District
+36|30160|Waterville Central School District|Waterville Central School District
+36|30210|Watervliet City School District|Watervliet City School District
+36|30240|Watkins Glen Central School District|Watkins Glen Central School District
+36|30270|Waverly Central School District|Waverly Central School District
+36|30330|Wayne Central School District|Wayne Central School District
+36|30360|Webster Central School District|Webster Central School District
+36|30390|Northeast Central School District|Northeast Central School District
+36|30420|Weedsport Central School District|Weedsport Central School District
+36|30450|Wells Central School District|Wells Central School District
+36|30480|Wellsville Central School District|Wellsville Central School District
+36|30540|West Babylon Union Free School District|West Babylon Union Free School District
+36|30600|West Canada Valley Central School District|West Canada Valley Central School District
+36|30630|West Genesee Central School District|West Genesee Central School District
+36|30660|West Hempstead Union Free School District|West Hempstead Union Free School District
+36|30690|West Islip Union Free School District|West Islip Union Free School District
+36|30780|West Seneca Central School District|West Seneca Central School District
+36|30900|West Valley Central School District|West Valley Central School District
+36|30930|Mount Markham Central School District|Mount Markham Central School District
+36|30960|Westbury Union Free School District|Westbury Union Free School District
+36|30990|Westfield Central School District|Westfield Central School District
+36|31020|Westhampton Beach Union Free School District|Westhampton Beach Union Free School District
+36|31050|Westmoreland Central School District|Westmoreland Central School District
+36|31080|Westport Central School District|Westport Central School District
+36|31170|Wheatland-Chili Central School District|Wheatland-Chili Central School District
+36|31260|White Plains City School District|White Plains City School District
+36|31290|Whitehall Central School District|Whitehall Central School District
+36|31320|Whitesboro Central School District|Whitesboro Central School District
+36|31350|Whitesville Central School District|Whitesville Central School District
+36|31380|Whitney Point Central School District|Whitney Point Central School District
+36|31410|North Greenbush Common School District|North Greenbush Common School District
+36|31440|Williamson Central School District|Williamson Central School District
+36|31470|Williamsville Central School District|Williamsville Central School District
+36|31500|Willsboro Central School District|Willsboro Central School District
+36|31560|Wilson Central School District|Wilson Central School District
+36|31590|Windham-Ashland-Jewett Central School District|Windham-Ashland-Jewett Central School District
+36|31710|Hewlett-Woodmere Union Free School District|Hewlett-Woodmere Union Free School District
+36|31740|Worcester Central School District|Worcester Central School District
+36|31800|Wyandanch Union Free School District|Wyandanch Union Free School District
+36|31830|Wynantskill Union Free School District|Wynantskill Union Free School District
+36|31860|Wyoming Central School District|Wyoming Central School District
+36|31920|Yonkers City School District|Yonkers City School District
+36|31950|York Central School District|York Central School District
+36|31980|Yorktown Central School District|Yorktown Central School District
+36|32010|Cuba-Rushford Central School District|Cuba-Rushford Central School District
+36|99997|School District Not Defined|School District Not Defined
+36|99998|School District Not Defined (Water)|School District Not Defined (Water)

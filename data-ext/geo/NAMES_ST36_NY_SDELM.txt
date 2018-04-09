@@ -1,0 +1,15 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+36|04410|Bellmore Union Free School District|Bellmore Union Free School District
+36|10620|Elmont Union Free School District|Elmont Union Free School District
+36|11160|Floral Park-Bellerose Union Free School District|Floral Park-Bellerose Union Free School District
+36|11460|Franklin Square Union Free School District|Franklin Square Union Free School District
+36|16530|Lake Pleasant Central School District|Lake Pleasant Central School District
+36|19110|Merrick Union Free School District|Merrick Union Free School District
+36|20400|New Hyde Park-Garden City Park Union Free School District|New Hyde Park-Garden City Park Union Free School District
+36|20940|North Bellmore Union Free School District|North Bellmore Union Free School District
+36|21120|North Merrick Union Free School District|North Merrick Union Free School District
+36|24420|Remsenburg-Speonk Union Free School District|Remsenburg-Speonk Union Free School District
+36|29430|Valley Stream Union Free School District 13|Valley Stream Union Free School District 13
+36|29460|Valley Stream Union Free School District 24|Valley Stream Union Free School District 24
+36|29490|Valley Stream Union Free School District 30|Valley Stream Union Free School District 30
+36|31200|Wheelerville Union Free School District|Wheelerville Union Free School District

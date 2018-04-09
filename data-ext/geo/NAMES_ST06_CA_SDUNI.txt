@@ -1,0 +1,336 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+06|00001|Acton-Agua Dulce Unified School District|Acton-Agua Dulce Unified School District
+06|00009|Cuyama Joint Unified School District|Cuyama Joint Unified School District
+06|00011|Fort Sage Unified School District|Fort Sage Unified School District
+06|00013|Rocklin Unified School District|Rocklin Unified School District
+06|00014|Hesperia Unified School District|Hesperia Unified School District
+06|00015|Lucerne Valley Unified School District|Lucerne Valley Unified School District
+06|00016|Upland Unified School District|Upland Unified School District
+06|00017|Apple Valley Unified School District|Apple Valley Unified School District
+06|00018|Mountain Valley Unified School District|Mountain Valley Unified School District
+06|00019|Dublin Unified School District|Dublin Unified School District
+06|00020|Pleasanton Unified School District|Pleasanton Unified School District
+06|00021|Sunol Glen Unified School District|Sunol Glen Unified School District
+06|00022|Mendota Unified School District|Mendota Unified School District
+06|00025|Manhattan Beach Unified School District|Manhattan Beach Unified School District
+06|00026|El Tejon Unified School District|El Tejon Unified School District
+06|00027|Lake Elsinore Unified School District|Lake Elsinore Unified School District
+06|00028|Temecula Valley Unified School District|Temecula Valley Unified School District
+06|00029|Murrieta Valley Unified School District|Murrieta Valley Unified School District
+06|00031|Pacific Unified School District|Pacific Unified School District
+06|00032|Redondo Beach Unified School District|Redondo Beach Unified School District
+06|00033|Dos Palos-Oro Loma Joint Unified School District|Dos Palos-Oro Loma Joint Unified School District
+06|00034|Windsor Unified School District|Windsor Unified School District
+06|00035|Farmersville Unified School District|Farmersville Unified School District
+06|00036|Natomas Unified School District|Natomas Unified School District
+06|00037|Ferndale Unified School District|Ferndale Unified School District
+06|00038|Mattole Unified School District|Mattole Unified School District
+06|00039|Delhi Unified School District|Delhi Unified School District
+06|00040|Riverdale Joint Unified School District|Riverdale Joint Unified School District
+06|00042|Warner Unified School District|Warner Unified School District
+06|00043|Scotts Valley Unified School District|Scotts Valley Unified School District
+06|00044|Healdsburg Unified School District|Healdsburg Unified School District
+06|00045|Orland Joint Unified School District|Orland Joint Unified School District
+06|00046|Gonzales Unified School District|Gonzales Unified School District
+06|00047|Tracy Joint Unified School District|Tracy Joint Unified School District
+06|00048|Paso Robles Joint Unified School District|Paso Robles Joint Unified School District
+06|00049|Coast Unified School District|Coast Unified School District
+06|00051|Gridley Unified School District|Gridley Unified School District
+06|00052|Eureka City Unified School District|Eureka City Unified School District
+06|00060|Hughson Unified School District|Hughson Unified School District
+06|00061|Riverbank Unified School District|Riverbank Unified School District
+06|00062|Oakdale Joint Unified School District|Oakdale Joint Unified School District
+06|00063|Waterford Unified School District|Waterford Unified School District
+06|00064|Porterville Unified School District|Porterville Unified School District
+06|00065|Dinuba Unified School District|Dinuba Unified School District
+06|00067|Caruthers Unified School District|Caruthers Unified School District
+06|00068|Golden Valley Unified School District|Golden Valley Unified School District
+06|00069|Valley Center-Pauma Unified School District|Valley Center-Pauma Unified School District
+06|00116|Chawanakee Unified School District|Chawanakee Unified School District
+06|00153|Alhambra Unified School District|Alhambra Unified School District
+06|00158|Turlock Unified School District|Turlock Unified School District
+06|00159|Scott Valley Unified School District|Scott Valley Unified School District
+06|00160|Yosemite Unified School District|Yosemite Unified School District
+06|01331|Trinity Alps Unified School District|Trinity Alps Unified School District
+06|01332|Twin Rivers Unified School District|Twin Rivers Unified School District
+06|01620|ABC Unified School District|ABC Unified School District
+06|01770|Alameda City Unified School District|Alameda City Unified School District
+06|01860|Albany City Unified School District|Albany City Unified School District
+06|02010|Alpaugh Unified School District|Alpaugh Unified School District
+06|02070|Alpine County Unified School District|Alpine County Unified School District
+06|02430|Alvord Unified School District|Alvord Unified School District
+06|02450|Amador County Unified School District|Amador County Unified School District
+06|02730|Anderson Valley Unified School District|Anderson Valley Unified School District
+06|02850|Antioch Unified School District|Antioch Unified School District
+06|02970|Arcadia Unified School District|Arcadia Unified School District
+06|03300|Atascadero Unified School District|Atascadero Unified School District
+06|03600|Azusa Unified School District|Azusa Unified School District
+06|03610|Baker Valley Unified School District|Baker Valley Unified School District
+06|03690|Baldwin Park Unified School District|Baldwin Park Unified School District
+06|03840|Banning Unified School District|Banning Unified School District
+06|04020|Barstow Unified School District|Barstow Unified School District
+06|04110|Bassett Unified School District|Bassett Unified School District
+06|04230|Bear Valley Unified School District|Bear Valley Unified School District
+06|04290|Beaumont Unified School District|Beaumont Unified School District
+06|04440|Bellflower Unified School District|Bellflower Unified School District
+06|04620|Benicia Unified School District|Benicia Unified School District
+06|04740|Berkeley Unified School District|Berkeley Unified School District
+06|04830|Beverly Hills Unified School District|Beverly Hills Unified School District
+06|04950|Big Pine Unified School District|Big Pine Unified School District
+06|05010|Big Valley Joint Unified School District|Big Valley Joint Unified School District
+06|05040|Biggs Unified School District|Biggs Unified School District
+06|05240|Black Oak Mine Unified School District|Black Oak Mine Unified School District
+06|05610|Bonita Unified School District|Bonita Unified School District
+06|05700|Borrego Springs Unified School District|Borrego Springs Unified School District
+06|05880|Brea-Olinda Unified School District|Brea-Olinda Unified School District
+06|06450|Burbank Unified School District|Burbank Unified School District
+06|06580|Butte Valley Unified School District|Butte Valley Unified School District
+06|06780|Cabrillo Unified School District|Cabrillo Unified School District
+06|06870|Calaveras Unified School District|Calaveras Unified School District
+06|06900|Calexico Unified School District|Calexico Unified School District
+06|06990|Calipatria Unified School District|Calipatria Unified School District
+06|07020|Calistoga Joint Unified School District|Calistoga Joint Unified School District
+06|07440|Capistrano Unified School District|Capistrano Unified School District
+06|07500|Carlsbad Unified School District|Carlsbad Unified School District
+06|07530|Carmel Unified School District|Carmel Unified School District
+06|07560|Carpinteria Unified School District|Carpinteria Unified School District
+06|07800|Castro Valley Unified School District|Castro Valley Unified School District
+06|07900|Center Joint Unified School District|Center Joint Unified School District
+06|07970|Central Unified School District|Central Unified School District
+06|08130|Ceres Unified School District|Ceres Unified School District
+06|08190|Charter Oak Unified School District|Charter Oak Unified School District
+06|08370|Chico Unified School District|Chico Unified School District
+06|08460|Chino Valley Unified School District|Chino Valley Unified School District
+06|08760|Claremont Unified School District|Claremont Unified School District
+06|08970|Cloverdale Unified School District|Cloverdale Unified School District
+06|09030|Clovis Unified School District|Clovis Unified School District
+06|09070|Coachella Valley Unified School District|Coachella Valley Unified School District
+06|09120|Coalinga-Huron Joint Unified School District|Coalinga-Huron Joint Unified School District
+06|09390|Colton Joint Unified School District|Colton Joint Unified School District
+06|09570|Colusa Unified School District|Colusa Unified School District
+06|09620|Compton Unified School District|Compton Unified School District
+06|09640|Conejo Valley Unified School District|Conejo Valley Unified School District
+06|09665|Leggett Valley Unified School District|Leggett Valley Unified School District
+06|09690|Corcoran Joint Unified School District|Corcoran Joint Unified School District
+06|09850|Corona-Norco Unified School District|Corona-Norco Unified School District
+06|09870|Coronado Unified School District|Coronado Unified School District
+06|09940|Cotati-Rohnert Park Unified School District|Cotati-Rohnert Park Unified School District
+06|10050|Covina-Valley Unified School District|Covina-Valley Unified School District
+06|10260|Culver City Unified School District|Culver City Unified School District
+06|10350|Cutler-Orosi Joint Unified School District|Cutler-Orosi Joint Unified School District
+06|10620|Davis Joint Unified School District|Davis Joint Unified School District
+06|10680|Death Valley Unified School District|Death Valley Unified School District
+06|10770|Del Norte County Unified School District|Del Norte County Unified School District
+06|11040|Denair Unified School District|Denair Unified School District
+06|11100|Desert Center Unified School District|Desert Center Unified School District
+06|11110|Desert Sands Unified School District|Desert Sands Unified School District
+06|11280|Dixon Unified School District|Dixon Unified School District
+06|11460|Downey Unified School District|Downey Unified School District
+06|11520|Duarte Unified School District|Duarte Unified School District
+06|11730|Durham Unified School District|Durham Unified School District
+06|11870|Eastern Sierra Unified School District|Eastern Sierra Unified School District
+06|12180|El Rancho Unified School District|El Rancho Unified School District
+06|12210|El Segundo Unified School District|El Segundo Unified School District
+06|12330|Elk Grove Unified School District|Elk Grove Unified School District
+06|12630|Emery Unified School District|Emery Unified School District
+06|12840|Escalon Unified School District|Escalon Unified School District
+06|12930|Esparto Unified School District|Esparto Unified School District
+06|13360|Fairfield-Suisun Unified School District|Fairfield-Suisun Unified School District
+06|13470|Fall River Joint Unified School District|Fall River Joint Unified School District
+06|13800|Fillmore Unified School District|Fillmore Unified School District
+06|13840|Firebaugh-Las Deltas Joint Unified School District|Firebaugh-Las Deltas Joint Unified School District
+06|13890|Folsom-Cordova Unified School District|Folsom-Cordova Unified School District
+06|13920|Fontana Unified School District|Fontana Unified School District
+06|14070|Fort Bragg Unified School District|Fort Bragg Unified School District
+06|14250|Fowler Unified School District|Fowler Unified School District
+06|14400|Fremont Unified School District|Fremont Unified School District
+06|14550|Fresno Unified School District|Fresno Unified School District
+06|14880|Garden Grove Unified School District|Garden Grove Unified School District
+06|14950|Gateway Unified School District|Gateway Unified School District
+06|15150|Geyserville Unified School District|Geyserville Unified School District
+06|15180|Gilroy Unified School District|Gilroy Unified School District
+06|15240|Glendale Unified School District|Glendale Unified School District
+06|15270|Glendora Unified School District|Glendora Unified School District
+06|16323|Gustine Unified School District|Gustine Unified School District
+06|16325|Hacienda La Puente Unified School District|Hacienda La Puente Unified School District
+06|16740|Hayward Unified School District|Hayward Unified School District
+06|16920|Hemet Unified School District|Hemet Unified School District
+06|17220|Hilmar Unified School District|Hilmar Unified School District
+06|17430|Holtville Unified School District|Holtville Unified School District
+06|18210|Imperial Unified School District|Imperial Unified School District
+06|18390|Inglewood Unified School District|Inglewood Unified School District
+06|18990|John Swett Unified School District|John Swett Unified School District
+06|19260|Jurupa Unified School District|Jurupa Unified School District
+06|19320|Kelseyville Unified School District|Kelseyville Unified School District
+06|19490|Kerman Unified School District|Kerman Unified School District
+06|19700|Kings Canyon Joint Unified School District|Kings Canyon Joint Unified School District
+06|19950|Klamath-Trinity Joint Unified School District|Klamath-Trinity Joint Unified School District
+06|20070|Konocti Unified School District|Konocti Unified School District
+06|20130|La Cañada Unified School District|La Cañada Unified School District
+06|20220|La Honda-Pescadero Unified School District|La Honda-Pescadero Unified School District
+06|20370|Laguna Beach Unified School District|Laguna Beach Unified School District
+06|20640|Lake Tahoe Unified School District|Lake Tahoe Unified School District
+06|20670|Lakeport Unified School District|Lakeport Unified School District
+06|21000|Las Virgenes Unified School District|Las Virgenes Unified School District
+06|21150|Laton Joint Unified School District|Laton Joint Unified School District
+06|21690|Lincoln Unified School District|Lincoln Unified School District
+06|21810|Linden Unified School District|Linden Unified School District
+06|21870|Lindsay Unified School District|Lindsay Unified School District
+06|22050|Live Oak Unified School District|Live Oak Unified School District
+06|22110|Livermore Valley Joint Unified School District|Livermore Valley Joint Unified School District
+06|22230|Lodi Unified School District|Lodi Unified School District
+06|22410|Lompoc Unified School District|Lompoc Unified School District
+06|22440|Lone Pine Unified School District|Lone Pine Unified School District
+06|22500|Long Beach Unified School District|Long Beach Unified School District
+06|22590|Los Alamitos Unified School District|Los Alamitos Unified School District
+06|22710|Los Angeles Unified School District|Los Angeles Unified School District
+06|22740|Los Banos Unified School District|Los Banos Unified School District
+06|22860|Los Molinos Unified School District|Los Molinos Unified School District
+06|23080|Lucia Mar Unified School District|Lucia Mar Unified School District
+06|23160|Lynwood Unified School District|Lynwood Unified School District
+06|23340|Madera Unified School District|Madera Unified School District
+06|23530|Mammoth Unified School District|Mammoth Unified School District
+06|23610|Manteca Unified School District|Manteca Unified School District
+06|23820|Maricopa Unified School District|Maricopa Unified School District
+06|23940|Mariposa County Unified School District|Mariposa County Unified School District
+06|24030|Martinez Unified School District|Martinez Unified School District
+06|24090|Marysville Joint Unified School District|Marysville Joint Unified School District
+06|24150|Maxwell Unified School District|Maxwell Unified School District
+06|24230|McFarland Unified School District|McFarland Unified School District
+06|24480|Mendocino Unified School District|Mendocino Unified School District
+06|24500|Milpitas Unified School District|Milpitas Unified School District
+06|24750|Middletown Unified School District|Middletown Unified School District
+06|25190|Modoc Joint Unified School District|Modoc Joint Unified School District
+06|25230|Mojave Unified School District|Mojave Unified School District
+06|25320|Monrovia Unified School District|Monrovia Unified School District
+06|25470|Montebello Unified School District|Montebello Unified School District
+06|25530|Monterey Peninsula Unified School District|Monterey Peninsula Unified School District
+06|25690|Moorpark Unified School District|Moorpark Unified School District
+06|25800|Moreno Valley Unified School District|Moreno Valley Unified School District
+06|25830|Morgan Hill Unified School District|Morgan Hill Unified School District
+06|25860|Morongo Unified School District|Morongo Unified School District
+06|26100|Mountain Empire Unified School District|Mountain Empire Unified School District
+06|26370|Mount Diablo Unified School District|Mount Diablo Unified School District
+06|26490|Muroc Joint Unified School District|Muroc Joint Unified School District
+06|26640|Napa Valley Unified School District|Napa Valley Unified School District
+06|26760|Needles Unified School District|Needles Unified School District
+06|26910|New Haven Unified School District|New Haven Unified School District
+06|27060|Newark Unified School District|Newark Unified School District
+06|27200|Newman-Crows Landing Unified School District|Newman-Crows Landing Unified School District
+06|27240|Newport-Mesa Unified School District|Newport-Mesa Unified School District
+06|27590|North Monterey County Unified School District|North Monterey County Unified School District
+06|27690|Norwalk-La Mirada Unified School District|Norwalk-La Mirada Unified School District
+06|27720|Novato Unified School District|Novato Unified School District
+06|27850|Oak Park Unified School District|Oak Park Unified School District
+06|28050|Oakland Unified School District|Oakland Unified School District
+06|28250|Oceanside Unified School District|Oceanside Unified School District
+06|28270|Ojai Unified School District|Ojai Unified School District
+06|28650|Orange Unified School District|Orange Unified School District
+06|29190|Owens Valley Unified School District|Owens Valley Unified School District
+06|29370|Pacific Grove Unified School District|Pacific Grove Unified School District
+06|29490|Pajaro Valley Joint Unified School District|Pajaro Valley Joint Unified School District
+06|29550|Palm Springs Unified School District|Palm Springs Unified School District
+06|29610|Palo Alto Unified School District|Palo Alto Unified School District
+06|29640|Palo Verde Unified School District|Palo Verde Unified School District
+06|29700|Palos Verdes Peninsula Unified School District|Palos Verdes Peninsula Unified School District
+06|29820|Paradise Unified School District|Paradise Unified School District
+06|29850|Paramount Unified School District|Paramount Unified School District
+06|29910|Parlier Unified School District|Parlier Unified School District
+06|29940|Pasadena Unified School District|Pasadena Unified School District
+06|30030|Patterson Joint Unified School District|Patterson Joint Unified School District
+06|30330|Piedmont City Unified School District|Piedmont City Unified School District
+06|30360|Pierce Joint Unified School District|Pierce Joint Unified School District
+06|30600|Pittsburg Unified School District|Pittsburg Unified School District
+06|30660|Placentia-Yorba Linda Unified School District|Placentia-Yorba Linda Unified School District
+06|31170|Plumas Unified School District|Plumas Unified School District
+06|31320|Pomona Unified School District|Pomona Unified School District
+06|31400|Potter Valley Community Unified School District|Potter Valley Community Unified School District
+06|31530|Poway Unified School District|Poway Unified School District
+06|31620|Princeton Joint Unified School District|Princeton Joint Unified School District
+06|31710|Ramona City Unified School District|Ramona City Unified School District
+06|32070|Redlands Unified School District|Redlands Unified School District
+06|32270|Reef-Sunset Unified School District|Reef-Sunset Unified School District
+06|32370|Rialto Unified School District|Rialto Unified School District
+06|32550|West Contra Costa Unified School District|West Contra Costa Unified School District
+06|32610|Rim of the World Unified School District|Rim of the World Unified School District
+06|32880|Ripon Unified School District|Ripon Unified School District
+06|33110|River Delta Joint Unified School District|River Delta Joint Unified School District
+06|33150|Riverside Unified School District|Riverside Unified School District
+06|33720|Round Valley Unified School District|Round Valley Unified School District
+06|33750|Rowland Unified School District|Rowland Unified School District
+06|33840|Sacramento City Unified School District|Sacramento City Unified School District
+06|33860|Saddleback Valley Unified School District|Saddleback Valley Unified School District
+06|34170|San Bernardino City Unified School District|San Bernardino City Unified School District
+06|34320|San Diego City Unified School District|San Diego City Unified School District
+06|34410|San Francisco Unified School District|San Francisco Unified School District
+06|34425|San Gabriel Unified School District|San Gabriel Unified School District
+06|34440|San Jacinto Unified School District|San Jacinto Unified School District
+06|34590|San Jose Unified School District|San Jose Unified School District
+06|34620|San Juan Unified School District|San Juan Unified School District
+06|34680|San Leandro Unified School District|San Leandro Unified School District
+06|34710|San Lorenzo Unified School District|San Lorenzo Unified School District
+06|34740|San Lorenzo Valley Unified School District|San Lorenzo Valley Unified School District
+06|34800|San Luis Coastal Unified School District|San Luis Coastal Unified School District
+06|34860|San Marino Unified School District|San Marino Unified School District
+06|34880|San Marcos Unified School District|San Marcos Unified School District
+06|35070|San Pasqual Valley Unified School District|San Pasqual Valley Unified School District
+06|35130|San Ramon Valley Unified School District|San Ramon Valley Unified School District
+06|35250|Sanger Unified School District|Sanger Unified School District
+06|35310|Santa Ana Unified School District|Santa Ana Unified School District
+06|35430|Santa Clara Unified School District|Santa Clara Unified School District
+06|35700|Santa Monica-Malibu Unified School District|Santa Monica-Malibu Unified School District
+06|36270|Selma Unified School District|Selma Unified School District
+06|36450|Shandon Joint Unified School District|Shandon Joint Unified School District
+06|36670|Shoreline Unified School District|Shoreline Unified School District
+06|36780|Sierra-Plumas Joint Unified School District|Sierra-Plumas Joint Unified School District
+06|36800|Sierra Sands Unified School District|Sierra Sands Unified School District
+06|36805|Sierra Unified School District|Sierra Unified School District
+06|36820|Silver Valley Unified School District|Silver Valley Unified School District
+06|36840|Simi Valley Unified School District|Simi Valley Unified School District
+06|36970|Snowline Joint Unified School District|Snowline Joint Unified School District
+06|37050|Soledad Unified School District|Soledad Unified School District
+06|37200|Sonoma Valley Unified School District|Sonoma Valley Unified School District
+06|37500|South Pasadena Unified School District|South Pasadena Unified School District
+06|37530|South San Francisco Unified School District|South San Francisco Unified School District
+06|37590|Southern Humboldt Joint Unified School District|Southern Humboldt Joint Unified School District
+06|37620|Southern Kern Unified School District|Southern Kern Unified School District
+06|37630|Southern Trinity Joint Unified School District|Southern Trinity Joint Unified School District
+06|37830|St. Helena Unified School District|St. Helena Unified School District
+06|38010|Stockton Unified School District|Stockton Unified School District
+06|38070|Stony Creek Joint Unified School District|Stony Creek Joint Unified School District
+06|38520|Surprise Valley Joint Unified School District|Surprise Valley Joint Unified School District
+06|38770|Tahoe-Truckee Joint Unified School District|Tahoe-Truckee Joint Unified School District
+06|38880|Tehachapi Unified School District|Tehachapi Unified School District
+06|38980|Temple City Unified School District|Temple City Unified School District
+06|39000|Templeton Unified School District|Templeton Unified School District
+06|39420|Torrance Unified School District|Torrance Unified School District
+06|39630|Travis Unified School District|Travis Unified School District
+06|39840|Trona Joint Unified School District|Trona Joint Unified School District
+06|39940|Tulelake Basin Joint Unified School District|Tulelake Basin Joint Unified School District
+06|40150|Tustin Unified School District|Tustin Unified School District
+06|40300|Ukiah Unified School District|Ukiah Unified School District
+06|40590|Vacaville Unified School District|Vacaville Unified School District
+06|40740|Vallejo City Unified School District|Vallejo City Unified School District
+06|40980|Ventura Unified School District|Ventura Unified School District
+06|41160|Visalia Unified School District|Visalia Unified School District
+06|41190|Vista Unified School District|Vista Unified School District
+06|41280|Walnut Valley Unified School District|Walnut Valley Unified School District
+06|41580|Washington Unified School District|Washington Unified School District
+06|42000|West Covina Unified School District|West Covina Unified School District
+06|42140|Western Placer Unified School District|Western Placer Unified School District
+06|42300|Westwood Unified School District|Westwood Unified School District
+06|42540|Williams Unified School District|Williams Unified School District
+06|42560|Willits Unified School District|Willits Unified School District
+06|42580|Laytonville Unified School District|Laytonville Unified School District
+06|42710|Willows Unified School District|Willows Unified School District
+06|42930|Winters Joint Unified School District|Winters Joint Unified School District
+06|43080|Woodland Joint Unified School District|Woodland Joint Unified School District
+06|43470|Yuba City Unified School District|Yuba City Unified School District
+06|43560|Yucaipa-Calimesa Joint Unified School District|Yucaipa-Calimesa Joint Unified School District
+06|84500|Irvine Unified School District|Irvine Unified School District
+06|91134|Golden Plains Unified School District|Golden Plains Unified School District
+06|91135|Val Verde Unified School District|Val Verde Unified School District
+06|91136|Aromas-San Juan Unified School District|Aromas-San Juan Unified School District
+06|91137|Big Oak Flat-Groveland Unified School District|Big Oak Flat-Groveland Unified School District
+06|99997|School District Not Defined|School District Not Defined
+06|99998|School District Not Defined (Water)|School District Not Defined (Water)

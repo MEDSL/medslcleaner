@@ -1,0 +1,10 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+41|03600|Harney County School District 4|Harney County School District 4
+41|04170|Diamond School District 7|Diamond School District 7
+41|04290|Double O School District 28|Double O School District 28
+41|04380|Drewsey School District 13|Drewsey School District 13
+41|05020|South Harney School District 33|South Harney School District 33
+41|05310|Frenchglen School District 16|Frenchglen School District 16
+41|06960|Juntura School District 12|Juntura School District 12
+41|09690|Pine Creek School District 5|Pine Creek School District 5
+41|11910|Suntex School District 10|Suntex School District 10

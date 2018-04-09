@@ -1,0 +1,362 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+24|00175|Aberdeen Proving Ground|Aberdeen Proving Ground CDP
+24|00250|Accokeek|Accokeek CDP
+24|00350|Adamstown|Adamstown CDP
+24|00400|Adelphi|Adelphi CDP
+24|00712|Algonquin|Algonquin CDP
+24|00800|Allen|Allen CDP
+24|01450|Andrews AFB|Andrews AFB CDP
+24|01635|Annapolis Neck|Annapolis Neck CDP
+24|01750|Antietam|Antietam CDP
+24|01925|Aquasco|Aquasco CDP
+24|01975|Arbutus|Arbutus CDP
+24|02025|Arden on the Severn|Arden on the Severn CDP
+24|02275|Arnold|Arnold CDP
+24|02762|Ashton-Sandy Spring|Ashton-Sandy Spring CDP
+24|02825|Aspen Hill|Aspen Hill CDP
+24|03500|Baden|Baden CDP
+24|03514|Bagtown|Bagtown CDP
+24|03575|Bakersville|Bakersville CDP
+24|03800|Ballenger Creek|Ballenger Creek CDP
+24|04050|Baltimore Highlands|Baltimore Highlands CDP
+24|04525|Barrelville|Barrelville CDP
+24|04650|Bartonsville|Bartonsville CDP
+24|05250|Beaver Creek|Beaver Creek CDP
+24|05525|Bel Air|Bel Air CDP
+24|05825|Bel Air North|Bel Air North CDP
+24|05950|Bel Air South|Bel Air South CDP
+24|06400|Beltsville|Beltsville CDP
+24|06550|Benedict|Benedict CDP
+24|06615|Bensville|Bensville CDP
+24|07125|Bethesda|Bethesda CDP
+24|07285|Bier|Bier CDP
+24|07375|Big Pool|Big Pool CDP
+24|07400|Big Spring|Big Spring CDP
+24|07625|Bishopville|Bishopville CDP
+24|07675|Bivalve|Bivalve CDP
+24|08050|Bloomington|Bloomington CDP
+24|08800|Bowleys Quarters|Bowleys Quarters CDP
+24|08850|Bowling Green|Bowling Green CDP
+24|08862|Bowmans Addition|Bowmans Addition CDP
+24|09100|Braddock Heights|Braddock Heights CDP
+24|09325|Brandywine|Brandywine CDP
+24|09400|Breathedsville|Breathedsville CDP
+24|10150|Brock Hall|Brock Hall CDP
+24|10475|Brooklyn Park|Brooklyn Park CDP
+24|10500|Brookmont|Brookmont CDP
+24|10650|Broomes Island|Broomes Island CDP
+24|10800|Brownsville|Brownsville CDP
+24|10925|Bryans Road|Bryans Road CDP
+24|10950|Bryantown|Bryantown CDP
+24|11050|Buckeystown|Buckeystown CDP
+24|11750|Burtonsville|Burtonsville CDP
+24|11900|Butlertown|Butlertown CDP
+24|12075|Cabin John|Cabin John CDP
+24|12150|California|California CDP
+24|12300|Calvert Beach|Calvert Beach CDP
+24|12350|Calverton|Calverton CDP
+24|12600|Camp Springs|Camp Springs CDP
+24|12912|Cape St. Claire|Cape St. Claire CDP
+24|13225|Carlos|Carlos CDP
+24|13325|Carney|Carney CDP
+24|14125|Catonsville|Catonsville CDP
+24|14225|Cavetown|Cavetown CDP
+24|14300|Cearfoss|Cearfoss CDP
+24|14800|Cedarville|Cedarville CDP
+24|15075|Chance|Chance CDP
+24|15475|Charlotte Hall|Charlotte Hall CDP
+24|15500|Charlton|Charlton CDP
+24|16050|Chesapeake Ranch Estates|Chesapeake Ranch Estates CDP
+24|16125|Chester|Chester CDP
+24|16625|Chevy Chase|Chevy Chase CDP
+24|16800|Chewsville|Chewsville CDP
+24|16875|Chillum|Chillum CDP
+24|17000|Choptank|Choptank CDP
+24|17350|Clarksburg|Clarksburg CDP
+24|17475|Clarysville|Clarysville CDP
+24|17900|Clinton|Clinton CDP
+24|18150|Cloverly|Cloverly CDP
+24|18200|Cobb Island|Cobb Island CDP
+24|18250|Cockeysville|Cockeysville CDP
+24|18475|Colesville|Colesville CDP
+24|19125|Columbia|Columbia CDP
+24|19825|Coral Hills|Coral Hills CDP
+24|19900|Cordova|Cordova CDP
+24|19975|Corriganville|Corriganville CDP
+24|20500|Crellin|Crellin CDP
+24|20525|Cresaptown|Cresaptown CDP
+24|20875|Crofton|Crofton CDP
+24|20925|Croom|Croom CDP
+24|21075|Crownsville|Crownsville CDP
+24|21475|Damascus|Damascus CDP
+24|21550|Dames Quarter|Dames Quarter CDP
+24|21675|Danville|Danville CDP
+24|21750|Dargan|Dargan CDP
+24|21800|Darlington|Darlington CDP
+24|21825|Darnestown|Darnestown CDP
+24|21925|Dawson|Dawson CDP
+24|22050|Deale|Deale CDP
+24|22100|Deal Island|Deal Island CDP
+24|22775|Derwood|Derwood CDP
+24|22825|Detmold|Detmold CDP
+24|23500|Downsville|Downsville CDP
+24|23700|Drum Point|Drum Point CDP
+24|23975|Dundalk|Dundalk CDP
+24|24062|Dunkirk|Dunkirk CDP
+24|24250|Eakles Mill|Eakles Mill CDP
+24|24650|East Riverdale|East Riverdale CDP
+24|24825|Eckhart Mines|Eckhart Mines CDP
+24|24850|Eden|Eden CDP
+24|24925|Edesville|Edesville CDP
+24|24950|Edgemere|Edgemere CDP
+24|25000|Edgemont|Edgemont CDP
+24|25050|Edgewater|Edgewater CDP
+24|25150|Edgewood|Edgewood CDP
+24|25575|Eldersburg|Eldersburg CDP
+24|25750|Elkridge|Elkridge CDP
+24|25925|Ellerslie|Ellerslie CDP
+24|26000|Ellicott City|Ellicott City CDP
+24|26025|Elliott|Elliott CDP
+24|26550|Ernstville|Ernstville CDP
+24|26600|Essex|Essex CDP
+24|27250|Fairland|Fairland CDP
+24|27325|Fairlee|Fairlee CDP
+24|27375|Fairmount|Fairmount CDP
+24|27425|Fairplay|Fairplay CDP
+24|27500|Fairview|Fairview CDP
+24|27580|Fairwood|Fairwood CDP
+24|27700|Fallston|Fallston CDP
+24|28075|Ferndale|Ferndale CDP
+24|28275|Finzel|Finzel CDP
+24|28300|Fishing Creek|Fishing Creek CDP
+24|28425|Flintstone|Flintstone CDP
+24|28640|Forest Glen|Forest Glen CDP
+24|29000|Forestville|Forestville CDP
+24|29400|Fort Meade|Fort Meade CDP
+24|29450|Fort Ritchie|Fort Ritchie CDP
+24|29525|Fort Washington|Fort Washington CDP
+24|29712|Fountainhead-Orchard Hills|Fountainhead-Orchard Hills CDP
+24|29790|Four Corners|Four Corners CDP
+24|30100|Franklin|Franklin CDP
+24|30567|Frenchtown-Rumbly|Frenchtown-Rumbly CDP
+24|30575|Friendly|Friendly CDP
+24|30650|Friendship|Friendship CDP
+24|30800|Friendship Heights Village|Friendship Heights Village CDP
+24|31025|Fulton|Fulton CDP
+24|31275|Galesville|Galesville CDP
+24|31350|Gambrills|Gambrills CDP
+24|31400|Gapland|Gapland CDP
+24|31575|Garretts Mill|Garretts Mill CDP
+24|31625|Garrison|Garrison CDP
+24|31875|Georgetown|Georgetown CDP
+24|32025|Germantown|Germantown CDP
+24|32175|Gilmore|Gilmore CDP
+24|32250|Girdletree|Girdletree CDP
+24|32350|Glassmanor|Glassmanor CDP
+24|32650|Glen Burnie|Glen Burnie CDP
+24|33250|Glenmont|Glenmont CDP
+24|33400|Glenn Dale|Glenn Dale CDP
+24|33850|Golden Beach|Golden Beach CDP
+24|34150|Gorman|Gorman CDP
+24|34425|Grahamtown|Grahamtown CDP
+24|34550|Grasonville|Grasonville CDP
+24|35225|Greensburg|Greensburg CDP
+24|36125|Halfway|Halfway CDP
+24|36512|Hampton|Hampton CDP
+24|38025|Herald Harbor|Herald Harbor CDP
+24|38437|Highfield-Cascade|Highfield-Cascade CDP
+24|38475|Highland|Highland CDP
+24|38850|Hillandale|Hillandale CDP
+24|38975|Hillcrest Heights|Hillcrest Heights CDP
+24|40700|Hughesville|Hughesville CDP
+24|41037|Huntingtown|Huntingtown CDP
+24|41175|Hutton|Hutton CDP
+24|41475|Ilchester|Ilchester CDP
+24|41700|Indian Springs|Indian Springs CDP
+24|42325|Jarrettsville|Jarrettsville CDP
+24|42350|Jefferson|Jefferson CDP
+24|42450|Jennings|Jennings CDP
+24|42550|Jessup|Jessup CDP
+24|42575|Jesterville|Jesterville CDP
+24|42875|Joppatowne|Joppatowne CDP
+24|42950|Jugtown|Jugtown CDP
+24|43200|Kemp Mill|Kemp Mill CDP
+24|43280|Kemps Mill|Kemps Mill CDP
+24|43475|Kennedyville|Kennedyville CDP
+24|43725|Kent Narrows|Kent Narrows CDP
+24|43900|Kettering|Kettering CDP
+24|44325|Kingstown|Kingstown CDP
+24|44350|Kingsville|Kingsville CDP
+24|44525|Klondike|Klondike CDP
+24|44715|Konterra|Konterra CDP
+24|44817|Lake Arbor|Lake Arbor CDP
+24|44975|Lake Shore|Lake Shore CDP
+24|45325|Landover|Landover CDP
+24|45525|Langley Park|Langley Park CDP
+24|45550|Lanham|Lanham CDP
+24|45650|Lansdowne|Lansdowne CDP
+24|45825|Largo|Largo CDP
+24|46075|La Vale|La Vale CDP
+24|46150|Layhill|Layhill CDP
+24|46375|Leisure World|Leisure World CDP
+24|46400|Leitersburg|Leitersburg CDP
+24|46725|Lexington Park|Lexington Park CDP
+24|46800|Libertytown|Libertytown CDP
+24|47040|Linganore|Linganore CDP
+24|47125|Linthicum|Linthicum CDP
+24|47275|Little Orleans|Little Orleans CDP
+24|47450|Lochearn|Lochearn CDP
+24|48025|Long Beach|Long Beach CDP
+24|48800|Lusby|Lusby CDP
+24|48875|Lutherville|Lutherville CDP
+24|49325|McCoole|McCoole CDP
+24|49700|Madison|Madison CDP
+24|50375|Mapleville|Mapleville CDP
+24|50680|Marlboro Meadows|Marlboro Meadows CDP
+24|50685|Marlboro Village|Marlboro Village CDP
+24|50750|Marlow Heights|Marlow Heights CDP
+24|50775|Marlton|Marlton CDP
+24|51075|Maryland City|Maryland City CDP
+24|51425|Maugansville|Maugansville CDP
+24|51575|Mayo|Mayo CDP
+24|51587|Mays Chapel|Mays Chapel CDP
+24|51800|Mechanicsville|Mechanicsville CDP
+24|51860|Melwood|Melwood CDP
+24|51945|Mercersville|Mercersville CDP
+24|52225|Middleburg|Middleburg CDP
+24|52300|Middle River|Middle River CDP
+24|52525|Midlothian|Midlothian CDP
+24|52562|Milford Mill|Milford Mill CDP
+24|52975|Mitchellville|Mitchellville CDP
+24|53100|Monrovia|Monrovia CDP
+24|53325|Montgomery Village|Montgomery Village CDP
+24|53700|Moscow|Moscow CDP
+24|53750|Mount Aetna|Mount Aetna CDP
+24|53925|Mount Briar|Mount Briar CDP
+24|54125|Mount Lena|Mount Lena CDP
+24|54325|Mount Savage|Mount Savage CDP
+24|54375|Mount Vernon|Mount Vernon CDP
+24|54925|Nanticoke|Nanticoke CDP
+24|54930|Nanticoke Acres|Nanticoke Acres CDP
+24|55000|National|National CDP
+24|55018|National Harbor|National Harbor CDP
+24|55050|Naval Academy|Naval Academy CDP
+24|55325|Newark|Newark CDP
+24|55950|Nikep|Nikep CDP
+24|56337|North Bethesda|North Bethesda CDP
+24|56712|North Kensington|North Kensington CDP
+24|56725|North Laurel|North Laurel CDP
+24|56875|North Potomac|North Potomac CDP
+24|58215|Ocean|Ocean CDP
+24|58275|Ocean Pines|Ocean Pines CDP
+24|58300|Odenton|Odenton CDP
+24|58775|Oldtown|Oldtown CDP
+24|58900|Olney|Olney CDP
+24|59325|Overlea|Overlea CDP
+24|59375|Owings|Owings CDP
+24|59425|Owings Mills|Owings Mills CDP
+24|59500|Oxon Hill|Oxon Hill CDP
+24|59787|Paramount-Long Meadow|Paramount-Long Meadow CDP
+24|60275|Parkville|Parkville CDP
+24|60325|Parole|Parole CDP
+24|60425|Parsonsburg|Parsonsburg CDP
+24|60475|Pasadena|Pasadena CDP
+24|60770|Pecktonville|Pecktonville CDP
+24|60950|Peppermill Village|Peppermill Village CDP
+24|60975|Perry Hall|Perry Hall CDP
+24|61075|Perryman|Perryman CDP
+24|61400|Pikesville|Pikesville CDP
+24|61700|Pinesburg|Pinesburg CDP
+24|61875|Piney Point|Piney Point CDP
+24|62100|Pleasant Grove|Pleasant Grove CDP
+24|62175|Pleasant Hills|Pleasant Hills CDP
+24|62575|Point of Rocks|Point of Rocks CDP
+24|62675|Pomfret|Pomfret CDP
+24|62775|Pondsville|Pondsville CDP
+24|63300|Potomac|Potomac CDP
+24|63375|Potomac Heights|Potomac Heights CDP
+24|63425|Potomac Park|Potomac Park CDP
+24|63725|Powellville|Powellville CDP
+24|63950|Prince Frederick|Prince Frederick CDP
+24|64375|Pylesville|Pylesville CDP
+24|64475|Quantico|Quantico CDP
+24|64495|Queen Anne|Queen Anne CDP
+24|64535|Queenland|Queenland CDP
+24|64950|Randallstown|Randallstown CDP
+24|65150|Rawlings|Rawlings CDP
+24|65312|Redland|Redland CDP
+24|65550|Reid|Reid CDP
+24|65600|Reisterstown|Reisterstown CDP
+24|66150|Ringgold|Ringgold CDP
+24|66400|Riva|Riva CDP
+24|66762|Riverside|Riverside CDP
+24|66850|Riviera Beach|Riviera Beach CDP
+24|67000|Robinwood|Robinwood CDP
+24|67500|Rock Point|Rock Point CDP
+24|67950|Rohrersville|Rohrersville CDP
+24|68300|Rosaryville|Rosaryville CDP
+24|68400|Rosedale|Rosedale CDP
+24|68700|Rossville|Rossville CDP
+24|69200|Sabillasville|Sabillasville CDP
+24|69425|St. George Island|St. George Island CDP
+24|69550|St. James|St. James CDP
+24|69675|St. Leonard|St. Leonard CDP
+24|70175|Sandy Hook|Sandy Hook CDP
+24|70300|San Mar|San Mar CDP
+24|70475|Savage|Savage CDP
+24|70530|Scaggsville|Scaggsville CDP
+24|70775|Seabrook|Seabrook CDP
+24|71150|Severn|Severn CDP
+24|71200|Severna Park|Severna Park CDP
+24|71450|Shady Side|Shady Side CDP
+24|71460|Shaft|Shaft CDP
+24|72350|Silver Hill|Silver Hill CDP
+24|72450|Silver Spring|Silver Spring CDP
+24|72887|Smith Island|Smith Island CDP
+24|73325|Solomons|Solomons CDP
+24|73600|South Kensington|South Kensington CDP
+24|73650|South Laurel|South Laurel CDP
+24|74050|Spencerville|Spencerville CDP
+24|74282|Springdale|Springdale CDP
+24|74350|Spring Gap|Spring Gap CDP
+24|74560|Spring Ridge|Spring Ridge CDP
+24|75025|Stevensville|Stevensville CDP
+24|75200|Stockton|Stockton CDP
+24|75725|Suitland|Suitland CDP
+24|75810|Summerfield|Summerfield CDP
+24|76450|Swanton|Swanton CDP
+24|76675|Tall Timbers|Tall Timbers CDP
+24|76925|Taylors Island|Taylors Island CDP
+24|77100|Temple Hills|Temple Hills CDP
+24|77912|Tilghman Island|Tilghman Island CDP
+24|77925|Tilghmanton|Tilghmanton CDP
+24|78050|Timonium|Timonium CDP
+24|78120|Tolchester|Tolchester CDP
+24|78425|Towson|Towson CDP
+24|78650|Travilah|Travilah CDP
+24|78705|Trego-Rohrersville Station|Trego-Rohrersville Station CDP
+24|79225|Tyaskin|Tyaskin CDP
+24|79900|Urbana|Urbana CDP
+24|80075|Vale Summit|Vale Summit CDP
+24|81175|Waldorf|Waldorf CDP
+24|81250|Walker Mill|Walker Mill CDP
+24|81925|Waterview|Waterview CDP
+24|82625|West Denton|West Denton CDP
+24|83025|West Laurel|West Laurel CDP
+24|83225|West Ocean City|West Ocean City CDP
+24|83290|Westphalia|Westphalia CDP
+24|83337|West Pocomoke|West Pocomoke CDP
+24|83746|Whaleyville|Whaleyville CDP
+24|83775|Wheaton|Wheaton CDP
+24|84225|Whitehaven|Whitehaven CDP
+24|84350|White Marsh|White Marsh CDP
+24|84375|White Oak|White Oak CDP
+24|85175|Williston|Williston CDP
+24|85395|Wilson-Conococheague|Wilson-Conococheague CDP
+24|86275|Woodland|Woodland CDP
+24|86475|Woodlawn|Woodlawn CDP
+24|86525|Woodlawn|Woodlawn CDP
+24|86710|Woodmore|Woodmore CDP
+24|87000|Worton|Worton CDP
+24|87150|Yarrowsburg|Yarrowsburg CDP
+24|87275|Zihlman|Zihlman CDP

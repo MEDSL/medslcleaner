@@ -1,0 +1,554 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+37|00160|Aberdeen|Aberdeen town
+37|00500|Ahoskie|Ahoskie town
+37|00640|Alamance|Alamance village
+37|00680|Albemarle|Albemarle city
+37|01000|Alliance|Alliance town
+37|01380|Andrews|Andrews town
+37|01400|Angier|Angier town
+37|01420|Ansonville|Ansonville town
+37|01520|Apex|Apex town
+37|01640|Arapahoe|Arapahoe town
+37|01720|Archdale|Archdale city
+37|01760|Archer Lodge|Archer Lodge town
+37|02080|Asheboro|Asheboro city
+37|02140|Asheville|Asheville city
+37|02320|Askewville|Askewville town
+37|02460|Atkinson|Atkinson town
+37|02500|Atlantic Beach|Atlantic Beach town
+37|02580|Aulander|Aulander town
+37|02620|Aurora|Aurora town
+37|02700|Autryville|Autryville town
+37|02840|Ayden|Ayden town
+37|02960|Badin|Badin town
+37|03020|Bailey|Bailey town
+37|03100|Bakersville|Bakersville town
+37|03150|Bald Head Island|Bald Head Island village
+37|03500|Banner Elk|Banner Elk town
+37|03840|Bath|Bath town
+37|03960|Bayboro|Bayboro town
+37|04180|Bear Grass|Bear Grass town
+37|04260|Beaufort|Beaufort town
+37|04510|Beech Mountain|Beech Mountain town
+37|04640|Belhaven|Belhaven town
+37|04840|Belmont|Belmont city
+37|04950|Belville|Belville town
+37|04960|Belwood|Belwood town
+37|05040|Benson|Benson town
+37|05135|Bermuda Run|Bermuda Run town
+37|05220|Bessemer City|Bessemer City city
+37|05340|Bethania|Bethania town
+37|05460|Bethel|Bethel town
+37|05660|Beulaville|Beulaville town
+37|05880|Biltmore Forest|Biltmore Forest town
+37|06000|Biscoe|Biscoe town
+37|06080|Black Creek|Black Creek town
+37|06140|Black Mountain|Black Mountain town
+37|06240|Bladenboro|Bladenboro town
+37|06500|Blowing Rock|Blowing Rock town
+37|06660|Boardman|Boardman town
+37|06740|Bogue|Bogue town
+37|06760|Boiling Spring Lakes|Boiling Spring Lakes city
+37|06800|Boiling Springs|Boiling Springs town
+37|06820|Bolivia|Bolivia town
+37|06860|Bolton|Bolton town
+37|07080|Boone|Boone town
+37|07140|Boonville|Boonville town
+37|07220|Bostic|Bostic town
+37|07720|Brevard|Brevard city
+37|07860|Bridgeton|Bridgeton town
+37|08080|Broadway|Broadway town
+37|08140|Brookford|Brookford town
+37|08420|Brunswick|Brunswick town
+37|08480|Bryson City|Bryson City town
+37|08860|Bunn|Bunn town
+37|08960|Burgaw|Burgaw town
+37|09060|Burlington|Burlington city
+37|09140|Burnsville|Burnsville town
+37|09360|Butner|Butner town
+37|09530|Cajah's Mountain|Cajah's Mountain town
+37|09540|Calabash|Calabash town
+37|09760|Calypso|Calypso town
+37|09800|Cameron|Cameron town
+37|10120|Candor|Candor town
+37|10240|Canton|Canton town
+37|10260|Cape Carteret|Cape Carteret town
+37|10500|Carolina Beach|Carolina Beach town
+37|10550|Carolina Shores|Carolina Shores town
+37|10620|Carrboro|Carrboro town
+37|10680|Carthage|Carthage town
+37|10740|Cary|Cary town
+37|10760|Casar|Casar town
+37|10860|Castalia|Castalia town
+37|10960|Caswell Beach|Caswell Beach town
+37|10980|Catawba|Catawba town
+37|11340|Cedar Point|Cedar Point town
+37|11352|Cedar Rock|Cedar Rock village
+37|11560|Centerville|Centerville town
+37|11620|Cerro Gordo|Cerro Gordo town
+37|11640|Chadbourn|Chadbourn town
+37|11800|Chapel Hill|Chapel Hill town
+37|12000|Charlotte|Charlotte city
+37|12340|Cherryville|Cherryville city
+37|12460|Chimney Rock Village|Chimney Rock Village village
+37|12480|China Grove|China Grove town
+37|12580|Chocowinity|Chocowinity town
+37|12720|Claremont|Claremont city
+37|12780|Clarkton|Clarkton town
+37|12860|Clayton|Clayton town
+37|12960|Clemmons|Clemmons village
+37|13000|Cleveland|Cleveland town
+37|13240|Clinton|Clinton city
+37|13280|Clyde|Clyde town
+37|13360|Coats|Coats town
+37|13460|Cofield|Cofield village
+37|13560|Colerain|Colerain town
+37|13940|Columbia|Columbia town
+37|13980|Columbus|Columbus town
+37|14060|Como|Como town
+37|14100|Concord|Concord city
+37|14200|Conetoe|Conetoe town
+37|14280|Connelly Springs|Connelly Springs town
+37|14340|Conover|Conover city
+37|14400|Conway|Conway town
+37|14460|Cooleemee|Cooleemee town
+37|14700|Cornelius|Cornelius town
+37|15020|Cove City|Cove City town
+37|15260|Cramerton|Cramerton town
+37|15320|Creedmoor|Creedmoor city
+37|15420|Creswell|Creswell town
+37|15580|Crossnore|Crossnore town
+37|16180|Dallas|Dallas town
+37|16240|Danbury|Danbury town
+37|16400|Davidson|Davidson town
+37|16820|Dellview|Dellview town
+37|16980|Denton|Denton town
+37|17180|Dillsboro|Dillsboro town
+37|17325|Dobbins Heights|Dobbins Heights town
+37|17340|Dobson|Dobson town
+37|17520|Dortches|Dortches town
+37|17660|Dover|Dover town
+37|17860|Drexel|Drexel town
+37|18040|Dublin|Dublin town
+37|18060|Duck|Duck town
+37|18320|Dunn|Dunn city
+37|19000|Durham|Durham city
+37|19140|Earl|Earl town
+37|19300|East Arcadia|East Arcadia town
+37|19320|East Bend|East Bend town
+37|19620|East Laurinburg|East Laurinburg town
+37|19740|Eastover|Eastover town
+37|19860|East Spencer|East Spencer town
+37|20080|Eden|Eden city
+37|20120|Edenton|Edenton town
+37|20580|Elizabeth City|Elizabeth City city
+37|20600|Elizabethtown|Elizabethtown town
+37|20620|Elkin|Elkin town
+37|20700|Elk Park|Elk Park town
+37|20780|Ellenboro|Ellenboro town
+37|20840|Ellerbe|Ellerbe town
+37|20980|Elm City|Elm City town
+37|21095|Elon|Elon town
+37|21160|Emerald Isle|Emerald Isle town
+37|21360|Enfield|Enfield town
+37|21740|Erwin|Erwin town
+37|21960|Eureka|Eureka town
+37|22040|Everetts|Everetts town
+37|22240|Fair Bluff|Fair Bluff town
+37|22360|Fairmont|Fairmont town
+37|22500|Fairview|Fairview town
+37|22560|Faison|Faison town
+37|22600|Faith|Faith town
+37|22620|Falcon|Falcon town
+37|22640|Falkland|Falkland town
+37|22720|Fallston|Fallston town
+37|22820|Farmville|Farmville town
+37|22920|Fayetteville|Fayetteville city
+37|23600|Flat Rock|Flat Rock village
+37|23760|Fletcher|Fletcher town
+37|24080|Forest City|Forest City town
+37|24170|Forest Hills|Forest Hills village
+37|24440|Fountain|Fountain town
+37|24520|Four Oaks|Four Oaks town
+37|24570|Foxfire|Foxfire village
+37|24640|Franklin|Franklin town
+37|24720|Franklinton|Franklinton town
+37|24740|Franklinville|Franklinville town
+37|24900|Fremont|Fremont town
+37|25300|Fuquay-Varina|Fuquay-Varina town
+37|25380|Gamewell|Gamewell town
+37|25460|Garland|Garland town
+37|25480|Garner|Garner town
+37|25540|Garysburg|Garysburg town
+37|25560|Gaston|Gaston town
+37|25580|Gastonia|Gastonia city
+37|25680|Gatesville|Gatesville town
+37|25940|Gibson|Gibson town
+37|25980|Gibsonville|Gibsonville town
+37|26200|Glen Alpine|Glen Alpine town
+37|26740|Godwin|Godwin town
+37|26880|Goldsboro|Goldsboro city
+37|26920|Goldston|Goldston town
+37|27280|Graham|Graham city
+37|27320|Grandfather|Grandfather village
+37|27420|Granite Falls|Granite Falls town
+37|27440|Granite Quarry|Granite Quarry town
+37|27520|Grantsboro|Grantsboro town
+37|27780|Greenevers|Greenevers town
+37|27870|Green Level|Green Level town
+37|28000|Greensboro|Greensboro city
+37|28080|Greenville|Greenville city
+37|28200|Grifton|Grifton town
+37|28240|Grimesland|Grimesland town
+37|28400|Grover|Grover town
+37|28920|Halifax|Halifax town
+37|29120|Hamilton|Hamilton town
+37|29160|Hamlet|Hamlet city
+37|29640|Harmony|Harmony town
+37|29680|Harrells|Harrells town
+37|29720|Harrellsville|Harrellsville town
+37|29800|Harrisburg|Harrisburg town
+37|30040|Hassell|Hassell town
+37|30120|Havelock|Havelock city
+37|30260|Haw River|Haw River town
+37|30280|Hayesville|Hayesville town
+37|30620|Hemby Bridge|Hemby Bridge town
+37|30660|Henderson|Henderson city
+37|30720|Hendersonville|Hendersonville city
+37|30900|Hertford|Hertford town
+37|31060|Hickory|Hickory city
+37|31360|Highlands|Highlands town
+37|31400|High Point|High Point city
+37|31440|High Shoals|High Shoals town
+37|31500|Hildebran|Hildebran town
+37|31620|Hillsborough|Hillsborough town
+37|31860|Hobgood|Hobgood town
+37|31920|Hoffman|Hoffman town
+37|31960|Holden Beach|Holden Beach town
+37|32180|Holly Ridge|Holly Ridge town
+37|32260|Holly Springs|Holly Springs town
+37|32540|Hookerton|Hookerton town
+37|32640|Hope Mills|Hope Mills town
+37|32840|Hot Springs|Hot Springs town
+37|32980|Hudson|Hudson town
+37|33120|Huntersville|Huntersville town
+37|33460|Indian Beach|Indian Beach town
+37|33560|Indian Trail|Indian Trail town
+37|34000|Jackson|Jackson town
+37|34200|Jacksonville|Jacksonville city
+37|34300|Jamestown|Jamestown town
+37|34320|Jamesville|Jamesville town
+37|34440|Jefferson|Jefferson town
+37|34840|Jonesville|Jonesville town
+37|35200|Kannapolis|Kannapolis city
+37|35360|Kelford|Kelford town
+37|35460|Kenansville|Kenansville town
+37|35540|Kenly|Kenly town
+37|35600|Kernersville|Kernersville town
+37|35720|Kill Devil Hills|Kill Devil Hills town
+37|35760|King|King city
+37|35880|Kings Mountain|Kings Mountain city
+37|35890|Kingstown|Kingstown town
+37|35920|Kinston|Kinston city
+37|36020|Kittrell|Kittrell town
+37|36060|Kitty Hawk|Kitty Hawk town
+37|36080|Knightdale|Knightdale town
+37|36220|Kure Beach|Kure Beach town
+37|36400|La Grange|La Grange town
+37|36500|Lake Lure|Lake Lure town
+37|36512|Lake Park|Lake Park village
+37|36514|Lake Santeetlah|Lake Santeetlah town
+37|36640|Lake Waccamaw|Lake Waccamaw town
+37|36860|Landis|Landis town
+37|36960|Lansing|Lansing town
+37|37000|Lasker|Lasker town
+37|37040|Lattimore|Lattimore town
+37|37160|Laurel Park|Laurel Park town
+37|37220|Laurinburg|Laurinburg city
+37|37260|Lawndale|Lawndale town
+37|37640|Leggett|Leggett town
+37|37680|Leland|Leland town
+37|37760|Lenoir|Lenoir city
+37|38030|Lewiston Woodville|Lewiston Woodville town
+37|38040|Lewisville|Lewisville town
+37|38060|Lexington|Lexington city
+37|38100|Liberty|Liberty town
+37|38200|Lilesville|Lilesville town
+37|38220|Lillington|Lillington town
+37|38320|Lincolnton|Lincolnton city
+37|38360|Linden|Linden town
+37|38680|Littleton|Littleton town
+37|38860|Locust|Locust city
+37|39280|Long View|Long View town
+37|39360|Louisburg|Louisburg town
+37|39420|Love Valley|Love Valley town
+37|39480|Lowell|Lowell city
+37|39600|Lucama|Lucama town
+37|39680|Lumber Bridge|Lumber Bridge town
+37|39700|Lumberton|Lumberton city
+37|39880|McAdenville|McAdenville town
+37|39960|Macclesfield|Macclesfield town
+37|40140|McDonald|McDonald town
+37|40240|McFarlan|McFarlan town
+37|40540|Macon|Macon town
+37|40560|Madison|Madison town
+37|40600|Maggie Valley|Maggie Valley town
+37|40640|Magnolia|Magnolia town
+37|40660|Maiden|Maiden town
+37|41060|Manteo|Manteo town
+37|41380|Marietta|Marietta town
+37|41420|Marion|Marion city
+37|41580|Marshall|Marshall town
+37|41620|Mars Hill|Mars Hill town
+37|41640|Marshville|Marshville town
+37|41720|Marvin|Marvin village
+37|41960|Matthews|Matthews town
+37|42020|Maxton|Maxton town
+37|42060|Mayodan|Mayodan town
+37|42100|Maysville|Maysville town
+37|42240|Mebane|Mebane city
+37|42480|Mesic|Mesic town
+37|42620|Micro|Micro town
+37|42640|Middleburg|Middleburg town
+37|42700|Middlesex|Middlesex town
+37|42760|Midland|Midland town
+37|42860|Midway|Midway town
+37|43260|Mills River|Mills River town
+37|43300|Milton|Milton town
+37|43360|Mineral Springs|Mineral Springs town
+37|43440|Minnesott Beach|Minnesott Beach town
+37|43480|Mint Hill|Mint Hill town
+37|43580|Misenheimer|Misenheimer village
+37|43720|Mocksville|Mocksville town
+37|43860|Momeyer|Momeyer town
+37|43920|Monroe|Monroe city
+37|44100|Montreat|Montreat town
+37|44160|Mooresboro|Mooresboro town
+37|44220|Mooresville|Mooresville town
+37|44320|Morehead City|Morehead City town
+37|44400|Morganton|Morganton city
+37|44520|Morrisville|Morrisville town
+37|44560|Morven|Morven town
+37|44800|Mount Airy|Mount Airy city
+37|44900|Mount Gilead|Mount Gilead town
+37|44960|Mount Holly|Mount Holly city
+37|45100|Mount Olive|Mount Olive town
+37|45140|Mount Pleasant|Mount Pleasant town
+37|45640|Murfreesboro|Murfreesboro town
+37|45660|Murphy|Murphy town
+37|45880|Nags Head|Nags Head town
+37|46000|Nashville|Nashville town
+37|46060|Navassa|Navassa town
+37|46340|New Bern|New Bern city
+37|46740|Newland|Newland town
+37|46820|New London|New London town
+37|46860|Newport|Newport town
+37|47000|Newton|Newton city
+37|47020|Newton Grove|Newton Grove town
+37|47240|Norlina|Norlina town
+37|47260|Norman|Norman town
+37|47845|North Topsail Beach|North Topsail Beach town
+37|47860|Northwest|Northwest city
+37|47880|North Wilkesboro|North Wilkesboro town
+37|47980|Norwood|Norwood town
+37|48040|Oakboro|Oakboro town
+37|48060|Oak City|Oak City town
+37|48345|Oak Island|Oak Island town
+37|48480|Oak Ridge|Oak Ridge town
+37|48700|Ocean Isle Beach|Ocean Isle Beach town
+37|48920|Old Fort|Old Fort town
+37|49380|Oriental|Oriental town
+37|49460|Orrum|Orrum town
+37|49600|Ossipee|Ossipee town
+37|49800|Oxford|Oxford city
+37|50080|Pantego|Pantego town
+37|50340|Parkton|Parkton town
+37|50540|Parmele|Parmele town
+37|50700|Patterson Springs|Patterson Springs town
+37|50820|Peachland|Peachland town
+37|51040|Peletier|Peletier town
+37|51080|Pembroke|Pembroke town
+37|51780|Pikeville|Pikeville town
+37|51820|Pilot Mountain|Pilot Mountain town
+37|51840|Pinebluff|Pinebluff town
+37|51940|Pinehurst|Pinehurst village
+37|52000|Pine Knoll Shores|Pine Knoll Shores town
+37|52020|Pine Level|Pine Level town
+37|52140|Pinetops|Pinetops town
+37|52220|Pineville|Pineville town
+37|52400|Pink Hill|Pink Hill town
+37|52660|Pittsboro|Pittsboro town
+37|52760|Pleasant Garden|Pleasant Garden town
+37|53040|Plymouth|Plymouth town
+37|53140|Polkton|Polkton town
+37|53160|Polkville|Polkville city
+37|53200|Pollocksville|Pollocksville town
+37|53680|Powellsville|Powellsville town
+37|53820|Princeton|Princeton town
+37|53840|Princeville|Princeville town
+37|53900|Proctorville|Proctorville town
+37|54580|Raeford|Raeford city
+37|55000|Raleigh|Raleigh city
+37|55040|Ramseur|Ramseur town
+37|55080|Randleman|Randleman city
+37|55260|Ranlo|Ranlo town
+37|55340|Raynham|Raynham town
+37|55460|Red Cross|Red Cross town
+37|55640|Red Oak|Red Oak town
+37|55660|Red Springs|Red Springs town
+37|55900|Reidsville|Reidsville city
+37|55940|Rennert|Rennert town
+37|56240|Rhodhiss|Rhodhiss town
+37|56340|Richfield|Richfield town
+37|56360|Richlands|Richlands town
+37|56440|Rich Square|Rich Square town
+37|56710|River Bend|River Bend town
+37|56900|Roanoke Rapids|Roanoke Rapids city
+37|57000|Robbins|Robbins town
+37|57020|Robbinsville|Robbinsville town
+37|57100|Robersonville|Robersonville town
+37|57260|Rockingham|Rockingham city
+37|57340|Rockwell|Rockwell town
+37|57500|Rocky Mount|Rocky Mount city
+37|57640|Rolesville|Rolesville town
+37|57700|Ronda|Ronda town
+37|57740|Roper|Roper town
+37|57800|Roseboro|Roseboro town
+37|57860|Rose Hill|Rose Hill town
+37|58020|Rosman|Rosman town
+37|58140|Rowland|Rowland town
+37|58160|Roxboro|Roxboro city
+37|58180|Roxobel|Roxobel town
+37|58360|Rural Hall|Rural Hall town
+37|58420|Ruth|Ruth town
+37|58440|Rutherford College|Rutherford College town
+37|58460|Rutherfordton|Rutherfordton town
+37|58620|St. Helena|St. Helena village
+37|58630|St. James|St. James town
+37|58720|St. Pauls|St. Pauls town
+37|58840|Salemburg|Salemburg town
+37|58860|Salisbury|Salisbury city
+37|58920|Saluda|Saluda city
+37|59090|Sandy Creek|Sandy Creek town
+37|59135|Sandyfield|Sandyfield town
+37|59280|Sanford|Sanford city
+37|59340|Saratoga|Saratoga town
+37|59540|Sawmills|Sawmills town
+37|59780|Scotland Neck|Scotland Neck town
+37|59980|Seaboard|Seaboard town
+37|60080|Seagrove|Seagrove town
+37|60180|Sedalia|Sedalia town
+37|60320|Selma|Selma town
+37|60505|Seven Devils|Seven Devils town
+37|60540|Seven Springs|Seven Springs town
+37|60560|Severn|Severn town
+37|60800|Shallotte|Shallotte town
+37|61060|Sharpsburg|Sharpsburg town
+37|61200|Shelby|Shelby city
+37|61860|Siler City|Siler City town
+37|62040|Simpson|Simpson village
+37|62060|Sims|Sims town
+37|62520|Smithfield|Smithfield town
+37|62760|Snow Hill|Snow Hill town
+37|63120|Southern Pines|Southern Pines town
+37|63130|Southern Shores|Southern Shores town
+37|63400|Southport|Southport city
+37|63680|Sparta|Sparta town
+37|63720|Speed|Speed town
+37|63760|Spencer|Spencer town
+37|63780|Spencer Mountain|Spencer Mountain town
+37|63880|Spindale|Spindale town
+37|64160|Spring Hope|Spring Hope town
+37|64180|Spring Lake|Spring Lake town
+37|64260|Spruce Pine|Spruce Pine town
+37|64380|Staley|Staley town
+37|64420|Stallings|Stallings town
+37|64460|Stanfield|Stanfield town
+37|64500|Stanley|Stanley town
+37|64560|Stantonsburg|Stantonsburg town
+37|64580|Star|Star town
+37|64740|Statesville|Statesville city
+37|64840|Stedman|Stedman town
+37|64940|Stem|Stem town
+37|65040|Stokesdale|Stokesdale town
+37|65100|Stoneville|Stoneville town
+37|65120|Stonewall|Stonewall town
+37|65320|Stovall|Stovall town
+37|65530|Sugar Mountain|Sugar Mountain village
+37|65580|Summerfield|Summerfield town
+37|65900|Sunset Beach|Sunset Beach town
+37|66040|Surf City|Surf City town
+37|66360|Swansboro|Swansboro town
+37|66460|Swepsonville|Swepsonville town
+37|66500|Sylva|Sylva town
+37|66520|Tabor City|Tabor City town
+37|66700|Tarboro|Tarboro town
+37|66740|Tar Heel|Tar Heel town
+37|66960|Taylorsville|Taylorsville town
+37|66980|Taylortown|Taylortown town
+37|67000|Teachey|Teachey town
+37|67420|Thomasville|Thomasville city
+37|67720|Tobaccoville|Tobaccoville village
+37|68040|Topsail Beach|Topsail Beach town
+37|68320|Trenton|Trenton town
+37|68340|Trent Woods|Trent Woods town
+37|68400|Trinity|Trinity city
+37|68500|Troutman|Troutman town
+37|68520|Troy|Troy town
+37|68580|Tryon|Tryon town
+37|68740|Turkey|Turkey town
+37|69260|Unionville|Unionville town
+37|69520|Valdese|Valdese town
+37|69680|Vanceboro|Vanceboro town
+37|69720|Vandemere|Vandemere town
+37|69795|Varnamtown|Varnamtown town
+37|69840|Vass|Vass town
+37|70320|Waco|Waco town
+37|70340|Wade|Wade town
+37|70380|Wadesboro|Wadesboro town
+37|70480|Wagram|Wagram town
+37|70540|Wake Forest|Wake Forest town
+37|70660|Walkertown|Walkertown town
+37|70720|Wallace|Wallace town
+37|70740|Wallburg|Wallburg town
+37|70780|Walnut Cove|Walnut Cove town
+37|70820|Walnut Creek|Walnut Creek village
+37|70860|Walstonburg|Walstonburg town
+37|71100|Warrenton|Warrenton town
+37|71160|Warsaw|Warsaw town
+37|71220|Washington|Washington city
+37|71240|Washington Park|Washington Park town
+37|71320|Watha|Watha town
+37|71460|Waxhaw|Waxhaw town
+37|71500|Waynesville|Waynesville town
+37|71560|Weaverville|Weaverville town
+37|71600|Webster|Webster town
+37|71680|Weddington|Weddington town
+37|71780|Weldon|Weldon town
+37|71860|Wendell|Wendell town
+37|71900|Wentworth|Wentworth town
+37|71940|Wesley Chapel|Wesley Chapel village
+37|72540|West Jefferson|West Jefferson town
+37|73140|Whispering Pines|Whispering Pines village
+37|73160|Whitakers|Whitakers town
+37|73300|White Lake|White Lake town
+37|73660|Whiteville|Whiteville city
+37|73760|Whitsett|Whitsett town
+37|74020|Wilkesboro|Wilkesboro town
+37|74220|Williamston|Williamston town
+37|74440|Wilmington|Wilmington city
+37|74540|Wilson|Wilson city
+37|74580|Wilson's Mills|Wilson's Mills town
+37|74680|Windsor|Windsor town
+37|74720|Winfall|Winfall town
+37|74760|Wingate|Wingate town
+37|75000|Winston-Salem|Winston-Salem city
+37|75060|Winterville|Winterville town
+37|75080|Winton|Winton town
+37|75280|Woodfin|Woodfin town
+37|75340|Woodland|Woodland town
+37|75820|Wrightsville Beach|Wrightsville Beach town
+37|75960|Yadkinville|Yadkinville town
+37|76000|Yanceyville|Yanceyville town
+37|76200|Youngsville|Youngsville town
+37|76220|Zebulon|Zebulon town

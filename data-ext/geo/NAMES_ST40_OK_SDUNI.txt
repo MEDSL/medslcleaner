@@ -1,0 +1,427 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+40|00013|Timberlake Public Schools|Timberlake Public Schools
+40|00014|Burns Flat-Dill City Schools|Burns Flat-Dill City Schools
+40|00015|Thomas-Fay-Custer Unified Schools|Thomas-Fay-Custer Unified Schools
+40|00020|Frontier Public Schools|Frontier Public Schools
+40|00021|Oklahoma Union Public Schools|Oklahoma Union Public Schools
+40|00032|Hydro-Eakly Public Schools|Hydro-Eakly Public Schools
+40|02370|Achille Public Schools|Achille Public Schools
+40|02430|Ada Public Schools|Ada Public Schools
+40|02460|Adair Public Schools|Adair Public Schools
+40|02520|Afton Public Schools|Afton Public Schools
+40|02550|Agra Public Schools|Agra Public Schools
+40|02670|Alex Public Schools|Alex Public Schools
+40|02720|Aline-Cleo Public Schools|Aline-Cleo Public Schools
+40|02760|Allen Public Schools|Allen Public Schools
+40|02850|Altus Public Schools|Altus Public Schools
+40|02880|Alva Public Schools|Alva Public Schools
+40|02910|Amber-Pocasset Public Schools|Amber-Pocasset Public Schools
+40|03000|Anadarko Public Schools|Anadarko Public Schools
+40|03060|Antlers Public Schools|Antlers Public Schools
+40|03120|Arapaho Public Schools|Arapaho Public Schools
+40|03180|Ardmore Public Schools|Ardmore Public Schools
+40|03210|Arkoma Public Schools|Arkoma Public Schools
+40|03240|Arnett Public Schools|Arnett Public Schools
+40|03300|Asher Public Schools|Asher Public Schools
+40|03360|Atoka Public Schools|Atoka Public Schools
+40|03510|Balko Public Schools|Balko Public Schools
+40|03570|Barnsdall Public Schools|Barnsdall Public Schools
+40|03630|Bartlesville Public Schools|Bartlesville Public Schools
+40|03660|Battiest Public Schools|Battiest Public Schools
+40|03750|Beaver Public Schools|Beaver Public Schools
+40|03810|Beggs Public Schools|Beggs Public Schools
+40|03930|Bennington Public Schools|Bennington Public Schools
+40|04020|Berryhill Public Schools|Berryhill Public Schools
+40|04110|Bethany Public Schools|Bethany Public Schools
+40|04230|Bethel Public Schools|Bethel Public Schools
+40|04350|Big Pasture Public Schools|Big Pasture Public Schools
+40|04360|Billings Public Schools|Billings Public Schools
+40|04500|Bixby Public Schools|Bixby Public Schools
+40|04630|Blackwell Public Schools|Blackwell Public Schools
+40|04650|Blair Public Schools|Blair Public Schools
+40|04680|Blanchard Public Schools|Blanchard Public Schools
+40|04830|Bluejacket Public Schools|Bluejacket Public Schools
+40|04860|Boise City Public Schools|Boise City Public Schools
+40|04950|Bokoshe Public Schools|Bokoshe Public Schools
+40|05000|Boley Public School|Boley Public School
+40|05010|Boone-Apache Public Schools|Boone-Apache Public Schools
+40|05040|Boswell Public Schools|Boswell Public Schools
+40|05130|Bowlegs Public Schools|Bowlegs Public Schools
+40|05190|Boynton Public Schools|Boynton Public Schools
+40|05280|Braggs Public Schools|Braggs Public Schools
+40|05310|Braman Public Schools|Braman Public Schools
+40|05340|Bray-Doyle Public Schools|Bray-Doyle Public Schools
+40|05400|Bridge Creek Public Schools|Bridge Creek Public Schools
+40|05460|Bristow Public Schools|Bristow Public Schools
+40|05490|Broken Arrow Public Schools|Broken Arrow Public Schools
+40|05520|Broken Bow Public Schools|Broken Bow Public Schools
+40|05760|Buffalo Public Schools|Buffalo Public Schools
+40|05820|Buffalo Valley Public Schools|Buffalo Valley Public Schools
+40|05910|Burlington Public Schools|Burlington Public Schools
+40|06000|Butner Public Schools|Butner Public Schools
+40|06060|Byng Public Schools|Byng Public Schools
+40|06120|Cache Public Schools|Cache Public Schools
+40|06150|Caddo Public Schools|Caddo Public Schools
+40|06180|Calera Public Schools|Calera Public Schools
+40|06240|Calumet Public Schools|Calumet Public Schools
+40|06270|Calvin Public Schools|Calvin Public Schools
+40|06330|Cameron Public Schools|Cameron Public Schools
+40|06390|Canadian Public Schools|Canadian Public Schools
+40|06420|Caney Public Schools|Caney Public Schools
+40|06480|Canton Public Schools|Canton Public Schools
+40|06510|Canute Public Schools|Canute Public Schools
+40|06630|Carnegie Public Schools|Carnegie Public Schools
+40|06690|Carney Public Schools|Carney Public Schools
+40|06810|Cashion Public Schools|Cashion Public Schools
+40|06850|Okemah Public Schools|Okemah Public Schools
+40|06870|Catoosa Public Schools|Catoosa Public Schools
+40|06930|Cave Springs Public Schools|Cave Springs Public Schools
+40|06960|Cement Public Schools|Cement Public Schools
+40|07140|Central Public Schools|Central Public Schools
+40|07170|Central High Public Schools|Central High Public Schools
+40|07290|Chandler Public Schools|Chandler Public Schools
+40|07320|Chattanooga Public Schools|Chattanooga Public Schools
+40|07350|Checotah Public Schools|Checotah Public Schools
+40|07380|Chelsea Public Schools|Chelsea Public Schools
+40|07410|Cherokee Public Schools|Cherokee Public Schools
+40|07500|Cheyenne Public Schools|Cheyenne Public Schools
+40|07560|Chickasha Public Schools|Chickasha Public Schools
+40|07620|Choctaw/Nicoma Park Schools|Choctaw/Nicoma Park Schools
+40|07670|Chouteau-Mazie Public Schools|Chouteau-Mazie Public Schools
+40|07710|Cimarron Public Schools|Cimarron Public Schools
+40|07740|Claremore Public Schools|Claremore Public Schools
+40|07800|Clayton Public Schools|Clayton Public Schools
+40|08040|Cleveland Public Schools|Cleveland Public Schools
+40|08070|Clinton Public Schools|Clinton Public Schools
+40|08130|Coalgate Public Schools|Coalgate Public Schools
+40|08220|Colbert Public Schools|Colbert Public Schools
+40|08250|Colcord Public Schools|Colcord Public Schools
+40|08310|Coleman Public Schools|Coleman Public Schools
+40|08370|Collinsville Public Schools|Collinsville Public Schools
+40|08460|Comanche Public Schools|Comanche Public Schools
+40|08490|Commerce Public Schools|Commerce Public Schools
+40|08610|Copan Public Schools|Copan Public Schools
+40|08640|Cordell Public Schools|Cordell Public Schools
+40|08790|Covington-Douglas Schools|Covington-Douglas Schools
+40|08850|Coweta Public Schools|Coweta Public Schools
+40|08940|Coyle Public Schools|Coyle Public Schools
+40|09000|Crescent Public Schools|Crescent Public Schools
+40|09060|Crooked Oak Public Schools|Crooked Oak Public Schools
+40|09090|Crowder Public Schools|Crowder Public Schools
+40|09240|Cushing Public Schools|Cushing Public Schools
+40|09300|Cyril Public Schools|Cyril Public Schools
+40|09390|Dale Public Schools|Dale Public Schools
+40|09450|Davenport Public Schools|Davenport Public Schools
+40|09480|Davidson Public Schools|Davidson Public Schools
+40|09510|Davis Public Schools|Davis Public Schools
+40|09570|Deer Creek Public Schools|Deer Creek Public Schools
+40|09750|Depew Public Schools|Depew Public Schools
+40|09780|Dewar Public Schools|Dewar Public Schools
+40|09810|Dewey Public Schools|Dewey Public Schools
+40|09870|Dibble Public Schools|Dibble Public Schools
+40|09910|Dickson Public Schools|Dickson Public Schools
+40|10050|Dover Public Schools|Dover Public Schools
+40|10170|Drummond Public Schools|Drummond Public Schools
+40|10200|Drumright Public Schools|Drumright Public Schools
+40|10260|Duke Public Schools|Duke Public Schools
+40|10290|Duncan Public Schools|Duncan Public Schools
+40|10350|Durant Public Schools|Durant Public Schools
+40|10410|Dustin Public Schools|Dustin Public Schools
+40|10440|Eagletown Public Schools|Eagletown Public Schools
+40|10500|Earlsboro Public Schools|Earlsboro Public Schools
+40|10590|Edmond Public Schools|Edmond Public Schools
+40|10650|El Reno Public Schools|El Reno Public Schools
+40|10680|Eldorado Public Schools|Eldorado Public Schools
+40|10710|Elgin Public Schools|Elgin Public Schools
+40|10740|Elk City Public Schools|Elk City Public Schools
+40|10860|Elmore City-Pernell Schools|Elmore City-Pernell Schools
+40|10890|Empire Public Schools|Empire Public Schools
+40|10920|Enid Public Schools|Enid Public Schools
+40|11040|Erick Public Schools|Erick Public Schools
+40|11160|Eufaula Public Schools|Eufaula Public Schools
+40|11250|Fairland Public Schools|Fairland Public Schools
+40|11280|Fairview Public Schools|Fairview Public Schools
+40|11430|Fargo Public Schools|Fargo Public Schools
+40|11580|Felt Public Schools|Felt Public Schools
+40|11700|Fletcher Public Schools|Fletcher Public Schools
+40|11880|Forgan Public Schools|Forgan Public Schools
+40|11970|Fort Gibson Public Schools|Fort Gibson Public Schools
+40|12000|Fort Supply Public Schools|Fort Supply Public Schools
+40|12060|Fox Public Schools|Fox Public Schools
+40|12090|Foyil Public Schools|Foyil Public Schools
+40|12150|Frederick Public Schools|Frederick Public Schools
+40|12180|Freedom Public Schools|Freedom Public Schools
+40|12300|Fort Towson Public Schools|Fort Towson Public Schools
+40|12330|Gage Public Schools|Gage Public Schools
+40|12390|Gans Public Schools|Gans Public Schools
+40|12420|Garber Public Schools|Garber Public Schools
+40|12570|Geary Public Schools|Geary Public Schools
+40|12630|Geronimo Public Schools|Geronimo Public Schools
+40|12690|Glencoe Public Schools|Glencoe Public Schools
+40|12720|Glenpool Public Schools|Glenpool Public Schools
+40|12870|Goodwell Public Schools|Goodwell Public Schools
+40|12900|Gore Public Schools|Gore Public Schools
+40|13080|Gracemont Public Schools|Gracemont Public Schools
+40|13140|Graham Public Schools|Graham Public Schools
+40|13200|Grandfield Public Schools|Grandfield Public Schools
+40|13290|Granite Public Schools|Granite Public Schools
+40|13320|Grant Public School|Grant Public School
+40|13530|Grove Public Schools|Grove Public Schools
+40|13560|Guthrie Public Schools|Guthrie Public Schools
+40|13590|Guymon Public Schools|Guymon Public Schools
+40|13620|Haileyville Public Schools|Haileyville Public Schools
+40|13650|Hammon Public Schools|Hammon Public Schools
+40|13680|Hanna Public Schools|Hanna Public Schools
+40|13740|Hardesty Public Schools|Hardesty Public Schools
+40|13830|Harmony Public School|Harmony Public School
+40|13890|Harrah Public Schools|Harrah Public Schools
+40|13920|Hartshorne Public Schools|Hartshorne Public Schools
+40|13950|Haskell Public Schools|Haskell Public Schools
+40|14080|Haworth Public Schools|Haworth Public Schools
+40|14130|Healdton Public Schools|Healdton Public Schools
+40|14160|Heavener Public Schools|Heavener Public Schools
+40|14340|Hennessey Public Schools|Hennessey Public Schools
+40|14370|Henryetta Public Schools|Henryetta Public Schools
+40|14520|Hilldale Public Schools|Hilldale Public Schools
+40|14610|Hinton Public Schools|Hinton Public Schools
+40|14670|Midway Public Schools|Midway Public Schools
+40|14700|Hobart Public Schools|Hobart Public Schools
+40|14790|Holdenville Public Schools|Holdenville Public Schools
+40|14850|Hollis Public Schools|Hollis Public Schools
+40|14970|Hominy Public Schools|Hominy Public Schools
+40|15090|Hooker Public Schools|Hooker Public Schools
+40|15120|Howe Public Schools|Howe Public Schools
+40|15210|Hugo Public Schools|Hugo Public Schools
+40|15240|Hulbert Public Schools|Hulbert Public Schools
+40|15370|Idabel Public Schools|Idabel Public Schools
+40|15420|Indiahoma Public Schools|Indiahoma Public Schools
+40|15450|Indianola Public Schools|Indianola Public Schools
+40|15480|Inola Public Schools|Inola Public Schools
+40|15690|Jay Public Schools|Jay Public Schools
+40|15720|Jenks Public Schools|Jenks Public Schools
+40|15840|Jones Public Schools|Jones Public Schools
+40|15990|Kansas Public Schools|Kansas Public Schools
+40|16170|Kellyville Public Schools|Kellyville Public Schools
+40|16350|Keota Public Schools|Keota Public Schools
+40|16380|Ketchum Public Schools|Ketchum Public Schools
+40|16410|Keyes Public Schools|Keyes Public Schools
+40|16500|Kiefer Public Schools|Kiefer Public Schools
+40|16560|Kingfisher Public Schools|Kingfisher Public Schools
+40|16590|Kingston Public Schools|Kingston Public Schools
+40|16620|Kinta Public Schools|Kinta Public Schools
+40|16650|Kiowa Public Schools|Kiowa Public Schools
+40|16710|Konawa Public Schools|Konawa Public Schools
+40|16740|Kremlin-Hillsdale Schools|Kremlin-Hillsdale Schools
+40|17020|Deer Creek-Lamont Schools|Deer Creek-Lamont Schools
+40|17190|Latta Public Schools|Latta Public Schools
+40|17220|Laverne Public Schools|Laverne Public Schools
+40|17250|Lawton Public Schools|Lawton Public Schools
+40|17280|LeFlore Public Schools|LeFlore Public Schools
+40|17370|Leedey Public Schools|Leedey Public Schools
+40|17580|Lexington Public Schools|Lexington Public Schools
+40|17760|Liberty Public Schools|Liberty Public Schools
+40|17850|Lindsay Public Schools|Lindsay Public Schools
+40|17880|Little Axe Public Schools|Little Axe Public Schools
+40|18000|Locust Grove Public Schools|Locust Grove Public Schools
+40|18090|Lone Grove Public Schools|Lone Grove Public Schools
+40|18270|Lone Wolf Public Schools|Lone Wolf Public Schools
+40|18390|Lookeba-Sickles Public Schools|Lookeba-Sickles Public Schools
+40|18630|Luther Public Schools|Luther Public Schools
+40|18660|Macomb Public Schools|Macomb Public Schools
+40|18700|Madill Public Schools|Madill Public Schools
+40|18780|Mangum Public Schools|Mangum Public Schools
+40|18840|Mannford Public Schools|Mannford Public Schools
+40|18990|Marietta Public School|Marietta Public School
+40|19080|Marlow Public Schools|Marlow Public Schools
+40|19260|Mason Public Schools|Mason Public Schools
+40|19290|Maud Public Schools|Maud Public Schools
+40|19380|Maysville Public Schools|Maysville Public Schools
+40|19410|McCurtain Public Schools|McCurtain Public Schools
+40|19440|McAlester Public Schools|McAlester Public Schools
+40|19560|McLoud Public Schools|McLoud Public Schools
+40|19620|Medford Public Schools|Medford Public Schools
+40|19680|Meeker Public Schools|Meeker Public Schools
+40|19800|Merritt Public Schools|Merritt Public Schools
+40|19860|Miami Public Schools|Miami Public Schools
+40|19950|Midwest City-Del City Schools|Midwest City-Del City Schools
+40|19980|Milburn Public Schools|Milburn Public Schools
+40|20040|Mill Creek Public Schools|Mill Creek Public Schools
+40|20080|Millwood Public Schools|Millwood Public Schools
+40|20100|Minco Public Schools|Minco Public Schools
+40|20250|Moore Public Schools|Moore Public Schools
+40|20280|Mooreland Public Schools|Mooreland Public Schools
+40|20310|Morris Public Schools|Morris Public Schools
+40|20340|Morrison Public Schools|Morrison Public Schools
+40|20460|Moss Public Schools|Moss Public Schools
+40|20550|Mounds Public Schools|Mounds Public Schools
+40|20880|Muldrow Public Schools|Muldrow Public Schools
+40|20910|Mulhall-Orlando Public Schools|Mulhall-Orlando Public Schools
+40|20970|Muskogee Public Schools|Muskogee Public Schools
+40|21000|Mustang Public Schools|Mustang Public Schools
+40|21030|Sharon-Mutual Public Schools|Sharon-Mutual Public Schools
+40|21180|Navajo Public Schools|Navajo Public Schools
+40|21360|New Lima Public Schools|New Lima Public Schools
+40|21510|Newcastle Public Schools|Newcastle Public Schools
+40|21540|Newkirk Public Schools|Newkirk Public Schools
+40|21600|Ninnekah Public Schools|Ninnekah Public Schools
+40|21630|Noble Public Schools|Noble Public Schools
+40|21720|Norman Public Schools|Norman Public Schools
+40|21780|Chisholm Public Schools|Chisholm Public Schools
+40|21930|Nowata Public Schools|Nowata Public Schools
+40|22410|Oaks-Mission Public Schools|Oaks-Mission Public Schools
+40|22560|Oilton Public Schools|Oilton Public Schools
+40|22590|Okarche Public Schools|Okarche Public Schools
+40|22620|Okay Public Schools|Okay Public Schools
+40|22650|Okeene Public Schools|Okeene Public Schools
+40|22770|Oklahoma City Public Schools|Oklahoma City Public Schools
+40|22800|Okmulgee Public Schools|Okmulgee Public Schools
+40|22830|Oktaha Public Schools|Oktaha Public Schools
+40|22860|Olive Public Schools|Olive Public Schools
+40|22920|Olustee Public Schools|Olustee Public Schools
+40|22950|Lomega Public Schools|Lomega Public Schools
+40|23040|Oologah-Talala Public Schools|Oologah-Talala Public Schools
+40|23280|Owasso Public Schools|Owasso Public Schools
+40|23340|Paden Public Schools|Paden Public Schools
+40|23370|Panama Public Schools|Panama Public Schools
+40|23400|Panola Public Schools|Panola Public Schools
+40|23430|Paoli Public Schools|Paoli Public Schools
+40|23550|Pauls Valley Public Schools|Pauls Valley Public Schools
+40|23580|Pawhuska Public Schools|Pawhuska Public Schools
+40|23610|Pawnee Public Schools|Pawnee Public Schools
+40|23800|Perkins-Tryon Public Schools|Perkins-Tryon Public Schools
+40|23850|Perry Public Schools|Perry Public Schools
+40|23970|Piedmont Public Schools|Piedmont Public Schools
+40|24180|Pittsburg Public Schools|Pittsburg Public Schools
+40|24240|Plainview Public Schools|Plainview Public Schools
+40|24360|Pleasant Grove Public School|Pleasant Grove Public School
+40|24510|Pioneer-Pleasant Vale Schools|Pioneer-Pleasant Vale Schools
+40|24630|Pocola Public Schools|Pocola Public Schools
+40|24690|Ponca City Public Schools|Ponca City Public Schools
+40|24720|Pond Creek-Hunter Schools|Pond Creek-Hunter Schools
+40|24840|Porum Public Schools|Porum Public Schools
+40|24870|Poteau Public Schools|Poteau Public Schools
+40|24930|Prague Public Schools|Prague Public Schools
+40|25050|Preston Public Schools|Preston Public Schools
+40|25170|Prue Public Schools|Prue Public Schools
+40|25200|Pryor Public Schools|Pryor Public Schools
+40|25230|Purcell Public Schools|Purcell Public Schools
+40|25290|Putnam City Public Schools|Putnam City Public Schools
+40|25320|Quapaw Public Schools|Quapaw Public Schools
+40|25410|Quinton Public Schools|Quinton Public Schools
+40|25470|Caney Valley Public Schools|Caney Valley Public Schools
+40|25500|Rattan Public Schools|Rattan Public Schools
+40|25590|Red Oak Public Schools|Red Oak Public Schools
+40|25800|Reydon Public Schools|Reydon Public Schools
+40|25860|Ringling Public Schools|Ringling Public Schools
+40|25920|Ringwood Public Schools|Ringwood Public Schools
+40|25950|Ripley Public Schools|Ripley Public Schools
+40|26280|Roff Public Schools|Roff Public Schools
+40|26310|Roland Public Schools|Roland Public Schools
+40|26550|Rush Springs Public Schools|Rush Springs Public Schools
+40|26610|Ryan Public Schools|Ryan Public Schools
+40|26730|Salina Public Schools|Salina Public Schools
+40|26790|Sallisaw Public Schools|Sallisaw Public Schools
+40|26880|Sand Springs Public Schools|Sand Springs Public Schools
+40|26910|Sapulpa Public Schools|Sapulpa Public Schools
+40|26940|Sasakwa Public Schools|Sasakwa Public Schools
+40|27000|Savanna Public Schools|Savanna Public Schools
+40|27060|Sayre Public Schools|Sayre Public Schools
+40|27090|Schulter Public Schools|Schulter Public Schools
+40|27240|Seiling Public Schools|Seiling Public Schools
+40|27300|Seminole Public Schools|Seminole Public Schools
+40|27330|Sentinel Public Schools|Sentinel Public Schools
+40|27390|Sequoyah Public Schools|Sequoyah Public Schools
+40|27450|Shady Point Public School|Shady Point Public School
+40|27540|Shattuck Public Schools|Shattuck Public Schools
+40|27570|Shawnee Public Schools|Shawnee Public Schools
+40|27630|Shidler Public Schools|Shidler Public Schools
+40|27640|Silo Public Schools|Silo Public Schools
+40|27750|Skiatook Public Schools|Skiatook Public Schools
+40|27840|Smithville Public Schools|Smithville Public Schools
+40|27930|Snyder Public Schools|Snyder Public Schools
+40|27960|Soper Public Schools|Soper Public Schools
+40|28170|Sperry Public Schools|Sperry Public Schools
+40|28200|Spiro Public Schools|Spiro Public Schools
+40|28350|Springer Public Schools|Springer Public Schools
+40|28590|Sterling Public Schools|Sterling Public Schools
+40|28650|Stigler Public Schools|Stigler Public Schools
+40|28680|Stillwater Public Schools|Stillwater Public Schools
+40|28710|Stilwell Public Schools|Stilwell Public Schools
+40|28800|Stonewall Public Schools|Stonewall Public Schools
+40|28980|Stratford Public Schools|Stratford Public Schools
+40|29010|Stringtown Public Schools|Stringtown Public Schools
+40|29040|Strother Public Schools|Strother Public Schools
+40|29070|Stroud Public Schools|Stroud Public Schools
+40|29100|Stuart Public Schools|Stuart Public Schools
+40|29160|Sulphur Public Schools|Sulphur Public Schools
+40|29310|Sweetwater Public Schools|Sweetwater Public Schools
+40|29380|Tahlequah Public Schools|Tahlequah Public Schools
+40|29400|Talihina Public Schools|Talihina Public Schools
+40|29430|Taloga Public Schools|Taloga Public Schools
+40|29610|Tecumseh Public Schools|Tecumseh Public Schools
+40|29640|Temple Public Schools|Temple Public Schools
+40|29820|Texhoma Public Schools|Texhoma Public Schools
+40|29850|Thackerville Public Schools|Thackerville Public Schools
+40|29886|Mountain View-Gotebo Schools|Mountain View-Gotebo Schools
+40|30030|Tipton Public Schools|Tipton Public Schools
+40|30048|Woodland Public Schools|Woodland Public Schools
+40|30060|Tishomingo Public Schools|Tishomingo Public Schools
+40|30120|Tonkawa Public Schools|Tonkawa Public Schools
+40|30197|Porter Consolidated Schools|Porter Consolidated Schools
+40|30240|Tulsa Public Schools|Tulsa Public Schools
+40|30270|Tupelo Public Schools|Tupelo Public Schools
+40|30300|Turner Public Schools|Turner Public Schools
+40|30330|Turpin Public Schools|Turpin Public Schools
+40|30360|Tushka Public Schools|Tushka Public Schools
+40|30420|Tuttle Public Schools|Tuttle Public Schools
+40|30480|Tyrone Public Schools|Tyrone Public Schools
+40|30600|Union Public Schools|Union Public Schools
+40|30630|Union City Public Schools|Union City Public Schools
+40|30870|Valliant Public Schools|Valliant Public Schools
+40|30960|Vanoss Public Schools|Vanoss Public Schools
+40|30990|Varnum Public Schools|Varnum Public Schools
+40|31020|Velma-Alma Public Schools|Velma-Alma Public Schools
+40|31080|Verden Public Schools|Verden Public Schools
+40|31140|Vian Public Schools|Vian Public Schools
+40|31170|Vici Public Schools|Vici Public Schools
+40|31290|Vinita Public Schools|Vinita Public Schools
+40|31350|Wagoner Public Schools|Wagoner Public Schools
+40|31420|Wakita Public Schools|Wakita Public Schools
+40|31470|Walters Public Schools|Walters Public Schools
+40|31500|Wanette Public Schools|Wanette Public Schools
+40|31590|Wapanucka Public Schools|Wapanucka Public Schools
+40|31650|Warner Public Schools|Warner Public Schools
+40|31670|Washita Heights Public Schools|Washita Heights Public Schools
+40|31710|Washington Public Schools|Washington Public Schools
+40|31770|Watonga Public Schools|Watonga Public Schools
+40|31860|Watts Public Schools|Watts Public Schools
+40|31950|Waukomis Public Schools|Waukomis Public Schools
+40|31980|Waurika Public Schools|Waurika Public Schools
+40|32010|Wayne Public Schools|Wayne Public Schools
+40|32040|Waynoka Public Schools|Waynoka Public Schools
+40|32070|Weatherford Public Schools|Weatherford Public Schools
+40|32130|Webbers Falls Public Schools|Webbers Falls Public Schools
+40|32190|Welch Public Schools|Welch Public Schools
+40|32220|Weleetka Public Schools|Weleetka Public Schools
+40|32280|Wellston Public Schools|Wellston Public Schools
+40|32370|Western Heights Public Schools|Western Heights Public Schools
+40|32400|Westville Public Schools|Westville Public Schools
+40|32430|Wetumka Public Schools|Wetumka Public Schools
+40|32460|Wewoka Public Schools|Wewoka Public Schools
+40|32610|White Oak Public Schools|White Oak Public Schools
+40|32730|Whitesboro Public Schools|Whitesboro Public Schools
+40|32790|Wilburton Public Schools|Wilburton Public Schools
+40|32880|Wilson Public Schools|Wilson Public Schools
+40|32940|Wilson Public Schools|Wilson Public Schools
+40|32970|Wister Public Schools|Wister Public Schools
+40|33180|Woodward Public Schools|Woodward Public Schools
+40|33210|Wright City Public Schools|Wright City Public Schools
+40|33240|Wyandotte Public Schools|Wyandotte Public Schools
+40|33300|Wynnewood Public Schools|Wynnewood Public Schools
+40|33330|Wynona Public Schools|Wynona Public Schools
+40|33360|Yale Public Schools|Yale Public Schools
+40|33390|Yarbrough Public Schools|Yarbrough Public Schools
+40|33480|Yukon Public Schools|Yukon Public Schools
+40|33601|Rock Creek Public Schools|Rock Creek Public Schools
+40|33602|Fort Cobb-Broxton Schools|Fort Cobb-Broxton Schools
+40|33603|Binger-Oney Public Schools|Binger-Oney Public Schools

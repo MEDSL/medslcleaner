@@ -1,0 +1,91 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+04|02830|Apache Junction|Apache Junction city
+04|04720|Avondale|Avondale city
+04|05770|Benson|Benson city
+04|06260|Bisbee|Bisbee city
+04|07940|Buckeye|Buckeye town
+04|08220|Bullhead City|Bullhead City city
+04|09690|Camp Verde|Camp Verde town
+04|10180|Carefree|Carefree town
+04|10530|Casa Grande|Casa Grande city
+04|11300|Cave Creek|Cave Creek town
+04|12000|Chandler|Chandler city
+04|12840|Chino Valley|Chino Valley town
+04|13890|Clarkdale|Clarkdale town
+04|14380|Clifton|Clifton town
+04|14870|Colorado City|Colorado City town
+04|15500|Coolidge|Coolidge city
+04|16410|Cottonwood|Cottonwood city
+04|19145|Dewey-Humboldt|Dewey-Humboldt town
+04|20050|Douglas|Douglas city
+04|20750|Duncan|Duncan town
+04|20960|Eagar|Eagar town
+04|22220|El Mirage|El Mirage city
+04|22360|Eloy|Eloy city
+04|23620|Flagstaff|Flagstaff city
+04|23760|Florence|Florence town
+04|25300|Fountain Hills|Fountain Hills town
+04|25720|Fredonia|Fredonia town
+04|27050|Gila Bend|Gila Bend town
+04|27400|Gilbert|Gilbert town
+04|27820|Glendale|Glendale city
+04|28030|Globe|Globe city
+04|28380|Goodyear|Goodyear city
+04|30270|Guadalupe|Guadalupe town
+04|32020|Hayden|Hayden town
+04|33280|Holbrook|Holbrook city
+04|34120|Huachuca City|Huachuca City town
+04|36290|Jerome|Jerome town
+04|37200|Kearny|Kearny town
+04|37620|Kingman|Kingman city
+04|39370|Lake Havasu City|Lake Havasu City city
+04|41330|Litchfield Park|Litchfield Park city
+04|43990|Mammoth|Mammoth town
+04|44270|Marana|Marana town
+04|44410|Maricopa|Maricopa city
+04|46000|Mesa|Mesa city
+04|46350|Miami|Miami town
+04|49640|Nogales|Nogales city
+04|51600|Oro Valley|Oro Valley town
+04|51810|Page|Page city
+04|52930|Paradise Valley|Paradise Valley town
+04|53070|Parker|Parker town
+04|53490|Patagonia|Patagonia town
+04|53700|Payson|Payson town
+04|54050|Peoria|Peoria city
+04|55000|Phoenix|Phoenix city
+04|55560|Pima|Pima town
+04|55980|Pinetop-Lakeside|Pinetop-Lakeside town
+04|57380|Prescott|Prescott city
+04|57450|Prescott Valley|Prescott Valley town
+04|58010|Quartzsite|Quartzsite town
+04|58150|Queen Creek|Queen Creek town
+04|62000|Safford|Safford city
+04|62140|Sahuarita|Sahuarita town
+04|62350|St. Johns|St. Johns city
+04|63470|San Luis|San Luis city
+04|65000|Scottsdale|Scottsdale city
+04|65350|Sedona|Sedona city
+04|66470|Show Low|Show Low city
+04|66820|Sierra Vista|Sierra Vista city
+04|67800|Snowflake|Snowflake town
+04|68080|Somerton|Somerton city
+04|68850|South Tucson|South Tucson city
+04|68990|Springerville|Springerville town
+04|69480|Star Valley|Star Valley town
+04|71300|Superior|Superior town
+04|71510|Surprise|Surprise city
+04|72420|Taylor|Taylor town
+04|73000|Tempe|Tempe city
+04|73420|Thatcher|Thatcher town
+04|74190|Tolleson|Tolleson city
+04|74400|Tombstone|Tombstone city
+04|77000|Tucson|Tucson city
+04|81480|Wellton|Wellton town
+04|82740|Wickenburg|Wickenburg town
+04|83090|Willcox|Willcox city
+04|83160|Williams|Williams city
+04|83790|Winkelman|Winkelman town
+04|83930|Winslow|Winslow city
+04|85400|Youngtown|Youngtown town
+04|85540|Yuma|Yuma city

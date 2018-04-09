@@ -1,0 +1,100 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+56|00245|Afton|Afton town
+56|00825|Albin|Albin town
+56|01695|Alpine|Alpine town
+56|04740|Baggs|Baggs town
+56|04885|Bairoil|Bairoil town
+56|05245|Bar Nunn|Bar Nunn town
+56|05320|Basin|Basin town
+56|05625|Bear River|Bear River town
+56|07060|Big Piney|Big Piney town
+56|10685|Buffalo|Buffalo city
+56|11120|Burlington|Burlington town
+56|11265|Burns|Burns town
+56|11700|Byron|Byron town
+56|13150|Casper|Casper city
+56|13900|Cheyenne|Cheyenne city
+56|14165|Chugwater|Chugwater town
+56|15325|Clearmont|Clearmont town
+56|15760|Cody|Cody city
+56|15905|Cokeville|Cokeville town
+56|17645|Cowley|Cowley town
+56|19385|Dayton|Dayton town
+56|19530|Deaver|Deaver town
+56|20110|Diamondville|Diamondville town
+56|20690|Dixon|Dixon town
+56|21125|Douglas|Douglas city
+56|21415|Dubois|Dubois town
+56|22720|East Thermopolis|East Thermopolis town
+56|23155|Edgerton|Edgerton town
+56|24025|Elk Mountain|Elk Mountain town
+56|24750|Encampment|Encampment town
+56|25620|Evanston|Evanston city
+56|25765|Evansville|Evansville town
+56|28230|Fort Laramie|Fort Laramie town
+56|29825|Frannie|Frannie town
+56|31855|Gillette|Gillette city
+56|32290|Glendo|Glendo town
+56|32435|Glenrock|Glenrock town
+56|32870|Granger|Granger town
+56|33740|Green River|Green River city
+56|33885|Greybull|Greybull town
+56|34320|Guernsey|Guernsey town
+56|35335|Hanna|Hanna town
+56|35625|Hartville|Hartville town
+56|38960|Hudson|Hudson town
+56|39105|Hulett|Hulett town
+56|40120|Jackson|Jackson town
+56|41353|Kaycee|Kaycee town
+56|42005|Kemmerer|Kemmerer city
+56|42730|Kirby|Kirby town
+56|43455|La Barge|La Barge town
+56|43745|La Grange|La Grange town
+56|44760|Lander|Lander city
+56|45050|Laramie|Laramie city
+56|46790|Lingle|Lingle town
+56|47805|Lost Springs|Lost Springs town
+56|47950|Lovell|Lovell town
+56|48530|Lusk|Lusk town
+56|48675|Lyman|Lyman town
+56|49980|Manderson|Manderson town
+56|50270|Manville|Manville town
+56|50415|Marbleton|Marbleton town
+56|51575|Medicine Bow|Medicine Bow town
+56|51720|Meeteetse|Meeteetse town
+56|52445|Midwest|Midwest town
+56|53460|Mills|Mills town
+56|54185|Moorcroft|Moorcroft town
+56|55345|Mountain View|Mountain View town
+56|56215|Newcastle|Newcastle city
+56|57810|Opal|Opal town
+56|60130|Pavillion|Pavillion town
+56|61435|Pine Bluffs|Pine Bluffs town
+56|61580|Pinedale|Pinedale town
+56|61610|Pine Haven|Pine Haven town
+56|62450|Powell|Powell city
+56|63755|Ranchester|Ranchester town
+56|63900|Rawlins|Rawlins city
+56|66075|Riverside|Riverside town
+56|66220|Riverton|Riverton city
+56|67090|Rock River|Rock River town
+56|67235|Rock Springs|Rock Springs city
+56|67440|Rolling Hills|Rolling Hills town
+56|68685|Saratoga|Saratoga town
+56|69845|Sheridan|Sheridan city
+56|70570|Shoshoni|Shoshoni town
+56|71150|Sinclair|Sinclair town
+56|73180|Star Valley Ranch|Star Valley Ranch town
+56|74195|Sundance|Sundance town
+56|74775|Superior|Superior town
+56|75790|Ten Sleep|Ten Sleep town
+56|76370|Thayne|Thayne town
+56|76515|Thermopolis|Thermopolis town
+56|77530|Torrington|Torrington city
+56|79125|Upton|Upton town
+56|79705|Van Tassell|Van Tassell town
+56|81300|Wamsutter|Wamsutter town
+56|83040|Wheatland|Wheatland town
+56|84925|Worland|Worland city
+56|85015|Wright|Wright town
+56|86665|Yoder|Yoder town

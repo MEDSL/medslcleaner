@@ -1,0 +1,31 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+40|2595|Osage|Osage Reservation
+40|5540|Caddo-Wichita-Delaware|Caddo-Wichita-Delaware OTSA
+40|5550|Cherokee|Cherokee OTSA
+40|5560|Cheyenne-Arapaho|Cheyenne-Arapaho OTSA
+40|5580|Chickasaw|Chickasaw OTSA
+40|5590|Choctaw|Choctaw OTSA
+40|5600|Citizen Potawatomi Nation-Absentee Shawnee|Citizen Potawatomi Nation-Absentee Shawnee OTSA
+40|5620|Creek|Creek OTSA
+40|5640|Eastern Shawnee|Eastern Shawnee OTSA
+40|5670|Iowa|Iowa OTSA
+40|5690|Kaw|Kaw OTSA
+40|5700|Kickapoo|Kickapoo OTSA
+40|5720|Kiowa-Comanche-Apache-Fort Sill Apache|Kiowa-Comanche-Apache-Fort Sill Apache OTSA
+40|5730|Miami|Miami OTSA
+40|5740|Modoc|Modoc OTSA
+40|5760|Otoe-Missouria|Otoe-Missouria OTSA
+40|5770|Ottawa|Ottawa OTSA
+40|5780|Pawnee|Pawnee OTSA
+40|5795|Peoria|Peoria OTSA
+40|5800|Ponca|Ponca OTSA
+40|5810|Quapaw|Quapaw OTSA
+40|5820|Sac and Fox|Sac and Fox OTSA
+40|5830|Seminole|Seminole OTSA
+40|5835|Seneca-Cayuga|Seneca-Cayuga OTSA
+40|5860|Tonkawa|Tonkawa OTSA
+40|5890|Wyandotte|Wyandotte OTSA
+40|5915|Creek/Seminole|Creek/Seminole joint-use OTSA
+40|5950|Kaw/Ponca|Kaw/Ponca joint-use OTSA
+40|5955|Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware|Kiowa-Comanche-Apache-Ft Sill Apache/Caddo-Wichita-Delaware joint-use OTSA
+40|5970|Miami/Peoria|Miami/Peoria joint-use OTSA

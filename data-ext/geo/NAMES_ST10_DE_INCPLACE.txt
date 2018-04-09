@@ -1,0 +1,58 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+10|01400|Arden|Arden village
+10|01530|Ardencroft|Ardencroft village
+10|01660|Ardentown|Ardentown village
+10|04650|Bellefonte|Bellefonte town
+10|05690|Bethany Beach|Bethany Beach town
+10|05820|Bethel|Bethel town
+10|06730|Blades|Blades town
+10|07250|Bowers|Bowers town
+10|08680|Bridgeville|Bridgeville town
+10|10760|Camden|Camden town
+10|14660|Cheswold|Cheswold town
+10|15440|Clayton|Clayton town
+10|18950|Dagsboro|Dagsboro town
+10|19730|Delaware City|Delaware City city
+10|20380|Delmar|Delmar town
+10|20900|Dewey Beach|Dewey Beach town
+10|21200|Dover|Dover city
+10|24020|Ellendale|Ellendale town
+10|24540|Elsmere|Elsmere town
+10|25840|Farmington|Farmington town
+10|26620|Felton|Felton town
+10|26880|Fenwick Island|Fenwick Island town
+10|28310|Frankford|Frankford town
+10|28440|Frederica|Frederica town
+10|29090|Georgetown|Georgetown town
+10|31560|Greenwood|Greenwood town
+10|33120|Harrington|Harrington city
+10|33250|Hartly|Hartly town
+10|33900|Henlopen Acres|Henlopen Acres town
+10|36760|Houston|Houston town
+10|39100|Kenton|Kenton town
+10|41310|Laurel|Laurel town
+10|41700|Leipsic|Leipsic town
+10|41830|Lewes|Lewes city
+10|42870|Little Creek|Little Creek town
+10|44430|Magnolia|Magnolia town
+10|47030|Middletown|Middletown town
+10|47420|Milford|Milford city
+10|47940|Millsboro|Millsboro town
+10|48200|Millville|Millville town
+10|48330|Milton|Milton town
+10|50670|Newark|Newark city
+10|50800|New Castle|New Castle city
+10|51190|Newport|Newport town
+10|53920|Ocean View|Ocean View town
+10|54050|Odessa|Odessa town
+10|60290|Rehoboth Beach|Rehoboth Beach city
+10|64320|Seaford|Seaford city
+10|64840|Selbyville|Selbyville town
+10|67050|Slaughter Beach|Slaughter Beach town
+10|67310|Smyrna|Smyrna town
+10|67700|South Bethany|South Bethany town
+10|72510|Townsend|Townsend town
+10|74330|Viola|Viola town
+10|77580|Wilmington|Wilmington city
+10|80830|Woodside|Woodside town
+10|81350|Wyoming|Wyoming town

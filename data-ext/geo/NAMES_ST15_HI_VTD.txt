@@ -1,0 +1,345 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+15|001|0101|Ikuo Hisaoka Gym|Ikuo Hisaoka Gym Voting District
+15|001|0102|Kohala Inter Sch|Kohala Inter Sch Voting District
+15|001|0103|Fannie Kanekoa Garage|Fannie Kanekoa Garage Voting District
+15|001|0104|Honokaa Hi Sch|Honokaa Hi Sch Voting District
+15|001|0105|Paauilo Elem Sch|Paauilo Elem Sch Voting District
+15|001|0106|Ookala Carpenter Shop|Ookala Carpenter Shop Voting District
+15|001|0107|Laupahoehoe Comm-Sch Library|Laupahoehoe Comm-Sch Library Voting District
+15|001|0108|Honohina Hongwanji|Honohina Hongwanji Voting District
+15|001|0109|Hakalau Gym|Hakalau Gym Voting District
+15|001|0110|Honomu Gym|Honomu Gym Voting District
+15|001|0111|Kulaimano Community Ctr|Kulaimano Community Ctr Voting District
+15|001|0112|Kalanianaole Elem/Inter Sch|Kalanianaole Elem/Inter Sch Voting District
+15|001|0113|Puueo Multi-Culture Ctr|Puueo Multi-Culture Ctr Voting District
+15|001|0114|Hilo Union Elem Sch|Hilo Union Elem Sch Voting District
+15|001|0115|Hale Ho'onanea Bed & Breakfast|Hale Ho'onanea Bed & Breakfast Voting District
+15|001|0201|Ernest B. DeSilva Elem Sch|Ernest B. DeSilva Elem Sch Voting District
+15|001|0202|Hilo Inter Sch|Hilo Inter Sch Voting District
+15|001|0203|Hilo Hi Sch|Hilo Hi Sch Voting District
+15|001|0204|St. Joseph Hi Sch|St. Joseph Hi Sch Voting District
+15|001|0205|Edith Kanakaole Tennis Stad|Edith Kanakaole Tennis Stad Voting District
+15|001|0206|Waiakea Hi Sch|Waiakea Hi Sch Voting District
+15|001|0207|Waiakea Elem Sch|Waiakea Elem Sch Voting District
+15|001|0208|Kaumana Elem Sch|Kaumana Elem Sch Voting District
+15|001|0301|UH-Hilo - Campus Ctr|UH-Hilo - Campus Ctr Voting District
+15|001|0302|AJA Memorial Hall|AJA Memorial Hall Voting District
+15|001|0303|Waiakea Inter Sch|Waiakea Inter Sch Voting District
+15|001|0304|Waiakeawaena Elem Sch|Waiakeawaena Elem Sch Voting District
+15|001|0305|Keaukaha Elem Sch|Keaukaha Elem Sch Voting District
+15|001|0306|Keaau Elem/Inter Sch|Keaau Elem/Inter Sch Voting District
+15|001|0307|Waiakeawaena Elem Sch|Waiakeawaena Elem Sch Voting District
+15|001|0308|Mt View Comm Gym|Mt View Comm Gym Voting District
+15|001|0401|Mt View Elem Sch|Mt View Elem Sch Voting District
+15|001|0402|Ainaloa Longhouse|Ainaloa Longhouse Voting District
+15|001|0403|Hawaiian Paradise Comm Ctr|Hawaiian Paradise Comm Ctr Voting District
+15|001|0404|Pahoa Hi Sch|Pahoa Hi Sch Voting District
+15|001|0405|Cooper Center|Cooper Center Voting District
+15|001|0406|Kau High Sch|Kau High Sch Voting District
+15|001|0407|Naalehu Elem Sch|Naalehu Elem Sch Voting District
+15|001|0408|Ocean View Comm Ctr|Ocean View Comm Ctr Voting District
+15|001|0501|Milolii Halau|Milolii Halau Voting District
+15|001|0502|Hookena Elem Sch|Hookena Elem Sch Voting District
+15|001|0503|Cooper Ctr|Cooper Ctr Voting District
+15|001|0504|Kau High Sch|Kau High Sch Voting District
+15|001|0505|Konawaena Hi Sch|Konawaena Hi Sch Voting District
+15|001|0506|Kona Imin Ctr|Kona Imin Ctr Voting District
+15|001|0507|Keauhou Fire Station|Keauhou Fire Station Voting District
+15|001|0508|Lutheran Ch of the Holy Trinity|Lutheran Ch of the Holy Trinity Voting District
+15|001|0509|St Benedict Catholic Church|St Benedict Catholic Church Voting District
+15|001|0510|Honaunau Elem Sch|Honaunau Elem Sch Voting District
+15|001|0511|Kona Vistas Rec Ctr|Kona Vistas Rec Ctr Voting District
+15|001|0512|Konawaena Elem Sch|Konawaena Elem Sch Voting District
+15|001|0601|Keauhou Fire Station|Keauhou Fire Station Voting District
+15|001|0602|Kahakai Elem Sch|Kahakai Elem Sch Voting District
+15|001|0603|Kona Vistas Rec Ctr|Kona Vistas Rec Ctr Voting District
+15|001|0604|Kona Imin Ctr|Kona Imin Ctr Voting District
+15|001|0605|Old Kona Airport Pavilion|Old Kona Airport Pavilion Voting District
+15|001|0606|Kealakehe Elem Sch|Kealakehe Elem Sch Voting District
+15|001|0607|Kailua View Estates Recreation Ctr|Kailua View Estates Recreation Ctr Voting District
+15|001|0608|Kealakehe Inter Sch|Kealakehe Inter Sch Voting District
+15|001|0701|Kealakehe High Sch|Kealakehe High Sch Voting District
+15|001|0702|Kona Palisades Community Ctr|Kona Palisades Community Ctr Voting District
+15|001|0703|Waikoloa Elem Sch|Waikoloa Elem Sch Voting District
+15|001|0704|Spencer Park Pavilion|Spencer Park Pavilion Voting District
+15|001|0705|Waimea Elem/Inter Sch|Waimea Elem/Inter Sch Voting District
+15|001|0706|Waimea Civic Ctr|Waimea Civic Ctr Voting District
+15|001|0707|Waimea New Hope Church|Waimea New Hope Church Voting District
+15|001|0708|Puuanahulu Community Ctr|Puuanahulu Community Ctr Voting District
+15|001|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+15|003|1701|Kaiser High Sch|Kaiser High Sch Voting District
+15|003|1702|Koko Head District Park (A&C Bldg)|Koko Head District Park (A&C Bldg) Voting District
+15|003|1703|1703|Voting District 1703
+15|003|1704|Koko Head District Park (Mtg Rm)|Koko Head District Park (Mtg Rm) Voting District
+15|003|1705|1705|Voting District 1705
+15|003|1706|1706|Voting District 1706
+15|003|1707|1707|Voting District 1707
+15|003|1801|Hahaione Elem Sch (Bldg F)|Hahaione Elem Sch (Bldg F) Voting District
+15|003|1802|JAIMS|JAIMS Voting District
+15|003|1803|1803|Voting District 1803
+15|003|1804|1804|Voting District 1804
+15|003|1805|1805|Voting District 1805
+15|003|1806|Aina Haina Comm Park (Rec Ctr)|Aina Haina Comm Park (Rec Ctr) Voting District
+15|003|1807|1807|Voting District 1807
+15|003|1901|1901|Voting District 1901
+15|003|1902|1902|Voting District 1902
+15|003|1903|1903|Voting District 1903
+15|003|1904|1904|Voting District 1904
+15|003|1905|Kilauea Rec Ctr|Kilauea Rec Ctr Voting District
+15|003|1906|1906|Voting District 1906
+15|003|1907|1907|Voting District 1907
+15|003|2001|2001|Voting District 2001
+15|003|2002|2002|Voting District 2002
+15|003|2003|2003|Voting District 2003
+15|003|2004|2004|Voting District 2004
+15|003|2005|Jarrett Middle Sch|Jarrett Middle Sch Voting District
+15|003|2006|2006|Voting District 2006
+15|003|2101|Sacred Hearts Academy|Sacred Hearts Academy Voting District
+15|003|2102|HI Ctr for Deaf/Blind|HI Ctr for Deaf/Blind Voting District
+15|003|2103|2103|Voting District 2103
+15|003|2104|2104|Voting District 2104
+15|003|2105|2105|Voting District 2105
+15|003|2106|Kaimuki High Sch|Kaimuki High Sch Voting District
+15|003|2201|2201|Voting District 2201
+15|003|2202|Kuhio Elem Sch|Kuhio Elem Sch Voting District
+15|003|2203|2203|Voting District 2203
+15|003|2204|2204|Voting District 2204
+15|003|2205|Spalding Clubhouse|Spalding Clubhouse Voting District
+15|003|2206|2206|Voting District 2206
+15|003|2207|2207|Voting District 2207
+15|003|2301|Waikiki Baptist Church|Waikiki Baptist Church Voting District
+15|003|2302|2302|Voting District 2302
+15|003|2303|Ala Wai Comm Park|Ala Wai Comm Park Voting District
+15|003|2304|AAFES Building|AAFES Building Voting District
+15|003|2401|St Pius X Church|St Pius X Church Voting District
+15|003|2402|2402|Voting District 2402
+15|003|2403|University Laboratory Sch|University Laboratory Sch Voting District
+15|003|2404|Central Union Church|Central Union Church Voting District
+15|003|2405|Manoa Valley District Park|Manoa Valley District Park Voting District
+15|003|2406|Manoa Elem Sch|Manoa Elem Sch Voting District
+15|003|2501|Roosevelt High School|Roosevelt High School Voting District
+15|003|2502|Christ United Methodist Church|Christ United Methodist Church Voting District
+15|003|2503|2503|Voting District 2503
+15|003|2504|Olivet Baptist Church|Olivet Baptist Church Voting District
+15|003|2505|Makiki District Park (Admin Bldg)|Makiki District Park (Admin Bldg) Voting District
+15|003|2506|Lincoln Elem Sch|Lincoln Elem Sch Voting District
+15|003|2507|2507|Voting District 2507
+15|003|2601|2601|Voting District 2601
+15|003|2602|2602|Voting District 2602
+15|003|2603|Stevenson Middle Sch|Stevenson Middle Sch Voting District
+15|003|2604|2604|Voting District 2604
+15|003|2605|2605|Voting District 2605
+15|003|2606|2606|Voting District 2606
+15|003|2607|2607|Voting District 2607
+15|003|2701|International Baptist Church|International Baptist Church Voting District
+15|003|2702|Puunui Playground|Puunui Playground Voting District
+15|003|2703|2703|Voting District 2703
+15|003|2704|2704|Voting District 2704
+15|003|2705|2705|Voting District 2705
+15|003|2706|2706|Voting District 2706
+15|003|2707|2707|Voting District 2707
+15|003|2708|2708|Voting District 2708
+15|003|2801|2801|Voting District 2801
+15|003|2802|McKinley Comm Sch for Adults|McKinley Comm Sch for Adults Voting District
+15|003|2803|2803|Voting District 2803
+15|003|2804|2804|Voting District 2804
+15|003|2805|Central Middle Sch (Caf)|Central Middle Sch (Caf) Voting District
+15|003|2806|Kalanihuia HHA|Kalanihuia HHA Voting District
+15|003|2901|Fern Elem Sch|Fern Elem Sch Voting District
+15|003|2902|Kalihi Waena Elem Sch|Kalihi Waena Elem Sch Voting District
+15|003|2903|Farrington High Sch|Farrington High Sch Voting District
+15|003|2904|Puuhale Elem Sch|Puuhale Elem Sch Voting District
+15|003|2905|Kalakaua Middle Sch|Kalakaua Middle Sch Voting District
+15|003|3001|3001|Voting District 3001
+15|003|3002|3002|Voting District 3002
+15|003|3003|Kapalama Elem Sch (Caf)|Kapalama Elem Sch (Caf) Voting District
+15|003|3004|3004|Voting District 3004
+15|003|3005|Moanalua Elem Sch|Moanalua Elem Sch Voting District
+15|003|3006|3006|Voting District 3006
+15|003|3101|Moanalua Middle Sch|Moanalua Middle Sch Voting District
+15|003|3102|Moanalua High Sch|Moanalua High Sch Voting District
+15|003|3103|Aliamanu Elem Sch|Aliamanu Elem Sch Voting District
+15|003|3104|Salt Lake District Park (Mtg Rm)|Salt Lake District Park (Mtg Rm) Voting District
+15|003|3105|3105|Voting District 3105
+15|003|3201|3201|Voting District 3201
+15|003|3202|3202|Voting District 3202
+15|003|3203|Aliamanu Middle Sch|Aliamanu Middle Sch Voting District
+15|003|3204|3204|Voting District 3204
+15|003|3205|Radford High Sch|Radford High Sch Voting District
+15|003|3206|3206|Voting District 3206
+15|003|3207|Aiea Elem Sch|Aiea Elem Sch Voting District
+15|003|3208|Alvah A Scott Elem Sch|Alvah A Scott Elem Sch Voting District
+15|003|3301|Red Hill Elem Sch|Red Hill Elem Sch Voting District
+15|003|3302|Halawa District Park|Halawa District Park Voting District
+15|003|3303|Webling Elem Sch|Webling Elem Sch Voting District
+15|003|3304|Aiea High Sch|Aiea High Sch Voting District
+15|003|3305|Pearlridge Elem Sch|Pearlridge Elem Sch Voting District
+15|003|3306|Waimalu Elem Sch|Waimalu Elem Sch Voting District
+15|003|3401|3401|Voting District 3401
+15|003|3402|Waiau Elem Sch|Waiau Elem Sch Voting District
+15|003|3403|Waimalu Elem Sch|Waimalu Elem Sch Voting District
+15|003|3404|Highlands Inter Sch|Highlands Inter Sch Voting District
+15|003|3405|Manana Comm Park|Manana Comm Park Voting District
+15|003|3406|3406|Voting District 3406
+15|003|3407|Calvary Chapel of Honolulu|Calvary Chapel of Honolulu Voting District
+15|003|3501|3501|Voting District 3501
+15|003|3502|Waipahu High Sch|Waipahu High Sch Voting District
+15|003|3503|3503|Voting District 3503
+15|003|3504|3504|Voting District 3504
+15|003|3505|Waipahu Fld (Rec Bldg)|Waipahu Fld (Rec Bldg) Voting District
+15|003|3506|3506|Voting District 3506
+15|003|3601|3601|Voting District 3601
+15|003|3602|3602|Voting District 3602
+15|003|3603|3603|Voting District 3603
+15|003|3604|Leeward Community College|Leeward Community College Voting District
+15|003|3605|3605|Voting District 3605
+15|003|3606|3606|Voting District 3606
+15|003|3607|Palisades Baptist Church|Palisades Baptist Church Voting District
+15|003|3701|3701|Voting District 3701
+15|003|3702|Mililani High Sch|Mililani High Sch Voting District
+15|003|3703|3703|Voting District 3703
+15|003|3704|3704|Voting District 3704
+15|003|3801|3801|Voting District 3801
+15|003|3802|3802|Voting District 3802
+15|003|3803|Mililani Waena Elem Sch|Mililani Waena Elem Sch Voting District
+15|003|3804|Mililani High Sch|Mililani High Sch Voting District
+15|003|3805|3805|Voting District 3805
+15|003|3901|3901|Voting District 3901
+15|003|3902|3902|Voting District 3902
+15|003|3903|Leilehua High Sch|Leilehua High Sch Voting District
+15|003|3904|Wahiawa Middle Sch|Wahiawa Middle Sch Voting District
+15|003|3905|Pacific Islands Bible Church|Pacific Islands Bible Church Voting District
+15|003|3906|3906|Voting District 3906
+15|003|4001|Kaleiopuu Elem Sch|Kaleiopuu Elem Sch Voting District
+15|003|4002|4002|Voting District 4002
+15|003|4003|Kapolei High Sch|Kapolei High Sch Voting District
+15|003|4004|4004|Voting District 4004
+15|003|4005|4005|Voting District 4005
+15|003|4006|4006|Voting District 4006
+15|003|4101|Waikele Elem Sch|Waikele Elem Sch Voting District
+15|003|4102|4102|Voting District 4102
+15|003|4103|Honowai Elem Sch|Honowai Elem Sch Voting District
+15|003|4104|Waipahu Elem Sch|Waipahu Elem Sch Voting District
+15|003|4105|4105|Voting District 4105
+15|003|4106|Hoaeae Community Park|Hoaeae Community Park Voting District
+15|003|4201|Waipahu Field (Rec Bldg)|Waipahu Field (Rec Bldg) Voting District
+15|003|4202|4202|Voting District 4202
+15|003|4203|Kahi Mohala|Kahi Mohala Voting District
+15|003|4204|Ewa Elem Sch|Ewa Elem Sch Voting District
+15|003|4205|Ilima Inter Sch|Ilima Inter Sch Voting District
+15|003|4301|Asing Park|Asing Park Voting District
+15|003|4302|Holomua Elem Sch|Holomua Elem Sch Voting District
+15|003|4303|Campbell High Sch|Campbell High Sch Voting District
+15|003|4304|Kaimiloa Elem Sch|Kaimiloa Elem Sch Voting District
+15|003|4305|4305|Voting District 4305
+15|003|4306|Ewa Beach Elem Sch|Ewa Beach Elem Sch Voting District
+15|003|4401|Kamokila Park|Kamokila Park Voting District
+15|003|4402|Nanakuli Elem Sch|Nanakuli Elem Sch Voting District
+15|003|4403|4403|Voting District 4403
+15|003|4404|4404|Voting District 4404
+15|003|4501|4501|Voting District 4501
+15|003|4502|4502|Voting District 4502
+15|003|4503|Kamaile Elem Sch|Kamaile Elem Sch Voting District
+15|003|4504|4504|Voting District 4504
+15|003|4601|Laie Elem Sch|Laie Elem Sch Voting District
+15|003|4602|National Guard Armory|National Guard Armory Voting District
+15|003|4603|4603|Voting District 4603
+15|003|4604|4604|Voting District 4604
+15|003|4605|4605|Voting District 4605
+15|003|4606|Kahuku High/Inter Sch|Kahuku High/Inter Sch Voting District
+15|003|4701|4701|Voting District 4701
+15|003|4702|4702|Voting District 4702
+15|003|4703|KEY Project|KEY Project Voting District
+15|003|4704|King Inter Sch|King Inter Sch Voting District
+15|003|4705|Windward Community College|Windward Community College Voting District
+15|003|4706|4706|Voting District 4706
+15|003|4801|Heeia Elem Sch|Heeia Elem Sch Voting District
+15|003|4802|4802|Voting District 4802
+15|003|4803|Castle High Sch|Castle High Sch Voting District
+15|003|4804|Kaneohe Elem Sch|Kaneohe Elem Sch Voting District
+15|003|4805|4805|Voting District 4805
+15|003|4901|4901|Voting District 4901
+15|003|4902|4902|Voting District 4902
+15|003|4903|4903|Voting District 4903
+15|003|4904|Kailua High Sch|Kailua High Sch Voting District
+15|003|4905|4905|Voting District 4905
+15|003|4906|Parker United Methodist Church|Parker United Methodist Church Voting District
+15|003|4907|Benjamin Parker Elem Sch|Benjamin Parker Elem Sch Voting District
+15|003|5001|5001|Voting District 5001
+15|003|5002|5002|Voting District 5002
+15|003|5003|5003|Voting District 5003
+15|003|5004|5004|Voting District 5004
+15|003|5005|5005|Voting District 5005
+15|003|5006|Kalaheo High Sch|Kalaheo High Sch Voting District
+15|003|5007|5007|Voting District 5007
+15|003|5101|5101|Voting District 5101
+15|003|5102|5102|Voting District 5102
+15|003|5103|Pope Elementary School|Pope Elementary School Voting District
+15|003|5104|5104|Voting District 5104
+15|003|5105|5105|Voting District 5105
+15|003|5106|5106|Voting District 5106
+15|003|5107|Kailua Field|Kailua Field Voting District
+15|003|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+15|005|1312|Kalaupapa Settlement|Kalaupapa Settlement Voting District
+15|005|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+15|007|1401|1401|Voting District 1401
+15|007|1402|Kilauea Elem School|Kilauea Elem School Voting District
+15|007|1403|1403|Voting District 1403
+15|007|1404|1404|Voting District 1404
+15|007|1405|Kapaa Neighborhood Ctr|Kapaa Neighborhood Ctr Voting District
+15|007|1501|1501|Voting District 1501
+15|007|1502|1502|Voting District 1502
+15|007|1503|Kauai War Memorial Conv Hall|Kauai War Memorial Conv Hall Voting District
+15|007|1504|Chiefess Kamakahelei Middle Sch|Chiefess Kamakahelei Middle Sch Voting District
+15|007|1505|Koloa Neighborhood Center|Koloa Neighborhood Center Voting District
+15|007|1601|Koloa Elem Sch|Koloa Elem Sch Voting District
+15|007|1602|Kalaheo Neighborhood Ctr|Kalaheo Neighborhood Ctr Voting District
+15|007|1603|1603|Voting District 1603
+15|007|1604|Kaumakani Neighborhood Ctr|Kaumakani Neighborhood Ctr Voting District
+15|007|1605|Waimea Neighborhood Ctr|Waimea Neighborhood Ctr Voting District
+15|007|1606|Kekaha Neighborhood Ctr|Kekaha Neighborhood Ctr Voting District
+15|007|1607|Niihau Elem/High Sch|Niihau Elem/High Sch Voting District
+15|007|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+15|009|0801|0801|Voting District 0801
+15|009|0802|Velma McWayne Santos Comm Ctr|Velma McWayne Santos Comm Ctr Voting District
+15|009|0803|Baldwin High Sch|Baldwin High Sch Voting District
+15|009|0804|Paukukalo Hwn Homes Comm Ctr|Paukukalo Hwn Homes Comm Ctr Voting District
+15|009|0805|Wailuku Elem Sch|Wailuku Elem Sch Voting District
+15|009|0806|Waikapu Comm Ctr|Waikapu Comm Ctr Voting District
+15|009|0807|Maui Economic Opportunity Ctr|Maui Economic Opportunity Ctr Voting District
+15|009|0901|Iao Sch|Iao Sch Voting District
+15|009|0902|0902|Voting District 0902
+15|009|0903|Lihikai Elem Sch|Lihikai Elem Sch Voting District
+15|009|0904|Maui High Sch|Maui High Sch Voting District
+15|009|0905|0905|Voting District 0905
+15|009|0906|Kahului Hongwanji Mission|Kahului Hongwanji Mission Voting District
+15|009|0907|0907|Voting District 0907
+15|009|1001|Kenolio Rec Complex|Kenolio Rec Complex Voting District
+15|009|1002|1002|Voting District 1002
+15|009|1003|1003|Voting District 1003
+15|009|1004|Princess Nahienaena Elem Sch|Princess Nahienaena Elem Sch Voting District
+15|009|1005|Lahaina Civic Ctr|Lahaina Civic Ctr Voting District
+15|009|1006|Honolua United Meth Ch|Honolua United Meth Ch Voting District
+15|009|1101|Trinity Episcopal Church by the Sea|Trinity Episcopal Church by the Sea Voting District
+15|009|1102|Kamailii Elem Sch|Kamailii Elem Sch Voting District
+15|009|1103|1103|Voting District 1103
+15|009|1104|Kihei Elem Sch|Kihei Elem Sch Voting District
+15|009|1201|Kalama Inter Sch|Kalama Inter Sch Voting District
+15|009|1202|1202|Voting District 1202
+15|009|1203|1203|Voting District 1203
+15|009|1204|1204|Voting District 1204
+15|009|1205|1205|Voting District 1205
+15|009|1206|1206|Voting District 1206
+15|009|1207|Ulapalakua Ranch|Ulapalakua Ranch Voting District
+15|009|1301|1301|Voting District 1301
+15|009|1302|1302|Voting District 1302
+15|009|1303|1303|Voting District 1303
+15|009|1304|Kaulanpueo Church|Kaulanpueo Church Voting District
+15|009|1305|1305|Voting District 1305
+15|009|1306|1306|Voting District 1306
+15|009|1307|1307|Voting District 1307
+15|009|1308|1308|Voting District 1308
+15|009|1309|1309|Voting District 1309
+15|009|1310|Maunaloa Elem Sch|Maunaloa Elem Sch Voting District
+15|009|1311|1311|Voting District 1311
+15|009|ZZZZZZ|Voting Districts not defined|Voting Districts not defined

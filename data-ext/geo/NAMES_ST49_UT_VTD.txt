@@ -1,0 +1,2300 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+49|001|BVR1|Beaver 1|Beaver 1 Voting District
+49|001|BVR2|Beaver 2|Beaver 2 Voting District
+49|001|BVR3IA|Beaver 3 Incorporated - Part A|Beaver 3 Incorporated - Part A Voting District
+49|001|BVR3IB|Beaver 3 Incorporated - Part B|Beaver 3 Incorporated - Part B Voting District
+49|001|BVR3IC|Beaver 3 Incorporated - Part C|Beaver 3 Incorporated - Part C Voting District
+49|001|BVR3ID|Beaver 3 Incorporated - Part D|Beaver 3 Incorporated - Part D Voting District
+49|001|BVR3IE|Beaver 3 Incorporated - Part E|Beaver 3 Incorporated - Part E Voting District
+49|001|BVR3IF|Beaver 3 Incorporated - Part F|Beaver 3 Incorporated - Part F Voting District
+49|001|BVR3U|Beaver 3 Unincorporated|Beaver 3 Unincorporated Voting District
+49|001|GRL1|Greenville|Greenville Voting District
+49|001|MLF1I|Milford 1 Incorporated|Milford 1 Incorporated Voting District
+49|001|MLF1U|Milford 1 Unincorporated|Milford 1 Unincorporated Voting District
+49|001|MLF2I|Milford 2 Incorporated|Milford 2 Incorporated Voting District
+49|001|MLF2U|Milford 2 Unincorporated|Milford 2 Unincorporated Voting District
+49|001|MNR1I|Minersville Incorporated|Minersville Incorporated Voting District
+49|001|MNR1U|Minersville Unincorporated|Minersville Unincorporated Voting District
+49|003|BDM01|Beaver Dam|Beaver Dam Voting District
+49|003|BDM01F|Beaver Dam Fire Service District|Beaver Dam Fire Service District Voting District
+49|003|BRC01|Brigham City 01|Brigham City 01 Voting District
+49|003|BRC02|Brigham City 02|Brigham City 02 Voting District
+49|003|BRC03|Brigham City 03|Brigham City 03 Voting District
+49|003|BRC04|Brigham City 04|Brigham City 04 Voting District
+49|003|BRC05|Brigham City 05|Brigham City 05 Voting District
+49|003|BRC06|Brigham City 06|Brigham City 06 Voting District
+49|003|BRC07|Brigham City 07|Brigham City 07 Voting District
+49|003|BRC08|Brigham City 08|Brigham City 08 Voting District
+49|003|BRC09|Brigham City 09|Brigham City 09 Voting District
+49|003|BRC10|Brigham City 10|Brigham City 10 Voting District
+49|003|BRC11|Brigham City 11|Brigham City 11 Voting District
+49|003|BRC12|Brigham City 12|Brigham City 12 Voting District
+49|003|BRC13|Brigham City 13|Brigham City 13 Voting District
+49|003|BRC14|Brigham City 14|Brigham City 14 Voting District
+49|003|BRE01|Bear River East|Bear River East Voting District
+49|003|BRN01|Brigham Northwest 01|Brigham Northwest 01 Voting District
+49|003|BRN01F|Brigham Northwest Fire Service District 01|Brigham Northwest Fire Service District 01 Voting District
+49|003|BRN02|Brigham Northwest 02|Brigham Northwest 02 Voting District
+49|003|BRN02F|Brigham Northwest Fire Service District 02|Brigham Northwest Fire Service District 02 Voting District
+49|003|BRV01M|Bear River Municipality|Bear River Municipality Voting District
+49|003|BRV01U|Bear River Unincorporated 1|Bear River Unincorporated 1 Voting District
+49|003|BRV02U|Bear River Unincorporated 2|Bear River Unincorporated 2 Voting District
+49|003|CCR01|Clear Creak|Clear Creak Voting District
+49|003|COR01M|Corinne Municipality|Corinne Municipality Voting District
+49|003|COR01U|Corinne Unincorporated 1|Corinne Unincorporated 1 Voting District
+49|003|COR02U|Corinne Unincorporated 2|Corinne Unincorporated 2 Voting District
+49|003|COR03U|Corinne Unincorporated 3|Corinne Unincorporated 3 Voting District
+49|003|DEW01F|Deweyville Unincorporated Fire Service District 1|Deweyville Unincorporated Fire Service District 1 Voting District
+49|003|DEW01M|Deweyville Municipality|Deweyville Municipality Voting District
+49|003|DEW01U|Deweyville Unincorporated 1|Deweyville Unincorporated 1 Voting District
+49|003|DEW02F|Deweyville Unincorporated Fire Service District 2|Deweyville Unincorporated Fire Service District 2 Voting District
+49|003|DEW02U|Deweyville Unincorporated 2|Deweyville Unincorporated 2 Voting District
+49|003|DEW03F|Deweyville Unincorporated Fire Service District 3|Deweyville Unincorporated Fire Service District 3 Voting District
+49|003|ELW01F|Elwood Unincorporated Fire Service District 1|Elwood Unincorporated Fire Service District 1 Voting District
+49|003|ELW01M|Elwood Municipality|Elwood Municipality Voting District
+49|003|ELW01U|Elwood Unincorporated|Elwood Unincorporated Voting District
+49|003|ELW02F|Elwood Unincorporated Fire Service District 2|Elwood Unincorporated Fire Service District 2 Voting District
+49|003|ELW03F|Elwood Unincorporated Fire Service District 3|Elwood Unincorporated Fire Service District 3 Voting District
+49|003|ELW04F|Elwood Unincorporated Fire Service District 4|Elwood Unincorporated Fire Service District 4 Voting District
+49|003|ELW05F|Elwood Unincorporated Fire Service District 5|Elwood Unincorporated Fire Service District 5 Voting District
+49|003|ELW06F|Elwood Unincorporated Fire Service District 6|Elwood Unincorporated Fire Service District 6 Voting District
+49|003|ELW07F|Elwood Unincorporated Fire Service District 7|Elwood Unincorporated Fire Service District 7 Voting District
+49|003|ELW08F|Elwood Unincorporated Fire Service District 8|Elwood Unincorporated Fire Service District 8 Voting District
+49|003|FIE01|Fielding 1|Fielding 1 Voting District
+49|003|FIE02|Fielding 2|Fielding 2 Voting District
+49|003|GAR01M|Garland Municipality 1|Garland Municipality 1 Voting District
+49|003|GAR01U|Garland Unincorporated 1|Garland Unincorporated 1 Voting District
+49|003|GAR02M|Garland Municipality 2|Garland Municipality 2 Voting District
+49|003|GAR02U|Garland Unincorporated 2|Garland Unincorporated 2 Voting District
+49|003|GAR03U|Garland Unincorporated 3|Garland Unincorporated 3 Voting District
+49|003|GAR04U|Garland Unincorporated 4|Garland Unincorporated 4 Voting District
+49|003|GAR05U|Garland Unincorporated 5|Garland Unincorporated 5 Voting District
+49|003|GCR01|Grouse Creek|Grouse Creek Voting District
+49|003|GEA01|Garland East|Garland East Voting District
+49|003|HON01F|Honeyville Municipality Fire Service District|Honeyville Municipality Fire Service District Voting District
+49|003|HON01M|Honeyville Municipality|Honeyville Municipality Voting District
+49|003|HOW01M|Howell Municipality|Howell Municipality Voting District
+49|003|HOW01U|Howell Unincorporated|Howell Unincorporated Voting District
+49|003|LAK01A|Great Salt Lake|Great Salt Lake Voting District
+49|003|MAN01M|Mantua Municipality|Mantua Municipality Voting District
+49|003|MAN01U|Mantua Unincorporated|Mantua Unincorporated Voting District
+49|003|PER01|Perry 1|Perry 1 Voting District
+49|003|PER02|Perry 2|Perry 2 Voting District
+49|003|PER03|Perry 3|Perry 3 Voting District
+49|003|PER04|Perry 4|Perry 4 Voting District
+49|003|PLY01M|Plymouth Municipality|Plymouth Municipality Voting District
+49|003|PLY01U|Plymouth Unincorporated|Plymouth Unincorporated Voting District
+49|003|POR01M|Portage Municipality|Portage Municipality Voting District
+49|003|POR01U|Portage Unincorporated|Portage Unincorporated Voting District
+49|003|PRO01|Promontory|Promontory Voting District
+49|003|PVA01|Park Valley|Park Valley Voting District
+49|003|RIV01|Riverside|Riverside Voting District
+49|003|SNO01M|Snowville Municipality|Snowville Municipality Voting District
+49|003|SNO01U|Snowville Unincorporated|Snowville Unincorporated Voting District
+49|003|SWL01|South Willard|South Willard Voting District
+49|003|TRE01M|Tremonton Municipality 1|Tremonton Municipality 1 Voting District
+49|003|TRE02M|Tremonton Municipality 2|Tremonton Municipality 2 Voting District
+49|003|TRE02U|Tremonton Unincorporated 2|Tremonton Unincorporated 2 Voting District
+49|003|TRE03F|Tremonton Unincorporated Fire Service District|Tremonton Unincorporated Fire Service District Voting District
+49|003|TRE03M|Tremonton Municipality 3|Tremonton Municipality 3 Voting District
+49|003|TRE04M|Tremonton Municipality 4|Tremonton Municipality 4 Voting District
+49|003|TRE05M|Tremonton Municipality 5|Tremonton Municipality 5 Voting District
+49|003|TWS01|Tremonton West|Tremonton West Voting District
+49|003|WIL01|Willard|Willard Voting District
+49|003|YOS01|Yost|Yost Voting District
+49|005|AMA01|Amalga|Amalga Voting District
+49|005|BEN01|Benson|Benson Voting District
+49|005|CLA01A|Clarkston 01A|Clarkston 01A Voting District
+49|005|CLA01B|Clarkston 01B|Clarkston 01B Voting District
+49|005|COR01|Cornish|Cornish Voting District
+49|005|COV01|Cove|Cove Voting District
+49|005|CYO01A|College Young 01A|College Young 01A Voting District
+49|005|CYO01B|College Young 01B|College Young 01B Voting District
+49|005|HPA01|Hyde Park 01|Hyde Park 01 Voting District
+49|005|HPA02|Hyde Park 02|Hyde Park 02 Voting District
+49|005|HYR01|Hyrum 01|Hyrum 01 Voting District
+49|005|HYR02A|Hyrum 02A|Hyrum 02A Voting District
+49|005|HYR02B|Hyrum 02B|Hyrum 02B Voting District
+49|005|HYR02C|Hyrum 02C|Hyrum 02C Voting District
+49|005|HYR03|Hyrum 03|Hyrum 03 Voting District
+49|005|HYR04|Hyrum 04|Hyrum 04 Voting District
+49|005|HYR05|Hyrum 05|Hyrum 05 Voting District
+49|005|LEW01|Lewiston 01|Lewiston 01 Voting District
+49|005|LEW02|Lewiston 02|Lewiston 02 Voting District
+49|005|LOG01|Logan 01|Logan 01 Voting District
+49|005|LOG02|Logan 02|Logan 02 Voting District
+49|005|LOG03|Logan 03|Logan 03 Voting District
+49|005|LOG04|Logan 04|Logan 04 Voting District
+49|005|LOG05|Logan 05|Logan 05 Voting District
+49|005|LOG06|Logan 06|Logan 06 Voting District
+49|005|LOG07|Logan 07|Logan 07 Voting District
+49|005|LOG08|Logan 08|Logan 08 Voting District
+49|005|LOG09|Logan 09|Logan 09 Voting District
+49|005|LOG10|Logan 10|Logan 10 Voting District
+49|005|LOG11|Logan 11|Logan 11 Voting District
+49|005|LOG12|Logan 12|Logan 12 Voting District
+49|005|LOG13|Logan 13|Logan 13 Voting District
+49|005|LOG14|Logan 14|Logan 14 Voting District
+49|005|LOG15|Logan 15|Logan 15 Voting District
+49|005|LOG16|Logan 16|Logan 16 Voting District
+49|005|LOG17|Logan 17|Logan 17 Voting District
+49|005|LOG18|Logan 18|Logan 18 Voting District
+49|005|LOG19|Logan 19|Logan 19 Voting District
+49|005|LOG20|Logan 20|Logan 20 Voting District
+49|005|LOG21|Logan 21|Logan 21 Voting District
+49|005|LOG22|Logan 22|Logan 22 Voting District
+49|005|LOG23|Logan 23|Logan 23 Voting District
+49|005|LOG24|Logan 24|Logan 24 Voting District
+49|005|LOG25|Logan 25|Logan 25 Voting District
+49|005|LOG26|Logan 26|Logan 26 Voting District
+49|005|LOG27|Logan 27|Logan 27 Voting District
+49|005|LOG28|Logan 28|Logan 28 Voting District
+49|005|LOG29|Logan 29|Logan 29 Voting District
+49|005|LOG30|Logan 30|Logan 30 Voting District
+49|005|LOG31|Logan 31|Logan 31 Voting District
+49|005|LOG32|Logan 32|Logan 32 Voting District
+49|005|LOG33|Logan 33|Logan 33 Voting District
+49|005|MEN01|Mendon 01|Mendon 01 Voting District
+49|005|MEN02|Mendon 02|Mendon 02 Voting District
+49|005|MIL01|Millville 01|Millville 01 Voting District
+49|005|MIL02|Millville 02|Millville 02 Voting District
+49|005|NEW01|Newton|Newton Voting District
+49|005|NIB01|Nibley 01|Nibley 01 Voting District
+49|005|NIB02|Nibley 02|Nibley 02 Voting District
+49|005|NLO01|North Logan 01|North Logan 01 Voting District
+49|005|NLO02|North Logan 02|North Logan 02 Voting District
+49|005|NLO03|North Logan 03|North Logan 03 Voting District
+49|005|NLO04|North Logan 04|North Logan 04 Voting District
+49|005|NLO05|North Logan 05|North Logan 05 Voting District
+49|005|NLO06|North Logan 06|North Logan 06 Voting District
+49|005|PAR01|Paradise|Paradise Voting District
+49|005|PRO01|Providence 01|Providence 01 Voting District
+49|005|PRO02|Providence 02|Providence 02 Voting District
+49|005|PRO03|Providence 03|Providence 03 Voting District
+49|005|PRO04|Providence 04|Providence 04 Voting District
+49|005|PRO05|Providence 05|Providence 05 Voting District
+49|005|RHE01|River Heights 01|River Heights 01 Voting District
+49|005|RIC01|Richmond 01|Richmond 01 Voting District
+49|005|RIC02|Richmond 02|Richmond 02 Voting District
+49|005|SMI01|Smithfield 01|Smithfield 01 Voting District
+49|005|SMI02|Smithfield 02|Smithfield 02 Voting District
+49|005|SMI03|Smithfield 03|Smithfield 03 Voting District
+49|005|SMI04|Smithfield 04|Smithfield 04 Voting District
+49|005|SMI05|Smithfield 05|Smithfield 05 Voting District
+49|005|SMI06|Smithfield 06|Smithfield 06 Voting District
+49|005|SMI07|Smithfield 07|Smithfield 07 Voting District
+49|005|TRE01|Trenton|Trenton Voting District
+49|005|WEL01|Wellsville 01|Wellsville 01 Voting District
+49|005|WEL02|Wellsville 02|Wellsville 02 Voting District
+49|005|WEL03|Wellsville 03|Wellsville 03 Voting District
+49|005|WEL04|Wellsville 04|Wellsville 04 Voting District
+49|005|ZZZ|Unpopulated|Unpopulated Voting District
+49|007|CA09|Carbonville|Carbonville Voting District
+49|007|CH11|Castle Heights North|Castle Heights North Voting District
+49|007|CH12|Castle Heights|Castle Heights Voting District
+49|007|CP13|Northeast Price|Northeast Price Voting District
+49|007|CP14|Central Price|Central Price Voting District
+49|007|EA02|East County|East County Voting District
+49|007|EC22|East Carbon North|East Carbon North Voting District
+49|007|EC23|East Carbon South|East Carbon South Voting District
+49|007|EH08|East Helper|East Helper Voting District
+49|007|EP17|East Price|East Price Voting District
+49|007|FG16|Fairgrounds|Fairgrounds Voting District
+49|007|IH18|Indian Hills|Indian Hills Voting District
+49|007|MC25|Miller Creek Special|Miller Creek Special Voting District
+49|007|NP10|North Price|North Price Voting District
+49|007|SC04|Scofield Incorporated|Scofield Incorporated Voting District
+49|007|SC05|Scofield Unincorporated|Scofield Unincorporated Voting District
+49|007|SC19|South County|South County Voting District
+49|007|SG03|Spring Glen|Spring Glen Voting District
+49|007|SP15|South Price|South Price Voting District
+49|007|SS21|Sunnyside|Sunnyside Voting District
+49|007|WH06|West Helper|West Helper Voting District
+49|007|WN20|Wellington North|Wellington North Voting District
+49|007|WS24|Wellington South|Wellington South Voting District
+49|007|WW07|Westwood|Westwood Voting District
+49|009|BP03|Browns Park|Browns Park Voting District
+49|009|DA01|Daggett|Daggett Voting District
+49|009|MA02|Manila|Manila Voting District
+49|011|BO01|Bountiful 1|Bountiful 1 Voting District
+49|011|BO02|Bountiful 2|Bountiful 2 Voting District
+49|011|BO03|Bountiful 3|Bountiful 3 Voting District
+49|011|BO04|Bountiful 4|Bountiful 4 Voting District
+49|011|BO05|Bountiful 5|Bountiful 5 Voting District
+49|011|BO06|Bountiful 6|Bountiful 6 Voting District
+49|011|BO07|Bountiful 7|Bountiful 7 Voting District
+49|011|BO08|Bountiful 8|Bountiful 8 Voting District
+49|011|BO09|Bountiful 9|Bountiful 9 Voting District
+49|011|BO10|Bountiful 10|Bountiful 10 Voting District
+49|011|BO11|Bountiful 11|Bountiful 11 Voting District
+49|011|BO12|Bountiful 12|Bountiful 12 Voting District
+49|011|BO13|Bountiful 13|Bountiful 13 Voting District
+49|011|BO14|Bountiful 14|Bountiful 14 Voting District
+49|011|BO15|Bountiful 15|Bountiful 15 Voting District
+49|011|BO16|Bountiful 16|Bountiful 16 Voting District
+49|011|BO17|Bountiful 17|Bountiful 17 Voting District
+49|011|BO18|Bountiful 18|Bountiful 18 Voting District
+49|011|BO19|Bountiful 19|Bountiful 19 Voting District
+49|011|BO20|Bountiful 20|Bountiful 20 Voting District
+49|011|BO21|Bountiful 21|Bountiful 21 Voting District
+49|011|BO22|Bountiful 22|Bountiful 22 Voting District
+49|011|BO23|Bountiful 23|Bountiful 23 Voting District
+49|011|BO24|Bountiful 24|Bountiful 24 Voting District
+49|011|BO25|Bountiful 25|Bountiful 25 Voting District
+49|011|BO26|Bountiful 26|Bountiful 26 Voting District
+49|011|BO27|Bountiful 27|Bountiful 27 Voting District
+49|011|BO28|Bountiful 28|Bountiful 28 Voting District
+49|011|BO29|Bountiful 29|Bountiful 29 Voting District
+49|011|BO30|Bountiful 30|Bountiful 30 Voting District
+49|011|CE01|Centerville 1|Centerville 1 Voting District
+49|011|CE02|Centerville 2|Centerville 2 Voting District
+49|011|CE03|Centerville 3|Centerville 3 Voting District
+49|011|CE04|Centerville 4|Centerville 4 Voting District
+49|011|CE05|Centerville 5|Centerville 5 Voting District
+49|011|CE06|Centerville 6|Centerville 6 Voting District
+49|011|CE07|Centerville 7|Centerville 7 Voting District
+49|011|CE08|Centerville 8|Centerville 8 Voting District
+49|011|CE09|Centerville 9|Centerville 9 Voting District
+49|011|CE10|Centerville 10|Centerville 10 Voting District
+49|011|CE11|Centerville 11|Centerville 11 Voting District
+49|011|CF01|Clearfield 1|Clearfield 1 Voting District
+49|011|CF02|Clearfield 2|Clearfield 2 Voting District
+49|011|CF03|Clearfield 3|Clearfield 3 Voting District
+49|011|CF04|Clearfield 4|Clearfield 4 Voting District
+49|011|CF05|Clearfield 5|Clearfield 5 Voting District
+49|011|CF06|Clearfield 6|Clearfield 6 Voting District
+49|011|CF07|Clearfield 7|Clearfield 7 Voting District
+49|011|CF08|Clearfield 8|Clearfield 8 Voting District
+49|011|CF09|Clearfield 9|Clearfield 9 Voting District
+49|011|CF10|Clearfield 10|Clearfield 10 Voting District
+49|011|CF11|Clearfield 11|Clearfield 11 Voting District
+49|011|CF12|Clearfield 12|Clearfield 12 Voting District
+49|011|CF13|Clearfield 13|Clearfield 13 Voting District
+49|011|CF14|Clearfield 14|Clearfield 14 Voting District
+49|011|CL01|Clinton 1|Clinton 1 Voting District
+49|011|CL02|Clinton 2|Clinton 2 Voting District
+49|011|CL03|Clinton 3|Clinton 3 Voting District
+49|011|CL04|Clinton 4|Clinton 4 Voting District
+49|011|CL05|Clinton 5|Clinton 5 Voting District
+49|011|CL06|Clinton 6|Clinton 6 Voting District
+49|011|CL07|Clinton 7|Clinton 7 Voting District
+49|011|CL08|Clinton 8|Clinton 8 Voting District
+49|011|CL09|Clinton 9|Clinton 9 Voting District
+49|011|CL10|Clinton 10|Clinton 10 Voting District
+49|011|FA01|Farmington 1|Farmington 1 Voting District
+49|011|FA02|Farmington 2|Farmington 2 Voting District
+49|011|FA03|Farmington 3|Farmington 3 Voting District
+49|011|FA04|Farmington 4|Farmington 4 Voting District
+49|011|FA05|Farmington 5|Farmington 5 Voting District
+49|011|FA06|Farmington 6|Farmington 6 Voting District
+49|011|FA07|Farmington 7|Farmington 7 Voting District
+49|011|FA08|Farmington 8|Farmington 8 Voting District
+49|011|FA09|Farmington 9|Farmington 9 Voting District
+49|011|FA10|Farmington 10|Farmington 10 Voting District
+49|011|FA11|Farmington 11|Farmington 11 Voting District
+49|011|FH01|Fruit Heights 1|Fruit Heights 1 Voting District
+49|011|FH02|Fruit Heights 2|Fruit Heights 2 Voting District
+49|011|FH03|Fruit Heights 3|Fruit Heights 3 Voting District
+49|011|FH04|Fruit Heights 4|Fruit Heights 4 Voting District
+49|011|HA01|Hill Air Force Base 1|Hill Air Force Base 1 Voting District
+49|011|HA02|Hill Air Force Base 2|Hill Air Force Base 2 Voting District
+49|011|JC01|Job Corps 1|Job Corps 1 Voting District
+49|011|KA01|Kaysville 1|Kaysville 1 Voting District
+49|011|KA02|Kaysville 2|Kaysville 2 Voting District
+49|011|KA03|Kaysville 3|Kaysville 3 Voting District
+49|011|KA04|Kaysville 4|Kaysville 4 Voting District
+49|011|KA05|Kaysville 5|Kaysville 5 Voting District
+49|011|KA06|Kaysville 6|Kaysville 6 Voting District
+49|011|KA07|Kaysville 7|Kaysville 7 Voting District
+49|011|KA08|Kaysville 8|Kaysville 8 Voting District
+49|011|KA09|Kaysville 9|Kaysville 9 Voting District
+49|011|KA10|Kaysville 10|Kaysville 10 Voting District
+49|011|KA11|Kaysville 11|Kaysville 11 Voting District
+49|011|KA12|Kaysville 12|Kaysville 12 Voting District
+49|011|KA13|Kaysville 13|Kaysville 13 Voting District
+49|011|KA14|Kaysville 14|Kaysville 14 Voting District
+49|011|KA15|Kaysville 15|Kaysville 15 Voting District
+49|011|KA16|Kaysville 16|Kaysville 16 Voting District
+49|011|LA01|Layton 1|Layton 1 Voting District
+49|011|LA02|Layton 2|Layton 2 Voting District
+49|011|LA03|Layton 3|Layton 3 Voting District
+49|011|LA04|Layton 4|Layton 4 Voting District
+49|011|LA05|Layton 5|Layton 5 Voting District
+49|011|LA06|Layton 6|Layton 6 Voting District
+49|011|LA07|Layton 7|Layton 7 Voting District
+49|011|LA08|Layton 8|Layton 8 Voting District
+49|011|LA09|Layton 9|Layton 9 Voting District
+49|011|LA10|Layton 10|Layton 10 Voting District
+49|011|LA11|Layton 11|Layton 11 Voting District
+49|011|LA12|Layton 12|Layton 12 Voting District
+49|011|LA13|Layton 13|Layton 13 Voting District
+49|011|LA14|Layton 14|Layton 14 Voting District
+49|011|LA15|Layton 15|Layton 15 Voting District
+49|011|LA16|Layton 16|Layton 16 Voting District
+49|011|LA17|Layton 17|Layton 17 Voting District
+49|011|LA18|Layton 18|Layton 18 Voting District
+49|011|LA19|Layton 19|Layton 19 Voting District
+49|011|LA20|Layton 20|Layton 20 Voting District
+49|011|LA21|Layton 21|Layton 21 Voting District
+49|011|LA22|Layton 22|Layton 22 Voting District
+49|011|LA23|Layton 23|Layton 23 Voting District
+49|011|LA24|Layton 24|Layton 24 Voting District
+49|011|LA25|Layton 25|Layton 25 Voting District
+49|011|LA26|Layton 26|Layton 26 Voting District
+49|011|LA27|Layton 27|Layton 27 Voting District
+49|011|LA28|Layton 28|Layton 28 Voting District
+49|011|LA29|Layton 29|Layton 29 Voting District
+49|011|LA30|Layton 30|Layton 30 Voting District
+49|011|LA31|Layton 31|Layton 31 Voting District
+49|011|LA32|Layton 32|Layton 32 Voting District
+49|011|LA33|Layton 33|Layton 33 Voting District
+49|011|LA34|Layton 34|Layton 34 Voting District
+49|011|LA35|Layton 35|Layton 35 Voting District
+49|011|LA36|Layton 36|Layton 36 Voting District
+49|011|LA37|Layton 37|Layton 37 Voting District
+49|011|LA38|Layton 38|Layton 38 Voting District
+49|011|LA39|Layton 39|Layton 39 Voting District
+49|011|LA40|Layton 40|Layton 40 Voting District
+49|011|LA41|Layton 41|Layton 41 Voting District
+49|011|LA42|Layton 42|Layton 42 Voting District
+49|011|LA43|Layton 43|Layton 43 Voting District
+49|011|NS01|North Salt Lake 1|North Salt Lake 1 Voting District
+49|011|NS02|North Salt Lake 2|North Salt Lake 2 Voting District
+49|011|NS03|North Salt Lake 3|North Salt Lake 3 Voting District
+49|011|NS04|North Salt Lake 4|North Salt Lake 4 Voting District
+49|011|NS05|North Salt Lake 5|North Salt Lake 5 Voting District
+49|011|NS06|North Salt Lake 6|North Salt Lake 6 Voting District
+49|011|NS07|North Salt Lake 7|North Salt Lake 7 Voting District
+49|011|NS08|North Salt Lake 8|North Salt Lake 8 Voting District
+49|011|NS09|North Salt Lake 9|North Salt Lake 9 Voting District
+49|011|NS10|North Salt Lake 10|North Salt Lake 10 Voting District
+49|011|SU01|Sunset 1|Sunset 1 Voting District
+49|011|SU02|Sunset 2|Sunset 2 Voting District
+49|011|SU03|Sunset 3|Sunset 3 Voting District
+49|011|SW01|South Weber 1|South Weber 1 Voting District
+49|011|SW02|South Weber 2|South Weber 2 Voting District
+49|011|SW03|South Weber 3|South Weber 3 Voting District
+49|011|SW04|South Weber 4|South Weber 4 Voting District
+49|011|SY01|Syracuse 1|Syracuse 1 Voting District
+49|011|SY02|Syracuse 2|Syracuse 2 Voting District
+49|011|SY03|Syracuse 3|Syracuse 3 Voting District
+49|011|SY04|Syracuse 4|Syracuse 4 Voting District
+49|011|SY05|Syracuse 5|Syracuse 5 Voting District
+49|011|SY06|Syracuse 6|Syracuse 6 Voting District
+49|011|SY07|Syracuse 7|Syracuse 7 Voting District
+49|011|SY08|Syracuse 8|Syracuse 8 Voting District
+49|011|SY09|Syracuse 9|Syracuse 9 Voting District
+49|011|SY10|Syracuse 10|Syracuse 10 Voting District
+49|011|SY11|Syracuse 11|Syracuse 11 Voting District
+49|011|SY12|Syracuse 12|Syracuse 12 Voting District
+49|011|SY13|Syracuse 13|Syracuse 13 Voting District
+49|011|WB01|West Bountiful 1|West Bountiful 1 Voting District
+49|011|WB02|West Bountiful 2|West Bountiful 2 Voting District
+49|011|WB03|West Bountiful 3|West Bountiful 3 Voting District
+49|011|WP01|West Point 1|West Point 1 Voting District
+49|011|WP02|West Point 2|West Point 2 Voting District
+49|011|WP03|West Point 3|West Point 3 Voting District
+49|011|WP04|West Point 4|West Point 4 Voting District
+49|011|WP05|West Point 5|West Point 5 Voting District
+49|011|WP06|West Point 6|West Point 6 Voting District
+49|011|WX01|Woods Cross 1|Woods Cross 1 Voting District
+49|011|WX02|Woods Cross 2|Woods Cross 2 Voting District
+49|011|WX03|Woods Cross 3|Woods Cross 3 Voting District
+49|011|WX04|Woods Cross 4|Woods Cross 4 Voting District
+49|011|WX05|Woods Cross 5|Woods Cross 5 Voting District
+49|011|WX06|Woods Cross 6|Woods Cross 6 Voting District
+49|011|ZZEAST|z Unassigned East|z Unassigned East Voting District
+49|011|ZZWEST|z Unassigned West|z Unassigned West Voting District
+49|013|AL01|Altamont Voting District|Altamont Voting District
+49|013|BL01|Bluebell Voting District|Bluebell Voting District
+49|013|DU01|Duchesne 1 Voting District|Duchesne 1 Voting District
+49|013|DU02|Duchesne 2 Voting District|Duchesne 2 Voting District
+49|013|FR01|Fruitland Voting District|Fruitland Voting District
+49|013|MH01|Mountain Home Voting District|Mountain Home Voting District
+49|013|MY01|Myton Voting District|Myton Voting District
+49|013|NE01|Neola Voting District|Neola Voting District
+49|013|RO01|Roosevelt 1 Voting District|Roosevelt 1 Voting District
+49|013|RO02|Roosevelt 2 Voting District|Roosevelt 2 Voting District
+49|013|RO03|Roosevelt 3 Voting District|Roosevelt 3 Voting District
+49|013|RO04|Roosevelt 4 Voting District|Roosevelt 4 Voting District
+49|013|RO05|Roosevelt 5 Voting District|Roosevelt 5 Voting District
+49|013|RO06|Roosevelt 6 Voting District|Roosevelt 6 Voting District
+49|013|TA01|Tabiona Voting District|Tabiona Voting District
+49|015|CD611|Castle Dale 611|Castle Dale 611 Voting District
+49|015|CD612|Castle Dale 612|Castle Dale 612 Voting District
+49|015|CD613|Castle Dale 613|Castle Dale 613 Voting District
+49|015|CD714|Castle Dale 714|Castle Dale 714 Voting District
+49|015|CD715|Castle Dale 715|Castle Dale 715 Voting District
+49|015|CE1022|Cleveland 1022|Cleveland 1022 Voting District
+49|015|CE1023|Cleveland 1023|Cleveland 1023 Voting District
+49|015|CL407|Clawson 407|Clawson 407 Voting District
+49|015|CL408|Clawson 408|Clawson 408 Voting District
+49|015|EL1124|Elmo 1124|Elmo 1124 Voting District
+49|015|EL1125|Elmo 1125|Elmo 1125 Voting District
+49|015|EM101|Emery 101|Emery 101 Voting District
+49|015|EM102|Emery 102|Emery 102 Voting District
+49|015|FE203|Ferron 203|Ferron 203 Voting District
+49|015|FE204|Ferron 204|Ferron 204 Voting District
+49|015|FE305|Ferron 305|Ferron 305 Voting District
+49|015|FE306|Ferron 306|Ferron 306 Voting District
+49|015|GR1226|Green River 1226|Green River 1226 Voting District
+49|015|GR1227|Green River 1227|Green River 1227 Voting District
+49|015|HU816|Huntington 816|Huntington 816 Voting District
+49|015|HU817|Huntington 817|Huntington 817 Voting District
+49|015|HU818|Huntington 818|Huntington 818 Voting District
+49|015|HU819|Huntington 819|Huntington 819 Voting District
+49|015|HU920|Huntington 920|Huntington 920 Voting District
+49|015|HU921|Huntington 921|Huntington 921 Voting District
+49|015|OR509|Orangeville 509|Orangeville 509 Voting District
+49|015|OR510|Orangeville 510|Orangeville 510 Voting District
+49|015|ZZZ|Unpopulated|Unpopulated Voting District
+49|017|AN03|Antimony|Antimony Voting District
+49|017|BC11|Bryce Canyon|Bryce Canyon Voting District
+49|017|BO09|Boulder|Boulder Voting District
+49|017|CA06|Cannonville|Cannonville Voting District
+49|017|ES08|Escalante|Escalante Voting District
+49|017|HA04|Hatch|Hatch Voting District
+49|017|HE07|Henrieville|Henrieville Voting District
+49|017|PA01|Panguitch 1|Panguitch 1 Voting District
+49|017|PA02|Panguitch 2|Panguitch 2 Voting District
+49|017|TI10|Ticaboo|Ticaboo Voting District
+49|017|TR05|Tropic|Tropic Voting District
+49|019|CV08|Castle Valley|Castle Valley Voting District
+49|019|EL07|Elgin|Elgin Voting District
+49|019|MO01|Moab 01|Moab 01 Voting District
+49|019|MO02|Moab 02|Moab 02 Voting District
+49|019|MO03|Moab 03|Moab 03 Voting District
+49|019|MO04|Moab 04|Moab 04 Voting District
+49|019|MO05|Moab 05|Moab 05 Voting District
+49|019|MO09|Moab 09|Moab 09 Voting District
+49|019|MO10|Moab 10|Moab 10 Voting District
+49|019|MO11|Moab 11|Moab 11 Voting District
+49|019|TH06|Thompson|Thompson Voting District
+49|021|BE01|Beryl|Beryl Voting District
+49|021|BH01|Brian Head|Brian Head Voting District
+49|021|CC01|Cedar City 01|Cedar City 01 Voting District
+49|021|CC02|Cedar City 02|Cedar City 02 Voting District
+49|021|CC03|Cedar City 03|Cedar City 03 Voting District
+49|021|CC04|Cedar City 04|Cedar City 04 Voting District
+49|021|CC05|Cedar City 05|Cedar City 05 Voting District
+49|021|CC06|Cedar City 06|Cedar City 06 Voting District
+49|021|CC07|Cedar City 07|Cedar City 07 Voting District
+49|021|CC08|Cedar City 08|Cedar City 08 Voting District
+49|021|CC09|Cedar City 09|Cedar City 09 Voting District
+49|021|CC10|Cedar City 10|Cedar City 10 Voting District
+49|021|CC11|Cedar City 11|Cedar City 11 Voting District
+49|021|CC12|Cedar City 12|Cedar City 12 Voting District
+49|021|CC13|Cedar City 13|Cedar City 13 Voting District
+49|021|CC14|Cedar City 14|Cedar City 14 Voting District
+49|021|CC15|Cedar City 15|Cedar City 15 Voting District
+49|021|CC16|Cedar City 16|Cedar City 16 Voting District
+49|021|CC17|Cedar City 17|Cedar City 17 Voting District
+49|021|CC18|Cedar City 18|Cedar City 18 Voting District
+49|021|CC19|Cedar City 19|Cedar City 19 Voting District
+49|021|CC20|Cedar City 20|Cedar City 20 Voting District
+49|021|CC21|Cedar City 21|Cedar City 21 Voting District
+49|021|CC22|Cedar City 22|Cedar City 22 Voting District
+49|021|CC23|Cedar City 23|Cedar City 23 Voting District
+49|021|CC24|Cedar City 24|Cedar City 24 Voting District
+49|021|CD25|Cedar City 25|Cedar City 25 Voting District
+49|021|EN01|Enoch 1|Enoch 1 Voting District
+49|021|EN02|Enoch 2|Enoch 2 Voting District
+49|021|EN03|Enoch 3|Enoch 3 Voting District
+49|021|KA01|Kanarraville|Kanarraville Voting District
+49|021|MO01|Modena|Modena Voting District
+49|021|MV01|Midvalley|Midvalley Voting District
+49|021|NC01|Newcastle|Newcastle Voting District
+49|021|PG01|Paragonah|Paragonah Voting District
+49|021|PN01|Parowan North|Parowan North Voting District
+49|021|PS01|Parowan South|Parowan South Voting District
+49|021|SU01|Summit|Summit Voting District
+49|023|CA11|Callaco|Callaco Voting District
+49|023|EU|Eureka|Eureka Voting District
+49|023|LE06|Levan|Levan Voting District
+49|023|MO05|Mona|Mona Voting District
+49|023|NE01|Nephi 1|Nephi 1 Voting District
+49|023|NE02|Nephi 2|Nephi 2 Voting District
+49|023|NE03|Nephi 3|Nephi 3 Voting District
+49|023|NE04|Nephi 4|Nephi 4 Voting District
+49|023|NE05|Nephi 5|Nephi 5 Voting District
+49|023|RR13|Rocky Ridge|Rocky Ridge Voting District
+49|025|AL05|Alton Voting District|Alton Voting District
+49|025|BU08|Bullfrog Voting District|Bullfrog Voting District
+49|025|BW09|Big Water Voting District|Big Water Voting District
+49|025|CM11|Cedar Mountain Voting District|Cedar Mountain Voting District
+49|025|CW12|Church Wells Voting District|Church Wells Voting District
+49|025|GL06|Glendale Voting District|Glendale Voting District
+49|025|KA02|Kanab 2 Voting District|Kanab 2 Voting District
+49|025|KA1A|Kanab 1 Incorporated Voting District|Kanab 1 Incorporated Voting District
+49|025|KA1B1|Kanab 1 Unincorporated 1 Voting District|Kanab 1 Unincorporated 1 Voting District
+49|025|KA1B2|Kanab 1 Unincorporated 2 Voting District|Kanab 1 Unincorporated 2 Voting District
+49|025|KA3A|Kanab 3 Incorporated Voting District|Kanab 3 Incorporated Voting District
+49|025|KA3B|Kanab 3 Unincorporated Voting District|Kanab 3 Unincorporated Voting District
+49|025|KA4A1|Kanab 4 Incorporated 1 Voting District|Kanab 4 Incorporated 1 Voting District
+49|025|KA4A2|Kanab 4 Incorporated 2 Voting District|Kanab 4 Incorporated 2 Voting District
+49|025|KA4B1|Kanab 4 Unincorporated 1 Voting District|Kanab 4 Unincorporated 1 Voting District
+49|025|KA4B2|Kanab 4 Unincorporated 2 Voting District|Kanab 4 Unincorporated 2 Voting District
+49|025|MC10|Mount Carmel 10 Voting District|Mount Carmel 10 Voting District
+49|025|OR07|Orderville Voting District|Orderville Voting District
+49|027|ABR14|Abraham 14|Abraham 14 Voting District
+49|027|DEL17|Delta 17|Delta 17 Voting District
+49|027|DEL18|Delta 18|Delta 18 Voting District
+49|027|DOS05|Deseret / Oasis 5|Deseret / Oasis 5 Voting District
+49|027|FIL01|Fillmore 1|Fillmore 1 Voting District
+49|027|FIL02|Fillmore 2|Fillmore 2 Voting District
+49|027|FLO25|Flowell 25|Flowell 25 Voting District
+49|027|GAR16|Garrison 16|Garrison 16 Voting District
+49|027|HIN11|Hinckley 11|Hinckley 11 Voting District
+49|027|HOL08|Holden 8|Holden 8 Voting District
+49|027|KAN04|Kanosh 4|Kanosh 4 Voting District
+49|027|LEA07|Leamington 7|Leamington 7 Voting District
+49|027|LYN19|Lynndyl 19|Lynndyl 19 Voting District
+49|027|MEA03|Meadow 3|Meadow 3 Voting District
+49|027|OCT06|Oak City 6|Oak City 6 Voting District
+49|027|SCI09|Scipio 9|Scipio 9 Voting District
+49|027|SUT20|Sutherland 20|Sutherland 20 Voting District
+49|029|CC04A|Canyon Creek 4A|Canyon Creek 4A
+49|029|CC04B|Canyon Creek 4B|Canyon Creek 4B
+49|029|CM06|Central Morgan|Central Morgan
+49|029|CR08|Croydon|Croydon
+49|029|MG01|Mountain Green|Mountain Green
+49|029|MI03A|Milton 3A|Milton 3A
+49|029|MI03B|Milton 3B|Milton 3B
+49|029|MI03C|Milton 3C|Milton 3C
+49|029|NM07|North Morgan|North Morgan
+49|029|PE02A|Peterson 2A|Peterson 2A
+49|029|PE02B|Peterson 2B|Peterson 2B
+49|029|SM05A|South Morgan 5A|South Morgan 5A
+49|029|SM05B|South Morgan 5B|South Morgan 5B
+49|031|CI03|Circleville|Circleville Voting District
+49|031|GR05|Greenwich|Greenwich Voting District
+49|031|JU02|Junction|Junction Voting District
+49|031|KI04|Kingston|Kingston Voting District
+49|031|MA01|Marysvale|Marysvale Voting District
+49|033|GC05|Garden City|Garden City Voting District
+49|033|LA04|Laketown|Laketown Voting District
+49|033|RN03|Randolph North|Randolph North Voting District
+49|033|RS02|Randolph South|Randolph South Voting District
+49|033|WA06|Bear Lake|Bear Lake Voting District
+49|033|WO01|Woodruff|Woodruff Voting District
+49|035|1104|1104|Voting District 1104
+49|035|1108|1108|Voting District 1108
+49|035|1109|1109|Voting District 1109
+49|035|1110|1110|Voting District 1110
+49|035|1114|1114|Voting District 1114
+49|035|1116|1116|Voting District 1116
+49|035|1120|1120|Voting District 1120
+49|035|1122|1122|Voting District 1122
+49|035|1124|1124|Voting District 1124
+49|035|1126|1126|Voting District 1126
+49|035|1130|1130|Voting District 1130
+49|035|1131|1131|Voting District 1131
+49|035|1132|1132|Voting District 1132
+49|035|1134|1134|Voting District 1134
+49|035|1135|1135|Voting District 1135
+49|035|1136|1136|Voting District 1136
+49|035|1201|1201|Voting District 1201
+49|035|1202|1202|Voting District 1202
+49|035|1203|1203|Voting District 1203
+49|035|1204|1204|Voting District 1204
+49|035|1205|1205|Voting District 1205
+49|035|1206|1206|Voting District 1206
+49|035|1207|1207|Voting District 1207
+49|035|1208|1208|Voting District 1208
+49|035|1209|1209|Voting District 1209
+49|035|1210|1210|Voting District 1210
+49|035|1211|1211|Voting District 1211
+49|035|1212|1212|Voting District 1212
+49|035|1213|1213|Voting District 1213
+49|035|1214|1214|Voting District 1214
+49|035|1215|1215|Voting District 1215
+49|035|1216|1216|Voting District 1216
+49|035|1218|1218|Voting District 1218
+49|035|1220|1220|Voting District 1220
+49|035|1222|1222|Voting District 1222
+49|035|1224|1224|Voting District 1224
+49|035|1226|1226|Voting District 1226
+49|035|1228|1228|Voting District 1228
+49|035|1230|1230|Voting District 1230
+49|035|1232|1232|Voting District 1232
+49|035|1236|1236|Voting District 1236
+49|035|1242|1242|Voting District 1242
+49|035|1302|1302|Voting District 1302
+49|035|1303|1303|Voting District 1303
+49|035|1306|1306|Voting District 1306
+49|035|1308|1308|Voting District 1308
+49|035|1312|1312|Voting District 1312
+49|035|1313|1313|Voting District 1313
+49|035|1315|1315|Voting District 1315
+49|035|1316|1316|Voting District 1316
+49|035|1320|1320|Voting District 1320
+49|035|1322|1322|Voting District 1322
+49|035|1327|1327|Voting District 1327
+49|035|1328|1328|Voting District 1328
+49|035|1332|1332|Voting District 1332
+49|035|1334|1334|Voting District 1334
+49|035|1340|1340|Voting District 1340
+49|035|1344|1344|Voting District 1344
+49|035|1345|1345|Voting District 1345
+49|035|1346|1346|Voting District 1346
+49|035|1347|1347|Voting District 1347
+49|035|1348|1348|Voting District 1348
+49|035|1349|1349|Voting District 1349
+49|035|1350|1350|Voting District 1350
+49|035|1351|1351|Voting District 1351
+49|035|1352|1352|Voting District 1352
+49|035|1400|1400|Voting District 1400
+49|035|1401|1401|Voting District 1401
+49|035|1402|1402|Voting District 1402
+49|035|1403|1403|Voting District 1403
+49|035|1404|1404|Voting District 1404
+49|035|1405|1405|Voting District 1405
+49|035|1406|1406|Voting District 1406
+49|035|1408|1408|Voting District 1408
+49|035|1409|1409|Voting District 1409
+49|035|1410|1410|Voting District 1410
+49|035|1412|1412|Voting District 1412
+49|035|1413|1413|Voting District 1413
+49|035|1414|1414|Voting District 1414
+49|035|1420|1420|Voting District 1420
+49|035|1422|1422|Voting District 1422
+49|035|1430|1430|Voting District 1430
+49|035|1431|1431|Voting District 1431
+49|035|1432|1432|Voting District 1432
+49|035|1436|1436|Voting District 1436
+49|035|1438|1438|Voting District 1438
+49|035|1441|1441|Voting District 1441
+49|035|1446|1446|Voting District 1446
+49|035|2001|2001|Voting District 2001
+49|035|2002|2002|Voting District 2002
+49|035|2003|2003|Voting District 2003
+49|035|2004|2004|Voting District 2004
+49|035|2005|2005|Voting District 2005
+49|035|2006|2006|Voting District 2006
+49|035|2007|2007|Voting District 2007
+49|035|2008|2008|Voting District 2008
+49|035|2014|2014|Voting District 2014
+49|035|2016|2016|Voting District 2016
+49|035|2018|2018|Voting District 2018
+49|035|2020|2020|Voting District 2020
+49|035|2030|2030|Voting District 2030
+49|035|2034|2034|Voting District 2034
+49|035|2036|2036|Voting District 2036
+49|035|2038|2038|Voting District 2038
+49|035|2049|2049|Voting District 2049
+49|035|2050.1|2050.1|Voting District 2050.1
+49|035|2050.2|2050.2|Voting District 2050.2
+49|035|2052|2052|Voting District 2052
+49|035|2053|2053|Voting District 2053
+49|035|2056|2056|Voting District 2056
+49|035|2064|2064|Voting District 2064
+49|035|2068|2068|Voting District 2068
+49|035|2074|2074|Voting District 2074
+49|035|2102|2102|Voting District 2102
+49|035|2103|2103|Voting District 2103
+49|035|2121|2121|Voting District 2121
+49|035|2122|2122|Voting District 2122
+49|035|2126|2126|Voting District 2126
+49|035|2128|2128|Voting District 2128
+49|035|2136|2136|Voting District 2136
+49|035|2144|2144|Voting District 2144
+49|035|2152|2152|Voting District 2152
+49|035|2153|2153|Voting District 2153
+49|035|2154|2154|Voting District 2154
+49|035|2158|2158|Voting District 2158
+49|035|2164|2164|Voting District 2164
+49|035|2166|2166|Voting District 2166
+49|035|2167|2167|Voting District 2167
+49|035|2174|2174|Voting District 2174
+49|035|2178|2178|Voting District 2178
+49|035|2179|2179|Voting District 2179
+49|035|2182|2182|Voting District 2182
+49|035|2184|2184|Voting District 2184
+49|035|2204|2204|Voting District 2204
+49|035|2206|2206|Voting District 2206
+49|035|2214|2214|Voting District 2214
+49|035|2220|2220|Voting District 2220
+49|035|2222.1|2222.1|Voting District 2222.1
+49|035|2222.2|2222.2|Voting District 2222.2
+49|035|2223|2223|Voting District 2223
+49|035|2224|2224|Voting District 2224
+49|035|2226|2226|Voting District 2226
+49|035|2228|2228|Voting District 2228
+49|035|2230|2230|Voting District 2230
+49|035|2242|2242|Voting District 2242
+49|035|2246|2246|Voting District 2246
+49|035|2252|2252|Voting District 2252
+49|035|2254|2254|Voting District 2254
+49|035|2255|2255|Voting District 2255
+49|035|2256|2256|Voting District 2256
+49|035|2260|2260|Voting District 2260
+49|035|2264|2264|Voting District 2264
+49|035|2265|2265|Voting District 2265
+49|035|2306|2306|Voting District 2306
+49|035|2307|2307|Voting District 2307
+49|035|2308|2308|Voting District 2308
+49|035|2312|2312|Voting District 2312
+49|035|2318|2318|Voting District 2318
+49|035|2320|2320|Voting District 2320
+49|035|2323|2323|Voting District 2323
+49|035|2330|2330|Voting District 2330
+49|035|2332|2332|Voting District 2332
+49|035|2334|2334|Voting District 2334
+49|035|2348|2348|Voting District 2348
+49|035|2352|2352|Voting District 2352
+49|035|2354|2354|Voting District 2354
+49|035|2359|2359|Voting District 2359
+49|035|2360|2360|Voting District 2360
+49|035|2362|2362|Voting District 2362
+49|035|2364|2364|Voting District 2364
+49|035|2365|2365|Voting District 2365
+49|035|2366|2366|Voting District 2366
+49|035|2370|2370|Voting District 2370
+49|035|2371|2371|Voting District 2371
+49|035|2374|2374|Voting District 2374
+49|035|2378|2378|Voting District 2378
+49|035|2380|2380|Voting District 2380
+49|035|2384|2384|Voting District 2384
+49|035|2388|2388|Voting District 2388
+49|035|2389|2389|Voting District 2389
+49|035|2392|2392|Voting District 2392
+49|035|2394|2394|Voting District 2394
+49|035|2404|2404|Voting District 2404
+49|035|2406|2406|Voting District 2406
+49|035|2422|2422|Voting District 2422
+49|035|2435|2435|Voting District 2435
+49|035|2436|2436|Voting District 2436
+49|035|2437|2437|Voting District 2437
+49|035|2438|2438|Voting District 2438
+49|035|2442|2442|Voting District 2442
+49|035|2444|2444|Voting District 2444
+49|035|2450|2450|Voting District 2450
+49|035|2462|2462|Voting District 2462
+49|035|2466|2466|Voting District 2466
+49|035|2474|2474|Voting District 2474
+49|035|2475|2475|Voting District 2475
+49|035|2476|2476|Voting District 2476
+49|035|2480|2480|Voting District 2480
+49|035|2482|2482|Voting District 2482
+49|035|2493|2493|Voting District 2493
+49|035|2494|2494|Voting District 2494
+49|035|2502|2502|Voting District 2502
+49|035|2506|2506|Voting District 2506
+49|035|2510|2510|Voting District 2510
+49|035|2514|2514|Voting District 2514
+49|035|2516|2516|Voting District 2516
+49|035|2523|2523|Voting District 2523
+49|035|2524|2524|Voting District 2524
+49|035|2532|2532|Voting District 2532
+49|035|2534|2534|Voting District 2534
+49|035|2535|2535|Voting District 2535
+49|035|2536|2536|Voting District 2536
+49|035|2540|2540|Voting District 2540
+49|035|2544|2544|Voting District 2544
+49|035|2548|2548|Voting District 2548
+49|035|2550|2550|Voting District 2550
+49|035|2551|2551|Voting District 2551
+49|035|2552|2552|Voting District 2552
+49|035|2556|2556|Voting District 2556
+49|035|2561|2561|Voting District 2561
+49|035|2566|2566|Voting District 2566
+49|035|2567|2567|Voting District 2567
+49|035|2570|2570|Voting District 2570
+49|035|2572|2572|Voting District 2572
+49|035|2573|2573|Voting District 2573
+49|035|2580|2580|Voting District 2580
+49|035|2582|2582|Voting District 2582
+49|035|2584|2584|Voting District 2584
+49|035|2586|2586|Voting District 2586
+49|035|2588|2588|Voting District 2588
+49|035|2590|2590|Voting District 2590
+49|035|2594.1|2594.1|Voting District 2594.1
+49|035|2594.2|2594.2|Voting District 2594.2
+49|035|2596|2596|Voting District 2596
+49|035|2602|2602|Voting District 2602
+49|035|2604|2604|Voting District 2604
+49|035|2606|2606|Voting District 2606
+49|035|2608|2608|Voting District 2608
+49|035|2614|2614|Voting District 2614
+49|035|2626|2626|Voting District 2626
+49|035|2628|2628|Voting District 2628
+49|035|2630|2630|Voting District 2630
+49|035|2632|2632|Voting District 2632
+49|035|2634|2634|Voting District 2634
+49|035|2640|2640|Voting District 2640
+49|035|2646|2646|Voting District 2646
+49|035|2652|2652|Voting District 2652
+49|035|2654|2654|Voting District 2654
+49|035|2660|2660|Voting District 2660
+49|035|2664|2664|Voting District 2664
+49|035|2668|2668|Voting District 2668
+49|035|2670|2670|Voting District 2670
+49|035|2671|2671|Voting District 2671
+49|035|2674|2674|Voting District 2674
+49|035|2684.1|2684.1|Voting District 2684.1
+49|035|2684.2|2684.2|Voting District 2684.2
+49|035|2686|2686|Voting District 2686
+49|035|2694|2694|Voting District 2694
+49|035|2696|2696|Voting District 2696
+49|035|2702|2702|Voting District 2702
+49|035|2706|2706|Voting District 2706
+49|035|2708|2708|Voting District 2708
+49|035|2720|2720|Voting District 2720
+49|035|2722|2722|Voting District 2722
+49|035|2738|2738|Voting District 2738
+49|035|2746|2746|Voting District 2746
+49|035|2747|2747|Voting District 2747
+49|035|2748|2748|Voting District 2748
+49|035|2750|2750|Voting District 2750
+49|035|2752|2752|Voting District 2752
+49|035|2754|2754|Voting District 2754
+49|035|2756|2756|Voting District 2756
+49|035|2758|2758|Voting District 2758
+49|035|2760|2760|Voting District 2760
+49|035|2814|2814|Voting District 2814
+49|035|2816|2816|Voting District 2816
+49|035|2818|2818|Voting District 2818
+49|035|2819.1|2819.1|Voting District 2819.1
+49|035|2819.2|2819.2|Voting District 2819.2
+49|035|2819.3|2819.3|Voting District 2819.3
+49|035|2820|2820|Voting District 2820
+49|035|2822|2822|Voting District 2822
+49|035|2828|2828|Voting District 2828
+49|035|2829|2829|Voting District 2829
+49|035|2832|2832|Voting District 2832
+49|035|2854|2854|Voting District 2854
+49|035|2867|2867|Voting District 2867
+49|035|2868|2868|Voting District 2868
+49|035|2869|2869|Voting District 2869
+49|035|2870|2870|Voting District 2870
+49|035|2874|2874|Voting District 2874
+49|035|2876|2876|Voting District 2876
+49|035|2878|2878|Voting District 2878
+49|035|2886|2886|Voting District 2886
+49|035|2902|2902|Voting District 2902
+49|035|2904|2904|Voting District 2904
+49|035|2912|2912|Voting District 2912
+49|035|2914|2914|Voting District 2914
+49|035|2918|2918|Voting District 2918
+49|035|2920|2920|Voting District 2920
+49|035|2924|2924|Voting District 2924
+49|035|2926|2926|Voting District 2926
+49|035|2928|2928|Voting District 2928
+49|035|2932|2932|Voting District 2932
+49|035|2934|2934|Voting District 2934
+49|035|2940|2940|Voting District 2940
+49|035|2944|2944|Voting District 2944
+49|035|2948|2948|Voting District 2948
+49|035|2950|2950|Voting District 2950
+49|035|2962|2962|Voting District 2962
+49|035|2966|2966|Voting District 2966
+49|035|2968|2968|Voting District 2968
+49|035|2970|2970|Voting District 2970
+49|035|2974|2974|Voting District 2974
+49|035|3122|3122|Voting District 3122
+49|035|3124|3124|Voting District 3124
+49|035|3126|3126|Voting District 3126
+49|035|3128|3128|Voting District 3128
+49|035|3130|3130|Voting District 3130
+49|035|3132|3132|Voting District 3132
+49|035|3136|3136|Voting District 3136
+49|035|3140|3140|Voting District 3140
+49|035|3141|3141|Voting District 3141
+49|035|3146|3146|Voting District 3146
+49|035|3148|3148|Voting District 3148
+49|035|3151|3151|Voting District 3151
+49|035|3152|3152|Voting District 3152
+49|035|3153|3153|Voting District 3153
+49|035|3154|3154|Voting District 3154
+49|035|3155|3155|Voting District 3155
+49|035|3156|3156|Voting District 3156
+49|035|3162|3162|Voting District 3162
+49|035|3164|3164|Voting District 3164
+49|035|3210|3210|Voting District 3210
+49|035|3215|3215|Voting District 3215
+49|035|3216|3216|Voting District 3216
+49|035|3217|3217|Voting District 3217
+49|035|3218|3218|Voting District 3218
+49|035|3219|3219|Voting District 3219
+49|035|3220|3220|Voting District 3220
+49|035|3221|3221|Voting District 3221
+49|035|3222|3222|Voting District 3222
+49|035|3223|3223|Voting District 3223
+49|035|3224|3224|Voting District 3224
+49|035|3226|3226|Voting District 3226
+49|035|3227|3227|Voting District 3227
+49|035|3228|3228|Voting District 3228
+49|035|3229|3229|Voting District 3229
+49|035|3230|3230|Voting District 3230
+49|035|3232|3232|Voting District 3232
+49|035|3233|3233|Voting District 3233
+49|035|3234|3234|Voting District 3234
+49|035|3235|3235|Voting District 3235
+49|035|3236|3236|Voting District 3236
+49|035|3238|3238|Voting District 3238
+49|035|3239|3239|Voting District 3239
+49|035|3240|3240|Voting District 3240
+49|035|3241|3241|Voting District 3241
+49|035|3242|3242|Voting District 3242
+49|035|3243|3243|Voting District 3243
+49|035|3247|3247|Voting District 3247
+49|035|3248|3248|Voting District 3248
+49|035|3249|3249|Voting District 3249
+49|035|3250|3250|Voting District 3250
+49|035|3254|3254|Voting District 3254
+49|035|3260|3260|Voting District 3260
+49|035|3261|3261|Voting District 3261
+49|035|3262|3262|Voting District 3262
+49|035|3263|3263|Voting District 3263
+49|035|3264|3264|Voting District 3264
+49|035|3265|3265|Voting District 3265
+49|035|3266.1|3266.1|Voting District 3266.1
+49|035|3266.2|3266.2|Voting District 3266.2
+49|035|3267|3267|Voting District 3267
+49|035|3268|3268|Voting District 3268
+49|035|3274|3274|Voting District 3274
+49|035|3276|3276|Voting District 3276
+49|035|3308|3308|Voting District 3308
+49|035|3310|3310|Voting District 3310
+49|035|3311|3311|Voting District 3311
+49|035|3330|3330|Voting District 3330
+49|035|3331.1|3331.1|Voting District 3331.1
+49|035|3331.2|3331.2|Voting District 3331.2
+49|035|3331.3|3331.3|Voting District 3331.3
+49|035|3400|3400|Voting District 3400
+49|035|3401|3401|Voting District 3401
+49|035|3402|3402|Voting District 3402
+49|035|3403|3403|Voting District 3403
+49|035|3404|3404|Voting District 3404
+49|035|3405|3405|Voting District 3405
+49|035|3406|3406|Voting District 3406
+49|035|3407|3407|Voting District 3407
+49|035|3408|3408|Voting District 3408
+49|035|3409|3409|Voting District 3409
+49|035|3410|3410|Voting District 3410
+49|035|3411|3411|Voting District 3411
+49|035|3412|3412|Voting District 3412
+49|035|3413|3413|Voting District 3413
+49|035|3414|3414|Voting District 3414
+49|035|3415|3415|Voting District 3415
+49|035|3416|3416|Voting District 3416
+49|035|3417|3417|Voting District 3417
+49|035|3418|3418|Voting District 3418
+49|035|3419|3419|Voting District 3419
+49|035|3420|3420|Voting District 3420
+49|035|3421|3421|Voting District 3421
+49|035|3422|3422|Voting District 3422
+49|035|3423|3423|Voting District 3423
+49|035|3424|3424|Voting District 3424
+49|035|3425|3425|Voting District 3425
+49|035|3426|3426|Voting District 3426
+49|035|3427|3427|Voting District 3427
+49|035|3428|3428|Voting District 3428
+49|035|3429|3429|Voting District 3429
+49|035|3430|3430|Voting District 3430
+49|035|3431|3431|Voting District 3431
+49|035|3432|3432|Voting District 3432
+49|035|3433|3433|Voting District 3433
+49|035|3434|3434|Voting District 3434
+49|035|3435|3435|Voting District 3435
+49|035|3436|3436|Voting District 3436
+49|035|3437|3437|Voting District 3437
+49|035|3438|3438|Voting District 3438
+49|035|3439|3439|Voting District 3439
+49|035|3440|3440|Voting District 3440
+49|035|3441|3441|Voting District 3441
+49|035|3442|3442|Voting District 3442
+49|035|3443|3443|Voting District 3443
+49|035|3444|3444|Voting District 3444
+49|035|3445|3445|Voting District 3445
+49|035|3446|3446|Voting District 3446
+49|035|3447|3447|Voting District 3447
+49|035|3448|3448|Voting District 3448
+49|035|3449|3449|Voting District 3449
+49|035|3450|3450|Voting District 3450
+49|035|3451|3451|Voting District 3451
+49|035|3452|3452|Voting District 3452
+49|035|3453|3453|Voting District 3453
+49|035|3454|3454|Voting District 3454
+49|035|3455|3455|Voting District 3455
+49|035|3456|3456|Voting District 3456
+49|035|3457|3457|Voting District 3457
+49|035|3458|3458|Voting District 3458
+49|035|3459|3459|Voting District 3459
+49|035|3460|3460|Voting District 3460
+49|035|3461|3461|Voting District 3461
+49|035|3462|3462|Voting District 3462
+49|035|3463|3463|Voting District 3463
+49|035|3464|3464|Voting District 3464
+49|035|3465|3465|Voting District 3465
+49|035|3466|3466|Voting District 3466
+49|035|3467|3467|Voting District 3467
+49|035|3468|3468|Voting District 3468
+49|035|3469|3469|Voting District 3469
+49|035|3502|3502|Voting District 3502
+49|035|3503|3503|Voting District 3503
+49|035|3504|3504|Voting District 3504
+49|035|3505|3505|Voting District 3505
+49|035|3506|3506|Voting District 3506
+49|035|3507|3507|Voting District 3507
+49|035|3508|3508|Voting District 3508
+49|035|3509|3509|Voting District 3509
+49|035|3510|3510|Voting District 3510
+49|035|3511|3511|Voting District 3511
+49|035|3512|3512|Voting District 3512
+49|035|3513|3513|Voting District 3513
+49|035|3514|3514|Voting District 3514
+49|035|3515|3515|Voting District 3515
+49|035|3516|3516|Voting District 3516
+49|035|3517|3517|Voting District 3517
+49|035|3518|3518|Voting District 3518
+49|035|3519|3519|Voting District 3519
+49|035|3520|3520|Voting District 3520
+49|035|3521|3521|Voting District 3521
+49|035|3522|3522|Voting District 3522
+49|035|3523|3523|Voting District 3523
+49|035|3524|3524|Voting District 3524
+49|035|3525|3525|Voting District 3525
+49|035|3526|3526|Voting District 3526
+49|035|3527|3527|Voting District 3527
+49|035|3528|3528|Voting District 3528
+49|035|3529|3529|Voting District 3529
+49|035|3530|3530|Voting District 3530
+49|035|3531|3531|Voting District 3531
+49|035|3532|3532|Voting District 3532
+49|035|3533|3533|Voting District 3533
+49|035|3534|3534|Voting District 3534
+49|035|3535|3535|Voting District 3535
+49|035|3536|3536|Voting District 3536
+49|035|3537|3537|Voting District 3537
+49|035|3538|3538|Voting District 3538
+49|035|3539|3539|Voting District 3539
+49|035|3540|3540|Voting District 3540
+49|035|3542|3542|Voting District 3542
+49|035|3550|3550|Voting District 3550
+49|035|3560|3560|Voting District 3560
+49|035|3601|3601|Voting District 3601
+49|035|3602|3602|Voting District 3602
+49|035|3603|3603|Voting District 3603
+49|035|3604|3604|Voting District 3604
+49|035|3606|3606|Voting District 3606
+49|035|3607|3607|Voting District 3607
+49|035|3608|3608|Voting District 3608
+49|035|3609|3609|Voting District 3609
+49|035|3610|3610|Voting District 3610
+49|035|3612|3612|Voting District 3612
+49|035|3614|3614|Voting District 3614
+49|035|3615|3615|Voting District 3615
+49|035|3616|3616|Voting District 3616
+49|035|3617|3617|Voting District 3617
+49|035|3618|3618|Voting District 3618
+49|035|3619|3619|Voting District 3619
+49|035|3620|3620|Voting District 3620
+49|035|3621|3621|Voting District 3621
+49|035|3622|3622|Voting District 3622
+49|035|3623|3623|Voting District 3623
+49|035|3624|3624|Voting District 3624
+49|035|3625|3625|Voting District 3625
+49|035|3626|3626|Voting District 3626
+49|035|3627|3627|Voting District 3627
+49|035|3628|3628|Voting District 3628
+49|035|3636|3636|Voting District 3636
+49|035|3637|3637|Voting District 3637
+49|035|3638|3638|Voting District 3638
+49|035|3700|3700|Voting District 3700
+49|035|3701|3701|Voting District 3701
+49|035|3702|3702|Voting District 3702
+49|035|3703|3703|Voting District 3703
+49|035|3704|3704|Voting District 3704
+49|035|3705|3705|Voting District 3705
+49|035|3706|3706|Voting District 3706
+49|035|3707|3707|Voting District 3707
+49|035|3708|3708|Voting District 3708
+49|035|3709|3709|Voting District 3709
+49|035|3710|3710|Voting District 3710
+49|035|3711|3711|Voting District 3711
+49|035|3712|3712|Voting District 3712
+49|035|3713|3713|Voting District 3713
+49|035|3714|3714|Voting District 3714
+49|035|3801|3801|Voting District 3801
+49|035|3802|3802|Voting District 3802
+49|035|3803|3803|Voting District 3803
+49|035|3804|3804|Voting District 3804
+49|035|3805|3805|Voting District 3805
+49|035|3806|3806|Voting District 3806
+49|035|4000|4000|Voting District 4000
+49|035|4001|4001|Voting District 4001
+49|035|4002|4002|Voting District 4002
+49|035|4003|4003|Voting District 4003
+49|035|4004|4004|Voting District 4004
+49|035|4005|4005|Voting District 4005
+49|035|4006|4006|Voting District 4006
+49|035|4007|4007|Voting District 4007
+49|035|4008|4008|Voting District 4008
+49|035|4009|4009|Voting District 4009
+49|035|4010|4010|Voting District 4010
+49|035|4011|4011|Voting District 4011
+49|035|4012|4012|Voting District 4012
+49|035|4013|4013|Voting District 4013
+49|035|4014|4014|Voting District 4014
+49|035|4016|4016|Voting District 4016
+49|035|4018|4018|Voting District 4018
+49|035|4020|4020|Voting District 4020
+49|035|4022|4022|Voting District 4022
+49|035|4024|4024|Voting District 4024
+49|035|4025|4025|Voting District 4025
+49|035|4026|4026|Voting District 4026
+49|035|4027|4027|Voting District 4027
+49|035|4028|4028|Voting District 4028
+49|035|4100|4100|Voting District 4100
+49|035|4103|4103|Voting District 4103
+49|035|4104|4104|Voting District 4104
+49|035|4106|4106|Voting District 4106
+49|035|4107|4107|Voting District 4107
+49|035|4108|4108|Voting District 4108
+49|035|4109|4109|Voting District 4109
+49|035|4120|4120|Voting District 4120
+49|035|4122|4122|Voting District 4122
+49|035|4123|4123|Voting District 4123
+49|035|4124|4124|Voting District 4124
+49|035|4126|4126|Voting District 4126
+49|035|4128|4128|Voting District 4128
+49|035|4152|4152|Voting District 4152
+49|035|4153|4153|Voting District 4153
+49|035|4154|4154|Voting District 4154
+49|035|4160|4160|Voting District 4160
+49|035|4164|4164|Voting District 4164
+49|035|4166|4166|Voting District 4166
+49|035|4167|4167|Voting District 4167
+49|035|4168|4168|Voting District 4168
+49|035|4182|4182|Voting District 4182
+49|035|4194|4194|Voting District 4194
+49|035|4204|4204|Voting District 4204
+49|035|4208|4208|Voting District 4208
+49|035|4210|4210|Voting District 4210
+49|035|4212|4212|Voting District 4212
+49|035|4216|4216|Voting District 4216
+49|035|4222|4222|Voting District 4222
+49|035|4224|4224|Voting District 4224
+49|035|4225|4225|Voting District 4225
+49|035|4234|4234|Voting District 4234
+49|035|4238|4238|Voting District 4238
+49|035|4258|4258|Voting District 4258
+49|035|4272|4272|Voting District 4272
+49|035|4276|4276|Voting District 4276
+49|035|4384|4384|Voting District 4384
+49|035|4396|4396|Voting District 4396
+49|035|4402|4402|Voting District 4402
+49|035|4404|4404|Voting District 4404
+49|035|4406|4406|Voting District 4406
+49|035|4407|4407|Voting District 4407
+49|035|4408|4408|Voting District 4408
+49|035|4410|4410|Voting District 4410
+49|035|4412|4412|Voting District 4412
+49|035|4418|4418|Voting District 4418
+49|035|4419|4419|Voting District 4419
+49|035|4420|4420|Voting District 4420
+49|035|4426|4426|Voting District 4426
+49|035|4430|4430|Voting District 4430
+49|035|4431|4431|Voting District 4431
+49|035|4432|4432|Voting District 4432
+49|035|4434|4434|Voting District 4434
+49|035|4436|4436|Voting District 4436
+49|035|4438|4438|Voting District 4438
+49|035|4440|4440|Voting District 4440
+49|035|4441|4441|Voting District 4441
+49|035|4442|4442|Voting District 4442
+49|035|4444|4444|Voting District 4444
+49|035|4446|4446|Voting District 4446
+49|035|4450|4450|Voting District 4450
+49|035|4462|4462|Voting District 4462
+49|035|4464|4464|Voting District 4464
+49|035|4465|4465|Voting District 4465
+49|035|4466|4466|Voting District 4466
+49|035|4468|4468|Voting District 4468
+49|035|4470|4470|Voting District 4470
+49|035|4471|4471|Voting District 4471
+49|035|4472|4472|Voting District 4472
+49|035|4473|4473|Voting District 4473
+49|035|4474|4474|Voting District 4474
+49|035|4475|4475|Voting District 4475
+49|035|4476|4476|Voting District 4476
+49|035|4477|4477|Voting District 4477
+49|035|4478|4478|Voting District 4478
+49|035|4479|4479|Voting District 4479
+49|035|4480|4480|Voting District 4480
+49|035|4482|4482|Voting District 4482
+49|035|4483|4483|Voting District 4483
+49|035|4484|4484|Voting District 4484
+49|035|4486|4486|Voting District 4486
+49|035|4488|4488|Voting District 4488
+49|035|4490|4490|Voting District 4490
+49|035|4491|4491|Voting District 4491
+49|035|4492|4492|Voting District 4492
+49|035|4494|4494|Voting District 4494
+49|035|4496|4496|Voting District 4496
+49|035|4498|4498|Voting District 4498
+49|035|4502|4502|Voting District 4502
+49|035|4505|4505|Voting District 4505
+49|035|4506|4506|Voting District 4506
+49|035|4508|4508|Voting District 4508
+49|035|4510|4510|Voting District 4510
+49|035|4512|4512|Voting District 4512
+49|035|4514|4514|Voting District 4514
+49|035|4516|4516|Voting District 4516
+49|035|4518|4518|Voting District 4518
+49|035|4520|4520|Voting District 4520
+49|035|4521|4521|Voting District 4521
+49|035|4522|4522|Voting District 4522
+49|035|4528|4528|Voting District 4528
+49|035|4530|4530|Voting District 4530
+49|035|4531|4531|Voting District 4531
+49|035|4532|4532|Voting District 4532
+49|035|4534|4534|Voting District 4534
+49|035|4536|4536|Voting District 4536
+49|035|4537.1|4537.1|Voting District 4537.1
+49|035|4537.2|4537.2|Voting District 4537.2
+49|035|4538|4538|Voting District 4538
+49|035|4544|4544|Voting District 4544
+49|035|4546|4546|Voting District 4546
+49|035|4548|4548|Voting District 4548
+49|035|4549.1|4549.1|Voting District 4549.1
+49|035|4549.2|4549.2|Voting District 4549.2
+49|035|4600|4600|Voting District 4600
+49|035|4601|4601|Voting District 4601
+49|035|4602|4602|Voting District 4602
+49|035|4603|4603|Voting District 4603
+49|035|4604|4604|Voting District 4604
+49|035|4605|4605|Voting District 4605
+49|035|4606|4606|Voting District 4606
+49|035|4608|4608|Voting District 4608
+49|035|4610|4610|Voting District 4610
+49|035|4611|4611|Voting District 4611
+49|035|4612|4612|Voting District 4612
+49|035|4614|4614|Voting District 4614
+49|035|4616|4616|Voting District 4616
+49|035|4617|4617|Voting District 4617
+49|035|4618|4618|Voting District 4618
+49|035|4622|4622|Voting District 4622
+49|035|4624|4624|Voting District 4624
+49|035|4625|4625|Voting District 4625
+49|035|4626|4626|Voting District 4626
+49|035|4627|4627|Voting District 4627
+49|035|4628|4628|Voting District 4628
+49|035|4629|4629|Voting District 4629
+49|035|4630|4630|Voting District 4630
+49|035|4631|4631|Voting District 4631
+49|035|4632|4632|Voting District 4632
+49|035|4633|4633|Voting District 4633
+49|035|4634|4634|Voting District 4634
+49|035|4635|4635|Voting District 4635
+49|035|4636|4636|Voting District 4636
+49|035|4637|4637|Voting District 4637
+49|035|4638|4638|Voting District 4638
+49|035|4639|4639|Voting District 4639
+49|035|4640|4640|Voting District 4640
+49|035|4641|4641|Voting District 4641
+49|035|4642|4642|Voting District 4642
+49|035|4643|4643|Voting District 4643
+49|035|4644|4644|Voting District 4644
+49|035|4646|4646|Voting District 4646
+49|035|4648|4648|Voting District 4648
+49|035|4650|4650|Voting District 4650
+49|035|4652|4652|Voting District 4652
+49|035|4653|4653|Voting District 4653
+49|035|4654|4654|Voting District 4654
+49|035|4655|4655|Voting District 4655
+49|035|4656|4656|Voting District 4656
+49|035|4657.1|4657.1|Voting District 4657.1
+49|035|4657.2|4657.2|Voting District 4657.2
+49|035|4658|4658|Voting District 4658
+49|035|4659|4659|Voting District 4659
+49|035|4660|4660|Voting District 4660
+49|035|4661|4661|Voting District 4661
+49|035|4662|4662|Voting District 4662
+49|035|4663|4663|Voting District 4663
+49|035|4664|4664|Voting District 4664
+49|035|4665|4665|Voting District 4665
+49|035|4666|4666|Voting District 4666
+49|035|4668|4668|Voting District 4668
+49|035|4669|4669|Voting District 4669
+49|035|4670|4670|Voting District 4670
+49|035|4671|4671|Voting District 4671
+49|035|4672|4672|Voting District 4672
+49|035|4673|4673|Voting District 4673
+49|035|4674|4674|Voting District 4674
+49|035|4675|4675|Voting District 4675
+49|035|4676|4676|Voting District 4676
+49|035|4677|4677|Voting District 4677
+49|035|4678|4678|Voting District 4678
+49|035|4679|4679|Voting District 4679
+49|035|4680|4680|Voting District 4680
+49|035|4681|4681|Voting District 4681
+49|035|4682|4682|Voting District 4682
+49|035|4683|4683|Voting District 4683
+49|035|4684|4684|Voting District 4684
+49|035|4685|4685|Voting District 4685
+49|035|4686|4686|Voting District 4686
+49|035|4687|4687|Voting District 4687
+49|035|4688|4688|Voting District 4688
+49|035|4689|4689|Voting District 4689
+49|035|4690|4690|Voting District 4690
+49|035|4691|4691|Voting District 4691
+49|035|4692|4692|Voting District 4692
+49|035|4693|4693|Voting District 4693
+49|035|4694|4694|Voting District 4694
+49|035|4695|4695|Voting District 4695
+49|035|4696|4696|Voting District 4696
+49|035|4697|4697|Voting District 4697
+49|035|4698|4698|Voting District 4698
+49|035|4699|4699|Voting District 4699
+49|035|4701|4701|Voting District 4701
+49|035|4703.1|4703.1|Voting District 4703.1
+49|035|4703.2|4703.2|Voting District 4703.2
+49|035|4705.1|4705.1|Voting District 4705.1
+49|035|4705.2|4705.2|Voting District 4705.2
+49|035|4713.1|4713.1|Voting District 4713.1
+49|035|4713.2|4713.2|Voting District 4713.2
+49|035|4722|4722|Voting District 4722
+49|035|4726.1|4726.1|Voting District 4726.1
+49|035|4726.2|4726.2|Voting District 4726.2
+49|035|4726.3|4726.3|Voting District 4726.3
+49|035|4738|4738|Voting District 4738
+49|035|4739|4739|Voting District 4739
+49|035|4740|4740|Voting District 4740
+49|035|4741|4741|Voting District 4741
+49|035|4744.1|4744.1|Voting District 4744.1
+49|035|4744.2|4744.2|Voting District 4744.2
+49|035|4744.3|4744.3|Voting District 4744.3
+49|035|4744.4|4744.4|Voting District 4744.4
+49|035|4744.5|4744.5|Voting District 4744.5
+49|035|4744.6|4744.6|Voting District 4744.6
+49|035|4746|4746|Voting District 4746
+49|035|4747|4747|Voting District 4747
+49|035|4750|4750|Voting District 4750
+49|035|4754|4754|Voting District 4754
+49|035|4767|4767|Voting District 4767
+49|035|4790|4790|Voting District 4790
+49|035|4800|4800|Voting District 4800
+49|035|4801|4801|Voting District 4801
+49|035|4802|4802|Voting District 4802
+49|035|4803|4803|Voting District 4803
+49|035|4804|4804|Voting District 4804
+49|035|4805|4805|Voting District 4805
+49|035|4806|4806|Voting District 4806
+49|035|4807|4807|Voting District 4807
+49|035|4808|4808|Voting District 4808
+49|035|4809|4809|Voting District 4809
+49|035|4810|4810|Voting District 4810
+49|035|4811|4811|Voting District 4811
+49|035|4812|4812|Voting District 4812
+49|035|4818|4818|Voting District 4818
+49|035|4819|4819|Voting District 4819
+49|035|4820|4820|Voting District 4820
+49|035|4821|4821|Voting District 4821
+49|035|4822|4822|Voting District 4822
+49|035|4823|4823|Voting District 4823
+49|035|4824|4824|Voting District 4824
+49|035|4825|4825|Voting District 4825
+49|035|4826|4826|Voting District 4826
+49|035|4827|4827|Voting District 4827
+49|035|4828|4828|Voting District 4828
+49|035|4829|4829|Voting District 4829
+49|035|4830|4830|Voting District 4830
+49|035|4831|4831|Voting District 4831
+49|035|4832|4832|Voting District 4832
+49|035|4833|4833|Voting District 4833
+49|035|4834|4834|Voting District 4834
+49|035|4835|4835|Voting District 4835
+49|035|4836|4836|Voting District 4836
+49|035|4900|4900|Voting District 4900
+49|035|4904|4904|Voting District 4904
+49|035|4906|4906|Voting District 4906
+49|035|4908|4908|Voting District 4908
+49|035|4909|4909|Voting District 4909
+49|035|4910|4910|Voting District 4910
+49|035|4912|4912|Voting District 4912
+49|035|4913|4913|Voting District 4913
+49|035|4914|4914|Voting District 4914
+49|035|4915|4915|Voting District 4915
+49|035|4916|4916|Voting District 4916
+49|035|4918|4918|Voting District 4918
+49|035|4920|4920|Voting District 4920
+49|035|4922|4922|Voting District 4922
+49|035|4924|4924|Voting District 4924
+49|035|4926|4926|Voting District 4926
+49|035|4928|4928|Voting District 4928
+49|035|4930|4930|Voting District 4930
+49|035|4932|4932|Voting District 4932
+49|035|4934|4934|Voting District 4934
+49|035|4936|4936|Voting District 4936
+49|035|4940|4940|Voting District 4940
+49|035|4942|4942|Voting District 4942
+49|035|4944|4944|Voting District 4944
+49|035|4946|4946|Voting District 4946
+49|035|4948|4948|Voting District 4948
+49|035|4950|4950|Voting District 4950
+49|035|4952|4952|Voting District 4952
+49|035|4953|4953|Voting District 4953
+49|035|4954|4954|Voting District 4954
+49|035|4956|4956|Voting District 4956
+49|035|4958|4958|Voting District 4958
+49|035|4960|4960|Voting District 4960
+49|035|4961|4961|Voting District 4961
+49|035|4962|4962|Voting District 4962
+49|035|4964|4964|Voting District 4964
+49|035|4966|4966|Voting District 4966
+49|035|4968|4968|Voting District 4968
+49|035|9102|9102|Voting District 9102
+49|035|9360|9360|Voting District 9360
+49|035|9431|9431|Voting District 9431
+49|035|z1104|z Unpopulated 1104|z Unpopulated 1104
+49|035|z2001|z Unpopulated 2001|z Unpopulated 2001
+49|035|z2020|z Unpopulated 2020|z Unpopulated 2020
+49|035|z2136|z Unpopulated 2136|z Unpopulated 2136
+49|035|z3311|z Unpopulated 3311|z Unpopulated 3311
+49|035|z3330A|z Unpopulated 3330A|z Unpopulated 3330A
+49|035|z3330B|z Unpopulated 3330B|z Unpopulated 3330B
+49|035|z4804|z Unpopulated 4804|z Unpopulated 4804
+49|035|z8100|z Unpopulated 8100|z Unpopulated 8100
+49|035|z8331|z Unpopulated 8331|z Unpopulated 8331
+49|035|z8341|z Unpopulated 8341|z Unpopulated 8341
+49|035|z8450|z Unpopulated 8450|z Unpopulated 8450
+49|035|z8451|z Unpopulated 8451|z Unpopulated 8451
+49|035|z8452|z Unpopulated 8452|z Unpopulated 8452
+49|035|z8461A|z Unpopulated 8461A|z Unpopulated 8461A
+49|035|z8461B|z Unpopulated 8461B|z Unpopulated 8461B
+49|035|z8462|z Unpopulated 8462|z Unpopulated 8462
+49|035|z8466|z Unpopulated 8466|z Unpopulated 8466
+49|037|ATH03|Aneth|Aneth Voting District
+49|037|BLF01|Bluff|Bluff Voting District
+49|037|BNE18|Blanding Northeast|Blanding Northeast Voting District
+49|037|BNW10|Blanding Northwest|Blanding Northwest Voting District
+49|037|BSE17|Blanding Southeast|Blanding Southeast Voting District
+49|037|BSW11|Blanding Southwest|Blanding Southwest Voting District
+49|037|CPT04|Cedar Point|Cedar Point Voting District
+49|037|HCR15|Halls Crossing|Halls Crossing Voting District
+49|037|LSL06|La Sal|La Sal Voting District
+49|037|MCK02|Montezuma Creek|Montezuma Creek Voting District
+49|037|MOC19|Monticello Central|Monticello Central Voting District
+49|037|MON08|Monticello North|Monticello North Voting District
+49|037|MOS09|Monticello South|Monticello South Voting District
+49|037|MXH12|Mexican Hat|Mexican Hat Voting District
+49|037|NMT14|Navajo Mountain|Navajo Mountain Voting District
+49|037|OLJ13|Oljato|Oljato Voting District
+49|037|RED16|Red Mesa|Red Mesa Voting District
+49|037|SPV07|Spanish Valley|Spanish Valley Voting District
+49|037|UCL05|Ucolo|Ucolo Voting District
+49|037|WHM20|White Mesa|White Mesa Voting District
+49|039|AXT01|Axtell Voting District|Axtell Voting District
+49|039|CEN01M|Centerfield Municipality Voting District|Centerfield Municipality Voting District
+49|039|CEN01U|Centerfield Unincorporated Voting District|Centerfield Unincorporated Voting District
+49|039|CHE01|Chester Voting District|Chester Voting District
+49|039|EPH01M|Ephraim Municipality 1 Voting District|Ephraim Municipality 1 Voting District
+49|039|EPH01U|Ephraim Unincorporated 1 Voting District|Ephraim Unincorporated 1 Voting District
+49|039|EPH02M|Ephraim Municipality 2 Voting District|Ephraim Municipality 2 Voting District
+49|039|EPH03M|Ephraim Municipality 3 Voting District|Ephraim Municipality 3 Voting District
+49|039|EPH04M|Ephraim Municipality 4 Voting District|Ephraim Municipality 4 Voting District
+49|039|EPH04U|Ephraim Unincorporated 4 Voting District|Ephraim Unincorporated 4 Voting District
+49|039|EPH3UA|Ephraim Unincorporated 3A Voting District|Ephraim Unincorporated 3A Voting District
+49|039|EPH3UB|Ephraim Unincorporated 3B Voting District|Ephraim Unincorporated 3B Voting District
+49|039|FAY01M|Fayette Municipality Voting District|Fayette Municipality Voting District
+49|039|FAY01U|Fayette Unincorporated Voting District|Fayette Unincorporated Voting District
+49|039|FRV01M|Fairview Municipality 1 Voting District|Fairview Municipality 1 Voting District
+49|039|FRV01U|Fairview Unincorporated 1 Voting District|Fairview Unincorporated 1 Voting District
+49|039|FRV02M|Fairview Municipality 2 Voting District|Fairview Municipality 2 Voting District
+49|039|FRV02U|Fairview Unincorporated 2 Voting District|Fairview Unincorporated 2 Voting District
+49|039|FTG01M|Fountain Green Municipality Voting District|Fountain Green Municipality Voting District
+49|039|FTG01U|Fountain Green Unincorporated Voting District|Fountain Green Unincorporated Voting District
+49|039|GUN01M|Gunnison Municipality 1 Voting District|Gunnison Municipality 1 Voting District
+49|039|GUN01U|Gunnison Unincorporated 1 Voting District|Gunnison Unincorporated 1 Voting District
+49|039|GUN02M|Gunnison Municipality 2 Voting District|Gunnison Municipality 2 Voting District
+49|039|GUN02U|Gunnison Unincorporated 2 Voting District|Gunnison Unincorporated 2 Voting District
+49|039|GUN03M|Gunnison Municipality 3 Voting District|Gunnison Municipality 3 Voting District
+49|039|GUN03U|Gunnison Unincorporated 3 Voting District|Gunnison Unincorporated 3 Voting District
+49|039|IND01|Indianola Voting District|Indianola Voting District
+49|039|MAN01M|Manti Municipality 1 Voting District|Manti Municipality 1 Voting District
+49|039|MAN01U|Manti Unincorporated 1 Voting District|Manti Unincorporated 1 Voting District
+49|039|MAN02M|Manti Municipality 2 Voting District|Manti Municipality 2 Voting District
+49|039|MAN03M|Manti Municipality 3 Voting District|Manti Municipality 3 Voting District
+49|039|MAN03U|Manti Unincorporated 3 Voting District|Manti Unincorporated 3 Voting District
+49|039|MAN2UA|Manti Unincorporated 2A Voting District|Manti Unincorporated 2A Voting District
+49|039|MAN2UB|Manti Unincorporated 2B Voting District|Manti Unincorporated 2B Voting District
+49|039|MAY01M|Mayfield Municipality Voting District|Mayfield Municipality Voting District
+49|039|MAY01U|Mayfield Unincorporated Voting District|Mayfield Unincorporated Voting District
+49|039|MIL01|Milburn Voting District|Milburn Voting District
+49|039|MOR01M|Moroni Municipality 1 Voting District|Moroni Municipality 1 Voting District
+49|039|MOR01U|Moroni Unincorporated 1 Voting District|Moroni Unincorporated 1 Voting District
+49|039|MOR02M|Moroni Municipality 2 Voting District|Moroni Municipality 2 Voting District
+49|039|MOR02U|Moroni Unincorporated 2 Voting District|Moroni Unincorporated 2 Voting District
+49|039|MTP01M|Mount Pleasant Municipality 1 Voting District|Mount Pleasant Municipality 1 Voting District
+49|039|MTP01U|Mount Pleasant Unincorporated 1 Voting District|Mount Pleasant Unincorporated 1 Voting District
+49|039|MTP02M|Mount Pleasant Municipality 2 Voting District|Mount Pleasant Municipality 2 Voting District
+49|039|MTP02U|Mount Pleasant Unincorporated 2 Voting District|Mount Pleasant Unincorporated 2 Voting District
+49|039|MTP03M|Mount Pleasant Municipality 3 Voting District|Mount Pleasant Municipality 3 Voting District
+49|039|MTP03U|Mount Pleasant Unincorporated 3 Voting District|Mount Pleasant Unincorporated 3 Voting District
+49|039|SPR01M|Spring City Municipality Voting District|Spring City Municipality Voting District
+49|039|SPR01U|Spring City Unincorporated Voting District|Spring City Unincorporated Voting District
+49|039|STR01M|Sterling Municipality Voting District|Sterling Municipality Voting District
+49|039|STR01U|Sterling Unincorporated Voting District|Sterling Unincorporated Voting District
+49|039|UNA01|Sanpete Unassigned Voting District|Sanpete Unassigned Voting District
+49|039|WAL01M|Wales Municipality Voting District|Wales Municipality Voting District
+49|039|WAL01U|Wales Unincorporated Voting District|Wales Unincorporated Voting District
+49|041|AN01|Annabella|Annabella Voting District
+49|041|AU02|Aurora 2|Aurora 2 Voting District
+49|041|AU03|Aurora 3|Aurora 3 Voting District
+49|041|CV04|Central Valley|Central Valley Voting District
+49|041|EL05|Elsinore|Elsinore Voting District
+49|041|GL06|Glenwood|Glenwood Voting District
+49|041|JO07|Joseph|Joseph Voting District
+49|041|KO17|Koosharem|Koosharem Voting District
+49|041|MO08|Monroe 8|Monroe 8 Voting District
+49|041|MO09|Monroe 9|Monroe 9 Voting District
+49|041|RE10|Redmond|Redmond Voting District
+49|041|RF11|Richfield 11|Richfield 11 Voting District
+49|041|RF12|Richfield 12|Richfield 12 Voting District
+49|041|RF13|Richfield 13|Richfield 13 Voting District
+49|041|RF19|Richfield 19|Richfield 19 Voting District
+49|041|RF20|Richfield 20|Richfield 20 Voting District
+49|041|RF21|Richfield 21|Richfield 21 Voting District
+49|041|RF22|Richfield 22|Richfield 22 Voting District
+49|041|RF23|Richfield 23|Richfield 23 Voting District
+49|041|RF24|Richfield 24|Richfield 24 Voting District
+49|041|SA14|Salina 14|Salina 14 Voting District
+49|041|SA15|Salina 15|Salina 15 Voting District
+49|041|SA25|Salina 25|Salina 25 Voting District
+49|041|SI16|Sigurd|Sigurd Voting District
+49|041|VE18|Venice|Venice Voting District
+49|043|BIT34|Bitner|Bitner Voting District
+49|043|CON20|Coalville North|Coalville North Voting District
+49|043|COS19|Coalville South|Coalville South Voting District
+49|043|DVN01|Deer Valley North|Deer Valley North Voting District
+49|043|DVS31|Deer Valley South|Deer Valley South Voting District
+49|043|ECH24|Echo|Echo Voting District
+49|043|FRA28|Francis|Francis Voting District
+49|043|HEE38|Highland Estates East|Highland Estates East Voting District
+49|043|HEN25|Henefer|Henefer Voting District
+49|043|HEW23|Highland Estates West|Highland Estates West Voting District
+49|043|HOY18|Hoytsville|Hoytsville Voting District
+49|043|JEE37|Jeremy East|Jeremy East Voting District
+49|043|JEW27|Jeremy West|Jeremy West Voting District
+49|043|KAE29|Kamas East|Kamas East Voting District
+49|043|KAW12|Kamas West|Kamas West Voting District
+49|043|MAR13|Marion|Marion Voting District
+49|043|MOH40|Moose Hollow|Moose Hollow Voting District
+49|043|OAK14|Oakley|Oakley Voting District
+49|043|OTN32|Old Town North|Old Town North Voting District
+49|043|OTS02|Old Town South|Old Town South Voting District
+49|043|PAW07|Park West|Park West Voting District
+49|043|PBN39|Pinebrook North|Pinebrook North Voting District
+49|043|PBS09|Pinebrook South|Pinebrook South Voting District
+49|043|PBW41|Pinebrook West|Pinebrook West Voting District
+49|043|PEO15|Peoa|Peoa Voting District
+49|043|PMN35|Park Meadows North|Park Meadows North Voting District
+49|043|PMS05|Park Meadows South|Park Meadows South Voting District
+49|043|PRO03|Prospector|Prospector Voting District
+49|043|QUM06|Quarry Mountain|Quarry Mountain Voting District
+49|043|RAP26|Ranch Place|Ranch Place Voting District
+49|043|RRS36|Ranch Road South|Ranch Road South Voting District
+49|043|SIC08|Silver Creek|Silver Creek Voting District
+49|043|SID33|Sidewinder|Sidewinder Voting District
+49|043|SIS16|Silver Springs|Silver Springs Voting District
+49|043|SNM42|Snyder's Mill|Snyder's Mill Voting District
+49|043|SPE30|Summit Park East|Summit Park East Voting District
+49|043|SPH21|Spring Hollow|Spring Hollow Voting District
+49|043|SPW10|Summit Park West|Summit Park West Voting District
+49|043|THC04|Thaynes Canyon|Thaynes Canyon Voting District
+49|043|UPT22|Upton|Upton Voting District
+49|043|WAN17|Wanship|Wanship Voting District
+49|043|WOO11|Woodland|Woodland Voting District
+49|045|DU01|Dugway 01|Dugway 01 Voting District
+49|045|DU02|Dugway 02|Dugway 02 Voting District
+49|045|ER01|Erda 01|Erda 01 Voting District
+49|045|ER02|Erda 02|Erda 02 Voting District
+49|045|GR01|Grantsville 01|Grantsville 01 Voting District
+49|045|GR02|Grantsville 02|Grantsville 02 Voting District
+49|045|GR03|Grantsville 03|Grantsville 03 Voting District
+49|045|GR04|Grantsville 04|Grantsville 04 Voting District
+49|045|GR05|Grantsville 05|Grantsville 05 Voting District
+49|045|IB01|Ibapah|Ibapah Voting District
+49|045|LI01|Lincoln|Lincoln Voting District
+49|045|LP01|Lake Point 01|Lake Point 01 Voting District
+49|045|LP02|Lake Point 02|Lake Point 02 Voting District
+49|045|OP01|Ophir|Ophir Voting District
+49|045|RV01|Rush Valley|Rush Valley Voting District
+49|045|SP01|Stansbury Park 01|Stansbury Park 01 Voting District
+49|045|SP02|Stansbury Park 02|Stansbury Park 02 Voting District
+49|045|SP03A|Stansbury Park 03A|Stansbury Park 03A Voting District
+49|045|SP03B|Stansbury Park 03B|Stansbury Park 03B Voting District
+49|045|SP03C|Stansbury Park 03C|Stansbury Park 03C Voting District
+49|045|SP04|Stansbury Park 04|Stansbury Park 04 Voting District
+49|045|SP05|Stansbury Park 05|Stansbury Park 05 Voting District
+49|045|ST01|Stockton 01|Stockton 01 Voting District
+49|045|ST02A|Stockton 02A|Stockton 02A Voting District
+49|045|ST02B|Stockton 02B|Stockton 02B Voting District
+49|045|TE01|Terra|Terra Voting District
+49|045|TO01|Tooele 01|Tooele 01 Voting District
+49|045|TO02|Tooele 02|Tooele 02 Voting District
+49|045|TO03|Tooele 03|Tooele 03 Voting District
+49|045|TO04|Tooele 04|Tooele 04 Voting District
+49|045|TO05|Tooele 05|Tooele 05 Voting District
+49|045|TO06|Tooele 06|Tooele 06 Voting District
+49|045|TO07|Tooele 07|Tooele 07 Voting District
+49|045|TO08|Tooele 08|Tooele 08 Voting District
+49|045|TO09|Tooele 09|Tooele 09 Voting District
+49|045|TO10|Tooele 10|Tooele 10 Voting District
+49|045|TO11|Tooele 11|Tooele 11 Voting District
+49|045|TO12|Tooele 12|Tooele 12 Voting District
+49|045|TO13A|Tooele 13A|Tooele 13A Voting District
+49|045|TO13B|Tooele 13B|Tooele 13B Voting District
+49|045|TO14|Tooele 14|Tooele 14 Voting District
+49|045|TO15|Tooele 15|Tooele 15 Voting District
+49|045|TO16|Tooele 16|Tooele 16 Voting District
+49|045|TO17|Tooele 17|Tooele 17 Voting District
+49|045|TO18|Tooele 18|Tooele 18 Voting District
+49|045|TO19A|Tooele 19A|Tooele 19A Voting District
+49|045|TO19B|Tooele 19B|Tooele 19B Voting District
+49|045|VE01|Vernon|Vernon Voting District
+49|045|WE01|Wendover|Wendover Voting District
+49|047|AE15|Ashley East Voting District|Ashley East Voting District
+49|047|AW16|Avalon Willows Voting District|Avalon Willows Voting District
+49|047|AW22|Ashley West Voting District|Ashley West Voting District
+49|047|BL19|Ballard Voting District|Ballard Voting District
+49|047|DE02|Davis East Voting District|Davis East Voting District
+49|047|DN24A|Davis North A Voting District|Davis North A Voting District
+49|047|DN24B|Davis North B Voting District|Davis North B Voting District
+49|047|DW03|Davis West Voting District|Davis West Voting District
+49|047|FD18|Fort Duchesne Voting District|Fort Duchesne Voting District
+49|047|GE05|Glines East Voting District|Glines East Voting District
+49|047|GN23|Glines North Voting District|Glines North Voting District
+49|047|GS17A|Glines South A Voting District|Glines South A Voting District
+49|047|GS17B|Glines South B Voting District|Glines South B Voting District
+49|047|JN01|Jensen Voting District|Jensen Voting District
+49|047|LT21A|Lapoint Tridell A Voting District|Lapoint Tridell A Voting District
+49|047|LT21B|Lapoint Tridell B Voting District|Lapoint Tridell B Voting District
+49|047|MD07A|Maeser Dryfork A Voting District|Maeser Dryfork A Voting District
+49|047|MD07B|Maeser Dryfork B Voting District|Maeser Dryfork B Voting District
+49|047|ME06|Maeser East Voting District|Maeser East Voting District
+49|047|MW25|Maeser West Voting District|Maeser West Voting District
+49|047|NP04|Naples Voting District|Naples Voting District
+49|047|SW26|Glines Southwest Voting District|Glines Southwest Voting District
+49|047|VC08|Vernal 08 Voting District|Vernal 08 Voting District
+49|047|VC09|Vernal 09 Voting District|Vernal 09 Voting District
+49|047|VC10|Vernal 10 Voting District|Vernal 10 Voting District
+49|047|VC11|Vernal 11 Voting District|Vernal 11 Voting District
+49|047|VC12|Vernal 12 Voting District|Vernal 12 Voting District
+49|047|VC13|Vernal 13 Voting District|Vernal 13 Voting District
+49|047|VC14|Vernal 14 Voting District|Vernal 14 Voting District
+49|047|WR20|Whiterocks Voting District|Whiterocks Voting District
+49|049|AF01|American Fork 1|American Fork 1 Voting District
+49|049|AF01SA|American Fork 1 Split Part A|American Fork 1 Split Part A Voting District
+49|049|AF01SB|American Fork 1 Split Part B|American Fork 1 Split Part B Voting District
+49|049|AF01SF|American Fork 10 Split Part F|American Fork 10 Split Part F Voting District
+49|049|AF02|American Fork 2|American Fork 2 Voting District
+49|049|AF02S|American Fork 2 Split|American Fork 2 Split Voting District
+49|049|AF03|American Fork 3|American Fork 3 Voting District
+49|049|AF04|American Fork 4|American Fork 4 Voting District
+49|049|AF05|American Fork 5|American Fork 5 Voting District
+49|049|AF06|American Fork 6|American Fork 6 Voting District
+49|049|AF06S|American Fork 06 Split|American Fork 06 Split Voting District
+49|049|AF07|American Fork 7|American Fork 7 Voting District
+49|049|AF08|American Fork 8|American Fork 8 Voting District
+49|049|AF09|American Fork 9|American Fork 9 Voting District
+49|049|AF10A|American Fork 10 Part A|American Fork 10 Part A Voting District
+49|049|AF10B|American Fork 10 Part B|American Fork 10 Part B Voting District
+49|049|AF10C|American Fork 10 Part C|American Fork 10 Part C Voting District
+49|049|AF10SA|American Fork 10 Split Part A|American Fork 10 Split Part A Voting District
+49|049|AF10SB|American Fork 10 Split Part B|American Fork 10 Split Part B Voting District
+49|049|AF10SC|American Fork 10 Split Part C|American Fork 10 Split Part C Voting District
+49|049|AF10SD|American Fork 10 Split Part D|American Fork 10 Split Part D Voting District
+49|049|AF10SE|American Fork 10 Split Part E|American Fork 10 Split Part E Voting District
+49|049|AF11|American Fork 11|American Fork 11 Voting District
+49|049|AF12|American Fork 12|American Fork 12 Voting District
+49|049|AL01|Alpine 1|Alpine 1 Voting District
+49|049|AL02|Alpine 2|Alpine 2 Voting District
+49|049|AL03|Alpine 3|Alpine 3 Voting District
+49|049|AL04|Alpine 4|Alpine 4 Voting District
+49|049|AL05|Alpine 5|Alpine 5 Voting District
+49|049|AL06|Alpine 6|Alpine 6 Voting District
+49|049|BECB|Birdseye - Covered Bridge|Birdseye - Covered Bridge Voting District
+49|049|BELSU|Benjamin - Lake Shore|Benjamin - Lake Shore Voting District
+49|049|CF01|Cedar Fort|Cedar Fort Voting District
+49|049|CF01U|Cedar Fort Unincorporated|Cedar Fort Unincorporated Voting District
+49|049|CH01|Cedar Hills 1|Cedar Hills 1 Voting District
+49|049|CH02|Cedar Hills 2|Cedar Hills 2 Voting District
+49|049|CH03|Cedar Hills 3|Cedar Hills 3 Voting District
+49|049|CH04|Cedar Hills 4|Cedar Hills 4 Voting District
+49|049|DR01|Draper 1|Draper 1 Voting District
+49|049|EL01U|Elberta Unincorporated|Elberta Unincorporated Voting District
+49|049|EM01|Eagle Mountain 1|Eagle Mountain 1 Voting District
+49|049|EM02|Eagle Mountain 2|Eagle Mountain 2 Voting District
+49|049|EM03|Eagle Mountain 3|Eagle Mountain 3 Voting District
+49|049|EM04|Eagle Mountain 4|Eagle Mountain 4 Voting District
+49|049|EM05|Eagle Mountain 5|Eagle Mountain 5 Voting District
+49|049|EM06|Eagle Mountain 6|Eagle Mountain 6 Voting District
+49|049|ER01|Elk Ridge 1|Elk Ridge 1 Voting District
+49|049|ER02|Elk Ridge 2|Elk Ridge 2 Voting District
+49|049|FF01|Fairfield 1|Fairfield 1 Voting District
+49|049|GE01|Genola 1|Genola 1 Voting District
+49|049|GO01|Goshen 1|Goshen 1 Voting District
+49|049|HI01|Highland 1|Highland 1 Voting District
+49|049|HI02|Highland 2|Highland 2 Voting District
+49|049|HI03|Highland 3|Highland 3 Voting District
+49|049|HI04|Highland 4|Highland 4 Voting District
+49|049|HI05|Highland 5|Highland 5 Voting District
+49|049|HI06|Highland 6|Highland 6 Voting District
+49|049|HI07|Highland 7|Highland 7 Voting District
+49|049|LE01|Lehi 1|Lehi 1 Voting District
+49|049|LE02|Lehi 2|Lehi 2 Voting District
+49|049|LE03|Lehi 3|Lehi 3 Voting District
+49|049|LE04|Lehi 4|Lehi 4 Voting District
+49|049|LE05|Lehi 5|Lehi 5 Voting District
+49|049|LE06|Lehi 6|Lehi 6 Voting District
+49|049|LE07|Lehi 7|Lehi 7 Voting District
+49|049|LE08|Lehi 8|Lehi 8 Voting District
+49|049|LE08S|Lehi 8 Split|Lehi 8 Split Voting District
+49|049|LE09|Lehi 9|Lehi 9 Voting District
+49|049|LE10|Lehi 10|Lehi 10 Voting District
+49|049|LE10S|Lehi 10 Split|Lehi 10 Split Voting District
+49|049|LE11|Lehi 11|Lehi 11 Voting District
+49|049|LE11SA|Lehi 11 Split Part A|Lehi 11 Split Part A Voting District
+49|049|LE11SB|Lehi 11 Split Part B|Lehi 11 Split Part B Voting District
+49|049|LE12|Lehi 12|Lehi 12 Voting District
+49|049|LE13|Lehi 13|Lehi 13 Voting District
+49|049|LE14|Lehi 14|Lehi 14 Voting District
+49|049|LE15|Lehi 15|Lehi 15 Voting District
+49|049|LE16|Lehi 16|Lehi 16 Voting District
+49|049|LE16S|Lehi 16 Split|Lehi 16 Split Voting District
+49|049|LE17|Lehi 17|Lehi 17 Voting District
+49|049|LE18|Lehi 18|Lehi 18 Voting District
+49|049|LE19|Lehi 19|Lehi 19 Voting District
+49|049|LI01|Lindon 1|Lindon 1 Voting District
+49|049|LI02|Lindon 2|Lindon 2 Voting District
+49|049|LI03|Lindon 3|Lindon 3 Voting District
+49|049|LI04|Lindon 4|Lindon 4 Voting District
+49|049|LI05|Lindon 5|Lindon 5 Voting District
+49|049|LI06|Lindon 6|Lindon 6 Voting District
+49|049|LV01|Lakeview|Lakeview Voting District
+49|049|MA01|Mapleton 1|Mapleton 1 Voting District
+49|049|MA02|Mapleton 2|Mapleton 2 Voting District
+49|049|MA03|Mapleton 3|Mapleton 3 Voting District
+49|049|MA04|Mapleton 4|Mapleton 4 Voting District
+49|049|OR01|Orem 1|Orem 1 Voting District
+49|049|OR02|Orem 2|Orem 2 Voting District
+49|049|OR03|Orem 3|Orem 3 Voting District
+49|049|OR04|Orem 4|Orem 4 Voting District
+49|049|OR05|Orem 5|Orem 5 Voting District
+49|049|OR06|Orem 6|Orem 6 Voting District
+49|049|OR07|Orem 7|Orem 7 Voting District
+49|049|OR08|Orem 8|Orem 8 Voting District
+49|049|OR09|Orem 9|Orem 9 Voting District
+49|049|OR09S|Orem 9 Split|Orem 9 Split Voting District
+49|049|OR10|Orem 10|Orem 10 Voting District
+49|049|OR11|Orem 11|Orem 11 Voting District
+49|049|OR12|Orem 12|Orem 12 Voting District
+49|049|OR13|Orem 13|Orem 13 Voting District
+49|049|OR14|Orem 14|Orem 14 Voting District
+49|049|OR15|Orem 15|Orem 15 Voting District
+49|049|OR16|Orem 16|Orem 16 Voting District
+49|049|OR17|Orem 17|Orem 17 Voting District
+49|049|OR18|Orem 18|Orem 18 Voting District
+49|049|OR19|Orem 19|Orem 19 Voting District
+49|049|OR20|Orem 20|Orem 20 Voting District
+49|049|OR21|Orem 21|Orem 21 Voting District
+49|049|OR22|Orem 22|Orem 22 Voting District
+49|049|OR23|Orem 23|Orem 23 Voting District
+49|049|OR24|Orem 24|Orem 24 Voting District
+49|049|OR25|Orem 25|Orem 25 Voting District
+49|049|OR26|Orem 26|Orem 26 Voting District
+49|049|OR27|Orem 27|Orem 27 Voting District
+49|049|OR28|Orem 28|Orem 28 Voting District
+49|049|OR29|Orem 29|Orem 29 Voting District
+49|049|OR30|Orem 30|Orem 30 Voting District
+49|049|OR31|Orem 31|Orem 31 Voting District
+49|049|OR32|Orem 32|Orem 32 Voting District
+49|049|OR33|Orem 33|Orem 33 Voting District
+49|049|OR34|Orem 34|Orem 34 Voting District
+49|049|OR35|Orem 35|Orem 35 Voting District
+49|049|OR36|Orem 36|Orem 36 Voting District
+49|049|OR37|Orem 37|Orem 37 Voting District
+49|049|OR38|Orem 38|Orem 38 Voting District
+49|049|OR39|Orem 39|Orem 39 Voting District
+49|049|OR40|Orem 40|Orem 40 Voting District
+49|049|OR41|Orem 41|Orem 41 Voting District
+49|049|OR42|Orem 42|Orem 42 Voting District
+49|049|OR43|Orem 43|Orem 43 Voting District
+49|049|OR44|Orem 44|Orem 44 Voting District
+49|049|OR45|Orem 45|Orem 45 Voting District
+49|049|OR46|Orem 46|Orem 46 Voting District
+49|049|OR47|Orem 47|Orem 47 Voting District
+49|049|OR48|Orem 48|Orem 48 Voting District
+49|049|PA01|Payson 1|Payson 1 Voting District
+49|049|PA02|Payson 2|Payson 2 Voting District
+49|049|PA03|Payson 3|Payson 3 Voting District
+49|049|PA04|Payson 4|Payson 4 Voting District
+49|049|PA05|Payson 5|Payson 5 Voting District
+49|049|PA06|Payson 6|Payson 6 Voting District
+49|049|PA07|Payson 7|Payson 7 Voting District
+49|049|PA08|Payson 8|Payson 8 Voting District
+49|049|PC01|Provo Canyon|Provo Canyon Voting District
+49|049|PG01A|Pleasant Grove 1 Part A|Pleasant Grove 1 Part A Voting District
+49|049|PG01B|Pleasant Grove 1 Part B|Pleasant Grove 1 Part B Voting District
+49|049|PG01C|Pleasant Grove 1 Part C|Pleasant Grove 1 Part C Voting District
+49|049|PG01D|Pleasant Grove 1 Part D|Pleasant Grove 1 Part D Voting District
+49|049|PG01E|Pleasant Grove 1 Part E|Pleasant Grove 1 Part E Voting District
+49|049|PG02A|Pleasant Grove 2 Part A|Pleasant Grove 2 Part A Voting District
+49|049|PG02B|Pleasant Grove 2 Part B|Pleasant Grove 2 Part B Voting District
+49|049|PG03|Pleasant Grove 3|Pleasant Grove 3 Voting District
+49|049|PG04|Pleasant Grove 4|Pleasant Grove 4 Voting District
+49|049|PG05|Pleasant Grove 5|Pleasant Grove 5 Voting District
+49|049|PG06|Pleasant Grove 6|Pleasant Grove 6 Voting District
+49|049|PG07|Pleasant Grove 7|Pleasant Grove 7 Voting District
+49|049|PG08|Pleasant Grove 8|Pleasant Grove 8 Voting District
+49|049|PG09|Pleasant Grove 9|Pleasant Grove 9 Voting District
+49|049|PG10|Pleasant Grove 10|Pleasant Grove 10 Voting District
+49|049|PG11A|Pleasant Grove 11 Part A|Pleasant Grove 11 Part A Voting District
+49|049|PG11B|Pleasant Grove 11 Part B|Pleasant Grove 11 Part B Voting District
+49|049|PG12|Pleasant Grove 12|Pleasant Grove 12 Voting District
+49|049|PG13|Pleasant Grove 13|Pleasant Grove 13 Voting District
+49|049|PG14|Pleasant Grove 14|Pleasant Grove 14 Voting District
+49|049|PG15|Pleasant Grove 15|Pleasant Grove 15 Voting District
+49|049|PR01|Provo 1|Provo 1 Voting District
+49|049|PR02|Provo 2|Provo 2 Voting District
+49|049|PR03|Provo 3|Provo 3 Voting District
+49|049|PR04|Provo 4|Provo 4 Voting District
+49|049|PR05|Provo 5|Provo 5 Voting District
+49|049|PR06|Provo 6|Provo 6 Voting District
+49|049|PR07|Provo 7|Provo 7 Voting District
+49|049|PR08|Provo 8|Provo 8 Voting District
+49|049|PR09|Provo 9|Provo 9 Voting District
+49|049|PR10|Provo 10|Provo 10 Voting District
+49|049|PR11|Provo 11|Provo 11 Voting District
+49|049|PR12|Provo 12|Provo 12 Voting District
+49|049|PR13|Provo 13|Provo 13 Voting District
+49|049|PR14|Provo 14|Provo 14 Voting District
+49|049|PR15|Provo 15|Provo 15 Voting District
+49|049|PR16|Provo 16|Provo 16 Voting District
+49|049|PR17|Provo 17|Provo 17 Voting District
+49|049|PR18|Provo 18|Provo 18 Voting District
+49|049|PR19|Provo 19|Provo 19 Voting District
+49|049|PR20|Provo 20|Provo 20 Voting District
+49|049|PR21|Provo 21|Provo 21 Voting District
+49|049|PR22|Provo 22|Provo 22 Voting District
+49|049|PR23|Provo 23|Provo 23 Voting District
+49|049|PR24|Provo 24|Provo 24 Voting District
+49|049|PR25|Provo 25|Provo 25 Voting District
+49|049|PR26|Provo 26|Provo 26 Voting District
+49|049|PR27|Provo 27|Provo 27 Voting District
+49|049|PR28|Provo 28|Provo 28 Voting District
+49|049|PR29|Provo 29|Provo 29 Voting District
+49|049|PR30|Provo 30|Provo 30 Voting District
+49|049|PR31|Provo 31|Provo 31 Voting District
+49|049|PR32|Provo 32|Provo 32 Voting District
+49|049|PR33|Provo 33|Provo 33 Voting District
+49|049|PR34|Provo 34|Provo 34 Voting District
+49|049|PR35|Provo 35|Provo 35 Voting District
+49|049|PR36|Provo 36|Provo 36 Voting District
+49|049|PR37|Provo 37|Provo 37 Voting District
+49|049|PR38|Provo 38|Provo 38 Voting District
+49|049|PR39|Provo 39|Provo 39 Voting District
+49|049|PR40|Provo 40|Provo 40 Voting District
+49|049|PR41|Provo 41|Provo 41 Voting District
+49|049|PR42|Provo 42|Provo 42 Voting District
+49|049|PR43|Provo 43|Provo 43 Voting District
+49|049|PR44|Provo 44|Provo 44 Voting District
+49|049|PR45|Provo 45|Provo 45 Voting District
+49|049|PR46|Provo 46|Provo 46 Voting District
+49|049|PR47|Provo 47|Provo 47 Voting District
+49|049|PR48|Provo 48|Provo 48 Voting District
+49|049|PR49|Provo 49|Provo 49 Voting District
+49|049|SA01|Salem 1|Salem 1 Voting District
+49|049|SA02|Salem 2|Salem 2 Voting District
+49|049|SA03|Salem 3|Salem 3 Voting District
+49|049|SF01|Spanish Fork 1|Spanish Fork 1 Voting District
+49|049|SF02|Spanish Fork 2|Spanish Fork 2 Voting District
+49|049|SF03|Spanish Fork 3|Spanish Fork 3 Voting District
+49|049|SF04|Spanish Fork 4|Spanish Fork 4 Voting District
+49|049|SF05|Spanish Fork 5|Spanish Fork 5 Voting District
+49|049|SF06|Spanish Fork 6|Spanish Fork 6 Voting District
+49|049|SF07|Spanish Fork 7|Spanish Fork 7 Voting District
+49|049|SF08|Spanish Fork 8|Spanish Fork 8 Voting District
+49|049|SF09|Spanish Fork 9|Spanish Fork 9 Voting District
+49|049|SF10|Spanish Fork 10|Spanish Fork 10 Voting District
+49|049|SF11|Spanish Fork 11|Spanish Fork 11 Voting District
+49|049|SF12|Spanish Fork 12|Spanish Fork 12 Voting District
+49|049|SF13|Spanish Fork 13|Spanish Fork 13 Voting District
+49|049|SF14|Spanish Fork 14|Spanish Fork 14 Voting District
+49|049|SF15|Spanish Fork 15|Spanish Fork 15 Voting District
+49|049|SF16|Spanish Fork 16|Spanish Fork 16 Voting District
+49|049|SL01U|Spring Lake Unincorporated|Spring Lake Unincorporated Voting District
+49|049|SP01|Springville 1|Springville 1 Voting District
+49|049|SP02|Springville 2|Springville 2 Voting District
+49|049|SP03|Springville 3|Springville 3 Voting District
+49|049|SP04|Springville 4|Springville 4 Voting District
+49|049|SP05|Springville 5|Springville 5 Voting District
+49|049|SP06|Springville 6|Springville 6 Voting District
+49|049|SP07|Springville 7|Springville 7 Voting District
+49|049|SP07SA|Springville 7 Split Part A|Springville 7 Split Part A Voting District
+49|049|SP07SB|Springville 7 Split Part B|Springville 7 Split Part B Voting District
+49|049|SP08|Springville 8|Springville 8 Voting District
+49|049|SP09|Springville 9|Springville 9 Voting District
+49|049|SP10|Springville 10|Springville 10 Voting District
+49|049|SP11|Springville 11|Springville 11 Voting District
+49|049|SP12|Springville 12|Springville 12 Voting District
+49|049|SP13|Springville 13|Springville 13 Voting District
+49|049|SP14|Springville 14|Springville 14 Voting District
+49|049|SP15|Springville 15|Springville 15 Voting District
+49|049|SQ01|Santaquin 1|Santaquin 1 Voting District
+49|049|SQ02|Santaquin 2|Santaquin 2 Voting District
+49|049|SQ03|Santaquin 3|Santaquin 3 Voting District
+49|049|SR01|Saratoga Springs 1|Saratoga Springs 1 Voting District
+49|049|SR02|Saratoga Springs 2|Saratoga Springs 2 Voting District
+49|049|SR03|Saratoga Springs 3|Saratoga Springs 3 Voting District
+49|049|SR04A|Saratoga Springs 4 Part A|Saratoga Springs 4 Part A Voting District
+49|049|SR04B|Saratoga Springs 4 Part B|Saratoga Springs 4 Part B Voting District
+49|049|SR05|Saratoga Springs 5|Saratoga Springs 5 Voting District
+49|049|UTLAKE|Utah Lake|Utah Lake Voting District
+49|049|VI01|Vineyard|Vineyard Voting District
+49|049|WH01|Woodland Hills|Woodland Hills Voting District
+49|051|CH12A|Charleston Town|Charleston Town Voting District
+49|051|CH12B|Charleston Town - Annex|Charleston Town - Annex Voting District
+49|051|DA04A|Daniel Town - West|Daniel Town - West Voting District
+49|051|DA04B1|Daniel Town - East|Daniel Town - East Voting District
+49|051|DA04B2|Daniel Town - North|Daniel Town - North Voting District
+49|051|DA15B|Daniel Town - East Daniel Canyon|Daniel Town - East Daniel Canyon Voting District
+49|051|HC01A|Heber City - Northwest|Heber City - Northwest Voting District
+49|051|HC01B|Heber City - Northwest Annex|Heber City - Northwest Annex Voting District
+49|051|HC02|Heber City - North|Heber City - North Voting District
+49|051|HC03|Heber City - Tabernacle|Heber City - Tabernacle Voting District
+49|051|HC05A|Heber City - East|Heber City - East Voting District
+49|051|HC05B|Heber City - East Annex|Heber City - East Annex Voting District
+49|051|HC10A|Heber City - South|Heber City - South Voting District
+49|051|HC10B1|Heber City - South Annex 1|Heber City - South Annex 1 Voting District
+49|051|HC10B2|Heber City - South Annex 2|Heber City - South Annex 2 Voting District
+49|051|HC10B3|Heber City - South Annex 3|Heber City - South Annex 3 Voting District
+49|051|HC14|Heber City - Valley Hills|Heber City - Valley Hills Voting District
+49|051|HC16A|Heber City - Timp Meadows|Heber City - Timp Meadows Voting District
+49|051|HC16B|Heber City - Red Ledges|Heber City - Red Ledges Voting District
+49|051|HC17A|Heber City - Fairgrounds|Heber City - Fairgrounds Voting District
+49|051|HC17B|Heber City - Special Event Center|Heber City - Special Event Center Voting District
+49|051|MI07|Midway City - Northeast|Midway City - Northeast Voting District
+49|051|MI08|Midway City - West|Midway City - West Voting District
+49|051|MI18|Midway City - South|Midway City - South Voting District
+49|051|WA09|Wallsburg Town|Wallsburg Town Voting District
+49|051|WC04C1|Wasatch County - Runway|Wasatch County - Runway Voting District
+49|051|WC04C2|Wasatch County - Airport|Wasatch County - Airport Voting District
+49|051|WC04C3|Wasatch County - Southfields|Wasatch County - Southfields Voting District
+49|051|WC06|Wasatch County - Twin Creeks|Wasatch County - Twin Creeks Voting District
+49|051|WC09B|Wasatch County - South|Wasatch County - South Voting District
+49|051|WC11|Wasatch County - North|Wasatch County - North Voting District
+49|051|WC13|Wasatch County - West|Wasatch County - West Voting District
+49|051|WC15A|Wasatch County - Center Creek|Wasatch County - Center Creek Voting District
+49|051|WC19|Wasatch County - East|Wasatch County - East Voting District
+49|053|AV51-1|Apple Valley #AV51.1|Apple Valley #AV51.1 Voting District
+49|053|AV51-2|Outside Apple Valley #AV51.2|Outside Apple Valley #AV51.2 Voting District
+49|053|AV51-3|Outside Apple Valley #AV51.3|Outside Apple Valley #AV51.3 Voting District
+49|053|AV51-4|Outside Apple Valley #AV51.4|Outside Apple Valley #AV51.4 Voting District
+49|053|AV51-5|Outside Apple Valley #AV51.5|Outside Apple Valley #AV51.5 Voting District
+49|053|CE91-1|Central #CE91.1|Central #CE91.1 Voting District
+49|053|CE91-2|Dixie Deer #CE91.2|Dixie Deer #CE91.2 Voting District
+49|053|CE91-3|Pine Valley #CE91.3|Pine Valley #CE91.3 Voting District
+49|053|DAV83|Dammeron Valley #DAV83|Dammeron Valley #DAV83 Voting District
+49|053|DIV92|Diamond Valley #DIV92|Diamond Valley #DIV92 Voting District
+49|053|EN82-1|Enterprise #EN82.1|Enterprise #EN82.1 Voting District
+49|053|EN82-2|Outside Enterprise City #EN82.2|Outside Enterprise City #EN82.2 Voting District
+49|053|HIL97|Hildale #HL97|Hildale #HL97 Voting District
+49|053|HU52|Hurricane #HU52|Hurricane #HU52 Voting District
+49|053|HU53|Hurricane #HU53|Hurricane #HU53 Voting District
+49|053|HU54-1|Hurricane #HU54.1|Hurricane #HU54.1 Voting District
+49|053|HU54-2|Outside Hurricane City #HU54.2|Outside Hurricane City #HU54.2 Voting District
+49|053|HU55|Hurricane #HU55|Hurricane #HU55 Voting District
+49|053|HU56|Hurricane #HU56|Hurricane #HU56 Voting District
+49|053|HU57-1|Hurricane #HU57.1|Hurricane #HU57.1 Voting District
+49|053|HU57-2|Outside Hurricane City #HU57.2|Outside Hurricane City #HU57.2 Voting District
+49|053|IV76|Ivins #IV76|Ivins #IV76 Voting District
+49|053|IV77|Ivins #IV77|Ivins #IV77 Voting District
+49|053|IV78-1|Ivins #IV78.1|Ivins #IV78.1 Voting District
+49|053|IV78-2|Outside Ivins City #IV78.2|Outside Ivins City #IV78.2 Voting District
+49|053|IV79|Ivins #IV79|Ivins #IV79 Voting District
+49|053|LA85|La Verkin #LA85|La Verkin #LA85 Voting District
+49|053|LA86|La Verkin #LA86|La Verkin #LA86 Voting District
+49|053|LA87|La Verkin #LA87|La Verkin #LA87 Voting District
+49|053|LE90-1|Leeds #90.1|Leeds #90.1 Voting District
+49|053|LE90-2|Outside Leeds Town #LE90.2|Outside Leeds Town #LE90.2 Voting District
+49|053|NH93-1|New Harmony #93.1|New Harmony #93.1 Voting District
+49|053|NH93-2|Outside New Harmony #NH93.2|Outside New Harmony #NH93.2 Voting District
+49|053|OUT1|Outside Cities and Towns #OUT1|Outside Cities and Towns #OUT1 Voting District
+49|053|OUT2|Outside Cities and Towns #OUT2|Outside Cities and Towns #OUT2 Voting District
+49|053|OUT3|Outside Cities and Towns #OUT3|Outside Cities and Towns #OUT3 Voting District
+49|053|OUT4|Outside Cities and Towns #OUT4|Outside Cities and Towns #OUT4 Voting District
+49|053|OUT5|Outside Cities and Towns #OUT5|Outside Cities and Towns #OUT5 Voting District
+49|053|SC71|Santa Clara #SC71|Santa Clara #SC71 Voting District
+49|053|SC72|Santa Clara #SC72|Santa Clara #SC72 Voting District
+49|053|SC73|Santa Clara #SC73|Santa Clara #SC73 Voting District
+49|053|SC74|Santa Clara #SC74|Santa Clara #SC74 Voting District
+49|053|SG01|St. George #SG01|St. George #SG01 Voting District
+49|053|SG02|St. George #SG02|St. George #SG02 Voting District
+49|053|SG03|St. George #SG03|St. George #SG03 Voting District
+49|053|SG04|St. George #SG04|St. George #SG04 Voting District
+49|053|SG05|St. George #SG05|St. George #SG05 Voting District
+49|053|SG06|St. George #SG06|St. George #SG06 Voting District
+49|053|SG07|St. George #SG07|St. George #SG07 Voting District
+49|053|SG08|St. George #SG08|St. George #SG08 Voting District
+49|053|SG09|St. George #SG09|St. George #SG09 Voting District
+49|053|SG10|St. George #SG10|St. George #SG10 Voting District
+49|053|SG11-1|St. George #SG11.1|St. George #SG11.1 Voting District
+49|053|SG11-2|St. George #SG11.2|St. George #SG11.2 Voting District
+49|053|SG12|St. George #SG12|St. George #SG12 Voting District
+49|053|SG13|St. George #SG13|St. George #SG13 Voting District
+49|053|SG14|St. George #SG14|St. George #SG14 Voting District
+49|053|SG15|St. George #SG15|St. George #SG15 Voting District
+49|053|SG16|St. George #SG16|St. George #SG16 Voting District
+49|053|SG17|St. George #SG17|St. George #SG17 Voting District
+49|053|SG18|St. George #SG18|St. George #SG18 Voting District
+49|053|SG19|St. George #SG19|St. George #SG19 Voting District
+49|053|SG20|St. George #SG20|St. George #SG20 Voting District
+49|053|SG21|St. George #SG21|St. George #SG21 Voting District
+49|053|SG22|St. George #SG22|St. George #SG22 Voting District
+49|053|SG23|St. George #SG23|St. George #SG23 Voting District
+49|053|SG24|St. George #SG24|St. George #SG24 Voting District
+49|053|SG25|St. George #SG25|St. George #SG25 Voting District
+49|053|SG26|St. George #SG26|St. George #SG26 Voting District
+49|053|SG27|St. George #SG27|St. George #SG27 Voting District
+49|053|SG28|St. George #SG28|St. George #SG28 Voting District
+49|053|SG29|St. George #SG29|St. George #SG29 Voting District
+49|053|SG30|St. George #SG30|St. George #SG30 Voting District
+49|053|SG31|St. George #SG31|St. George #SG31 Voting District
+49|053|SG32|St. George #SG32|St. George #SG32 Voting District
+49|053|SG33|St. George #SG33|St. George #SG33 Voting District
+49|053|SG34|St. George #SG34|St. George #SG34 Voting District
+49|053|SG35|St. George #SG35|St. George #SG35 Voting District
+49|053|SG36|St. George #SG36|St. George #SG36 Voting District
+49|053|SG37|St. George #SG37|St. George #SG37 Voting District
+49|053|SG38|St. George #SG38|St. George #SG38 Voting District
+49|053|SG39|St. George #SG39|St. George #SG39 Voting District
+49|053|SG40|St. George #SG40|St. George #SG40 Voting District
+49|053|SG40-1|Outside St. George #SG40.1|Outside St. George #SG40.1 Voting District
+49|053|SG41|St. George #SG41|St. George #SG41 Voting District
+49|053|SP95-1|Springdale #SP95.1|Springdale #SP95.1 Voting District
+49|053|SP95-2|Rockville #SP95.2|Rockville #SP95.2 Voting District
+49|053|SP95-3|Zion National Park #SP95.3|Zion National Park #SP95.3 Voting District
+49|053|TQ96-1|Toquerville #TQ96.1|Toquerville #TQ96.1 Voting District
+49|053|TQ96-2|Pintura #TQ96.2|Pintura #TQ96.2 Voting District
+49|053|VE80-1|Veyo #VE80.1|Veyo #VE80.1 Voting District
+49|053|VE80-2|Brookside #VE80.2|Brookside #VE80.2 Voting District
+49|053|VE80-3|Gunlock #VE80.3|Gunlock #VE80.3 Voting District
+49|053|VI89-1|Virgin #VI89.1|Virgin #VI89.1 Voting District
+49|053|VI89-2|Outside Virgin Town #VI89.2|Outside Virgin Town #VI89.2 Voting District
+49|053|WA60|Washington #WA60|Washington #WA60 Voting District
+49|053|WA61|Washington #WA61|Washington #WA61 Voting District
+49|053|WA62|Washington #WA62|Washington #WA62 Voting District
+49|053|WA63|Washington #WA63|Washington #WA63 Voting District
+49|053|WA64|Washington #WA64|Washington #WA64 Voting District
+49|053|WA65|Washington #WA65|Washington #WA65 Voting District
+49|053|WA66|Washington #WA66|Washington #WA66 Voting District
+49|053|WA67-1|Washington #WA67.1|Washington #WA67.1 Voting District
+49|053|WA67-2|Outside Washington City #WA67.2|Outside Washington City #WA67.2 Voting District
+49|053|WH98|Winchester Hills #WH98|Winchester Hills #WH98 Voting District
+49|055|BI04|Bicknell|Bicknell Voting District
+49|055|FR01|Fremont|Fremont Voting District
+49|055|HA07|Hanksville|Hanksville Voting District
+49|055|LO02|Loa|Loa Voting District
+49|055|LY03|Lyman|Lyman Voting District
+49|055|TE05|Teasdale|Teasdale Voting District
+49|055|TO06|Torrey|Torrey Voting District
+49|057|CYN001|Canyon|Canyon Voting District
+49|057|FRW001|Farr West 1|Farr West 1 Voting District
+49|057|FRW002|Farr West 2|Farr West 2 Voting District
+49|057|FRW003|Farr West 3|Farr West 3 Voting District
+49|057|FRW004|Farr West 4|Farr West 4 Voting District
+49|057|HPR001|Hooper 1|Hooper 1 Voting District
+49|057|HPR002|Hooper 2|Hooper 2 Voting District
+49|057|HPR003|Hooper 3|Hooper 3 Voting District
+49|057|HPR004|Hooper 4|Hooper 4 Voting District
+49|057|HSV001|Harrisville 1|Harrisville 1 Voting District
+49|057|HSV002|Harrisville 2|Harrisville 2 Voting District
+49|057|HSV003|Harrisville 3|Harrisville 3 Voting District
+49|057|HTV001|Huntsville 1|Huntsville 1 Voting District
+49|057|HTV02A|Huntsville 2A|Huntsville 2A Voting District
+49|057|HTV02B|Huntsville 2B|Huntsville 2B Voting District
+49|057|LAK001|Lake 1|Lake 1 Voting District
+49|057|LAK002|Lake 2|Lake 2 Voting District
+49|057|MSC001|Marriott-Slaterville 1|Marriott-Slaterville 1 Voting District
+49|057|MSC002|Marriott-Slaterville 2|Marriott-Slaterville 2 Voting District
+49|057|NOG001|North Ogden 01|North Ogden 01 Voting District
+49|057|NOG002|North Ogden 02|North Ogden 02 Voting District
+49|057|NOG003|North Ogden 03|North Ogden 03 Voting District
+49|057|NOG004|North Ogden 04|North Ogden 04 Voting District
+49|057|NOG005|North Ogden 05|North Ogden 05 Voting District
+49|057|NOG006|North Ogden 06|North Ogden 06 Voting District
+49|057|NOG007|North Ogden 07|North Ogden 07 Voting District
+49|057|NOG008|North Ogden 08|North Ogden 08 Voting District
+49|057|NOG009|North Ogden 09|North Ogden 09 Voting District
+49|057|NOG010|North Ogden 10|North Ogden 10 Voting District
+49|057|NOG011|North Ogden 11|North Ogden 11 Voting District
+49|057|NOG012|North Ogden 12|North Ogden 12 Voting District
+49|057|NOG03B|North Ogden 03B|North Ogden 03B Voting District
+49|057|OGD001|Ogden 01|Ogden 01 Voting District
+49|057|OGD002|Ogden 02|Ogden 02 Voting District
+49|057|OGD003|Ogden 03|Ogden 03 Voting District
+49|057|OGD004|Ogden 04|Ogden 04 Voting District
+49|057|OGD005|Ogden 05|Ogden 05 Voting District
+49|057|OGD006|Ogden 06|Ogden 06 Voting District
+49|057|OGD007|Ogden 07|Ogden 07 Voting District
+49|057|OGD008|Ogden 08|Ogden 08 Voting District
+49|057|OGD009|Ogden 09|Ogden 09 Voting District
+49|057|OGD010|Ogden 10|Ogden 10 Voting District
+49|057|OGD011|Ogden 11|Ogden 11 Voting District
+49|057|OGD012|Ogden 12|Ogden 12 Voting District
+49|057|OGD013|Ogden 13|Ogden 13 Voting District
+49|057|OGD014|Ogden 14|Ogden 14 Voting District
+49|057|OGD015|Ogden 15|Ogden 15 Voting District
+49|057|OGD016|Ogden 16|Ogden 16 Voting District
+49|057|OGD017|Ogden 17|Ogden 17 Voting District
+49|057|OGD018|Ogden 18|Ogden 18 Voting District
+49|057|OGD019|Ogden 19|Ogden 19 Voting District
+49|057|OGD020|Ogden 20|Ogden 20 Voting District
+49|057|OGD021|Ogden 21|Ogden 21 Voting District
+49|057|OGD022|Ogden 22|Ogden 22 Voting District
+49|057|OGD023|Ogden 23|Ogden 23 Voting District
+49|057|OGD024|Ogden 24|Ogden 24 Voting District
+49|057|OGD025|Ogden 25|Ogden 25 Voting District
+49|057|OGD026|Ogden 26|Ogden 26 Voting District
+49|057|OGD027|Ogden 27|Ogden 27 Voting District
+49|057|OGD028|Ogden 28|Ogden 28 Voting District
+49|057|OGD029|Ogden 29|Ogden 29 Voting District
+49|057|OGD030|Ogden 30|Ogden 30 Voting District
+49|057|OGD031|Ogden 31|Ogden 31 Voting District
+49|057|OGD032|Ogden 32|Ogden 32 Voting District
+49|057|OGD033|Ogden 33|Ogden 33 Voting District
+49|057|OGD034|Ogden 34|Ogden 34 Voting District
+49|057|OGD035|Ogden 35|Ogden 35 Voting District
+49|057|OGD036|Ogden 36|Ogden 36 Voting District
+49|057|OGD037|Ogden 37|Ogden 37 Voting District
+49|057|OGD038|Ogden 38|Ogden 38 Voting District
+49|057|OGD039|Ogden 39|Ogden 39 Voting District
+49|057|OGD040|Ogden 40|Ogden 40 Voting District
+49|057|OGD041|Ogden 41|Ogden 41 Voting District
+49|057|OGD042|Ogden 42|Ogden 42 Voting District
+49|057|OGD043|Ogden 43|Ogden 43 Voting District
+49|057|OGD044|Ogden 44|Ogden 44 Voting District
+49|057|OGD045|Ogden 45|Ogden 45 Voting District
+49|057|OGD046|Ogden 46|Ogden 46 Voting District
+49|057|OGD047|Ogden 47|Ogden 47 Voting District
+49|057|OGD048|Ogden 48|Ogden 48 Voting District
+49|057|OGD049|Ogden 49|Ogden 49 Voting District
+49|057|OGD050|Ogden 50|Ogden 50 Voting District
+49|057|OGD051|Ogden 51|Ogden 51 Voting District
+49|057|OGD052|Ogden 52|Ogden 52 Voting District
+49|057|PLC001|Plain City 1|Plain City 1 Voting District
+49|057|PLC003|Plain City 3|Plain City 3 Voting District
+49|057|PLC02A|Plain City 2A|Plain City 2A Voting District
+49|057|PLC02B|Plain City 2B|Plain City 2B Voting District
+49|057|PLC02C|Plain City 2C|Plain City 2C Voting District
+49|057|PLV001|Pleasant View 1|Pleasant View 1 Voting District
+49|057|PLV002|Pleasant View 2|Pleasant View 2 Voting District
+49|057|PLV003|Pleasant View 3|Pleasant View 3 Voting District
+49|057|PLV004|Pleasant View 4|Pleasant View 4 Voting District
+49|057|PLV005|Pleasant View 5|Pleasant View 5 Voting District
+49|057|RIV002|Riverdale 2|Riverdale 2 Voting District
+49|057|RIV003|Riverdale 3|Riverdale 3 Voting District
+49|057|RIV004|Riverdale 4|Riverdale 4 Voting District
+49|057|RIV005|Riverdale 5|Riverdale 5 Voting District
+49|057|RIV006|Riverdale 6|Riverdale 6 Voting District
+49|057|ROY001|Roy 01|Roy 01 Voting District
+49|057|ROY002|Roy 02|Roy 02 Voting District
+49|057|ROY003|Roy 03|Roy 03 Voting District
+49|057|ROY004|Roy 04|Roy 04 Voting District
+49|057|ROY005|Roy 05|Roy 05 Voting District
+49|057|ROY006|Roy 06|Roy 06 Voting District
+49|057|ROY007|Roy 07|Roy 07 Voting District
+49|057|ROY008|Roy 08|Roy 08 Voting District
+49|057|ROY009|Roy 09|Roy 09 Voting District
+49|057|ROY010|Roy 10|Roy 10 Voting District
+49|057|ROY011|Roy 11|Roy 11 Voting District
+49|057|ROY012|Roy 12|Roy 12 Voting District
+49|057|ROY013|Roy 13|Roy 13 Voting District
+49|057|ROY014|Roy 14|Roy 14 Voting District
+49|057|ROY015|Roy 15|Roy 15 Voting District
+49|057|ROY016|Roy 16|Roy 16 Voting District
+49|057|ROY017|Roy 17|Roy 17 Voting District
+49|057|ROY018|Roy 18|Roy 18 Voting District
+49|057|ROY019|Roy 19|Roy 19 Voting District
+49|057|ROY020|Roy 20|Roy 20 Voting District
+49|057|ROY021|Roy 21|Roy 21 Voting District
+49|057|ROY022|Roy 22|Roy 22 Voting District
+49|057|ROY023|Roy 23|Roy 23 Voting District
+49|057|ROY024|Roy 24|Roy 24 Voting District
+49|057|SOG001|South Ogden 01|South Ogden 01 Voting District
+49|057|SOG002|South Ogden 02|South Ogden 02 Voting District
+49|057|SOG003|South Ogden 03|South Ogden 03 Voting District
+49|057|SOG004|South Ogden 04|South Ogden 04 Voting District
+49|057|SOG005|South Ogden 05|South Ogden 05 Voting District
+49|057|SOG006|South Ogden 06|South Ogden 06 Voting District
+49|057|SOG007|South Ogden 07|South Ogden 07 Voting District
+49|057|SOG008|South Ogden 08|South Ogden 08 Voting District
+49|057|SOG009|South Ogden 09|South Ogden 09 Voting District
+49|057|SOG010|South Ogden 10|South Ogden 10 Voting District
+49|057|SOG011|South Ogden 11|South Ogden 11 Voting District
+49|057|SOG012|South Ogden 12|South Ogden 12 Voting District
+49|057|TAY001|Taylor 1|Taylor 1 Voting District
+49|057|UIN001|Uintah 1|Uintah 1 Voting District
+49|057|VLY001|Upper Valley 1|Upper Valley 1 Voting District
+49|057|VLY002|Upper Valley 2|Upper Valley 2 Voting District
+49|057|VLY003|Upper Valley 3|Upper Valley 3 Voting District
+49|057|WAR001|Warren 1|Warren 1 Voting District
+49|057|WAT001|Washington Terrace 1|Washington Terrace 1 Voting District
+49|057|WAT002|Washington Terrace 2|Washington Terrace 2 Voting District
+49|057|WAT003|Washington Terrace 3|Washington Terrace 3 Voting District
+49|057|WAT004|Washington Terrace 4|Washington Terrace 4 Voting District
+49|057|WAT005|Washington Terrace 5|Washington Terrace 5 Voting District
+49|057|WAT006|Washington Terrace 6|Washington Terrace 6 Voting District
+49|057|WAT007|Washington Terrace 7|Washington Terrace 7 Voting District
+49|057|WCO01A|Ogden -- Unincorporated 1A|Ogden -- Unincorporated 1A Voting District
+49|057|WCO01B|Ogden -- Unincorporated 1B|Ogden -- Unincorporated 1B Voting District
+49|057|WCO01C|Ogden -- Unincorporated 1C|Ogden -- Unincorporated 1C Voting District
+49|057|WCO01D|Ogden -- Unincorporated 1D|Ogden -- Unincorporated 1D Voting District
+49|057|WCP01A|Plain City -- Unincorporated 1A|Plain City -- Unincorporated 1A Voting District
+49|057|WCP01B|Plain City -- Unincorporated 1B|Plain City -- Unincorporated 1B Voting District
+49|057|WCR01A|Roy -- Unincorporated 1A|Roy -- Unincorporated 1A Voting District
+49|057|WCR01B|Roy -- Unincorporated 1B|Roy -- Unincorporated 1B Voting District
+49|057|WCR01C|Roy -- Unincorporated 1C|Roy -- Unincorporated 1C Voting District
+49|057|WCR01D|Roy -- Unincorporated 1D|Roy -- Unincorporated 1D Voting District
+49|057|WCR01E|Roy -- Unincorporated 1E|Roy -- Unincorporated 1E Voting District
+49|057|WCR01F|Roy -- Unincorporated 1F|Roy -- Unincorporated 1F Voting District
+49|057|WCR01G|Roy -- Unincorporated 1G|Roy -- Unincorporated 1G Voting District
+49|057|WCR01H|Roy -- Unincorporated 1H|Roy -- Unincorporated 1H Voting District
+49|057|WCR01I|Roy -- Unincorporated 1I|Roy -- Unincorporated 1I Voting District
+49|057|WCR01J|Roy -- Unincorporated 1J|Roy -- Unincorporated 1J Voting District
+49|057|WCR02A|Roy -- Unincorporated 2A|Roy -- Unincorporated 2A Voting District
+49|057|WCR02B|Roy -- Unincorporated 2B|Roy -- Unincorporated 2B Voting District
+49|057|WCU001|Uintah -- Unincorporated 1|Uintah -- Unincorporated 1 Voting District
+49|057|WCU002|Uintah -- Unincorporated 2|Uintah -- Unincorporated 2 Voting District
+49|057|WCU03A|Uintah -- Unincorporated 3A|Uintah -- Unincorporated 3A Voting District
+49|057|WCU03B|Uintah -- Unincorporated 3B|Uintah -- Unincorporated 3B Voting District
+49|057|WCU03C|Uintah -- Unincorporated 3C|Uintah -- Unincorporated 3C Voting District
+49|057|WCU03D|Uintah -- Unincorporated 3D|Uintah -- Unincorporated 3D Voting District
+49|057|WHV001|West Haven 1|West Haven 1 Voting District
+49|057|WHV002|West Haven 2|West Haven 2 Voting District
+49|057|WHV003|West Haven 3|West Haven 3 Voting District
+49|057|WNO01A|North Ogden -- Unincorporated 1A|North Ogden -- Unincorporated 1A Voting District
+49|057|WNO01B|North Ogden -- Unincorporated 1B|North Ogden -- Unincorporated 1B Voting District
+49|057|WNO01C|North Ogden -- Unincorporated 1C|North Ogden -- Unincorporated 1C Voting District
+49|057|WNO01D|North Ogden -- Unincorporated 1D|North Ogden -- Unincorporated 1D Voting District
+49|057|WNO01E|North Ogden -- Unincorporated 1E|North Ogden -- Unincorporated 1E Voting District
+49|057|WNO01F|North Ogden -- Unincorporated 1F|North Ogden -- Unincorporated 1F Voting District
+49|057|WNO01G|North Ogden -- Unincorporated 1G|North Ogden -- Unincorporated 1G Voting District
+49|057|WNO01H|North Ogden -- Unincorporated 1H|North Ogden -- Unincorporated 1H Voting District
+49|057|WNO02A|North Ogden -- Unincorporated 2A|North Ogden -- Unincorporated 2A Voting District
+49|057|WNO02B|North Ogden -- Unincorporated 2B|North Ogden -- Unincorporated 2B Voting District
+49|057|WNO02C|North Ogden -- Unincorporated 2C|North Ogden -- Unincorporated 2C Voting District
+49|057|WNO02D|North Ogden -- Unincorporated 2D|North Ogden -- Unincorporated 2D Voting District
+49|057|WNO02E|North Ogden -- Unincorporated 2E|North Ogden -- Unincorporated 2E Voting District
+49|057|WNO02F|North Ogden -- Unincorporated 2F|North Ogden -- Unincorporated 2F Voting District
+49|057|WNO02G|North Ogden -- Unincorporated 2G|North Ogden -- Unincorporated 2G Voting District
+49|057|WNO02H|North Ogden -- Unincorporated 2H|North Ogden -- Unincorporated 2H Voting District
+49|057|WNO02I|North Ogden -- Unincorporated 2I|North Ogden -- Unincorporated 2I Voting District
+49|057|WNO02J|North Ogden -- Unincorporated 2J|North Ogden -- Unincorporated 2J Voting District
+49|057|WNO02L|North Ogden -- Unincorporated 2L|North Ogden -- Unincorporated 2L Voting District
+49|057|WNO02M|North Ogden -- Unincorporated 2M|North Ogden -- Unincorporated 2M Voting District
+49|057|WWB001|West Weber|West Weber Voting District

@@ -1,0 +1,536 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+13|00184|Abbeville|Abbeville city
+13|00408|Acworth|Acworth city
+13|00436|Adairsville|Adairsville city
+13|00576|Adel|Adel city
+13|00660|Adrian|Adrian city
+13|00828|Ailey|Ailey city
+13|00996|Alamo|Alamo town
+13|01024|Alapaha|Alapaha town
+13|01052|Albany|Albany city
+13|01248|Aldora|Aldora town
+13|01472|Allenhurst|Allenhurst city
+13|01500|Allentown|Allentown city
+13|01612|Alma|Alma city
+13|01696|Alpharetta|Alpharetta city
+13|01808|Alston|Alston town
+13|01948|Alto|Alto town
+13|02060|Ambrose|Ambrose city
+13|02116|Americus|Americus city
+13|02256|Andersonville|Andersonville city
+13|02564|Arabi|Arabi town
+13|02592|Aragon|Aragon city
+13|02648|Arcade|Arcade city
+13|02844|Argyle|Argyle town
+13|02928|Arlington|Arlington city
+13|03124|Arnoldsville|Arnoldsville city
+13|03236|Ashburn|Ashburn city
+13|03440|Athens-Clarke County unified government (balance)|Athens-Clarke County unified government (balance)
+13|04000|Atlanta|Atlanta city
+13|04084|Attapulgus|Attapulgus city
+13|04140|Auburn|Auburn city
+13|04204|Augusta-Richmond County consolidated government (balance)|Augusta-Richmond County consolidated government (balance)
+13|04252|Austell|Austell city
+13|04392|Avalon|Avalon town
+13|04448|Avera|Avera city
+13|04644|Avondale Estates|Avondale Estates city
+13|04840|Baconton|Baconton city
+13|04896|Bainbridge|Bainbridge city
+13|04980|Baldwin|Baldwin city
+13|05036|Ball Ground|Ball Ground city
+13|05344|Barnesville|Barnesville city
+13|05680|Bartow|Bartow town
+13|05708|Barwick|Barwick city
+13|06016|Baxley|Baxley city
+13|06688|Bellville|Bellville city
+13|07248|Berkeley Lake|Berkeley Lake city
+13|07304|Berlin|Berlin city
+13|07612|Bethlehem|Bethlehem town
+13|07640|Between|Between town
+13|08200|Bishop|Bishop town
+13|08284|Blackshear|Blackshear city
+13|08480|Blairsville|Blairsville city
+13|08536|Blakely|Blakely city
+13|08844|Bloomingdale|Bloomingdale city
+13|08928|Blue Ridge|Blue Ridge city
+13|08956|Bluffton|Bluffton town
+13|09040|Blythe|Blythe city
+13|09068|Bogart|Bogart town
+13|09460|Boston|Boston city
+13|09488|Bostwick|Bostwick city
+13|09544|Bowdon|Bowdon city
+13|09656|Bowersville|Bowersville town
+13|09712|Bowman|Bowman city
+13|10076|Braselton|Braselton town
+13|10104|Braswell|Braswell town
+13|10132|Bremen|Bremen city
+13|10608|Brinson|Brinson town
+13|10860|Bronwood|Bronwood town
+13|11000|Brooklet|Brooklet city
+13|11056|Brooks|Brooks town
+13|11504|Broxton|Broxton city
+13|11560|Brunswick|Brunswick city
+13|11616|Buchanan|Buchanan city
+13|11672|Buckhead|Buckhead town
+13|11728|Buena Vista|Buena Vista city
+13|11784|Buford|Buford city
+13|12120|Butler|Butler city
+13|12232|Byromville|Byromville town
+13|12260|Byron|Byron city
+13|12344|Cadwell|Cadwell town
+13|12400|Cairo|Cairo city
+13|12456|Calhoun|Calhoun city
+13|12512|Camak|Camak town
+13|12624|Camilla|Camilla city
+13|12932|Canon|Canon city
+13|12988|Canton|Canton city
+13|13184|Carl|Carl town
+13|13212|Carlton|Carlton city
+13|13352|Carnesville|Carnesville city
+13|13492|Carrollton|Carrollton city
+13|13688|Cartersville|Cartersville city
+13|14108|Cave Spring|Cave Spring city
+13|14192|Cecil|Cecil city
+13|14500|Cedartown|Cedartown city
+13|14920|Centerville|Centerville city
+13|15026|Centralhatchee|Centralhatchee town
+13|15172|Chamblee|Chamblee city
+13|15508|Chatsworth|Chatsworth city
+13|15552|Chattahoochee Hills|Chattahoochee Hills city
+13|15648|Chauncey|Chauncey city
+13|15900|Chester|Chester town
+13|15984|Chickamauga|Chickamauga city
+13|16460|Clarkesville|Clarkesville city
+13|16544|Clarkston|Clarkston city
+13|16600|Claxton|Claxton city
+13|16656|Clayton|Clayton city
+13|16796|Clermont|Clermont town
+13|16824|Cleveland|Cleveland city
+13|16908|Climax|Climax city
+13|17272|Cobbtown|Cobbtown city
+13|17328|Cochran|Cochran city
+13|17496|Cohutta|Cohutta city
+13|17552|Colbert|Colbert city
+13|17776|College Park|College Park city
+13|17832|Collins|Collins city
+13|18000|Colquitt|Colquitt city
+13|19000|Columbus|Columbus city
+13|19084|Comer|Comer city
+13|19112|Commerce|Commerce city
+13|19168|Concord|Concord city
+13|19336|Conyers|Conyers city
+13|19392|Coolidge|Coolidge city
+13|19616|Cordele|Cordele city
+13|19728|Cornelia|Cornelia city
+13|20064|Covington|Covington city
+13|20288|Crawford|Crawford city
+13|20316|Crawfordville|Crawfordville city
+13|20848|Culloden|Culloden city
+13|20932|Cumming|Cumming city
+13|21017|Cusseta-Chattahoochee County|Cusseta-Chattahoochee County unified government
+13|21072|Cuthbert|Cuthbert city
+13|21184|Dacula|Dacula city
+13|21240|Dahlonega|Dahlonega city
+13|21268|Daisy|Daisy city
+13|21324|Dallas|Dallas city
+13|21380|Dalton|Dalton city
+13|21436|Damascus|Damascus city
+13|21632|Danielsville|Danielsville city
+13|21688|Danville|Danville town
+13|21716|Darien|Darien city
+13|21744|Dasher|Dasher town
+13|21800|Davisboro|Davisboro city
+13|21912|Dawson|Dawson city
+13|21940|Dawsonville|Dawsonville city
+13|22024|Dearing|Dearing town
+13|22052|Decatur|Decatur city
+13|22108|Deepstep|Deepstep town
+13|22304|Demorest|Demorest city
+13|22388|Denton|Denton city
+13|22472|De Soto|De Soto city
+13|22752|Dexter|Dexter town
+13|22976|Dillard|Dillard city
+13|23284|Doerun|Doerun city
+13|23368|Donalsonville|Donalsonville city
+13|23480|Dooling|Dooling town
+13|23536|Doraville|Doraville city
+13|23872|Douglas|Douglas city
+13|23900|Douglasville|Douglasville city
+13|24376|Dublin|Dublin city
+13|24488|Dudley|Dudley city
+13|24600|Duluth|Duluth city
+13|24768|Dunwoody|Dunwoody city
+13|24796|Du Pont|Du Pont town
+13|25300|East Dublin|East Dublin city
+13|25356|East Ellijay|East Ellijay city
+13|25552|Eastman|Eastman city
+13|25720|East Point|East Point city
+13|26084|Eatonton|Eatonton city
+13|26224|Edge Hill|Edge Hill city
+13|26448|Edison|Edison city
+13|26616|Elberton|Elberton city
+13|26980|Ellaville|Ellaville city
+13|27008|Ellenton|Ellenton town
+13|27092|Ellijay|Ellijay city
+13|27344|Emerson|Emerson city
+13|27596|Enigma|Enigma town
+13|27708|Ephesus|Ephesus city
+13|27932|Eton|Eton city
+13|27988|Euharlee|Euharlee city
+13|28380|Fairburn|Fairburn city
+13|28492|Fairmount|Fairmount city
+13|28744|Fargo|Fargo city
+13|28968|Fayetteville|Fayetteville city
+13|29528|Fitzgerald|Fitzgerald city
+13|30088|Flemington|Flemington city
+13|30312|Flovilla|Flovilla city
+13|30340|Flowery Branch|Flowery Branch city
+13|30424|Folkston|Folkston city
+13|30536|Forest Park|Forest Park city
+13|30732|Forsyth|Forsyth city
+13|30816|Fort Gaines|Fort Gaines city
+13|30956|Fort Oglethorpe|Fort Oglethorpe city
+13|31096|Fort Valley|Fort Valley city
+13|31292|Franklin|Franklin city
+13|31320|Franklin Springs|Franklin Springs city
+13|31684|Funston|Funston city
+13|31908|Gainesville|Gainesville city
+13|32048|Garden City|Garden City city
+13|32188|Garfield|Garfield city
+13|32384|Gay|Gay town
+13|32412|Geneva|Geneva town
+13|32528|Georgetown-Quitman County|Georgetown-Quitman County unified government
+13|32748|Gibson|Gibson city
+13|32860|Gillsville|Gillsville city
+13|32916|Girard|Girard town
+13|33336|Glennville|Glennville city
+13|33392|Glenwood|Glenwood city
+13|33896|Good Hope|Good Hope city
+13|33980|Gordon|Gordon city
+13|34260|Graham|Graham city
+13|34428|Grantville|Grantville city
+13|34512|Gray|Gray city
+13|34596|Grayson|Grayson city
+13|34876|Greensboro|Greensboro city
+13|35016|Greenville|Greenville city
+13|35324|Griffin|Griffin city
+13|35716|Grovetown|Grovetown city
+13|35800|Gumbranch|Gumbranch city
+13|35884|Guyton|Guyton city
+13|36024|Hagan|Hagan city
+13|36052|Hahira|Hahira city
+13|36220|Hamilton|Hamilton city
+13|36276|Hampton|Hampton city
+13|36472|Hapeville|Hapeville city
+13|36528|Haralson|Haralson town
+13|36696|Harlem|Harlem city
+13|36920|Harrison|Harrison town
+13|37144|Hartwell|Hartwell city
+13|37396|Hawkinsville|Hawkinsville city
+13|37564|Hazlehurst|Hazlehurst city
+13|37788|Helen|Helen city
+13|37816|Helena|Helena city
+13|38040|Hephzibah|Hephzibah city
+13|38124|Hiawassee|Hiawassee city
+13|38348|Higgston|Higgston town
+13|38920|Hiltonia|Hiltonia town
+13|38964|Hinesville|Hinesville city
+13|39076|Hiram|Hiram city
+13|39216|Hoboken|Hoboken city
+13|39244|Hogansville|Hogansville city
+13|39524|Holly Springs|Holly Springs city
+13|39692|Homeland|Homeland city
+13|39720|Homer|Homer town
+13|39748|Homerville|Homerville city
+13|40056|Hoschton|Hoschton city
+13|40532|Hull|Hull city
+13|40812|Ideal|Ideal city
+13|40840|Ila|Ila city
+13|41344|Iron City|Iron City town
+13|41400|Irwinton|Irwinton city
+13|41540|Ivey|Ivey city
+13|41596|Jackson|Jackson city
+13|41708|Jacksonville|Jacksonville city
+13|41792|Jakin|Jakin city
+13|41932|Jasper|Jasper city
+13|41988|Jefferson|Jefferson city
+13|42100|Jeffersonville|Jeffersonville city
+13|42156|Jenkinsburg|Jenkinsburg city
+13|42184|Jersey|Jersey city
+13|42268|Jesup|Jesup city
+13|42425|Johns Creek|Johns Creek city
+13|42604|Jonesboro|Jonesboro city
+13|42800|Junction City|Junction City town
+13|43192|Kennesaw|Kennesaw city
+13|43360|Keysville|Keysville city
+13|43640|Kingsland|Kingsland city
+13|43668|Kingston|Kingston city
+13|43892|Kite|Kite city
+13|44312|LaFayette|LaFayette city
+13|44340|LaGrange|LaGrange city
+13|44508|Lake City|Lake City city
+13|44592|Lakeland|Lakeland city
+13|44704|Lake Park|Lake Park city
+13|45460|Lavonia|Lavonia city
+13|45488|Lawrenceville|Lawrenceville city
+13|45600|Leary|Leary city
+13|45768|Leesburg|Leesburg city
+13|45936|Lenox|Lenox town
+13|46020|Leslie|Leslie city
+13|46188|Lexington|Lexington city
+13|46356|Lilburn|Lilburn city
+13|46384|Lilly|Lilly city
+13|46552|Lincolnton|Lincolnton city
+13|46860|Lithonia|Lithonia city
+13|47140|Locust Grove|Locust Grove city
+13|47196|Loganville|Loganville city
+13|47252|Lone Oak|Lone Oak town
+13|47336|Lookout Mountain|Lookout Mountain city
+13|47560|Louisville|Louisville city
+13|47616|Lovejoy|Lovejoy city
+13|47784|Ludowici|Ludowici city
+13|47896|Lula|Lula city
+13|47952|Lumber City|Lumber City city
+13|47980|Lumpkin|Lumpkin city
+13|48008|Luthersville|Luthersville city
+13|48092|Lyerly|Lyerly town
+13|48232|Lyons|Lyons city
+13|48428|McCaysville|McCaysville city
+13|48624|McDonough|McDonough city
+13|48848|McIntyre|McIntyre town
+13|49000|Macon|Macon city
+13|49084|McRae|McRae city
+13|49196|Madison|Madison city
+13|49504|Manassas|Manassas city
+13|49532|Manchester|Manchester city
+13|49616|Mansfield|Mansfield city
+13|49756|Marietta|Marietta city
+13|49924|Marshallville|Marshallville city
+13|50008|Martin|Martin town
+13|50260|Maxeys|Maxeys town
+13|50484|Maysville|Maysville town
+13|50596|Meansville|Meansville city
+13|50680|Meigs|Meigs city
+13|50848|Menlo|Menlo city
+13|51072|Metter|Metter city
+13|51240|Midville|Midville city
+13|51352|Midway|Midway city
+13|51408|Milan|Milan city
+13|51492|Milledgeville|Milledgeville city
+13|51520|Millen|Millen city
+13|51604|Milner|Milner city
+13|51670|Milton|Milton city
+13|51968|Mitchell|Mitchell town
+13|52108|Molena|Molena city
+13|52192|Monroe|Monroe city
+13|52304|Montezuma|Montezuma city
+13|52416|Monticello|Monticello city
+13|52500|Montrose|Montrose town
+13|52668|Moreland|Moreland town
+13|52696|Morgan|Morgan city
+13|52724|Morganton|Morganton city
+13|53004|Morrow|Morrow city
+13|53032|Morven|Morven city
+13|53060|Moultrie|Moultrie city
+13|53116|Mountain City|Mountain City town
+13|53172|Mountain Park|Mountain Park city
+13|53284|Mount Airy|Mount Airy town
+13|53508|Mount Vernon|Mount Vernon city
+13|53620|Mount Zion|Mount Zion city
+13|54124|Nahunta|Nahunta city
+13|54264|Nashville|Nashville city
+13|54572|Nelson|Nelson city
+13|54656|Newborn|Newborn town
+13|54992|Newington|Newington town
+13|55020|Newnan|Newnan city
+13|55244|Newton|Newton city
+13|55440|Nicholls|Nicholls city
+13|55468|Nicholson|Nicholson city
+13|55776|Norcross|Norcross city
+13|55860|Norman Park|Norman Park city
+13|56308|North High Shoals|North High Shoals town
+13|56560|Norwood|Norwood city
+13|56644|Nunez|Nunez city
+13|57232|Oak Park|Oak Park town
+13|57260|Oakwood|Oakwood city
+13|57372|Ochlocknee|Ochlocknee town
+13|57428|Ocilla|Ocilla city
+13|57456|Oconee|Oconee city
+13|57540|Odum|Odum city
+13|57568|Offerman|Offerman city
+13|57736|Oglethorpe|Oglethorpe city
+13|58100|Oliver|Oliver city
+13|58184|Omega|Omega city
+13|58296|Orchard Hill|Orchard Hill town
+13|58744|Oxford|Oxford city
+13|58884|Palmetto|Palmetto city
+13|59416|Parrott|Parrott town
+13|59500|Patterson|Patterson city
+13|59556|Pavo|Pavo city
+13|59584|Payne|Payne city
+13|59724|Peachtree City|Peachtree City city
+13|59808|Pearson|Pearson city
+13|59976|Pelham|Pelham city
+13|60004|Pembroke|Pembroke city
+13|60032|Pendergrass|Pendergrass town
+13|60340|Perry|Perry city
+13|60984|Pinehurst|Pinehurst city
+13|61040|Pine Lake|Pine Lake city
+13|61124|Pine Mountain|Pine Mountain town
+13|61320|Pineview|Pineview town
+13|61544|Pitts|Pitts city
+13|61628|Plains|Plains city
+13|61684|Plainville|Plainville city
+13|62104|Pooler|Pooler city
+13|62216|Portal|Portal town
+13|62244|Porterdale|Porterdale city
+13|62328|Port Wentworth|Port Wentworth city
+13|62496|Poulan|Poulan city
+13|62524|Powder Springs|Powder Springs city
+13|63000|Pulaski|Pulaski town
+13|63224|Quitman|Quitman city
+13|63560|Ranger|Ranger town
+13|63728|Ray City|Ray City city
+13|63756|Rayle|Rayle town
+13|63840|Rebecca|Rebecca town
+13|64372|Register|Register town
+13|64512|Reidsville|Reidsville city
+13|64596|Remerton|Remerton city
+13|64680|Rentz|Rentz city
+13|64736|Resaca|Resaca town
+13|64792|Rest Haven|Rest Haven town
+13|64876|Reynolds|Reynolds city
+13|64932|Rhine|Rhine town
+13|64960|Riceboro|Riceboro city
+13|65016|Richland|Richland city
+13|65044|Richmond Hill|Richmond Hill city
+13|65156|Riddleville|Riddleville town
+13|65296|Rincon|Rincon town
+13|65324|Ringgold|Ringgold city
+13|65464|Riverdale|Riverdale city
+13|65604|Riverside|Riverside town
+13|65856|Roberta|Roberta city
+13|66024|Rochelle|Rochelle city
+13|66276|Rockmart|Rockmart city
+13|66444|Rocky Ford|Rocky Ford town
+13|66668|Rome|Rome city
+13|66696|Roopville|Roopville town
+13|67256|Rossville|Rossville city
+13|67284|Roswell|Roswell city
+13|67452|Royston|Royston city
+13|67760|Rutledge|Rutledge city
+13|67984|St. Marys|St. Marys city
+13|68096|Sale City|Sale City city
+13|68208|Sandersville|Sandersville city
+13|68516|Sandy Springs|Sandy Springs city
+13|68600|Santa Claus|Santa Claus city
+13|68740|Sardis|Sardis city
+13|68796|Sasser|Sasser town
+13|69000|Savannah|Savannah city
+13|69336|Scotland|Scotland city
+13|69448|Screven|Screven city
+13|69672|Senoia|Senoia city
+13|69784|Shady Dale|Shady Dale town
+13|69896|Sharon|Sharon city
+13|69980|Sharpsburg|Sharpsburg town
+13|70120|Shellman|Shellman city
+13|70428|Shiloh|Shiloh city
+13|70932|Siloam|Siloam town
+13|71282|Sky Valley|Sky Valley city
+13|71464|Smithville|Smithville city
+13|71492|Smyrna|Smyrna city
+13|71604|Snellville|Snellville city
+13|71660|Social Circle|Social Circle city
+13|71772|Soperton|Soperton city
+13|72556|Sparks|Sparks town
+13|72584|Sparta|Sparta city
+13|72780|Springfield|Springfield city
+13|73004|Stapleton|Stapleton city
+13|73256|Statesboro|Statesboro city
+13|73312|Statham|Statham city
+13|73620|Stillmore|Stillmore city
+13|73704|Stockbridge|Stockbridge city
+13|73816|Stone Mountain|Stone Mountain city
+13|74180|Sugar Hill|Sugar Hill city
+13|74348|Summertown|Summertown city
+13|74376|Summerville|Summerville city
+13|74432|Sumner|Sumner town
+13|74572|Sunny Side|Sunny Side city
+13|74852|Surrency|Surrency town
+13|74936|Suwanee|Suwanee city
+13|74964|Swainsboro|Swainsboro city
+13|75104|Sycamore|Sycamore city
+13|75160|Sylvania|Sylvania city
+13|75188|Sylvester|Sylvester city
+13|75244|Talbotton|Talbotton city
+13|75272|Talking Rock|Talking Rock town
+13|75300|Tallapoosa|Tallapoosa city
+13|75328|Tallulah Falls|Tallulah Falls town
+13|75412|Talmo|Talmo town
+13|75496|Tarrytown|Tarrytown town
+13|75664|Taylorsville|Taylorsville town
+13|75832|Temple|Temple city
+13|75888|Tennille|Tennille city
+13|76168|Thomaston|Thomaston city
+13|76224|Thomasville|Thomasville city
+13|76280|Thomson|Thomson city
+13|76364|Thunderbolt|Thunderbolt town
+13|76476|Tifton|Tifton city
+13|76504|Tiger|Tiger town
+13|76532|Tignall|Tignall town
+13|76756|Toccoa|Toccoa city
+13|76952|Toomsboro|Toomsboro city
+13|77372|Trenton|Trenton city
+13|77540|Trion|Trion town
+13|77736|Tunnel Hill|Tunnel Hill city
+13|77764|Turin|Turin town
+13|77988|Twin City|Twin City city
+13|78036|Tybee Island|Tybee Island city
+13|78044|Tyrone|Tyrone town
+13|78100|Ty Ty|Ty Ty city
+13|78156|Unadilla|Unadilla city
+13|78324|Union City|Union City city
+13|78380|Union Point|Union Point city
+13|78744|Uvalda|Uvalda city
+13|78800|Valdosta|Valdosta city
+13|78996|Varnell|Varnell city
+13|79164|Vernonburg|Vernonburg town
+13|79388|Vidalia|Vidalia city
+13|79416|Vidette|Vidette city
+13|79444|Vienna|Vienna city
+13|79528|Villa Rica|Villa Rica city
+13|79808|Waco|Waco city
+13|79864|Wadley|Wadley city
+13|79948|Waleska|Waleska city
+13|80228|Walnut Grove|Walnut Grove city
+13|80256|Walthourville|Walthourville city
+13|80480|Warm Springs|Warm Springs city
+13|80508|Warner Robins|Warner Robins city
+13|80592|Warrenton|Warrenton city
+13|80676|Warwick|Warwick city
+13|80704|Washington|Washington city
+13|80788|Watkinsville|Watkinsville city
+13|80844|Waverly Hall|Waverly Hall town
+13|80956|Waycross|Waycross city
+13|80984|Waynesboro|Waynesboro city
+13|81128|Webster County|Webster County unified government
+13|82132|West Point|West Point city
+13|82412|Whigham|Whigham city
+13|82468|White|White city
+13|82692|White Plains|White Plains city
+13|82720|Whitesburg|Whitesburg city
+13|82972|Willacoochee|Willacoochee city
+13|83084|Williamson|Williamson city
+13|83420|Winder|Winder city
+13|83728|Winterville|Winterville city
+13|83868|Woodbine|Woodbine city
+13|83896|Woodbury|Woodbury city
+13|83952|Woodland|Woodland city
+13|84176|Woodstock|Woodstock city
+13|84260|Woodville|Woodville city
+13|84288|Woolsey|Woolsey town
+13|84456|Wrens|Wrens city
+13|84512|Wrightsville|Wrightsville city
+13|84708|Yatesville|Yatesville town
+13|84960|Young Harris|Young Harris city
+13|85128|Zebulon|Zebulon city

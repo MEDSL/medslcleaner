@@ -1,0 +1,595 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+55|00100|Abbotsford|Abbotsford city
+55|00275|Adams|Adams city
+55|00450|Adell|Adell village
+55|00750|Albany|Albany village
+55|01000|Algoma|Algoma city
+55|01150|Allouez|Allouez village
+55|01225|Alma|Alma city
+55|01300|Alma Center|Alma Center village
+55|01325|Almena|Almena village
+55|01400|Almond|Almond village
+55|01550|Altoona|Altoona city
+55|01725|Amery|Amery city
+55|01750|Amherst|Amherst village
+55|01800|Amherst Junction|Amherst Junction village
+55|02075|Aniwa|Aniwa village
+55|02250|Antigo|Antigo city
+55|02375|Appleton|Appleton city
+55|02500|Arcadia|Arcadia city
+55|02550|Arena|Arena village
+55|02650|Argyle|Argyle village
+55|02800|Arlington|Arlington village
+55|03025|Arpin|Arpin village
+55|03225|Ashland|Ashland city
+55|03425|Ashwaubenon|Ashwaubenon village
+55|03550|Athens|Athens village
+55|03775|Auburndale|Auburndale village
+55|03825|Augusta|Augusta city
+55|04025|Avoca|Avoca village
+55|04250|Bagley|Bagley village
+55|04400|Baldwin|Baldwin village
+55|04475|Balsam Lake|Balsam Lake village
+55|04550|Bangor|Bangor village
+55|04625|Baraboo|Baraboo city
+55|04775|Barneveld|Barneveld village
+55|04875|Barron|Barron city
+55|05325|Bay City|Bay City village
+55|05350|Bayfield|Bayfield city
+55|05450|Bayside|Bayside village
+55|05575|Bear Creek|Bear Creek village
+55|05900|Beaver Dam|Beaver Dam city
+55|06150|Belgium|Belgium village
+55|06225|Bell Center|Bell Center village
+55|06300|Belleville|Belleville village
+55|06350|Bellevue|Bellevue village
+55|06425|Belmont|Belmont village
+55|06500|Beloit|Beloit city
+55|06825|Benton|Benton village
+55|06925|Berlin|Berlin city
+55|07200|Big Bend|Big Bend village
+55|07250|Big Falls|Big Falls village
+55|07550|Birchwood|Birchwood village
+55|07600|Birnamwood|Birnamwood village
+55|07650|Biron|Biron village
+55|07725|Black Creek|Black Creek village
+55|07800|Black Earth|Black Earth village
+55|07900|Black River Falls|Black River Falls city
+55|08075|Blair|Blair city
+55|08125|Blanchardville|Blanchardville village
+55|08225|Bloomer|Bloomer city
+55|08375|Bloomington|Bloomington village
+55|08475|Blue Mounds|Blue Mounds village
+55|08525|Blue River|Blue River village
+55|08600|Boaz|Boaz village
+55|08725|Bonduel|Bonduel village
+55|08850|Boscobel|Boscobel city
+55|09025|Bowler|Bowler village
+55|09050|Boyceville|Boyceville village
+55|09075|Boyd|Boyd village
+55|09300|Brandon|Brandon village
+55|09725|Brillion|Brillion city
+55|09800|Bristol|Bristol village
+55|09925|Brodhead|Brodhead city
+55|09975|Brokaw|Brokaw village
+55|10025|Brookfield|Brookfield city
+55|10075|Brooklyn|Brooklyn village
+55|10375|Brown Deer|Brown Deer village
+55|10450|Brownsville|Brownsville village
+55|10475|Browntown|Browntown village
+55|10500|Bruce|Bruce village
+55|11062|Buffalo City|Buffalo City city
+55|11200|Burlington|Burlington city
+55|11475|Butler|Butler village
+55|11525|Butternut|Butternut village
+55|11750|Cadott|Cadott village
+55|11950|Caledonia|Caledonia village
+55|12200|Cambria|Cambria village
+55|12225|Cambridge|Cambridge village
+55|12250|Cameron|Cameron village
+55|12325|Campbellsport|Campbellsport village
+55|12350|Camp Douglas|Camp Douglas village
+55|12825|Cascade|Cascade village
+55|12850|Casco|Casco village
+55|12950|Cashton|Cashton village
+55|13050|Cassville|Cassville village
+55|13175|Catawba|Catawba village
+55|13300|Cazenovia|Cazenovia village
+55|13325|Cecil|Cecil village
+55|13375|Cedarburg|Cedarburg city
+55|13475|Cedar Grove|Cedar Grove village
+55|13850|Centuria|Centuria village
+55|14150|Chaseburg|Chaseburg village
+55|14225|Chenequa|Chenequa village
+55|14325|Chetek|Chetek city
+55|14475|Chilton|Chilton city
+55|14575|Chippewa Falls|Chippewa Falls city
+55|15100|Clayton|Clayton village
+55|15250|Clear Lake|Clear Lake village
+55|15400|Cleveland|Cleveland village
+55|15625|Clinton|Clinton village
+55|15725|Clintonville|Clintonville city
+55|15900|Clyman|Clyman village
+55|15975|Cobb|Cobb village
+55|16025|Cochrane|Cochrane village
+55|16150|Colby|Colby city
+55|16250|Coleman|Coleman village
+55|16275|Colfax|Colfax village
+55|16375|Coloma|Coloma village
+55|16450|Columbus|Columbus city
+55|16500|Combined Locks|Combined Locks village
+55|16775|Conrath|Conrath village
+55|16900|Coon Valley|Coon Valley village
+55|17100|Cornell|Cornell city
+55|17175|Cottage Grove|Cottage Grove village
+55|17225|Couderay|Couderay village
+55|17425|Crandon|Crandon city
+55|17725|Crivitz|Crivitz village
+55|17775|Cross Plains|Cross Plains village
+55|17950|Cuba City|Cuba City city
+55|17975|Cudahy|Cudahy city
+55|18025|Cumberland|Cumberland city
+55|18125|Curtiss|Curtiss village
+55|18575|Dallas|Dallas village
+55|18700|Dane|Dane village
+55|18825|Darien|Darien village
+55|18875|Darlington|Darlington city
+55|19250|Deerfield|Deerfield village
+55|19325|Deer Park|Deer Park village
+55|19350|DeForest|DeForest village
+55|19400|Delafield|Delafield city
+55|19450|Delavan|Delavan city
+55|19700|Denmark|Denmark village
+55|19775|De Pere|De Pere city
+55|19850|De Soto|De Soto village
+55|20175|Dickeyville|Dickeyville village
+55|20350|Dodgeville|Dodgeville city
+55|20450|Dorchester|Dorchester village
+55|20550|Dousman|Dousman village
+55|20675|Downing|Downing village
+55|20775|Doylestown|Doylestown village
+55|20850|Dresser|Dresser village
+55|21225|Durand|Durand city
+55|21425|Eagle|Eagle village
+55|21625|Eagle River|Eagle River city
+55|21900|Eastman|Eastman village
+55|22100|East Troy|East Troy village
+55|22300|Eau Claire|Eau Claire city
+55|22475|Eden|Eden village
+55|22550|Edgar|Edgar village
+55|22575|Edgerton|Edgerton city
+55|22850|Egg Harbor|Egg Harbor village
+55|22975|Eland|Eland village
+55|23075|Elderon|Elderon village
+55|23175|Eleva|Eleva village
+55|23275|Elkhart Lake|Elkhart Lake village
+55|23300|Elkhorn|Elkhorn city
+55|23325|Elk Mound|Elk Mound village
+55|23525|Ellsworth|Ellsworth village
+55|23575|Elm Grove|Elm Grove village
+55|23700|Elmwood|Elmwood village
+55|23725|Elmwood Park|Elmwood Park village
+55|23800|Elroy|Elroy city
+55|23850|Embarrass|Embarrass village
+55|24075|Endeavor|Endeavor village
+55|24150|Ephraim|Ephraim village
+55|24400|Ettrick|Ettrick village
+55|24550|Evansville|Evansville city
+55|24700|Exeland|Exeland village
+55|24825|Fairchild|Fairchild village
+55|25075|Fairwater|Fairwater village
+55|25125|Fall Creek|Fall Creek village
+55|25150|Fall River|Fall River village
+55|25600|Fennimore|Fennimore city
+55|25650|Fenwood|Fenwood village
+55|25725|Ferryville|Ferryville village
+55|25950|Fitchburg|Fitchburg city
+55|26275|Fond du Lac|Fond du Lac city
+55|26350|Fontana-on-Geneva Lake|Fontana-on-Geneva Lake village
+55|26400|Footville|Footville village
+55|26625|Forestville|Forestville village
+55|26675|Fort Atkinson|Fort Atkinson city
+55|26850|Fountain City|Fountain City city
+55|27000|Fox Lake|Fox Lake city
+55|27075|Fox Point|Fox Point village
+55|27125|Francis Creek|Francis Creek village
+55|27300|Franklin|Franklin city
+55|27500|Frederic|Frederic village
+55|27550|Fredonia|Fredonia village
+55|27800|Fremont|Fremont village
+55|27950|Friendship|Friendship village
+55|28000|Friesland|Friesland village
+55|28200|Galesville|Galesville city
+55|28450|Gays Mills|Gays Mills village
+55|28625|Genoa|Genoa village
+55|28675|Genoa City|Genoa City village
+55|28875|Germantown|Germantown village
+55|29050|Gillett|Gillett city
+55|29175|Gilman|Gilman village
+55|29350|Glenbeulah|Glenbeulah village
+55|29400|Glendale|Glendale city
+55|29475|Glen Flora|Glen Flora village
+55|29625|Glenwood City|Glenwood City city
+55|30000|Grafton|Grafton village
+55|30425|Granton|Granton village
+55|30450|Grantsburg|Grantsburg village
+55|30575|Gratiot|Gratiot village
+55|31000|Green Bay|Green Bay city
+55|31125|Greendale|Greendale village
+55|31175|Greenfield|Greenfield city
+55|31300|Green Lake|Green Lake city
+55|31575|Greenwood|Greenwood city
+55|31675|Gresham|Gresham village
+55|32075|Hales Corners|Hales Corners village
+55|32325|Hammond|Hammond village
+55|32450|Hancock|Hancock village
+55|33000|Hartford|Hartford city
+55|33100|Hartland|Hartland village
+55|33175|Hatley|Hatley village
+55|33225|Haugen|Haugen village
+55|33275|Hawkins|Hawkins village
+55|33450|Hayward|Hayward city
+55|33500|Hazel Green|Hazel Green village
+55|34250|Hewitt|Hewitt village
+55|34450|Highland|Highland village
+55|34575|Hilbert|Hilbert village
+55|34825|Hillsboro|Hillsboro city
+55|35075|Hixton|Hixton village
+55|35150|Hobart|Hobart village
+55|35400|Hollandale|Hollandale village
+55|35450|Holmen|Holmen village
+55|35750|Horicon|Horicon city
+55|35850|Hortonville|Hortonville village
+55|35950|Howard|Howard village
+55|36025|Howards Grove|Howards Grove village
+55|36250|Hudson|Hudson city
+55|36525|Hurley|Hurley city
+55|36625|Hustisford|Hustisford village
+55|36675|Hustler|Hustler village
+55|36800|Independence|Independence city
+55|36925|Ingram|Ingram village
+55|37025|Iola|Iola village
+55|37150|Iron Ridge|Iron Ridge village
+55|37225|Ironton|Ironton village
+55|37675|Jackson|Jackson village
+55|37825|Janesville|Janesville city
+55|37900|Jefferson|Jefferson city
+55|38350|Johnson Creek|Johnson Creek village
+55|38650|Junction City|Junction City village
+55|38675|Juneau|Juneau city
+55|38800|Kaukauna|Kaukauna city
+55|38900|Kekoskee|Kekoskee village
+55|39000|Kellnersville|Kellnersville village
+55|39150|Kendall|Kendall village
+55|39175|Kennan|Kennan village
+55|39225|Kenosha|Kenosha city
+55|39300|Kewaskum|Kewaskum village
+55|39350|Kewaunee|Kewaunee city
+55|39525|Kiel|Kiel city
+55|39650|Kimberly|Kimberly village
+55|39750|Kingston|Kingston village
+55|39975|Knapp|Knapp village
+55|40275|Kohler|Kohler village
+55|40550|Kronenwetter|Kronenwetter village
+55|40750|Lac La Belle|Lac La Belle village
+55|40775|La Crosse|La Crosse city
+55|40850|Ladysmith|Ladysmith city
+55|40875|La Farge|La Farge village
+55|41300|Lake Delton|Lake Delton village
+55|41450|Lake Geneva|Lake Geneva city
+55|41525|Lake Hallie|Lake Hallie village
+55|41675|Lake Mills|Lake Mills city
+55|41725|Lake Nebagamon|Lake Nebagamon village
+55|42250|Lancaster|Lancaster city
+55|42450|Lannon|Lannon village
+55|42825|La Valle|La Valle village
+55|43325|Lena|Lena village
+55|44225|Lime Ridge|Lime Ridge village
+55|44625|Linden|Linden village
+55|44950|Little Chute|Little Chute village
+55|45325|Livingston|Livingston village
+55|45350|Lodi|Lodi city
+55|45400|Loganville|Loganville village
+55|45425|Lohrville|Lohrville village
+55|45475|Lomira|Lomira village
+55|45575|Lone Rock|Lone Rock village
+55|45950|Lowell|Lowell village
+55|46075|Loyal|Loyal city
+55|46150|Lublin|Lublin village
+55|46200|Luck|Luck village
+55|46400|Luxemburg|Luxemburg village
+55|46600|Lyndon Station|Lyndon Station village
+55|46675|Lynxville|Lynxville village
+55|46850|McFarland|McFarland village
+55|48000|Madison|Madison city
+55|48175|Maiden Rock|Maiden Rock village
+55|48350|Manawa|Manawa city
+55|48500|Manitowoc|Manitowoc city
+55|48750|Maple Bluff|Maple Bluff village
+55|49100|Marathon City|Marathon City village
+55|49250|Maribel|Maribel village
+55|49300|Marinette|Marinette city
+55|49400|Marion|Marion city
+55|49450|Markesan|Markesan city
+55|49500|Marquette|Marquette village
+55|49575|Marshall|Marshall village
+55|49675|Marshfield|Marshfield city
+55|49900|Mason|Mason village
+55|50000|Mattoon|Mattoon village
+55|50025|Mauston|Mauston city
+55|50200|Mayville|Mayville city
+55|50225|Mazomanie|Mazomanie village
+55|50425|Medford|Medford city
+55|50700|Mellen|Mellen city
+55|50750|Melrose|Melrose village
+55|50800|Melvina|Melvina village
+55|50825|Menasha|Menasha city
+55|51000|Menomonee Falls|Menomonee Falls village
+55|51025|Menomonie|Menomonie city
+55|51150|Mequon|Mequon city
+55|51250|Merrill|Merrill city
+55|51300|Merrillan|Merrillan village
+55|51325|Merrimac|Merrimac village
+55|51375|Merton|Merton village
+55|51575|Middleton|Middleton city
+55|51875|Milladore|Milladore village
+55|52075|Milltown|Milltown village
+55|52200|Milton|Milton city
+55|53000|Milwaukee|Milwaukee city
+55|53100|Mineral Point|Mineral Point city
+55|53250|Minong|Minong village
+55|53325|Mishicot|Mishicot village
+55|53600|Mondovi|Mondovi city
+55|53675|Monona|Monona city
+55|53750|Monroe|Monroe city
+55|53875|Montello|Montello city
+55|53950|Montfort|Montfort village
+55|54000|Monticello|Monticello village
+55|54075|Montreal|Montreal city
+55|54500|Mosinee|Mosinee city
+55|54650|Mount Calvary|Mount Calvary village
+55|54675|Mount Hope|Mount Hope village
+55|54725|Mount Horeb|Mount Horeb village
+55|54875|Mount Pleasant|Mount Pleasant village
+55|54900|Mount Sterling|Mount Sterling village
+55|55050|Mukwonago|Mukwonago village
+55|55200|Muscoda|Muscoda village
+55|55275|Muskego|Muskego city
+55|55550|Nashotah|Nashotah village
+55|55700|Necedah|Necedah village
+55|55750|Neenah|Neenah city
+55|55800|Neillsville|Neillsville city
+55|55875|Nekoosa|Nekoosa city
+55|55950|Nelson|Nelson village
+55|56000|Nelsonville|Nelsonville village
+55|56075|Neosho|Neosho village
+55|56125|Neshkoro|Neshkoro village
+55|56350|New Auburn|New Auburn village
+55|56375|New Berlin|New Berlin city
+55|56450|Newburg|Newburg village
+55|56700|New Glarus|New Glarus village
+55|56800|New Holstein|New Holstein city
+55|56900|New Lisbon|New Lisbon city
+55|56925|New London|New London city
+55|57100|New Richmond|New Richmond city
+55|57325|Niagara|Niagara city
+55|57375|Nichols|Nichols village
+55|57700|North Bay|North Bay village
+55|58000|North Fond du Lac|North Fond du Lac village
+55|58025|North Freedom|North Freedom village
+55|58050|North Hudson|North Hudson village
+55|58400|North Prairie|North Prairie village
+55|58575|Norwalk|Norwalk village
+55|58800|Oak Creek|Oak Creek city
+55|58850|Oakdale|Oakdale village
+55|58900|Oakfield|Oakfield village
+55|59250|Oconomowoc|Oconomowoc city
+55|59300|Oconomowoc Lake|Oconomowoc Lake village
+55|59350|Oconto|Oconto city
+55|59400|Oconto Falls|Oconto Falls city
+55|59475|Ogdensburg|Ogdensburg village
+55|59800|Oliver|Oliver village
+55|59875|Omro|Omro city
+55|59925|Onalaska|Onalaska city
+55|60075|Ontario|Ontario village
+55|60100|Oostburg|Oostburg village
+55|60200|Oregon|Oregon village
+55|60250|Orfordville|Orfordville village
+55|60450|Osceola|Osceola village
+55|60500|Oshkosh|Oshkosh city
+55|60575|Osseo|Osseo city
+55|60825|Owen|Owen city
+55|60875|Oxford|Oxford village
+55|60975|Paddock Lake|Paddock Lake village
+55|61025|Palmyra|Palmyra village
+55|61100|Pardeeville|Pardeeville village
+55|61200|Park Falls|Park Falls city
+55|61325|Park Ridge|Park Ridge village
+55|61425|Patch Grove|Patch Grove village
+55|61925|Pepin|Pepin village
+55|62175|Peshtigo|Peshtigo city
+55|62240|Pewaukee|Pewaukee city
+55|62250|Pewaukee|Pewaukee village
+55|62450|Phillips|Phillips city
+55|62675|Pigeon Falls|Pigeon Falls village
+55|63100|Pittsville|Pittsville city
+55|63125|Plain|Plain village
+55|63150|Plainfield|Plainfield village
+55|63250|Platteville|Platteville city
+55|63300|Pleasant Prairie|Pleasant Prairie village
+55|63525|Plover|Plover village
+55|63600|Plum City|Plum City village
+55|63700|Plymouth|Plymouth city
+55|63975|Poplar|Poplar village
+55|64100|Portage|Portage city
+55|64175|Port Edwards|Port Edwards village
+55|64450|Port Washington|Port Washington city
+55|64625|Potosi|Potosi village
+55|64675|Potter|Potter village
+55|64750|Pound|Pound village
+55|64900|Poynette|Poynette village
+55|65050|Prairie du Chien|Prairie du Chien city
+55|65100|Prairie du Sac|Prairie du Sac village
+55|65150|Prairie Farm|Prairie Farm village
+55|65325|Prentice|Prentice village
+55|65375|Prescott|Prescott city
+55|65600|Princeton|Princeton city
+55|65675|Pulaski|Pulaski village
+55|66000|Racine|Racine city
+55|66050|Radisson|Radisson village
+55|66150|Randolph|Randolph village
+55|66200|Random Lake|Random Lake village
+55|66450|Readstown|Readstown village
+55|66625|Redgranite|Redgranite village
+55|66800|Reedsburg|Reedsburg city
+55|66875|Reedsville|Reedsville village
+55|66900|Reeseville|Reeseville village
+55|67100|Rewey|Rewey village
+55|67200|Rhinelander|Rhinelander city
+55|67275|Rib Lake|Rib Lake village
+55|67350|Rice Lake|Rice Lake city
+55|67475|Richfield|Richfield village
+55|67625|Richland Center|Richland Center city
+55|67800|Ridgeland|Ridgeland village
+55|67875|Ridgeway|Ridgeway village
+55|68100|Rio|Rio village
+55|68175|Ripon|Ripon city
+55|68275|River Falls|River Falls city
+55|68325|River Hills|River Hills village
+55|68475|Roberts|Roberts village
+55|68550|Rochester|Rochester village
+55|68725|Rockdale|Rockdale village
+55|68900|Rockland|Rockland village
+55|68975|Rock Springs|Rock Springs village
+55|69525|Rosendale|Rosendale village
+55|69575|Rosholt|Rosholt village
+55|69725|Rothschild|Rothschild village
+55|70000|Rudolph|Rudolph village
+55|70500|St. Cloud|St. Cloud village
+55|70550|St. Croix Falls|St. Croix Falls city
+55|70650|St. Francis|St. Francis city
+55|71025|St. Nazianz|St. Nazianz village
+55|71650|Sauk City|Sauk City village
+55|71700|Saukville|Saukville village
+55|71975|Scandinavia|Scandinavia village
+55|72150|Schofield|Schofield city
+55|72725|Seymour|Seymour city
+55|72875|Sharon|Sharon village
+55|72925|Shawano|Shawano city
+55|72975|Sheboygan|Sheboygan city
+55|73025|Sheboygan Falls|Sheboygan Falls city
+55|73175|Sheldon|Sheldon village
+55|73200|Shell Lake|Shell Lake city
+55|73525|Sherwood|Sherwood village
+55|73625|Shiocton|Shiocton village
+55|73725|Shorewood|Shorewood village
+55|73750|Shorewood Hills|Shorewood Hills village
+55|73825|Shullsburg|Shullsburg city
+55|74025|Silver Lake|Silver Lake village
+55|74175|Siren|Siren village
+55|74225|Sister Bay|Sister Bay village
+55|74400|Slinger|Slinger village
+55|74550|Soldiers Grove|Soldiers Grove village
+55|74575|Solon Springs|Solon Springs village
+55|74675|Somerset|Somerset village
+55|75125|South Milwaukee|South Milwaukee city
+55|75275|South Wayne|South Wayne village
+55|75325|Sparta|Sparta city
+55|75400|Spencer|Spencer village
+55|75625|Spooner|Spooner city
+55|76025|Spring Green|Spring Green village
+55|76300|Spring Valley|Spring Valley village
+55|76625|Stanley|Stanley city
+55|76825|Star Prairie|Star Prairie village
+55|77100|Stetsonville|Stetsonville village
+55|77175|Steuben|Steuben village
+55|77200|Stevens Point|Stevens Point city
+55|77400|Stockbridge|Stockbridge village
+55|77475|Stockholm|Stockholm village
+55|77550|Stoddard|Stoddard village
+55|77675|Stoughton|Stoughton city
+55|77750|Stratford|Stratford village
+55|77825|Strum|Strum village
+55|77875|Sturgeon Bay|Sturgeon Bay city
+55|77925|Sturtevant|Sturtevant village
+55|77975|Suamico|Suamico village
+55|78175|Sullivan|Sullivan village
+55|78600|Sun Prairie|Sun Prairie city
+55|78650|Superior|Superior city
+55|78660|Superior|Superior village
+55|78725|Suring|Suring village
+55|78750|Sussex|Sussex village
+55|79150|Taylor|Taylor village
+55|79250|Tennyson|Tennyson village
+55|79375|Theresa|Theresa village
+55|79475|Thiensville|Thiensville village
+55|79625|Thorp|Thorp city
+55|79825|Tigerton|Tigerton village
+55|80075|Tomah|Tomah city
+55|80125|Tomahawk|Tomahawk city
+55|80225|Tony|Tony village
+55|80475|Trempealeau|Trempealeau village
+55|81075|Turtle Lake|Turtle Lake village
+55|81250|Twin Lakes|Twin Lakes village
+55|81325|Two Rivers|Two Rivers city
+55|81725|Union Center|Union Center village
+55|81775|Union Grove|Union Grove village
+55|81850|Unity|Unity village
+55|82200|Valders|Valders village
+55|82600|Verona|Verona city
+55|82650|Vesper|Vesper village
+55|82900|Viola|Viola village
+55|82925|Viroqua|Viroqua city
+55|83100|Waldo|Waldo village
+55|83175|Wales|Wales village
+55|83250|Walworth|Walworth village
+55|83450|Warrens|Warrens village
+55|83525|Washburn|Washburn city
+55|83825|Waterford|Waterford village
+55|83925|Waterloo|Waterloo city
+55|83975|Watertown|Watertown city
+55|84250|Waukesha|Waukesha city
+55|84350|Waunakee|Waunakee village
+55|84375|Waupaca|Waupaca city
+55|84425|Waupun|Waupun city
+55|84475|Wausau|Wausau city
+55|84525|Wausaukee|Wausaukee village
+55|84625|Wautoma|Wautoma city
+55|84675|Wauwatosa|Wauwatosa city
+55|84725|Wauzeka|Wauzeka village
+55|85025|Webster|Webster village
+55|85300|West Allis|West Allis city
+55|85325|West Baraboo|West Baraboo village
+55|85350|West Bend|West Bend city
+55|85475|Westby|Westby city
+55|85575|Westfield|Westfield village
+55|85875|West Milwaukee|West Milwaukee village
+55|86025|Weston|Weston village
+55|86275|West Salem|West Salem village
+55|86400|Weyauwega|Weyauwega city
+55|86450|Weyerhaeuser|Weyerhaeuser village
+55|86575|Wheeler|Wheeler village
+55|86700|Whitefish Bay|Whitefish Bay village
+55|86725|Whitehall|Whitehall city
+55|86750|White Lake|White Lake village
+55|86775|Whitelaw|Whitelaw village
+55|86925|Whitewater|Whitewater city
+55|86975|Whiting|Whiting village
+55|87075|Wild Rose|Wild Rose village
+55|87200|Williams Bay|Williams Bay village
+55|87475|Wilson|Wilson village
+55|87525|Wilton|Wilton village
+55|87700|Wind Point|Wind Point village
+55|87900|Winneconne|Winneconne village
+55|87975|Winter|Winter village
+55|88150|Wisconsin Dells|Wisconsin Dells city
+55|88200|Wisconsin Rapids|Wisconsin Rapids city
+55|88275|Withee|Withee village
+55|88325|Wittenberg|Wittenberg village
+55|88500|Wonewoc|Wonewoc village
+55|88825|Woodman|Woodman village
+55|89025|Woodville|Woodville village
+55|89150|Wrightstown|Wrightstown village
+55|89275|Wyeville|Wyeville village
+55|89300|Wyocena|Wyocena village
+55|89625|Yuba|Yuba village

@@ -1,0 +1,1215 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+48|00100|Abbott|Abbott city
+48|00160|Abernathy|Abernathy city
+48|01000|Abilene|Abilene city
+48|01108|Ackerly|Ackerly city
+48|01240|Addison|Addison town
+48|01324|Adrian|Adrian city
+48|01396|Agua Dulce|Agua Dulce city
+48|01576|Alamo|Alamo city
+48|01600|Alamo Heights|Alamo Heights city
+48|01636|Alba|Alba town
+48|01648|Albany|Albany city
+48|01744|Aledo|Aledo city
+48|01852|Alice|Alice city
+48|01924|Allen|Allen city
+48|02044|Alma|Alma town
+48|02104|Alpine|Alpine city
+48|02188|Alto|Alto town
+48|02212|Alton|Alton city
+48|02260|Alvarado|Alvarado city
+48|02272|Alvin|Alvin city
+48|02284|Alvord|Alvord town
+48|03000|Amarillo|Amarillo city
+48|03072|Ames|Ames city
+48|03084|Amherst|Amherst city
+48|03144|Anahuac|Anahuac city
+48|03192|Anderson|Anderson city
+48|03216|Andrews|Andrews city
+48|03264|Angleton|Angleton city
+48|03288|Angus|Angus city
+48|03300|Anna|Anna city
+48|03336|Annetta|Annetta town
+48|03340|Annetta North|Annetta North town
+48|03342|Annetta South|Annetta South town
+48|03360|Annona|Annona town
+48|03372|Anson|Anson city
+48|03432|Anthony|Anthony town
+48|03540|Anton|Anton city
+48|03564|Appleby|Appleby city
+48|03588|Aquilla|Aquilla city
+48|03600|Aransas Pass|Aransas Pass city
+48|03696|Archer City|Archer City city
+48|03708|Arcola|Arcola city
+48|03768|Argyle|Argyle city
+48|04000|Arlington|Arlington city
+48|04156|Arp|Arp city
+48|04300|Asherton|Asherton city
+48|04408|Aspermont|Aspermont town
+48|04504|Athens|Athens city
+48|04516|Atlanta|Atlanta city
+48|04600|Aubrey|Aubrey city
+48|04672|Aurora|Aurora city
+48|05000|Austin|Austin city
+48|05036|Austwell|Austwell city
+48|05072|Avery|Avery town
+48|05084|Avinger|Avinger town
+48|05168|Azle|Azle city
+48|05264|Bailey|Bailey city
+48|05288|Bailey's Prairie|Bailey's Prairie village
+48|05336|Baird|Baird city
+48|05372|Balch Springs|Balch Springs city
+48|05384|Balcones Heights|Balcones Heights city
+48|05456|Ballinger|Ballinger city
+48|05468|Balmorhea|Balmorhea city
+48|05528|Bandera|Bandera city
+48|05552|Bangs|Bangs city
+48|05612|Bardwell|Bardwell city
+48|05708|Barry|Barry city
+48|05720|Barstow|Barstow city
+48|05732|Bartlett|Bartlett city
+48|05768|Bartonville|Bartonville town
+48|05864|Bastrop|Bastrop city
+48|05984|Bay City|Bay City city
+48|06060|Bayou Vista|Bayou Vista city
+48|06104|Bayside|Bayside town
+48|06128|Baytown|Baytown city
+48|06140|Bayview|Bayview town
+48|06200|Beach City|Beach City city
+48|06242|Bear Creek|Bear Creek village
+48|06272|Beasley|Beasley city
+48|07000|Beaumont|Beaumont city
+48|07108|Beckville|Beckville city
+48|07132|Bedford|Bedford city
+48|07144|Bedias|Bedias city
+48|07156|Bee Cave|Bee Cave city
+48|07192|Beeville|Beeville city
+48|07300|Bellaire|Bellaire city
+48|07396|Bellevue|Bellevue city
+48|07408|Bellmead|Bellmead city
+48|07420|Bells|Bells town
+48|07432|Bellville|Bellville city
+48|07492|Belton|Belton city
+48|07528|Benavides|Benavides city
+48|07552|Benbrook|Benbrook city
+48|07636|Benjamin|Benjamin city
+48|07852|Berryville|Berryville town
+48|07864|Bertram|Bertram city
+48|08104|Beverly Hills|Beverly Hills city
+48|08128|Bevil Oaks|Bevil Oaks city
+48|08212|Big Lake|Big Lake city
+48|08224|Big Sandy|Big Sandy town
+48|08236|Big Spring|Big Spring city
+48|08260|Big Wells|Big Wells city
+48|08392|Bishop|Bishop city
+48|08398|Bishop Hills|Bishop Hills town
+48|08488|Blackwell|Blackwell city
+48|08536|Blanco|Blanco city
+48|08596|Blanket|Blanket town
+48|08752|Bloomburg|Bloomburg town
+48|08788|Blooming Grove|Blooming Grove town
+48|08812|Blossom|Blossom city
+48|08860|Blue Mound|Blue Mound city
+48|08872|Blue Ridge|Blue Ridge city
+48|09004|Blum|Blum town
+48|09160|Boerne|Boerne city
+48|09172|Bogata|Bogata city
+48|09328|Bonham|Bonham city
+48|09388|Bonney|Bonney village
+48|09448|Booker|Booker town
+48|09556|Borger|Borger city
+48|09628|Bovina|Bovina city
+48|09640|Bowie|Bowie city
+48|09748|Boyd|Boyd town
+48|09868|Brackettville|Brackettville city
+48|09916|Brady|Brady city
+48|10072|Brazoria|Brazoria city
+48|10087|Brazos Bend|Brazos Bend city
+48|10090|Brazos Country|Brazos Country city
+48|10132|Breckenridge|Breckenridge city
+48|10144|Bremond|Bremond city
+48|10156|Brenham|Brenham city
+48|10197|Briarcliff|Briarcliff village
+48|10216|Briaroaks|Briaroaks city
+48|10252|Bridge City|Bridge City city
+48|10264|Bridgeport|Bridgeport city
+48|10384|Broaddus|Broaddus town
+48|10528|Bronte|Bronte town
+48|10636|Brookshire|Brookshire city
+48|10648|Brookside Village|Brookside Village city
+48|10708|Browndell|Browndell city
+48|10720|Brownfield|Brownfield city
+48|10756|Brownsboro|Brownsboro city
+48|10768|Brownsville|Brownsville city
+48|10780|Brownwood|Brownwood city
+48|10828|Bruceville-Eddy|Bruceville-Eddy city
+48|10912|Bryan|Bryan city
+48|10960|Bryson|Bryson city
+48|11020|Buckholts|Buckholts town
+48|11080|Buda|Buda city
+48|11116|Buffalo|Buffalo city
+48|11128|Buffalo Gap|Buffalo Gap town
+48|11155|Buffalo Springs|Buffalo Springs village
+48|11212|Bullard|Bullard town
+48|11224|Bulverde|Bulverde city
+48|11300|Bunker Hill Village|Bunker Hill Village city
+48|11368|Burkburnett|Burkburnett city
+48|11380|Burke|Burke city
+48|11428|Burleson|Burleson city
+48|11464|Burnet|Burnet city
+48|11536|Burton|Burton city
+48|11644|Byers|Byers city
+48|11656|Bynum|Bynum town
+48|11692|Cactus|Cactus city
+48|11716|Caddo Mills|Caddo Mills city
+48|11836|Caldwell|Caldwell city
+48|11968|Callisburg|Callisburg city
+48|11992|Calvert|Calvert city
+48|12040|Cameron|Cameron city
+48|12112|Campbell|Campbell city
+48|12388|Camp Wood|Camp Wood city
+48|12412|Canadian|Canadian city
+48|12472|Caney City|Caney City town
+48|12496|Canton|Canton city
+48|12532|Canyon|Canyon city
+48|12736|Carbon|Carbon town
+48|12895|Carl's Corner|Carl's Corner town
+48|12916|Carmine|Carmine city
+48|12988|Carrizo Springs|Carrizo Springs city
+48|13024|Carrollton|Carrollton city
+48|13108|Carthage|Carthage city
+48|13198|Cashion Community|Cashion Community city
+48|13276|Castle Hills|Castle Hills city
+48|13312|Castroville|Castroville city
+48|13492|Cedar Hill|Cedar Hill city
+48|13552|Cedar Park|Cedar Park city
+48|13672|Celeste|Celeste city
+48|13684|Celina|Celina city
+48|13732|Center|Center city
+48|13900|Centerville|Centerville city
+48|14224|Chandler|Chandler city
+48|14260|Channing|Channing city
+48|14404|Charlotte|Charlotte city
+48|14584|Chester|Chester town
+48|14620|Chico|Chico city
+48|14668|Childress|Childress city
+48|14680|Chillicothe|Chillicothe city
+48|14704|China|China city
+48|14716|China Grove|China Grove town
+48|14776|Chireno|Chireno city
+48|14860|Christine|Christine town
+48|14920|Cibolo|Cibolo city
+48|15004|Cisco|Cisco city
+48|15112|Clarendon|Clarendon city
+48|15160|Clarksville|Clarksville city
+48|15172|Clarksville City|Clarksville City city
+48|15196|Claude|Claude city
+48|15328|Clear Lake Shores|Clear Lake Shores city
+48|15364|Cleburne|Cleburne city
+48|15436|Cleveland|Cleveland city
+48|15472|Clifton|Clifton city
+48|15544|Clint|Clint town
+48|15652|Clute|Clute city
+48|15676|Clyde|Clyde city
+48|15700|Coahoma|Coahoma town
+48|15796|Cockrell Hill|Cockrell Hill city
+48|15820|Coffee City|Coffee City town
+48|15892|Coldspring|Coldspring city
+48|15916|Coleman|Coleman city
+48|15976|College Station|College Station city
+48|15988|Colleyville|Colleyville city
+48|16036|Collinsville|Collinsville town
+48|16048|Colmesneil|Colmesneil city
+48|16120|Colorado City|Colorado City city
+48|16168|Columbus|Columbus city
+48|16192|Comanche|Comanche city
+48|16204|Combes|Combes town
+48|16216|Combine|Combine city
+48|16240|Commerce|Commerce city
+48|16252|Como|Como town
+48|16432|Conroe|Conroe city
+48|16468|Converse|Converse city
+48|16540|Cool|Cool city
+48|16552|Coolidge|Coolidge town
+48|16564|Cooper|Cooper city
+48|16612|Coppell|Coppell city
+48|16624|Copperas Cove|Copperas Cove city
+48|16636|Copper Canyon|Copper Canyon town
+48|16696|Corinth|Corinth city
+48|17000|Corpus Christi|Corpus Christi city
+48|17024|Corral City|Corral City town
+48|17036|Corrigan|Corrigan town
+48|17060|Corsicana|Corsicana city
+48|17200|Cottonwood|Cottonwood city
+48|17208|Cottonwood Shores|Cottonwood Shores city
+48|17216|Cotulla|Cotulla city
+48|17336|Cove|Cove city
+48|17372|Covington|Covington city
+48|17504|Crandall|Crandall city
+48|17516|Crane|Crane city
+48|17540|Cranfills Gap|Cranfills Gap city
+48|17564|Crawford|Crawford town
+48|17612|Creedmoor|Creedmoor city
+48|17648|Cresson|Cresson city
+48|17744|Crockett|Crockett city
+48|17768|Crosbyton|Crosbyton city
+48|17816|Cross Plains|Cross Plains town
+48|17852|Cross Roads|Cross Roads town
+48|17917|Cross Timber|Cross Timber town
+48|17948|Crowell|Crowell city
+48|17960|Crowley|Crowley city
+48|18020|Crystal City|Crystal City city
+48|18092|Cuero|Cuero city
+48|18128|Cumby|Cumby city
+48|18152|Cuney|Cuney town
+48|18224|Cushing|Cushing city
+48|18260|Cut and Shoot|Cut and Shoot city
+48|18464|Daingerfield|Daingerfield city
+48|18476|Daisetta|Daisetta city
+48|18524|Dalhart|Dalhart city
+48|19000|Dallas|Dallas city
+48|19084|Dalworthington Gardens|Dalworthington Gardens city
+48|19120|Danbury|Danbury city
+48|19288|Darrouzett|Darrouzett town
+48|19420|Dawson|Dawson town
+48|19432|Dayton|Dayton city
+48|19435|Dayton Lakes|Dayton Lakes city
+48|19456|Dean|Dean city
+48|19528|Decatur|Decatur city
+48|19570|DeCordova|DeCordova city
+48|19624|Deer Park|Deer Park city
+48|19648|De Kalb|De Kalb city
+48|19672|De Leon|De Leon city
+48|19708|Dell City|Dell City city
+48|19792|Del Rio|Del Rio city
+48|19900|Denison|Denison city
+48|19972|Denton|Denton city
+48|19984|Denver City|Denver City town
+48|20020|Deport|Deport city
+48|20092|DeSoto|DeSoto city
+48|20128|Detroit|Detroit town
+48|20140|Devers|Devers city
+48|20152|Devine|Devine city
+48|20308|Diboll|Diboll city
+48|20332|Dickens|Dickens city
+48|20344|Dickinson|Dickinson city
+48|20428|Dilley|Dilley city
+48|20464|Dimmitt|Dimmitt city
+48|20540|DISH|DISH town
+48|20680|Dodd City|Dodd City town
+48|20716|Dodson|Dodson town
+48|20848|Domino|Domino town
+48|20884|Donna|Donna city
+48|20932|Dorchester|Dorchester city
+48|21028|Double Oak|Double Oak town
+48|21112|Douglassville|Douglassville town
+48|21424|Dripping Springs|Dripping Springs city
+48|21436|Driscoll|Driscoll city
+48|21484|Dublin|Dublin city
+48|21556|Dumas|Dumas city
+48|21628|Duncanville|Duncanville city
+48|21844|Eagle Lake|Eagle Lake city
+48|21892|Eagle Pass|Eagle Pass city
+48|21904|Early|Early city
+48|21928|Earth|Earth city
+48|21988|East Bernard|East Bernard city
+48|22132|Eastland|Eastland city
+48|22168|East Mountain|East Mountain city
+48|22192|Easton|Easton city
+48|22276|East Tawakoni|East Tawakoni city
+48|22516|Ector|Ector city
+48|22528|Edcouch|Edcouch city
+48|22552|Eden|Eden city
+48|22588|Edgecliff Village|Edgecliff Village town
+48|22612|Edgewood|Edgewood town
+48|22660|Edinburg|Edinburg city
+48|22708|Edmonson|Edmonson town
+48|22720|Edna|Edna city
+48|22744|Edom|Edom city
+48|22864|El Campo|El Campo city
+48|22905|El Cenizo|El Cenizo city
+48|22960|Eldorado|Eldorado city
+48|22984|Electra|Electra city
+48|23044|Elgin|Elgin city
+48|23140|Elkhart|Elkhart town
+48|23164|El Lago|El Lago city
+48|23272|Elmendorf|Elmendorf city
+48|24000|El Paso|El Paso city
+48|24036|Elsa|Elsa city
+48|24168|Emhouse|Emhouse town
+48|24216|Emory|Emory city
+48|24228|Enchanted Oaks|Enchanted Oaks town
+48|24240|Encinal|Encinal city
+48|24348|Ennis|Ennis city
+48|24552|Escobares|Escobares city
+48|24636|Estelline|Estelline town
+48|24768|Euless|Euless city
+48|24816|Eureka|Eureka city
+48|24828|Eustace|Eustace city
+48|24864|Evant|Evant town
+48|24912|Everman|Everman city
+48|25068|Fairchilds|Fairchilds village
+48|25104|Fairfield|Fairfield city
+48|25168|Fair Oaks Ranch|Fair Oaks Ranch city
+48|25224|Fairview|Fairview town
+48|25368|Falfurrias|Falfurrias city
+48|25392|Falls City|Falls City city
+48|25452|Farmers Branch|Farmers Branch city
+48|25488|Farmersville|Farmersville city
+48|25548|Farwell|Farwell city
+48|25572|Fate|Fate city
+48|25644|Fayetteville|Fayetteville city
+48|25752|Ferris|Ferris city
+48|26028|Flatonia|Flatonia town
+48|26136|Florence|Florence city
+48|26160|Floresville|Floresville city
+48|26232|Flower Mound|Flower Mound town
+48|26268|Floydada|Floydada city
+48|26328|Follett|Follett city
+48|26544|Forest Hill|Forest Hill city
+48|26604|Forney|Forney city
+48|26640|Forsan|Forsan city
+48|26808|Fort Stockton|Fort Stockton city
+48|27000|Fort Worth|Fort Worth city
+48|27288|Franklin|Franklin city
+48|27300|Frankston|Frankston town
+48|27348|Fredericksburg|Fredericksburg city
+48|27420|Freeport|Freeport city
+48|27432|Freer|Freer city
+48|27648|Friendswood|Friendswood city
+48|27660|Friona|Friona city
+48|27684|Frisco|Frisco city
+48|27696|Fritch|Fritch city
+48|27768|Frost|Frost city
+48|27804|Fruitvale|Fruitvale city
+48|27876|Fulshear|Fulshear city
+48|27888|Fulton|Fulton town
+48|27984|Gainesville|Gainesville city
+48|27996|Galena Park|Galena Park city
+48|28008|Gallatin|Gallatin city
+48|28068|Galveston|Galveston city
+48|28080|Ganado|Ganado city
+48|28248|Garden Ridge|Garden Ridge city
+48|29000|Garland|Garland city
+48|29036|Garrett|Garrett town
+48|29060|Garrison|Garrison city
+48|29108|Gary City|Gary City town
+48|29168|Gatesville|Gatesville city
+48|29336|Georgetown|Georgetown city
+48|29348|George West|George West city
+48|29408|Gholson|Gholson city
+48|29432|Giddings|Giddings city
+48|29564|Gilmer|Gilmer city
+48|29660|Gladewater|Gladewater city
+48|29840|Glenn Heights|Glenn Heights city
+48|29876|Glen Rose|Glen Rose city
+48|29972|Godley|Godley city
+48|30044|Goldsmith|Goldsmith city
+48|30056|Goldthwaite|Goldthwaite city
+48|30080|Goliad|Goliad city
+48|30092|Golinda|Golinda city
+48|30116|Gonzales|Gonzales city
+48|30188|Goodlow|Goodlow city
+48|30224|Goodrich|Goodrich city
+48|30272|Gordon|Gordon city
+48|30296|Goree|Goree city
+48|30308|Gorman|Gorman city
+48|30380|Graford|Graford city
+48|30392|Graham|Graham city
+48|30416|Granbury|Granbury city
+48|30440|Grandfalls|Grandfalls town
+48|30464|Grand Prairie|Grand Prairie city
+48|30476|Grand Saline|Grand Saline city
+48|30512|Grandview|Grandview city
+48|30548|Granger|Granger city
+48|30584|Granite Shoals|Granite Shoals city
+48|30608|Granjeno|Granjeno city
+48|30632|Grapeland|Grapeland city
+48|30644|Grapevine|Grapevine city
+48|30752|Grays Prairie|Grays Prairie village
+48|30920|Greenville|Greenville city
+48|31064|Gregory|Gregory city
+48|31100|Grey Forest|Grey Forest city
+48|31280|Groesbeck|Groesbeck city
+48|31292|Groom|Groom town
+48|31328|Groves|Groves city
+48|31340|Groveton|Groveton city
+48|31412|Gruver|Gruver city
+48|31592|Gun Barrel City|Gun Barrel City city
+48|31616|Gunter|Gunter city
+48|31628|Gustine|Gustine town
+48|31715|Hackberry|Hackberry town
+48|31820|Hale Center|Hale Center city
+48|31868|Hallettsville|Hallettsville city
+48|31880|Hallsburg|Hallsburg city
+48|31904|Hallsville|Hallsville city
+48|31928|Haltom City|Haltom City city
+48|31952|Hamilton|Hamilton city
+48|31964|Hamlin|Hamlin city
+48|32156|Happy|Happy town
+48|32240|Hardin|Hardin city
+48|32312|Harker Heights|Harker Heights city
+48|32372|Harlingen|Harlingen city
+48|32576|Hart|Hart city
+48|32696|Haskell|Haskell city
+48|32720|Haslet|Haslet city
+48|32810|Hawk Cove|Hawk Cove city
+48|32816|Hawkins|Hawkins city
+48|32840|Hawley|Hawley city
+48|32906|Hays|Hays city
+48|32972|Hearne|Hearne city
+48|32984|Heath|Heath city
+48|33020|Hebron|Hebron town
+48|33044|Hedley|Hedley city
+48|33068|Hedwig Village|Hedwig Village city
+48|33146|Helotes|Helotes city
+48|33188|Hemphill|Hemphill city
+48|33200|Hempstead|Hempstead city
+48|33212|Henderson|Henderson city
+48|33284|Henrietta|Henrietta city
+48|33320|Hereford|Hereford city
+48|33428|Hewitt|Hewitt city
+48|33476|Hickory Creek|Hickory Creek town
+48|33548|Hico|Hico city
+48|33560|Hidalgo|Hidalgo city
+48|33578|Hideaway|Hideaway city
+48|33608|Higgins|Higgins city
+48|33794|Highland Haven|Highland Haven city
+48|33824|Highland Park|Highland Park town
+48|33848|Highland Village|Highland Village city
+48|33968|Hill Country Village|Hill Country Village city
+48|33980|Hillcrest|Hillcrest village
+48|34088|Hillsboro|Hillsboro city
+48|34148|Hilshire Village|Hilshire Village city
+48|34220|Hitchcock|Hitchcock city
+48|34502|Holiday Lakes|Holiday Lakes town
+48|34508|Holland|Holland town
+48|34532|Holliday|Holliday city
+48|34628|Hollywood Park|Hollywood Park town
+48|34676|Hondo|Hondo city
+48|34700|Honey Grove|Honey Grove city
+48|34736|Hooks|Hooks city
+48|34832|Horizon City|Horizon City city
+48|34862|Horseshoe Bay|Horseshoe Bay city
+48|35000|Houston|Houston city
+48|35072|Howardwick|Howardwick city
+48|35084|Howe|Howe town
+48|35180|Hubbard|Hubbard city
+48|35228|Hudson|Hudson city
+48|35254|Hudson Oaks|Hudson Oaks city
+48|35300|Hughes Springs|Hughes Springs city
+48|35348|Humble|Humble city
+48|35480|Hunters Creek Village|Hunters Creek Village city
+48|35492|Huntington|Huntington city
+48|35528|Huntsville|Huntsville city
+48|35576|Hurst|Hurst city
+48|35612|Hutchins|Hutchins city
+48|35624|Hutto|Hutto city
+48|35636|Huxley|Huxley city
+48|35732|Idalou|Idalou city
+48|35816|Impact|Impact town
+48|35918|Indian Lake|Indian Lake town
+48|35984|Industry|Industry city
+48|36008|Ingleside|Ingleside city
+48|36020|Ingleside on the Bay|Ingleside on the Bay city
+48|36032|Ingram|Ingram city
+48|36068|Iola|Iola city
+48|36092|Iowa Colony|Iowa Colony village
+48|36104|Iowa Park|Iowa Park city
+48|36128|Iraan|Iraan city
+48|36140|Iredell|Iredell city
+48|37000|Irving|Irving city
+48|37072|Italy|Italy town
+48|37084|Itasca|Itasca city
+48|37112|Ivanhoe|Ivanhoe city
+48|37116|Ivanhoe North|Ivanhoe North city
+48|37156|Jacinto City|Jacinto City city
+48|37168|Jacksboro|Jacksboro city
+48|37216|Jacksonville|Jacksonville city
+48|37252|Jamaica Beach|Jamaica Beach city
+48|37396|Jarrell|Jarrell city
+48|37420|Jasper|Jasper city
+48|37468|Jayton|Jayton city
+48|37528|Jefferson|Jefferson city
+48|37612|Jersey Village|Jersey Village city
+48|37648|Jewett|Jewett city
+48|37684|Joaquin|Joaquin city
+48|37780|Johnson City|Johnson City city
+48|37924|Jolly|Jolly city
+48|37984|Jones Creek|Jones Creek village
+48|38020|Jonestown|Jonestown city
+48|38068|Josephine|Josephine city
+48|38080|Joshua|Joshua city
+48|38116|Jourdanton|Jourdanton city
+48|38248|Junction|Junction city
+48|38332|Justin|Justin city
+48|38452|Karnes City|Karnes City city
+48|38476|Katy|Katy city
+48|38488|Kaufman|Kaufman city
+48|38548|Keene|Keene city
+48|38632|Keller|Keller city
+48|38776|Kemah|Kemah city
+48|38788|Kemp|Kemp city
+48|38800|Kempner|Kempner city
+48|38848|Kendleton|Kendleton city
+48|38860|Kenedy|Kenedy city
+48|38872|Kenefick|Kenefick town
+48|38884|Kennard|Kennard city
+48|38896|Kennedale|Kennedale city
+48|38992|Kerens|Kerens city
+48|39004|Kermit|Kermit city
+48|39040|Kerrville|Kerrville city
+48|39124|Kilgore|Kilgore city
+48|39148|Killeen|Killeen city
+48|39352|Kingsville|Kingsville city
+48|39448|Kirby|Kirby city
+48|39460|Kirbyville|Kirbyville city
+48|39520|Kirvin|Kirvin town
+48|39680|Knollwood|Knollwood city
+48|39700|Knox City|Knox City town
+48|39844|Kosse|Kosse town
+48|39868|Kountze|Kountze city
+48|39904|Kress|Kress city
+48|39916|Krugerville|Krugerville city
+48|39928|Krum|Krum city
+48|39940|Kurten|Kurten town
+48|39952|Kyle|Kyle city
+48|40108|LaCoste|LaCoste city
+48|40168|Lacy-Lakeview|Lacy-Lakeview city
+48|40180|Ladonia|Ladonia town
+48|40204|La Feria|La Feria city
+48|40264|Lago Vista|Lago Vista city
+48|40276|La Grange|La Grange city
+48|40288|La Grulla|La Grulla city
+48|40336|Laguna Vista|Laguna Vista town
+48|40384|La Joya|La Joya city
+48|40450|Lake Bridgeport|Lake Bridgeport city
+48|40472|Lake City|Lake City town
+48|40516|Lake Dallas|Lake Dallas city
+48|40588|Lake Jackson|Lake Jackson city
+48|40696|Lakeport|Lakeport city
+48|40738|Lakeside|Lakeside town
+48|40744|Lakeside|Lakeside town
+48|40756|Lakeside City|Lakeside City town
+48|40804|Lake Tanglewood|Lake Tanglewood village
+48|40888|Lakeview|Lakeview town
+48|40984|Lakeway|Lakeway city
+48|41050|Lakewood Village|Lakewood Village city
+48|41056|Lake Worth|Lake Worth city
+48|41116|La Marque|La Marque city
+48|41164|Lamesa|Lamesa city
+48|41188|Lampasas|Lampasas city
+48|41212|Lancaster|Lancaster city
+48|41440|La Porte|La Porte city
+48|41464|Laredo|Laredo city
+48|41644|Latexo|Latexo city
+48|41764|La Vernia|La Vernia city
+48|41788|La Villa|La Villa city
+48|41800|Lavon|Lavon city
+48|41848|La Ward|La Ward city
+48|41872|Lawn|Lawn town
+48|41980|League City|League City city
+48|42004|Leakey|Leakey city
+48|42016|Leander|Leander city
+48|42028|Leary|Leary city
+48|42148|Lefors|Lefors town
+48|42340|Leona|Leona city
+48|42352|Leonard|Leonard city
+48|42388|Leon Valley|Leon Valley city
+48|42400|Leroy|Leroy city
+48|42448|Levelland|Levelland city
+48|42508|Lewisville|Lewisville city
+48|42532|Lexington|Lexington town
+48|42568|Liberty|Liberty city
+48|42664|Liberty Hill|Liberty Hill city
+48|42808|Lincoln Park|Lincoln Park town
+48|42820|Lindale|Lindale city
+48|42844|Linden|Linden city
+48|42868|Lindsay|Lindsay city
+48|42940|Lipan|Lipan city
+48|43012|Little Elm|Little Elm city
+48|43024|Littlefield|Littlefield city
+48|43066|Little River-Academy|Little River-Academy city
+48|43096|Live Oak|Live Oak city
+48|43120|Liverpool|Liverpool city
+48|43132|Livingston|Livingston town
+48|43144|Llano|Llano city
+48|43240|Lockhart|Lockhart city
+48|43252|Lockney|Lockney town
+48|43354|Log Cabin|Log Cabin city
+48|43516|Lometa|Lometa city
+48|43636|Lone Oak|Lone Oak city
+48|43684|Lone Star|Lone Star city
+48|43888|Longview|Longview city
+48|43996|Loraine|Loraine town
+48|44020|Lorena|Lorena city
+48|44032|Lorenzo|Lorenzo city
+48|44116|Los Fresnos|Los Fresnos city
+48|44128|Los Indios|Los Indios town
+48|44170|Los Ybanez|Los Ybanez city
+48|44176|Lott|Lott city
+48|44260|Lovelady|Lovelady city
+48|44308|Lowry Crossing|Lowry Crossing city
+48|45000|Lubbock|Lubbock city
+48|45012|Lucas|Lucas city
+48|45048|Lueders|Lueders city
+48|45072|Lufkin|Lufkin city
+48|45096|Luling|Luling city
+48|45120|Lumberton|Lumberton city
+48|45228|Lyford|Lyford city
+48|45288|Lytle|Lytle city
+48|45324|Mabank|Mabank town
+48|45384|McAllen|McAllen city
+48|45432|McCamey|McCamey city
+48|45672|McGregor|McGregor city
+48|45744|McKinney|McKinney city
+48|45780|McLean|McLean town
+48|45804|McLendon-Chisholm|McLendon-Chisholm city
+48|45996|Madisonville|Madisonville city
+48|46056|Magnolia|Magnolia city
+48|46224|Malakoff|Malakoff city
+48|46260|Malone|Malone town
+48|46440|Manor|Manor city
+48|46452|Mansfield|Mansfield city
+48|46500|Manvel|Manvel city
+48|46584|Marble Falls|Marble Falls city
+48|46620|Marfa|Marfa city
+48|46668|Marietta|Marietta town
+48|46692|Marion|Marion city
+48|46740|Marlin|Marlin city
+48|46752|Marquez|Marquez city
+48|46776|Marshall|Marshall city
+48|46824|Mart|Mart city
+48|46848|Martindale|Martindale city
+48|46968|Mason|Mason city
+48|47004|Matador|Matador town
+48|47040|Mathis|Mathis city
+48|47088|Maud|Maud city
+48|47268|Maypearl|Maypearl city
+48|47316|Meadow|Meadow town
+48|47330|Meadowlakes|Meadowlakes city
+48|47337|Meadows Place|Meadows Place city
+48|47460|Megargel|Megargel town
+48|47496|Melissa|Melissa city
+48|47568|Melvin|Melvin town
+48|47616|Memphis|Memphis city
+48|47628|Menard|Menard city
+48|47700|Mercedes|Mercedes city
+48|47760|Meridian|Meridian city
+48|47796|Merkel|Merkel town
+48|47820|Mertens|Mertens town
+48|47832|Mertzon|Mertzon city
+48|47892|Mesquite|Mesquite city
+48|47916|Mexia|Mexia city
+48|47988|Miami|Miami city
+48|48072|Midland|Midland city
+48|48096|Midlothian|Midlothian city
+48|48180|Midway|Midway city
+48|48336|Milano|Milano city
+48|48372|Mildred|Mildred town
+48|48396|Miles|Miles city
+48|48408|Milford|Milford town
+48|48478|Miller's Cove|Miller's Cove town
+48|48516|Millican|Millican town
+48|48564|Millsap|Millsap town
+48|48648|Mineola|Mineola city
+48|48684|Mineral Wells|Mineral Wells city
+48|48720|Mingus|Mingus city
+48|48768|Mission|Mission city
+48|48804|Missouri City|Missouri City city
+48|48852|Mobeetie|Mobeetie city
+48|48858|Mobile City|Mobile City city
+48|48936|Monahans|Monahans city
+48|49068|Mont Belvieu|Mont Belvieu city
+48|49128|Montgomery|Montgomery city
+48|49200|Moody|Moody city
+48|49272|Moore Station|Moore Station city
+48|49320|Moran|Moran city
+48|49356|Morgan|Morgan city
+48|49380|Morgan's Point|Morgan's Point city
+48|49392|Morgan's Point Resort|Morgan's Point Resort city
+48|49464|Morton|Morton city
+48|49560|Moulton|Moulton town
+48|49600|Mountain City|Mountain City city
+48|49692|Mount Calm|Mount Calm city
+48|49728|Mount Enterprise|Mount Enterprise city
+48|49800|Mount Pleasant|Mount Pleasant city
+48|49860|Mount Vernon|Mount Vernon town
+48|49932|Muenster|Muenster city
+48|49968|Muleshoe|Muleshoe city
+48|49992|Mullin|Mullin town
+48|50040|Munday|Munday city
+48|50076|Murchison|Murchison city
+48|50100|Murphy|Murphy city
+48|50184|Mustang|Mustang town
+48|50200|Mustang Ridge|Mustang Ridge city
+48|50256|Nacogdoches|Nacogdoches city
+48|50316|Naples|Naples city
+48|50352|Nash|Nash city
+48|50376|Nassau Bay|Nassau Bay city
+48|50400|Natalia|Natalia city
+48|50448|Navarro|Navarro town
+48|50472|Navasota|Navasota city
+48|50496|Nazareth|Nazareth city
+48|50580|Nederland|Nederland city
+48|50628|Needville|Needville city
+48|50724|Nesbitt|Nesbitt town
+48|50760|Nevada|Nevada city
+48|50772|Newark|Newark city
+48|50796|New Berlin|New Berlin city
+48|50808|New Boston|New Boston city
+48|50820|New Braunfels|New Braunfels city
+48|50868|Newcastle|Newcastle city
+48|50876|New Chapel Hill|New Chapel Hill city
+48|50916|New Deal|New Deal town
+48|50920|New Fairview|New Fairview city
+48|51012|New Home|New Home city
+48|51036|New Hope|New Hope town
+48|51168|New London|New London city
+48|51336|New Summerfield|New Summerfield city
+48|51372|Newton|Newton city
+48|51396|New Waverly|New Waverly city
+48|51444|Neylandville|Neylandville town
+48|51492|Niederwald|Niederwald city
+48|51588|Nixon|Nixon city
+48|51648|Nocona|Nocona city
+48|51708|Nolanville|Nolanville city
+48|51720|Nome|Nome city
+48|51756|Noonday|Noonday city
+48|51792|Nordheim|Nordheim city
+48|51840|Normangee|Normangee town
+48|51984|North Cleveland|North Cleveland city
+48|52212|Northlake|Northlake town
+48|52356|North Richland Hills|North Richland Hills city
+48|52668|Novice|Novice city
+48|52902|Oak Grove|Oak Grove town
+48|53115|Oak Leaf|Oak Leaf city
+48|53130|Oak Point|Oak Point city
+48|53154|Oak Ridge|Oak Ridge town
+48|53160|Oak Ridge|Oak Ridge town
+48|53190|Oak Ridge North|Oak Ridge North city
+48|53217|Oak Valley|Oak Valley town
+48|53232|Oakwood|Oakwood town
+48|53304|O'Brien|O'Brien city
+48|53376|Odem|Odem city
+48|53388|Odessa|Odessa city
+48|53436|O'Donnell|O'Donnell city
+48|53520|Oglesby|Oglesby city
+48|53824|Old River-Winfree|Old River-Winfree city
+48|53988|Olmos Park|Olmos Park city
+48|54000|Olney|Olney city
+48|54012|Olton|Olton city
+48|54024|Omaha|Omaha city
+48|54048|Onalaska|Onalaska city
+48|54075|Opdyke West|Opdyke West town
+48|54132|Orange|Orange city
+48|54168|Orange Grove|Orange Grove city
+48|54192|Orchard|Orchard city
+48|54216|Ore City|Ore City city
+48|54432|Overton|Overton city
+48|54444|Ovilla|Ovilla city
+48|54528|Oyster Creek|Oyster Creek city
+48|54600|Paducah|Paducah town
+48|54636|Paint Rock|Paint Rock town
+48|54684|Palacios|Palacios city
+48|54708|Palestine|Palestine city
+48|54726|Palisades|Palisades village
+48|54744|Palmer|Palmer town
+48|54780|Palmhurst|Palmhurst city
+48|54798|Palm Valley|Palm Valley city
+48|54804|Palmview|Palmview city
+48|54912|Pampa|Pampa city
+48|54960|Panhandle|Panhandle town
+48|55008|Panorama Village|Panorama Village city
+48|55020|Pantego|Pantego town
+48|55056|Paradise|Paradise city
+48|55080|Paris|Paris city
+48|55152|Parker|Parker city
+48|56000|Pasadena|Pasadena city
+48|56108|Pattison|Pattison city
+48|56156|Patton Village|Patton Village city
+48|56276|Payne Springs|Payne Springs town
+48|56348|Pearland|Pearland city
+48|56384|Pearsall|Pearsall city
+48|56468|Pecan Gap|Pecan Gap city
+48|56485|Pecan Hill|Pecan Hill city
+48|56516|Pecos|Pecos city
+48|56640|Pelican Bay|Pelican Bay city
+48|56672|Penelope|Penelope town
+48|56696|Penitas|Penitas city
+48|56912|Perryton|Perryton city
+48|56996|Petersburg|Petersburg city
+48|57044|Petrolia|Petrolia city
+48|57056|Petronila|Petronila city
+48|57176|Pflugerville|Pflugerville city
+48|57200|Pharr|Pharr city
+48|57476|Pilot Point|Pilot Point city
+48|57524|Pine Forest|Pine Forest city
+48|57608|Pinehurst|Pinehurst city
+48|57615|Pine Island|Pine Island town
+48|57644|Pineland|Pineland city
+48|57800|Piney Point Village|Piney Point Village city
+48|57908|Pittsburg|Pittsburg city
+48|57968|Plains|Plains town
+48|57980|Plainview|Plainview city
+48|58016|Plano|Plano city
+48|58088|Pleak|Pleak village
+48|58280|Pleasanton|Pleasanton city
+48|58400|Pleasant Valley|Pleasant Valley town
+48|58448|Plum Grove|Plum Grove city
+48|58532|Point|Point city
+48|58556|Point Blank|Point Blank city
+48|58568|Point Comfort|Point Comfort city
+48|58586|Point Venture|Point Venture village
+48|58664|Ponder|Ponder town
+48|58808|Port Aransas|Port Aransas city
+48|58820|Port Arthur|Port Arthur city
+48|58892|Port Isabel|Port Isabel city
+48|58904|Portland|Portland city
+48|58916|Port Lavaca|Port Lavaca city
+48|58940|Port Neches|Port Neches city
+48|59012|Post|Post city
+48|59066|Post Oak Bend City|Post Oak Bend City town
+48|59084|Poteet|Poteet city
+48|59096|Poth|Poth town
+48|59132|Pottsboro|Pottsboro town
+48|59168|Powell|Powell town
+48|59192|Poynor|Poynor town
+48|59336|Prairie View|Prairie View city
+48|59384|Premont|Premont city
+48|59396|Presidio|Presidio city
+48|59540|Primera|Primera town
+48|59576|Princeton|Princeton city
+48|59636|Progreso|Progreso city
+48|59642|Progreso Lakes|Progreso Lakes city
+48|59696|Prosper|Prosper town
+48|59984|Putnam|Putnam town
+48|59996|Pyote|Pyote town
+48|60044|Quanah|Quanah city
+48|60080|Queen City|Queen City city
+48|60140|Quinlan|Quinlan city
+48|60164|Quintana|Quintana town
+48|60176|Quitaque|Quitaque city
+48|60188|Quitman|Quitman city
+48|60356|Ralls|Ralls city
+48|60544|Rancho Viejo|Rancho Viejo town
+48|60632|Ranger|Ranger city
+48|60644|Rangerville|Rangerville village
+48|60668|Rankin|Rankin city
+48|60672|Ransom Canyon|Ransom Canyon town
+48|60752|Ravenna|Ravenna city
+48|60836|Raymondville|Raymondville city
+48|61172|Red Lick|Red Lick city
+48|61196|Red Oak|Red Oak city
+48|61340|Redwater|Redwater city
+48|61436|Refugio|Refugio town
+48|61508|Reklaw|Reklaw city
+48|61592|Reno|Reno city
+48|61604|Reno|Reno city
+48|61616|Retreat|Retreat town
+48|61700|Rhome|Rhome city
+48|61736|Rice|Rice city
+48|61796|Richardson|Richardson city
+48|61820|Richland|Richland town
+48|61844|Richland Hills|Richland Hills city
+48|61880|Richland Springs|Richland Springs town
+48|61892|Richmond|Richmond city
+48|61904|Richwood|Richwood city
+48|62108|Riesel|Riesel city
+48|62138|Rio Bravo|Rio Bravo city
+48|62168|Rio Grande City|Rio Grande City city
+48|62180|Rio Hondo|Rio Hondo city
+48|62240|Rio Vista|Rio Vista city
+48|62252|Rising Star|Rising Star town
+48|62384|River Oaks|River Oaks city
+48|62408|Riverside|Riverside city
+48|62504|Roanoke|Roanoke city
+48|62528|Roaring Springs|Roaring Springs town
+48|62564|Robert Lee|Robert Lee city
+48|62588|Robinson|Robinson city
+48|62600|Robstown|Robstown city
+48|62612|Roby|Roby city
+48|62636|Rochester|Rochester town
+48|62672|Rockdale|Rockdale city
+48|62804|Rockport|Rockport city
+48|62816|Rocksprings|Rocksprings town
+48|62828|Rockwall|Rockwall city
+48|62870|Rocky Mound|Rocky Mound town
+48|62924|Rogers|Rogers town
+48|63008|Rollingwood|Rollingwood city
+48|63020|Roma|Roma city
+48|63044|Roman Forest|Roman Forest town
+48|63140|Ropesville|Ropesville city
+48|63176|Roscoe|Roscoe city
+48|63188|Rosebud|Rosebud city
+48|63200|Rose City|Rose City city
+48|63272|Rose Hill Acres|Rose Hill Acres city
+48|63284|Rosenberg|Rosenberg city
+48|63380|Ross|Ross city
+48|63404|Rosser|Rosser village
+48|63464|Rotan|Rotan city
+48|63476|Round Mountain|Round Mountain town
+48|63500|Round Rock|Round Rock city
+48|63524|Round Top|Round Top town
+48|63572|Rowlett|Rowlett city
+48|63584|Roxton|Roxton city
+48|63668|Royse City|Royse City city
+48|63752|Rule|Rule town
+48|63782|Runaway Bay|Runaway Bay city
+48|63788|Runge|Runge town
+48|63848|Rusk|Rusk city
+48|64004|Sabinal|Sabinal city
+48|64064|Sachse|Sachse city
+48|64088|Sadler|Sadler city
+48|64112|Saginaw|Saginaw city
+48|64172|St. Hedwig|St. Hedwig town
+48|64184|St. Jo|St. Jo city
+48|64220|St. Paul|St. Paul town
+48|64268|Salado|Salado village
+48|64472|San Angelo|San Angelo city
+48|65000|San Antonio|San Antonio city
+48|65024|San Augustine|San Augustine city
+48|65036|San Benito|San Benito city
+48|65066|Sanctuary|Sanctuary town
+48|65180|San Diego|San Diego city
+48|65372|San Felipe|San Felipe town
+48|65384|Sanford|Sanford town
+48|65408|Sanger|Sanger city
+48|65516|San Juan|San Juan city
+48|65552|San Leanna|San Leanna village
+48|65600|San Marcos|San Marcos city
+48|65612|San Patricio|San Patricio city
+48|65636|San Perlita|San Perlita city
+48|65648|San Saba|San Saba town
+48|65660|Sansom Park|Sansom Park city
+48|65672|Santa Anna|Santa Anna town
+48|65690|Santa Clara|Santa Clara city
+48|65726|Santa Fe|Santa Fe city
+48|65768|Santa Rosa|Santa Rosa town
+48|66008|Savoy|Savoy city
+48|66128|Schertz|Schertz city
+48|66188|Schulenburg|Schulenburg city
+48|66284|Scotland|Scotland city
+48|66332|Scottsville|Scottsville city
+48|66368|Scurry|Scurry town
+48|66392|Seabrook|Seabrook city
+48|66416|Seadrift|Seadrift city
+48|66428|Seagoville|Seagoville city
+48|66440|Seagraves|Seagraves city
+48|66464|Sealy|Sealy city
+48|66644|Seguin|Seguin city
+48|66704|Selma|Selma city
+48|66764|Seminole|Seminole city
+48|66884|Seven Oaks|Seven Oaks city
+48|66908|Seven Points|Seven Points city
+48|66968|Seymour|Seymour city
+48|67100|Shady Shores|Shady Shores town
+48|67136|Shallowater|Shallowater city
+48|67160|Shamrock|Shamrock city
+48|67268|Shavano Park|Shavano Park city
+48|67400|Shenandoah|Shenandoah city
+48|67424|Shepherd|Shepherd city
+48|67496|Sherman|Sherman city
+48|67640|Shiner|Shiner city
+48|67688|Shoreacres|Shoreacres city
+48|67832|Silsbee|Silsbee city
+48|67904|Silverton|Silverton city
+48|67964|Simonton|Simonton city
+48|68036|Sinton|Sinton city
+48|68120|Skellytown|Skellytown town
+48|68180|Slaton|Slaton city
+48|68300|Smiley|Smiley city
+48|68456|Smithville|Smithville city
+48|68504|Smyer|Smyer town
+48|68576|Snook|Snook city
+48|68624|Snyder|Snyder city
+48|68636|Socorro|Socorro city
+48|68708|Somerset|Somerset city
+48|68720|Somerville|Somerville city
+48|68756|Sonora|Sonora city
+48|68828|Sour Lake|Sour Lake city
+48|69020|South Houston|South Houston city
+48|69032|Southlake|Southlake city
+48|69104|Southmayd|Southmayd city
+48|69120|South Mountain|South Mountain town
+48|69140|South Padre Island|South Padre Island town
+48|69272|Southside Place|Southside Place city
+48|69476|Spearman|Spearman city
+48|69548|Splendora|Splendora city
+48|69560|Spofford|Spofford city
+48|69764|Springlake|Springlake town
+48|69800|Springtown|Springtown city
+48|69830|Spring Valley Village|Spring Valley Village city
+48|69848|Spur|Spur city
+48|69908|Stafford|Stafford city
+48|69932|Stagecoach|Stagecoach town
+48|69980|Stamford|Stamford city
+48|70040|Stanton|Stanton city
+48|70052|Staples|Staples city
+48|70076|Star Harbor|Star Harbor city
+48|70208|Stephenville|Stephenville city
+48|70232|Sterling City|Sterling City city
+48|70340|Stinnett|Stinnett city
+48|70376|Stockdale|Stockdale city
+48|70544|Stratford|Stratford city
+48|70580|Strawn|Strawn city
+48|70604|Streetman|Streetman town
+48|70772|Sudan|Sudan city
+48|70808|Sugar Land|Sugar Land city
+48|70868|Sullivan City|Sullivan City city
+48|70904|Sulphur Springs|Sulphur Springs city
+48|71060|Sundown|Sundown city
+48|71156|Sunnyvale|Sunnyvale town
+48|71180|Sunray|Sunray city
+48|71228|Sunrise Beach Village|Sunrise Beach Village city
+48|71324|Sunset Valley|Sunset Valley city
+48|71356|Sun Valley|Sun Valley city
+48|71384|Surfside Beach|Surfside Beach city
+48|71492|Sweeny|Sweeny city
+48|71540|Sweetwater|Sweetwater city
+48|71684|Taft|Taft city
+48|71708|Tahoka|Tahoka city
+48|71732|Talco|Talco city
+48|71756|Talty|Talty town
+48|71924|Tatum|Tatum city
+48|71948|Taylor|Taylor city
+48|71960|Taylor Lake Village|Taylor Lake Village city
+48|71966|Taylor Landing|Taylor Landing city
+48|72020|Teague|Teague city
+48|72080|Tehuacana|Tehuacana town
+48|72176|Temple|Temple city
+48|72188|Tenaha|Tenaha town
+48|72284|Terrell|Terrell city
+48|72296|Terrell Hills|Terrell Hills city
+48|72368|Texarkana|Texarkana city
+48|72392|Texas City|Texas City city
+48|72464|Texhoma|Texhoma city
+48|72476|Texline|Texline town
+48|72530|The Colony|The Colony city
+48|72578|The Hills|The Hills village
+48|72740|Thompsons|Thompsons town
+48|72776|Thorndale|Thorndale city
+48|72788|Thornton|Thornton town
+48|72800|Thorntonville|Thorntonville town
+48|72824|Thrall|Thrall city
+48|72872|Three Rivers|Three Rivers city
+48|72896|Throckmorton|Throckmorton town
+48|72989|Tiki Island|Tiki Island village
+48|73030|Timbercreek Canyon|Timbercreek Canyon village
+48|73076|Timpson|Timpson city
+48|73112|Tioga|Tioga town
+48|73124|Tira|Tira town
+48|73196|Toco|Toco city
+48|73224|Todd Mission|Todd Mission city
+48|73268|Tolar|Tolar city
+48|73316|Tomball|Tomball city
+48|73328|Tom Bean|Tom Bean city
+48|73352|Tool|Tool city
+48|73496|Toyah|Toyah town
+48|73580|Trent|Trent town
+48|73592|Trenton|Trenton city
+48|73652|Trinidad|Trinidad city
+48|73664|Trinity|Trinity city
+48|73710|Trophy Club|Trophy Club town
+48|73724|Troup|Troup city
+48|73748|Troy|Troy city
+48|73868|Tulia|Tulia city
+48|73964|Turkey|Turkey city
+48|74048|Tuscola|Tuscola city
+48|74132|Tye|Tye city
+48|74144|Tyler|Tyler city
+48|74216|Uhland|Uhland city
+48|74240|Uncertain|Uncertain city
+48|74312|Union Grove|Union Grove city
+48|74372|Union Valley|Union Valley city
+48|74408|Universal City|Universal City city
+48|74492|University Park|University Park city
+48|74588|Uvalde|Uvalde city
+48|74648|Valentine|Valentine town
+48|74732|Valley Mills|Valley Mills city
+48|74756|Valley View|Valley View city
+48|74912|Van|Van city
+48|74924|Van Alstyne|Van Alstyne city
+48|75032|Van Horn|Van Horn town
+48|75188|Vega|Vega city
+48|75236|Venus|Venus town
+48|75308|Vernon|Vernon city
+48|75428|Victoria|Victoria city
+48|75476|Vidor|Vidor city
+48|75668|Vinton|Vinton village
+48|75752|Volente|Volente village
+48|75764|Von Ormy|Von Ormy city
+48|76000|Waco|Waco city
+48|76024|Waelder|Waelder city
+48|76096|Wake Village|Wake Village city
+48|76228|Waller|Waller city
+48|76240|Wallis|Wallis city
+48|76348|Walnut Springs|Walnut Springs city
+48|76576|Warren City|Warren City city
+48|76636|Waskom|Waskom city
+48|76672|Watauga|Watauga city
+48|76816|Waxahachie|Waxahachie city
+48|76864|Weatherford|Weatherford city
+48|76924|Webberville|Webberville village
+48|76948|Webster|Webster city
+48|77020|Weimar|Weimar city
+48|77044|Weinert|Weinert city
+48|77056|Weir|Weir city
+48|77152|Wellington|Wellington city
+48|77164|Wellman|Wellman city
+48|77176|Wells|Wells town
+48|77272|Weslaco|Weslaco city
+48|77332|West|West city
+48|77380|Westbrook|Westbrook city
+48|77416|West Columbia|West Columbia city
+48|77620|Westlake|Westlake town
+48|77632|West Lake Hills|West Lake Hills city
+48|77740|Weston|Weston city
+48|77746|Weston Lakes|Weston Lakes city
+48|77752|West Orange|West Orange city
+48|77788|Westover Hills|Westover Hills town
+48|77896|West Tawakoni|West Tawakoni city
+48|77956|West University Place|West University Place city
+48|78076|Westworth Village|Westworth Village city
+48|78136|Wharton|Wharton city
+48|78208|Wheeler|Wheeler city
+48|78316|White Deer|White Deer town
+48|78328|Whiteface|Whiteface town
+48|78388|Whitehouse|Whitehouse city
+48|78436|White Oak|White Oak city
+48|78532|Whitesboro|Whitesboro city
+48|78544|White Settlement|White Settlement city
+48|78628|Whitewright|Whitewright town
+48|78664|Whitney|Whitney town
+48|79000|Wichita Falls|Wichita Falls city
+48|79036|Wickett|Wickett town
+48|79408|Willis|Willis city
+48|79492|Willow Park|Willow Park city
+48|79564|Wills Point|Wills Point city
+48|79576|Wilmer|Wilmer city
+48|79612|Wilson|Wilson city
+48|79624|Wimberley|Wimberley city
+48|79672|Windcrest|Windcrest city
+48|79684|Windom|Windom town
+48|79696|Windthorst|Windthorst town
+48|79720|Winfield|Winfield city
+48|79768|Wink|Wink city
+48|79816|Winnsboro|Winnsboro city
+48|79828|Winona|Winona town
+48|79876|Winters|Winters city
+48|79919|Wixon Valley|Wixon Valley city
+48|79948|Wolfe City|Wolfe City city
+48|79972|Wolfforth|Wolfforth city
+48|80044|Woodbranch|Woodbranch city
+48|80058|Woodcreek|Woodcreek city
+48|80144|Woodloch|Woodloch town
+48|80176|Woodsboro|Woodsboro town
+48|80188|Woodson|Woodson town
+48|80212|Woodville|Woodville town
+48|80224|Woodway|Woodway city
+48|80296|Wortham|Wortham town
+48|80356|Wylie|Wylie city
+48|80440|Yantis|Yantis town
+48|80560|Yoakum|Yoakum city
+48|80584|Yorktown|Yorktown city
+48|80728|Zavalla|Zavalla city

@@ -1,0 +1,11 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+33|00003|John Stark Regional School District|John Stark Regional School District
+33|00017|Exeter Regional Cooperative School District|Exeter Regional Cooperative School District
+33|00049|Prospect Mountain High School Joint Maintenance Agreement District|Prospect Mountain High School Joint Maintenance Agreement District
+33|02670|Dresden School District|Dresden School District
+33|03850|Hollis-Brookline Cooperative School District|Hollis-Brookline Cooperative School District
+33|05830|Profile School District|Profile School District
+33|06260|Souhegan Cooperative School District|Souhegan Cooperative School District
+33|07115|Wilton-Lyndeboro School District|Wilton-Lyndeboro School District
+33|07230|Winnacunnet Cooperative School District|Winnacunnet Cooperative School District
+33|99965|Pemi-Baker Regional School District|Pemi-Baker Regional School District

@@ -1,0 +1,25 @@
+# TODO
+
+- Publish schema
+- Move geo files from elections package into here ...
+- Stop using a static candidates crosswalk that has to be rebuilt from observed candidate names with the package
+- Could look for normalizing transformations file in current working directory; then use defaults
+
+
+- MA, WI and CT are pulling in county subdivisions file from ../geo
+- write files (csv and feather)
+- streamline merging EAVs data
+- add parties:
+      party == 'REP/AI' ~ 'republican/american independence',
+      party == 'PF' ~ 'Peace and Freedom',
+- add candidates:
+  dd[candidate == "Feegbeh and O'Brien", candidate := 'William Feegbeh']
+  dd[candidate == "Johnson and Weld", candidate := 'Gary Johnson']
+  dd[candidate == "Kotlikoff and Leamer", candidate := 'Laurence Kotlikoff']
+  dd[candidate == "Mcmullin and Johnson", candidate := 'Evan McMullin']
+  dd[candidate == "Moorehead and Lilly", candidate := 'Monica Moorehead']
+  dd[candidate == "Schoenke and Mitchel", candidate := 'Marshall Schoenke']
+- move candidate patterns and replacements to data file
+
+# name_cols = c('saluation', 'first_name', 'middle_name', 'last_name', 'suffix', 'full_name')
+# d[, c('saluation', 'first_name', 'middle_name', 'last_name', 'suffix', 'full_name') := parse_names(candidate)]

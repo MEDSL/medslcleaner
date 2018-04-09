@@ -1,0 +1,11 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+55|05490|Nicolet Union High School District|Nicolet Union High School District
+55|06120|Hartford Union High School District|Hartford Union High School District
+55|06180|Arrowhead Union High School District|Arrowhead Union High School District
+55|07650|Lake Geneva-Genoa City Union High School District|Lake Geneva-Genoa City Union High School District
+55|09630|Lakeland Union High School District|Lakeland Union High School District
+55|13290|Westosha Central High School District|Westosha Central High School District
+55|15150|Union Grove Union High School District|Union Grove Union High School District
+55|15480|Big Foot Union High School District|Big Foot Union High School District
+55|15600|Waterford Union High School District|Waterford Union High School District
+55|16770|Wilmot Union High School District|Wilmot Union High School District

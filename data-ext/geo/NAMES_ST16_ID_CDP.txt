@@ -1,0 +1,27 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+16|02935|Arbon Valley|Arbon Valley CDP
+16|04600|Banks|Banks CDP
+16|06670|Bennington|Bennington CDP
+16|08290|Blanchard|Blanchard CDP
+16|17830|Conkling Park|Conkling Park CDP
+16|21520|De Smet|De Smet CDP
+16|24940|Elk City|Elk City CDP
+16|28360|Fort Hall|Fort Hall CDP
+16|29710|Garden Valley|Garden Valley CDP
+16|34030|Groveland|Groveland CDP
+16|37500|Hidden Spring|Hidden Spring CDP
+16|47080|Lincoln|Lincoln CDP
+16|48250|Lowman|Lowman CDP
+16|54370|Moreland|Moreland CDP
+16|54820|Mountain Home AFB|Mountain Home AFB CDP
+16|55720|Murphy|Murphy CDP
+16|60890|Parkline|Parkline CDP
+16|65620|Princeton|Princeton CDP
+16|68230|Riverside|Riverside CDP
+16|68545|Robie Creek|Robie Creek CDP
+16|68860|Rockford|Rockford CDP
+16|68950|Rockford Bay|Rockford Bay CDP
+16|75160|Smiths Ferry|Smiths Ferry CDP
+16|79300|Sweetwater|Sweetwater CDP
+16|83260|Tyhee|Tyhee CDP
+16|88660|Yellow Pine|Yellow Pine CDP

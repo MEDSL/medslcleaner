@@ -1,0 +1,5 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+20|01|1|Congressional District 1
+20|02|2|Congressional District 2
+20|03|3|Congressional District 3
+20|04|4|Congressional District 4

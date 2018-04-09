@@ -1,0 +1,8 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+48|48021|Elgin/Giddings Independent School Districts (9-12) in McDade|Elgin/Giddings Independent School Districts (9-12) in McDade
+48|48143|Stephenville Independent School Distict (9-12) in Bluff Dale|Stephenville Independent School Distict (9-12) in Bluff Dale
+48|48285|Hallettsville Independent School District (9-12) in Vysehrad|Hallettsville Independent School District (9-12) in Vysehrad
+48|48309|West/Connally Independent School Districts (9-12) in Gholson|West/Connally Independent School Districts (9-12) in Gholson
+48|48355|Tuloso-Midway Independent School District (9-12) in London|Tuloso-Midway Independent School District (9-12) in London
+48|48449|Mount Pleasant Independent School District (9-12) in Winfield|Mount Pleasant Independent School District (9-12) in Winfield
+48|48489|Raymondville/Lyford Independent School Districts (11-12) in Lasara|Raymondville/Lyford Independent School Districts (11-12) in Lasara

@@ -1,0 +1,82 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+49|01530|Aneth|Aneth CDP
+49|02960|Avon|Avon CDP
+49|04720|Benjamin|Benjamin CDP
+49|05050|Benson|Benson CDP
+49|05380|Beryl Junction|Beryl Junction CDP
+49|06590|Bluebell|Bluebell CDP
+49|06700|Bluff|Bluff CDP
+49|06920|Bonanza|Bonanza CDP
+49|09725|Cache|Cache CDP
+49|10440|Carbonville|Carbonville CDP
+49|12200|Central|Central CDP
+49|13740|Clear Creek|Clear Creek CDP
+49|15720|Copperton|Copperton CDP
+49|16490|Cove|Cove CDP
+49|18090|Dammeron Valley|Dammeron Valley CDP
+49|19020|Deseret|Deseret CDP
+49|20450|Dugway|Dugway CDP
+49|20780|Dutch John|Dutch John CDP
+49|21880|Echo|Echo CDP
+49|21990|Eden|Eden CDP
+49|22210|Elberta|Elberta CDP
+49|22875|Emigration Canyon|Emigration Canyon CDP
+49|23310|Enterprise|Enterprise CDP
+49|23640|Erda|Erda CDP
+49|25910|Flaming Gorge|Flaming Gorge CDP
+49|26610|Fort Duchesne|Fort Duchesne CDP
+49|27270|Fremont|Fremont CDP
+49|27902|Garden|Garden CDP
+49|30900|Granite|Granite CDP
+49|33002|Halchita|Halchita CDP
+49|33027|Halls Crossing|Halls Crossing CDP
+49|36730|Hoytsville|Hoytsville CDP
+49|39040|Jensen|Jensen CDP
+49|40470|Kearns|Kearns CDP
+49|41020|Kenilworth|Kenilworth CDP
+49|42230|Lake Shore|Lake Shore CDP
+49|43110|La Sal|La Sal CDP
+49|44870|Liberty|Liberty CDP
+49|47180|Maeser|Maeser CDP
+49|47290|Magna|Magna CDP
+49|48170|Marion|Marion CDP
+49|49380|Mexican Hat|Mexican Hat CDP
+49|50150|Millcreek|Millcreek CDP
+49|51470|Montezuma Creek|Montezuma Creek CDP
+49|52460|Mountain Green|Mountain Green CDP
+49|53890|Navajo Mountain|Navajo Mountain CDP
+49|54110|Neola|Neola CDP
+49|54330|Newcastle|Newcastle CDP
+49|55760|Oasis|Oasis CDP
+49|56440|Oljato-Monument Valley|Oljato-Monument Valley CDP
+49|57630|Palmyra|Palmyra CDP
+49|59280|Peoa|Peoa CDP
+49|59555|Peter|Peter CDP
+49|60270|Pine Valley|Pine Valley CDP
+49|62910|Randlett|Randlett CDP
+49|64230|Riverside|Riverside CDP
+49|67400|Samak|Samak CDP
+49|69280|Silver Summit|Silver Summit CDP
+49|70190|Snyderville|Snyderville CDP
+49|71255|South Willard|South Willard CDP
+49|71455|Spanish Valley|Spanish Valley CDP
+49|72060|Spring Glen|Spring Glen CDP
+49|72170|Spring Lake|Spring Lake CDP
+49|72720|Stansbury Park|Stansbury Park CDP
+49|74040|Summit|Summit CDP
+49|74095|Summit Park|Summit Park CDP
+49|74590|Sutherland|Sutherland CDP
+49|75470|Teasdale|Teasdale CDP
+49|75800|Thatcher|Thatcher CDP
+49|76180|Thompson Springs|Thompson Springs CDP
+49|76280|Timber Lakes|Timber Lakes CDP
+49|77697|Tselakai Dezza|Tselakai Dezza CDP
+49|80310|Veyo|Veyo CDP
+49|81190|Wanship|Wanship CDP
+49|83252|West Mountain|West Mountain CDP
+49|83730|West Wood|West Wood CDP
+49|84050|White City|White City CDP
+49|84095|White Mesa|White Mesa CDP
+49|84160|Whiterocks|Whiterocks CDP
+49|84950|Wolf Creek|Wolf Creek CDP
+49|85040|Woodland|Woodland CDP

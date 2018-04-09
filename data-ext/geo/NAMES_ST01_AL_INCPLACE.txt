@@ -1,0 +1,461 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+01|00124|Abbeville|Abbeville city
+01|00460|Adamsville|Adamsville city
+01|00484|Addison|Addison town
+01|00676|Akron|Akron town
+01|00820|Alabaster|Alabaster city
+01|00988|Albertville|Albertville city
+01|01132|Alexander City|Alexander City city
+01|01228|Aliceville|Aliceville city
+01|01396|Allgood|Allgood town
+01|01660|Altoona|Altoona town
+01|01708|Andalusia|Andalusia city
+01|01756|Anderson|Anderson town
+01|01852|Anniston|Anniston city
+01|02116|Arab|Arab city
+01|02260|Ardmore|Ardmore town
+01|02320|Argo|Argo town
+01|02428|Ariton|Ariton town
+01|02500|Arley|Arley town
+01|02836|Ashford|Ashford town
+01|02860|Ashland|Ashland town
+01|02908|Ashville|Ashville city
+01|02956|Athens|Athens city
+01|03004|Atmore|Atmore city
+01|03028|Attalla|Attalla city
+01|03076|Auburn|Auburn city
+01|03220|Autaugaville|Autaugaville town
+01|03364|Avon|Avon town
+01|03556|Babbie|Babbie town
+01|03676|Baileyton|Baileyton town
+01|03724|Bakerhill|Bakerhill town
+01|03940|Banks|Banks town
+01|04660|Bay Minette|Bay Minette city
+01|04684|Bayou La Batre|Bayou La Batre city
+01|04852|Bear Creek|Bear Creek town
+01|04900|Beatrice|Beatrice town
+01|04948|Beaverton|Beaverton town
+01|05164|Belk|Belk town
+01|05692|Benton|Benton town
+01|05932|Berry|Berry town
+01|05980|Bessemer|Bessemer city
+01|06460|Billingsley|Billingsley town
+01|07000|Birmingham|Birmingham city
+01|07120|Black|Black town
+01|07456|Blountsville|Blountsville town
+01|07672|Blue Springs|Blue Springs town
+01|07912|Boaz|Boaz city
+01|08104|Boligee|Boligee town
+01|08248|Bon Air|Bon Air town
+01|09016|Brantley|Brantley town
+01|09136|Brent|Brent city
+01|09208|Brewton|Brewton city
+01|09328|Bridgeport|Bridgeport city
+01|09400|Brighton|Brighton city
+01|09424|Brilliant|Brilliant town
+01|09736|Brookside|Brookside town
+01|09808|Brookwood|Brookwood town
+01|10240|Brundidge|Brundidge city
+01|11032|Butler|Butler town
+01|11416|Calera|Calera city
+01|11512|Camden|Camden city
+01|11680|Camp Hill|Camp Hill town
+01|12016|Carbon Hill|Carbon Hill city
+01|12040|Cardiff|Cardiff town
+01|12160|Carolina|Carolina town
+01|12304|Carrollton|Carrollton town
+01|12496|Castleberry|Castleberry town
+01|12760|Cedar Bluff|Cedar Bluff town
+01|13264|Center Point|Center Point city
+01|13648|Centre|Centre city
+01|13672|Centreville|Centreville city
+01|14008|Chatom|Chatom town
+01|14104|Chelsea|Chelsea city
+01|14152|Cherokee|Cherokee town
+01|14392|Chickasaw|Chickasaw city
+01|14464|Childersburg|Childersburg city
+01|15064|Citronelle|Citronelle city
+01|15136|Clanton|Clanton city
+01|15256|Clay|Clay city
+01|15304|Clayhatchee|Clayhatchee town
+01|15376|Clayton|Clayton town
+01|15472|Cleveland|Cleveland town
+01|15640|Clio|Clio city
+01|16000|Coaling|Coaling town
+01|16240|Coffee Springs|Coffee Springs town
+01|16264|Coffeeville|Coffeeville town
+01|16312|Coker|Coker town
+01|16600|Collinsville|Collinsville town
+01|16684|Colony|Colony town
+01|16744|Columbia|Columbia town
+01|16768|Columbiana|Columbiana city
+01|17176|Coosada|Coosada town
+01|17368|Cordova|Cordova city
+01|17824|Cottonwood|Cottonwood town
+01|17968|County Line|County Line town
+01|18040|Courtland|Courtland town
+01|18088|Cowarts|Cowarts town
+01|18304|Creola|Creola city
+01|18856|Crossville|Crossville town
+01|18952|Cuba|Cuba town
+01|18976|Cullman|Cullman city
+01|19216|Cusseta|Cusseta town
+01|19336|Dadeville|Dadeville city
+01|19360|Daleville|Daleville city
+01|19648|Daphne|Daphne city
+01|19744|Dauphin Island|Dauphin Island town
+01|19816|Daviston|Daviston town
+01|19912|Dayton|Dayton town
+01|20008|Deatsville|Deatsville town
+01|20104|Decatur|Decatur city
+01|20296|Demopolis|Demopolis city
+01|20392|Detroit|Detroit town
+01|20955|Dodge City|Dodge City town
+01|21136|Dora|Dora city
+01|21184|Dothan|Dothan city
+01|21280|Double Springs|Double Springs town
+01|21328|Douglas|Douglas town
+01|21448|Dozier|Dozier town
+01|21952|Dutton|Dutton town
+01|22216|East Brewton|East Brewton city
+01|22816|Eclectic|Eclectic town
+01|23176|Edwardsville|Edwardsville town
+01|23296|Elba|Elba city
+01|23320|Elberta|Elberta town
+01|23344|Eldridge|Eldridge town
+01|23488|Elkmont|Elkmont town
+01|23656|Elmore|Elmore town
+01|23872|Emelle|Emelle town
+01|24184|Enterprise|Enterprise city
+01|24256|Epes|Epes town
+01|24472|Ethelsville|Ethelsville town
+01|24568|Eufaula|Eufaula city
+01|24664|Eutaw|Eutaw town
+01|24688|Eva|Eva town
+01|24808|Evergreen|Evergreen city
+01|24880|Excel|Excel town
+01|25120|Fairfield|Fairfield city
+01|25240|Fairhope|Fairhope city
+01|25384|Fairview|Fairview town
+01|25648|Falkville|Falkville town
+01|25816|Faunsdale|Faunsdale town
+01|25840|Fayette|Fayette city
+01|26200|Five Points|Five Points town
+01|26824|Flomaton|Flomaton town
+01|26848|Florala|Florala town
+01|26896|Florence|Florence city
+01|26992|Foley|Foley city
+01|27376|Forkland|Forkland town
+01|27520|Fort Deposit|Fort Deposit town
+01|27616|Fort Payne|Fort Payne city
+01|28024|Franklin|Franklin town
+01|28312|Frisco City|Frisco City town
+01|28432|Fruithurst|Fruithurst town
+01|28504|Fulton|Fulton town
+01|28552|Fultondale|Fultondale city
+01|28672|Fyffe|Fyffe town
+01|28696|Gadsden|Gadsden city
+01|28768|Gainesville|Gainesville town
+01|28936|Gantt|Gantt town
+01|29032|Garden City|Garden City town
+01|29056|Gardendale|Gardendale city
+01|29296|Gaylesville|Gaylesville town
+01|29392|Geiger|Geiger town
+01|29464|Geneva|Geneva city
+01|29560|Georgiana|Georgiana town
+01|29608|Geraldine|Geraldine town
+01|29704|Gilbertown|Gilbertown town
+01|29944|Glen Allen|Glen Allen town
+01|29992|Glencoe|Glencoe city
+01|30160|Glenwood|Glenwood town
+01|30448|Goldville|Goldville town
+01|30496|Good Hope|Good Hope town
+01|30640|Goodwater|Goodwater town
+01|30736|Gordo|Gordo town
+01|30760|Gordon|Gordon town
+01|30808|Gordonville|Gordonville town
+01|30880|Goshen|Goshen town
+01|31096|Grant|Grant town
+01|31384|Graysville|Graysville city
+01|31720|Greensboro|Greensboro city
+01|31912|Greenville|Greenville city
+01|32056|Grimes|Grimes town
+01|32080|Grove Hill|Grove Hill town
+01|32224|Guin|Guin city
+01|32272|Gulf Shores|Gulf Shores city
+01|32416|Guntersville|Guntersville city
+01|32440|Gurley|Gurley town
+01|32536|Gu-Win|Gu-Win town
+01|32560|Hackleburg|Hackleburg town
+01|32656|Haleburg|Haleburg town
+01|32704|Haleyville|Haleyville city
+01|32848|Hamilton|Hamilton city
+01|32896|Hammondville|Hammondville town
+01|32968|Hanceville|Hanceville city
+01|33256|Harpersville|Harpersville town
+01|33424|Hartford|Hartford city
+01|33448|Hartselle|Hartselle city
+01|33640|Hayden|Hayden town
+01|33712|Hayneville|Hayneville town
+01|33856|Headland|Headland city
+01|33904|Heath|Heath town
+01|33976|Heflin|Heflin city
+01|34024|Helena|Helena city
+01|34096|Henagar|Henagar city
+01|34480|Highland Lake|Highland Lake town
+01|34816|Hillsboro|Hillsboro town
+01|35152|Hobson City|Hobson City town
+01|35200|Hodges|Hodges town
+01|35392|Hokes Bluff|Hokes Bluff city
+01|35560|Holly Pond|Holly Pond town
+01|35632|Hollywood|Hollywood town
+01|35800|Homewood|Homewood city
+01|35896|Hoover|Hoover city
+01|36088|Horn Hill|Horn Hill town
+01|36448|Hueytown|Hueytown city
+01|37000|Huntsville|Huntsville city
+01|37096|Hurtsboro|Hurtsboro town
+01|37264|Hytop|Hytop town
+01|37312|Ider|Ider town
+01|37465|Indian Springs Village|Indian Springs Village city
+01|37864|Irondale|Irondale city
+01|38152|Jackson|Jackson city
+01|38248|Jacksons' Gap|Jacksons' Gap town
+01|38272|Jacksonville|Jacksonville city
+01|38416|Jasper|Jasper city
+01|38608|Jemison|Jemison city
+01|39280|Kansas|Kansas town
+01|39472|Kellyton|Kellyton town
+01|39520|Kennedy|Kennedy town
+01|39784|Killen|Killen town
+01|39856|Kimberly|Kimberly town
+01|40072|Kinsey|Kinsey town
+01|40096|Kinston|Kinston town
+01|40672|La Fayette|La Fayette city
+01|40888|Lakeview|Lakeview town
+01|40928|Lake View|Lake View town
+01|41296|Lanett|Lanett city
+01|41368|Langston|Langston town
+01|41968|Leeds|Leeds city
+01|42016|Leesburg|Leesburg town
+01|42160|Leighton|Leighton town
+01|42352|Lester|Lester town
+01|42472|Level Plains|Level Plains town
+01|42640|Lexington|Lexington town
+01|42808|Libertyville|Libertyville town
+01|43120|Lincoln|Lincoln city
+01|43240|Linden|Linden city
+01|43264|Lineville|Lineville city
+01|43336|Lipscomb|Lipscomb city
+01|43384|Lisman|Lisman town
+01|43648|Littleville|Littleville town
+01|43720|Livingston|Livingston city
+01|43744|Loachapoka|Loachapoka town
+01|43816|Lockhart|Lockhart town
+01|43888|Locust Fork|Locust Fork town
+01|44344|Louisville|Louisville town
+01|44536|Lowndesboro|Lowndesboro town
+01|44608|Loxley|Loxley town
+01|44728|Luverne|Luverne city
+01|44800|Lynn|Lynn town
+01|45472|McIntosh|McIntosh town
+01|45496|McKenzie|McKenzie town
+01|45640|McMullen|McMullen town
+01|45784|Madison|Madison city
+01|45904|Madrid|Madrid town
+01|46072|Magnolia Springs|Magnolia Springs town
+01|46264|Malvern|Malvern town
+01|46504|Maplesville|Maplesville town
+01|46696|Margaret|Margaret town
+01|46768|Marion|Marion city
+01|47728|Maytown|Maytown town
+01|48052|Memphis|Memphis town
+01|48064|Mentone|Mentone town
+01|48376|Midfield|Midfield city
+01|48400|Midland City|Midland City town
+01|48424|Midway|Midway town
+01|48712|Millbrook|Millbrook city
+01|48808|Millport|Millport town
+01|48832|Millry|Millry town
+01|50000|Mobile|Mobile city
+01|50192|Monroeville|Monroeville city
+01|50312|Montevallo|Montevallo city
+01|51000|Montgomery|Montgomery city
+01|51096|Moody|Moody city
+01|51264|Mooresville|Mooresville town
+01|51456|Morris|Morris town
+01|51520|Mosses|Mosses town
+01|51600|Moulton|Moulton city
+01|51648|Moundville|Moundville town
+01|51696|Mountain Brook|Mountain Brook city
+01|52608|Mount Vernon|Mount Vernon town
+01|52776|Mulga|Mulga town
+01|52848|Munford|Munford town
+01|53016|Muscle Shoals|Muscle Shoals city
+01|53112|Myrtlewood|Myrtlewood town
+01|53256|Napier Field|Napier Field town
+01|53376|Natural Bridge|Natural Bridge town
+01|53400|Nauvoo|Nauvoo town
+01|53448|Nectar|Nectar town
+01|53472|Needham|Needham town
+01|53784|Newbern|Newbern town
+01|53856|New Brockton|New Brockton town
+01|54168|New Hope|New Hope city
+01|54432|New Site|New Site town
+01|54480|Newton|Newton town
+01|54600|Newville|Newville town
+01|55044|North Courtland|North Courtland town
+01|55152|North Johns|North Johns town
+01|55200|Northport|Northport city
+01|55440|Notasulga|Notasulga town
+01|55752|Oak Grove|Oak Grove town
+01|55848|Oak Hill|Oak Hill town
+01|55992|Oakman|Oakman town
+01|56400|Odenville|Odenville town
+01|56472|Ohatchee|Ohatchee town
+01|57000|Oneonta|Oneonta city
+01|57024|Onycha|Onycha town
+01|57048|Opelika|Opelika city
+01|57120|Opp|Opp city
+01|57144|Orange Beach|Orange Beach city
+01|57240|Orrville|Orrville town
+01|57504|Owens Cross Roads|Owens Cross Roads town
+01|57576|Oxford|Oxford city
+01|57648|Ozark|Ozark city
+01|57696|Paint Rock|Paint Rock town
+01|58272|Parrish|Parrish town
+01|58848|Pelham|Pelham city
+01|58896|Pell City|Pell City city
+01|58968|Pennington|Pennington town
+01|59088|Perdido Beach|Perdido Beach town
+01|59328|Petrey|Petrey town
+01|59472|Phenix City|Phenix City city
+01|59496|Phil Campbell|Phil Campbell town
+01|59592|Pickensville|Pickensville town
+01|59640|Piedmont|Piedmont city
+01|59760|Pike Road|Pike Road town
+01|59832|Pinckard|Pinckard town
+01|59880|Pine Apple|Pine Apple town
+01|60240|Pine Hill|Pine Hill town
+01|60372|Pine Ridge|Pine Ridge town
+01|60648|Pinson|Pinson city
+01|60720|Pisgah|Pisgah town
+01|61008|Pleasant Grove|Pleasant Grove city
+01|61038|Pleasant Groves|Pleasant Groves town
+01|61536|Pollard|Pollard town
+01|62075|Powell|Powell town
+01|62328|Prattville|Prattville city
+01|62472|Priceville|Priceville town
+01|62496|Prichard|Prichard city
+01|62688|Providence|Providence town
+01|63216|Ragland|Ragland town
+01|63288|Rainbow City|Rainbow City city
+01|63336|Rainsville|Rainsville city
+01|63408|Ranburne|Ranburne town
+01|63576|Red Bay|Red Bay city
+01|63768|Red Level|Red Level town
+01|63984|Reece City|Reece City town
+01|64104|Reform|Reform town
+01|64152|Rehobeth|Rehobeth town
+01|64368|Repton|Repton town
+01|64656|Ridgeville|Ridgeville town
+01|64776|River Falls|River Falls town
+01|64920|Riverside|Riverside town
+01|65016|Riverview|Riverview town
+01|65040|Roanoke|Roanoke city
+01|65208|Robertsdale|Robertsdale city
+01|65472|Rockford|Rockford town
+01|66216|Rogersville|Rogersville town
+01|66408|Rosa|Rosa town
+01|67056|Russellville|Russellville city
+01|67176|Rutledge|Rutledge town
+01|67536|St. Florian|St. Florian town
+01|67800|Samson|Samson city
+01|67920|Sand Rock|Sand Rock town
+01|68016|Sanford|Sanford town
+01|68160|Saraland|Saraland city
+01|68280|Sardis City|Sardis City town
+01|68352|Satsuma|Satsuma city
+01|68736|Scottsboro|Scottsboro city
+01|69000|Section|Section town
+01|69120|Selma|Selma city
+01|69648|Sheffield|Sheffield city
+01|69840|Shiloh|Shiloh town
+01|70128|Shorter|Shorter town
+01|70416|Silas|Silas town
+01|70536|Silverhill|Silverhill town
+01|70704|Sipsey|Sipsey town
+01|70896|Skyline|Skyline town
+01|71040|Slocomb|Slocomb city
+01|71190|Smiths Station|Smiths Station city
+01|71280|Snead|Snead town
+01|71496|Somerville|Somerville town
+01|71832|Southside|Southside city
+01|71900|South Vinemont|South Vinemont town
+01|71976|Spanish Fort|Spanish Fort city
+01|72600|Springville|Springville city
+01|72888|Steele|Steele town
+01|73080|Stevenson|Stevenson city
+01|73728|Sulligent|Sulligent city
+01|73848|Sumiton|Sumiton city
+01|73872|Summerdale|Summerdale town
+01|74160|Susan Moore|Susan Moore town
+01|74304|Sweet Water|Sweet Water town
+01|74352|Sylacauga|Sylacauga city
+01|74400|Sylvania|Sylvania town
+01|74424|Sylvan Springs|Sylvan Springs town
+01|74592|Talladega|Talladega city
+01|74616|Talladega Springs|Talladega Springs town
+01|74688|Tallassee|Tallassee city
+01|74976|Tarrant|Tarrant city
+01|75096|Taylor|Taylor town
+01|75936|Thomaston|Thomaston town
+01|75960|Thomasville|Thomasville city
+01|76080|Thorsby|Thorsby town
+01|76584|Town Creek|Town Creek town
+01|76632|Toxey|Toxey town
+01|76680|Trafford|Trafford town
+01|76824|Triana|Triana town
+01|76872|Trinity|Trinity town
+01|76920|Troy|Troy city
+01|76944|Trussville|Trussville city
+01|77256|Tuscaloosa|Tuscaloosa city
+01|77280|Tuscumbia|Tuscumbia city
+01|77304|Tuskegee|Tuskegee city
+01|77352|Twin|Twin town
+01|77616|Union|Union town
+01|77784|Union Grove|Union Grove town
+01|77880|Union Springs|Union Springs city
+01|77904|Uniontown|Uniontown town
+01|78204|Valley|Valley city
+01|78232|Valley Grande|Valley Grande city
+01|78240|Valley Head|Valley Head town
+01|78264|Vance|Vance town
+01|78480|Vernon|Vernon city
+01|78552|Vestavia Hills|Vestavia Hills city
+01|78984|Vina|Vina town
+01|79008|Vincent|Vincent town
+01|79272|Vredenburgh|Vredenburgh town
+01|79344|Wadley|Wadley town
+01|79488|Waldo|Waldo town
+01|79728|Walnut Grove|Walnut Grove town
+01|79944|Warrior|Warrior city
+01|80064|Waterloo|Waterloo town
+01|80256|Waverly|Waverly town
+01|80352|Weaver|Weaver city
+01|80376|Webb|Webb town
+01|80496|Wedowee|Wedowee town
+01|80928|West Blocton|West Blocton town
+01|81336|West Jefferson|West Jefferson town
+01|81504|Westover|Westover town
+01|81528|West Point|West Point town
+01|81720|Wetumpka|Wetumpka city
+01|81912|White Hall|White Hall town
+01|82848|Wilsonville|Wilsonville town
+01|82872|Wilton|Wilton town
+01|82992|Winfield|Winfield city
+01|83400|Woodland|Woodland town
+01|83640|Woodstock|Woodstock town
+01|83664|Woodville|Woodville town
+01|83976|Yellow Bluff|Yellow Bluff town
+01|84096|York|York city

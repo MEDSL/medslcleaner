@@ -1,0 +1,2225 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+04|001|02|Alpine|Alpine Voting District
+04|001|03|Canyon de Chelly|Canyon de Chelly Voting District
+04|001|05|Chinle|Chinle Voting District
+04|001|09|Concho|Concho Voting District
+04|001|10|Cornfields|Cornfields Voting District
+04|001|11|Cottonwood|Cottonwood Voting District
+04|001|12|Coronado|Coronado Voting District
+04|001|13|Dennehotso|Dennehotso Voting District
+04|001|16|Eagar|Eagar Voting District
+04|001|17|Flat Top|Flat Top Voting District
+04|001|19|Fort Defiance|Fort Defiance Voting District
+04|001|22|Ganado North|Ganado North Voting District
+04|001|23|Ganado South|Ganado South Voting District
+04|001|25|Greer|Greer Voting District
+04|001|27|Houck|Houck Voting District
+04|001|29|Kinlichee|Kinlichee Voting District
+04|001|31|Klagetoh|Klagetoh Voting District
+04|001|33|Lukachukai|Lukachukai Voting District
+04|001|35|Lupton|Lupton Voting District
+04|001|37|McNary|McNary Voting District
+04|001|39|Many Farms|Many Farms Voting District
+04|001|41|Mexican Water|Mexican Water Voting District
+04|001|43|Nazlini|Nazlini Voting District
+04|001|45|Nutrioso|Nutrioso Voting District
+04|001|46|Oak Springs|Oak Springs Voting District
+04|001|48|Puerco East|Puerco East Voting District
+04|001|49|Puerco West|Puerco West Voting District
+04|001|51|Red Mesa|Red Mesa Voting District
+04|001|52|Red Valley|Red Valley Voting District
+04|001|54|Rock Point|Rock Point Voting District
+04|001|56|Rough Rock|Rough Rock Voting District
+04|001|58|Round Rock|Round Rock Voting District
+04|001|59|Round Valley|Round Valley Voting District
+04|001|61|St. Johns|St. Johns Voting District
+04|001|65|St. Michaels|St. Michaels Voting District
+04|001|67|Sawmill|Sawmill Voting District
+04|001|70|Springerville|Springerville Voting District
+04|001|74|Steamboat|Steamboat Voting District
+04|001|76|Sweetwater|Sweetwater Voting District
+04|001|78|Tachee|Tachee Voting District
+04|001|80|Teec Nos Pos|Teec Nos Pos Voting District
+04|001|82|Vernon|Vernon Voting District
+04|001|84|Wheatfields|Wheatfields Voting District
+04|001|86|Wide Ruins|Wide Ruins Voting District
+04|001|88|Window Rock|Window Rock Voting District
+04|003|01|Precinct 01|Precinct 01
+04|003|02|Precinct 02|Precinct 02
+04|003|03|Precinct 03|Precinct 03
+04|003|04|Precinct 04|Precinct 04
+04|003|05|Precinct 05|Precinct 05
+04|003|06|Precinct 06|Precinct 06
+04|003|07|Precinct 07|Precinct 07
+04|003|08|Precinct 08|Precinct 08
+04|003|09|Precinct 09|Precinct 09
+04|003|10|Precinct 10|Precinct 10
+04|003|11|Precinct 11|Precinct 11
+04|003|12|Precinct 12|Precinct 12
+04|003|13|Precinct 13|Precinct 13
+04|003|14|Precinct 14|Precinct 14
+04|003|15|Precinct 15|Precinct 15
+04|003|16|Precinct 16|Precinct 16
+04|003|17|Precinct 17|Precinct 17
+04|003|18|Precinct 18|Precinct 18
+04|003|19|Precinct 19|Precinct 19
+04|003|20|Precinct 20|Precinct 20
+04|003|21|Precinct 21|Precinct 21
+04|003|22|Precinct 22|Precinct 22
+04|003|23|Precinct 23|Precinct 23
+04|003|24|Precinct 24|Precinct 24
+04|003|25|Precinct 25|Precinct 25
+04|003|26|Precinct 26|Precinct 26
+04|003|27|Precinct 27|Precinct 27
+04|003|28|Precinct 28|Precinct 28
+04|003|29|Precinct 29|Precinct 29
+04|003|30|precinct 30|precinct 30
+04|003|31|Precinct 31|Precinct 31
+04|003|32|Precinct 32|Precinct 32
+04|003|33|Precinct 33|Precinct 33
+04|003|34|Precinct 34|Precinct 34
+04|003|35|Precinct 35|Precinct 35
+04|003|36|Precinct 36|Precinct 36
+04|003|37|Precinct 37|Precinct 37
+04|003|38|Precinct 38|Precinct 38
+04|003|39|Precinct 39|Precinct 39
+04|003|40|Precinct 40|Precinct 40
+04|003|41|Precinct 41|Precinct 41
+04|003|42|Precinct 42|Precinct 42
+04|003|43|Precinct 43|Precinct 43
+04|003|44|Precinct 44|Precinct 44
+04|003|45|Precinct 45|Precinct 45
+04|003|46|Precinct 46|Precinct 46
+04|003|47|Precinct 47|Precinct 47
+04|003|48|Precinct 48|Precinct 48
+04|003|49|Precinct 49|Precinct 49
+04|003|50|Precinct 50|Precinct 50
+04|003|51|Precinct 51|Precinct 51
+04|003|52|Precinct 52|Precinct 52
+04|003|53|Precinct 53|Precinct 53
+04|003|54|Precinct 54|Precinct 54
+04|003|55|Precinct 55|Precinct 55
+04|003|56|Precinct 56|Precinct 56
+04|003|57|Precinct 57|Precinct 57
+04|003|58|Precinct 58|Precinct 58
+04|003|59|Precinct 59|Precinct 59
+04|003|60|Precinct 60|Precinct 60
+04|003|61|Precinct 61|Precinct 61
+04|003|62|Precinct 62|Precinct 62
+04|003|63|Precinct 63|Precinct 63
+04|003|64|Precinct 64|Precinct 64
+04|005|01|Flagstaff 1|Flagstaff 1 Voting District
+04|005|02|Flagstaff 2|Flagstaff 2 Voting District
+04|005|03|Flagstaff 3|Flagstaff 3 Voting District
+04|005|04|Flagstaff 4|Flagstaff 4 Voting District
+04|005|05|Flagstaff 5|Flagstaff 5 Voting District
+04|005|06|Flagstaff 6|Flagstaff 6 Voting District
+04|005|07|Flagstaff 7|Flagstaff 7 Voting District
+04|005|08|Flagstaff 8|Flagstaff 8 Voting District
+04|005|09|Flagstaff 9|Flagstaff 9 Voting District
+04|005|10|Flagstaff 10|Flagstaff 10 Voting District
+04|005|11|Flagstaff 11|Flagstaff 11 Voting District
+04|005|12|Flagstaff 12|Flagstaff 12 Voting District
+04|005|13|Flagstaff 13|Flagstaff 13 Voting District
+04|005|14|Flagstaff 14|Flagstaff 14 Voting District
+04|005|15|Flagstaff 15|Flagstaff 15 Voting District
+04|005|16|Flagstaff 16|Flagstaff 16 Voting District
+04|005|17|Flagstaff 17|Flagstaff 17 Voting District
+04|005|18|Flagstaff 18|Flagstaff 18 Voting District
+04|005|19|Flagstaff19|Flagstaff19 Voting District
+04|005|20|Flagstaff 20|Flagstaff 20 Voting District
+04|005|21|Flagstaff 21|Flagstaff 21 Voting District
+04|005|22|Flagstaff 22|Flagstaff 22 Voting District
+04|005|23|Flagstaff 23|Flagstaff 23 Voting District
+04|005|24|Flagstaff 24|Flagstaff 24 Voting District
+04|005|25|Flagstaff 25|Flagstaff 25 Voting District
+04|005|26|Flagstaff 26|Flagstaff 26 Voting District
+04|005|27|Flagstaff 27|Flagstaff 27 Voting District
+04|005|28|Flagstaff 28|Flagstaff 28 Voting District
+04|005|29|Flagstaff 29|Flagstaff 29 Voting District
+04|005|30|Flagstaff 30|Flagstaff 30 Voting District
+04|005|31|Flagstaff 31|Flagstaff 31 Voting District
+04|005|32|Flagstaff 32|Flagstaff 32 Voting District
+04|005|40|Bellemont|Bellemont Voting District
+04|005|41|Blue Ridge|Blue Ridge Voting District
+04|005|42|Bodaway Gap|Bodaway Gap Voting District
+04|005|43|Cameron|Cameron Voting District
+04|005|44|Dinnebito|Dinnebito Voting District
+04|005|47|Coppermine|Coppermine Voting District
+04|005|48|Coalmine|Coalmine Voting District
+04|005|50|Doney Park|Doney Park Voting District
+04|005|52|Fernwood|Fernwood Voting District
+04|005|53|Forest Lakes|Forest Lakes Voting District
+04|005|54|Fort Tuthill|Fort Tuthill Voting District
+04|005|55|Kiva|Kiva Voting District
+04|005|56|Fort Valley|Fort Valley Voting District
+04|005|57|Meteor|Meteor Voting District
+04|005|58|Fredonia|Fredonia Voting District
+04|005|59|Grand Canyon|Grand Canyon Voting District
+04|005|60|Havasupai|Havasupai Voting District
+04|005|61|Inscription House|Inscription House Voting District
+04|005|62|Kachina Village|Kachina Village Voting District
+04|005|63|Mormon Lake|Mormon Lake Voting District
+04|005|64|Kaibab North|Kaibab North Voting District
+04|005|65|Kaibeto|Kaibeto Voting District
+04|005|66|North Rim|North Rim Voting District
+04|005|67|Lechee|Lechee Voting District
+04|005|68|Pathway|Pathway Voting District
+04|005|69|Leupp|Leupp Voting District
+04|005|70|Moenkopi|Moenkopi Voting District
+04|005|71|Navajo Mountain|Navajo Mountain Voting District
+04|005|72|Page Central|Page Central Voting District
+04|005|73|Page East|Page East Voting District
+04|005|74|Page South|Page South Voting District
+04|005|75|Page West|Page West Voting District
+04|005|79|Parks|Parks Voting District
+04|005|80|Pinewood|Pinewood Voting District
+04|005|81|Paiute|Paiute Voting District
+04|005|82|Sedona North|Sedona North Voting District
+04|005|83|Sedona South|Sedona South Voting District
+04|005|84|Ranches|Ranches Voting District
+04|005|85|Sunset Crater East|Sunset Crater East Voting District
+04|005|86|Sunset Crater West|Sunset Crater West Voting District
+04|005|87|Glen Canyon|Glen Canyon Voting District
+04|005|88|Tolani Lake East|Tolani Lake East Voting District
+04|005|89|Tolani Lake West|Tolani Lake West Voting District
+04|005|90|Tonalea North|Tonalea North Voting District
+04|005|91|Tonalea South|Tonalea South Voting District
+04|005|92|Wynona|Wynona Voting District
+04|005|93|Tuba City North East|Tuba City North East Voting District
+04|005|94|Tuba City North West|Tuba City North West Voting District
+04|005|95|Tuba City South East|Tuba City South East Voting District
+04|005|96|Tuba City South West|Tuba City South West Voting District
+04|005|97|Tusayan|Tusayan Voting District
+04|005|98|Williams North Side|Williams North Side Voting District
+04|005|99|Willliams South Side|Willliams South Side Voting District
+04|007|01|Globe #1|Globe #1 Voting District
+04|007|02|Globe #2|Globe #2 Voting District
+04|007|03|Globe #3|Globe #3 Voting District
+04|007|04|Globe #4|Globe #4 Voting District
+04|007|05|Globe #5|Globe #5 Voting District
+04|007|06|Globe #6|Globe #6 Voting District
+04|007|07|East Globe|East Globe Voting District
+04|007|08|Globe #7|Globe #7 Voting District
+04|007|09|Globe #8|Globe #8 Voting District
+04|007|10|San Carlos|San Carlos Voting District
+04|007|11|Canyon Day|Canyon Day Voting District
+04|007|12|Globe #11|Globe #11 Voting District
+04|007|13|Miami #1|Miami #1 Voting District
+04|007|14|Miami #3|Miami #3 Voting District
+04|007|15|Claypool #3|Claypool #3 Voting District
+04|007|16|Central Heights|Central Heights Voting District
+04|007|17|Claypool #1|Claypool #1 Voting District
+04|007|18|Claypool #2|Claypool #2 Voting District
+04|007|20|Hayden|Hayden Voting District
+04|007|21|Winkelman|Winkelman Voting District
+04|007|22|Christmas|Christmas Voting District
+04|007|23|Roosevelt|Roosevelt Voting District
+04|007|24|Sierra Ancha|Sierra Ancha Voting District
+04|007|25|Tonto Basin|Tonto Basin Voting District
+04|007|26|Payson #1|Payson #1 Voting District
+04|007|27|Payson #2|Payson #2 Voting District
+04|007|28|Payson #3|Payson #3 Voting District
+04|007|29|Payson #4|Payson #4 Voting District
+04|007|30|Payson #6|Payson #6 Voting District
+04|007|31|Payson #7|Payson #7 Voting District
+04|007|32|Payson #8|Payson #8 Voting District
+04|007|33|Payson #5|Payson #5 Voting District
+04|007|34|Star Valley|Star Valley Voting District
+04|007|35|Whispering Pines|Whispering Pines Voting District
+04|007|36|Zane Grey|Zane Grey Voting District
+04|007|37|Gisela|Gisela Voting District
+04|007|38|Young|Young Voting District
+04|007|39|Pine-Strawberry|Pine-Strawberry Voting District
+04|007|40|Carrizo|Carrizo Voting District
+04|009|01|Solomon 1|Solomon 1 Voting District
+04|009|02|Safford 2|Safford 2 Voting District
+04|009|03|Safford 3|Safford 3 Voting District
+04|009|04|Layton 4|Layton 4 Voting District
+04|009|05|Layton 5|Layton 5 Voting District
+04|009|06|Thatcher 6|Thatcher 6 Voting District
+04|009|07|Thatcher 7|Thatcher 7 Voting District
+04|009|08|Central 8|Central 8 Voting District
+04|009|09|Pima 9|Pima 9 Voting District
+04|009|10|Thomas 10|Thomas 10 Voting District
+04|009|11|Bylas 11|Bylas 11 Voting District
+04|009|12|Klondyke 12|Klondyke 12 Voting District
+04|009|13|Bonita 13|Bonita 13 Voting District
+04|009|14|Thunderbird 14|Thunderbird 14 Voting District
+04|009|15|Safford 15a|Safford 15a Voting District
+04|009|16|Peridot 16|Peridot 16 Voting District
+04|009|17|Cactus 17|Cactus 17 Voting District
+04|009|18|Jackson 18|Jackson 18 Voting District
+04|009|19|Safford 15b|Safford 15b Voting District
+04|011|1|Eagle|Eagle Voting District
+04|011|2|Blue|Blue Voting District
+04|011|3|Clifton 1|Clifton 1 Voting District
+04|011|4|Clifton 2|Clifton 2 Voting District
+04|011|5|Morenchi|Morenchi Voting District
+04|011|6|East Plantsite|East Plantsite Voting District
+04|011|7|York/Sheldon|York/Sheldon Voting District
+04|011|8|Duncan|Duncan Voting District
+04|012|51|Parker 1|Parker 1 Voting District
+04|012|52|Poston|Poston Voting District
+04|012|53|Parker 2|Parker 2 Voting District
+04|012|54|Upriver|Upriver Voting District
+04|012|55|Bouse|Bouse Voting District
+04|012|56|Wenden|Wenden Voting District
+04|012|57|Salome|Salome Voting District
+04|012|58|Quartzite|Quartzite Voting District
+04|012|59|Cibola|Cibola Voting District
+04|012|60|Ehrenberg|Ehrenberg Voting District
+04|012|62|Vicksburg|Vicksburg Voting District
+04|012|63|Alamo|Alamo Voting District
+04|013|1|ACACIA|ACACIA Voting District
+04|013|10|ALHAMBRA|ALHAMBRA Voting District
+04|013|100|CASCADE|CASCADE Voting District
+04|013|1000|YALE|YALE Voting District
+04|013|1001|YOUNGTOWN|YOUNGTOWN Voting District
+04|013|1002|YUCCA|YUCCA Voting District
+04|013|1003|YUKON|YUKON Voting District
+04|013|1004|YUMA|YUMA Voting District
+04|013|1005|PINNACLE VISTA|PINNACLE VISTA Voting District
+04|013|1006|PINON|PINON Voting District
+04|013|1007|POINCIANA|POINCIANA Voting District
+04|013|1008|RODEO PARK|RODEO PARK Voting District
+04|013|1009|SALOME|SALOME Voting District
+04|013|101|CASH|CASH Voting District
+04|013|1010|SALTILLO|SALTILLO Voting District
+04|013|1011|SANTA FE|SANTA FE Voting District
+04|013|1012|SETTLERS POINT|SETTLERS POINT Voting District
+04|013|1013|SHADOW MTN|SHADOW MTN Voting District
+04|013|1014|SIERRA VERDE|SIERRA VERDE Voting District
+04|013|1015|SOLEDAD|SOLEDAD Voting District
+04|013|1016|SOUTH MTN PARK|SOUTH MTN PARK Voting District
+04|013|1017|LA REATA|LA REATA Voting District
+04|013|1018|VILLA NUEVA|VILLA NUEVA Voting District
+04|013|1019|WHITE TANK|WHITE TANK Voting District
+04|013|102|CASHION|CASHION Voting District
+04|013|1020|WILLIS|WILLIS Voting District
+04|013|1021|WINDRUNNER|WINDRUNNER Voting District
+04|013|1022|ORO|ORO Voting District
+04|013|1023|WESTAR|WESTAR Voting District
+04|013|1024|LEISURE WORLD|LEISURE WORLD Voting District
+04|013|1025|MARIVUE|MARIVUE Voting District
+04|013|1026|WILDCAT|WILDCAT Voting District
+04|013|1027|DOBSON PARK|DOBSON PARK Voting District
+04|013|1028|SKYLINE PARK|SKYLINE PARK Voting District
+04|013|1029|GOLDFIELD RANCH|GOLDFIELD RANCH Voting District
+04|013|103|CATHEDRAL ROCK|CATHEDRAL ROCK Voting District
+04|013|1030|CARL|CARL Voting District
+04|013|1031|PIONEER VILLAGE|PIONEER VILLAGE Voting District
+04|013|1032|AMBERWOOD|AMBERWOOD Voting District
+04|013|1033|BETHANY|BETHANY Voting District
+04|013|1034|CAPITOL SCHOOL|CAPITOL SCHOOL Voting District
+04|013|1035|CHAPARRAL WINDS|CHAPARRAL WINDS Voting District
+04|013|1036|DESERT EDGE|DESERT EDGE Voting District
+04|013|1037|EAGLES NEST|EAGLES NEST Voting District
+04|013|1038|ESPERANZA|ESPERANZA Voting District
+04|013|1039|FTN HILLS 8|FTN HILLS 8 Voting District
+04|013|104|CAVALIER|CAVALIER Voting District
+04|013|1040|GRAYHAWK|GRAYHAWK Voting District
+04|013|1041|HAWES|HAWES Voting District
+04|013|1042|HOLMES|HOLMES Voting District
+04|013|1043|HULL|HULL Voting District
+04|013|1044|VISTANCIA|VISTANCIA Voting District
+04|013|1045|WIGWAM CREEK|WIGWAM CREEK Voting District
+04|013|1046|LONGMORE|LONGMORE Voting District
+04|013|1047|LUDDEN|LUDDEN Voting District
+04|013|1048|MCDOWELL|MCDOWELL Voting District
+04|013|1049|NORTH MTN|NORTH MTN Voting District
+04|013|105|CAVE CREEK|CAVE CREEK Voting District
+04|013|1050|TUSCANY FARMS|TUSCANY FARMS Voting District
+04|013|1051|TYSON|TYSON Voting District
+04|013|1052|WEATHERBY|WEATHERBY Voting District
+04|013|1053|WINDMILL RANCH|WINDMILL RANCH Voting District
+04|013|1054|POWER RANCH|POWER RANCH Voting District
+04|013|1055|CHANDLER HEIGHTS|CHANDLER HEIGHTS Voting District
+04|013|1056|SANOKAI|SANOKAI Voting District
+04|013|1057|MERIDIAN POINTE|MERIDIAN POINTE Voting District
+04|013|1058|AUGUSTA RANCH|AUGUSTA RANCH Voting District
+04|013|1059|AVIANO|AVIANO Voting District
+04|013|106|CEDAR HILLS|CEDAR HILLS Voting District
+04|013|1060|SIERRA PASS|SIERRA PASS Voting District
+04|013|1061|BROOKS FARM|BROOKS FARM Voting District
+04|013|1062|ALSUP|ALSUP Voting District
+04|013|1063|HIGHLAND LAKES|HIGHLAND LAKES Voting District
+04|013|1064|SILVERLEAF|SILVERLEAF Voting District
+04|013|1065|COLONIA|COLONIA Voting District
+04|013|1066|DESERT THUNDER|DESERT THUNDER Voting District
+04|013|1067|GILBERT GARDENS|GILBERT GARDENS Voting District
+04|013|1068|AZTEC SPRINGS|AZTEC SPRINGS Voting District
+04|013|1069|INDIAN SPRINGS|INDIAN SPRINGS Voting District
+04|013|107|CENTRAL HIGH|CENTRAL HIGH Voting District
+04|013|1070|MUSKET|MUSKET Voting District
+04|013|1071|ARDEN PARK|ARDEN PARK Voting District
+04|013|1072|LANTANA CANYON|LANTANA CANYON Voting District
+04|013|1073|CLOUD|CLOUD Voting District
+04|013|1074|TIERRA MADRE|TIERRA MADRE Voting District
+04|013|1075|POCO BUENO|POCO BUENO Voting District
+04|013|1076|CIMARRON|CIMARRON Voting District
+04|013|1077|TRADITIONS|TRADITIONS Voting District
+04|013|1078|SURPRISE FARMS|SURPRISE FARMS Voting District
+04|013|1079|WILLOW CANYON|WILLOW CANYON Voting District
+04|013|108|CENTURY|CENTURY Voting District
+04|013|1080|CIMARRON SPRINGS|CIMARRON SPRINGS Voting District
+04|013|1081|PENA|PENA Voting District
+04|013|1082|MOUNTAIN SAGE|MOUNTAIN SAGE Voting District
+04|013|1083|RANCHO PALOMA|RANCHO PALOMA Voting District
+04|013|1084|DYNAMITE|DYNAMITE Voting District
+04|013|1085|WESTLAND|WESTLAND Voting District
+04|013|1086|LOMA VERDES|LOMA VERDES Voting District
+04|013|1087|RANCH HOUSE|RANCH HOUSE Voting District
+04|013|1088|MEADOWBROOK VILLAGE|MEADOWBROOK VILLAGE Voting District
+04|013|1089|RITTENHOUSE|RITTENHOUSE Voting District
+04|013|109|CHANDLER 1|CHANDLER 1 Voting District
+04|013|1090|PEORIA HEIGHTS|PEORIA HEIGHTS Voting District
+04|013|1091|ARROWHEAD RANCH|ARROWHEAD RANCH Voting District
+04|013|1092|MIRADA|MIRADA Voting District
+04|013|1093|GILA|GILA Voting District
+04|013|1094|WESTRIDGE|WESTRIDGE Voting District
+04|013|1095|SENNIA VISTA|SENNIA VISTA Voting District
+04|013|1096|COLDWATER RIDGE|COLDWATER RIDGE Voting District
+04|013|1097|WOLF RUN|WOLF RUN Voting District
+04|013|1098|SUN GROVES|SUN GROVES Voting District
+04|013|1099|RIDGEVIEW|RIDGEVIEW Voting District
+04|013|110|CHANDLER 2|CHANDLER 2 Voting District
+04|013|1100|KENLY FARMS|KENLY FARMS Voting District
+04|013|1101|REEMS|REEMS Voting District
+04|013|1102|WEST POINT|WEST POINT Voting District
+04|013|1103|VILLA LA PAZ|VILLA LA PAZ Voting District
+04|013|1104|ORANGEWOOD FARMS|ORANGEWOOD FARMS Voting District
+04|013|1105|SUNDANCE WEST|SUNDANCE WEST Voting District
+04|013|1106|MONTANA FARMS|MONTANA FARMS Voting District
+04|013|1107|HOPEVILLE|HOPEVILLE Voting District
+04|013|1108|HASTINGS|HASTINGS Voting District
+04|013|1109|INSPIRATION|INSPIRATION Voting District
+04|013|111|CHANDLER 3|CHANDLER 3 Voting District
+04|013|1110|LAUREL GREENS|LAUREL GREENS Voting District
+04|013|1111|MAJESTY|MAJESTY Voting District
+04|013|1112|STETSON HILLS|STETSON HILLS Voting District
+04|013|1113|PYRAMID PEAK|PYRAMID PEAK Voting District
+04|013|1114|LAS SENDAS|LAS SENDAS Voting District
+04|013|1115|SAGUARO SHADOWS|SAGUARO SHADOWS Voting District
+04|013|1116|SAN MICHELLE|SAN MICHELLE Voting District
+04|013|1117|FRONTIER|FRONTIER Voting District
+04|013|1118|TOWNE MEADOWS|TOWNE MEADOWS Voting District
+04|013|1119|PORTOBELLO|PORTOBELLO Voting District
+04|013|112|CHANDLER 4|CHANDLER 4 Voting District
+04|013|1120|SUNLAND SPRINGS|SUNLAND SPRINGS Voting District
+04|013|1121|DESERT HAVEN|DESERT HAVEN Voting District
+04|013|1122|SIERRA RANCH|SIERRA RANCH Voting District
+04|013|1123|MARIPOSA GRANDE|MARIPOSA GRANDE Voting District
+04|013|1124|WEST WING|WEST WING Voting District
+04|013|1125|SONORAN HILLS|SONORAN HILLS Voting District
+04|013|1126|ZUNI HILLS|ZUNI HILLS Voting District
+04|013|1127|RUNION|RUNION Voting District
+04|013|1128|YEARLING|YEARLING Voting District
+04|013|1129|SUNCLIFF|SUNCLIFF Voting District
+04|013|113|CHANDLER 5|CHANDLER 5 Voting District
+04|013|1130|HACIENDA|HACIENDA Voting District
+04|013|1131|SEAHORSE|SEAHORSE Voting District
+04|013|1132|CAVE BUTTES|CAVE BUTTES Voting District
+04|013|1133|LA SOLANA|LA SOLANA Voting District
+04|013|1134|DESERT BLOSSOM|DESERT BLOSSOM Voting District
+04|013|1135|ESTRELLA FOOTHILLS|ESTRELLA FOOTHILLS Voting District
+04|013|1136|RANCHO MIRAGE|RANCHO MIRAGE Voting District
+04|013|1137|HUALAPAI|HUALAPAI Voting District
+04|013|1138|SIERRA HILLS|SIERRA HILLS Voting District
+04|013|1139|ADOBE HILLS|ADOBE HILLS Voting District
+04|013|114|CHANDLER 6|CHANDLER 6 Voting District
+04|013|1140|SAN ANGELO|SAN ANGELO Voting District
+04|013|1141|LAKE PLEASANT|LAKE PLEASANT Voting District
+04|013|1142|CANYON|CANYON Voting District
+04|013|115|CHANDLER 7|CHANDLER 7 Voting District
+04|013|116|CHANDLER 8|CHANDLER 8 Voting District
+04|013|117|CHANDLER 9|CHANDLER 9 Voting District
+04|013|118|CHANDLER 10|CHANDLER 10 Voting District
+04|013|119|CHANDLER 11|CHANDLER 11 Voting District
+04|013|11a|GAVILAN PEAK|GAVILAN PEAK Voting District
+04|013|12|ALMERIA|ALMERIA Voting District
+04|013|120|CHANDLER 12|CHANDLER 12 Voting District
+04|013|121|CHANDLER 13|CHANDLER 13 Voting District
+04|013|122|CHANDLER 14|CHANDLER 14 Voting District
+04|013|123|CHANDLER 15|CHANDLER 15 Voting District
+04|013|124|CHANDLER 16|CHANDLER 16 Voting District
+04|013|125|CHANDLER 17|CHANDLER 17 Voting District
+04|013|126|CHANDLER 18|CHANDLER 18 Voting District
+04|013|127|CHANDLER 19|CHANDLER 19 Voting District
+04|013|128|CHANDLER 20|CHANDLER 20 Voting District
+04|013|129|CHANDLER 21|CHANDLER 21 Voting District
+04|013|13|ALPACA|ALPACA Voting District
+04|013|130|CHANDLER 22|CHANDLER 22 Voting District
+04|013|131|CHANDLER 23|CHANDLER 23 Voting District
+04|013|132|CHANDLER 24|CHANDLER 24 Voting District
+04|013|133|CHANDLER 25|CHANDLER 25 Voting District
+04|013|134|CHANDLER 26|CHANDLER 26 Voting District
+04|013|135|CHANDLER 27|CHANDLER 27 Voting District
+04|013|136|CHANDLER 28|CHANDLER 28 Voting District
+04|013|137|CHANDLER 29|CHANDLER 29 Voting District
+04|013|138|CHANDLER 30|CHANDLER 30 Voting District
+04|013|139|CHANDLER 31|CHANDLER 31 Voting District
+04|013|14|ALTA MESA|ALTA MESA Voting District
+04|013|140|CHANDLER 32|CHANDLER 32 Voting District
+04|013|141|CHANDLER 33|CHANDLER 33 Voting District
+04|013|142|CHANDLER 34|CHANDLER 34 Voting District
+04|013|143|CHANDLER 35|CHANDLER 35 Voting District
+04|013|144|CHAPARRAL|CHAPARRAL Voting District
+04|013|145|CHARLESTON|CHARLESTON Voting District
+04|013|146|CHARTER OAK|CHARTER OAK Voting District
+04|013|147|CHENEY|CHENEY Voting District
+04|013|148|CHERRY HILLS|CHERRY HILLS Voting District
+04|013|149|CHERYL|CHERYL Voting District
+04|013|15|ALTA VISTA|ALTA VISTA Voting District
+04|013|150|CHEYENNE|CHEYENNE Voting District
+04|013|151|CHOLLA|CHOLLA Voting District
+04|013|152|CHRISTY|CHRISTY Voting District
+04|013|153|CIELO|CIELO Voting District
+04|013|154|CINNABAR|CINNABAR Voting District
+04|013|155|CITRUS|CITRUS Voting District
+04|013|156|CITRUS GARDENS|CITRUS GARDENS Voting District
+04|013|157b|CARVER|CARVER Voting District
+04|013|158|CLARENDON|CLARENDON Voting District
+04|013|159|CLAYTON|CLAYTON Voting District
+04|013|16|ALTADENA|ALTADENA Voting District
+04|013|160|CLEARVIEW|CLEARVIEW Voting District
+04|013|161|CLIFFVIEW|CLIFFVIEW Voting District
+04|013|162|CLINTON|CLINTON Voting District
+04|013|163|CLUB WEST|CLUB WEST Voting District
+04|013|164|COCOPAH|COCOPAH Voting District
+04|013|165|COLONNADE|COLONNADE Voting District
+04|013|166|COLUMBUS|COLUMBUS Voting District
+04|013|167|COMANCHE|COMANCHE Voting District
+04|013|168|COMET|COMET Voting District
+04|013|169|COMPADRE|COMPADRE Voting District
+04|013|17|AMBER|AMBER Voting District
+04|013|170|CONCORD|CONCORD Voting District
+04|013|171|CONQUISTADOR|CONQUISTADOR Voting District
+04|013|172|CONTENTION MINE|CONTENTION MINE Voting District
+04|013|173|CONTINENTAL|CONTINENTAL Voting District
+04|013|174|COOLIDGE|COOLIDGE Voting District
+04|013|175|COPPER HILLS|COPPER HILLS Voting District
+04|013|176|COPPERSTONE|COPPERSTONE Voting District
+04|013|177|COPPERWOOD|COPPERWOOD Voting District
+04|013|178|CORA|CORA Voting District
+04|013|179|CORALBELL|CORALBELL Voting District
+04|013|18|ANDERSON|ANDERSON Voting District
+04|013|180|CORDONIZ|CORDONIZ Voting District
+04|013|181|CORDOVA|CORDOVA Voting District
+04|013|182|CORONADO|CORONADO Voting District
+04|013|183|CORRINE|CORRINE Voting District
+04|013|184|CORTEZ|CORTEZ Voting District
+04|013|185|COTTON LANE|COTTON LANE Voting District
+04|013|186|COTTONWOOD|COTTONWOOD Voting District
+04|013|187|COUNTRY CLUB|COUNTRY CLUB Voting District
+04|013|188|COUNTRY GABLES|COUNTRY GABLES Voting District
+04|013|189|COUNTRY MEADOWS|COUNTRY MEADOWS Voting District
+04|013|190|COYOTE BASIN|COYOTE BASIN Voting District
+04|013|191|COYOTE LAKES|COYOTE LAKES Voting District
+04|013|192|CREEDANCE|CREEDANCE Voting District
+04|013|193|CREIGHTON|CREIGHTON Voting District
+04|013|194|CRESCENT|CRESCENT Voting District
+04|013|195|CRESTVIEW|CRESTVIEW Voting District
+04|013|196a|CITRUS HEIGHTS|CITRUS HEIGHTS Voting District
+04|013|197|CRISMON|CRISMON Voting District
+04|013|198|CRITTENDEN|CRITTENDEN Voting District
+04|013|199|CROCUS|CROCUS Voting District
+04|013|19b|BLOOM|BLOOM Voting District
+04|013|2|ACOMA|ACOMA Voting District
+04|013|20|ANGELA|ANGELA Voting District
+04|013|200|CROSBY|CROSBY Voting District
+04|013|201|CRYSTAL|CRYSTAL Voting District
+04|013|202|CULVER|CULVER Voting District
+04|013|203|CYPRESS|CYPRESS Voting District
+04|013|204|DAHLIA|DAHLIA Voting District
+04|013|205|DAILEY|DAILEY Voting District
+04|013|206|DAISY|DAISY Voting District
+04|013|207|DALLAS|DALLAS Voting District
+04|013|208|DANBURY|DANBURY Voting District
+04|013|209|DEADMAN WASH|DEADMAN WASH Voting District
+04|013|210|DEER CANYON|DEER CANYON Voting District
+04|013|211|DEER VALLEY|DEER VALLEY Voting District
+04|013|212|DEERVIEW|DEERVIEW Voting District
+04|013|213|DEL JOYA|DEL JOYA Voting District
+04|013|214|DENTON|DENTON Voting District
+04|013|215|DESERT BELL|DESERT BELL Voting District
+04|013|216|DESERT COVE|DESERT COVE Voting District
+04|013|217|DESERT HARBOR|DESERT HARBOR Voting District
+04|013|218|DESERT HILLS|DESERT HILLS Voting District
+04|013|219|DESERT LANE|DESERT LANE Voting District
+04|013|21b|CALISTOGA|CALISTOGA Voting District
+04|013|22|ANNETTE|ANNETTE Voting District
+04|013|220|DESERT PARK|DESERT PARK Voting District
+04|013|221|DESERT RIDGE|DESERT RIDGE Voting District
+04|013|222|DESERT SAGE|DESERT SAGE Voting District
+04|013|223|DESERT SHADOWS|DESERT SHADOWS Voting District
+04|013|224|MARTIN|MARTIN Voting District
+04|013|225|DESERT SPRINGS|DESERT SPRINGS Voting District
+04|013|226|DESERT VIEW|DESERT VIEW Voting District
+04|013|227|DESERT WINDS|DESERT WINDS Voting District
+04|013|228|DEVONSHIRE|DEVONSHIRE Voting District
+04|013|229|DIAMOND|DIAMOND Voting District
+04|013|23|APACHE|APACHE Voting District
+04|013|230|DIXILETA|DIXILETA Voting District
+04|013|231b|WILDFLOWER|WILDFLOWER Voting District
+04|013|232|DOUBLETREE|DOUBLETREE Voting District
+04|013|233|DOVE VALLEY|DOVE VALLEY Voting District
+04|013|234|DREAMY DRAW|DREAMY DRAW Voting District
+04|013|235|DREYFUS|DREYFUS Voting District
+04|013|236|DUNBAR|DUNBAR Voting District
+04|013|237|DUSTY TRAIL|DUSTY TRAIL Voting District
+04|013|238|DYSART|DYSART Voting District
+04|013|239b|CORTESSA|CORTESSA Voting District
+04|013|24|APACHE PARK|APACHE PARK Voting District
+04|013|240b|PARKRIDGE|PARKRIDGE Voting District
+04|013|241|ECHO|ECHO Voting District
+04|013|242|CARON|CARON Voting District
+04|013|243|EDGEMONT|EDGEMONT Voting District
+04|013|244|EDGEWATER|EDGEWATER Voting District
+04|013|245|EDISON|EDISON Voting District
+04|013|246|EL CAMINO|EL CAMINO Voting District
+04|013|247|EL CARO|EL CARO Voting District
+04|013|248|EL DOMINGO|EL DOMINGO Voting District
+04|013|249|EL DORADO|EL DORADO Voting District
+04|013|25|APPLEBY|APPLEBY Voting District
+04|013|250|EL MIRAGE|EL MIRAGE Voting District
+04|013|251b|CIELO GRANDE|CIELO GRANDE Voting District
+04|013|252|ELWOOD|ELWOOD Voting District
+04|013|253|EMERALD|EMERALD Voting District
+04|013|254|ENCANTO|ENCANTO Voting District
+04|013|255|ESCOBAR|ESCOBAR Voting District
+04|013|256|ESCONDIDO|ESCONDIDO Voting District
+04|013|257b|CROSSRIVER|CROSSRIVER Voting District
+04|013|258b|DAILEY|DAILEY Voting District
+04|013|259|EUGIE|EUGIE Voting District
+04|013|26|APRENDE|APRENDE Voting District
+04|013|260|EVANS|EVANS Voting District
+04|013|261|EXETER|EXETER Voting District
+04|013|262|FAIRMOUNT|FAIRMOUNT Voting District
+04|013|263b|ALVARADO|ALVARADO Voting District
+04|013|264|FENIMORE|FENIMORE Voting District
+04|013|265|FERN|FERN Voting District
+04|013|266|FIESTA|FIESTA Voting District
+04|013|267|FLEETWOOD|FLEETWOOD Voting District
+04|013|268|FLOWER|FLOWER Voting District
+04|013|269|FLYNN|FLYNN Voting District
+04|013|27|ARCADIA|ARCADIA Voting District
+04|013|270|FOREST HILLS|FOREST HILLS Voting District
+04|013|271|FORT MCDOWELL|FORT MCDOWELL Voting District
+04|013|272b|COMSTOCK|COMSTOCK Voting District
+04|013|273b|CROSSROADS PARK|CROSSROADS PARK Voting District
+04|013|274|FOXWOOD|FOXWOOD Voting District
+04|013|275b|DC RANCH|DC RANCH Voting District
+04|013|276|FTN HILLS 1|FTN HILLS 1 Voting District
+04|013|277|FTN HILLS 2|FTN HILLS 2 Voting District
+04|013|278|FTN HILLS 3|FTN HILLS 3 Voting District
+04|013|279|FTN HILLS 4|FTN HILLS 4 Voting District
+04|013|28|ARDMORE|ARDMORE Voting District
+04|013|280|FTN HILLS 5|FTN HILLS 5 Voting District
+04|013|281|FTN HILLS 6|FTN HILLS 6 Voting District
+04|013|282|FTN HILLS 7|FTN HILLS 7 Voting District
+04|013|283|GALVESTON|GALVESTON Voting District
+04|013|284|GARDEN GROVES|GARDEN GROVES Voting District
+04|013|285|GARDEN LAKES|GARDEN LAKES Voting District
+04|013|286|GARDENS|GARDENS Voting District
+04|013|287b|DESERT WILLOW|DESERT WILLOW Voting District
+04|013|288|GATEWAY|GATEWAY Voting District
+04|013|289|GEMINI|GEMINI Voting District
+04|013|29|ARIES|ARIES Voting District
+04|013|290|GERONIMO|GERONIMO Voting District
+04|013|291|GILA BEND|GILA BEND Voting District
+04|013|292|GILBERT 1|GILBERT 1 Voting District
+04|013|293|GILBERT 2|GILBERT 2 Voting District
+04|013|294|GILBERT 3|GILBERT 3 Voting District
+04|013|295|GILBERT 4|GILBERT 4 Voting District
+04|013|296|GILBERT 5|GILBERT 5 Voting District
+04|013|297|GILBERT 6|GILBERT 6 Voting District
+04|013|298|GILBERT 7|GILBERT 7 Voting District
+04|013|299|GILBERT 8|GILBERT 8 Voting District
+04|013|3|ACUNA|ACUNA Voting District
+04|013|30|ARLINGTON|ARLINGTON Voting District
+04|013|300|GILBERT 9|GILBERT 9 Voting District
+04|013|301|GILBERT 10|GILBERT 10 Voting District
+04|013|302|GILBERT 11|GILBERT 11 Voting District
+04|013|303|GILBERT 12|GILBERT 12 Voting District
+04|013|304|GILBERT 13|GILBERT 13 Voting District
+04|013|305|GILBERT 14|GILBERT 14 Voting District
+04|013|306|GILBERT 15|GILBERT 15 Voting District
+04|013|307|GILBERT 16|GILBERT 16 Voting District
+04|013|308|GLENDALE 1|GLENDALE 1 Voting District
+04|013|309|GLENDALE 2|GLENDALE 2 Voting District
+04|013|31|ARROWHEAD|ARROWHEAD Voting District
+04|013|310|GLENDALE 3|GLENDALE 3 Voting District
+04|013|311|GLENDALE 4|GLENDALE 4 Voting District
+04|013|312b|CRYSTAL GARDENS|CRYSTAL GARDENS Voting District
+04|013|313|GLENDALE 6|GLENDALE 6 Voting District
+04|013|314|GLENDALE 7|GLENDALE 7 Voting District
+04|013|315|GLENDALE 8|GLENDALE 8 Voting District
+04|013|316b|DESERT HIGHLANDS|DESERT HIGHLANDS Voting District
+04|013|317|GLENDALE 10|GLENDALE 10 Voting District
+04|013|318|GLENDALE 11|GLENDALE 11 Voting District
+04|013|319|GLENDALE 12|GLENDALE 12 Voting District
+04|013|32|ASTER|ASTER Voting District
+04|013|320|GLENDALE 14|GLENDALE 14 Voting District
+04|013|321|GLENDALE 15|GLENDALE 15 Voting District
+04|013|322|DESERT OASIS|DESERT OASIS Voting District
+04|013|323|GLENDALE 17|GLENDALE 17 Voting District
+04|013|324|GLENDALE 18|GLENDALE 18 Voting District
+04|013|325|GLENDALE 19|GLENDALE 19 Voting District
+04|013|326|GLENDALE 20|GLENDALE 20 Voting District
+04|013|327b|DOBBINS RANCH|DOBBINS RANCH Voting District
+04|013|328|GLENDALE 22|GLENDALE 22 Voting District
+04|013|329|GLENDALE 23|GLENDALE 23 Voting District
+04|013|33|ATHENS|ATHENS Voting District
+04|013|330b|DURANGO|DURANGO Voting District
+04|013|331|GLENDALE 25|GLENDALE 25 Voting District
+04|013|332|GLENDALE 26|GLENDALE 26 Voting District
+04|013|333|GLENDALE 27|GLENDALE 27 Voting District
+04|013|334|GLENDALE 28|GLENDALE 28 Voting District
+04|013|335|GLENDALE 29|GLENDALE 29 Voting District
+04|013|336|GLENDALE 30|GLENDALE 30 Voting District
+04|013|337|GLENDALE 31|GLENDALE 31 Voting District
+04|013|338|GLENDALE 32|GLENDALE 32 Voting District
+04|013|339b|COYOTE HILLS|COYOTE HILLS Voting District
+04|013|34|AUGUSTA|AUGUSTA Voting District
+04|013|340|GLENDALE 34|GLENDALE 34 Voting District
+04|013|341|GLENN|GLENN Voting District
+04|013|342|GLENROSA|GLENROSA Voting District
+04|013|343|GLENVIEW|GLENVIEW Voting District
+04|013|344|GOLD DUST|GOLD DUST Voting District
+04|013|345|GOLDEN|GOLDEN Voting District
+04|013|346|GOODYEAR|GOODYEAR Voting District
+04|013|347|GRACE|GRACE Voting District
+04|013|348|GRANADA|GRANADA Voting District
+04|013|349|GRAND|GRAND Voting District
+04|013|35|AVALON|AVALON Voting District
+04|013|350|GRANITE MOUNTAIN|GRANITE MOUNTAIN Voting District
+04|013|351|GREENBRIAR|GREENBRIAR Voting District
+04|013|352|GREENFIELD|GREENFIELD Voting District
+04|013|353|GREENFIELD PARK|GREENFIELD PARK Voting District
+04|013|354|GREENTREE|GREENTREE Voting District
+04|013|355|GREENWAY|GREENWAY Voting District
+04|013|356|GREYSTONE|GREYSTONE Voting District
+04|013|357|GRISWOLD|GRISWOLD Voting District
+04|013|358|GROVERS|GROVERS Voting District
+04|013|359|GUADALUPE 1|GUADALUPE 1 Voting District
+04|013|36|AVONDALE 1|AVONDALE 1 Voting District
+04|013|360|GUADALUPE 2|GUADALUPE 2 Voting District
+04|013|361|HALL|HALL Voting District
+04|013|362|HAPPY TRAILS|HAPPY TRAILS Voting District
+04|013|363|HAPPY VALLEY|HAPPY VALLEY Voting District
+04|013|364|HARMONT|HARMONT Voting District
+04|013|365|HARQUAHALA|HARQUAHALA Voting District
+04|013|366|HARRISON|HARRISON Voting District
+04|013|367|HARTFORD|HARTFORD Voting District
+04|013|368|HASSAYAMPA|HASSAYAMPA Voting District
+04|013|369|HATCHER|HATCHER Voting District
+04|013|37|AVONDALE 2|AVONDALE 2 Voting District
+04|013|370|HAYDEN HIGH|HAYDEN HIGH Voting District
+04|013|371|HAZELWOOD|HAZELWOOD Voting District
+04|013|372|HEATHER|HEATHER Voting District
+04|013|373|HEATHERBRAE|HEATHERBRAE Voting District
+04|013|374|HELENA|HELENA Voting District
+04|013|375|HERMOSA|HERMOSA Voting District
+04|013|376|HICKIWAN|HICKIWAN Voting District
+04|013|377|HIGHLAND|HIGHLAND Voting District
+04|013|378|HIGLEY|HIGLEY Voting District
+04|013|379|HILLCREST|HILLCREST Voting District
+04|013|38|BALSZ|BALSZ Voting District
+04|013|380|HILLERY|HILLERY Voting District
+04|013|381|HILLVIEW|HILLVIEW Voting District
+04|013|382|HILTON|HILTON Voting District
+04|013|383|HOHOKAM|HOHOKAM Voting District
+04|013|384|HOLIDAY GARDENS|HOLIDAY GARDENS Voting District
+04|013|385|HOLIDAY PARK|HOLIDAY PARK Voting District
+04|013|386|HOLLY|HOLLY Voting District
+04|013|387|HOLLYHOCK|HOLLYHOCK Voting District
+04|013|388b|SARIVAL|SARIVAL Voting District
+04|013|389|HONDA|HONDA Voting District
+04|013|39|BANFF|BANFF Voting District
+04|013|390|HOPE|HOPE Voting District
+04|013|391|HOPI|HOPI Voting District
+04|013|392|HORIZON|HORIZON Voting District
+04|013|393|HORSESHOE|HORSESHOE Voting District
+04|013|394|HUBBELL|HUBBELL Voting District
+04|013|395|INDEPENDENCE|INDEPENDENCE Voting District
+04|013|396|INDIAN BEND|INDIAN BEND Voting District
+04|013|397|INDIAN WELLS|INDIAN WELLS Voting District
+04|013|398|INDIGO|INDIGO Voting District
+04|013|399|INGLESIDE|INGLESIDE Voting District
+04|013|4|ADOBE|ADOBE Voting District
+04|013|40|BARCELONA|BARCELONA Voting District
+04|013|400|IRONWOOD|IRONWOOD Voting District
+04|013|401|ISAAC|ISAAC Voting District
+04|013|402|JACKRABBIT|JACKRABBIT Voting District
+04|013|403|JACKSON|JACKSON Voting District
+04|013|404|JADE|JADE Voting District
+04|013|405|JANICE|JANICE Voting District
+04|013|406|JASMINE|JASMINE Voting District
+04|013|407|JAVELINA|JAVELINA Voting District
+04|013|408|JOHN CABOT|JOHN CABOT Voting District
+04|013|409|JOSHUA|JOSHUA Voting District
+04|013|41|BARNES|BARNES Voting District
+04|013|410|JULIAN|JULIAN Voting District
+04|013|411|JULIE|JULIE Voting District
+04|013|412|JUNIPER|JUNIPER Voting District
+04|013|413|JUPITER|JUPITER Voting District
+04|013|414|JUSTINE|JUSTINE Voting District
+04|013|415|KACHINA|KACHINA Voting District
+04|013|416|KAIBAB|KAIBAB Voting District
+04|013|417|KALIL|KALIL Voting District
+04|013|418|KEIM|KEIM Voting District
+04|013|419b|EASTRIDGE|EASTRIDGE Voting District
+04|013|42|BAYSHORE|BAYSHORE Voting District
+04|013|420b|PALMBROOK|PALMBROOK Voting District
+04|013|421|KERRY|KERRY Voting District
+04|013|422|KIMBERLY|KIMBERLY Voting District
+04|013|423|KINGS|KINGS Voting District
+04|013|424|KIVA|KIVA Voting District
+04|013|425|KODIAK|KODIAK Voting District
+04|013|426|KOKOPELLI|KOKOPELLI Voting District
+04|013|427|KOMATKE|KOMATKE Voting District
+04|013|428|KRISTAL|KRISTAL Voting District
+04|013|429b|FALCON|FALCON Voting District
+04|013|43|BEARDSLEY|BEARDSLEY Voting District
+04|013|430|LAKESIDE|LAKESIDE Voting District
+04|013|431|LAKEVIEW|LAKEVIEW Voting District
+04|013|432|LAKEWOOD|LAKEWOOD Voting District
+04|013|433|LAMAR|LAMAR Voting District
+04|013|434|LARKSPUR|LARKSPUR Voting District
+04|013|435|LAS BRISAS|LAS BRISAS Voting District
+04|013|436|LASSEN|LASSEN Voting District
+04|013|437|LATHAM|LATHAM Voting District
+04|013|438|LAUREL|LAUREL Voting District
+04|013|439|LAVEEN|LAVEEN Voting District
+04|013|44|BELMONT|BELMONT Voting District
+04|013|440|LAWRENCE|LAWRENCE Voting District
+04|013|441|LEWIS|LEWIS Voting District
+04|013|442|LEXINGTON|LEXINGTON Voting District
+04|013|443|LIBBY|LIBBY Voting District
+04|013|444|LIBERTY|LIBERTY Voting District
+04|013|445|LINDNER|LINDNER Voting District
+04|013|446|LISBON|LISBON Voting District
+04|013|447|LITCHFIELD 1|LITCHFIELD 1 Voting District
+04|013|448|LITCHFIELD 2|LITCHFIELD 2 Voting District
+04|013|449|LOLA|LOLA Voting District
+04|013|45|BERKELEY|BERKELEY Voting District
+04|013|450|LOMA VISTA|LOMA VISTA Voting District
+04|013|451|LONE BUTTE|LONE BUTTE Voting District
+04|013|452|LONE CACTUS|LONE CACTUS Voting District
+04|013|453|LONE MOUNTAIN|LONE MOUNTAIN Voting District
+04|013|454|LONESOME|LONESOME Voting District
+04|013|455|LONGHORN|LONGHORN Voting District
+04|013|456|LOOKOUT RIDGE|LOOKOUT RIDGE Voting District
+04|013|457|LOS GATOS|LOS GATOS Voting District
+04|013|458|LOWELL|LOWELL Voting District
+04|013|459|LUCAS|LUCAS Voting District
+04|013|46|BERRIDGE|BERRIDGE Voting District
+04|013|460|LUDLOW|LUDLOW Voting District
+04|013|461|LUKE|LUKE Voting District
+04|013|462|LUPINE|LUPINE Voting District
+04|013|463|LYNWOOD|LYNWOOD Voting District
+04|013|464|MADISON HEIGHTS|MADISON HEIGHTS Voting District
+04|013|465|MADISON PARK|MADISON PARK Voting District
+04|013|466|MADRID|MADRID Voting District
+04|013|467|MAGIC STONE|MAGIC STONE Voting District
+04|013|468|MAJORCA|MAJORCA Voting District
+04|013|469|MALAPAI|MALAPAI Voting District
+04|013|47|BERYL|BERYL Voting District
+04|013|470|MANDALAY|MANDALAY Voting District
+04|013|471|MANZANITA|MANZANITA Voting District
+04|013|472|MAPLEWOOD|MAPLEWOOD Voting District
+04|013|473|MARCONI|MARCONI Voting District
+04|013|474|MARICOPA|MARICOPA Voting District
+04|013|475|MARIGOLD|MARIGOLD Voting District
+04|013|476|MARLETTE|MARLETTE Voting District
+04|013|477|MARSHALL|MARSHALL Voting District
+04|013|478|MARYLAND|MARYLAND Voting District
+04|013|479|MARYVALE|MARYVALE Voting District
+04|013|48|BETHANY|BETHANY Voting District
+04|013|480|MAUNA LOA|MAUNA LOA Voting District
+04|013|481|MCCORMICK EAST|MCCORMICK EAST Voting District
+04|013|482|MCCORMICK WEST|MCCORMICK WEST Voting District
+04|013|483|MCDONALD|MCDONALD Voting District
+04|013|484|MCKELLIPS PARK|MCKELLIPS PARK Voting District
+04|013|485|MCKINLEY|MCKINLEY Voting District
+04|013|486|FESTIVAL|FESTIVAL Voting District
+04|013|487|MCQUEEN|MCQUEEN Voting District
+04|013|488|MEADOW HILLS|MEADOW HILLS Voting District
+04|013|489b|FIESTA RANCH|FIESTA RANCH Voting District
+04|013|49|BETHUNE|BETHUNE Voting District
+04|013|490|MEDLOCK|MEDLOCK Voting District
+04|013|491|MERCER|MERCER Voting District
+04|013|492|MESA 1|MESA 1 Voting District
+04|013|493|MESA 2|MESA 2 Voting District
+04|013|494|MESA 3|MESA 3 Voting District
+04|013|495|MESA 4|MESA 4 Voting District
+04|013|496|MESA 5|MESA 5 Voting District
+04|013|497|MESA 6|MESA 6 Voting District
+04|013|498|MESA 7|MESA 7 Voting District
+04|013|499|MESA 8|MESA 8 Voting District
+04|013|5|AGUA FRIA|AGUA FRIA Voting District
+04|013|50|BILTMORE|BILTMORE Voting District
+04|013|500|MESA 9|MESA 9 Voting District
+04|013|501|MESA 10|MESA 10 Voting District
+04|013|502|MESA 11|MESA 11 Voting District
+04|013|503|MESA 12|MESA 12 Voting District
+04|013|504|MESA 13|MESA 13 Voting District
+04|013|505|MESA 14|MESA 14 Voting District
+04|013|506|MESA 15|MESA 15 Voting District
+04|013|507|MESA 16|MESA 16 Voting District
+04|013|508|MESA 17|MESA 17 Voting District
+04|013|509|MESA 18|MESA 18 Voting District
+04|013|51|BISCUIT FLAT|BISCUIT FLAT Voting District
+04|013|510|MESA 19|MESA 19 Voting District
+04|013|511b|FOOTHILLS|FOOTHILLS Voting District
+04|013|512|MESA 21|MESA 21 Voting District
+04|013|513|MESA 22|MESA 22 Voting District
+04|013|514|MESA 23|MESA 23 Voting District
+04|013|515|MESA 24|MESA 24 Voting District
+04|013|516|MESA 25|MESA 25 Voting District
+04|013|517|MESA 26|MESA 26 Voting District
+04|013|518|MESA 27|MESA 27 Voting District
+04|013|519b|FOX HILL|FOX HILL Voting District
+04|013|52|BLACK CANYON|BLACK CANYON Voting District
+04|013|520b|FTN HILLS 9|FTN HILLS 9 Voting District
+04|013|521|MESA 30|MESA 30 Voting District
+04|013|522|MESA 31|MESA 31 Voting District
+04|013|523|MESA 32|MESA 32 Voting District
+04|013|524|MESA 33|MESA 33 Voting District
+04|013|525|MESA 34|MESA 34 Voting District
+04|013|526|MESA 35|MESA 35 Voting District
+04|013|527|MESA 36|MESA 36 Voting District
+04|013|528|MESA 37|MESA 37 Voting District
+04|013|529|MESA 38|MESA 38 Voting District
+04|013|53|BLACK GOLD|BLACK GOLD Voting District
+04|013|530|MESA 39|MESA 39 Voting District
+04|013|531|MESA 40|MESA 40 Voting District
+04|013|532|MESA 41|MESA 41 Voting District
+04|013|533|MESA 42|MESA 42 Voting District
+04|013|534|MESA 43|MESA 43 Voting District
+04|013|535|MESA 44|MESA 44 Voting District
+04|013|536|MESA 45|MESA 45 Voting District
+04|013|537|MESA 46|MESA 46 Voting District
+04|013|538|MESA 47|MESA 47 Voting District
+04|013|539|MESA 48|MESA 48 Voting District
+04|013|54|BLACKHAWK|BLACKHAWK Voting District
+04|013|540|MESA 49|MESA 49 Voting District
+04|013|541|MESA 50|MESA 50 Voting District
+04|013|542|MESA 51|MESA 51 Voting District
+04|013|543|MESA 52|MESA 52 Voting District
+04|013|544|MESA 53|MESA 53 Voting District
+04|013|545|MESA 54|MESA 54 Voting District
+04|013|546|MESA 55|MESA 55 Voting District
+04|013|547|MESA 56|MESA 56 Voting District
+04|013|548|MESA 57|MESA 57 Voting District
+04|013|549|MESA 58|MESA 58 Voting District
+04|013|55|BLANCHE|BLANCHE Voting District
+04|013|550|MESA 59|MESA 59 Voting District
+04|013|551|MESA 60|MESA 60 Voting District
+04|013|552|MESA 61|MESA 61 Voting District
+04|013|553|MESA 62|MESA 62 Voting District
+04|013|554|MESA 63|MESA 63 Voting District
+04|013|555|MESA 64|MESA 64 Voting District
+04|013|556|MESA 65|MESA 65 Voting District
+04|013|557|MESA 66|MESA 66 Voting District
+04|013|558|MESA 67|MESA 67 Voting District
+04|013|559|MESA 68|MESA 68 Voting District
+04|013|56|BLUE SKY|BLUE SKY Voting District
+04|013|560|MESA 69|MESA 69 Voting District
+04|013|561|MESA 70|MESA 70 Voting District
+04|013|562|MESA 71|MESA 71 Voting District
+04|013|563|MESA 72|MESA 72 Voting District
+04|013|564|MESA 73|MESA 73 Voting District
+04|013|565|MESA 74|MESA 74 Voting District
+04|013|566|MESA 75|MESA 75 Voting District
+04|013|567|MESA 76|MESA 76 Voting District
+04|013|568|MESA 77|MESA 77 Voting District
+04|013|569|MESA 78|MESA 78 Voting District
+04|013|57|BLUEBIRD|BLUEBIRD Voting District
+04|013|570|MESA 79|MESA 79 Voting District
+04|013|571|MESA 80|MESA 80 Voting District
+04|013|572|MESA 81|MESA 81 Voting District
+04|013|573b|FULTON RANCH|FULTON RANCH Voting District
+04|013|574|MESA 83|MESA 83 Voting District
+04|013|575|MESA 84|MESA 84 Voting District
+04|013|576|MESA 85|MESA 85 Voting District
+04|013|577|MESA 86|MESA 86 Voting District
+04|013|578|MESA 87|MESA 87 Voting District
+04|013|579|MESA 88|MESA 88 Voting District
+04|013|58|BLUEFIELD|BLUEFIELD Voting District
+04|013|580|MESA 89|MESA 89 Voting District
+04|013|581|MESA 90|MESA 90 Voting District
+04|013|582|MESA 91|MESA 91 Voting District
+04|013|583|MESA 92|MESA 92 Voting District
+04|013|584|MESA 93|MESA 93 Voting District
+04|013|585|MESA 94|MESA 94 Voting District
+04|013|586|MESA 95|MESA 95 Voting District
+04|013|587|MESA 96|MESA 96 Voting District
+04|013|588|MESA 97|MESA 97 Voting District
+04|013|589|MESA 98|MESA 98 Voting District
+04|013|59|BOLO|BOLO Voting District
+04|013|590|MESA 99|MESA 99 Voting District
+04|013|591|MESA 100|MESA 100 Voting District
+04|013|592|MESA 101|MESA 101 Voting District
+04|013|593|MESA 102|MESA 102 Voting District
+04|013|594|MESA 103|MESA 103 Voting District
+04|013|595|MESA 104|MESA 104 Voting District
+04|013|596|MESA 105|MESA 105 Voting District
+04|013|597|MESA 106|MESA 106 Voting District
+04|013|598|MESA 107|MESA 107 Voting District
+04|013|599|MESA 108|MESA 108 Voting District
+04|013|6|AGUILA|AGUILA Voting District
+04|013|60|BONANZA|BONANZA Voting District
+04|013|600|MESA 109|MESA 109 Voting District
+04|013|601|MESA 110|MESA 110 Voting District
+04|013|602b|HAPPY|HAPPY Voting District
+04|013|603|MESA 112|MESA 112 Voting District
+04|013|604b|HIDALGO|HIDALGO Voting District
+04|013|605|MESA 114|MESA 114 Voting District
+04|013|606|MESA 115|MESA 115 Voting District
+04|013|607|MESA 116|MESA 116 Voting District
+04|013|608|MESCAL|MESCAL Voting District
+04|013|609|MESQUITE|MESQUITE Voting District
+04|013|61|BREWER|BREWER Voting District
+04|013|610|METRO|METRO Voting District
+04|013|611|MICHELLE|MICHELLE Voting District
+04|013|612|MICHIGAN|MICHIGAN Voting District
+04|013|613|MIMOSA|MIMOSA Voting District
+04|013|614|MINNEZONA|MINNEZONA Voting District
+04|013|615b|IVANHOE|IVANHOE Voting District
+04|013|616|MOBILE|MOBILE Voting District
+04|013|617|MODOC|MODOC Voting District
+04|013|618|MOHAVE|MOHAVE Voting District
+04|013|619|MOHAWK|MOHAWK Voting District
+04|013|62|BRIARWOOD|BRIARWOOD Voting District
+04|013|620|ESTRELLA MNT|ESTRELLA MNT Voting District
+04|013|621|MONROE|MONROE Voting District
+04|013|622|MONTE CRISTO|MONTE CRISTO Voting District
+04|013|623|MONTE VISTA|MONTE VISTA Voting District
+04|013|624b|FLETCHER HEIGHTS|FLETCHER HEIGHTS Voting District
+04|013|625b|LAS SENDAS MTN|LAS SENDAS MTN Voting District
+04|013|626|MONTEROSA|MONTEROSA Voting District
+04|013|627|MONTOYA|MONTOYA Voting District
+04|013|628|MOON MOUNTAIN|MOON MOUNTAIN Voting District
+04|013|629|MOON VALLEY|MOON VALLEY Voting District
+04|013|63|BRILL|BRILL Voting District
+04|013|630|MOONSET|MOONSET Voting District
+04|013|631|MORRISTOWN|MORRISTOWN Voting District
+04|013|632|MORROW|MORROW Voting District
+04|013|633|MORTEN|MORTEN Voting District
+04|013|634|MOUNTAIN PARK|MOUNTAIN PARK Voting District
+04|013|635|MOUNTAIN SKY|MOUNTAIN SKY Voting District
+04|013|636|MOUNTAIN VISTA|MOUNTAIN VISTA Voting District
+04|013|637|MOUNTAINSIDE|MOUNTAINSIDE Voting District
+04|013|638|MULBERRY|MULBERRY Voting District
+04|013|639|MUMMY MOUNTAIN|MUMMY MOUNTAIN Voting District
+04|013|64|BRITTON|BRITTON Voting District
+04|013|640b|FOX CROSSING|FOX CROSSING Voting District
+04|013|641|MUSTANG|MUSTANG Voting District
+04|013|642|MYRTLE|MYRTLE Voting District
+04|013|643|NAVAJO|NAVAJO Voting District
+04|013|644|NEW RIVER|NEW RIVER Voting District
+04|013|645|NICOLET|NICOLET Voting District
+04|013|646|NIGHTINGALE|NIGHTINGALE Voting District
+04|013|647|NILE|NILE Voting District
+04|013|648|NISBET|NISBET Voting District
+04|013|649|NORTH HIGH|NORTH HIGH Voting District
+04|013|65|BROADWAY|BROADWAY Voting District
+04|013|650|NORTHVIEW|NORTHVIEW Voting District
+04|013|651|NORTON|NORTON Voting District
+04|013|652|OAKHURST|OAKHURST Voting District
+04|013|653|OAKMONT|OAKMONT Voting District
+04|013|654|OAKTREE|OAKTREE Voting District
+04|013|655|OAKWOOD|OAKWOOD Voting District
+04|013|656|OASIS|OASIS Voting District
+04|013|657|OCOTILLO|OCOTILLO Voting District
+04|013|658|OHIGGINS|OHIGGINS Voting District
+04|013|659|OLIVE|OLIVE Voting District
+04|013|66|BRONCO|BRONCO Voting District
+04|013|660|OLNEY|OLNEY Voting District
+04|013|661|ONEIDA|ONEIDA Voting District
+04|013|662|ONYX|ONYX Voting District
+04|013|663|ORAIBI|ORAIBI Voting District
+04|013|664|ORANGE|ORANGE Voting District
+04|013|665|ORANGE TREE|ORANGE TREE Voting District
+04|013|666|ORANGEWOOD|ORANGEWOOD Voting District
+04|013|667|ORCHID|ORCHID Voting District
+04|013|668|OREGON|OREGON Voting District
+04|013|669|ORME|ORME Voting District
+04|013|67|BROOK HOLLOW|BROOK HOLLOW Voting District
+04|013|670|PAINTED ROCK|PAINTED ROCK Voting District
+04|013|671|PAIUTE|PAIUTE Voting District
+04|013|672|LUKE FIELD|LUKE FIELD Voting District
+04|013|673|PALM VALLEY|PALM VALLEY Voting District
+04|013|674|PALMAIRE|PALMAIRE Voting District
+04|013|675|PALMCROFT|PALMCROFT Voting District
+04|013|676|PALMDALE|PALMDALE Voting District
+04|013|677|PALO CRISTI|PALO CRISTI Voting District
+04|013|678|PALO VERDE|PALO VERDE Voting District
+04|013|679|PALOMINO|PALOMINO Voting District
+04|013|68|BROOKWOOD|BROOKWOOD Voting District
+04|013|680|PAPAGO PARK|PAPAGO PARK Voting District
+04|013|681|PARADA|PARADA Voting District
+04|013|682b|LYNX|LYNX Voting District
+04|013|683|PARADISE PARK|PARADISE PARK Voting District
+04|013|684|PARAISO|PARAISO Voting District
+04|013|685|PARK CENTRAL|PARK CENTRAL Voting District
+04|013|686|PARK MEADOWS|PARK MEADOWS Voting District
+04|013|687|PARKVIEW|PARKVIEW Voting District
+04|013|688|PASADENA|PASADENA Voting District
+04|013|689|PATRICIA ANN|PATRICIA ANN Voting District
+04|013|69|BUCKEYE 1|BUCKEYE 1 Voting District
+04|013|690|PEAK VIEW|PEAK VIEW Voting District
+04|013|691|PEBBLE CREEK|PEBBLE CREEK Voting District
+04|013|692|PECAN RIDGE|PECAN RIDGE Voting District
+04|013|693|PECOS|PECOS Voting District
+04|013|694|PEE-POSH|PEE-POSH Voting District
+04|013|695|PEGASUS|PEGASUS Voting District
+04|013|696b|GRANITE FALLS|GRANITE FALLS Voting District
+04|013|697|PEORIA 1|PEORIA 1 Voting District
+04|013|698|PEORIA 2|PEORIA 2 Voting District
+04|013|699|PEORIA 3|PEORIA 3 Voting District
+04|013|7|AHWATUKEE|AHWATUKEE Voting District
+04|013|70|BUCKEYE 2|BUCKEYE 2 Voting District
+04|013|700|PEORIA 4|PEORIA 4 Voting District
+04|013|701b|MARBELLA|MARBELLA Voting District
+04|013|702|PEORIA 6|PEORIA 6 Voting District
+04|013|703|PEORIA 7|PEORIA 7 Voting District
+04|013|704|PEORIA 8|PEORIA 8 Voting District
+04|013|705|PEORIA 9|PEORIA 9 Voting District
+04|013|706|PEPPERTREE|PEPPERTREE Voting District
+04|013|707|PERRY PARK|PERRY PARK Voting District
+04|013|708|PERRYVILLE|PERRYVILLE Voting District
+04|013|709|PERSHING|PERSHING Voting District
+04|013|710|PHELPS|PHELPS Voting District
+04|013|711|PICADILLY|PICADILLY Voting District
+04|013|712|PIERCE|PIERCE Voting District
+04|013|713|PIERSON|PIERSON Voting District
+04|013|714|PIMA|PIMA Voting District
+04|013|715|PINE SPRINGS|PINE SPRINGS Voting District
+04|013|716|PINE VALLEY|PINE VALLEY Voting District
+04|013|717|PINNACLE PEAK|PINNACLE PEAK Voting District
+04|013|718|PINNACLE SOUTH|PINNACLE SOUTH Voting District
+04|013|719|PINNACLE WEST|PINNACLE WEST Voting District
+04|013|71b|CAMELOT|CAMELOT Voting District
+04|013|72|BUFFALO RIDGE|BUFFALO RIDGE Voting District
+04|013|720|PINTO|PINTO Voting District
+04|013|721|PINTO WEST|PINTO WEST Voting District
+04|013|722|PIONEER|PIONEER Voting District
+04|013|723|POINSETTIA|POINSETTIA Voting District
+04|013|724b|PACIFIC MANOR|PACIFIC MANOR Voting District
+04|013|725|PONDEROSA|PONDEROSA Voting District
+04|013|726|PORT ROYALE|PORT ROYALE Voting District
+04|013|727|PORTLAND|PORTLAND Voting District
+04|013|728b|MARLEY PARK|MARLEY PARK Voting District
+04|013|729|PRESIDIO|PRESIDIO Voting District
+04|013|73|BURGESS|BURGESS Voting District
+04|013|730|PRINCETON|PRINCETON Voting District
+04|013|731|PUEBLO|PUEBLO Voting District
+04|013|732|QUAIL HILL|QUAIL HILL Voting District
+04|013|733|QUAIL RUN|QUAIL RUN Voting District
+04|013|734|QUEEN CREEK|QUEEN CREEK Voting District
+04|013|735|RAINBOW VALLEY|RAINBOW VALLEY Voting District
+04|013|736|RAINTREE|RAINTREE Voting District
+04|013|737|RANCHO|RANCHO Voting District
+04|013|738|RED MOUNTAIN|RED MOUNTAIN Voting District
+04|013|739|REDWING|REDWING Voting District
+04|013|74|CACTUS|CACTUS Voting District
+04|013|740|RHODES|RHODES Voting District
+04|013|741|RICHLAND|RICHLAND Voting District
+04|013|742|RIMROCK|RIMROCK Voting District
+04|013|743|RIO MONTANA|RIO MONTANA Voting District
+04|013|744|RIO VERDE|RIO VERDE Voting District
+04|013|745|RIO VISTA|RIO VISTA Voting District
+04|013|746b|HERMOSA VISTA|HERMOSA VISTA Voting District
+04|013|747|RIVERSIDE|RIVERSIDE Voting District
+04|013|748|RIVIERA|RIVIERA Voting District
+04|013|749|ROADRUNNER|ROADRUNNER Voting District
+04|013|75|CACTUS GLEN|CACTUS GLEN Voting District
+04|013|750|ROANOKE|ROANOKE Voting District
+04|013|751|ROCKLEDGE|ROCKLEDGE Voting District
+04|013|752|ROCKRIDGE|ROCKRIDGE Voting District
+04|013|753|ROCKWOOD|ROCKWOOD Voting District
+04|013|754|ROESER|ROESER Voting District
+04|013|755|ROMA|ROMA Voting District
+04|013|756|ROSE|ROSE Voting District
+04|013|757|ROSE GARDEN|ROSE GARDEN Voting District
+04|013|758|ROSEWOOD|ROSEWOOD Voting District
+04|013|759b|FREESTONE|FREESTONE Voting District
+04|013|76|CALAVAR|CALAVAR Voting District
+04|013|760|ROVEY|ROVEY Voting District
+04|013|761|ROYAL OAK|ROYAL OAK Voting District
+04|013|762|ROYAL PALM|ROYAL PALM Voting District
+04|013|763|RUBY|RUBY Voting District
+04|013|764b|MEGAN|MEGAN Voting District
+04|013|765|SADDLE RIDGE|SADDLE RIDGE Voting District
+04|013|766|SAHUARO|SAHUARO Voting District
+04|013|767|SALT RIVER|SALT RIVER Voting District
+04|013|768|SAN JUAN|SAN JUAN Voting District
+04|013|769|SAN LUCY|SAN LUCY Voting District
+04|013|77|CALAVEROS|CALAVEROS Voting District
+04|013|770|SAN SIMON|SAN SIMON Voting District
+04|013|771|SAN VICTOR|SAN VICTOR Voting District
+04|013|772|SANDIA|SANDIA Voting District
+04|013|773|SANDPIPER|SANDPIPER Voting District
+04|013|774b|MORRISON RANCH|MORRISON RANCH Voting District
+04|013|775|SANDY SHORES|SANDY SHORES Voting District
+04|013|776b|MOUNTAIN VIEW|MOUNTAIN VIEW Voting District
+04|013|777|SANTA MARIA|SANTA MARIA Voting District
+04|013|778|SANTAN|SANTAN Voting District
+04|013|779|SANTO|SANTO Voting District
+04|013|78|BULLARD|BULLARD Voting District
+04|013|780|SARATOGA|SARATOGA Voting District
+04|013|781|SCOTTSDALE|SCOTTSDALE Voting District
+04|013|782|SELLS|SELLS Voting District
+04|013|783|SENTINEL|SENTINEL Voting District
+04|013|784|SENTRY|SENTRY Voting District
+04|013|785|SEVILLA|SEVILLA Voting District
+04|013|786|SHADOW HILLS|SHADOW HILLS Voting District
+04|013|787|SHADOW RIDGE|SHADOW RIDGE Voting District
+04|013|788|SHADOW ROCK|SHADOW ROCK Voting District
+04|013|789|SHADY GLEN|SHADY GLEN Voting District
+04|013|79|CALYPSO|CALYPSO Voting District
+04|013|790|SHASTA|SHASTA Voting District
+04|013|791|SHAW BUTTE|SHAW BUTTE Voting District
+04|013|792b|OAKWOOD 2|OAKWOOD 2 Voting District
+04|013|793|SHEA|SHEA Voting District
+04|013|794|SHEENA|SHEENA Voting District
+04|013|795|SHERIDAN|SHERIDAN Voting District
+04|013|796|SIERRA|SIERRA Voting District
+04|013|797|SIERRA VISTA|SIERRA VISTA Voting District
+04|013|798|SIESTA|SIESTA Voting District
+04|013|799|SIGNAL BUTTE|SIGNAL BUTTE Voting District
+04|013|8|AIRE LIBRE|AIRE LIBRE Voting District
+04|013|80|CAMBRIDGE|CAMBRIDGE Voting District
+04|013|800|SILVER CREEK|SILVER CREEK Voting District
+04|013|801|SILVER SPUR|SILVER SPUR Voting District
+04|013|802|SILVERADO|SILVERADO Voting District
+04|013|803|SILVERTREE|SILVERTREE Voting District
+04|013|804|SIMIS|SIMIS Voting District
+04|013|805b|LOBO|LOBO Voting District
+04|013|806|SKY HARBOR|SKY HARBOR Voting District
+04|013|807|SKY HAWK|SKY HAWK Voting District
+04|013|808b|NORTERRA|NORTERRA Voting District
+04|013|809|SOLANO|SOLANO Voting District
+04|013|81|CAMDEN|CAMDEN Voting District
+04|013|810|SOLCITO|SOLCITO Voting District
+04|013|811|SOUTH BANK|SOUTH BANK Voting District
+04|013|812|SOUTH FORK|SOUTH FORK Voting District
+04|013|813|SOUTH MTN HIGH|SOUTH MTN HIGH Voting District
+04|013|814|SOUTHERN|SOUTHERN Voting District
+04|013|815|SPANISH GARDEN|SPANISH GARDEN Voting District
+04|013|816|SPRINGS|SPRINGS Voting District
+04|013|817|SPRUCE|SPRUCE Voting District
+04|013|818|SPUR|SPUR Voting District
+04|013|819|ST CHRISTOPHER|ST CHRISTOPHER Voting District
+04|013|82|CAMELBACK HIGH|CAMELBACK HIGH Voting District
+04|013|820|ST FRANCIS|ST FRANCIS Voting District
+04|013|821|ST JOHN|ST JOHN Voting District
+04|013|822|ST MORITZ|ST MORITZ Voting District
+04|013|823|ST VINCENT|ST VINCENT Voting District
+04|013|824|STAGECOACH|STAGECOACH Voting District
+04|013|825|STARDUST|STARDUST Voting District
+04|013|826|STARLIGHT|STARLIGHT Voting District
+04|013|827|STELLA|STELLA Voting District
+04|013|828|STONEGATE|STONEGATE Voting District
+04|013|829|SULLIVAN|SULLIVAN Voting District
+04|013|83|CAMELHEAD|CAMELHEAD Voting District
+04|013|830|SUMMERHAVEN|SUMMERHAVEN Voting District
+04|013|831|SUMMERSTAR|SUMMERSTAR Voting District
+04|013|832|SUN CITY|SUN CITY Voting District
+04|013|833|OAKWOOD 1|OAKWOOD 1 Voting District
+04|013|834|SUN LAKES 2|SUN LAKES 2 Voting District
+04|013|835|SUN LAKES 3|SUN LAKES 3 Voting District
+04|013|836|SUN LAKES 4|SUN LAKES 4 Voting District
+04|013|837|SUN LAKES 5|SUN LAKES 5 Voting District
+04|013|838|SUN LAKES 6|SUN LAKES 6 Voting District
+04|013|839|SUN LAKES 7|SUN LAKES 7 Voting District
+04|013|84|CAMELVIEW|CAMELVIEW Voting District
+04|013|840|SUNBURST|SUNBURST Voting District
+04|013|841b|MARIPOSA|MARIPOSA Voting District
+04|013|842|SUNDOWN|SUNDOWN Voting District
+04|013|843|SUNFLOWER|SUNFLOWER Voting District
+04|013|844|SUNLAND|SUNLAND Voting District
+04|013|845|SUNNY HIGH|SUNNY HIGH Voting District
+04|013|846|SUNNYSIDE|SUNNYSIDE Voting District
+04|013|847|SUNNYSLOPE|SUNNYSLOPE Voting District
+04|013|848|SUNRAY PARK|SUNRAY PARK Voting District
+04|013|849|SUNRIDGE|SUNRIDGE Voting District
+04|013|85|CAMEO|CAMEO Voting District
+04|013|850|SUNRISE|SUNRISE Voting District
+04|013|851|SUNSET|SUNSET Voting District
+04|013|852|SUNSET PALMS|SUNSET PALMS Voting District
+04|013|853b|PARADISE|PARADISE Voting District
+04|013|854b|PUEBLO BONITO|PUEBLO BONITO Voting District
+04|013|855|SUNUP|SUNUP Voting District
+04|013|856|SUPAI|SUPAI Voting District
+04|013|857|SUPERSTITION|SUPERSTITION Voting District
+04|013|858|SURPRISE|SURPRISE Voting District
+04|013|859|SUTTON|SUTTON Voting District
+04|013|86|CAMERON|CAMERON Voting District
+04|013|860|SWEETWATER|SWEETWATER Voting District
+04|013|861b|RIO PASO|RIO PASO Voting District
+04|013|862|TANGLEWOOD|TANGLEWOOD Voting District
+04|013|863|TARO|TARO Voting District
+04|013|864|TATUM|TATUM Voting District
+04|013|865|TEMPE 1|TEMPE 1 Voting District
+04|013|866|TEMPE 2|TEMPE 2 Voting District
+04|013|867|TEMPE 3|TEMPE 3 Voting District
+04|013|868|TEMPE 4|TEMPE 4 Voting District
+04|013|869|TEMPE 5|TEMPE 5 Voting District
+04|013|87|CAMPBELL|CAMPBELL Voting District
+04|013|870|TEMPE 6|TEMPE 6 Voting District
+04|013|871|TEMPE 7|TEMPE 7 Voting District
+04|013|872|TEMPE 8|TEMPE 8 Voting District
+04|013|873|TEMPE 9|TEMPE 9 Voting District
+04|013|874|TEMPE 10|TEMPE 10 Voting District
+04|013|875|TEMPE 11|TEMPE 11 Voting District
+04|013|876|TEMPE 12|TEMPE 12 Voting District
+04|013|877|TEMPE 13|TEMPE 13 Voting District
+04|013|878|TEMPE 14|TEMPE 14 Voting District
+04|013|879|TEMPE 15|TEMPE 15 Voting District
+04|013|88|CAMPBELL PARK|CAMPBELL PARK Voting District
+04|013|880|TEMPE 16|TEMPE 16 Voting District
+04|013|881|TEMPE 17|TEMPE 17 Voting District
+04|013|882|TEMPE 18|TEMPE 18 Voting District
+04|013|883|TEMPE 19|TEMPE 19 Voting District
+04|013|884|TEMPE 20|TEMPE 20 Voting District
+04|013|885|TEMPE 21|TEMPE 21 Voting District
+04|013|886|TEMPE 22|TEMPE 22 Voting District
+04|013|887|TEMPE 23|TEMPE 23 Voting District
+04|013|888|TEMPE 24|TEMPE 24 Voting District
+04|013|889|TEMPE 25|TEMPE 25 Voting District
+04|013|89|CAMPO BELLO|CAMPO BELLO Voting District
+04|013|890|TEMPE 26|TEMPE 26 Voting District
+04|013|891|TEMPE 27|TEMPE 27 Voting District
+04|013|892|TEMPE 28|TEMPE 28 Voting District
+04|013|893|TEMPE 29|TEMPE 29 Voting District
+04|013|894|TEMPE 30|TEMPE 30 Voting District
+04|013|895|TEMPE 31|TEMPE 31 Voting District
+04|013|896|TEMPE 32|TEMPE 32 Voting District
+04|013|897|TEMPE 33|TEMPE 33 Voting District
+04|013|898|TEMPE 34|TEMPE 34 Voting District
+04|013|899|TEMPE 35|TEMPE 35 Voting District
+04|013|9|ALEXANDER|ALEXANDER Voting District
+04|013|90|CANAL|CANAL Voting District
+04|013|900|TEMPE 36|TEMPE 36 Voting District
+04|013|901|TEMPE 37|TEMPE 37 Voting District
+04|013|902|TEMPE 38|TEMPE 38 Voting District
+04|013|903b|SERA BRISA|SERA BRISA Voting District
+04|013|904|TEMPE 40|TEMPE 40 Voting District
+04|013|905|TEMPE 41|TEMPE 41 Voting District
+04|013|906|TEMPE 42|TEMPE 42 Voting District
+04|013|907|TEMPE 43|TEMPE 43 Voting District
+04|013|908|TEMPE 44|TEMPE 44 Voting District
+04|013|909|TEMPE 45|TEMPE 45 Voting District
+04|013|91|CANTERBURY|CANTERBURY Voting District
+04|013|910|TEMPE 46|TEMPE 46 Voting District
+04|013|911|TEMPE 47|TEMPE 47 Voting District
+04|013|912|TEMPE 48|TEMPE 48 Voting District
+04|013|913|TEMPE 49|TEMPE 49 Voting District
+04|013|914|TEMPE 50|TEMPE 50 Voting District
+04|013|915|TEMPE 51|TEMPE 51 Voting District
+04|013|916|TEMPE 52|TEMPE 52 Voting District
+04|013|917|TEMPE 53|TEMPE 53 Voting District
+04|013|918|TEMPE 54|TEMPE 54 Voting District
+04|013|919|TEMPE 55|TEMPE 55 Voting District
+04|013|92|CANYON PARK|CANYON PARK Voting District
+04|013|920|TEMPE 56|TEMPE 56 Voting District
+04|013|921|TEMPE 57|TEMPE 57 Voting District
+04|013|922|TEMPE 58|TEMPE 58 Voting District
+04|013|923|TEMPE 59|TEMPE 59 Voting District
+04|013|924b|SOSSAMAN|SOSSAMAN Voting District
+04|013|925|TEMPE 61|TEMPE 61 Voting District
+04|013|926|TEMPE 62|TEMPE 62 Voting District
+04|013|927|TEMPE 63|TEMPE 63 Voting District
+04|013|928|TEMPE 64|TEMPE 64 Voting District
+04|013|929|TERRAVITA|TERRAVITA Voting District
+04|013|93|CAPISTRANO|CAPISTRANO Voting District
+04|013|930|THOMAS|THOMAS Voting District
+04|013|931|THORNWOOD|THORNWOOD Voting District
+04|013|932|THUNDERBIRD PARK|THUNDERBIRD PARK Voting District
+04|013|933|THUNDERHILL|THUNDERHILL Voting District
+04|013|934|TIERRA BUENA|TIERRA BUENA Voting District
+04|013|935|TOLLESON 1|TOLLESON 1 Voting District
+04|013|936|TOLLESON 2|TOLLESON 2 Voting District
+04|013|937|TONOPAH|TONOPAH Voting District
+04|013|938|TOPEKA|TOPEKA Voting District
+04|013|939|TORTILLA FLAT|TORTILLA FLAT Voting District
+04|013|94|CAREFREE|CAREFREE Voting District
+04|013|940b|SPRINGFIELD|SPRINGFIELD Voting District
+04|013|941|TOWNLEY|TOWNLEY Voting District
+04|013|942|TREVOR BROWNE|TREVOR BROWNE Voting District
+04|013|943|TRINITY|TRINITY Voting District
+04|013|944|TUMBLEWEED|TUMBLEWEED Voting District
+04|013|945|TURF PARADISE|TURF PARADISE Voting District
+04|013|946|TURNEY|TURNEY Voting District
+04|013|947|TURQUOISE|TURQUOISE Voting District
+04|013|948|TUTHILL|TUTHILL Voting District
+04|013|949|UTOPIA PARK|UTOPIA PARK Voting District
+04|013|95|CARNATION|CARNATION Voting District
+04|013|950|VALENCIA|VALENCIA Voting District
+04|013|951|TARTESSO|TARTESSO Voting District
+04|013|952|VICTORIA|VICTORIA Voting District
+04|013|953|VIEWPOINT|VIEWPOINT Voting District
+04|013|954|VILLA RITA|VILLA RITA Voting District
+04|013|955|VILLAGE|VILLAGE Voting District
+04|013|956|VILLAGE MEADOWS|VILLAGE MEADOWS Voting District
+04|013|957|VINEYARD|VINEYARD Voting District
+04|013|958|VIRGINIA|VIRGINIA Voting District
+04|013|959|VISTA|VISTA Voting District
+04|013|96|CAROL|CAROL Voting District
+04|013|960|VOGEL|VOGEL Voting District
+04|013|961|VOLTAIRE|VOLTAIRE Voting District
+04|013|962|WADDELL|WADDELL Voting District
+04|013|963b|TERRAMAR|TERRAMAR Voting District
+04|013|964|WAHALLA|WAHALLA Voting District
+04|013|965|WALLACE|WALLACE Voting District
+04|013|966|WARNER|WARNER Voting District
+04|013|967|WELDON|WELDON Voting District
+04|013|968|WEST HIGH|WEST HIGH Voting District
+04|013|969|WESTBROOK|WESTBROOK Voting District
+04|013|97|CAROL ANN|CAROL ANN Voting District
+04|013|970|WESTCOTT|WESTCOTT Voting District
+04|013|971|WESTERN SKIES|WESTERN SKIES Voting District
+04|013|972|WESTERN STAR|WESTERN STAR Voting District
+04|013|973|DESERT SKY|DESERT SKY Voting District
+04|013|974|WESTWARD HO|WESTWARD HO Voting District
+04|013|975|WESTWIND|WESTWIND Voting District
+04|013|976|WESTWORLD|WESTWORLD Voting District
+04|013|977|LOMA LINDA|LOMA LINDA Voting District
+04|013|978|WHITTIER|WHITTIER Voting District
+04|013|979|WHITTON|WHITTON Voting District
+04|013|98|CAROLINA|CAROLINA Voting District
+04|013|980|WICKENBURG 1|WICKENBURG 1 Voting District
+04|013|981|WICKENBURG 2|WICKENBURG 2 Voting District
+04|013|982|WIER|WIER Voting District
+04|013|983|WIGWAM|WIGWAM Voting District
+04|013|984|WIKIEUP|WIKIEUP Voting District
+04|013|985|WILDER|WILDER Voting District
+04|013|986b|TRAMONTO|TRAMONTO Voting District
+04|013|987b|VISTA VERDE|VISTA VERDE Voting District
+04|013|988|WILLIAMS FIELD|WILLIAMS FIELD Voting District
+04|013|989|WILLOW|WILLOW Voting District
+04|013|99|CARSON|CARSON Voting District
+04|013|990|WILSHIRE|WILSHIRE Voting District
+04|013|991|WINDMERE|WINDMERE Voting District
+04|013|992|WINDROSE|WINDROSE Voting District
+04|013|993|WINDSONG|WINDSONG Voting District
+04|013|994|WINDSOR|WINDSOR Voting District
+04|013|995|WINSTON|WINSTON Voting District
+04|013|996|WITTMANN|WITTMANN Voting District
+04|013|997|WOOD|WOOD Voting District
+04|013|998|WOODRIDGE|WOODRIDGE Voting District
+04|013|999|XAVIER|XAVIER Voting District
+04|015|01|Wikieup|Wikieup Voting District
+04|015|02|Mohave Mesa|Mohave Mesa Voting District
+04|015|03|Roosevelt|Roosevelt Voting District
+04|015|04|Chloride|Chloride Voting District
+04|015|05|Colorado City|Colorado City Voting District
+04|015|06|Country Club|Country Club Voting District
+04|015|07|Desert Hills|Desert Hills Voting District
+04|015|08|Meadview|Meadview Voting District
+04|015|09|Dolan Springs|Dolan Springs Voting District
+04|015|10|Golden Valley|Golden Valley Voting District
+04|015|11|Butler|Butler Voting District
+04|015|12|Mohave Valley|Mohave Valley Voting District
+04|015|13|Hackberry|Hackberry Voting District
+04|015|14|Hilltop|Hilltop Voting District
+04|015|15|Hualapai|Hualapai Voting District
+04|015|16|North Kingman|North Kingman Voting District
+04|015|17|Southwest Kingman|Southwest Kingman Voting District
+04|015|18|Beale|Beale Voting District
+04|015|19|East Kingman|East Kingman Voting District
+04|015|20|Southern|Southern Voting District
+04|015|21|Littlefield|Littlefield Voting District
+04|015|22|Logasville|Logasville Voting District
+04|015|23|Moccasin|Moccasin Voting District
+04|015|24|Sierra|Sierra Voting District
+04|015|25|Punto De Vista|Punto De Vista Voting District
+04|015|26|Oatman|Oatman Voting District
+04|015|27|Peach Springs|Peach Springs Voting District
+04|015|28|Riviera|Riviera Voting District
+04|015|29|Topock|Topock Voting District
+04|015|30|Holiday Shores|Holiday Shores Voting District
+04|015|31|Yucca|Yucca Voting District
+04|015|32|Truxton|Truxton Voting District
+04|015|33|Industrial|Industrial Voting District
+04|015|34|Palo Verde|Palo Verde Voting District
+04|015|35|London Bridge|London Bridge Voting District
+04|015|36|Sara|Sara Voting District
+04|015|37|Arcadia|Arcadia Voting District
+04|015|38|Fairgrounds|Fairgrounds Voting District
+04|015|39|Bullhead City|Bullhead City Voting District
+04|015|40|North College|North College Voting District
+04|015|41|Riverbend|Riverbend Voting District
+04|015|42|Buena Vista|Buena Vista Voting District
+04|015|43|Smoketree|Smoketree Voting District
+04|015|44|Starline|Starline Voting District
+04|015|45|White Hills|White Hills Voting District
+04|015|46|Sacramento Valley|Sacramento Valley Voting District
+04|015|47|Bluewater|Bluewater Voting District
+04|015|48|Monte Vista|Monte Vista Voting District
+04|015|49|Hacienda|Hacienda Voting District
+04|015|50|Verde|Verde Voting District
+04|015|51|Mountainview|Mountainview Voting District
+04|015|52|Crossman|Crossman Voting District
+04|015|53|Lakeview|Lakeview Voting District
+04|015|54|Oro Grande|Oro Grande Voting District
+04|015|55|Bermuda City|Bermuda City Voting District
+04|015|56|Davis Dam|Davis Dam Voting District
+04|015|57|Rainbow|Rainbow Voting District
+04|015|58|Broadway|Broadway Voting District
+04|015|59|Chaparral|Chaparral Voting District
+04|015|60|Zuni|Zuni Voting District
+04|015|61|Mesa Del Sur|Mesa Del Sur Voting District
+04|015|62|Camelback|Camelback Voting District
+04|015|63|Thunderbolt|Thunderbolt Voting District
+04|015|64|Avalon|Avalon Voting District
+04|015|65|Parkway|Parkway Voting District
+04|015|66|Long Mountain|Long Mountain Voting District
+04|015|67|Daytona|Daytona Voting District
+04|015|68|Chesapeake|Chesapeake Voting District
+04|015|69|El Dorado|El Dorado Voting District
+04|015|70|Roadrunner|Roadrunner Voting District
+04|015|71|Quail Run|Quail Run Voting District
+04|015|72|Fiesta|Fiesta Voting District
+04|015|73|Jamaica|Jamaica Voting District
+04|017|01|Chilchinbeto|Chilchinbeto Voting District
+04|017|02|Cibecue|Cibecue Voting District
+04|017|04|Dilkon|Dilkon Voting District
+04|017|06|Greasewood|Greasewood Voting District
+04|017|10|Holbrook 3|Holbrook 3 Voting District
+04|017|11|Holbrook 2|Holbrook 2 Voting District
+04|017|13|Indian Wells|Indian Wells Voting District
+04|017|15|Jeddito 1|Jeddito 1 Voting District
+04|017|16|Joseph City|Joseph City Voting District
+04|017|17|Kayenta 1|Kayenta 1 Voting District
+04|017|18|Kayenta 2|Kayenta 2 Voting District
+04|017|19|Keams Canyon|Keams Canyon Voting District
+04|017|20|Lakeside 1|Lakeside 1 Voting District
+04|017|21|Linden|Linden Voting District
+04|017|22|Low Mountain 1|Low Mountain 1 Voting District
+04|017|24|Oraibi|Oraibi Voting District
+04|017|28|Pinetop 1|Pinetop 1 Voting District
+04|017|29|Pinon 1|Pinon 1 Voting District
+04|017|3|Clay Springs/Pinedale|Clay Springs/Pinedale Voting District
+04|017|30|Polacca|Polacca Voting District
+04|017|31|Shonto|Shonto Voting District
+04|017|32|Show Low 1|Show Low 1 Voting District
+04|017|33|Show Low 2|Show Low 2 Voting District
+04|017|35|Snowflake 1|Snowflake 1 Voting District
+04|017|36|Snowflake 2|Snowflake 2 Voting District
+04|017|38|Taylor 1|Taylor 1 Voting District
+04|017|40|Toreva|Toreva Voting District
+04|017|42|Whiteriver 1|Whiteriver 1 Voting District
+04|017|43|Winslow 1|Winslow 1 Voting District
+04|017|44|Winslow 2|Winslow 2 Voting District
+04|017|45|Winslow 3|Winslow 3 Voting District
+04|017|46|Winslow 4|Winslow 4 Voting District
+04|017|47|Winslow 5|Winslow 5 Voting District
+04|017|50|Woodruff|Woodruff Voting District
+04|017|51|Birdsprings|Birdsprings Voting District
+04|017|52|Lakeside 2|Lakeside 2 Voting District
+04|017|53|Pinetop 2|Pinetop 2 Voting District
+04|017|54|Show Low 3|Show Low 3 Voting District
+04|017|55|Taylor 2|Taylor 2 Voting District
+04|017|56|Hondah|Hondah Voting District
+04|017|57|Black Mesa|Black Mesa Voting District
+04|017|58|Sun Valley|Sun Valley Voting District
+04|017|59|Cedar Hills|Cedar Hills Voting District
+04|017|60|Whippoorwill/Springs 1|Whippoorwill/Springs 1 Voting District
+04|017|61|Tachee/Blue Gap|Tachee/Blue Gap Voting District
+04|017|62|Show Low 4|Show Low 4 Voting District
+04|017|63|White Mnt Lake|White Mnt Lake Voting District
+04|017|64|Forest Lake|Forest Lake Voting District
+04|017|69|Teesto|Teesto Voting District
+04|017|76|Hard Rocks 3|Hard Rocks 3 Voting District
+04|017|77|Whitecone 2|Whitecone 2 Voting District
+04|017|79|White River 2|White River 2 Voting District
+04|017|8|Heber/Overgaard|Heber/Overgaard Voting District
+04|017|9|Holbrook 1|Holbrook 1 Voting District
+04|019|1|1|Voting District 1
+04|019|10|10|Voting District 10
+04|019|100|100|Voting District 100
+04|019|101|101|Voting District 101
+04|019|102|102|Voting District 102
+04|019|103|103|Voting District 103
+04|019|104|104|Voting District 104
+04|019|105|105|Voting District 105
+04|019|106|106|Voting District 106
+04|019|107|107|Voting District 107
+04|019|108|108|Voting District 108
+04|019|109|109|Voting District 109
+04|019|11|11|Voting District 11
+04|019|110|110|Voting District 110
+04|019|111|111|Voting District 111
+04|019|112|112|Voting District 112
+04|019|113|113|Voting District 113
+04|019|114|114|Voting District 114
+04|019|115|115|Voting District 115
+04|019|116|116|Voting District 116
+04|019|117|117|Voting District 117
+04|019|118|118|Voting District 118
+04|019|119|119|Voting District 119
+04|019|12|12|Voting District 12
+04|019|120|120|Voting District 120
+04|019|121|121|Voting District 121
+04|019|122|122|Voting District 122
+04|019|123|123|Voting District 123
+04|019|124|124|Voting District 124
+04|019|125|125|Voting District 125
+04|019|126|126|Voting District 126
+04|019|127|127|Voting District 127
+04|019|128|128|Voting District 128
+04|019|129|129|Voting District 129
+04|019|13|13|Voting District 13
+04|019|130|130|Voting District 130
+04|019|131|131|Voting District 131
+04|019|132|132|Voting District 132
+04|019|133|133|Voting District 133
+04|019|134|134|Voting District 134
+04|019|135|135|Voting District 135
+04|019|136|136|Voting District 136
+04|019|137|137|Voting District 137
+04|019|138|138|Voting District 138
+04|019|139|139|Voting District 139
+04|019|14|14|Voting District 14
+04|019|140|140|Voting District 140
+04|019|141|141|Voting District 141
+04|019|142|142|Voting District 142
+04|019|143|143|Voting District 143
+04|019|144|144|Voting District 144
+04|019|145|145|Voting District 145
+04|019|146|146|Voting District 146
+04|019|147|147|Voting District 147
+04|019|148|148|Voting District 148
+04|019|149|149|Voting District 149
+04|019|15|15|Voting District 15
+04|019|150|150|Voting District 150
+04|019|151|151|Voting District 151
+04|019|152|152|Voting District 152
+04|019|153|153|Voting District 153
+04|019|154|154|Voting District 154
+04|019|155|155|Voting District 155
+04|019|156|156|Voting District 156
+04|019|157|157|Voting District 157
+04|019|158|158|Voting District 158
+04|019|159|159|Voting District 159
+04|019|16|16|Voting District 16
+04|019|160|160|Voting District 160
+04|019|161|161|Voting District 161
+04|019|162|162|Voting District 162
+04|019|163|163|Voting District 163
+04|019|164|164|Voting District 164
+04|019|165|165|Voting District 165
+04|019|166|166|Voting District 166
+04|019|167|167|Voting District 167
+04|019|168|168|Voting District 168
+04|019|169|169|Voting District 169
+04|019|17|17|Voting District 17
+04|019|170|170|Voting District 170
+04|019|171|171|Voting District 171
+04|019|172|172|Voting District 172
+04|019|173|173|Voting District 173
+04|019|174|174|Voting District 174
+04|019|175|175|Voting District 175
+04|019|176|176|Voting District 176
+04|019|177|177|Voting District 177
+04|019|178|178|Voting District 178
+04|019|179|179|Voting District 179
+04|019|18|18|Voting District 18
+04|019|180|180|Voting District 180
+04|019|181|181|Voting District 181
+04|019|182|182|Voting District 182
+04|019|183|183|Voting District 183
+04|019|184|184|Voting District 184
+04|019|185|185|Voting District 185
+04|019|186|186|Voting District 186
+04|019|187|187|Voting District 187
+04|019|188|188|Voting District 188
+04|019|189|189|Voting District 189
+04|019|19|19|Voting District 19
+04|019|190|190|Voting District 190
+04|019|191|191|Voting District 191
+04|019|192|192|Voting District 192
+04|019|193|193|Voting District 193
+04|019|194|194|Voting District 194
+04|019|195|195|Voting District 195
+04|019|196|196|Voting District 196
+04|019|197|197|Voting District 197
+04|019|198|198|Voting District 198
+04|019|199|199|Voting District 199
+04|019|2|2|Voting District 2
+04|019|20|20|Voting District 20
+04|019|200|200|Voting District 200
+04|019|201|201|Voting District 201
+04|019|202|202|Voting District 202
+04|019|203|203|Voting District 203
+04|019|204|204|Voting District 204
+04|019|205|205|Voting District 205
+04|019|206|206|Voting District 206
+04|019|207|207|Voting District 207
+04|019|208|208|Voting District 208
+04|019|209|209|Voting District 209
+04|019|21|21|Voting District 21
+04|019|210|210|Voting District 210
+04|019|211|211|Voting District 211
+04|019|212|212|Voting District 212
+04|019|213|213|Voting District 213
+04|019|214|214|Voting District 214
+04|019|215|215|Voting District 215
+04|019|216|216|Voting District 216
+04|019|217|217|Voting District 217
+04|019|218|218|Voting District 218
+04|019|219|219|Voting District 219
+04|019|22|22|Voting District 22
+04|019|220|220|Voting District 220
+04|019|221|221|Voting District 221
+04|019|222|222|Voting District 222
+04|019|223|223|Voting District 223
+04|019|224|224|Voting District 224
+04|019|225|225|Voting District 225
+04|019|226|226|Voting District 226
+04|019|227|227|Voting District 227
+04|019|228|228|Voting District 228
+04|019|229|229|Voting District 229
+04|019|23|23|Voting District 23
+04|019|230|230|Voting District 230
+04|019|231|231|Voting District 231
+04|019|232|232|Voting District 232
+04|019|233|233|Voting District 233
+04|019|234|234|Voting District 234
+04|019|235|235|Voting District 235
+04|019|236|236|Voting District 236
+04|019|237|237|Voting District 237
+04|019|238|238|Voting District 238
+04|019|239|239|Voting District 239
+04|019|24|24|Voting District 24
+04|019|240|240|Voting District 240
+04|019|241|241|Voting District 241
+04|019|242|242|Voting District 242
+04|019|243|243|Voting District 243
+04|019|244|244|Voting District 244
+04|019|245|245|Voting District 245
+04|019|246|246|Voting District 246
+04|019|247|247|Voting District 247
+04|019|248|248|Voting District 248
+04|019|249|249|Voting District 249
+04|019|25|25|Voting District 25
+04|019|250|250|Voting District 250
+04|019|251|251|Voting District 251
+04|019|252|252|Voting District 252
+04|019|253|253|Voting District 253
+04|019|254|254|Voting District 254
+04|019|255|255|Voting District 255
+04|019|256|256|Voting District 256
+04|019|257|257|Voting District 257
+04|019|258|258|Voting District 258
+04|019|259|259|Voting District 259
+04|019|26|26|Voting District 26
+04|019|260|260|Voting District 260
+04|019|261|261|Voting District 261
+04|019|262|262|Voting District 262
+04|019|263|263|Voting District 263
+04|019|264|264|Voting District 264
+04|019|265|265|Voting District 265
+04|019|266|266|Voting District 266
+04|019|267|267|Voting District 267
+04|019|268|268|Voting District 268
+04|019|269|269|Voting District 269
+04|019|27|27|Voting District 27
+04|019|270|270|Voting District 270
+04|019|271|271|Voting District 271
+04|019|272|272|Voting District 272
+04|019|273|273|Voting District 273
+04|019|274|274|Voting District 274
+04|019|275|275|Voting District 275
+04|019|276|276|Voting District 276
+04|019|277|277|Voting District 277
+04|019|278|278|Voting District 278
+04|019|279|279|Voting District 279
+04|019|28|28|Voting District 28
+04|019|280|280|Voting District 280
+04|019|281|281|Voting District 281
+04|019|282|282|Voting District 282
+04|019|283|283|Voting District 283
+04|019|284|284|Voting District 284
+04|019|285|285|Voting District 285
+04|019|286|286|Voting District 286
+04|019|287|287|Voting District 287
+04|019|288|288|Voting District 288
+04|019|289|289|Voting District 289
+04|019|29|29|Voting District 29
+04|019|290|290|Voting District 290
+04|019|291|291|Voting District 291
+04|019|292|292|Voting District 292
+04|019|293|293|Voting District 293
+04|019|294|294|Voting District 294
+04|019|295|295|Voting District 295
+04|019|296|296|Voting District 296
+04|019|297|297|Voting District 297
+04|019|298|298|Voting District 298
+04|019|299|299|Voting District 299
+04|019|3|3|Voting District 3
+04|019|30|30|Voting District 30
+04|019|300|300|Voting District 300
+04|019|301|301|Voting District 301
+04|019|302|302|Voting District 302
+04|019|303|303|Voting District 303
+04|019|304|304|Voting District 304
+04|019|305|305|Voting District 305
+04|019|306|306|Voting District 306
+04|019|307|307|Voting District 307
+04|019|308|308|Voting District 308
+04|019|309|309|Voting District 309
+04|019|31|31|Voting District 31
+04|019|310|310|Voting District 310
+04|019|311|311|Voting District 311
+04|019|312|312|Voting District 312
+04|019|313|313|Voting District 313
+04|019|314|314|Voting District 314
+04|019|315|315|Voting District 315
+04|019|316|316|Voting District 316
+04|019|317|317|Voting District 317
+04|019|318|318|Voting District 318
+04|019|319|319|Voting District 319
+04|019|32|32|Voting District 32
+04|019|320|320|Voting District 320
+04|019|321|321|Voting District 321
+04|019|322|322|Voting District 322
+04|019|323|323|Voting District 323
+04|019|324|324|Voting District 324
+04|019|325|325|Voting District 325
+04|019|326|326|Voting District 326
+04|019|327|327|Voting District 327
+04|019|328|328|Voting District 328
+04|019|329|329|Voting District 329
+04|019|33|33|Voting District 33
+04|019|330|330|Voting District 330
+04|019|331|331|Voting District 331
+04|019|332|332|Voting District 332
+04|019|333|333|Voting District 333
+04|019|334|334|Voting District 334
+04|019|335|335|Voting District 335
+04|019|336|336|Voting District 336
+04|019|337|337|Voting District 337
+04|019|338|338|Voting District 338
+04|019|339|339|Voting District 339
+04|019|34|34|Voting District 34
+04|019|340|340|Voting District 340
+04|019|341|341|Voting District 341
+04|019|342|342|Voting District 342
+04|019|343|343|Voting District 343
+04|019|344|344|Voting District 344
+04|019|345|345|Voting District 345
+04|019|346|346|Voting District 346
+04|019|347|347|Voting District 347
+04|019|348|348|Voting District 348
+04|019|349|349|Voting District 349
+04|019|35|35|Voting District 35
+04|019|350|350|Voting District 350
+04|019|351|351|Voting District 351
+04|019|352|352|Voting District 352
+04|019|353|353|Voting District 353
+04|019|354|354|Voting District 354
+04|019|355|355|Voting District 355
+04|019|356|356|Voting District 356
+04|019|357|357|Voting District 357
+04|019|358|358|Voting District 358
+04|019|359|359|Voting District 359
+04|019|36|36|Voting District 36
+04|019|360|360|Voting District 360
+04|019|361|361|Voting District 361
+04|019|362|362|Voting District 362
+04|019|363|363|Voting District 363
+04|019|364|364|Voting District 364
+04|019|365|365|Voting District 365
+04|019|366|366|Voting District 366
+04|019|367|367|Voting District 367
+04|019|368|368|Voting District 368
+04|019|369|369|Voting District 369
+04|019|37|37|Voting District 37
+04|019|370|370|Voting District 370
+04|019|371|371|Voting District 371
+04|019|372|372|Voting District 372
+04|019|373|373|Voting District 373
+04|019|374|374|Voting District 374
+04|019|375|375|Voting District 375
+04|019|376|376|Voting District 376
+04|019|377|377|Voting District 377
+04|019|378|378|Voting District 378
+04|019|379|379|Voting District 379
+04|019|38|38|Voting District 38
+04|019|380|380|Voting District 380
+04|019|381|381|Voting District 381
+04|019|382|382|Voting District 382
+04|019|383|383|Voting District 383
+04|019|384|384|Voting District 384
+04|019|385|385|Voting District 385
+04|019|386|386|Voting District 386
+04|019|387|387|Voting District 387
+04|019|388|388|Voting District 388
+04|019|389|389|Voting District 389
+04|019|39|39|Voting District 39
+04|019|390|390|Voting District 390
+04|019|391|391|Voting District 391
+04|019|392|392|Voting District 392
+04|019|393|393|Voting District 393
+04|019|394|394|Voting District 394
+04|019|395|395|Voting District 395
+04|019|396|396|Voting District 396
+04|019|397|397|Voting District 397
+04|019|398|398|Voting District 398
+04|019|399|399|Voting District 399
+04|019|4|4|Voting District 4
+04|019|40|40|Voting District 40
+04|019|400|400|Voting District 400
+04|019|401|401|Voting District 401
+04|019|402|402|Voting District 402
+04|019|403|403|Voting District 403
+04|019|404|404|Voting District 404
+04|019|405|405|Voting District 405
+04|019|406|406|Voting District 406
+04|019|407|407|Voting District 407
+04|019|408|408|Voting District 408
+04|019|409|409|Voting District 409
+04|019|41|41|Voting District 41
+04|019|410|410|Voting District 410
+04|019|411|411|Voting District 411
+04|019|412|412|Voting District 412
+04|019|413|413|Voting District 413
+04|019|414|414|Voting District 414
+04|019|415|415|Voting District 415
+04|019|416|416|Voting District 416
+04|019|417|417|Voting District 417
+04|019|42|42|Voting District 42
+04|019|43|43|Voting District 43
+04|019|44|44|Voting District 44
+04|019|45|45|Voting District 45
+04|019|46|46|Voting District 46
+04|019|47|47|Voting District 47
+04|019|48|48|Voting District 48
+04|019|49|49|Voting District 49
+04|019|5|5|Voting District 5
+04|019|50|50|Voting District 50
+04|019|51|51|Voting District 51
+04|019|52|52|Voting District 52
+04|019|53|53|Voting District 53
+04|019|54|54|Voting District 54
+04|019|55|55|Voting District 55
+04|019|56|56|Voting District 56
+04|019|57|57|Voting District 57
+04|019|58|58|Voting District 58
+04|019|59|59|Voting District 59
+04|019|6|6|Voting District 6
+04|019|60|60|Voting District 60
+04|019|61|61|Voting District 61
+04|019|62|62|Voting District 62
+04|019|63|63|Voting District 63
+04|019|64|64|Voting District 64
+04|019|65|65|Voting District 65
+04|019|66|66|Voting District 66
+04|019|67|67|Voting District 67
+04|019|68|68|Voting District 68
+04|019|69|69|Voting District 69
+04|019|7|7|Voting District 7
+04|019|70|70|Voting District 70
+04|019|71|71|Voting District 71
+04|019|72|72|Voting District 72
+04|019|73|73|Voting District 73
+04|019|74|74|Voting District 74
+04|019|75|75|Voting District 75
+04|019|76|76|Voting District 76
+04|019|77|77|Voting District 77
+04|019|78|78|Voting District 78
+04|019|79|79|Voting District 79
+04|019|8|8|Voting District 8
+04|019|80|80|Voting District 80
+04|019|81|81|Voting District 81
+04|019|82|82|Voting District 82
+04|019|83|83|Voting District 83
+04|019|84|84|Voting District 84
+04|019|85|85|Voting District 85
+04|019|86|86|Voting District 86
+04|019|87|87|Voting District 87
+04|019|88|88|Voting District 88
+04|019|89|89|Voting District 89
+04|019|9|9|Voting District 9
+04|019|90|90|Voting District 90
+04|019|91|91|Voting District 91
+04|019|92|92|Voting District 92
+04|019|93|93|Voting District 93
+04|019|94|94|Voting District 94
+04|019|95|95|Voting District 95
+04|019|96|96|Voting District 96
+04|019|97|97|Voting District 97
+04|019|98|98|Voting District 98
+04|019|99|99|Voting District 99
+04|021|01|Kearny|Kearny Voting District
+04|021|02|Kearny Rural|Kearny Rural Voting District
+04|021|03|Riverside|Riverside Voting District
+04|021|04|Dudleyville|Dudleyville Voting District
+04|021|05|San Manuel|San Manuel Voting District
+04|021|06|Mammoth|Mammoth Voting District
+04|021|07|Oracle|Oracle Voting District
+04|021|08|Saddlebrooke|Saddlebrooke Voting District
+04|021|09|Arizona City|Arizona City Voting District
+04|021|10|Toltec South|Toltec South Voting District
+04|021|11|Picacho|Picacho Voting District
+04|021|12|Eloy|Eloy Voting District
+04|021|13|Toltec|Toltec Voting District
+04|021|14|Eloy South|Eloy South Voting District
+04|021|15|Picacho Peak|Picacho Peak Voting District
+04|021|16|Red Rock|Red Rock Voting District
+04|021|17|Coolidge NE|Coolidge NE Voting District
+04|021|18|Coolidge NW|Coolidge NW Voting District
+04|021|19|Coolidge S|Coolidge S Voting District
+04|021|20|Randolph|Randolph Voting District
+04|021|21|CAC|CAC Voting District
+04|021|22|11 Mile Corner|11 Mile Corner Voting District
+04|021|23|Florence N|Florence N Voting District
+04|021|24|Florence S|Florence S Voting District
+04|021|25|Cactus Forest|Cactus Forest Voting District
+04|021|26|Florence River Bottom|Florence River Bottom Voting District
+04|021|27|Poston Butte|Poston Butte Voting District
+04|021|28|Queen Creek|Queen Creek Voting District
+04|021|29|Sacaton|Sacaton Voting District
+04|021|30|Maricopa|Maricopa Voting District
+04|021|31|Stanfield|Stanfield Voting District
+04|021|32|Casa Grande N|Casa Grande N Voting District
+04|021|33|Casa Grande NC|Casa Grande NC Voting District
+04|021|34|Casa Grande SC|Casa Grande SC Voting District
+04|021|35|Casa Grande NE|Casa Grande NE Voting District
+04|021|36|Casa Grande SE|Casa Grande SE Voting District
+04|021|37|Casa Grande NW|Casa Grande NW Voting District
+04|021|38|Casa Grande SW|Casa Grande SW Voting District
+04|021|39|Casa Grande RG|Casa Grande RG Voting District
+04|021|40|Casa Grande LEHM|Casa Grande LEHM Voting District
+04|021|41|Casa Grande INT|Casa Grande INT Voting District
+04|021|42|Apache Junction NW|Apache Junction NW Voting District
+04|021|43|Apache Junction SW|Apache Junction SW Voting District
+04|021|44|Apache Junction SE|Apache Junction SE Voting District
+04|021|45|Apache Junction NE|Apache Junction NE Voting District
+04|021|46|Apache Junction E|Apache Junction E Voting District
+04|021|47|Apache Junction C|Apache Junction C Voting District
+04|021|48|Gold Canyon|Gold Canyon Voting District
+04|021|49|Queen Valley|Queen Valley Voting District
+04|021|50|Superior N|Superior N Voting District
+04|021|51|Superior S|Superior S Voting District
+04|021|52|Sutton Summit|Sutton Summit Voting District
+04|021|53|Chui Chu|Chui Chu Voting District
+04|021|54|Hidden Valley|Hidden Valley Voting District
+04|021|55|Casa Grande W|Casa Grande W Voting District
+04|021|56|Apache Junction N|Apache Junction N Voting District
+04|021|57|Apache Junction NC|Apache Junction NC Voting District
+04|021|58|Apache Junction EC|Apache Junction EC Voting District
+04|021|59|Apache Junction S|Apache Junction S Voting District
+04|021|60|Blackwater|Blackwater Voting District
+04|021|61|Santan|Santan Voting District
+04|021|62|Casa Blanca|Casa Blanca Voting District
+04|021|63|Apache Trail|Apache Trail Voting District
+04|021|64|Superstition Mountain|Superstition Mountain Voting District
+04|021|65|Casa Grande S|Casa Grande S Voting District
+04|021|66|Mountainbrook Village|Mountainbrook Village Voting District
+04|021|67|Tbird Farms|Tbird Farms Voting District
+04|021|68|Santan Park|Santan Park Voting District
+04|021|69|Bella Vista|Bella Vista Voting District
+04|021|70|Copper Basin|Copper Basin Voting District
+04|021|71|Schnepf S|Schnepf S Voting District
+04|021|72|Peralta|Peralta Voting District
+04|021|73|El Dorado|El Dorado Voting District
+04|021|74|Santa Rosa|Santa Rosa Voting District
+04|021|75|Walker Butte|Walker Butte Voting District
+04|021|76|Pecan Creek North|Pecan Creek North Voting District
+04|021|77|Ak-Chin Community|Ak-Chin Community Voting District
+04|021|78|Maricopa Meadows|Maricopa Meadows Voting District
+04|021|79|Maricopa Fiesta|Maricopa Fiesta Voting District
+04|021|80|Province|Province Voting District
+04|021|81|Ironwood Common|Ironwood Common Voting District
+04|021|82|Cruz Park|Cruz Park Voting District
+04|021|83|Coyote Ranch|Coyote Ranch Voting District
+04|021|84|Gold Canyon North|Gold Canyon North Voting District
+04|021|85|Santan Heights|Santan Heights Voting District
+04|021|86|Circle Cross Ranch|Circle Cross Ranch Voting District
+04|021|87|Johnson Ranch East|Johnson Ranch East Voting District
+04|021|88|Schnepf N|Schnepf N Voting District
+04|023|01|Nogales 1|Nogales 1 Voting District
+04|023|02|Nogales 2|Nogales 2 Voting District
+04|023|03|Nogales 3|Nogales 3 Voting District
+04|023|04|Nogales 4|Nogales 4 Voting District
+04|023|05|Coronado 5|Coronado 5 Voting District
+04|023|06|Elgin 6|Elgin 6 Voting District
+04|023|07|Rio Rico 7|Rio Rico 7 Voting District
+04|023|08|Nogales 8|Nogales 8 Voting District
+04|023|09|Nogales 9|Nogales 9 Voting District
+04|023|10|Nogales 10|Nogales 10 Voting District
+04|023|11|Tubac 11|Tubac 11 Voting District
+04|023|12|Nogales 12|Nogales 12 Voting District
+04|023|13|Santa Cruz 13|Santa Cruz 13 Voting District
+04|023|14|Patagonia 14|Patagonia 14 Voting District
+04|023|15|Sonoita 15|Sonoita 15 Voting District
+04|023|16|Nogales 16|Nogales 16 Voting District
+04|023|17|Calabasas 17|Calabasas 17 Voting District
+04|023|18|Nogales 18|Nogales 18 Voting District
+04|023|19|Baca 19|Baca 19 Voting District
+04|023|20|Nogales 20|Nogales 20 Voting District
+04|023|21|Peck Canyon 21|Peck Canyon 21 Voting District
+04|023|22|Potrero 22|Potrero 22 Voting District
+04|023|23|Mountain 23|Mountain 23 Voting District
+04|023|24|Lake Patagonia 24|Lake Patagonia 24 Voting District
+04|025|001|Chino Valley 1|Chino Valley 1 Voting District
+04|025|002|Castle Hot Springs 2|Castle Hot Springs 2 Voting District
+04|025|003|Pronghorn View|Pronghorn View Voting District
+04|025|004|Miller Valley East|Miller Valley East Voting District
+04|025|005|Miller Valley West|Miller Valley West Voting District
+04|025|006|Horseshoe|Horseshoe Voting District
+04|025|007|Prescott Northwest|Prescott Northwest Voting District
+04|025|008|Prescott Heights|Prescott Heights Voting District
+04|025|009|Whipple|Whipple Voting District
+04|025|010|Williamson Valley|Williamson Valley Voting District
+04|025|011|Badger|Badger Voting District
+04|025|012|Prescott Valley 1|Prescott Valley 1 Voting District
+04|025|013|Seligman 2|Seligman 2 Voting District
+04|025|014|Bagdad|Bagdad Voting District
+04|025|015|Castle Hot Springs 1|Castle Hot Springs 1 Voting District
+04|025|016|Congress|Congress Voting District
+04|025|017|Rincon|Rincon Voting District
+04|025|018|Copper Basin|Copper Basin Voting District
+04|025|019|Groom Creek|Groom Creek Voting District
+04|025|020|Hillside|Hillside Voting District
+04|025|021|Kirkland|Kirkland Voting District
+04|025|022|Pine Knoll|Pine Knoll Voting District
+04|025|023|Prescott South|Prescott South Voting District
+04|025|024|Senator|Senator Voting District
+04|025|025|Prescott Southwest|Prescott Southwest Voting District
+04|025|026|Prescott West|Prescott West Voting District
+04|025|027|Skull Valley|Skull Valley Voting District
+04|025|028|Walnut Grove|Walnut Grove Voting District
+04|025|029|Yarnell|Yarnell Voting District
+04|025|030|Beaver Creek|Beaver Creek Voting District
+04|025|031|Glassford|Glassford Voting District
+04|025|032|Taylor Hicks|Taylor Hicks Voting District
+04|025|033|Humboldt|Humboldt Voting District
+04|025|034|Big Park|Big Park Voting District
+04|025|035|Granite|Granite Voting District
+04|025|036|Clemenceau|Clemenceau Voting District
+04|025|037|Cottonwood 1|Cottonwood 1 Voting District
+04|025|038|Cottonwood 2|Cottonwood 2 Voting District
+04|025|039|Jerome|Jerome Voting District
+04|025|040|Cornville|Cornville Voting District
+04|025|041|Red Rock 1|Red Rock 1 Voting District
+04|025|042|Red Rock 2|Red Rock 2 Voting District
+04|025|043|Ash Fork|Ash Fork Voting District
+04|025|044|Seligman 1|Seligman 1 Voting District
+04|025|045|Camp Verde 2|Camp Verde 2 Voting District
+04|025|046|Canyon|Canyon Voting District
+04|025|047|Verde Lakes|Verde Lakes Voting District
+04|025|048|Cordes Lake|Cordes Lake Voting District
+04|025|049|Stoneridge|Stoneridge Voting District
+04|025|050|Prescott CC 1|Prescott CC 1 Voting District
+04|025|051|Country Park|Country Park Voting District
+04|025|052|Round Up|Round Up Voting District
+04|025|053|Rose Lakes|Rose Lakes Voting District
+04|025|054|Middle Verde|Middle Verde Voting District
+04|025|055|Mingus|Mingus Voting District
+04|025|056|Crown King|Crown King Voting District
+04|025|057|Cougar|Cougar Voting District
+04|025|058|Pine Lakes|Pine Lakes Voting District
+04|025|059|Ponderosa|Ponderosa Voting District
+04|025|060|Red Rock East|Red Rock East Voting District
+04|025|061|Coffee Pot|Coffee Pot Voting District
+04|025|062|Thumb Butte|Thumb Butte Voting District
+04|025|063|Verde Village|Verde Village Voting District
+04|025|064|Yavapai Hills|Yavapai Hills Voting District
+04|025|065|Montezuma|Montezuma Voting District
+04|025|066|Chino Valley 2|Chino Valley 2 Voting District
+04|025|067|Perkinsville|Perkinsville Voting District
+04|025|068|Holiday|Holiday Voting District
+04|025|069|Northside|Northside Voting District
+04|025|070|Shadow Valley|Shadow Valley Voting District
+04|025|071|Mile High|Mile High Voting District
+04|025|072|Lynx Creek|Lynx Creek Voting District
+04|025|073|Hidden Valley|Hidden Valley Voting District
+04|025|074|Spruce|Spruce Voting District
+04|025|075|Superstition|Superstition Voting District
+04|025|076|Jacks Canyon|Jacks Canyon Voting District
+04|025|077|Orchard|Orchard Voting District
+04|025|078|Granville|Granville Voting District
+04|025|079|Red Rock West|Red Rock West Voting District
+04|025|080|Willow|Willow Voting District
+04|025|081|Mayer|Mayer Voting District
+04|025|082|Mountain Club|Mountain Club Voting District
+04|025|083|Sandretto|Sandretto Voting District
+04|025|084|White Spar|White Spar Voting District
+04|025|085|Camp Verde 1|Camp Verde 1 Voting District
+04|025|086|Agua Fria 1|Agua Fria 1 Voting District
+04|025|087|Antelope|Antelope Voting District
+04|025|088|Diamond Valley|Diamond Valley Voting District
+04|025|089|Deep Well|Deep Well Voting District
+04|025|090|Bridgeport|Bridgeport Voting District
+04|025|091|Camp Wood 1|Camp Wood 1 Voting District
+04|025|092|Big Chino|Big Chino Voting District
+04|025|093|Mountain View|Mountain View Voting District
+04|025|094|Prescott Valley 2|Prescott Valley 2 Voting District
+04|025|095|Drake|Drake Voting District
+04|025|096|Pinon Oaks|Pinon Oaks Voting District
+04|025|097|Castle|Castle Voting District
+04|025|098|Camp Wood 2|Camp Wood 2 Voting District
+04|025|103|Western|Western Voting District
+04|025|104|Clarkdale|Clarkdale Voting District
+04|025|105|Quail Springs|Quail Springs Voting District
+04|025|107|Fir|Fir Voting District
+04|025|108|Cherry Creek 1|Cherry Creek 1 Voting District
+04|025|109|Wild Horse|Wild Horse Voting District
+04|025|112|Montana|Montana Voting District
+04|025|114|Coyote Springs|Coyote Springs Voting District
+04|025|115|Sugar Loaf|Sugar Loaf Voting District
+04|025|116|West Chino|West Chino Voting District
+04|025|117|Cherry Creek 2|Cherry Creek 2 Voting District
+04|025|118|Agua Fria 2|Agua Fria 2 Voting District
+04|025|119|Prescott CC 2|Prescott CC 2 Voting District
+04|025|120|Seligman 3|Seligman 3 Voting District
+04|027|01|01|Voting District 01
+04|027|02|02|Voting District 02
+04|027|03|03|Voting District 03
+04|027|04|04|Voting District 04
+04|027|05|05|Voting District 05
+04|027|06|06|Voting District 06
+04|027|07|07|Voting District 07
+04|027|08|08|Voting District 08
+04|027|09|09|Voting District 09
+04|027|10|10|Voting District 10
+04|027|11|11|Voting District 11
+04|027|12|12|Voting District 12
+04|027|13|13|Voting District 13
+04|027|14|14|Voting District 14
+04|027|15|15|Voting District 15
+04|027|16|16|Voting District 16
+04|027|17|17|Voting District 17
+04|027|18|18|Voting District 18
+04|027|19|19|Voting District 19
+04|027|20|20|Voting District 20
+04|027|21|21|Voting District 21
+04|027|22|22|Voting District 22
+04|027|23|23|Voting District 23
+04|027|24|24|Voting District 24
+04|027|25|25|Voting District 25
+04|027|26|26|Voting District 26
+04|027|27|27|Voting District 27
+04|027|28|28|Voting District 28
+04|027|29|29|Voting District 29
+04|027|30|30|Voting District 30
+04|027|31|31|Voting District 31
+04|027|32|32|Voting District 32
+04|027|33|33|Voting District 33
+04|027|34|34|Voting District 34
+04|027|35|35|Voting District 35
+04|027|36|36|Voting District 36
+04|027|37|37|Voting District 37
+04|027|38|38|Voting District 38
+04|027|39|39|Voting District 39
+04|027|40|40|Voting District 40
+04|027|41|41|Voting District 41
+04|027|42|42|Voting District 42

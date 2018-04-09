@@ -1,0 +1,6 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+44|00360|Exeter-West Greenwich Regional School District|Exeter-West Greenwich Regional School District
+44|00390|Foster Elementary School District|Foster Elementary School District
+44|00450|Glocester Elementary School District|Glocester Elementary School District
+44|00510|Jamestown School District|Jamestown School District
+44|00600|Little Compton School District|Little Compton School District

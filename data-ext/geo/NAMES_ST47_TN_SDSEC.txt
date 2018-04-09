@@ -1,0 +1,17 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+47|47001|Anderson County School District in Clinton|Anderson County School District in Clinton
+47|47029|Cocke County School District in Newport|Cocke County School District in Newport
+47|47031|Coffee County School District in Manchester|Coffee County School District in Manchester
+47|47033|Crockett County School District in Alamo|Crockett County School District in Alamo
+47|47034|Crockett County School District in Bells|Crockett County School District in Bells
+47|47073|Hawkins County School District in Rogersville|Hawkins County School District in Rogersville
+47|47077|Henderson County School District in Lexington|Henderson County School District in Lexington
+47|47079|Henry County School District in Paris|Henry County School District in Paris
+47|47103|Lincoln County School District in Fayetteville|Lincoln County School District in Fayetteville
+47|47107|McMinn County School District in Athens|McMinn County School District in Athens
+47|47108|McMinn County School District in Etowah|McMinn County School District in Etowah
+47|47123|Monroe County School District in Sweetwater|Monroe County School District in Sweetwater
+47|47143|Rhea County School District in Dayton|Rhea County School District in Dayton
+47|47149|Rutherford County School District in Murfreesboro|Rutherford County School District in Murfreesboro
+47|47187|Williamson County School District in Franklin|Williamson County School District in Franklin
+47|47189|Wilson County School District in Lebanon|Wilson County School District in Lebanon

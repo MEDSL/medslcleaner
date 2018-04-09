@@ -1,0 +1,503 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+05|00250|Adona|Adona city
+05|00580|Alexander|Alexander city
+05|00700|Alicia|Alicia town
+05|00940|Allport|Allport town
+05|00970|Alma|Alma city
+05|01030|Almyra|Almyra town
+05|01060|Alpena|Alpena town
+05|01150|Altheimer|Altheimer city
+05|01210|Altus|Altus city
+05|01270|Amagon|Amagon town
+05|01360|Amity|Amity city
+05|01457|Anthonyville|Anthonyville town
+05|01540|Antoine|Antoine town
+05|01870|Arkadelphia|Arkadelphia city
+05|01990|Arkansas City|Arkansas City city
+05|02380|Ashdown|Ashdown city
+05|02470|Ash Flat|Ash Flat city
+05|02590|Atkins|Atkins city
+05|02680|Aubrey|Aubrey town
+05|02740|Augusta|Augusta city
+05|02860|Austin|Austin city
+05|03040|Avoca|Avoca town
+05|03280|Bald Knob|Bald Knob city
+05|03430|Banks|Banks town
+05|03640|Barling|Barling city
+05|03940|Bassett|Bassett town
+05|04030|Batesville|Batesville city
+05|04090|Bauxite|Bauxite town
+05|04180|Bay|Bay city
+05|04420|Bearden|Bearden city
+05|04540|Beaver|Beaver town
+05|04600|Beebe|Beebe city
+05|04720|Beedeville|Beedeville town
+05|04840|Bella Vista|Bella Vista town
+05|04900|Bellefonte|Bellefonte town
+05|04960|Belleville|Belleville city
+05|05260|Ben Lomond|Ben Lomond town
+05|05290|Benton|Benton city
+05|05320|Bentonville|Bentonville city
+05|05440|Bergman|Bergman town
+05|05560|Berryville|Berryville city
+05|05740|Bethel Heights|Bethel Heights city
+05|05920|Bigelow|Bigelow town
+05|05980|Big Flat|Big Flat town
+05|06040|Biggers|Biggers town
+05|06340|Birdsong|Birdsong town
+05|06610|Black Oak|Black Oak town
+05|06700|Black Rock|Black Rock city
+05|06730|Black Springs|Black Springs town
+05|07030|Blevins|Blevins city
+05|07150|Blue Eye|Blue Eye town
+05|07210|Blue Mountain|Blue Mountain town
+05|07270|Bluff City|Bluff City town
+05|07330|Blytheville|Blytheville city
+05|07450|Bodcaw|Bodcaw town
+05|07540|Bonanza|Bonanza city
+05|07630|Bono|Bono city
+05|07720|Booneville|Booneville city
+05|08260|Bradford|Bradford city
+05|08290|Bradley|Bradley city
+05|08440|Branch|Branch city
+05|08665|Briarcliff|Briarcliff city
+05|08950|Brinkley|Brinkley city
+05|09100|Brookland|Brookland city
+05|09460|Bryant|Bryant city
+05|09550|Buckner|Buckner city
+05|09790|Bull Shoals|Bull Shoals city
+05|09880|Burdette|Burdette town
+05|10300|Cabot|Cabot city
+05|10360|Caddo Valley|Caddo Valley town
+05|10450|Caldwell|Caldwell town
+05|10480|Cale|Cale town
+05|10570|Calico Rock|Calico Rock city
+05|10600|Calion|Calion city
+05|10720|Camden|Camden city
+05|10780|Cammack Village|Cammack Village city
+05|10900|Campbell Station|Campbell Station city
+05|11410|Caraway|Caraway city
+05|11500|Carlisle|Carlisle city
+05|11830|Carthage|Carthage city
+05|11890|Casa|Casa town
+05|11920|Cash|Cash town
+05|12190|Caulksville|Caulksville town
+05|12280|Cave City|Cave City city
+05|12340|Cave Springs|Cave Springs city
+05|12520|Cedarville|Cedarville city
+05|12820|Centerton|Centerton city
+05|13120|Central City|Central City town
+05|13300|Charleston|Charleston city
+05|13450|Cherokee Village|Cherokee Village city
+05|13540|Cherry Valley|Cherry Valley city
+05|13570|Chester|Chester town
+05|13750|Chidester|Chidester city
+05|13990|Clarendon|Clarendon city
+05|14050|Clarkedale|Clarkedale city
+05|14140|Clarksville|Clarksville city
+05|14260|Clinton|Clinton city
+05|14500|Coal Hill|Coal Hill city
+05|14770|College City|College City city
+05|14950|Colt|Colt city
+05|15100|Concord|Concord town
+05|15190|Conway|Conway city
+05|15310|Corinth|Corinth town
+05|15460|Corning|Corning city
+05|15490|Cotter|Cotter city
+05|15550|Cotton Plant|Cotton Plant city
+05|15700|Cove|Cove town
+05|15790|Coy|Coy town
+05|15940|Crawfordsville|Crawfordsville town
+05|16240|Crossett|Crossett city
+05|16930|Cushman|Cushman city
+05|17140|Daisy|Daisy town
+05|17290|Damascus|Damascus town
+05|17320|Danville|Danville city
+05|17380|Dardanelle|Dardanelle city
+05|17410|Datto|Datto town
+05|17740|Decatur|Decatur city
+05|18010|Delaplaine|Delaplaine town
+05|18100|Delight|Delight city
+05|18160|Dell|Dell town
+05|18370|Denning|Denning town
+05|18490|De Queen|De Queen city
+05|18520|Dermott|Dermott city
+05|18550|Des Arc|Des Arc city
+05|18640|De Valls Bluff|De Valls Bluff city
+05|18790|DeWitt|DeWitt city
+05|18850|Diamond City|Diamond City city
+05|18940|Diaz|Diaz city
+05|18970|Dierks|Dierks city
+05|19450|Donaldson|Donaldson town
+05|19600|Dover|Dover city
+05|19990|Dumas|Dumas city
+05|20200|Dyer|Dyer city
+05|20230|Dyess|Dyess town
+05|20320|Earle|Earle city
+05|20440|East Camden|East Camden town
+05|20830|Edmondson|Edmondson town
+05|20920|Egypt|Egypt town
+05|20950|Elaine|Elaine city
+05|21070|El Dorado|El Dorado city
+05|21190|Elkins|Elkins city
+05|21430|Elm Springs|Elm Springs city
+05|21580|Emerson|Emerson town
+05|21610|Emmet|Emmet city
+05|21730|England|England city
+05|21820|Enola|Enola town
+05|22120|Etowah|Etowah town
+05|22180|Eudora|Eudora city
+05|22240|Eureka Springs|Eureka Springs city
+05|22360|Evening Shade|Evening Shade city
+05|22450|Everton|Everton town
+05|22660|Fairfield Bay|Fairfield Bay city
+05|23140|Fargo|Fargo town
+05|23170|Farmington|Farmington city
+05|23290|Fayetteville|Fayetteville city
+05|23320|Felsenthal|Felsenthal town
+05|23680|Fifty-Six|Fifty-Six city
+05|23800|Fisher|Fisher city
+05|24010|Flippin|Flippin city
+05|24220|Fordyce|Fordyce city
+05|24250|Foreman|Foreman city
+05|24430|Forrest City|Forrest City city
+05|24550|Fort Smith|Fort Smith city
+05|24640|Fouke|Fouke city
+05|24670|Fountain Hill|Fountain Hill town
+05|24700|Fountain Lake|Fountain Lake town
+05|24760|Fourche|Fourche town
+05|25030|Franklin|Franklin town
+05|25060|Fredonia (Biscoe)|Fredonia (Biscoe) town
+05|25180|Friendship|Friendship town
+05|25360|Fulton|Fulton town
+05|25750|Garfield|Garfield town
+05|25780|Garland|Garland town
+05|25900|Garner|Garner town
+05|26050|Gassville|Gassville city
+05|26110|Gateway|Gateway town
+05|26290|Gentry|Gentry city
+05|26440|Georgetown|Georgetown town
+05|26800|Gilbert|Gilbert town
+05|26980|Gillett|Gillett city
+05|27010|Gillham|Gillham town
+05|27040|Gilmore|Gilmore city
+05|27310|Glenwood|Glenwood city
+05|27670|Goshen|Goshen town
+05|27700|Gosnell|Gosnell city
+05|27730|Gould|Gould city
+05|27790|Grady|Grady city
+05|27970|Grannis|Grannis city
+05|28360|Gravette|Gravette city
+05|28510|Greenbrier|Greenbrier city
+05|28600|Green Forest|Green Forest city
+05|28660|Greenland|Greenland city
+05|28720|Greenway|Greenway city
+05|28780|Greenwood|Greenwood city
+05|28810|Greers Ferry|Greers Ferry city
+05|28990|Griffithville|Griffithville town
+05|29020|Grubbs|Grubbs city
+05|29080|Guion|Guion town
+05|29140|Gum Springs|Gum Springs town
+05|29200|Gurdon|Gurdon city
+05|29230|Guy|Guy city
+05|29290|Hackett|Hackett city
+05|29500|Hamburg|Hamburg city
+05|29650|Hampton|Hampton city
+05|29920|Hardy|Hardy city
+05|30310|Harrell|Harrell town
+05|30400|Harrisburg|Harrisburg city
+05|30460|Harrison|Harrison city
+05|30490|Hartford|Hartford city
+05|30520|Hartman|Hartman city
+05|30640|Haskell|Haskell city
+05|30700|Hatfield|Hatfield town
+05|30790|Havana|Havana city
+05|30880|Haynes|Haynes town
+05|30940|Hazen|Hazen city
+05|31090|Heber Springs|Heber Springs city
+05|31150|Hector|Hector town
+05|31190|Helena-West Helena|Helena-West Helena city
+05|31540|Hermitage|Hermitage town
+05|31900|Hickory Ridge|Hickory Ridge city
+05|32080|Higden|Higden town
+05|32140|Higginson|Higginson town
+05|32200|Highfill|Highfill town
+05|32257|Highland|Highland city
+05|32470|Hindsville|Hindsville town
+05|32710|Holland|Holland city
+05|32800|Holly Grove|Holly Grove city
+05|33190|Hope|Hope city
+05|33310|Horatio|Horatio city
+05|33370|Horseshoe Bend|Horseshoe Bend city
+05|33375|Horseshoe Lake|Horseshoe Lake town
+05|33400|Hot Springs|Hot Springs city
+05|33490|Houston|Houston town
+05|33580|Hoxie|Hoxie city
+05|33760|Hughes|Hughes city
+05|33820|Humnoke|Humnoke city
+05|33850|Humphrey|Humphrey city
+05|33910|Hunter|Hunter town
+05|33940|Huntington|Huntington city
+05|33970|Huntsville|Huntsville city
+05|34090|Huttig|Huttig city
+05|34150|Imboden|Imboden town
+05|34720|Jacksonport|Jacksonport town
+05|34750|Jacksonville|Jacksonville city
+05|34900|Jasper|Jasper city
+05|35040|Jennette|Jennette town
+05|35140|Jericho|Jericho town
+05|35170|Jerome|Jerome town
+05|35500|Johnson|Johnson city
+05|35650|Joiner|Joiner city
+05|35710|Jonesboro|Jonesboro city
+05|36040|Judsonia|Judsonia city
+05|36130|Junction City|Junction City city
+05|36310|Keiser|Keiser city
+05|36430|Kensett|Kensett city
+05|36550|Keo|Keo town
+05|36670|Kibler|Kibler city
+05|36880|Kingsland|Kingsland city
+05|37240|Knobel|Knobel city
+05|37300|Knoxville|Knoxville town
+05|37660|Lafe|Lafe town
+05|37720|LaGrange|LaGrange town
+05|37780|Lake City|Lake City city
+05|38050|Lakeview|Lakeview city
+05|38110|Lake View|Lake View city
+05|38170|Lake Village|Lake Village city
+05|38290|Lamar|Lamar city
+05|38890|Lavaca|Lavaca city
+05|39010|Leachville|Leachville city
+05|39040|Lead Hill|Lead Hill town
+05|39310|Leola|Leola town
+05|39370|Lepanto|Lepanto city
+05|39460|Leslie|Leslie city
+05|39520|Letona|Letona town
+05|39640|Lewisville|Lewisville city
+05|39670|Lexa|Lexa town
+05|39970|Lincoln|Lincoln city
+05|40120|Little Flock|Little Flock city
+05|41000|Little Rock|Little Rock city
+05|41090|Lockesburg|Lockesburg city
+05|41270|London|London city
+05|41420|Lonoke|Lonoke city
+05|41450|Lonsdale|Lonsdale town
+05|41630|Louann|Louann town
+05|41720|Lowell|Lowell city
+05|42170|Luxora|Luxora city
+05|42260|Lynn|Lynn town
+05|42410|McCaskill|McCaskill town
+05|42500|McCrory|McCrory city
+05|42560|McDougal|McDougal town
+05|42770|McGehee|McGehee city
+05|43070|McNab|McNab town
+05|43100|McNeil|McNeil city
+05|43220|McRae|McRae city
+05|43280|Madison|Madison city
+05|43310|Magazine|Magazine city
+05|43370|Magness|Magness town
+05|43430|Magnet Cove|Magnet Cove town
+05|43460|Magnolia|Magnolia city
+05|43610|Malvern|Malvern city
+05|43670|Mammoth Spring|Mammoth Spring city
+05|43820|Manila|Manila city
+05|43880|Mansfield|Mansfield city
+05|44120|Marianna|Marianna city
+05|44150|Marie|Marie town
+05|44180|Marion|Marion city
+05|44210|Marked Tree|Marked Tree city
+05|44240|Marmaduke|Marmaduke city
+05|44300|Marshall|Marshall city
+05|44420|Marvell|Marvell city
+05|44600|Maumelle|Maumelle city
+05|44750|Mayflower|Mayflower city
+05|44780|Maynard|Maynard town
+05|45080|Melbourne|Melbourne city
+05|45170|Mena|Mena city
+05|45200|Menifee|Menifee town
+05|45500|Midland|Midland town
+05|45560|Midway|Midway town
+05|46040|Mineral Springs|Mineral Springs city
+05|46100|Minturn|Minturn town
+05|46190|Mitchellville|Mitchellville city
+05|46400|Monette|Monette city
+05|46580|Monticello|Monticello city
+05|46670|Montrose|Montrose city
+05|46730|Moorefield|Moorefield town
+05|46910|Moro|Moro town
+05|46970|Morrilton|Morrilton city
+05|47030|Morrison Bluff|Morrison Bluff town
+05|47300|Mountainburg|Mountainburg city
+05|47390|Mountain Home|Mountain Home city
+05|47450|Mountain Pine|Mountain Pine city
+05|47540|Mountain View|Mountain View city
+05|47690|Mount Ida|Mount Ida city
+05|47900|Mount Pleasant|Mount Pleasant town
+05|48020|Mount Vernon|Mount Vernon town
+05|48200|Mulberry|Mulberry city
+05|48290|Murfreesboro|Murfreesboro city
+05|48560|Nashville|Nashville city
+05|49010|Newark|Newark city
+05|49580|Newport|Newport city
+05|49820|Nimmons|Nimmons town
+05|50000|Norfork|Norfork city
+05|50030|Norman|Norman town
+05|50060|Norphlet|Norphlet city
+05|50450|North Little Rock|North Little Rock city
+05|50810|Oak Grove|Oak Grove town
+05|51060|Oak Grove Heights|Oak Grove Heights town
+05|51080|Oakhaven|Oakhaven town
+05|51290|Oden|Oden town
+05|51350|Ogden|Ogden city
+05|51410|Oil Trough|Oil Trough town
+05|51500|O'Kean|O'Kean town
+05|51530|Okolona|Okolona town
+05|51560|Ola|Ola city
+05|52160|Omaha|Omaha town
+05|52430|Oppelo|Oppelo city
+05|52580|Osceola|Osceola city
+05|52880|Oxford|Oxford city
+05|52940|Ozan|Ozan town
+05|52970|Ozark|Ozark city
+05|53150|Palestine|Palestine city
+05|53240|Pangburn|Pangburn city
+05|53390|Paragould|Paragould city
+05|53480|Paris|Paris city
+05|53510|Parkdale|Parkdale city
+05|53600|Parkin|Parkin city
+05|53900|Patmos|Patmos town
+05|53990|Patterson|Patterson city
+05|54140|Peach Orchard|Peach Orchard city
+05|54200|Pea Ridge|Pea Ridge city
+05|54620|Perla|Perla town
+05|54650|Perry|Perry town
+05|54680|Perrytown|Perrytown town
+05|54710|Perryville|Perryville city
+05|55130|Piggott|Piggott city
+05|55280|Pindall|Pindall town
+05|55310|Pine Bluff|Pine Bluff city
+05|55580|Pineville|Pineville town
+05|55970|Plainview|Plainview city
+05|56270|Pleasant Plains|Pleasant Plains town
+05|56480|Plumerville|Plumerville city
+05|56540|Pocahontas|Pocahontas city
+05|56600|Pollard|Pollard city
+05|56720|Portia|Portia town
+05|56750|Portland|Portland city
+05|56990|Pottsville|Pottsville city
+05|57050|Powhatan|Powhatan town
+05|57080|Poyen|Poyen town
+05|57170|Prairie Grove|Prairie Grove city
+05|57230|Prattsville|Prattsville town
+05|57260|Prescott|Prescott city
+05|57890|Pyatt|Pyatt town
+05|57950|Quitman|Quitman city
+05|58160|Ratcliff|Ratcliff city
+05|58250|Ravenden|Ravenden town
+05|58280|Ravenden Springs|Ravenden Springs town
+05|58490|Rector|Rector city
+05|58580|Redfield|Redfield city
+05|58880|Reed|Reed town
+05|59180|Reyno|Reyno city
+05|59480|Rison|Rison city
+05|60020|Rockport|Rockport city
+05|60380|Roe|Roe town
+05|60410|Rogers|Rogers city
+05|60590|Rondo|Rondo town
+05|60770|Rose Bud|Rose Bud town
+05|61040|Rosston|Rosston town
+05|61460|Rudy|Rudy town
+05|61640|Russell|Russell town
+05|61670|Russellville|Russellville city
+05|61940|St. Charles|St. Charles town
+05|61970|St. Francis|St. Francis city
+05|62030|St. Joe|St. Joe town
+05|62060|St. Paul|St. Paul town
+05|62150|Salem|Salem city
+05|62240|Salesville|Salesville city
+05|62960|Scranton|Scranton city
+05|63020|Searcy|Searcy city
+05|63110|Sedgwick|Sedgwick town
+05|63470|Shannon Hills|Shannon Hills city
+05|63710|Sheridan|Sheridan city
+05|63740|Sherrill|Sherrill town
+05|63800|Sherwood|Sherwood city
+05|63980|Shirley|Shirley town
+05|64280|Sidney|Sidney town
+05|64370|Siloam Springs|Siloam Springs city
+05|64730|Smackover|Smackover city
+05|64910|Smithville|Smithville town
+05|65480|South Lead Hill|South Lead Hill town
+05|65900|Sparkman|Sparkman city
+05|66080|Springdale|Springdale city
+05|66200|Springtown|Springtown town
+05|66320|Stamps|Stamps city
+05|66440|Star City|Star City city
+05|66860|Stephens|Stephens city
+05|67250|Strawberry|Strawberry town
+05|67370|Strong|Strong city
+05|67490|Stuttgart|Stuttgart city
+05|67520|Subiaco|Subiaco town
+05|67550|Success|Success town
+05|67730|Sulphur Rock|Sulphur Rock town
+05|67760|Sulphur Springs|Sulphur Springs city
+05|67940|Summit|Summit city
+05|68060|Sunset|Sunset town
+05|68360|Swifton|Swifton city
+05|68660|Taylor|Taylor city
+05|68810|Texarkana|Texarkana city
+05|69050|Thornton|Thornton city
+05|69230|Tillar|Tillar city
+05|69350|Tinsman|Tinsman town
+05|69500|Tollette|Tollette town
+05|69740|Tontitown|Tontitown city
+05|69830|Traskwood|Traskwood city
+05|70010|Trumann|Trumann city
+05|70100|Tuckerman|Tuckerman city
+05|70220|Tull|Tull town
+05|70340|Tupelo|Tupelo town
+05|70430|Turrell|Turrell city
+05|70540|Twin Groves|Twin Groves town
+05|70700|Tyronza|Tyronza city
+05|70760|Ulm|Ulm town
+05|71390|Valley Springs|Valley Springs town
+05|71480|Van Buren|Van Buren city
+05|71510|Vandervoort|Vandervoort town
+05|71900|Victoria|Victoria town
+05|71960|Vilonia|Vilonia city
+05|72140|Viola|Viola town
+05|72230|Wabbaseka|Wabbaseka town
+05|72320|Waldenburg|Waldenburg town
+05|72350|Waldo|Waldo city
+05|72380|Waldron|Waldron city
+05|72890|Walnut Ridge|Walnut Ridge city
+05|73130|Ward|Ward city
+05|73310|Warren|Warren city
+05|73370|Washington|Washington city
+05|73550|Watson|Watson city
+05|73940|Weiner|Weiner city
+05|74000|Weldon|Weldon town
+05|74330|Western Grove|Western Grove town
+05|74360|West Fork|West Fork city
+05|74540|West Memphis|West Memphis city
+05|74660|West Point|West Point town
+05|74840|Wheatley|Wheatley city
+05|74930|Whelen Springs|Whelen Springs town
+05|75170|White Hall|White Hall city
+05|75500|Wickes|Wickes town
+05|75560|Widener|Widener town
+05|75570|Wiederkehr Village|Wiederkehr Village city
+05|75740|Williford|Williford town
+05|75770|Willisville|Willisville town
+05|75860|Wilmar|Wilmar city
+05|75890|Wilmot|Wilmot city
+05|75920|Wilson|Wilson city
+05|75980|Wilton|Wilton city
+05|76010|Winchester|Winchester town
+05|76190|Winslow|Winslow city
+05|76250|Winthrop|Winthrop city
+05|76820|Wooster|Wooster town
+05|76970|Wrightsville|Wrightsville city
+05|77090|Wynne|Wynne city
+05|77330|Yellville|Yellville city
+05|77600|Zinc|Zinc town

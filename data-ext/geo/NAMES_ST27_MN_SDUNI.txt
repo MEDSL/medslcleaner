@@ -1,0 +1,340 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+27|00001|Mountain Iron-Buhl School District|Mountain Iron-Buhl School District
+27|00005|United South Central School District|United South Central School District
+27|00006|Maple River School District|Maple River School District
+27|00007|Kingsland Public School District|Kingsland Public School District
+27|00008|St. Louis County School District|St. Louis County School District
+27|00013|Waterville-Elysian-Morristown School District|Waterville-Elysian-Morristown School District
+27|00017|Chisago Lakes School District|Chisago Lakes School District
+27|00019|Minnewaska School District|Minnewaska School District
+27|00021|Eveleth-Gilbert School District|Eveleth-Gilbert School District
+27|00022|Wadena-Deer Creek School District|Wadena-Deer Creek School District
+27|00023|Buffalo Lake-Hector School District|Buffalo Lake-Hector School District
+27|00024|Warren-Alvarado-Oslo School District|Warren-Alvarado-Oslo School District
+27|00088|Lakeview School District|Lakeview School District
+27|00089|NRHEG School District|NRHEG School District
+27|00090|Murray County Central School District|Murray County Central School District
+27|00091|MACCRAY School District|MACCRAY School District
+27|00099|Yellow Medicine East School District|Yellow Medicine East School District
+27|00100|Fillmore Central Schools|Fillmore Central Schools
+27|00101|Norman County East School District|Norman County East School District
+27|00102|Sibley East School District|Sibley East School District
+27|00103|Clearbrook-Gonvick School District|Clearbrook-Gonvick School District
+27|00104|West Central Area Schools|West Central Area Schools
+27|00105|Belgrade-Brooten-Elrosa School District|Belgrade-Brooten-Elrosa School District
+27|00106|ACGC School District|ACGC School District
+27|00107|Greenbush-Middle River School District|Greenbush-Middle River School District
+27|00108|Pipestone Area School District|Pipestone Area School District
+27|00109|Long Prairie-Grey Eagle School District|Long Prairie-Grey Eagle School District
+27|00110|Cedar Mountain School District|Cedar Mountain School District
+27|00112|Eagle Valley Public School District|Eagle Valley Public School District
+27|00123|Howard Lake-Waverly-Winsted Public School District|Howard Lake-Waverly-Winsted Public School District
+27|00124|Fairmont Area School District|Fairmont Area School District
+27|00125|Lac Qui Parle Valley School District|Lac Qui Parle Valley School District
+27|00126|Ada-Borup Public School District|Ada-Borup Public School District
+27|00127|Stephen-Argyle Central Schools|Stephen-Argyle Central Schools
+27|00128|Glencoe-Silver Lake School District|Glencoe-Silver Lake School District
+27|00130|Blue Earth Area Public School District|Blue Earth Area Public School District
+27|00132|Red Rock Central School District|Red Rock Central School District
+27|00148|Glenville-Emmons School District|Glenville-Emmons School District
+27|00150|Clinton-Graceville-Beardsley Public School District|Clinton-Graceville-Beardsley Public School District
+27|00162|Lake Park Audubon School District|Lake Park Audubon School District
+27|00163|Renville County West School District|Renville County West School District
+27|00182|Redwood Area School District|Redwood Area School District
+27|00183|Westbrook-Walnut Grove Schools|Westbrook-Walnut Grove Schools
+27|00231|Jackson County Central School District|Jackson County Central School District
+27|00287|Plainview-Elgin-Millville Public School District|Plainview-Elgin-Millville Public School District
+27|00294|RTR Public School District|RTR Public School District
+27|00326|Tracy Area Public School District|Tracy Area Public School District
+27|00328|Ortonville -Bellingham Public School District|Ortonville -Bellingham Public School District
+27|02640|Lester Prairie Public School District|Lester Prairie Public School District
+27|02720|Southland Public School District|Southland Public School District
+27|02730|Adrian Public School District|Adrian Public School District
+27|02760|Aitkin Public School District|Aitkin Public School District
+27|02910|Walker-Hackensack-Akeley School District|Walker-Hackensack-Akeley School District
+27|02930|Albany Public School District|Albany Public School District
+27|02970|Albert Lea Public School District|Albert Lea Public School District
+27|03030|Alden-Conger Public School District|Alden-Conger Public School District
+27|03060|Alexandria Public School District|Alexandria Public School District
+27|03150|Annandale Public School District|Annandale Public School District
+27|03180|Anoka-Hennepin Public School District|Anoka-Hennepin Public School District
+27|03300|Ashby Public School District|Ashby Public School District
+27|03450|Austin Public School District|Austin Public School District
+27|03540|Badger Public School District|Badger Public School District
+27|03570|Bagley Public School District|Bagley Public School District
+27|03660|Barnesville Public School District|Barnesville Public School District
+27|03690|Barnum Public School District|Barnum Public School District
+27|03750|Battle Lake Public School District|Battle Lake Public School District
+27|03870|Becker Public School District|Becker Public School District
+27|04050|Belle Plaine Public School District|Belle Plaine Public School District
+27|04440|Bemidji Public School District|Bemidji Public School District
+27|04470|Benson Public School District|Benson Public School District
+27|05430|Bertha-Hewitt Public School District|Bertha-Hewitt Public School District
+27|05460|Big Lake Public School District|Big Lake Public School District
+27|05660|Bird Island-Olivia-Lake Lillian Public School District|Bird Island-Olivia-Lake Lillian Public School District
+27|05730|Blackduck Public School District|Blackduck Public School District
+27|05760|Blooming Prairie Public School District|Blooming Prairie Public School District
+27|05790|Bloomington Public School District|Bloomington Public School District
+27|06060|Braham Public School District|Braham Public School District
+27|06090|Brainerd Public School District|Brainerd Public School District
+27|06120|Brandon Public School District|Brandon Public School District
+27|06150|Breckenridge Public School District|Breckenridge Public School District
+27|06180|Brewster Public School District|Brewster Public School District
+27|06240|Brooklyn Center School District|Brooklyn Center School District
+27|06300|Browerville Public School District|Browerville Public School District
+27|07110|Browns Valley Public School District|Browns Valley Public School District
+27|07200|Buffalo Public School District|Buffalo Public School District
+27|07290|Burnsville Public School District|Burnsville Public School District
+27|07320|Butterfield Public School District|Butterfield Public School District
+27|07350|Byron Public School District|Byron Public School District
+27|07380|Caledonia Public School District|Caledonia Public School District
+27|07410|Cambridge-Isanti Public School District|Cambridge-Isanti Public School District
+27|07450|Campbell-Tintah Public School District|Campbell-Tintah Public School District
+27|07470|Canby Public School District|Canby Public School District
+27|07500|Cannon Falls Public School District|Cannon Falls Public School District
+27|07590|Carlton Public School District|Carlton Public School District
+27|08070|Cass Lake-Bena Schools Public Schools|Cass Lake-Bena Schools Public Schools
+27|08100|Centennial Public School District|Centennial Public School District
+27|08190|Eastern Carver County District 112 Public Schools|Eastern Carver County District 112 Public Schools
+27|08220|Chatfield Public Schools|Chatfield Public Schools
+27|08880|Franconia Public School District|Franconia Public School District
+27|08910|Chisholm Public School District|Chisholm Public School District
+27|08940|Chokio-Alberta Public School District|Chokio-Alberta Public School District
+27|09330|Cleveland Public School District|Cleveland Public School District
+27|09360|Climax Public School District|Climax Public School District
+27|09420|Cloquet Public School District|Cloquet Public School District
+27|09440|Rocori Public School District|Rocori Public School District
+27|09480|Greenway Public School District|Greenway Public School District
+27|09510|Columbia Heights Public School District|Columbia Heights Public School District
+27|09540|Comfrey Public School District|Comfrey Public School District
+27|09690|Cromwell-Wright Public Schools|Cromwell-Wright Public Schools
+27|09720|Crookston Public School District|Crookston Public School District
+27|09750|Crosby-Ironton Public School District|Crosby-Ironton Public School District
+27|09960|Cyrus Public School District|Cyrus Public School District
+27|10060|Dassel-Cokato Public School District|Dassel-Cokato Public School District
+27|10090|Dawson-Boyd Public School District|Dawson-Boyd Public School District
+27|10140|Deer River Public School District|Deer River Public School District
+27|10170|Delano Public School District|Delano Public School District
+27|10230|Detroit Lakes Public School District|Detroit Lakes Public School District
+27|10260|Dilworth-Glyndon-Felton School District|Dilworth-Glyndon-Felton School District
+27|11010|Dover-Eyota Public School District|Dover-Eyota Public School District
+27|11040|Duluth Public School District|Duluth Public School District
+27|11085|East Central School District|East Central School District
+27|11130|East Grand Forks Public School District|East Grand Forks Public School District
+27|11190|Eden Valley-Watkins School District|Eden Valley-Watkins School District
+27|11220|Edgerton Public School District|Edgerton Public School District
+27|11250|Edina Public School District|Edina Public School District
+27|11370|Elk River Public School District|Elk River Public School District
+27|11460|Ellsworth Public School District|Ellsworth Public School District
+27|11520|Ely Public School District|Ely Public School District
+27|11610|Evansville Public School District|Evansville Public School District
+27|11670|Minnetonka Public School District|Minnetonka Public School District
+27|11760|Faribault Public School District|Faribault Public School District
+27|11820|Farmington Public School District|Farmington Public School District
+27|11880|Fergus Falls Public School District|Fergus Falls Public School District
+27|11910|Fertile-Beltrami School District|Fertile-Beltrami School District
+27|12180|Fisher Public School District|Fisher Public School District
+27|12210|Floodwood Public School District|Floodwood Public School District
+27|12240|Foley Public School District|Foley Public School District
+27|12270|Forest Lake Public School District|Forest Lake Public School District
+27|12300|Fosston Public School District|Fosston Public School District
+27|12360|Frazee-Vergas Public School District|Frazee-Vergas Public School District
+27|12420|Fridley Public School District|Fridley Public School District
+27|12480|Fulda Public School District|Fulda Public School District
+27|12580|GFW Schools|GFW Schools
+27|12900|Goodhue Public School District|Goodhue Public School District
+27|13020|Goodridge Public School District|Goodridge Public School District
+27|13040|Granada-Huntley-East Chain Public School District|Granada-Huntley-East Chain Public School District
+27|13110|Cook County Public Schools|Cook County Public Schools
+27|13140|Grand Meadow Public School District|Grand Meadow Public School District
+27|13170|Grand Rapids Public School District|Grand Rapids Public School District
+27|13380|Hancock Public School District|Hancock Public School District
+27|13530|Hastings Public School District|Hastings Public School District
+27|13560|Hawley Public School District|Hawley Public School District
+27|13590|Hayfield Public School District|Hayfield Public School District
+27|13680|Hendricks Public School District|Hendricks Public School District
+27|13860|Henning Public School District|Henning Public School District
+27|13890|Herman-Norcross School District|Herman-Norcross School District
+27|13920|Hermantown Public School District|Hermantown Public School District
+27|13930|Heron Lake-Okabena School District|Heron Lake-Okabena School District
+27|13980|Hibbing Public School District|Hibbing Public School District
+27|14010|Hill City Public School District|Hill City Public School District
+27|14040|Hills-Beaver Creek School District|Hills-Beaver Creek School District
+27|14070|Hinckley-Finlayson School District|Hinckley-Finlayson School District
+27|14190|Holdingford Public School District|Holdingford Public School District
+27|14220|Eden Prairie Public School District|Eden Prairie Public School District
+27|14260|Hopkins Public School District|Hopkins Public School District
+27|14280|Houston Public School District|Houston Public School District
+27|14970|Hutchinson Public School District|Hutchinson Public School District
+27|15000|International Falls Public School District|International Falls Public School District
+27|15030|Inver Grove Heights Schools|Inver Grove Heights Schools
+27|15510|Isle Public School District|Isle Public School District
+27|15540|Ivanhoe Public School District|Ivanhoe Public School District
+27|15750|Jordan Public School District|Jordan Public School District
+27|16830|Prinsburg Public School District|Prinsburg Public School District
+27|16980|Kasson-Mantorville School District|Kasson-Mantorville School District
+27|17010|Kelliher Public School District|Kelliher Public School District
+27|17100|Kenyon-Wanamingo School District|Kenyon-Wanamingo School District
+27|17120|Kerkhoven-Murdock-Sunburg Public School District|Kerkhoven-Murdock-Sunburg Public School District
+27|17220|Kimball Public School District|Kimball Public School District
+27|17250|La Crescent-Hokah School District|La Crescent-Hokah School District
+27|17460|Lake Benton Public School District|Lake Benton Public School District
+27|17520|Lake City Public School District|Lake City Public School District
+27|17570|Lake of the Woods School District|Lake of the Woods School District
+27|17780|Lakeville Public School District|Lakeville Public School District
+27|17880|Lancaster Public School District|Lancaster Public School District
+27|17910|Lanesboro Public School District|Lanesboro Public School District
+27|17940|Laporte Public School District|Laporte Public School District
+27|18030|LeCenter Public School District|LeCenter Public School District
+27|18060|LeRoy Public School District|LeRoy Public School District
+27|18070|LeSueur-Henderson School District|LeSueur-Henderson School District
+27|18090|Lewiston-Altura Public School District|Lewiston-Altura Public School District
+27|18210|Litchfield Public School District|Litchfield Public School District
+27|18240|Little Falls Public School District|Little Falls Public School District
+27|18270|Littlefork-Big Falls School District|Littlefork-Big Falls School District
+27|18330|Luverne Public School District|Luverne Public School District
+27|18360|Lyle Public School District|Lyle Public School District
+27|18390|Lynd Public School District|Lynd Public School District
+27|18540|Mabel-Canton Public School District|Mabel-Canton Public School District
+27|18570|Madelia Public School District|Madelia Public School District
+27|18660|Mahnomen Public School District|Mahnomen Public School District
+27|18750|Mahtomedi Public School District|Mahtomedi Public School District
+27|18780|Mankato Public School District|Mankato Public School District
+27|18810|Maple Lake Public School District|Maple Lake Public School District
+27|18920|Grygla Public School District|Grygla Public School District
+27|18940|Marshall Public School District|Marshall Public School District
+27|18960|Martin County West Public School District|Martin County West Public School District
+27|19170|McGregor Public School District|McGregor Public School District
+27|19320|Medford Public School District|Medford Public School District
+27|20550|Melrose Public School District|Melrose Public School District
+27|20580|Menahga Public School District|Menahga Public School District
+27|20670|Milaca Public School District|Milaca Public School District
+27|21210|Milroy Public School District|Milroy Public School District
+27|21240|Minneapolis Public School District|Minneapolis Public School District
+27|21270|Minneota Public School District|Minneota Public School District
+27|21320|Montevideo Public School District|Montevideo Public School District
+27|21360|Montgomery-Lonsdale School District|Montgomery-Lonsdale School District
+27|21390|Monticello Public School District|Monticello Public School District
+27|21420|Moorhead Public School District|Moorhead Public School District
+27|21450|Moose Lake Public School District|Moose Lake Public School District
+27|21480|Mora Public School District|Mora Public School District
+27|21540|Morris Public School District|Morris Public School District
+27|22920|Westonka Public School District|Westonka Public School District
+27|22950|Mounds View Public School District|Mounds View Public School District
+27|23010|Mountain Lake Public Schools|Mountain Lake Public Schools
+27|23310|Nashwauk-Keewatin School District|Nashwauk-Keewatin School District
+27|23370|Nevis Public School District|Nevis Public School District
+27|23400|New London-Spicer School District|New London-Spicer School District
+27|23430|New Prague Area Schools|New Prague Area Schools
+27|23490|New Ulm Public School District|New Ulm Public School District
+27|23520|New York Mills Public School District|New York Mills Public School District
+27|23550|Marshall County Central Schools|Marshall County Central Schools
+27|23580|Nicollet Public School District|Nicollet Public School District
+27|23820|North Branch Public Schools|North Branch Public Schools
+27|23850|North St. Paul-Maplewood School District|North St. Paul-Maplewood School District
+27|23880|Northfield Public School District|Northfield Public School District
+27|23910|Norwood Public School District|Norwood Public School District
+27|23970|Ogilvie Public School District|Ogilvie Public School District
+27|24030|Oklee Public School District|Oklee Public School District
+27|25050|Onamia Public School District|Onamia Public School District
+27|25080|Orono Public School District|Orono Public School District
+27|25140|Osakis Public School District|Osakis Public School District
+27|25200|Osseo Public School District|Osseo Public School District
+27|28050|Owatonna Public School District|Owatonna Public School District
+27|28080|Park Rapids Public School District|Park Rapids Public School District
+27|28110|Parkers Prairie Public School District|Parkers Prairie Public School District
+27|28140|Paynesville Public School District|Paynesville Public School District
+27|28170|Pelican Rapids Public School District|Pelican Rapids Public School District
+27|28200|Pequot Lakes Public School District|Pequot Lakes Public School District
+27|28230|Perham Public School District|Perham Public School District
+27|28290|Rushford-Peterson Public Schools|Rushford-Peterson Public Schools
+27|28320|Pierz Public School District|Pierz Public School District
+27|28350|Pillager Public School District|Pillager Public School District
+27|28380|Pine City Public School District|Pine City Public School District
+27|28950|Pine Island Public School District|Pine Island Public School District
+27|28960|Pine Point Public School District|Pine Point Public School District
+27|28970|Pine River-Backus Public School District|Pine River-Backus Public School District
+27|29070|Plummer Public School District|Plummer Public School District
+27|30030|Princeton Public School District|Princeton Public School District
+27|30060|Prior Lake-Savage Area Schools|Prior Lake-Savage Area Schools
+27|30090|Proctor Public School District|Proctor Public School District
+27|30150|Randolph Public School District|Randolph Public School District
+27|30450|Red Lake Falls Public School District|Red Lake Falls Public School District
+27|30480|Red Wing Public School District|Red Wing Public School District
+27|30510|Red Lake Public School District|Red Lake Public School District
+27|30870|Northland Community Schools|Northland Community Schools
+27|31750|Richfield Public School District|Richfield Public School District
+27|31780|Robbinsdale Public School District|Robbinsdale Public School District
+27|31800|Rochester Public School District|Rochester Public School District
+27|32070|Rockford Public School District|Rockford Public School District
+27|32250|Roseau Public School District|Roseau Public School District
+27|32390|Rosemount-Apple Valley-Eagan School District|Rosemount-Apple Valley-Eagan School District
+27|32430|Roseville Public School District|Roseville Public School District
+27|32460|Rothsay Public School District|Rothsay Public School District
+27|32490|Round Lake Public School District|Round Lake Public School District
+27|32520|Royalton Public School District|Royalton Public School District
+27|32550|Rush City Public School District|Rush City Public School District
+27|32700|South Koochiching School District|South Koochiching School District
+27|32820|Sartell-St. Stephen School District|Sartell-St. Stephen School District
+27|32850|Sauk Centre Public School District|Sauk Centre Public School District
+27|32880|Sauk Rapids Public School District|Sauk Rapids Public School District
+27|32970|Sebeka Public School District|Sebeka Public School District
+27|33000|Shakopee Public School District|Shakopee Public School District
+27|33210|Sleepy Eye Public School District|Sleepy Eye Public School District
+27|33270|South St. Paul Public School District|South St. Paul Public School District
+27|33300|Spring Grove School District|Spring Grove School District
+27|33330|Spring Lake Park Public Schools|Spring Lake Park Public Schools
+27|33390|Springfield Public School District|Springfield Public School District
+27|33420|St. Anthony-New Brighton Schools|St. Anthony-New Brighton Schools
+27|33450|St. Charles Public School District|St. Charles Public School District
+27|33480|St. Clair Public School District|St. Clair Public School District
+27|33510|St. Cloud Public School District|St. Cloud Public School District
+27|33540|St. Francis Public School District|St. Francis Public School District
+27|33600|St. James Public School District|St. James Public School District
+27|33720|Nett Lake Public School District|Nett Lake Public School District
+27|33780|St. Louis Park Public School District|St. Louis Park Public School District
+27|33790|St. Michael-Albertville School District|St. Michael-Albertville School District
+27|33810|South Washington County School District|South Washington County School District
+27|33840|St. Paul Public School District|St. Paul Public School District
+27|33870|St. Peter Public School District|St. Peter Public School District
+27|33900|Staples-Motley School District|Staples-Motley School District
+27|38160|Stewartville Public School District|Stewartville Public School District
+27|38190|Stillwater Area Public School District|Stillwater Area Public School District
+27|38280|Swanville Public School District|Swanville Public School District
+27|38850|Thief River Falls School District|Thief River Falls School District
+27|38880|Esko Public School District|Esko Public School District
+27|40665|Triton School District|Triton School District
+27|40680|Truman Public School District|Truman Public School District
+27|40740|Lake Superior Public School District|Lake Superior Public School District
+27|40810|Ulen-Hitterdal Public School District|Ulen-Hitterdal Public School District
+27|40830|Underwood Public School District|Underwood Public School District
+27|40860|Upsala Public School District|Upsala Public School District
+27|40920|Verndale Public School District|Verndale Public School District
+27|41040|Virginia Public School District|Virginia Public School District
+27|41060|Wabasha-Kellogg Public School District|Wabasha-Kellogg Public School District
+27|41430|Wabasso Public School District|Wabasso Public School District
+27|41460|Waconia Public School District|Waconia Public School District
+27|41850|Warroad Public School District|Warroad Public School District
+27|41880|Waseca Public School District|Waseca Public School District
+27|41910|Watertown-Mayer Public School District|Watertown-Mayer Public School District
+27|42120|Waubun Public School District|Waubun Public School District
+27|42160|Wayzata Public School District|Wayzata Public School District
+27|42270|West St. Paul-Mendota Heights-Eagan School District|West St. Paul-Mendota Heights-Eagan School District
+27|42330|Wheaton Area School Public School District|Wheaton Area School Public School District
+27|42360|White Bear Lake School District|White Bear Lake School District
+27|42720|Willmar Public School District|Willmar Public School District
+27|42750|Willow River Public School District|Willow River Public School District
+27|42780|Windom Public School District|Windom Public School District
+27|44070|Winona Area Public School District|Winona Area Public School District
+27|44160|Worthington Public School District|Worthington Public School District
+27|44190|Wrenshall Public School District|Wrenshall Public School District
+27|45735|Zumbrota-Mazeppa School District|Zumbrota-Mazeppa School District
+27|91445|Lake Crystal-Wellcome Memorial School District|Lake Crystal-Wellcome Memorial School District
+27|91446|Tri-County School District|Tri-County School District
+27|91447|Kittson Central School District|Kittson Central School District
+27|91448|Norman County West School District|Norman County West School District
+27|91449|Win-E-Mac School District|Win-E-Mac School District
+27|91450|Mesabi East School District|Mesabi East School District
+27|91451|Janesville-Waldorf-Pemberton Public School District|Janesville-Waldorf-Pemberton Public School District
+27|99997|School District Not Defined|School District Not Defined
+27|99998|School District Not Defined (Water)|School District Not Defined (Water)

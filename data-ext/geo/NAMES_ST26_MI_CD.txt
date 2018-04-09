@@ -1,0 +1,16 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+26|01|1|Congressional District 1
+26|02|2|Congressional District 2
+26|03|3|Congressional District 3
+26|04|4|Congressional District 4
+26|05|5|Congressional District 5
+26|06|6|Congressional District 6
+26|07|7|Congressional District 7
+26|08|8|Congressional District 8
+26|09|9|Congressional District 9
+26|10|10|Congressional District 10
+26|11|11|Congressional District 11
+26|12|12|Congressional District 12
+26|13|13|Congressional District 13
+26|14|14|Congressional District 14
+26|15|15|Congressional District 15

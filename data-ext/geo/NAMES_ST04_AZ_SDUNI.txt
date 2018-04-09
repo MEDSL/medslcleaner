@@ -1,0 +1,100 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+04|00001|Cave Creek Unified District|Cave Creek Unified District
+04|00003|Chino Valley Unified District|Chino Valley Unified District
+04|00021|Colorado City Unified District|Colorado City Unified District
+04|00023|Pinon Unified District|Pinon Unified District
+04|00026|Heber-Overgaard Unified District|Heber-Overgaard Unified District
+04|00212|Benson Unified School District|Benson Unified School District
+04|00295|Kingman Unified School District|Kingman Unified School District
+04|00520|Ajo Unified District|Ajo Unified District
+04|00680|Amphitheater Unified District|Amphitheater Unified District
+04|00790|Apache Junction Unified District|Apache Junction Unified District
+04|00910|Ash Fork Joint Unified District|Ash Fork Joint Unified District
+04|01000|Bagdad Unified School District|Bagdad Unified School District
+04|01180|Bisbee Unified District|Bisbee Unified District
+04|01330|Bowie Unified District|Bowie Unified District
+04|01460|Sierra Vista Unified District|Sierra Vista Unified District
+04|01600|Camp Verde Unified District|Camp Verde Unified District
+04|01760|Catalina Foothills Unified District|Catalina Foothills Unified District
+04|01810|Cedar Unified District|Cedar Unified District
+04|01870|Chandler Unified District|Chandler Unified District
+04|01940|Chinle Unified District|Chinle Unified District
+04|02110|Clifton Unified District|Clifton Unified District
+04|02320|Coolidge Unified District|Coolidge Unified District
+04|02530|Douglas Unified District|Douglas Unified District
+04|02600|Duncan Unified District|Duncan Unified District
+04|02690|Dysart Unified District|Dysart Unified District
+04|02860|Flagstaff Unified District|Flagstaff Unified District
+04|02920|Florence Unified School District|Florence Unified School District
+04|03010|Flowing Wells Unified District|Flowing Wells Unified District
+04|03040|Fountain Hills Unified District|Fountain Hills Unified District
+04|03080|Fredonia-Moccasin Unified District|Fredonia-Moccasin Unified District
+04|03150|Fort Huachuca Accommodation District|Fort Huachuca Accommodation District
+04|03200|Fort Thomas Unified District|Fort Thomas Unified District
+04|03290|Ganado Unified District|Ganado Unified District
+04|03310|Gila Bend Unified District|Gila Bend Unified District
+04|03400|Gilbert Unified District|Gilbert Unified District
+04|03500|Globe Unified District|Globe Unified District
+04|03550|Grand Canyon Unified District|Grand Canyon Unified District
+04|03730|Hayden-Winkelman Unified District|Hayden-Winkelman Unified District
+04|03780|Higley Unified District|Higley Unified District
+04|03820|Holbrook Unified District|Holbrook Unified District
+04|03870|Humboldt Unified District|Humboldt Unified District
+04|03950|Indian Oasis-Baboquivari Unified District|Indian Oasis-Baboquivari Unified District
+04|03990|J. O. Combs Unified School District|J. O. Combs Unified School District
+04|04010|Joseph City Unified District|Joseph City Unified District
+04|04060|Kayenta Unified District|Kayenta Unified District
+04|04280|Lake Havasu Unified District|Lake Havasu Unified District
+04|04410|Littlefield Unified District|Littlefield Unified District
+04|04570|Mammoth-San Manuel Unified District|Mammoth-San Manuel Unified District
+04|04630|Marana Unified District|Marana Unified District
+04|04720|Maricopa Unified School District|Maricopa Unified School District
+04|04820|Mayer Unified District|Mayer Unified District
+04|04970|Mesa Unified District|Mesa Unified District
+04|05030|Miami Unified District|Miami Unified District
+04|05320|Morenci Unified District|Morenci Unified District
+04|05460|Nadaburg Unified School District|Nadaburg Unified School District
+04|05530|Nogales Unified District|Nogales Unified District
+04|05820|Page Unified District|Page Unified District
+04|05930|Paradise Valley Unified District|Paradise Valley Unified District
+04|05980|Parker Unified School District|Parker Unified School District
+04|06070|Payson Unified District|Payson Unified District
+04|06120|Peach Springs Unified District|Peach Springs Unified District
+04|06250|Peoria Unified School District|Peoria Unified School District
+04|06440|Pima Unified District|Pima Unified District
+04|06580|Blue Ridge Unified District|Blue Ridge Unified District
+04|06730|Prescott Unified District|Prescott Unified District
+04|06740|Sanders Unified District|Sanders Unified District
+04|06810|Queen Creek Unified District|Queen Creek Unified District
+04|06850|Ray Unified District|Ray Unified District
+04|06870|Red Mesa Unified District|Red Mesa Unified District
+04|06960|San Carlos Unified District|San Carlos Unified District
+04|07130|Round Valley Unified District|Round Valley Unified District
+04|07170|Saddle Mountain Unified School District|Saddle Mountain Unified School District
+04|07240|Safford Unified District|Safford Unified District
+04|07300|Sahuarita Unified District|Sahuarita Unified District
+04|07430|San Simon Unified District|San Simon Unified District
+04|07520|Santa Cruz Valley Unified District|Santa Cruz Valley Unified District
+04|07570|Scottsdale Unified District|Scottsdale Unified District
+04|07630|Seligman Unified District|Seligman Unified District
+04|07700|Show Low Unified District|Show Low Unified District
+04|07750|Deer Valley Unified District|Deer Valley Unified District
+04|07820|Snowflake Unified District|Snowflake Unified District
+04|08020|St. David Unified District|St. David Unified District
+04|08080|St. Johns Unified District|St. Johns Unified District
+04|08170|Sunnyside Unified District|Sunnyside Unified District
+04|08230|Superior Unified School District|Superior Unified School District
+04|08280|Tanque Verde Unified District|Tanque Verde Unified District
+04|08410|Thatcher Unified District|Thatcher Unified District
+04|08600|Tombstone Unified District|Tombstone Unified District
+04|08680|Tuba City Unified District|Tuba City Unified District
+04|08800|Tucson Unified District|Tucson Unified District
+04|08850|Vail Unified District|Vail Unified District
+04|09160|Whiteriver Unified District|Whiteriver Unified District
+04|09190|Wickenburg Unified District|Wickenburg Unified District
+04|09250|Willcox Unified District|Willcox Unified District
+04|09310|Williams Unified District|Williams Unified District
+04|09430|Window Rock Unified District|Window Rock Unified District
+04|09460|Winslow Unified District|Winslow Unified District
+04|09733|Sedona-Oak Creek Joint Unified District|Sedona-Oak Creek Joint Unified District
+04|99997|School District Not Defined|School District Not Defined

@@ -1,0 +1,111 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+32|00500|Alamo|Alamo CDP
+32|03700|Austin|Austin CDP
+32|04100|Baker|Baker CDP
+32|04900|Battle Mountain|Battle Mountain CDP
+32|05100|Beatty|Beatty CDP
+32|05125|Beaverdam|Beaverdam CDP
+32|05275|Bennett Springs|Bennett Springs CDP
+32|05700|Blue Diamond|Blue Diamond CDP
+32|08100|Bunkerville|Bunkerville CDP
+32|08600|Cal-Nev-Ari|Cal-Nev-Ari CDP
+32|10200|Carter Springs|Carter Springs CDP
+32|14090|Cold Springs|Cold Springs CDP
+32|16300|Crescent Valley|Crescent Valley CDP
+32|16700|Crystal Bay|Crystal Bay CDP
+32|17500|Dayton|Dayton CDP
+32|18500|Denio|Denio CDP
+32|19150|Double Spring|Double Spring CDP
+32|19800|Dry Valley|Dry Valley CDP
+32|20700|Dyer|Dyer CDP
+32|21520|East Valley|East Valley CDP
+32|23700|Empire|Empire CDP
+32|23770|Enterprise|Enterprise CDP
+32|23900|Eureka|Eureka CDP
+32|24500|Fallon Station|Fallon Station CDP
+32|25000|Fish Springs|Fish Springs CDP
+32|25490|Fort McDermitt|Fort McDermitt CDP
+32|25900|Gabbs|Gabbs CDP
+32|26300|Gardnerville|Gardnerville CDP
+32|26500|Gardnerville Ranchos|Gardnerville Ranchos CDP
+32|27100|Genoa|Genoa CDP
+32|27300|Gerlach|Gerlach CDP
+32|27900|Glenbrook|Glenbrook CDP
+32|28500|Golconda|Golconda CDP
+32|28860|Golden Valley|Golden Valley CDP
+32|28900|Goldfield|Goldfield CDP
+32|29500|Goodsprings|Goodsprings CDP
+32|30220|Grass Valley|Grass Valley CDP
+32|31300|Hawthorne|Hawthorne CDP
+32|32900|Hiko|Hiko CDP
+32|34100|Humboldt River Ranch|Humboldt River Ranch CDP
+32|34700|Imlay|Imlay CDP
+32|35100|Incline Village|Incline Village CDP
+32|35275|Indian Hills|Indian Hills CDP
+32|35300|Indian Springs|Indian Springs CDP
+32|36500|Jackpot|Jackpot CDP
+32|37190|Johnson Lane|Johnson Lane CDP
+32|38000|Kingsbury|Kingsbury CDP
+32|38100|Kingston|Kingston CDP
+32|39100|Lakeridge|Lakeridge CDP
+32|39300|Lamoille|Lamoille CDP
+32|41000|Laughlin|Laughlin CDP
+32|41800|Lemmon Valley|Lemmon Valley CDP
+32|42350|Logan Creek|Logan Creek CDP
+32|43400|Lund|Lund CDP
+32|44000|McDermitt|McDermitt CDP
+32|44200|McGill|McGill CDP
+32|46800|Mina|Mina CDP
+32|47000|Minden|Minden CDP
+32|47840|Moapa Town|Moapa Town CDP
+32|47880|Moapa Valley|Moapa Valley CDP
+32|48000|Mogul|Mogul CDP
+32|48400|Montello|Montello CDP
+32|49310|Mount Charleston|Mount Charleston CDP
+32|49425|Mount Wilson|Mount Wilson CDP
+32|50400|Nellis AFB|Nellis AFB CDP
+32|50600|Nelson|Nelson CDP
+32|51200|Nixon|Nixon CDP
+32|52200|Oasis|Oasis CDP
+32|53000|Orovada|Orovada CDP
+32|53200|Osino|Osino CDP
+32|53600|Owyhee|Owyhee CDP
+32|53800|Pahrump|Pahrump CDP
+32|54200|Panaca|Panaca CDP
+32|54600|Paradise|Paradise CDP
+32|55400|Paradise Valley|Paradise Valley CDP
+32|57400|Pioche|Pioche CDP
+32|58000|Preston|Preston CDP
+32|58820|Rachel|Rachel CDP
+32|62170|Round Hill Village|Round Hill Village CDP
+32|63450|Ruhenstroth|Ruhenstroth CDP
+32|63800|Ruth|Ruth CDP
+32|64600|Sandy Valley|Sandy Valley CDP
+32|65400|Schurz|Schurz CDP
+32|65600|Searchlight|Searchlight CDP
+32|67000|Silver Peak|Silver Peak CDP
+32|67200|Silver Springs|Silver Springs CDP
+32|67600|Skyland|Skyland CDP
+32|68050|Smith Valley|Smith Valley CDP
+32|68350|Spanish Springs|Spanish Springs CDP
+32|68550|Spring Creek|Spring Creek CDP
+32|68585|Spring Valley|Spring Valley CDP
+32|68800|Stagecoach|Stagecoach CDP
+32|69200|Stateline|Stateline CDP
+32|70900|Summerlin South|Summerlin South CDP
+32|71400|Sunrise Manor|Sunrise Manor CDP
+32|71600|Sun Valley|Sun Valley CDP
+32|71800|Sutcliffe|Sutcliffe CDP
+32|73600|Tonopah|Tonopah CDP
+32|74200|Topaz Lake|Topaz Lake CDP
+32|74400|Topaz Ranch Estates|Topaz Ranch Estates CDP
+32|77200|Ursine|Ursine CDP
+32|78200|Valmy|Valmy CDP
+32|79400|Verdi|Verdi CDP
+32|80000|Virginia City|Virginia City CDP
+32|81000|Wadsworth|Wadsworth CDP
+32|81245|Walker Lake|Walker Lake CDP
+32|82250|Washoe Valley|Washoe Valley CDP
+32|83800|Whitney|Whitney CDP
+32|84600|Winchester|Winchester CDP
+32|86200|Zephyr Cove|Zephyr Cove CDP

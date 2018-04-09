@@ -1,0 +1,13 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+55|0140|Bad River|Bad River Reservation
+55|1125|Fond du Lac|Fond du Lac Reservation and Off-Reservation Trust Land
+55|1135|Forest County Potawatomi|Forest County Potawatomi Community and Off-Reservation Trust Land
+55|1450|Ho-Chunk Nation|Ho-Chunk Nation Reservation and Off-Reservation Trust Land
+55|1815|Lac Courte Oreilles|Lac Courte Oreilles Reservation and Off-Reservation Trust Land
+55|1825|Lac du Flambeau|Lac du Flambeau Reservation
+55|2175|Menominee|Menominee Reservation and Off-Reservation Trust Land
+55|2560|Oneida (WI)|Oneida (WI) Reservation and Off-Reservation Trust Land
+55|3085|Red Cliff|Red Cliff Reservation and Off-Reservation Trust Land
+55|3305|St. Croix|St. Croix Reservation and Off-Reservation Trust Land
+55|3885|Sokaogon Chippewa|Sokaogon Chippewa Community and Off-Reservation Trust Land
+55|4015|Stockbridge Munsee|Stockbridge Munsee Community

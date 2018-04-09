@@ -1,0 +1,30 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+26|00009|Bloomfield Township School District 7F|Bloomfield Township School District 7F
+26|00010|Sigel Township School District 3F|Sigel Township School District 3F
+26|00011|Sigel Township School District 4F|Sigel Township School District 4F
+26|00105|Big Jackson School District|Big Jackson School District
+26|03270|Arvon Township School District|Arvon Township School District
+26|03660|Autrain-Onota Public Schools|Autrain-Onota Public Schools
+26|03960|Bangor Township School District 8|Bangor Township School District 8
+26|05100|Berlin Township School District 3|Berlin Township School District 3
+26|06300|Bois Blanc Pines School District|Bois Blanc Pines School District
+26|09630|Church School District|Church School District
+26|10230|Colfax Township School District 1F|Colfax Township School District 1F
+26|12660|Easton Township School District 6|Easton Township School District 6
+26|13140|Elm River Township School District|Elm River Township School District
+26|13680|Excelsior Township School District 1|Excelsior Township School District 1
+26|15510|Ganges School District 4|Ganges School District 4
+26|16560|Grant Township School District 2|Grant Township School District 2
+26|17340|Hagar Township School District 6|Hagar Township School District 6
+26|19290|Ionia Township School District 2|Ionia Township School District 2
+26|22830|Mar Lee School District|Mar Lee School District
+26|24540|Moran Township School District|Moran Township School District
+26|26100|Nottawa Community School|Nottawa Community School
+26|26430|Oneida Township School District 3|Oneida Township School District 3
+26|27390|Palo Community School District|Palo Community School District
+26|29190|Powell Township Schools|Powell Township Schools
+26|31830|Sigel Township School District 6|Sigel Township School District 6
+26|32070|Sodus Township School District 5|Sodus Township School District 5
+26|32970|Stanton Township Public Schools|Stanton Township Public Schools
+26|34860|Verona Township School District 1F|Verona Township School District 1F
+26|35790|Wells Township School District|Wells Township School District

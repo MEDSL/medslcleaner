@@ -1,0 +1,20 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+10|04130|Bear|Bear CDP
+10|09850|Brookside|Brookside CDP
+10|15310|Claymont|Claymont CDP
+10|21387|Dover Base Housing|Dover Base Housing CDP
+10|23240|Edgemoor|Edgemoor CDP
+10|29350|Glasgow|Glasgow CDP
+10|31430|Greenville|Greenville CDP
+10|34810|Highland Acres|Highland Acres CDP
+10|35850|Hockessin|Hockessin CDP
+10|38710|Kent Acres|Kent Acres CDP
+10|43245|Long Neck|Long Neck CDP
+10|52490|North Star|North Star CDP
+10|56490|Pike Creek|Pike Creek CDP
+10|56500|Pike Creek Valley|Pike Creek Valley CDP
+10|61265|Rising Sun-Lebanon|Rising Sun-Lebanon CDP
+10|61480|Riverview|Riverview CDP
+10|61720|Rodney Village|Rodney Village CDP
+10|77840|Wilmington Manor|Wilmington Manor CDP
+10|80895|Woodside East|Woodside East CDP

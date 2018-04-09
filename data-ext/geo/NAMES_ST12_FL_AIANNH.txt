@@ -1,0 +1,11 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+12|0225|Big Cypress|Big Cypress Reservation
+12|0360|Brighton|Brighton Reservation
+12|0690|Coconut Creek|Coconut Creek Trust Land
+12|1260|Fort Pierce|Fort Pierce Reservation
+12|1475|Hollywood|Hollywood Reservation
+12|1555|Immokalee|Immokalee Reservation
+12|2240|Miccosukee|Miccosukee Reservation and Off-Reservation Trust Land
+12|2865|Poarch Creek|Poarch Creek Reservation and Off-Reservation Trust Land
+12|3665|Seminole (FL)|Seminole (FL) Trust Land
+12|4130|Tampa|Tampa Reservation

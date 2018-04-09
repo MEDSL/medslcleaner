@@ -1,0 +1,342 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+35|00240|Abeytas|Abeytas CDP
+35|00310|Abiquiu|Abiquiu CDP
+35|00765|Acomita Lake|Acomita Lake CDP
+35|00940|Adelino|Adelino CDP
+35|01220|Agua Fria|Agua Fria CDP
+35|01640|Alamillo|Alamillo CDP
+35|01710|Alamo|Alamo CDP
+35|02070|Alcalde|Alcalde CDP
+35|02210|Algodones|Algodones CDP
+35|03750|Animas|Animas CDP
+35|03820|Anthony|Anthony CDP
+35|03890|Anton Chico|Anton Chico CDP
+35|03970|Anzac Village|Anzac Village CDP
+35|04030|Apache Creek|Apache Creek CDP
+35|04450|Aragon|Aragon CDP
+35|04660|Arenas Valley|Arenas Valley CDP
+35|04870|Arrey|Arrey CDP
+35|05010|Arroyo Hondo|Arroyo Hondo CDP
+35|05150|Arroyo Seco|Arroyo Seco CDP
+35|05430|Atoka|Atoka CDP
+35|06425|Beclabito|Beclabito CDP
+35|06760|Bent|Bent CDP
+35|06830|Berino|Berino CDP
+35|07145|Bibo|Bibo CDP
+35|07670|Black Rock|Black Rock CDP
+35|07810|Blanco|Blanco CDP
+35|08185|Bluewater Acres|Bluewater Acres CDP
+35|08190|Bluewater Village|Bluewater Village CDP
+35|08440|Boles Acres|Boles Acres CDP
+35|08860|Brazos|Brazos CDP
+35|09035|Brimhall Nizhoni|Brimhall Nizhoni CDP
+35|09630|Buckhorn|Buckhorn CDP
+35|10050|Caballo|Caballo CDP
+35|10470|Cañada de los Alamos|Cañada de los Alamos CDP
+35|10610|Canjilon|Canjilon CDP
+35|10750|Cannon AFB|Cannon AFB CDP
+35|10770|Cañon|Cañon CDP
+35|11310|Cañones|Cañones CDP
+35|11520|Canova|Canova CDP
+35|12008|Gallina|Gallina CDP
+35|12010|Capulin|Capulin CDP
+35|12430|Carnuel|Carnuel CDP
+35|12786|Casa Colorada|Casa Colorada CDP
+35|13200|Cedar Crest|Cedar Crest CDP
+35|13270|Cedar Grove|Cedar Grove CDP
+35|13340|Cedar Hill|Cedar Hill CDP
+35|13450|Cedro|Cedro CDP
+35|14040|Chamberino|Chamberino CDP
+35|14110|Chamisal|Chamisal CDP
+35|14180|Chamita|Chamita CDP
+35|14200|Chamizal|Chamizal CDP
+35|14250|Chaparral|Chaparral CDP
+35|14670|Chical|Chical CDP
+35|14810|Chili|Chili CDP
+35|14880|Chilili|Chilili CDP
+35|14950|Chimayo|Chimayo CDP
+35|15300|Chupadero|Chupadero CDP
+35|15370|Church Rock|Church Rock CDP
+35|15560|City of the Sun|City of the Sun CDP
+35|15860|Cliff|Cliff CDP
+35|16490|Cobre|Cobre CDP
+35|16560|Cochiti|Cochiti CDP
+35|16585|Cochiti Lake|Cochiti Lake CDP
+35|17260|Conchas Dam|Conchas Dam CDP
+35|17610|Cordova|Cordova CDP
+35|18240|Costilla|Costilla CDP
+35|18310|Cotton City|Cotton City CDP
+35|18660|Coyote|Coyote CDP
+35|18940|Crownpoint|Crownpoint CDP
+35|19010|Cruzville|Cruzville CDP
+35|19080|Crystal|Crystal CDP
+35|19110|Cuartelez|Cuartelez CDP
+35|19220|Cubero|Cubero CDP
+35|19500|Cundiyo|Cundiyo CDP
+35|19640|Cuyamungue|Cuyamungue CDP
+35|19645|Cuyamungue Grant|Cuyamungue Grant CDP
+35|19920|Datil|Datil CDP
+35|20830|Dixon|Dixon CDP
+35|21110|Doña Ana|Doña Ana CDP
+35|21390|Dulce|Dulce CDP
+35|21810|Duran|Duran CDP
+35|22230|East Pecos|East Pecos CDP
+35|22390|Edith Endave|Edith Endave CDP
+35|22580|El Cerro|El Cerro CDP
+35|22582|El Cerro Mission|El Cerro Mission CDP
+35|22625|Eldorado at Santa Fe|Eldorado at Santa Fe CDP
+35|22650|El Duende|El Duende CDP
+35|23840|El Rancho|El Rancho CDP
+35|24120|El Rito|El Rito CDP
+35|24347|El Valle de Arroyo Seco|El Valle de Arroyo Seco CDP
+35|24540|Encinal|Encinal CDP
+35|24960|Ensenada|Ensenada CDP
+35|25100|Escondida|Escondida CDP
+35|25135|Escudilla Bonita|Escudilla Bonita CDP
+35|25590|Fairacres|Fairacres CDP
+35|25870|Faywood|Faywood CDP
+35|26010|Fence Lake|Fence Lake CDP
+35|26360|Flora Vista|Flora Vista CDP
+35|27970|Galisteo|Galisteo CDP
+35|28670|Garfield|Garfield CDP
+35|29160|Gila|Gila CDP
+35|29540|Glen Acres|Glen Acres CDP
+35|29790|Glenwood|Glenwood CDP
+35|29860|Glorieta|Glorieta CDP
+35|30000|Golden|Golden CDP
+35|31190|Hachita|Hachita CDP
+35|31540|Hanover|Hanover CDP
+35|31680|Happy Valley|Happy Valley CDP
+35|32100|Hernandez|Hernandez CDP
+35|32148|Highland Meadows|Highland Meadows CDP
+35|32160|High Rolls|High Rolls CDP
+35|32380|Hillsboro|Hillsboro CDP
+35|32940|Holloman AFB|Holloman AFB CDP
+35|33130|Homestead|Homestead CDP
+35|33640|Hot Springs Landing|Hot Springs Landing CDP
+35|34430|Indian Hills|Indian Hills CDP
+35|34760|Isleta Village Proper|Isleta Village Proper CDP
+35|34900|Jacona|Jacona CDP
+35|34925|Jaconita|Jaconita CDP
+35|35110|Jarales|Jarales CDP
+35|35250|Jemez Pueblo|Jemez Pueblo CDP
+35|35595|Keeler Farm|Keeler Farm CDP
+35|36090|Kingston|Kingston CDP
+35|36230|Kirtland|Kirtland CDP
+35|36720|La Cienega|La Cienega CDP
+35|36880|La Cueva|La Cueva CDP
+35|37070|Laguna|Laguna CDP
+35|37407|La Hacienda|La Hacienda CDP
+35|37420|La Huerta|La Huerta CDP
+35|37490|La Jara|La Jara CDP
+35|37700|La Joya|La Joya CDP
+35|37860|Lake Roberts|Lake Roberts CDP
+35|37862|Lake Roberts Heights|Lake Roberts Heights CDP
+35|37875|Lake Sumner|Lake Sumner CDP
+35|37910|Lake Valley|Lake Valley CDP
+35|38330|La Luz|La Luz CDP
+35|38470|La Madera|La Madera CDP
+35|38680|La Mesa|La Mesa CDP
+35|38820|La Mesilla|La Mesilla CDP
+35|38890|Lamy|Lamy CDP
+35|39030|La Plata|La Plata CDP
+35|39170|La Puebla|La Puebla CDP
+35|39430|Las Maravillas|Las Maravillas CDP
+35|39450|Las Nutrias|Las Nutrias CDP
+35|39520|Las Palomas|Las Palomas CDP
+35|40220|La Union|La Union CDP
+35|40360|La Villita|La Villita CDP
+35|40525|Lee Acres|Lee Acres CDP
+35|40570|Lemitar|Lemitar CDP
+35|41420|Livingston Wheeler|Livingston Wheeler CDP
+35|41620|Llano del Medio|Llano del Medio CDP
+35|41970|Loco Hills|Loco Hills CDP
+35|42320|Los Alamos|Los Alamos CDP
+35|42600|Los Cerrillos|Los Cerrillos CDP
+35|42740|Los Chaves|Los Chaves CDP
+35|43300|Los Luceros|Los Luceros CDP
+35|43510|Los Ojos|Los Ojos CDP
+35|44595|Lower Frisco|Lower Frisco CDP
+35|45190|Luis Lopez|Luis Lopez CDP
+35|45260|Lumberton|Lumberton CDP
+35|45330|Luna|Luna CDP
+35|45400|Lyden|Lyden CDP
+35|45690|McCartys Village|McCartys Village CDP
+35|46030|McIntosh|McIntosh CDP
+35|46100|Madrid|Madrid CDP
+35|46170|Madrone|Madrone CDP
+35|46380|Malaga|Malaga CDP
+35|46730|Manzano|Manzano CDP
+35|46770|Manzano Springs|Manzano Springs CDP
+35|47150|Mayhill|Mayhill CDP
+35|47220|Meadow Lake|Meadow Lake CDP
+35|47920|Mescalero|Mescalero CDP
+35|48200|Mesita|Mesita CDP
+35|48270|Mesquite|Mesquite CDP
+35|48425|Middle Frisco|Middle Frisco CDP
+35|48480|Midway|Midway CDP
+35|48830|Mimbres|Mimbres CDP
+35|49515|Monterey Park|Monterey Park CDP
+35|49950|Monument|Monument CDP
+35|50020|Moquino|Moquino CDP
+35|50090|Mora|Mora CDP
+35|50195|Morningside|Morningside CDP
+35|50515|Mountain View|Mountain View CDP
+35|50720|Nadine|Nadine CDP
+35|50790|Nageezi|Nageezi CDP
+35|50860|Nakaibito|Nakaibito CDP
+35|50930|Nambe|Nambe CDP
+35|51035|Napi Headquarters|Napi Headquarters CDP
+35|51140|Nara Visa|Nara Visa CDP
+35|51280|Naschitti|Naschitti CDP
+35|51420|Navajo|Navajo CDP
+35|51490|Navajo Dam|Navajo Dam CDP
+35|51715|Nenahnezad|Nenahnezad CDP
+35|51770|Newcomb|Newcomb CDP
+35|51840|Newkirk|Newkirk CDP
+35|52190|Nogal|Nogal CDP
+35|52300|North Acomita Village|North Acomita Village CDP
+35|52500|North Hobbs|North Hobbs CDP
+35|52540|North Hurley|North Hurley CDP
+35|52560|North Light Plant|North Light Plant CDP
+35|52680|North San Ysidro|North San Ysidro CDP
+35|52750|North Valley|North Valley CDP
+35|53010|Oasis|Oasis CDP
+35|53150|Ohkay Owingeh|Ohkay Owingeh CDP
+35|53485|Ojo Amarillo|Ojo Amarillo CDP
+35|54430|Organ|Organ CDP
+35|54500|Orogrande|Orogrande CDP
+35|54710|Paguate|Paguate CDP
+35|54940|Pajarito Mesa|Pajarito Mesa CDP
+35|55270|Paradise Hills|Paradise Hills CDP
+35|55340|Paraje|Paraje CDP
+35|55550|Pastura|Pastura CDP
+35|55595|Peak Place|Peak Place CDP
+35|55605|Pecan Park|Pecan Park CDP
+35|55830|Peña Blanca|Peña Blanca CDP
+35|55900|Peñasco|Peñasco CDP
+35|56810|Picuris Pueblo|Picuris Pueblo CDP
+35|56950|Pie Town|Pie Town CDP
+35|57190|Pinehill|Pinehill CDP
+35|57440|Pinon|Pinon CDP
+35|57510|Pinos Altos|Pinos Altos CDP
+35|57990|Placitas|Placitas CDP
+35|58070|Placitas|Placitas CDP
+35|58210|Playas|Playas CDP
+35|58420|Pleasanton|Pleasanton CDP
+35|58630|Pojoaque|Pojoaque CDP
+35|58910|Polvadera|Polvadera CDP
+35|58980|Ponderosa|Ponderosa CDP
+35|59120|Ponderosa Pine|Ponderosa Pine CDP
+35|59750|Pueblito|Pueblito CDP
+35|59820|Pueblitos|Pueblitos CDP
+35|59860|Pueblo|Pueblo CDP
+35|59950|Pueblo of Sandia Village|Pueblo of Sandia Village CDP
+35|60000|Pueblo Pintado|Pueblo Pintado CDP
+35|60170|Puerto de Luna|Puerto de Luna CDP
+35|60205|Pulpotio Bareas|Pulpotio Bareas CDP
+35|60730|Quemado|Quemado CDP
+35|61010|Radium Springs|Radium Springs CDP
+35|61220|Ramah|Ramah CDP
+35|61675|Rancho Grande|Rancho Grande CDP
+35|61710|Ranchos de Taos|Ranchos de Taos CDP
+35|62340|Regina|Regina CDP
+35|62760|Ribera|Ribera CDP
+35|62900|Rincon|Rincon CDP
+35|63145|Rio Communities|Rio Communities CDP
+35|63168|Rio en Medio|Rio en Medio CDP
+35|63250|Rio Lucio|Rio Lucio CDP
+35|63660|Rivers|Rivers CDP
+35|64230|Rock Springs|Rock Springs CDP
+35|64370|Rodeo|Rodeo CDP
+35|64440|Rodey|Rodey CDP
+35|64900|Rosedale|Rosedale CDP
+35|65000|Rowe|Rowe CDP
+35|65560|Sacramento|Sacramento CDP
+35|65840|Salem|Salem CDP
+35|65910|San Acacia|San Acacia CDP
+35|66120|San Antonio|San Antonio CDP
+35|66330|San Antonito|San Antonito CDP
+35|66400|San Antonito|San Antonito CDP
+35|66540|San Cristobal|San Cristobal CDP
+35|66765|Sandia Heights|Sandia Heights CDP
+35|66890|Sandia Knolls|Sandia Knolls CDP
+35|66960|Sandia Park|Sandia Park CDP
+35|67450|San Felipe Pueblo|San Felipe Pueblo CDP
+35|67520|San Fidel|San Fidel CDP
+35|68010|San Ildefonso Pueblo|San Ildefonso Pueblo CDP
+35|68430|San Jose|San Jose CDP
+35|68500|San Jose|San Jose CDP
+35|68920|San Lorenzo|San Lorenzo CDP
+35|69060|San Luis|San Luis CDP
+35|69270|San Mateo|San Mateo CDP
+35|69410|San Miguel|San Miguel CDP
+35|69620|Sanostee|Sanostee CDP
+35|69645|San Pablo|San Pablo CDP
+35|69825|San Pedro|San Pedro CDP
+35|69875|San Rafael|San Rafael CDP
+35|70250|Santa Ana Pueblo|Santa Ana Pueblo CDP
+35|70390|Santa Clara Pueblo|Santa Clara Pueblo CDP
+35|70460|Santa Cruz|Santa Cruz CDP
+35|70700|Santa Teresa|Santa Teresa CDP
+35|70810|Santo Domingo Pueblo|Santo Domingo Pueblo CDP
+35|71015|San Ysidro|San Ysidro CDP
+35|71145|Sausal|Sausal CDP
+35|71440|Seama|Seama CDP
+35|71510|Seboyeta|Seboyeta CDP
+35|71700|Sedillo|Sedillo CDP
+35|71790|Sena|Sena CDP
+35|72600|Sheep Springs|Sheep Springs CDP
+35|72770|Shiprock|Shiprock CDP
+35|73440|Skyline-Ganipa|Skyline-Ganipa CDP
+35|73680|Soham|Soham CDP
+35|73890|Sombrillo|Sombrillo CDP
+35|73925|South Acomita Village|South Acomita Village CDP
+35|74520|South Valley|South Valley CDP
+35|74660|Spencerville|Spencerville CDP
+35|75710|Sunshine|Sunshine CDP
+35|76060|Tajique|Tajique CDP
+35|76130|Talpa|Talpa CDP
+35|76410|Taos Pueblo|Taos Pueblo CDP
+35|76760|Tecolote|Tecolote CDP
+35|76830|Tecolotito|Tecolotito CDP
+35|77040|Tesuque|Tesuque CDP
+35|77100|Tesuque Pueblo|Tesuque Pueblo CDP
+35|77530|Thoreau|Thoreau CDP
+35|77670|Tierra Amarilla|Tierra Amarilla CDP
+35|77950|Timberon|Timberon CDP
+35|78440|Tohatchi|Tohatchi CDP
+35|78650|Tome|Tome CDP
+35|79070|Torreon|Torreon CDP
+35|79140|Torreon|Torreon CDP
+35|79680|Trout Valley|Trout Valley CDP
+35|79700|Truchas|Truchas CDP
+35|79885|Tse Bonito|Tse Bonito CDP
+35|80470|Twin Forks|Twin Forks CDP
+35|80540|Twin Lakes|Twin Lakes CDP
+35|80820|Tyrone|Tyrone CDP
+35|81030|University Park|University Park CDP
+35|81177|Upper Fruitland|Upper Fruitland CDP
+35|81450|Ute Park|Ute Park CDP
+35|81520|Vadito|Vadito CDP
+35|81590|Vado|Vado CDP
+35|81800|Valencia|Valencia CDP
+35|82640|Veguita|Veguita CDP
+35|82710|Velarde|Velarde CDP
+35|82800|Ventura|Ventura CDP
+35|83130|Villanueva|Villanueva CDP
+35|83760|Waterflow|Waterflow CDP
+35|83830|Watrous|Watrous CDP
+35|83970|Weed|Weed CDP
+35|84200|West Hammond|West Hammond CDP
+35|84740|White Rock|White Rock CDP
+35|84845|White Sands|White Sands CDP
+35|84950|Whites City|Whites City CDP
+35|84975|White Signal|White Signal CDP
+35|85485|Windmill|Windmill CDP
+35|85720|Winston|Winston CDP
+35|85860|Yah-ta-hey|Yah-ta-hey CDP
+35|86175|Young Place|Young Place CDP
+35|86210|Youngsville|Youngsville CDP
+35|86420|Zia Pueblo|Zia Pueblo CDP
+35|86595|Zuni Pueblo|Zuni Pueblo CDP

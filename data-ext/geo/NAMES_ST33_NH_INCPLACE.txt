@@ -1,0 +1,14 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+33|05140|Berlin|Berlin city
+33|12900|Claremont|Claremont city
+33|14200|Concord|Concord city
+33|18820|Dover|Dover city
+33|27380|Franklin|Franklin city
+33|39300|Keene|Keene city
+33|40180|Laconia|Laconia city
+33|41300|Lebanon|Lebanon city
+33|45140|Manchester|Manchester city
+33|50260|Nashua|Nashua city
+33|62900|Portsmouth|Portsmouth city
+33|65140|Rochester|Rochester city
+33|69940|Somersworth|Somersworth city

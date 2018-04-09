@@ -1,0 +1,68 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+12|00030|Alachua County School District|Alachua County School District
+12|00060|Baker County School District|Baker County School District
+12|00090|Bay County School District|Bay County School District
+12|00120|Bradford County School District|Bradford County School District
+12|00150|Brevard County School District|Brevard County School District
+12|00180|Broward County School District|Broward County School District
+12|00210|Calhoun County School District|Calhoun County School District
+12|00240|Charlotte County School District|Charlotte County School District
+12|00270|Citrus County School District|Citrus County School District
+12|00300|Clay County School District|Clay County School District
+12|00330|Collier County School District|Collier County School District
+12|00360|Columbia County School District|Columbia County School District
+12|00390|Dade County School District|Dade County School District
+12|00420|DeSoto County School District|DeSoto County School District
+12|00450|Dixie County School District|Dixie County School District
+12|00480|Duval County School District|Duval County School District
+12|00510|Escambia County School District|Escambia County School District
+12|00540|Flagler County School District|Flagler County School District
+12|00570|Franklin County School District|Franklin County School District
+12|00600|Gadsden County School District|Gadsden County School District
+12|00630|Gilchrist County School District|Gilchrist County School District
+12|00660|Glades County School District|Glades County School District
+12|00690|Gulf County School District|Gulf County School District
+12|00720|Hamilton County School District|Hamilton County School District
+12|00750|Hardee County School District|Hardee County School District
+12|00780|Hendry County School District|Hendry County School District
+12|00810|Hernando County School District|Hernando County School District
+12|00840|Highlands County School District|Highlands County School District
+12|00870|Hillsborough County School District|Hillsborough County School District
+12|00900|Holmes County School District|Holmes County School District
+12|00930|Indian River County School District|Indian River County School District
+12|00960|Jackson County School District|Jackson County School District
+12|00990|Jefferson County School District|Jefferson County School District
+12|01020|Lafayette County School District|Lafayette County School District
+12|01050|Lake County School District|Lake County School District
+12|01080|Lee County School District|Lee County School District
+12|01110|Leon County School District|Leon County School District
+12|01140|Levy County School District|Levy County School District
+12|01170|Liberty County School District|Liberty County School District
+12|01200|Madison County School District|Madison County School District
+12|01230|Manatee County School District|Manatee County School District
+12|01260|Marion County School District|Marion County School District
+12|01290|Martin County School District|Martin County School District
+12|01320|Monroe County School District|Monroe County School District
+12|01350|Nassau County School District|Nassau County School District
+12|01380|Okaloosa County School District|Okaloosa County School District
+12|01410|Okeechobee County School District|Okeechobee County School District
+12|01440|Orange County School District|Orange County School District
+12|01470|Osceola County School District|Osceola County School District
+12|01500|Palm Beach County School District|Palm Beach County School District
+12|01530|Pasco County School District|Pasco County School District
+12|01560|Pinellas County School District|Pinellas County School District
+12|01590|Polk County School District|Polk County School District
+12|01620|Putnam County School District|Putnam County School District
+12|01650|Santa Rosa County School District|Santa Rosa County School District
+12|01680|Sarasota County School District|Sarasota County School District
+12|01710|Seminole County School District|Seminole County School District
+12|01740|St. Johns County School District|St. Johns County School District
+12|01770|St. Lucie County School District|St. Lucie County School District
+12|01800|Sumter County School District|Sumter County School District
+12|01830|Suwannee County School District|Suwannee County School District
+12|01860|Taylor County School District|Taylor County School District
+12|01890|Union County School District|Union County School District
+12|01920|Volusia County School District|Volusia County School District
+12|01950|Wakulla County School District|Wakulla County School District
+12|01980|Walton County School District|Walton County School District
+12|02010|Washington County School District|Washington County School District

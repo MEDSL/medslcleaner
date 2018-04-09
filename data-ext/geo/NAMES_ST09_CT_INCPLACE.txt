@@ -1,0 +1,31 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+09|01150|Ansonia|Ansonia city
+09|02690|Bantam|Bantam borough
+09|08000|Bridgeport|Bridgeport city
+09|08420|Bristol|Bristol city
+09|18430|Danbury|Danbury city
+09|18780|Danielson|Danielson borough
+09|19480|Derby|Derby city
+09|27810|Fenwick|Fenwick borough
+09|34180|Groton|Groton city
+09|34460|Groton Long Point|Groton Long Point borough
+09|37000|Hartford|Hartford city
+09|39940|Jewett City|Jewett City borough
+09|43300|Litchfield|Litchfield borough
+09|46450|Meriden|Meriden city
+09|47290|Middletown|Middletown city
+09|47515|Milford city (balance)|Milford city (balance)
+09|49880|Naugatuck|Naugatuck borough
+09|50370|New Britain|New Britain city
+09|52000|New Haven|New Haven city
+09|52280|New London|New London city
+09|52910|Newtown|Newtown borough
+09|55990|Norwalk|Norwalk city
+09|56200|Norwich|Norwich city
+09|68100|Shelton|Shelton city
+09|73000|Stamford|Stamford city
+09|73700|Stonington|Stonington borough
+09|76500|Torrington|Torrington city
+09|80000|Waterbury|Waterbury city
+09|82800|West Haven|West Haven city
+09|88050|Woodmont|Woodmont borough

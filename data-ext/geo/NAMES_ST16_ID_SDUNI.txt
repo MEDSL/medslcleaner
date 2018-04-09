@@ -1,0 +1,116 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+16|00001|West Bonner County School District 83|West Bonner County School District 83
+16|00002|Lake Pend Oreille School District 84|Lake Pend Oreille School District 84
+16|00009|Troy School District 287|Troy School District 287
+16|00010|Whitepine Joint School District 288|Whitepine Joint School District 288
+16|00030|Aberdeen School District 58|Aberdeen School District 58
+16|00060|American Falls Joint School District 381|American Falls Joint School District 381
+16|00090|Arbon Elementary School District 383|Arbon Elementary School District 383
+16|00138|Salmon River School District 243|Salmon River School District 243
+16|00139|Mountain View School District 244|Mountain View School District 244
+16|00150|Avery School District 394|Avery School District 394
+16|00180|Basin School District 72|Basin School District 72
+16|00240|Bear Lake County School District 33|Bear Lake County School District 33
+16|00270|Blackfoot School District 55|Blackfoot School District 55
+16|00300|Blaine County School District 61|Blaine County School District 61
+16|00330|Bliss Joint School District 234|Bliss Joint School District 234
+16|00360|Boise City Independent School District 1|Boise City Independent School District 1
+16|00420|Boundary County School District 101|Boundary County School District 101
+16|00450|Bruneau-Grand View Joint School District 365|Bruneau-Grand View Joint School District 365
+16|00480|Buhl Joint School District 412|Buhl Joint School District 412
+16|00490|Butte County Joint School District 111|Butte County Joint School District 111
+16|00510|Caldwell School District 132|Caldwell School District 132
+16|00540|Camas County School District 121|Camas County School District 121
+16|00570|Cambridge Joint School District 432|Cambridge Joint School District 432
+16|00600|Vallivue School District 139|Vallivue School District 139
+16|00630|Cascade School District 422|Cascade School District 422
+16|00660|Cassia County Joint School District 151|Cassia County Joint School District 151
+16|00690|Castleford School District 417|Castleford School District 417
+16|00720|Challis Joint School District 181|Challis Joint School District 181
+16|00750|Clark County School District 161|Clark County School District 161
+16|00780|Coeur d'Alene School District 271|Coeur d'Alene School District 271
+16|00810|Cottonwood Joint School District 242|Cottonwood Joint School District 242
+16|00815|Plummer-Worley Joint School District 44|Plummer-Worley Joint School District 44
+16|00840|Council School District 13|Council School District 13
+16|00870|Culdesac Joint School District 342|Culdesac Joint School District 342
+16|00900|Dietrich School District 314|Dietrich School District 314
+16|00930|Bonneville Joint School District 93|Bonneville Joint School District 93
+16|00960|Preston Joint School District 201|Preston Joint School District 201
+16|01020|Emmett Independent School District 221|Emmett Independent School District 221
+16|01050|Filer School District 413|Filer School District 413
+16|01080|Firth School District 59|Firth School District 59
+16|01110|Fremont County Joint School District 215|Fremont County Joint School District 215
+16|01140|Fruitland School District 373|Fruitland School District 373
+16|01170|Garden Valley School District 71|Garden Valley School District 71
+16|01200|Genesee Joint School District 282|Genesee Joint School District 282
+16|01230|Glenns Ferry Joint School District 192|Glenns Ferry Joint School District 192
+16|01260|Gooding Joint School District 231|Gooding Joint School District 231
+16|01290|Grace Joint School District 148|Grace Joint School District 148
+16|01380|Hagerman Joint School District 233|Hagerman Joint School District 233
+16|01410|Hansen School District 415|Hansen School District 415
+16|01440|Highland Joint School District 305|Highland Joint School District 305
+16|01470|Homedale Joint School District 370|Homedale Joint School District 370
+16|01500|Horseshoe Bend School District 73|Horseshoe Bend School District 73
+16|01530|Idaho Falls School District 91|Idaho Falls School District 91
+16|01570|Jefferson County Joint School District 251|Jefferson County Joint School District 251
+16|01590|Jerome Joint School District 261|Jerome Joint School District 261
+16|01620|Kamiah Joint School District 304|Kamiah Joint School District 304
+16|01650|Kellogg Joint School District 391|Kellogg Joint School District 391
+16|01680|Kendrick Joint School District 283|Kendrick Joint School District 283
+16|01710|Kimberly School District 414|Kimberly School District 414
+16|01740|Kootenai Joint School District 274|Kootenai Joint School District 274
+16|01770|Kuna Joint School District 3|Kuna Joint School District 3
+16|01800|Lakeland Joint School District 272|Lakeland Joint School District 272
+16|01830|Lapwai School District 341|Lapwai School District 341
+16|01860|Lewiston Independent School District 340|Lewiston Independent School District 340
+16|01900|Mackay Joint School District 182|Mackay Joint School District 182
+16|01920|Madison School District 321|Madison School District 321
+16|01950|Marsh Valley Joint School District 21|Marsh Valley Joint School District 21
+16|01980|Marsing Joint School District 363|Marsing Joint School District 363
+16|02030|McCall-Donnelly Joint School District 421|McCall-Donnelly Joint School District 421
+16|02060|Meadows Valley School District 11|Meadows Valley School District 11
+16|02070|Melba Joint School District 136|Melba Joint School District 136
+16|02100|Meridian Joint School District 2|Meridian Joint School District 2
+16|02130|Middleton School District 134|Middleton School District 134
+16|02160|Midvale School District 433|Midvale School District 433
+16|02190|Minidoka County Joint School District 331|Minidoka County Joint School District 331
+16|02220|Moscow School District 281|Moscow School District 281
+16|02250|Mountain Home School District 193|Mountain Home School District 193
+16|02280|Mullan School District 392|Mullan School District 392
+16|02310|Murtaugh Joint School District 418|Murtaugh Joint School District 418
+16|02340|Nampa School District 131|Nampa School District 131
+16|02370|New Plymouth School District 372|New Plymouth School District 372
+16|02400|Nezperce Joint School District 302|Nezperce Joint School District 302
+16|02430|North Gem School District 149|North Gem School District 149
+16|02460|Notus School District 135|Notus School District 135
+16|02490|Oneida County School District 351|Oneida County School District 351
+16|02520|Orofino Joint School District 171|Orofino Joint School District 171
+16|02550|Parma School District 137|Parma School District 137
+16|02580|Payette Joint School District 371|Payette Joint School District 371
+16|02610|Pleasant Valley Elementary School District 364|Pleasant Valley Elementary School District 364
+16|02640|Pocatello School District 25|Pocatello School District 25
+16|02670|Post Falls School District 273|Post Falls School District 273
+16|02700|Potlatch School District 285|Potlatch School District 285
+16|02730|Prairie Elementary School District 191|Prairie Elementary School District 191
+16|02760|Richfield School District 316|Richfield School District 316
+16|02790|Ririe Joint School District 252|Ririe Joint School District 252
+16|02820|Rockland School District 382|Rockland School District 382
+16|02850|Salmon School District 291|Salmon School District 291
+16|02910|Shelley Joint School District 60|Shelley Joint School District 60
+16|02940|Shoshone Joint School District 312|Shoshone Joint School District 312
+16|02970|Snake River School District 52|Snake River School District 52
+16|03000|Soda Springs Joint School District 150|Soda Springs Joint School District 150
+16|03030|South Lemhi School District 292|South Lemhi School District 292
+16|03060|St. Maries Joint School District 41|St. Maries Joint School District 41
+16|03090|Sugar-Salem Joint School District 322|Sugar-Salem Joint School District 322
+16|03120|Swan Valley Elementary School District 92|Swan Valley Elementary School District 92
+16|03180|Teton County School District 401|Teton County School District 401
+16|03210|Three Creek Joint Elementary School District 416|Three Creek Joint Elementary School District 416
+16|03240|Twin Falls School District 411|Twin Falls School District 411
+16|03270|Valley School District 262|Valley School District 262
+16|03300|Wallace School District 393|Wallace School District 393
+16|03330|Weiser School District 431|Weiser School District 431
+16|03360|Wendell School District 232|Wendell School District 232
+16|03400|West Jefferson School District 253|West Jefferson School District 253
+16|03420|West Side Joint School District 202|West Side Joint School District 202
+16|03480|Wilder School District 133|Wilder School District 133

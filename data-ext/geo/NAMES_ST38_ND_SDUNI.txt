@@ -1,0 +1,156 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+38|00014|Bismarck Public School District 1|Bismarck Public School District 1
+38|00016|Strasburg Public School District 15|Strasburg Public School District 15
+38|00017|Linton Public School District 36|Linton Public School District 36
+38|00018|Cavalier Public School District 6|Cavalier Public School District 6
+38|00021|Jamestown Public School District 1|Jamestown Public School District 1
+38|00023|Scranton Public School District 33|Scranton Public School District 33
+38|00024|Powers Lake Public School District 27|Powers Lake Public School District 27
+38|00025|Kindred Public School District 2|Kindred Public School District 2
+38|00027|New England Public School District 9|New England Public School District 9
+38|00029|Drake Public School District 57|Drake Public School District 57
+38|00031|Hazen Public School District 3|Hazen Public School District 3
+38|00032|Beulah Public School District 27|Beulah Public School District 27
+38|00036|Richland Public School District 44|Richland Public School District 44
+38|00038|Dickinson Public School District 1|Dickinson Public School District 1
+38|00039|Tioga Public School District 15|Tioga Public School District 15
+38|00040|Dakota Prairie Public School District 1|Dakota Prairie Public School District 1
+38|00041|May-Port CG Public School District 14|May-Port CG Public School District 14
+38|00042|Midkota Public School District 7|Midkota Public School District 7
+38|00043|Gackle-Streeter Public School District 56|Gackle-Streeter Public School District 56
+38|00044|Northern Cass Public School District 97|Northern Cass Public School District 97
+38|00045|Elgin-New Leipzig Public School District 49|Elgin-New Leipzig Public School District 49
+38|00046|Mott-Regent Public School District 1|Mott-Regent Public School District 1
+38|00047|Towner-Granville-Upham Public School District 60|Towner-Granville-Upham Public School District 60
+38|00048|Richardton-Taylor Public School District 34|Richardton-Taylor Public School District 34
+38|00049|Fessenden-Bowdon Public School District 25|Fessenden-Bowdon Public School District 25
+38|00050|Mohall-Lansford-Sherwood Public School District 1|Mohall-Lansford-Sherwood Public School District 1
+38|00051|Grand Forks AFB Public School District 140|Grand Forks AFB Public School District 140
+38|00052|Center-Stanton Public School District 1|Center-Stanton Public School District 1
+38|00054|North Border School District 100|North Border School District 100
+38|00056|Fordville-Lankin Public School District 5|Fordville-Lankin Public School District 5
+38|00057|Litchville-Marion Public School District 46|Litchville-Marion Public School District 46
+38|00058|Lewis and Clark Public School District 161|Lewis and Clark Public School District 161
+38|00059|New Rockford-Sheyenne Public School District 2|New Rockford-Sheyenne Public School District 2
+38|00060|Barnes County North Public School District 2|Barnes County North Public School District 2
+38|00061|Enderlin Area Public School District 24|Enderlin Area Public School District 24
+38|00389|Kidder County School District|Kidder County School District
+38|00390|North Star School District|North Star School District
+38|00825|Newburg United Public School District 54|Newburg United Public School District 54
+38|01760|Alexander Public School District 2|Alexander Public School District 2
+38|01950|Anamoose Public School District 14|Anamoose Public School District 14
+38|02170|Ashley Public School District 9|Ashley Public School District 9
+38|02380|Beach Public School District 3|Beach Public School District 3
+38|02530|Belcourt Public School District 7|Belcourt Public School District 7
+38|03060|Bottineau Public School District 1|Bottineau Public School District 1
+38|03090|Bowbells Public School District 14|Bowbells Public School District 14
+38|03200|Bowman County Public School District 1|Bowman County Public School District 1
+38|03590|Burke Central Public School District 36|Burke Central Public School District 36
+38|03790|Carrington Public School District 10|Carrington Public School District 10
+38|04090|Central Cass Public School District 17|Central Cass Public School District 17
+38|04140|Central Valley Public School District 3|Central Valley Public School District 3
+38|04560|Griggs County Central School District 18|Griggs County Central School District 18
+38|05040|Devils Lake Public School District 1|Devils Lake Public School District 1
+38|05160|Divide County Public School District 1|Divide County Public School District 1
+38|05340|Drayton Public School District 19|Drayton Public School District 19
+38|05460|Dunseith Public School District 1|Dunseith Public School District 1
+38|05850|Edgeley Public School District 3|Edgeley Public School District 3
+38|05910|Edinburg Public School District 106|Edinburg Public School District 106
+38|05950|Edmore Public School District 2|Edmore Public School District 2
+38|06010|Eightmile Public School District 6|Eightmile Public School District 6
+38|06090|Ellendale Public School District 40|Ellendale Public School District 40
+38|06210|Belfield Public School District 13|Belfield Public School District 13
+38|06690|Fairmount Public School District 18|Fairmount Public School District 18
+38|06780|Fargo Public School District 1|Fargo Public School District 1
+38|06910|Finley-Sharon Public School District 19|Finley-Sharon Public School District 19
+38|06930|Flasher Public School District 39|Flasher Public School District 39
+38|07170|Fort Totten Public School District 30|Fort Totten Public School District 30
+38|07200|Fort Yates Public School District 4|Fort Yates Public School District 4
+38|07590|Garrison Public School District 51|Garrison Public School District 51
+38|07830|Glen Ullin Public School District 48|Glen Ullin Public School District 48
+38|07850|Glenburn Public School District 26|Glenburn Public School District 26
+38|07950|Goodrich Public School District 16|Goodrich Public School District 16
+38|08060|Grafton Public School District 3|Grafton Public School District 3
+38|08130|Grand Forks Public School District 1|Grand Forks Public School District 1
+38|08460|Grenora Public School District 99|Grenora Public School District 99
+38|08610|Halliday Public School District 19|Halliday Public School District 19
+38|08710|Hankinson Public School District 8|Hankinson Public School District 8
+38|08890|Harvey Public School District 38|Harvey Public School District 38
+38|09000|Hatton Public School District 7|Hatton Public School District 7
+38|09130|Hazelton-Moffit-Braddock Public School District 6|Hazelton-Moffit-Braddock Public School District 6
+38|09180|Hebron Public School District 13|Hebron Public School District 13
+38|09410|Hettinger Public School District 13|Hettinger Public School District 13
+38|09570|Hillsboro Public School District 9|Hillsboro Public School District 9
+38|09710|Hope Public School District 10|Hope Public School District 10
+38|10180|Kenmare Public School District 28|Kenmare Public School District 28
+38|10260|Kensal Public School District 19|Kensal Public School District 19
+38|10270|Killdeer Public School District 16|Killdeer Public School District 16
+38|10500|Kulm Public School District 7|Kulm Public School District 7
+38|10600|Lakota Public School District 66|Lakota Public School District 66
+38|10740|LaMoure Public School District 8|LaMoure Public School District 8
+38|10810|Langdon-Milton-Osnabrock School District 23|Langdon-Milton-Osnabrock School District 23
+38|10860|Larimore Public School District 44|Larimore Public School District 44
+38|10980|Leeds Public School District 6|Leeds Public School District 6
+38|11140|Lidgerwood Public School District 28|Lidgerwood Public School District 28
+38|11430|Lisbon Public School District 19|Lisbon Public School District 19
+38|11700|Maddock Public School District 9|Maddock Public School District 9
+38|11820|Mandan Public School District 1|Mandan Public School District 1
+38|11850|Mandaree Public School District 36|Mandaree Public School District 36
+38|12020|Maple Valley Public School District 4|Maple Valley Public School District 4
+38|12350|Max Public School District 50|Max Public School District 50
+38|12430|McClusky Public School District 19|McClusky Public School District 19
+38|12540|McKenzie County Public School District 1|McKenzie County Public School District 1
+38|12660|Medina Public School District 3|Medina Public School District 3
+38|12920|Midway Public School District 128|Midway Public School District 128
+38|12930|Milnor Public School District 2|Milnor Public School District 2
+38|12990|Minnewaukan Public School District 5|Minnewaukan Public School District 5
+38|13030|Minot Public School District 1|Minot Public School District 1
+38|13050|Minto Public School District 20|Minto Public School District 20
+38|13200|Montefiore Public School District 1|Montefiore Public School District 1
+38|13230|Montpelier Public School District 14|Montpelier Public School District 14
+38|13400|Mount Pleasant Public School District 4|Mount Pleasant Public School District 4
+38|13440|Munich Public School District 19|Munich Public School District 19
+38|13510|Napoleon Public School District 2|Napoleon Public School District 2
+38|13710|Nesson Public School District 2|Nesson Public School District 2
+38|13920|New Town Public School District 1|New Town Public School District 1
+38|14190|North Central Public School District 28|North Central Public School District 28
+38|14290|North Sargent Public School District 3|North Sargent Public School District 3
+38|14340|Northwood Public School District 129|Northwood Public School District 129
+38|14500|Oakes Public School District 41|Oakes Public School District 41
+38|14730|Page Public School District 80|Page Public School District 80
+38|14880|Park River Public School District 78|Park River Public School District 78
+38|14940|Parshall Public School District 3|Parshall Public School District 3
+38|15150|Pingree-Buchanan Public School District 10|Pingree-Buchanan Public School District 10
+38|16050|Rolette Public School District 29|Rolette Public School District 29
+38|16090|Roosevelt Public School District 18|Roosevelt Public School District 18
+38|16130|Rugby Public School District 5|Rugby Public School District 5
+38|16430|Sargent Central Public School District 6|Sargent Central Public School District 6
+38|16470|Sawyer Public School District 16|Sawyer Public School District 16
+38|16510|Selfridge Public School District 8|Selfridge Public School District 8
+38|16980|Solen Public School District 3|Solen Public School District 3
+38|17040|Velva Public School District 1|Velva Public School District 1
+38|17130|South Heart Public School District 9|South Heart Public School District 9
+38|17460|St. John Public School District 3|St. John Public School District 3
+38|17520|St. Thomas Public School District 43|St. Thomas Public School District 43
+38|17570|Stanley Public School District 2|Stanley Public School District 2
+38|17670|Starkweather Public School District 44|Starkweather Public School District 44
+38|17910|Surrey Public School District 41|Surrey Public School District 41
+38|18280|Thompson Public School District 61|Thompson Public School District 61
+38|18500|Turtle Lake-Mercer Public School District 72|Turtle Lake-Mercer Public School District 72
+38|18660|Underwood Public School District 8|Underwood Public School District 8
+38|18730|United Public School District 7|United Public School District 7
+38|18820|Valley Public School District 12|Valley Public School District 12
+38|18850|Valley City Public School District 2|Valley City Public School District 2
+38|19020|Wahpeton Public School District 37|Wahpeton Public School District 37
+38|19260|Warwick Public School District 29|Warwick Public School District 29
+38|19290|Washburn Public School District 4|Washburn Public School District 4
+38|19410|West Fargo Public School District 6|West Fargo Public School District 6
+38|19470|West Hope Public School District 17|West Hope Public School District 17
+38|19680|White Shield Public School District 85|White Shield Public School District 85
+38|19880|Williston Public School District 1|Williston Public School District 1
+38|20130|Wing Public School District 28|Wing Public School District 28
+38|20190|Wishek Public School District 19|Wishek Public School District 19
+38|20230|Wolford Public School District 1|Wolford Public School District 1
+38|20310|Wyndmere Public School District 42|Wyndmere Public School District 42
+38|20400|Zeeland Public School District 4|Zeeland Public School District 4
+38|30049|New Salem-Almont School District|New Salem-Almont School District

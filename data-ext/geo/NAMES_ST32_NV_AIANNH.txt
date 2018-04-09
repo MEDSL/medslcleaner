@@ -1,0 +1,29 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+32|0165|Battle Mountain|Battle Mountain Reservation
+32|0440|Campbell|Campbell Ranch
+32|0510|Carson|Carson Colony
+32|0940|Dresslerville|Dresslerville Colony
+32|0965|Duck Valley|Duck Valley Reservation
+32|0975|Duckwater|Duckwater Reservation
+32|1005|Elko|Elko Colony
+32|1040|Ely|Ely Reservation
+32|1070|Fallon Paiute-Shoshone|Fallon Paiute-Shoshone Colony and Off-Reservation Trust Land
+32|1075|Fallon Paiute-Shoshone|Fallon Paiute-Shoshone Reservation and Off-Reservation Trust Land
+32|1210|Fort McDermitt|Fort McDermitt Indian Reservation
+32|1235|Fort Mojave|Fort Mojave Reservation and Off-Reservation Trust Land
+32|1340|Goshute|Goshute Reservation
+32|1915|Las Vegas|Las Vegas Indian Colony
+32|2015|Lovelock|Lovelock Indian Colony
+32|2315|Moapa River|Moapa River Indian Reservation
+32|3010|Pyramid Lake Paiute|Pyramid Lake Paiute Reservation
+32|3130|Reno-Sparks|Reno-Sparks Indian Colony
+32|3930|South Fork|South Fork Reservation and Off-Reservation Trust Land
+32|3980|Stewart|Stewart Community
+32|4045|Summit Lake|Summit Lake Reservation and Off-Reservation Trust Land
+32|4180|Timbi-Sha Shoshone|Timbi-Sha Shoshone Reservation and Off-Reservation Trust Land
+32|4515|Walker River|Walker River Reservation
+32|4560|Washoe Ranches|Washoe Ranches Trust Land
+32|4580|Wells|Wells Colony
+32|4635|Winnemucca|Winnemucca Indian Colony
+32|4725|Yerington|Yerington Colony
+32|4740|Yomba|Yomba Reservation

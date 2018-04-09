@@ -1,0 +1,20 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+32|001|Clark County Senatorial District 1|Clark County Senatorial District 1
+32|002|Clark County Senatorial District 2|Clark County Senatorial District 2
+32|003|Clark County Senatorial District 3|Clark County Senatorial District 3
+32|004|Clark County Senatorial District 4|Clark County Senatorial District 4
+32|005|Clark County Senatorial District 5|Clark County Senatorial District 5
+32|006|Clark County Senatorial District 6|Clark County Senatorial District 6
+32|007|Clark County Senatorial District 7|Clark County Senatorial District 7
+32|008|Clark County Senatorial District 8|Clark County Senatorial District 8
+32|009|Clark County Senatorial District 9|Clark County Senatorial District 9
+32|010|Clark County Senatorial District 10|Clark County Senatorial District 10
+32|011|Clark County Senatorial District 11|Clark County Senatorial District 11
+32|012|Clark County Senatorial District 12|Clark County Senatorial District 12
+32|013|Washoe County Senatorial District 1|Washoe County Senatorial District 1
+32|014|Washoe County Senatorial District 2|Washoe County Senatorial District 2
+32|015|Washoe County Senatorial District 3|Washoe County Senatorial District 3
+32|016|Washoe County Senatorial District 4|Washoe County Senatorial District 4
+32|017|Capital|Capital Senatorial District
+32|018|Central Nevada|Central Nevada Senatorial District
+32|019|Rural Nevada|Rural Nevada Senatorial District

@@ -1,0 +1,14 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+26|0170|Bay Mills|Bay Mills Reservation and Off-Reservation Trust Land
+26|1370|Grand Traverse|Grand Traverse Reservation and Off-Reservation Trust Land
+26|1410|Hannahville|Hannahville Indian Community and Off-Reservation Trust Land
+26|1550|Huron Potawatomi|Huron Potawatomi Reservation and Off-Reservation Trust Land
+26|1610|Isabella|Isabella Reservation
+26|1830|Lac Vieux Desert|Lac Vieux Desert Reservation
+26|1880|L'Anse|L'Anse Reservation and Off-Reservation Trust Land
+26|1960|Little River|Little River Reservation and Off-Reservation Trust Land
+26|1963|Little Traverse Bay|Little Traverse Bay Reservation and Off-Reservation Trust Land
+26|2150|Match-e-be-nash-she-wish Band of Pottawatomi|Match-e-be-nash-she-wish Band of Pottawatomi Reservation
+26|2580|Ontonagon|Ontonagon Reservation
+26|2890|Pokagon|Pokagon Reservation and Off-Reservation Trust Land
+26|3635|Sault Sainte Marie|Sault Sainte Marie Reservation and Off-Reservation Trust Land

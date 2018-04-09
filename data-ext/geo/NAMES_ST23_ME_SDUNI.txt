@@ -1,0 +1,241 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+23|00001|Indian Island|Indian Island
+23|00002|Indian Township|Indian Township
+23|00003|Pleasant Point|Pleasant Point
+23|00004|Bridgewater|Bridgewater
+23|00005|Grand Isle|Grand Isle
+23|00008|Fayette|Fayette
+23|00009|Long Island|Long Island
+23|00052|The Forks Plantation|The Forks Plantation
+23|00057|Seboeis Plantation|Seboeis Plantation
+23|00058|West Forks Plantation|West Forks Plantation
+23|00059|Lake View Plantation|Lake View Plantation
+23|00061|Caratunk|Caratunk
+23|00062|East Machias|East Machias
+23|00063|Lowell|Lowell
+23|00065|Cutler|Cutler
+23|00067|Machiasport|Machiasport
+23|00068|Whiting|Whiting
+23|02220|Acton|Acton
+23|02280|Alexander|Alexander
+23|02500|Airline Community School District|Airline Community School District
+23|02510|Appleton|Appleton
+23|02610|Auburn|Auburn
+23|02640|Augusta|Augusta
+23|02730|Baileyville|Baileyville
+23|02790|Bancroft|Bancroft
+23|02820|Bangor|Bangor
+23|02880|Baring Plantation|Baring Plantation
+23|02950|Beals|Beals
+23|02960|Beaver Cove|Beaver Cove
+23|02980|Beddington|Beddington
+23|03150|Biddeford|Biddeford
+23|03210|Blue Hill|Blue Hill
+23|03290|Boothbay-Boothbay Harbor Community School District|Boothbay-Boothbay Harbor Community School District
+23|03390|Bowerbank|Bowerbank
+23|03510|Brewer|Brewer
+23|03600|Bristol|Bristol
+23|03610|Brooklin|Brooklin
+23|03640|Brooksville|Brooksville
+23|03780|Brunswick|Brunswick
+23|03870|Calais|Calais
+23|03930|Cape Elizabeth|Cape Elizabeth
+23|03980|Carrabassett Valley|Carrabassett Valley
+23|03990|Carroll Plantation|Carroll Plantation
+23|04080|Castine|Castine
+23|04110|Caswell|Caswell
+23|04160|Charlotte|Charlotte
+23|04440|Cooper|Cooper
+23|04500|Coplin Plantation|Coplin Plantation
+23|04620|Cranberry Isles|Cranberry Isles
+23|04650|Crawford|Crawford
+23|04800|Dallas Plantation|Dallas Plantation
+23|04880|Deblois|Deblois
+23|04890|Dedham|Dedham
+23|04895|Deer Isle-Stonington Community School District|Deer Isle-Stonington Community School District
+23|04897|Dennistown Plantation|Dennistown Plantation
+23|04900|Dennysville|Dennysville
+23|05160|Drew Plantation|Drew Plantation
+23|05280|East Millinocket|East Millinocket
+23|05310|Easton|Easton
+23|05360|Eastport|Eastport
+23|05380|East Range Community School District|East Range Community School District
+23|05400|Edgecomb|Edgecomb
+23|05670|Falmouth|Falmouth
+23|05970|Georgetown|Georgetown
+23|05980|Gilead|Gilead
+23|06030|Glenwood Plantation|Glenwood Plantation
+23|06060|Gorham|Gorham
+23|06150|Great Lake Stream Plantation|Great Lake Stream Plantation
+23|06180|Greenbush|Greenbush
+23|06250|Greenville|Greenville
+23|06330|Harmony|Harmony
+23|06510|Hermon|Hermon
+23|06540|Hersey|Hersey
+23|06600|Highland Plantation|Highland Plantation
+23|06610|Hope|Hope
+23|06780|Isle au Haut|Isle au Haut
+23|06810|Islesboro|Islesboro
+23|06840|Jay|Jay
+23|06870|Jefferson|Jefferson
+23|06900|Jonesboro|Jonesboro
+23|07100|Jonesport|Jonesport
+23|07110|Kingsbury Plantation|Kingsbury Plantation
+23|07140|Kittery|Kittery
+23|07200|Lakeville|Lakeville
+23|07320|Lewiston|Lewiston
+23|07440|Lincoln Plantation|Lincoln Plantation
+23|07450|Lincolnville|Lincolnville
+23|07530|Lisbon|Lisbon
+23|07590|Frenchboro|Frenchboro
+23|07710|Machias|Machias
+23|07770|Macwahoc Plantation|Macwahoc Plantation
+23|07800|Madawaska|Madawaska
+23|07890|Magalloway Plantation|Magalloway Plantation
+23|07980|Marshfield|Marshfield
+23|08135|Meddybemps|Meddybemps
+23|08140|Medford|Medford
+23|08160|Medway|Medway
+23|08250|Milford|Milford
+23|08280|Millinocket|Millinocket
+23|08340|Monhegan Plantation|Monhegan Plantation
+23|08430|Moro Plantation|Moro Plantation
+23|08580|Nashville Plantation|Nashville Plantation
+23|08700|New Sweden|New Sweden
+23|08940|Nobleboro|Nobleboro
+23|09090|Northfield|Northfield
+23|09240|Orient|Orient
+23|09330|Orrington|Orrington
+23|09390|Otis|Otis
+23|09560|Pembroke|Pembroke
+23|09630|Penobscot|Penobscot
+23|09650|Perry|Perry
+23|09810|Pleasant Ridge Plantation|Pleasant Ridge Plantation
+23|09930|Portland|Portland
+23|09990|Princeton|Princeton
+23|10020|Rangeley|Rangeley
+23|10050|Rangeley Plantation|Rangeley Plantation
+23|10140|Reed Plantation|Reed Plantation
+23|10190|Robbinston|Robbinston
+23|10320|Roque Bluffs|Roque Bluffs
+23|10470|Sandy River Plantation|Sandy River Plantation
+23|10500|Sanford|Sanford
+23|10530|Scarborough|Scarborough
+23|10560|School Administration District 10|School Administration District 10
+23|10590|School Administrative District 11|School Administrative District 11
+23|10620|School Administrative District 12|School Administrative District 12
+23|10650|School Administrative District 13|School Administrative District 13
+23|10680|School Administrative District 14|School Administrative District 14
+23|10710|School Administrative District 15|School Administrative District 15
+23|10770|School Administrative District 17|School Administrative District 17
+23|10830|School Administrative District 19|School Administrative District 19
+23|10860|School Administrative District 01|School Administrative District 01
+23|10890|School Administrative District 20|School Administrative District 20
+23|10950|School Administrative District 22|School Administrative District 22
+23|10980|School Administrative District 23|School Administrative District 23
+23|11010|School Administrative District 24|School Administrative District 24
+23|11040|School Administrative District 25|School Administrative District 25
+23|11100|School Administrative District 27|School Administrative District 27
+23|11130|School Administrative District 28|School Administrative District 28
+23|11160|School Administrative District 29|School Administrative District 29
+23|11220|School Administrative District 30|School Administrative District 30
+23|11250|School Administrative District 31|School Administrative District 31
+23|11280|School Administrative District 32|School Administrative District 32
+23|11310|School Administrative District 33|School Administrative District 33
+23|11370|School Administrative District 35|School Administrative District 35
+23|11400|School Administrative District 36|School Administrative District 36
+23|11430|School Administrative District 37|School Administrative District 37
+23|11520|School Administrative District 03|School Administrative District 03
+23|11550|School Administrative District 40|School Administrative District 40
+23|11580|School Administrative District 41|School Administrative District 41
+23|11610|School Administrative District 42|School Administrative District 42
+23|11670|School Administrative District 44|School Administrative District 44
+23|11700|School Administrative District 45|School Administrative District 45
+23|11730|School Administrative District 04|School Administrative District 04
+23|11790|School Administrative District 06|School Administrative District 06
+23|11820|School Administrative District 07|School Administrative District 07
+23|11850|School Administrative District 08|School Administrative District 08
+23|11880|School Administrative District 09|School Administrative District 09
+23|11910|School Administrative District 76|School Administrative District 76
+23|12140|Sedgwick|Sedgwick
+23|12180|Shirley|Shirley
+23|12300|South Bristol|South Bristol
+23|12330|South Portland|South Portland
+23|12360|Southport|Southport
+23|12410|Southern Aroostook Community School District|Southern Aroostook Community School District
+23|12750|Surry|Surry
+23|12810|Talmadge|Talmadge
+23|12980|Trenton|Trenton
+23|13070|Upton|Upton
+23|13080|Vanceboro|Vanceboro
+23|13110|Vassalboro|Vassalboro
+23|13200|Waite|Waite
+23|13350|Waterville|Waterville
+23|13490|Wells-Ogunquit Community School District|Wells-Ogunquit Community School District
+23|13500|Wesley|Wesley
+23|13560|Westbrook|Westbrook
+23|13590|Westmanland|Westmanland
+23|13710|Whitneyville|Whitneyville
+23|13740|Willimantic|Willimantic
+23|13860|Winslow|Winslow
+23|13970|Winthrop|Winthrop
+23|14010|Woodland|Woodland
+23|14040|Woodville|Woodville
+23|14100|Yarmouth|Yarmouth
+23|14130|York|York
+23|14160|School Administrative District 52|School Administrative District 52
+23|14190|School Administrative District 55|School Administrative District 55
+23|14210|School Administrative District 61|School Administrative District 61
+23|14240|School Administrative District 51|School Administrative District 51
+23|14300|School Administrative District 58|School Administrative District 58
+23|14330|School Administrative District 49|School Administrative District 49
+23|14410|School Administrative District 65|School Administrative District 65
+23|14440|School Administrative District 64|School Administrative District 64
+23|14470|School Administrative District 63|School Administrative District 63
+23|14530|School Administrative District 46|School Administrative District 46
+23|14560|School Administrative District 59|School Administrative District 59
+23|14590|School Administrative District 54|School Administrative District 54
+23|14610|School Administrative District 53|School Administrative District 53
+23|14670|School Administrative District 57|School Administrative District 57
+23|14700|School Administrative District 60|School Administrative District 60
+23|14760|School Administrative District 67|School Administrative District 67
+23|14761|School Administrative District 68|School Administrative District 68
+23|14762|School Administrative District 70|School Administrative District 70
+23|14765|School Administrative District 72|School Administrative District 72
+23|14767|School Administrative District 74|School Administrative District 74
+23|14768|School Administrative District 75|School Administrative District 75
+23|14771|Chebeague Island|Chebeague Island
+23|14772|Regional School Unit 01|Regional School Unit 01
+23|14773|Regional School Unit 21|Regional School Unit 21
+23|14775|Regional School Unit 16|Regional School Unit 16
+23|14776|Regional School Unit 02|Regional School Unit 02
+23|14778|Regional School Unit 26|Regional School Unit 26
+23|14779|Regional School Unit 18|Regional School Unit 18
+23|14780|Regional School Unit 12|Regional School Unit 12
+23|14782|Regional School Unit 34|Regional School Unit 34
+23|14783|Regional School Unit 04|Regional School Unit 04
+23|14784|Regional School Unit 23|Regional School Unit 23
+23|14785|Regional School Unit 19|Regional School Unit 19
+23|14787|Regional School Unit 13|Regional School Unit 13
+23|14788|Regional School Unit 38|Regional School Unit 38
+23|14789|Regional School Unit 05|Regional School Unit 05
+23|14790|Regional School Unit 24|Regional School Unit 24
+23|14791|Regional School Unit 20|Regional School Unit 20
+23|14793|Regional School Unit 14|Regional School Unit 14
+23|14794|Regional School Unit 39|Regional School Unit 39
+23|14795|Regional School Unit 10|Regional School Unit 10
+23|14796|Regional School Unit 25|Regional School Unit 25
+23|82001|Aroostook Unorganized Territory|Aroostook Unorganized Territory
+23|82002|Oxford Unorganized Territory|Oxford Unorganized Territory
+23|82003|Franklin Unorganized Territory|Franklin Unorganized Territory
+23|82004|Sagadahoc Unorganized Territory|Sagadahoc Unorganized Territory
+23|82005|Kennebec Unorganized Territory|Kennebec Unorganized Territory
+23|82006|Lincoln Unorganized Territory|Lincoln Unorganized Territory
+23|82007|Knox Unorganized Territory|Knox Unorganized Territory
+23|82008|Somerset Unorganized Territory|Somerset Unorganized Territory
+23|82009|Piscataquis Unorganized Territory|Piscataquis Unorganized Territory
+23|82010|Penobscot Unorganized Territory|Penobscot Unorganized Territory
+23|82011|Hancock Unorganized Territory|Hancock Unorganized Territory
+23|82012|Washington Unorganized Territory|Washington Unorganized Territory
+23|82013|Louds Island Unorganized Territory|Louds Island Unorganized Territory
+23|99998|School District Not Defined (Water)|School District Not Defined (Water)

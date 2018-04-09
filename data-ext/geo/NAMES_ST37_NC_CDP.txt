@@ -1,0 +1,187 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+37|00440|Advance|Advance CDP
+37|01140|Altamahaw|Altamahaw CDP
+37|01560|Aquadale|Aquadale CDP
+37|02240|Ashley Heights|Ashley Heights CDP
+37|02480|Atlantic|Atlantic CDP
+37|02760|Avery Creek|Avery Creek CDP
+37|02780|Avon|Avon CDP
+37|03220|Balfour|Balfour CDP
+37|03640|Barker Heights|Barker Heights CDP
+37|03665|Barker Ten Mile|Barker Ten Mile CDP
+37|04015|Bayshore|Bayshore CDP
+37|04040|Bayview|Bayview CDP
+37|04680|Bell Arthur|Bell Arthur CDP
+37|04955|Belvoir|Belvoir CDP
+37|05020|Bennett|Bennett CDP
+37|05049|Bent Creek|Bent Creek CDP
+37|05530|Bethlehem|Bethlehem CDP
+37|06510|Blue Clay Farms|Blue Clay Farms CDP
+37|06980|Bonnetsville|Bonnetsville CDP
+37|07400|Bowmore|Bowmore CDP
+37|07765|Brices Creek|Brices Creek CDP
+37|08040|Broad Creek|Broad Creek CDP
+37|08110|Brogden|Brogden CDP
+37|08760|Buies Creek|Buies Creek CDP
+37|08880|Bunnlevel|Bunnlevel CDP
+37|09380|Butters|Butters CDP
+37|09400|Buxton|Buxton CDP
+37|09780|Camden|Camden CDP
+37|10460|Caroleen|Caroleen CDP
+37|10800|Cashiers|Cashiers CDP
+37|10880|Castle Hayne|Castle Hayne CDP
+37|12140|Cherokee|Cherokee CDP
+37|13100|Cliffside|Cliffside CDP
+37|13500|Coinjock|Coinjock CDP
+37|14600|Cordova|Cordova CDP
+37|15040|Cove Creek|Cove Creek CDP
+37|15440|Cricket|Cricket CDP
+37|15880|Cullowhee|Cullowhee CDP
+37|16220|Dana|Dana CDP
+37|16480|Davis|Davis CDP
+37|16730|Deercroft|Deercroft CDP
+37|16780|Delco|Delco CDP
+37|16860|Delway|Delway CDP
+37|17000|Denver|Denver CDP
+37|18300|Dundarrach|Dundarrach CDP
+37|19420|East Flat Rock|East Flat Rock CDP
+37|19800|East Rockingham|East Rockingham CDP
+37|20280|Edneyville|Edneyville CDP
+37|20420|Efland|Efland CDP
+37|21120|Elrod|Elrod CDP
+37|21130|Elroy|Elroy CDP
+37|21380|Engelhard|Engelhard CDP
+37|21500|Enochville|Enochville CDP
+37|21880|Etowah|Etowah CDP
+37|22080|Evergreen|Evergreen CDP
+37|22280|Fairfield|Fairfield CDP
+37|22305|Fairfield Harbour|Fairfield Harbour CDP
+37|22380|Fairplains|Fairplains CDP
+37|22440|Fairview|Fairview CDP
+37|22982|Fearrington Village|Fearrington Village CDP
+37|23520|Five Points|Five Points CDP
+37|23640|Flat Rock|Flat Rock CDP
+37|24198|Forest Oaks|Forest Oaks CDP
+37|24380|Foscoe|Foscoe CDP
+37|25020|Frisco|Frisco CDP
+37|25160|Fruitland|Fruitland CDP
+37|25880|Germanton|Germanton CDP
+37|25900|Gerton|Gerton CDP
+37|26460|Glen Raven|Glen Raven CDP
+37|26520|Glenville|Glenville CDP
+37|26680|Gloucester|Gloucester CDP
+37|27120|Gorman|Gorman CDP
+37|28600|Gulf|Gulf CDP
+37|28900|Half Moon|Half Moon CDP
+37|29000|Hallsboro|Hallsboro CDP
+37|29180|Hampstead|Hampstead CDP
+37|29560|Harkers Island|Harkers Island CDP
+37|30100|Hatteras|Hatteras CDP
+37|30340|Hays|Hays CDP
+37|30800|Henrietta|Henrietta CDP
+37|31260|Hiddenite|Hiddenite CDP
+37|31490|Hightsville|Hightsville CDP
+37|31660|Hillsdale|Hillsdale CDP
+37|31880|Hobucken|Hobucken CDP
+37|32100|Hollister|Hollister CDP
+37|32580|Hoopers Creek|Hoopers Creek CDP
+37|32740|Horse Shoe|Horse Shoe CDP
+37|33320|Icard|Icard CDP
+37|33640|Ingold|Ingold CDP
+37|33820|Iron Station|Iron Station CDP
+37|33940|Ivanhoe|Ivanhoe CDP
+37|33993|JAARS|JAARS CDP
+37|34038|Jackson Heights|Jackson Heights CDP
+37|34260|James City|James City CDP
+37|35340|Keener|Keener CDP
+37|35440|Kelly|Kelly CDP
+37|35870|Kings Grant|Kings Grant CDP
+37|36480|Lake Junaluska|Lake Junaluska CDP
+37|36511|Lake Norman of Catawba|Lake Norman of Catawba CDP
+37|36513|Lake Royale|Lake Royale CDP
+37|37120|Laurel Hill|Laurel Hill CDP
+37|38170|Light Oak|Light Oak CDP
+37|39520|Lowesville|Lowesville CDP
+37|39540|Lowgap|Lowgap CDP
+37|40460|McLeansville|McLeansville CDP
+37|40860|Mamers|Mamers CDP
+37|40980|Manns Harbor|Manns Harbor CDP
+37|41220|Marble|Marble CDP
+37|41540|Mar-Mac|Mar-Mac CDP
+37|41600|Marshallberg|Marshallberg CDP
+37|42000|Maury|Maury CDP
+37|43160|Millers Creek|Millers Creek CDP
+37|43200|Millingport|Millingport CDP
+37|43880|Moncure|Moncure CDP
+37|44280|Moravian Falls|Moravian Falls CDP
+37|44700|Mountain Home|Mountain Home CDP
+37|44770|Mountain View|Mountain View CDP
+37|45460|Moyock|Moyock CDP
+37|45560|Mulberry|Mulberry CDP
+37|45720|Murraysville|Murraysville CDP
+37|45840|Myrtle Grove|Myrtle Grove CDP
+37|46280|Neuse Forest|Neuse Forest CDP
+37|47485|Northchase|Northchase CDP
+37|47695|Northlakes|Northlakes CDP
+37|48740|Ocracoke|Ocracoke CDP
+37|48790|Ogden|Ogden CDP
+37|48940|Old Hundred|Old Hundred CDP
+37|52160|Pinetown|Pinetown CDP
+37|52260|Piney Green|Piney Green CDP
+37|52500|Pinnacle|Pinnacle CDP
+37|52685|Plain View|Plain View CDP
+37|52920|Pleasant Hill|Pleasant Hill CDP
+37|53475|Porters Neck|Porters Neck CDP
+37|53580|Potters Hill|Potters Hill CDP
+37|53950|Prospect|Prospect CDP
+37|54160|Pumpkin Center|Pumpkin Center CDP
+37|54600|Raemon|Raemon CDP
+37|56100|Rex|Rex CDP
+37|56600|Riegelwood|Riegelwood CDP
+37|56815|River Road|River Road CDP
+37|57200|Rockfish|Rockfish CDP
+37|57540|Rocky Point|Rocky Point CDP
+37|57580|Rodanthe|Rodanthe CDP
+37|58040|Rougemont|Rougemont CDP
+37|58260|Royal Pines|Royal Pines CDP
+37|58340|Ruffin|Ruffin CDP
+37|58730|St. Stephens|St. Stephens CDP
+37|58740|Salem|Salem CDP
+37|58940|Salvo|Salvo CDP
+37|59580|Saxapahaw|Saxapahaw CDP
+37|59765|Scotch Meadows|Scotch Meadows CDP
+37|60000|Sea Breeze|Sea Breeze CDP
+37|60515|Seven Lakes|Seven Lakes CDP
+37|60940|Shannon|Shannon CDP
+37|61920|Silver City|Silver City CDP
+37|61950|Silver Lake|Silver Lake CDP
+37|62190|Skippers Corner|Skippers Corner CDP
+37|62680|Sneads Ferry|Sneads Ferry CDP
+37|63240|South Henderson|South Henderson CDP
+37|63340|South Mills|South Mills CDP
+37|63360|Southmont|Southmont CDP
+37|63470|South Rosemary|South Rosemary CDP
+37|63560|South Weldon|South Weldon CDP
+37|63920|Spivey's Corner|Spivey's Corner CDP
+37|65020|Stokes|Stokes CDP
+37|65260|Stony Point|Stony Point CDP
+37|65700|Sunbury|Sunbury CDP
+37|66280|Swannanoa|Swannanoa CDP
+37|66340|Swan Quarter|Swan Quarter CDP
+37|67700|Toast|Toast CDP
+37|69020|Tyro|Tyro CDP
+37|69600|Valle Crucis|Valle Crucis CDP
+37|69640|Valley Hill|Valley Hill CDP
+37|69740|Vander|Vander CDP
+37|69755|Vann Crossroads|Vann Crossroads CDP
+37|70580|Wakulla|Wakulla CDP
+37|70920|Wanchese|Wanchese CDP
+37|71440|Waves|Waves CDP
+37|71760|Welcome|Welcome CDP
+37|72150|West Canton|West Canton CDP
+37|72600|West Marion|West Marion CDP
+37|72755|Westport|Westport CDP
+37|73320|White Oak|White Oak CDP
+37|73460|White Plains|White Plains CDP
+37|75375|Woodlawn|Woodlawn CDP
+37|75780|Wrightsboro|Wrightsboro CDP

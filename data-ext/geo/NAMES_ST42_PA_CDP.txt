@@ -1,0 +1,750 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+42|00100|Aaronsburg|Aaronsburg CDP
+42|00104|Aaronsburg|Aaronsburg CDP
+42|00244|Ackermanville|Ackermanville CDP
+42|00372|Adamsville|Adamsville CDP
+42|00652|Albrightsville|Albrightsville CDP
+42|00764|Alfarata|Alfarata CDP
+42|00924|Alleghenyville|Alleghenyville CDP
+42|00980|Allenport|Allenport CDP
+42|01004|Allensville|Allensville CDP
+42|02016|Allenwood|Allenwood CDP
+42|02040|Allison|Allison CDP
+42|02056|Allison Park|Allison Park CDP
+42|02072|Allport|Allport CDP
+42|02088|Almedia|Almedia CDP
+42|02128|Alsace Manor|Alsace Manor CDP
+42|02144|Altamont|Altamont CDP
+42|02349|Amity Gardens|Amity Gardens CDP
+42|02416|Ancient Oaks|Ancient Oaks CDP
+42|02608|Annville|Annville CDP
+42|02826|Arcadia University|Arcadia University CDP
+42|02896|Ardmore|Ardmore CDP
+42|02968|Aristes|Aristes CDP
+42|03008|Arlington Heights|Arlington Heights CDP
+42|03096|Arnold City|Arnold City CDP
+42|03104|Arnot|Arnot CDP
+42|03312|Aspers|Aspers CDP
+42|03424|Atkinson Mills|Atkinson Mills CDP
+42|03440|Atlantic|Atlantic CDP
+42|03464|Atlas|Atlas CDP
+42|03472|Atlasburg|Atlasburg CDP
+42|03544|Audubon|Audubon CDP
+42|03616|Avella|Avella CDP
+42|03648|Avon|Avon CDP
+42|03676|Avonia|Avonia CDP
+42|03768|Baidland|Baidland CDP
+42|03792|Baileyville|Baileyville CDP
+42|03800|Bainbridge|Bainbridge CDP
+42|03816|Bairdford|Bairdford CDP
+42|03864|Bakerstown|Bakerstown CDP
+42|04344|Barrville|Barrville CDP
+42|04488|Baumstown|Baumstown CDP
+42|04616|Bear Rocks|Bear Rocks CDP
+42|04768|Beaverdale|Beaverdale CDP
+42|04824|Beaver Springs|Beaver Springs CDP
+42|05028|Beech Mountain Lakes|Beech Mountain Lakes CDP
+42|05152|Belfast|Belfast CDP
+42|05304|Belleville|Belleville CDP
+42|05400|Belmont|Belmont CDP
+42|05904|Berwyn|Berwyn CDP
+42|06000|Bethel|Bethel CDP
+42|06171|Beurys Lake|Beurys Lake CDP
+42|06236|Big Bass Lake|Big Bass Lake CDP
+42|06280|Bigler|Bigler CDP
+42|06490|Birchwood Lakes|Birchwood Lakes CDP
+42|06496|Bird-in-Hand|Bird-in-Hand CDP
+42|06744|Black Lick|Black Lick CDP
+42|06960|Blanchard|Blanchard CDP
+42|06976|Blandburg|Blandburg CDP
+42|06984|Blandon|Blandon CDP
+42|07208|Blue Ball|Blue Ball CDP
+42|07224|Blue Bell|Blue Bell CDP
+42|07312|Blue Ridge Summit|Blue Ridge Summit CDP
+42|07368|Boalsburg|Boalsburg CDP
+42|07384|Bobtown|Bobtown CDP
+42|07472|Boiling Springs|Boiling Springs CDP
+42|07616|Boothwyn|Boothwyn CDP
+42|07688|Boston|Boston CDP
+42|07800|Bowers|Bowers CDP
+42|07896|Bowmansville|Bowmansville CDP
+42|08024|Bradenville|Bradenville CDP
+42|08208|Branchdale|Branchdale CDP
+42|08240|Brandonville|Brandonville CDP
+42|08312|Brave|Brave CDP
+42|08392|Breinigsville|Breinigsville CDP
+42|08432|Bressler|Bressler CDP
+42|08504|Brickerville|Brickerville CDP
+42|08819|Brittany Farms-The Highlands|Brittany Farms-The Highlands CDP
+42|09000|Brodheadsville|Brodheadsville CDP
+42|09248|Broomall|Broomall CDP
+42|09416|Brownstown|Brownstown CDP
+42|09496|Browntown|Browntown CDP
+42|09728|Bryn Mawr|Bryn Mawr CDP
+42|09792|Buckhorn|Buckhorn CDP
+42|09896|Buck Run|Buck Run CDP
+42|10096|Buffington|Buffington CDP
+42|10128|Bulger|Bulger CDP
+42|10600|Byrnedale|Byrnedale CDP
+42|10720|Cairnbrook|Cairnbrook CDP
+42|10816|Caln|Caln CDP
+42|10832|Calumet|Calumet CDP
+42|10960|Campbelltown|Campbelltown CDP
+42|11072|Canadohta Lake|Canadohta Lake CDP
+42|11348|Carnot-Moon|Carnot-Moon CDP
+42|11576|Cashtown|Cashtown CDP
+42|11648|Castanea|Castanea CDP
+42|11804|Cecil-Bishop|Cecil-Bishop CDP
+42|11836|Cedar Crest|Cedar Crest CDP
+42|11976|Cementon|Cementon CDP
+42|12396|Cetronia|Cetronia CDP
+42|12512|Chalkhill|Chalkhill CDP
+42|12864|Chase|Chase CDP
+42|13168|Cherryville|Cherryville CDP
+42|13216|Chesterbrook|Chesterbrook CDP
+42|13400|Chevy Chase Heights|Chevy Chase Heights CDP
+42|13408|Chewton|Chewton CDP
+42|13418|Cheyney University|Cheyney University CDP
+42|13480|Chinchilla|Chinchilla CDP
+42|13596|Church Hill|Church Hill CDP
+42|13632|Churchtown|Churchtown CDP
+42|13648|Churchville|Churchville CDP
+42|13768|Clarence|Clarence CDP
+42|13952|Clay|Clay CDP
+42|13992|Claysburg|Claysburg CDP
+42|14296|Clinton|Clinton CDP
+42|14760|Coburn|Coburn CDP
+42|14808|Cochranville|Cochranville CDP
+42|15248|Collinsburg|Collinsburg CDP
+42|15328|Colonial Park|Colonial Park CDP
+42|15368|Colony Park|Colony Park CDP
+42|15400|Columbus|Columbus CDP
+42|15416|Colver|Colver CDP
+42|15464|Commodore|Commodore CDP
+42|15479|Conashaugh Lakes|Conashaugh Lakes CDP
+42|15584|Conestoga|Conestoga CDP
+42|15755|Conneaut Lakeshore|Conneaut Lakeshore CDP
+42|16136|Coral|Coral CDP
+42|16272|Cornwells Heights|Cornwells Heights CDP
+42|16816|Crabtree|Crabtree CDP
+42|17040|Crenshaw|Crenshaw CDP
+42|17320|Cross Creek|Cross Creek CDP
+42|17440|Crown|Crown CDP
+42|17448|Croydon|Croydon CDP
+42|17528|Crucible|Crucible CDP
+42|17680|Cumbola|Cumbola CDP
+42|17832|Curtisville|Curtisville CDP
+42|18080|Dalmatia|Dalmatia CDP
+42|18256|Dauberville|Dauberville CDP
+42|18312|Davidsville|Davidsville CDP
+42|18568|Deer Lake|Deer Lake CDP
+42|18608|Defiance|Defiance CDP
+42|18664|Delano|Delano CDP
+42|18998|DeSales University|DeSales University CDP
+42|19040|Devon|Devon CDP
+42|19048|Dewart|Dewart CDP
+42|19161|Dicksonville|Dicksonville CDP
+42|19432|Donaldson|Donaldson CDP
+42|19584|Dorneyville|Dorneyville CDP
+42|19680|Douglassville|Douglassville CDP
+42|19920|Drexel Hill|Drexel Hill CDP
+42|20080|Dry Tavern|Dry Tavern CDP
+42|20096|Dryville|Dryville CDP
+42|20336|Dunlo|Dunlo CDP
+42|20416|Dunnstown|Dunnstown CDP
+42|20634|Eagle Lake|Eagle Lake CDP
+42|20662|Eagleview|Eagleview CDP
+42|20664|Eagleville|Eagleville CDP
+42|20672|Eagleville|Eagleville CDP
+42|20704|Earlston|Earlston CDP
+42|20800|East Berwick|East Berwick CDP
+42|21064|East Earl|East Earl CDP
+42|21176|East Freedom|East Freedom CDP
+42|21400|Eastlawn Gardens|Eastlawn Gardens CDP
+42|21786|East Rutherford|East Rutherford CDP
+42|21792|East Salem|East Salem CDP
+42|21960|East Uniontown|East Uniontown CDP
+42|22104|East York|East York CDP
+42|22280|Eddington|Eddington CDP
+42|22344|Edenborn|Edenborn CDP
+42|22352|Edenburg|Edenburg CDP
+42|22528|Edgewood|Edgewood CDP
+42|22600|Edie|Edie CDP
+42|22680|Effort|Effort CDP
+42|22696|Egypt|Egypt CDP
+42|22736|Eighty Four|Eighty Four CDP
+42|22976|Elim|Elim CDP
+42|23392|Elrama|Elrama CDP
+42|23472|Elysburg|Elysburg CDP
+42|23540|Emerald Lakes|Emerald Lakes CDP
+42|23560|Emigsville|Emigsville CDP
+42|23688|Englewood|Englewood CDP
+42|23704|Enhaut|Enhaut CDP
+42|23720|Enlow|Enlow CDP
+42|23744|Enola|Enola CDP
+42|24088|Espy|Espy CDP
+42|24240|Evansburg|Evansburg CDP
+42|24440|Exton|Exton CDP
+42|24448|Eyers Grove|Eyers Grove CDP
+42|24544|Fairdale|Fairdale CDP
+42|24664|Fairhope|Fairhope CDP
+42|24712|Fairless Hills|Fairless Hills CDP
+42|24856|Fairview|Fairview CDP
+42|24948|Fairview-Ferndale|Fairview-Ferndale CDP
+42|25168|Falmouth|Falmouth CDP
+42|25248|Farmersville|Farmersville CDP
+42|25280|Farmington|Farmington CDP
+42|25420|Fawn Lake Forest|Fawn Lake Forest CDP
+42|25424|Faxon|Faxon CDP
+42|25464|Fayetteville|Fayetteville CDP
+42|25496|Feasterville|Feasterville CDP
+42|25568|Fellsburg|Fellsburg CDP
+42|25744|Fernville|Fernville CDP
+42|25752|Fernway|Fernway CDP
+42|26232|Fivepointville|Fivepointville CDP
+42|26328|Flora Dale|Flora Dale CDP
+42|26376|Flourtown|Flourtown CDP
+42|26397|Flying Hills|Flying Hills CDP
+42|26432|Folsom|Folsom CDP
+42|26488|Foot of Ten|Foot of Ten CDP
+42|26504|Force|Force CDP
+42|26704|Forestville|Forestville CDP
+42|26812|Fort Indiantown Gap|Fort Indiantown Gap CDP
+42|26824|Fort Loudon|Fort Loudon CDP
+42|26872|Fort Washington|Fort Washington CDP
+42|26960|Foster Brook|Foster Brook CDP
+42|26984|Foundryville|Foundryville CDP
+42|27024|Fountain Springs|Fountain Springs CDP
+42|27130|Fox Chase|Fox Chase CDP
+42|27207|Fox Run|Fox Run CDP
+42|27648|Fredericksburg|Fredericksburg CDP
+42|27656|Fredericksburg|Fredericksburg CDP
+42|27672|Fredericktown|Fredericktown CDP
+42|27928|Friedens|Friedens CDP
+42|27936|Friedensburg|Friedensburg CDP
+42|28014|Frizzleburg|Frizzleburg CDP
+42|28128|Frystown|Frystown CDP
+42|28144|Fullerton|Fullerton CDP
+42|28376|Gap|Gap CDP
+42|28456|Garden View|Garden View CDP
+42|28488|Gardners|Gardners CDP
+42|28600|Gastonville|Gastonville CDP
+42|28768|Geneva|Geneva CDP
+42|28828|Georgetown|Georgetown CDP
+42|28832|Georgetown|Georgetown CDP
+42|29000|Gibraltar|Gibraltar CDP
+42|29040|Gibsonia|Gibsonia CDP
+42|29096|Gilbertsville|Gilbertsville CDP
+42|29496|Glenburn|Glenburn CDP
+42|29680|Glen Lyon|Glen Lyon CDP
+42|29800|Glenshaw|Glenshaw CDP
+42|29808|Glenside|Glenside CDP
+42|30013|Gold Key Lake|Gold Key Lake CDP
+42|30096|Goodville|Goodville CDP
+42|30136|Gordonville|Gordonville CDP
+42|30192|Gouglersville|Gouglersville CDP
+42|30200|Gouldsboro|Gouldsboro CDP
+42|30224|Graceton|Graceton CDP
+42|30435|Grantley|Grantley CDP
+42|30472|Granville|Granville CDP
+42|30512|Grapeville|Grapeville CDP
+42|30528|Grassflat|Grassflat CDP
+42|30704|Grazierville|Grazierville CDP
+42|31038|Greenfields|Greenfields CDP
+42|31120|Greenock|Greenock CDP
+42|31208|Greens Landing|Greens Landing CDP
+42|31368|Greenwood|Greenwood CDP
+42|31536|Grier City|Grier City CDP
+42|31568|Grill|Grill CDP
+42|31592|Grindstone|Grindstone CDP
+42|31716|Guilford|Guilford CDP
+42|31840|Guys Mills|Guys Mills CDP
+42|32024|Halfway House|Halfway House CDP
+42|32320|Hampton|Hampton CDP
+42|32384|Hannasville|Hannasville CDP
+42|32600|Harleigh|Harleigh CDP
+42|32616|Harleysville|Harleysville CDP
+42|32656|Harmonsburg|Harmonsburg CDP
+42|32864|Harrison City|Harrison City CDP
+42|32976|Hartstown|Hartstown CDP
+42|33024|Harwick|Harwick CDP
+42|33072|Hasson Heights|Hasson Heights CDP
+42|33154|Haverford College|Haverford College CDP
+42|33184|Hawk Run|Hawk Run CDP
+42|33504|Hebron|Hebron CDP
+42|33528|Heckscherville|Heckscherville CDP
+42|33576|Hegins|Hegins CDP
+42|33632|Heidlersburg|Heidlersburg CDP
+42|33672|Heilwood|Heilwood CDP
+42|33772|Hemlock Farms|Hemlock Farms CDP
+42|33840|Hendersonville|Hendersonville CDP
+42|34008|Hereford|Hereford CDP
+42|34048|Herminie|Herminie CDP
+42|34144|Hershey|Hershey CDP
+42|34256|Hickory|Hickory CDP
+42|34308|Hickory Hills|Hickory Hills CDP
+42|34592|Highland Park|Highland Park CDP
+42|34776|Hilldale|Hilldale CDP
+42|34784|Hiller|Hiller CDP
+42|35120|Hokendauqua|Hokendauqua CDP
+42|35172|Holiday Pocono|Holiday Pocono CDP
+42|35364|Homeacre-Lyndora|Homeacre-Lyndora CDP
+42|35448|Hometown|Hometown CDP
+42|35632|Hopeland|Hopeland CDP
+42|35728|Hopwood|Hopwood CDP
+42|35800|Horsham|Horsham CDP
+42|35872|Hostetter|Hostetter CDP
+42|35888|Houserville|Houserville CDP
+42|36064|Hublersburg|Hublersburg CDP
+42|36096|Hudson|Hudson CDP
+42|36240|Hummels Wharf|Hummels Wharf CDP
+42|36352|Hunterstown|Hunterstown CDP
+42|36568|Hyde|Hyde CDP
+42|36576|Hyde Park|Hyde Park CDP
+42|36712|Idaville|Idaville CDP
+42|36768|Imperial|Imperial CDP
+42|36904|Indian Mountain Lake|Indian Mountain Lake CDP
+42|37008|Inkerman|Inkerman CDP
+42|37016|Intercourse|Intercourse CDP
+42|37024|Iola|Iola CDP
+42|37545|Jacksonville|Jacksonville CDP
+42|37552|Jacksonville|Jacksonville CDP
+42|37584|Jacksonwald|Jacksonwald CDP
+42|37656|James City|James City CDP
+42|37728|Jamison City|Jamison City CDP
+42|38104|Jerome|Jerome CDP
+42|38152|Jerseytown|Jerseytown CDP
+42|38240|Joffre|Joffre CDP
+42|38392|Jonestown|Jonestown CDP
+42|38528|Julian|Julian CDP
+42|38744|Kapp Heights|Kapp Heights CDP
+42|39056|Kelayres|Kelayres CDP
+42|39224|Kempton|Kempton CDP
+42|39272|Kenilworth|Kenilworth CDP
+42|39280|Kenmar|Kenmar CDP
+42|39336|Kennerdell|Kennerdell CDP
+42|39504|Kerrtown|Kerrtown CDP
+42|39512|Kersey|Kersey CDP
+42|39736|King of Prussia|King of Prussia CDP
+42|39944|Kirkwood|Kirkwood CDP
+42|39960|Kiskimere|Kiskimere CDP
+42|40136|Klingerstown|Klingerstown CDP
+42|40432|Kratzerville|Kratzerville CDP
+42|40464|Kreamer|Kreamer CDP
+42|40608|Kulpsville|Kulpsville CDP
+42|40666|Kutztown University|Kutztown University CDP
+42|40680|Kylertown|Kylertown CDP
+42|40948|Lake Arthur Estates|Lake Arthur Estates CDP
+42|40981|Lake Heritage|Lake Heritage CDP
+42|40982|Lake Latonka|Lake Latonka CDP
+42|40988|Lake Meade|Lake Meade CDP
+42|40992|Lakemont|Lakemont CDP
+42|41080|Lake Winola|Lake Winola CDP
+42|41099|Lake Wynonah|Lake Wynonah CDP
+42|41104|Lamar|Lamar CDP
+42|41192|Lampeter|Lampeter CDP
+42|41304|Landisville|Landisville CDP
+42|41376|Langeloth|Langeloth CDP
+42|41700|Lattimer|Lattimer CDP
+42|41856|Laurelton|Laurelton CDP
+42|41880|Laurys Station|Laurys Station CDP
+42|41904|Lavelle|Lavelle CDP
+42|41944|Lawnton|Lawnton CDP
+42|41968|Lawrence|Lawrence CDP
+42|41992|Lawrence Park|Lawrence Park CDP
+42|42032|Lawson Heights|Lawson Heights CDP
+42|42084|Leola|Leola CDP
+42|42192|Lebanon South|Lebanon South CDP
+42|42328|Leeper|Leeper CDP
+42|42596|Leith-Hatfield|Leith-Hatfield CDP
+42|42632|Lemont|Lemont CDP
+42|42640|Lemont Furnace|Lemont Furnace CDP
+42|42672|Lenape Heights|Lenape Heights CDP
+42|42704|Lenkerville|Lenkerville CDP
+42|42912|Level Green|Level Green CDP
+42|42928|Levittown|Levittown CDP
+42|43224|Lightstreet|Lightstreet CDP
+42|43272|Lima|Lima CDP
+42|43320|Lime Ridge|Lime Ridge CDP
+42|43496|Lincoln Park|Lincoln Park CDP
+42|43544|Lincoln University|Lincoln University CDP
+42|43552|Lincolnville|Lincolnville CDP
+42|43672|Linglestown|Linglestown CDP
+42|43704|Linntown|Linntown CDP
+42|43720|Linwood|Linwood CDP
+42|43747|Lionville|Lionville CDP
+42|43828|Little Britain|Little Britain CDP
+42|44224|Locustdale|Locustdale CDP
+42|44528|Longfellow|Longfellow CDP
+42|44672|Lorane|Lorane CDP
+42|44824|Lower Allen|Lower Allen CDP
+42|45192|Loyalhanna|Loyalhanna CDP
+42|45312|Lucerne Mines|Lucerne Mines CDP
+42|45452|Lumber City|Lumber City CDP
+42|45732|Lynnwood-Pricedale|Lynnwood-Pricedale CDP
+42|45848|McAlisterville|McAlisterville CDP
+42|46016|McConnellstown|McConnellstown CDP
+42|46112|McElhattan|McElhattan CDP
+42|46160|McGovern|McGovern CDP
+42|46232|McKeansburg|McKeansburg CDP
+42|46312|McKnightstown|McKnightstown CDP
+42|46344|McMurray|McMurray CDP
+42|46504|Madisonburg|Madisonburg CDP
+42|46720|Mainville|Mainville CDP
+42|46728|Maitland|Maitland CDP
+42|46800|Mammoth|Mammoth CDP
+42|47152|Maple Glen|Maple Glen CDP
+42|47264|Mapletown|Mapletown CDP
+42|47404|Marianne|Marianne CDP
+42|47416|Marienville|Marienville CDP
+42|47464|Marion|Marion CDP
+42|47600|Marlin|Marlin CDP
+42|47736|Marshallton|Marshallton CDP
+42|47896|Martins Creek|Martins Creek CDP
+42|48032|Masthope|Masthope CDP
+42|48064|Mather|Mather CDP
+42|48072|Mattawana|Mattawana CDP
+42|48224|Maytown|Maytown CDP
+42|48320|Meadowlands|Meadowlands CDP
+42|48336|Meadowood|Meadowood CDP
+42|48728|Meridian|Meridian CDP
+42|48824|Mertztown|Mertztown CDP
+42|48868|Messiah College|Messiah College CDP
+42|48904|Mexico|Mexico CDP
+42|49144|Middletown|Middletown CDP
+42|49224|Midway|Midway CDP
+42|49312|Mifflinville|Mifflinville CDP
+42|49440|Milford Square|Milford Square CDP
+42|49736|Millerton|Millerton CDP
+42|49880|Millsboro|Millsboro CDP
+42|49960|Millwood|Millwood CDP
+42|50000|Milroy|Milroy CDP
+42|50104|Mingoville|Mingoville CDP
+42|50208|Mocanaqua|Mocanaqua CDP
+42|50280|Mohrsville|Mohrsville CDP
+42|50552|Montandon|Montandon CDP
+42|50672|Montgomeryville|Montgomeryville CDP
+42|50748|Montrose Manor|Montrose Manor CDP
+42|50760|Monument|Monument CDP
+42|51016|Morgantown|Morgantown CDP
+42|51120|Morrisdale|Morrisdale CDP
+42|51152|Morrisville|Morrisville CDP
+42|51240|Moshannon|Moshannon CDP
+42|51320|Mount Aetna|Mount Aetna CDP
+42|51344|Mountainhome|Mountainhome CDP
+42|51384|Mountain Top|Mountain Top CDP
+42|51536|Mount Cobb|Mount Cobb CDP
+42|51552|Mount Eagle|Mount Eagle CDP
+42|51576|Mount Gretna Heights|Mount Gretna Heights CDP
+42|51720|Mount Morris|Mount Morris CDP
+42|51904|Mount Pleasant Mills|Mount Pleasant Mills CDP
+42|52216|Muhlenberg Park|Muhlenberg Park CDP
+42|52224|Muir|Muir CDP
+42|52312|Mundys Corner|Mundys Corner CDP
+42|52440|Muse|Muse CDP
+42|52632|Naomi|Naomi CDP
+42|52872|Needmore|Needmore CDP
+42|52968|Nemacolin|Nemacolin CDP
+42|53192|New Bedford|New Bedford CDP
+42|53208|New Berlinville|New Berlinville CDP
+42|53392|New Castle Northwest|New Castle Northwest CDP
+42|53432|New Columbia|New Columbia CDP
+42|53576|New Freeport|New Freeport CDP
+42|53728|New Jerusalem|New Jerusalem CDP
+42|53752|New Kingstown|New Kingstown CDP
+42|53856|Newmanstown|Newmanstown CDP
+42|53872|New Market|New Market CDP
+42|54040|New Salem|New Salem CDP
+42|54064|New Schaefferstown|New Schaefferstown CDP
+42|54264|Newtown|Newtown CDP
+42|54268|Newtown Grant|Newtown Grant CDP
+42|54288|New Tripoli|New Tripoli CDP
+42|54520|Nittany|Nittany CDP
+42|54552|Nixon|Nixon CDP
+42|54568|Noblestown|Noblestown CDP
+42|55304|North Philipsburg|North Philipsburg CDP
+42|55480|North Vandergrift|North Vandergrift CDP
+42|55520|North Warren|North Warren CDP
+42|55572|Northwest Harborcreek|Northwest Harborcreek CDP
+42|55584|Northwood|Northwood CDP
+42|55616|Norvelt|Norvelt CDP
+42|55728|Noxen|Noxen CDP
+42|55792|Numidia|Numidia CDP
+42|55808|Nuremberg|Nuremberg CDP
+42|55969|Oak Hills|Oak Hills CDP
+42|55996|Oakland|Oakland CDP
+42|56000|Oakland|Oakland CDP
+42|56232|Oakwood|Oakwood CDP
+42|56264|Oberlin|Oberlin CDP
+42|56488|Oklahoma|Oklahoma CDP
+42|56624|Old Orchard|Old Orchard CDP
+42|56664|Oley|Oley CDP
+42|56704|Oliver|Oliver CDP
+42|56816|Oneida|Oneida CDP
+42|56960|Orchard Hills|Orchard Hills CDP
+42|57024|Oreland|Oreland CDP
+42|57120|Orrtanna|Orrtanna CDP
+42|57160|Orviston|Orviston CDP
+42|57192|Orwin|Orwin CDP
+42|57376|Oval|Oval CDP
+42|57648|Palmdale|Palmdale CDP
+42|57680|Palmer Heights|Palmer Heights CDP
+42|57816|Paoli|Paoli CDP
+42|57840|Paradise|Paradise CDP
+42|57904|Pardeesville|Pardeesville CDP
+42|57928|Paris|Paris CDP
+42|57968|Park Crest|Park Crest CDP
+42|58036|Park Forest Village|Park Forest Village CDP
+42|58240|Parkville|Parkville CDP
+42|58528|Paxtonia|Paxtonia CDP
+42|58536|Paxtonville|Paxtonville CDP
+42|58776|Pen Mar|Pen Mar CDP
+42|58948|Penn Estates|Penn Estates CDP
+42|59160|Penns Creek|Penns Creek CDP
+42|59176|Pennside|Pennside CDP
+42|59212|Penn State Erie (Behrend)|Penn State Erie (Behrend) CDP
+42|59296|Pennville|Pennville CDP
+42|59304|Pennwyn|Pennwyn CDP
+42|59312|Penn Wynne|Penn Wynne CDP
+42|59344|Penryn|Penryn CDP
+42|60224|Pikes Creek|Pikes Creek CDP
+42|60432|Pine Glen|Pine Glen CDP
+42|60496|Pine Grove Mills|Pine Grove Mills CDP
+42|60547|Pine Ridge|Pine Ridge CDP
+42|61080|Plainfield|Plainfield CDP
+42|61112|Plains|Plains CDP
+42|61232|Pleasant Gap|Pleasant Gap CDP
+42|61312|Pleasant Hill|Pleasant Hill CDP
+42|61432|Pleasant View|Pleasant View CDP
+42|61624|Plumsteadville|Plumsteadville CDP
+42|61688|Plymouth Meeting|Plymouth Meeting CDP
+42|61704|Plymptonville|Plymptonville CDP
+42|61756|Pocono Mountain Lake Estates|Pocono Mountain Lake Estates CDP
+42|61768|Pocono Pines|Pocono Pines CDP
+42|61773|Pocono Ranch Lands|Pocono Ranch Lands CDP
+42|61774|Pocono Springs|Pocono Springs CDP
+42|61788|Pocono Woodland Lakes|Pocono Woodland Lakes CDP
+42|61968|Pomeroy|Pomeroy CDP
+42|62312|Port Trevorton|Port Trevorton CDP
+42|62340|Potlicker Flats|Potlicker Flats CDP
+42|62396|Pottsgrove|Pottsgrove CDP
+42|62736|Progress|Progress CDP
+42|62784|Prospect Park|Prospect Park CDP
+42|63009|Pymatuning Central|Pymatuning Central CDP
+42|63011|Pymatuning North|Pymatuning North CDP
+42|63013|Pymatuning South|Pymatuning South CDP
+42|63116|Queens Gate|Queens Gate CDP
+42|63160|Quentin|Quentin CDP
+42|63349|Ramblewood|Ramblewood CDP
+42|63416|Ranshaw|Ranshaw CDP
+42|63488|Raubsville|Raubsville CDP
+42|63496|Rauchtown|Rauchtown CDP
+42|63536|Ravine|Ravine CDP
+42|63664|Reamstown|Reamstown CDP
+42|63688|Rebersburg|Rebersburg CDP
+42|63976|Reedsville|Reedsville CDP
+42|64032|Refton|Refton CDP
+42|64056|Rehrersburg|Rehrersburg CDP
+42|64072|Reiffton|Reiffton CDP
+42|64104|Reinerton|Reinerton CDP
+42|64112|Reinholds|Reinholds CDP
+42|64184|Rennerdale|Rennerdale CDP
+42|64188|Renningers|Renningers CDP
+42|64224|Republic|Republic CDP
+42|64288|Revloc|Revloc CDP
+42|64296|Rew|Rew CDP
+42|64368|Reynolds Heights|Reynolds Heights CDP
+42|64392|Rheems|Rheems CDP
+42|64440|Riceville|Riceville CDP
+42|64464|Richboro|Richboro CDP
+42|64488|Richfield|Richfield CDP
+42|65088|Riverside|Riverside CDP
+42|65192|Riverview Park|Riverview Park CDP
+42|65360|Robinson|Robinson CDP
+42|65848|Rogersville|Rogersville CDP
+42|65872|Rohrsburg|Rohrsburg CDP
+42|65976|Ronco|Ronco CDP
+42|65984|Ronks|Ronks CDP
+42|66304|Rossiter|Rossiter CDP
+42|66384|Rote|Rote CDP
+42|66392|Rothsville|Rothsville CDP
+42|66408|Roulette|Roulette CDP
+42|66448|Rouzerville|Rouzerville CDP
+42|66472|Rowes Run|Rowes Run CDP
+42|66696|Rupert|Rupert CDP
+42|66808|Russell|Russell CDP
+42|66832|Russellton|Russellton CDP
+42|66864|Rutherford|Rutherford CDP
+42|67352|St. Michael|St. Michael CDP
+42|67416|St. Vincent College|St. Vincent College CDP
+42|67608|Salix|Salix CDP
+42|67656|Salunga|Salunga CDP
+42|67712|Sanatoga|Sanatoga CDP
+42|67744|Sand Hill|Sand Hill CDP
+42|67784|Sandy|Sandy CDP
+42|67872|Sandy Ridge|Sandy Ridge CDP
+42|68036|Saw Creek|Saw Creek CDP
+42|68088|Saylorsburg|Saylorsburg CDP
+42|68144|Schaefferstown|Schaefferstown CDP
+42|68188|Schlusser|Schlusser CDP
+42|68192|Schnecksville|Schnecksville CDP
+42|68200|Schoeneck|Schoeneck CDP
+42|68248|Schubert|Schubert CDP
+42|68376|Scotland|Scotland CDP
+42|69256|Seltzer|Seltzer CDP
+42|69272|Seneca|Seneca CDP
+42|69715|Shanor-Northvue|Shanor-Northvue CDP
+42|69816|Shartlesville|Shartlesville CDP
+42|69832|Shavertown|Shavertown CDP
+42|69952|Sheatown|Sheatown CDP
+42|69984|Sheffield|Sheffield CDP
+42|70064|Shenandoah Heights|Shenandoah Heights CDP
+42|70128|Sheppton|Sheppton CDP
+42|70256|Shiloh|Shiloh CDP
+42|70362|Shippensburg University|Shippensburg University CDP
+42|70640|Sidman|Sidman CDP
+42|70652|Sierra View|Sierra View CDP
+42|70664|Siglerville|Siglerville CDP
+42|70704|Silkworth|Silkworth CDP
+42|70840|Simpson|Simpson CDP
+42|71008|Skippack|Skippack CDP
+42|71032|Skyline View|Skyline View CDP
+42|71056|Slabtown|Slabtown CDP
+42|71080|Slatedale|Slatedale CDP
+42|71160|Slickville|Slickville CDP
+42|71210|Slippery Rock University|Slippery Rock University CDP
+42|71232|Slovan|Slovan CDP
+42|71456|Smock|Smock CDP
+42|71504|Smoketown|Smoketown CDP
+42|71694|Snydertown|Snydertown CDP
+42|71848|Soudersburg|Soudersburg CDP
+42|72403|South Park Township|South Park Township CDP
+42|72416|South Philipsburg|South Philipsburg CDP
+42|72432|South Pottstown|South Pottstown CDP
+42|72520|South Temple|South Temple CDP
+42|72552|South Uniontown|South Uniontown CDP
+42|72576|Southview|Southview CDP
+42|72768|Spinnerstown|Spinnerstown CDP
+42|73224|Spring Hill|Spring Hill CDP
+42|73264|Spring House|Spring House CDP
+42|73288|Spring Mills|Spring Mills CDP
+42|73296|Springmont|Springmont CDP
+42|73312|Spring Mount|Spring Mount CDP
+42|73318|Spring Ridge|Spring Ridge CDP
+42|73528|Spry|Spry CDP
+42|73704|Starbrick|Starbrick CDP
+42|73720|Star Junction|Star Junction CDP
+42|73848|State Line|State Line CDP
+42|74040|Stevens|Stevens CDP
+42|74160|Stiles|Stiles CDP
+42|74360|Stonerstown|Stonerstown CDP
+42|74416|Stonybrook|Stonybrook CDP
+42|74448|Stony Creek Mills|Stony Creek Mills CDP
+42|74544|Stormstown|Stormstown CDP
+42|74568|Stouchsburg|Stouchsburg CDP
+42|74660|Stowe|Stowe CDP
+42|74848|Strodes Mills|Strodes Mills CDP
+42|74864|Strong|Strong CDP
+42|74944|Sturgeon|Sturgeon CDP
+42|75272|Summit Station|Summit Station CDP
+42|75381|Sunrise Lake|Sunrise Lake CDP
+42|75432|Sun Valley|Sun Valley CDP
+42|75574|Susquehanna Trails|Susquehanna Trails CDP
+42|75664|Swartzville|Swartzville CDP
+42|75728|Sweden Valley|Sweden Valley CDP
+42|75968|Table Rock|Table Rock CDP
+42|76232|Taylorstown|Taylorstown CDP
+42|76320|Temple|Temple CDP
+42|76336|Templeton|Templeton CDP
+42|76432|Tharptown (Uniontown)|Tharptown (Uniontown) CDP
+42|76440|The Hideout|The Hideout CDP
+42|76552|Thompsonville|Thompsonville CDP
+42|76584|Thorndale|Thorndale CDP
+42|76724|Timber Hills|Timber Hills CDP
+42|76880|Tipton|Tipton CDP
+42|77016|Toftrees|Toftrees CDP
+42|77144|Toughkenamon|Toughkenamon CDP
+42|77163|Towamensing Trails|Towamensing Trails CDP
+42|77335|Treasure Lake|Treasure Lake CDP
+42|77424|Tresckow|Tresckow CDP
+42|77448|Trevorton|Trevorton CDP
+42|77456|Trevose|Trevose CDP
+42|77488|Trexlertown|Trexlertown CDP
+42|77520|Trooper|Trooper CDP
+42|77576|Troxelville|Troxelville CDP
+42|77656|Trucksville|Trucksville CDP
+42|77968|Tuscarora|Tuscarora CDP
+42|78115|Tyler Run|Tyler Run CDP
+42|78120|Tylersburg|Tylersburg CDP
+42|78472|Union Deposit|Union Deposit CDP
+42|78608|Unionville|Unionville CDP
+42|78700|University of Pittsburgh Johnstown|University of Pittsburgh Johnstown CDP
+42|79016|Upper Exeter|Upper Exeter CDP
+42|79277|Upper St. Clair|Upper St. Clair CDP
+42|79640|Valley Green|Valley Green CDP
+42|79680|Valley View|Valley View CDP
+42|79682|Valley View|Valley View CDP
+42|79872|Van Voorhis|Van Voorhis CDP
+42|80144|Vicksburg|Vicksburg CDP
+42|80218|Village Green-Green Ridge|Village Green-Green Ridge CDP
+42|80229|Village Shires|Village Shires CDP
+42|80264|Vinco|Vinco CDP
+42|80336|Virginville|Virginville CDP
+42|80384|Vowinckel|Vowinckel CDP
+42|80432|Wagner|Wagner CDP
+42|80480|Wakefield|Wakefield CDP
+42|80652|Wallenpaupack Lake Estates|Wallenpaupack Lake Estates CDP
+42|80656|Waller|Waller CDP
+42|80808|Walnuttown|Walnuttown CDP
+42|80896|Wanamie|Wanamie CDP
+42|80962|Warminster Heights|Warminster Heights CDP
+42|81360|Washington Boro|Washington Boro CDP
+42|81664|Waverly|Waverly CDP
+42|81808|Wayne Heights|Wayne Heights CDP
+42|81936|Webster|Webster CDP
+42|81960|Weedville|Weedville CDP
+42|82008|Weigelstown|Weigelstown CDP
+42|82088|Weissport East|Weissport East CDP
+42|82320|Wescosville|Wescosville CDP
+42|82376|West Alexander|West Alexander CDP
+42|82792|West Decatur|West Decatur CDP
+42|82920|West Fairview|West Fairview CDP
+42|82952|West Falls|West Falls CDP
+42|83120|West Hamburg|West Hamburg CDP
+42|83172|West Hills|West Hills CDP
+42|83272|Westland|Westland CDP
+42|83280|West Lawn|West Lawn CDP
+42|83520|West Milton|West Milton CDP
+42|83656|West Nanticoke|West Nanticoke CDP
+42|83720|Weston|Weston CDP
+42|83848|West Pittsburg|West Pittsburg CDP
+42|84176|West Waynesburg|West Waynesburg CDP
+42|84248|Westwood|Westwood CDP
+42|84280|West Wyomissing|West Wyomissing CDP
+42|84696|White Mills|White Mills CDP
+42|84856|Whitfield|Whitfield CDP
+42|84931|Wickerham Manor-Fisher|Wickerham Manor-Fisher CDP
+42|84968|Wiconsico|Wiconsico CDP
+42|85076|Wilburton Number One|Wilburton Number One CDP
+42|85078|Wilburton Number Two|Wilburton Number Two CDP
+42|85088|Wilcox|Wilcox CDP
+42|85408|Willow Grove|Willow Grove CDP
+42|85464|Willow Street|Willow Street CDP
+42|85712|Wind Ridge|Wind Ridge CDP
+42|85792|Winfield|Winfield CDP
+42|85968|Witmer|Witmer CDP
+42|86000|Wolfdale|Wolfdale CDP
+42|86112|Woodbourne|Woodbourne CDP
+42|86224|Woodland Heights|Woodland Heights CDP
+42|86288|Woodlyn|Woodlyn CDP
+42|86352|Woodside|Woodside CDP
+42|86432|Woodward|Woodward CDP
+42|86576|Woxhall|Woxhall CDP
+42|86672|Wyano|Wyano CDP
+42|86712|Wylandville|Wylandville CDP
+42|86744|Wyncote|Wyncote CDP
+42|86776|Wyndmoor|Wyndmoor CDP
+42|86976|Yeagertown|Yeagertown CDP
+42|87088|Yorklyn|Yorklyn CDP
+42|87240|Yukon|Yukon CDP
+42|87320|Zion|Zion CDP

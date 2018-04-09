@@ -1,0 +1,252 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+05|00001|DeWitt School District|DeWitt School District
+05|00006|Warren School District|Warren School District
+05|00007|Eudora Public Schools|Eudora Public Schools
+05|00009|Corning Public Schools|Corning Public Schools
+05|00012|Riverside School District|Riverside School District
+05|00015|Sheridan School District|Sheridan School District
+05|00016|Marmaduke School District|Marmaduke School District
+05|00017|Paragould School District|Paragould School District
+05|00019|Batesville School District|Batesville School District
+05|00020|Midland School District|Midland School District
+05|00021|Izard Cty Consolidated Schools|Izard Cty Consolidated Schools
+05|00023|Newport School District|Newport School District
+05|00026|Pine Bluff School District|Pine Bluff School District
+05|00028|Star City School District|Star City School District
+05|00029|Gosnell School District|Gosnell School District
+05|00030|Nevada School District|Nevada School District
+05|00032|Bearden School District|Bearden School District
+05|00041|Western Yell County School District|Western Yell County School District
+05|00042|Hamburg School District|Hamburg School District
+05|00043|Mountain Home School District|Mountain Home School District
+05|00044|Magnolia School District|Magnolia School District
+05|00045|South Mississippi County School District|South Mississippi County School District
+05|00046|Manila School District|Manila School District
+05|00047|Trumann Schools|Trumann Schools
+05|00048|East Poinsett County School District|East Poinsett County School District
+05|00049|De Queen School District|De Queen School District
+05|00051|Palestine-Wheatley School District|Palestine-Wheatley School District
+05|00065|Lafayette County School District|Lafayette County School District
+05|00067|Cleveland County School District|Cleveland County School District
+05|00068|Emerson-Taylor School District|Emerson-Taylor School District
+05|00070|Cedar Ridge School District|Cedar Ridge School District
+05|00071|Hillcrest School District|Hillcrest School District
+05|00072|Deer/Mount Judea School District|Deer/Mount Judea School District
+05|00073|Ouachita River School District|Ouachita River School District
+05|00076|Ozark Mountain School District|Ozark Mountain School District
+05|00077|Twin Rivers School District|Twin Rivers School District
+05|00079|Two Rivers School District|Two Rivers School District
+05|02250|Alma School District|Alma School District
+05|02280|Alpena School District|Alpena School District
+05|02330|Altheimer Unified School District|Altheimer Unified School District
+05|02430|Arkadelphia School District|Arkadelphia School District
+05|02550|Armorel School District|Armorel School District
+05|02580|Ashdown School District|Ashdown School District
+05|02610|Atkins Public Schools|Atkins Public Schools
+05|02670|Augusta School District|Augusta School District
+05|02700|Bald Knob School District|Bald Knob School District
+05|02730|Barton-Lexa School District|Barton-Lexa School District
+05|02790|Bauxite School District|Bauxite School District
+05|02820|Bay School District|Bay School District
+05|02880|Beebe School District|Beebe School District
+05|02960|Benton School District|Benton School District
+05|03030|Pea Ridge School District|Pea Ridge School District
+05|03060|Bentonville Public Schools|Bentonville Public Schools
+05|03090|Bergman School District|Bergman School District
+05|03150|Berryville Public Schools|Berryville Public Schools
+05|03240|Bismarck Public Schools|Bismarck Public Schools
+05|03270|Black Rock School District|Black Rock School District
+05|03300|Blevins School District|Blevins School District
+05|03320|Blytheville School District|Blytheville School District
+05|03420|Lead Hill School District|Lead Hill School District
+05|03450|Booneville School District|Booneville School District
+05|03480|Bradford School District|Bradford School District
+05|03510|Bradley School District|Bradley School District
+05|03630|Brinkley School District|Brinkley School District
+05|03640|Brookland School District|Brookland School District
+05|03690|Bryant Public Schools|Bryant Public Schools
+05|03710|Buffalo Island Central School District|Buffalo Island Central School District
+05|03750|Cabot Public Schools|Cabot Public Schools
+05|03770|Caddo Hills School District|Caddo Hills School District
+05|03840|Calico Rock School District|Calico Rock School District
+05|03960|Carlisle School District|Carlisle School District
+05|04020|Westside Consolidated School District|Westside Consolidated School District
+05|04050|Cave City School District|Cave City School District
+05|04080|Cedarville School District|Cedarville School District
+05|04110|Genoa Central School District|Genoa Central School District
+05|04170|White County Central School District|White County Central School District
+05|04200|Charleston School District|Charleston School District
+05|04350|Clarendon School District|Clarendon School District
+05|04370|Rector School District|Rector School District
+05|04380|Clarksville School District|Clarksville School District
+05|04410|Clinton School District|Clinton School District
+05|04560|Concord Public Schools|Concord Public Schools
+05|04590|Conway Public Schools|Conway Public Schools
+05|04680|Cotter School District|Cotter School District
+05|04740|County Line School District|County Line School District
+05|04800|Crossett School District|Crossett School District
+05|04860|Cutter-Morning Star School District|Cutter-Morning Star School District
+05|04890|Danville School District|Danville School District
+05|04930|Dardanelle Public Schools|Dardanelle Public Schools
+05|04980|Decatur School District|Decatur School District
+05|05070|Delight School District|Delight School District
+05|05170|Dermott School District|Dermott School District
+05|05190|Des Arc Public Schools|Des Arc Public Schools
+05|05310|De Valls Bluff Schools|De Valls Bluff Schools
+05|05340|Dierks School District|Dierks School District
+05|05410|Dollarway School District|Dollarway School District
+05|05430|Dover School District|Dover School District
+05|05470|Drew Central School District|Drew Central School District
+05|05500|Dumas School District|Dumas School District
+05|05550|Earle School District|Earle School District
+05|05580|East End School District|East End School District
+05|05680|El Dorado School District|El Dorado School District
+05|05740|Elaine School District|Elaine School District
+05|05760|Elkins School District|Elkins School District
+05|05850|England School District|England School District
+05|05970|Eureka Springs School District|Eureka Springs School District
+05|06060|Camden Fairview School District|Camden Fairview School District
+05|06090|Farmington School District|Farmington School District
+05|06120|Fayetteville School District|Fayetteville School District
+05|06150|Flippin School District|Flippin School District
+05|06210|Fordyce School District|Fordyce School District
+05|06240|Foreman School District|Foreman School District
+05|06270|Forrest City School District|Forrest City School District
+05|06330|Fort Smith Public Schools|Fort Smith Public Schools
+05|06360|Fouke School District|Fouke School District
+05|06420|Fountain Lake School District|Fountain Lake School District
+05|06540|Gentry Public Schools|Gentry Public Schools
+05|06630|Glen Rose School District|Glen Rose School District
+05|06690|Centerpoint School District|Centerpoint School District
+05|06840|Gravette School District|Gravette School District
+05|06870|Green Forest School District|Green Forest School District
+05|06900|Greenbrier School District|Greenbrier School District
+05|06930|Greenland Public Schools|Greenland Public Schools
+05|06990|Greenwood School District|Greenwood School District
+05|07110|Gurdon School District|Gurdon School District
+05|07140|Guy-Perkins Schools|Guy-Perkins Schools
+05|07170|Hackett Public Schools|Hackett Public Schools
+05|07230|Hampton School District|Hampton School District
+05|07290|Harmony Grove School District|Harmony Grove School District
+05|07320|Harmony Grove School District|Harmony Grove School District
+05|07350|Harrisburg School District|Harrisburg School District
+05|07380|Harrison School District|Harrison School District
+05|07410|Hartford School District|Hartford School District
+05|07530|Hazen School District|Hazen School District
+05|07560|Heber Springs School District|Heber Springs School District
+05|07620|Hector School District|Hector School District
+05|07680|Helena-West Helena School District|Helena-West Helena School District
+05|07710|Hermitage School District|Hermitage School District
+05|07740|Cross County School District|Cross County School District
+05|07770|Highland School District|Highland School District
+05|07840|Hope School District|Hope School District
+05|07860|Horatio School District|Horatio School District
+05|07890|Hot Springs School District|Hot Springs School District
+05|07920|Jessieville School District|Jessieville School District
+05|07990|Hoxie School District|Hoxie School District
+05|08010|Hughes School District|Hughes School District
+05|08040|West Memphis School District|West Memphis School District
+05|08130|Huntsville School District|Huntsville School District
+05|08240|Jasper School District|Jasper School District
+05|08280|Jonesboro Public Schools|Jonesboro Public Schools
+05|08340|Junction City School District|Junction City School District
+05|08400|Riverview School District|Riverview School District
+05|08490|Kirby School District|Kirby School District
+05|08610|Lake Hamilton School District|Lake Hamilton School District
+05|08640|Lakeside School District|Lakeside School District
+05|08670|Lakeside School District|Lakeside School District
+05|08700|Lamar School District|Lamar School District
+05|08730|Lavaca Public Schools|Lavaca Public Schools
+05|08940|Lincoln School District|Lincoln School District
+05|09000|Little Rock School District|Little Rock School District
+05|09030|Lockesburg School District|Lockesburg School District
+05|09060|Lonoke School District|Lonoke School District
+05|09150|Magazine Schools|Magazine Schools
+05|09190|Magnet Cove School District|Magnet Cove School District
+05|09240|Malvern Special School District|Malvern Special School District
+05|09270|Mammoth Spring Schools|Mammoth Spring Schools
+05|09330|Mansfield School District|Mansfield School District
+05|09360|Lee County School District|Lee County School District
+05|09390|Marion School District|Marion School District
+05|09420|Marked Tree School District|Marked Tree School District
+05|09480|Searcy County School District|Searcy County School District
+05|09510|Marvell School District|Marvell School District
+05|09540|Mayflower School District|Mayflower School District
+05|09570|Maynard School District|Maynard School District
+05|09600|McCrory School District|McCrory School District
+05|09630|McGehee School District|McGehee School District
+05|09720|Melbourne School District|Melbourne School District
+05|09750|Mena Public Schools|Mena Public Schools
+05|09780|Mineral Springs School District|Mineral Springs School District
+05|09840|Monticello School District|Monticello School District
+05|09990|Mount Ida School District|Mount Ida School District
+05|10080|Mount Vernon-Enola School District|Mount Vernon-Enola School District
+05|10170|Mountain Pine School District|Mountain Pine School District
+05|10200|Mountain View School District|Mountain View School District
+05|10260|Mountainburg Schools|Mountainburg Schools
+05|10290|Mulberry School District|Mulberry School District
+05|10320|Murfreesboro School District|Murfreesboro School District
+05|10380|Nashville School District|Nashville School District
+05|10410|Nemo Vista School District|Nemo Vista School District
+05|10440|Nettleton School District|Nettleton School District
+05|10560|Norfork Schools|Norfork Schools
+05|10620|Norphlet School District|Norphlet School District
+05|10680|North Little Rock School District|North Little Rock School District
+05|10920|Omaha School District|Omaha School District
+05|10950|Osceola School District|Osceola School District
+05|10980|Ouachita School District|Ouachita School District
+05|11010|Ozark School District|Ozark School District
+05|11070|Pangburn School District|Pangburn School District
+05|11130|Paris School District|Paris School District
+05|11220|Parkers Chapel School District|Parkers Chapel School District
+05|11340|Perryville School District|Perryville School District
+05|11370|Piggott School District|Piggott School District
+05|11610|Pocahontas School District|Pocahontas School District
+05|11700|Pottsville Public Schools|Pottsville Public Schools
+05|11730|Poyen School District|Poyen School District
+05|11760|Prairie Grove School District|Prairie Grove School District
+05|11820|Prescott School District|Prescott School District
+05|11850|Pulaski County Special School District|Pulaski County Special School District
+05|11880|Quitman School District|Quitman School District
+05|11970|Rogers Public Schools|Rogers Public Schools
+05|12000|Rose Bud School District|Rose Bud School District
+05|12060|Russellville Schools|Russellville Schools
+05|12090|Salem School District|Salem School District
+05|12180|Scranton School District|Scranton School District
+05|12210|Searcy School District|Searcy School District
+05|12420|Shirley School District|Shirley School District
+05|12450|Siloam Springs Schools|Siloam Springs Schools
+05|12480|Sloan-Hendrix School District|Sloan-Hendrix School District
+05|12510|Smackover School District|Smackover School District
+05|12520|South Conway County School District|South Conway County School District
+05|12540|Southside School District|Southside School District
+05|12570|South Side-Bee Branch School District|South Side-Bee Branch School District
+05|12630|Spring Hill School District|Spring Hill School District
+05|12660|Springdale School District|Springdale School District
+05|12870|Stephens School District|Stephens School District
+05|12930|Strong School District|Strong School District
+05|12960|Stuttgart School District|Stuttgart School District
+05|13080|Greene County Technical School District|Greene County Technical School District
+05|13110|Texarkana School District|Texarkana School District
+05|13230|Jackson County School District|Jackson County School District
+05|13260|Turrell School District|Turrell School District
+05|13350|Valley Springs School District|Valley Springs School District
+05|13380|Valley View School District|Valley View School District
+05|13410|Van Buren School District|Van Buren School District
+05|13440|Van-Cove School District|Van-Cove School District
+05|13530|Vilonia School District|Vilonia School District
+05|13560|Viola School District|Viola School District
+05|13650|Waldo School District|Waldo School District
+05|13680|Waldron School District|Waldron School District
+05|13740|Walnut Ridge School District|Walnut Ridge School District
+05|13930|Watson Chapel School District|Watson Chapel School District
+05|13950|Weiner School District|Weiner School District
+05|14010|West Fork School District|West Fork School District
+05|14020|Westside School District|Westside School District
+05|14040|West Side School District|West Side School District
+05|14140|White Hall School District|White Hall School District
+05|14160|Wickes School District|Wickes School District
+05|14370|Wonderview School District|Wonderview School District
+05|14400|Woodlawn School District|Woodlawn School District
+05|14430|Wynne Public Schools|Wynne Public Schools
+05|14490|Yellville-Summit School District|Yellville-Summit School District

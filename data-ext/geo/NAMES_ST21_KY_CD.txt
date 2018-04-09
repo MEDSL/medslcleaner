@@ -1,0 +1,7 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+21|01|1|Congressional District 1
+21|02|2|Congressional District 2
+21|03|3|Congressional District 3
+21|04|4|Congressional District 4
+21|05|5|Congressional District 5
+21|06|6|Congressional District 6

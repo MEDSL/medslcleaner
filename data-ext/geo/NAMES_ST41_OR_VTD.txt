@@ -1,0 +1,5 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+41|051|1|Multnomah County District 1|Multnomah County District 1
+41|051|2|Multnomah County District 2|Multnomah County District 2
+41|051|3|Multnomah County District 3|Multnomah County District 3
+41|051|4|Multnomah County District 4|Multnomah County District 4

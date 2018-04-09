@@ -1,0 +1,70 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+22|00030|Acadia Parish School District|Acadia Parish School District
+22|00039|Zachary Community School District|Zachary Community School District
+22|00040|Baker City School District|Baker City School District
+22|00060|Allen Parish School District|Allen Parish School District
+22|00090|Ascension Parish School District|Ascension Parish School District
+22|00120|Assumption Parish School District|Assumption Parish School District
+22|00150|Avoyelles Parish School District|Avoyelles Parish School District
+22|00180|Beauregard Parish School District|Beauregard Parish School District
+22|00210|Bienville Parish School District|Bienville Parish School District
+22|00240|Bogalusa City School District|Bogalusa City School District
+22|00270|Bossier Parish School District|Bossier Parish School District
+22|00300|Caddo Parish School District|Caddo Parish School District
+22|00330|Calcasieu Parish School District|Calcasieu Parish School District
+22|00360|Caldwell Parish School District|Caldwell Parish School District
+22|00390|Cameron Parish School District|Cameron Parish School District
+22|00420|Catahoula Parish School District|Catahoula Parish School District
+22|00450|Claiborne Parish School District|Claiborne Parish School District
+22|00480|Concordia Parish School District|Concordia Parish School District
+22|00510|De Soto Parish School District|De Soto Parish School District
+22|00540|East Baton Rouge Parish School District|East Baton Rouge Parish School District
+22|00570|East Carroll Parish School District|East Carroll Parish School District
+22|00600|East Feliciana Parish School District|East Feliciana Parish School District
+22|00630|Evangeline Parish School District|Evangeline Parish School District
+22|00660|Franklin Parish School District|Franklin Parish School District
+22|00690|Grant Parish School District|Grant Parish School District
+22|00720|Iberia Parish School District|Iberia Parish School District
+22|00750|Iberville Parish School District|Iberville Parish School District
+22|00780|Jackson Parish School District|Jackson Parish School District
+22|00810|Jefferson Davis Parish School District|Jefferson Davis Parish School District
+22|00840|Jefferson Parish School District|Jefferson Parish School District
+22|00870|Lafayette Parish School District|Lafayette Parish School District
+22|00900|Lafourche Parish School District|Lafourche Parish School District
+22|00960|La Salle Parish School District|La Salle Parish School District
+22|00990|Lincoln Parish School District|Lincoln Parish School District
+22|01020|Livingston Parish School District|Livingston Parish School District
+22|01050|Madison Parish School District|Madison Parish School District
+22|01080|Monroe City School District|Monroe City School District
+22|01110|Morehouse Parish School District|Morehouse Parish School District
+22|01140|Natchitoches Parish School District|Natchitoches Parish School District
+22|01170|Orleans Parish School District|Orleans Parish School District
+22|01200|Ouachita Parish School District|Ouachita Parish School District
+22|01230|Plaquemines Parish School District|Plaquemines Parish School District
+22|01260|Pointe Coupee Parish School District|Pointe Coupee Parish School District
+22|01290|Rapides Parish School District|Rapides Parish School District
+22|01320|Red River Parish School District|Red River Parish School District
+22|01350|Richland Parish School District|Richland Parish School District
+22|01380|Sabine Parish School District|Sabine Parish School District
+22|01410|St. Bernard Parish School District|St. Bernard Parish School District
+22|01440|St. Charles Parish School District|St. Charles Parish School District
+22|01470|St. Helena Parish School District|St. Helena Parish School District
+22|01500|St. James Parish School District|St. James Parish School District
+22|01530|St. John the Baptist Parish School District|St. John the Baptist Parish School District
+22|01560|St. Landry Parish School District|St. Landry Parish School District
+22|01590|St. Martin Parish School District|St. Martin Parish School District
+22|01620|St. Mary Parish School District|St. Mary Parish School District
+22|01650|St. Tammany Parish School District|St. Tammany Parish School District
+22|01680|Tangipahoa Parish School District|Tangipahoa Parish School District
+22|01710|Tensas Parish School District|Tensas Parish School District
+22|01740|Terrebonne Parish School District|Terrebonne Parish School District
+22|01770|Union Parish School District|Union Parish School District
+22|01800|Vermilion Parish School District|Vermilion Parish School District
+22|01830|Vernon Parish School District|Vernon Parish School District
+22|01860|Washington Parish School District|Washington Parish School District
+22|01890|Webster Parish School District|Webster Parish School District
+22|01920|West Baton Rouge Parish School District|West Baton Rouge Parish School District
+22|01950|West Carroll Parish School District|West Carroll Parish School District
+22|01980|West Feliciana Parish School District|West Feliciana Parish School District
+22|02010|Winn Parish School District|Winn Parish School District
+22|06840|Central Community School District|Central Community School District

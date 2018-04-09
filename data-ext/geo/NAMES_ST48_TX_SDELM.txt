@@ -1,0 +1,8 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+48|10620|Bluff Dale Independent School District|Bluff Dale Independent School District
+48|20610|Gholson Independent School District|Gholson Independent School District
+48|26850|Lasara Independent School District|Lasara Independent School District
+48|27990|London Independent School District|London Independent School District
+48|29760|McDade Independent School District|McDade Independent School District
+48|44250|Vysehrad Independent School District|Vysehrad Independent School District
+48|46110|Winfield Independent School District|Winfield Independent School District

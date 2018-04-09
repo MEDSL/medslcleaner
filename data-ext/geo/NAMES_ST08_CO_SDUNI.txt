@@ -1,0 +1,179 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+08|00001|Cheyenne County School District RE-5|Cheyenne County School District RE-5
+08|00016|Yuma School District 1|Yuma School District 1
+08|00017|Wray School District RD-2|Wray School District RD-2
+08|00018|Idalia School District RJ-3|Idalia School District RJ-3
+08|00019|Liberty School District J-4|Liberty School District J-4
+08|01920|Academy School District 20|Academy School District 20
+08|01950|Adams County School District 14|Adams County School District 14
+08|01980|Agate School District 300|Agate School District 300
+08|02010|Aguilar Reorganized School District 6|Aguilar Reorganized School District 6
+08|02040|Akron School District R-1|Akron School District R-1
+08|02070|Alamosa School District RE-11J|Alamosa School District RE-11J
+08|02130|South Conejos School District RE-10|South Conejos School District RE-10
+08|02190|Archuleta County School District 50-JT|Archuleta County School District 50-JT
+08|02220|Arickaree School District R-2|Arickaree School District R-2
+08|02260|Arriba-Flagler School District C-20|Arriba-Flagler School District C-20
+08|02280|Aspen School District 1|Aspen School District 1
+08|02310|Ault-Highland School District RE-9|Ault-Highland School District RE-9
+08|02340|Adams-Arapahoe School District 28J|Adams-Arapahoe School District 28J
+08|02370|Platte Canyon School District 1|Platte Canyon School District 1
+08|02400|Bayfield School District R-10-JT|Bayfield School District R-10-JT
+08|02430|Bennett School District 29-J|Bennett School District 29-J
+08|02460|Bethune School District R-5|Bethune School District R-5
+08|02490|Boulder Valley School District RE-2|Boulder Valley School District RE-2
+08|02520|Branson Reorganized School District 82|Branson Reorganized School District 82
+08|02550|Briggsdale School District RE-10|Briggsdale School District RE-10
+08|02580|Brighton School District 27J|Brighton School District 27J
+08|02610|Brush School District RE-2J|Brush School District RE-2J
+08|02640|Buena Vista School District R-31|Buena Vista School District R-31
+08|02670|Burlington School District RE-6J|Burlington School District RE-6J
+08|02700|Byers School District 32J|Byers School District 32J
+08|02730|Calhan School District RJ-1|Calhan School District RJ-1
+08|02760|Campo School District RE-6|Campo School District RE-6
+08|02790|Cañon City School District RE-1|Cañon City School District RE-1
+08|02850|Center School District 26-JT|Center School District 26-JT
+08|02880|Cheraw School District 31|Cheraw School District 31
+08|02910|Cherry Creek School District 5|Cherry Creek School District 5
+08|02940|Cheyenne Mountain School District 12|Cheyenne Mountain School District 12
+08|03000|Clear Creek School District RE-1|Clear Creek School District RE-1
+08|03030|Plateau Valley School District 50|Plateau Valley School District 50
+08|03060|Colorado Springs School District 11|Colorado Springs School District 11
+08|03090|Montezuma-Cortez School District RE-1|Montezuma-Cortez School District RE-1
+08|03120|Cotopaxi School District RE-3|Cotopaxi School District RE-3
+08|03150|Creede Consolidated School District 1|Creede Consolidated School District 1
+08|03180|Cripple Creek-Victor School District RE-1|Cripple Creek-Victor School District RE-1
+08|03210|Crowley County School District RE-1-J|Crowley County School District RE-1-J
+08|03240|De Beque School District 49-JT|De Beque School District 49-JT
+08|03270|Deer Trail School District 26J|Deer Trail School District 26J
+08|03300|Del Norte School District C-7|Del Norte School District C-7
+08|03330|Delta County School District 50J|Delta County School District 50J
+08|03360|Denver County School District 1|Denver County School District 1
+08|03390|Dolores School District RE-4A|Dolores School District RE-4A
+08|03420|Dolores County School District RE-2|Dolores County School District RE-2
+08|03450|Douglas County School District RE-1|Douglas County School District RE-1
+08|03480|Durango School District 9-R|Durango School District 9-R
+08|03510|Eads School District RE-1|Eads School District RE-1
+08|03540|Eagle County School District RE 50|Eagle County School District RE 50
+08|03600|Eaton School District RE-2|Eaton School District RE-2
+08|03630|Edison School District 54-JT|Edison School District 54-JT
+08|03690|Elbert School District 200|Elbert School District 200
+08|03720|Elizabeth School District C-1|Elizabeth School District C-1
+08|03750|Ellicott School District 22|Ellicott School District 22
+08|03780|Englewood School District 1|Englewood School District 1
+08|03810|Park School District R-3|Park School District R-3
+08|03840|Park County School District RE-2|Park County School District RE-2
+08|03870|Falcon School District 49|Falcon School District 49
+08|03930|Frenchman School District RE-3|Frenchman School District RE-3
+08|03960|Florence School District RE-2|Florence School District RE-2
+08|03990|Poudre School District R-1|Poudre School District R-1
+08|04020|Weld County School District RE-8|Weld County School District RE-8
+08|04050|Fort Morgan School District RE-3|Fort Morgan School District RE-3
+08|04080|Fountain School District 8|Fountain School District 8
+08|04110|Fowler School District R-4J|Fowler School District R-4J
+08|04140|Sierra Grande School District R-30|Sierra Grande School District R-30
+08|04200|Weld County School District RE-1|Weld County School District RE-1
+08|04230|Gilpin County School District RE-1|Gilpin County School District RE-1
+08|04260|Roaring Fork School District RE-1|Roaring Fork School District RE-1
+08|04290|Granada School District RE-1|Granada School District RE-1
+08|04320|East Grand School District 2|East Grand School District 2
+08|04350|Mesa County Valley School District 51|Mesa County Valley School District 51
+08|04380|Garfield County School District 16|Garfield County School District 16
+08|04410|Greeley School District 6|Greeley School District 6
+08|04440|Pawnee School District RE-12|Pawnee School District RE-12
+08|04470|Gunnison Watershed School District RE-1J|Gunnison Watershed School District RE-1J
+08|04500|Hanover School District 28|Hanover School District 28
+08|04530|Harrison School District 2|Harrison School District 2
+08|04560|Haxtun School District RE-2J|Haxtun School District RE-2J
+08|04590|Hayden School District RE-1|Hayden School District RE-1
+08|04620|Hinsdale County School District RE-1|Hinsdale County School District RE-1
+08|04650|Hoehne Reorganized School District 3|Hoehne Reorganized School District 3
+08|04680|Holly School District RE-3|Holly School District RE-3
+08|04710|Holyoke School District RE-1J|Holyoke School District RE-1J
+08|04740|Genoa-Hugo School District C-113|Genoa-Hugo School District C-113
+08|04770|Ignacio School District 11-JT|Ignacio School District 11-JT
+08|04800|Jefferson County School District R-1|Jefferson County School District R-1
+08|04830|Johnstown-Milliken School District RE-5J|Johnstown-Milliken School District RE-5J
+08|04860|Julesburg School District RE-1|Julesburg School District RE-1
+08|04890|Karval School District RE-23|Karval School District RE-23
+08|04920|Keenesburg School District RE-3J|Keenesburg School District RE-3J
+08|04950|Platte Valley School District RE-7|Platte Valley School District RE-7
+08|04980|Kim Reorganized School District 88|Kim Reorganized School District 88
+08|05010|Kiowa School District C-2|Kiowa School District C-2
+08|05040|Kit Carson School District R-1|Kit Carson School District R-1
+08|05070|West Grand School District 1-JT|West Grand School District 1-JT
+08|05100|North Conejos School District RE-1J|North Conejos School District RE-1J
+08|05130|East Otero School District R-1|East Otero School District R-1
+08|05160|La Veta School District RE-2|La Veta School District RE-2
+08|05190|Lake County School District R-1|Lake County School District R-1
+08|05220|Lamar School District RE-2|Lamar School District RE-2
+08|05250|Las Animas School District RE-1|Las Animas School District RE-1
+08|05280|Limon School District RE-4J|Limon School District RE-4J
+08|05310|Littleton School District 6|Littleton School District 6
+08|05340|Lone Star School District 101|Lone Star School District 101
+08|05370|St. Vrain Valley School District RE 1J|St. Vrain Valley School District RE 1J
+08|05400|Thompson School District R-2J|Thompson School District R-2J
+08|05460|Mancos School District RE-6|Mancos School District RE-6
+08|05490|Manitou Springs School District 14|Manitou Springs School District 14
+08|05520|Manzanola School District 3J|Manzanola School District 3J
+08|05550|Mapleton School District 1|Mapleton School District 1
+08|05580|McClave School District RE-2|McClave School District RE-2
+08|05610|Meeker School District RE1|Meeker School District RE1
+08|05640|Buffalo School District RE-4|Buffalo School District RE-4
+08|05670|Miami-Yoder School District 60-JT|Miami-Yoder School District 60-JT
+08|05700|Moffat Consolidated School District 2|Moffat Consolidated School District 2
+08|05730|Moffat County School District RE-1|Moffat County School District RE-1
+08|05760|Monte Vista School District C-8|Monte Vista School District C-8
+08|05790|Montrose County School District RE-1J|Montrose County School District RE-1J
+08|05820|Lewis-Palmer School District 38|Lewis-Palmer School District 38
+08|05850|West End School District RE-2|West End School District RE-2
+08|05880|Norwood School District R-2J|Norwood School District R-2J
+08|05910|South Routt School District RE-3|South Routt School District RE-3
+08|05940|Otis School District R-3|Otis School District R-3
+08|05970|Ouray School District R-1|Ouray School District R-1
+08|06000|Platte Valley School District RE-3|Platte Valley School District RE-3
+08|06030|Plateau School District RE-5|Plateau School District RE-5
+08|06060|Peyton School District 23-JT|Peyton School District 23-JT
+08|06090|Pritchett School District RE-3|Pritchett School District RE-3
+08|06120|Pueblo City School District 60|Pueblo City School District 60
+08|06150|Pueblo County School District 70|Pueblo County School District 70
+08|06180|Rangely School District RE-4|Rangely School District RE-4
+08|06210|Ridgway School District R-2|Ridgway School District R-2
+08|06240|Garfield School District RE-2|Garfield School District RE-2
+08|06270|Rocky Ford School District R-2|Rocky Ford School District R-2
+08|06300|Mountain Valley School District RE-1|Mountain Valley School District RE-1
+08|06330|Salida School District R-32|Salida School District R-32
+08|06360|Centennial School District R-1|Centennial School District R-1
+08|06390|Sanford School District 6J|Sanford School District 6J
+08|06420|Sangre de Cristo School District RE-22J|Sangre de Cristo School District RE-22J
+08|06450|Sargent School District RE-33J|Sargent School District RE-33J
+08|06480|Widefield School District 3|Widefield School District 3
+08|06510|Hi-Plains School District R-23|Hi-Plains School District R-23
+08|06540|Sheridan School District 2|Sheridan School District 2
+08|06570|Silverton School District 1|Silverton School District 1
+08|06600|Big Sandy School District 100J|Big Sandy School District 100J
+08|06630|Springfield School District RE-4|Springfield School District RE-4
+08|06660|Steamboat Springs School District RE-2|Steamboat Springs School District RE-2
+08|06690|Valley School District RE-1|Valley School District RE-1
+08|06720|Prairie School District RE-11|Prairie School District RE-11
+08|06750|Strasburg School District 31J|Strasburg School District 31J
+08|06780|Stratton School District R-4|Stratton School District R-4
+08|06810|Summit School District RE-1|Summit School District RE-1
+08|06840|Swink School District 33|Swink School District 33
+08|06870|Telluride School District R-1|Telluride School District R-1
+08|06900|Northglenn-Thornton School District 12|Northglenn-Thornton School District 12
+08|06930|Plainview School District RE-2|Plainview School District RE-2
+08|06960|Trinidad School District 1|Trinidad School District 1
+08|06990|Vilas School District RE-5|Vilas School District RE-5
+08|07050|North Park School District R-1|North Park School District R-1
+08|07080|Huerfano School District RE-1|Huerfano School District RE-1
+08|07110|Walsh School District RE-1|Walsh School District RE-1
+08|07140|Weldon Valley School District RE-20J|Weldon Valley School District RE-20J
+08|07200|Custer County School District C-1|Custer County School District C-1
+08|07230|Westminster School District 50|Westminster School District 50
+08|07260|Primero Reorganized School District 2|Primero Reorganized School District 2
+08|07290|Wiggins School District RE-50J|Wiggins School District RE-50J
+08|07320|Wiley School District RE-13-JT|Wiley School District RE-13-JT
+08|07350|Windsor School District RE-4|Windsor School District RE-4
+08|07380|Woodland Park School District RE-2|Woodland Park School District RE-2
+08|07410|Woodlin School District R-104|Woodlin School District R-104

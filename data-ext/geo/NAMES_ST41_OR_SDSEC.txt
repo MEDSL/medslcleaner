@@ -1,0 +1,2 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+41|03630|Harney County Union High School District 1J|Harney County Union High School District 1J

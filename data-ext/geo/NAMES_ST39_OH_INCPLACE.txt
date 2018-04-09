@@ -1,0 +1,939 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+39|00142|Aberdeen|Aberdeen village
+39|00198|Ada|Ada village
+39|00380|Adamsville|Adamsville village
+39|00436|Addyston|Addyston village
+39|00450|Adelphi|Adelphi village
+39|00464|Adena|Adena village
+39|01000|Akron|Akron city
+39|01042|Albany|Albany village
+39|01154|Alexandria|Alexandria village
+39|01210|Alger|Alger village
+39|01420|Alliance|Alliance city
+39|01630|Amanda|Amanda village
+39|01672|Amberley|Amberley village
+39|01742|Amelia|Amelia village
+39|01784|Amesville|Amesville village
+39|01798|Amherst|Amherst city
+39|01938|Amsterdam|Amsterdam village
+39|02050|Andover|Andover village
+39|02092|Anna|Anna village
+39|02120|Ansonia|Ansonia village
+39|02148|Antioch|Antioch village
+39|02204|Antwerp|Antwerp village
+39|02232|Apple Creek|Apple Creek village
+39|02274|Aquilla|Aquilla village
+39|02316|Arcadia|Arcadia village
+39|02330|Arcanum|Arcanum village
+39|02344|Archbold|Archbold village
+39|02400|Arlington|Arlington village
+39|02428|Arlington Heights|Arlington Heights village
+39|02568|Ashland|Ashland city
+39|02582|Ashley|Ashley village
+39|02638|Ashtabula|Ashtabula city
+39|02680|Ashville|Ashville village
+39|02722|Athalia|Athalia village
+39|02736|Athens|Athens city
+39|02820|Attica|Attica village
+39|03086|Aurora|Aurora city
+39|03352|Avon|Avon city
+39|03464|Avon Lake|Avon Lake city
+39|03562|Bailey Lakes|Bailey Lakes village
+39|03604|Bainbridge|Bainbridge village
+39|03646|Bairdstown|Bairdstown village
+39|03744|Baltic|Baltic village
+39|03758|Baltimore|Baltimore village
+39|03828|Barberton|Barberton city
+39|03926|Barnesville|Barnesville village
+39|03940|Barnhill|Barnhill village
+39|04150|Batavia|Batavia village
+39|04192|Batesville|Batesville village
+39|04402|Bay View|Bay View village
+39|04416|Bay Village|Bay Village city
+39|04458|Beach City|Beach City village
+39|04500|Beachwood|Beachwood city
+39|04542|Beallsville|Beallsville village
+39|04696|Beaver|Beaver village
+39|04720|Beavercreek|Beavercreek city
+39|04752|Beaverdam|Beaverdam village
+39|04878|Bedford|Bedford city
+39|04920|Bedford Heights|Bedford Heights city
+39|05074|Bellaire|Bellaire village
+39|05102|Bellbrook|Bellbrook city
+39|05116|Belle Center|Belle Center village
+39|05130|Bellefontaine|Bellefontaine city
+39|05158|Belle Valley|Belle Valley village
+39|05228|Bellevue|Bellevue city
+39|05284|Bellville|Bellville village
+39|05312|Belmont|Belmont village
+39|05396|Belmore|Belmore village
+39|05410|Beloit|Beloit village
+39|05424|Belpre|Belpre city
+39|05550|Bentleyville|Bentleyville village
+39|05662|Benton Ridge|Benton Ridge village
+39|05690|Berea|Berea city
+39|05718|Bergholz|Bergholz village
+39|05732|Berkey|Berkey village
+39|05900|Berlin Heights|Berlin Heights village
+39|06068|Bethel|Bethel village
+39|06138|Bethesda|Bethesda village
+39|06194|Bettsville|Bettsville village
+39|06222|Beverly|Beverly village
+39|06278|Bexley|Bexley city
+39|06810|Blakeslee|Blakeslee village
+39|06908|Blanchester|Blanchester village
+39|07062|Bloomdale|Bloomdale village
+39|07188|Bloomingburg|Bloomingburg village
+39|07202|Bloomingdale|Bloomingdale village
+39|07286|Bloomville|Bloomville village
+39|07300|Blue Ash|Blue Ash city
+39|07426|Bluffton|Bluffton village
+39|07594|Bolivar|Bolivar village
+39|07790|Boston Heights|Boston Heights village
+39|07832|Botkins|Botkins village
+39|07916|Bowerston|Bowerston village
+39|07930|Bowersville|Bowersville village
+39|07972|Bowling Green|Bowling Green city
+39|08084|Bradford|Bradford village
+39|08112|Bradner|Bradner village
+39|08168|Brady Lake|Brady Lake village
+39|08336|Bratenahl|Bratenahl village
+39|08364|Brecksville|Brecksville city
+39|08392|Bremen|Bremen village
+39|08504|Brewster|Brewster village
+39|08532|Brice|Brice village
+39|08560|Bridgeport|Bridgeport village
+39|09064|Broadview Heights|Broadview Heights city
+39|09246|Brooklyn|Brooklyn city
+39|09274|Brooklyn Heights|Brooklyn Heights village
+39|09288|Brook Park|Brook Park city
+39|09316|Brookside|Brookside village
+39|09358|Brookville|Brookville city
+39|09386|Broughton|Broughton village
+39|09680|Brunswick|Brunswick city
+39|09792|Bryan|Bryan city
+39|09834|Buchtel|Buchtel village
+39|09890|Buckeye Lake|Buckeye Lake village
+39|09974|Buckland|Buckland village
+39|10030|Bucyrus|Bucyrus city
+39|10254|Burbank|Burbank village
+39|10282|Burgoon|Burgoon village
+39|10296|Burkettsville|Burkettsville village
+39|10436|Burton|Burton village
+39|10632|Butler|Butler village
+39|10674|Butlerville|Butlerville village
+39|10716|Byesville|Byesville village
+39|10800|Cadiz|Cadiz village
+39|10884|Cairo|Cairo village
+39|10940|Caldwell|Caldwell village
+39|10954|Caledonia|Caledonia village
+39|10996|Cambridge|Cambridge city
+39|11024|Camden|Camden village
+39|11066|Campbell|Campbell city
+39|11304|Canal Fulton|Canal Fulton city
+39|11332|Canal Winchester|Canal Winchester village
+39|11360|Canfield|Canfield city
+39|12000|Canton|Canton city
+39|12084|Cardington|Cardington village
+39|12112|Carey|Carey village
+39|12168|Carlisle|Carlisle city
+39|12252|Carroll|Carroll village
+39|12280|Carrollton|Carrollton village
+39|12462|Casstown|Casstown village
+39|12476|Castalia|Castalia village
+39|12504|Castine|Castine village
+39|12560|Catawba|Catawba village
+39|12700|Cecil|Cecil village
+39|12784|Cedarville|Cedarville village
+39|12868|Celina|Celina city
+39|13036|Centerburg|Centerburg village
+39|13169|Centerville|Centerville village
+39|13190|Centerville|Centerville city
+39|13358|Chagrin Falls|Chagrin Falls village
+39|13554|Chardon|Chardon city
+39|13694|Chatfield|Chatfield village
+39|13778|Chauncey|Chauncey village
+39|13834|Cherry Fork|Cherry Fork village
+39|13904|Chesapeake|Chesapeake village
+39|13932|Cheshire|Cheshire village
+39|14086|Chesterhill|Chesterhill village
+39|14114|Chesterville|Chesterville village
+39|14128|Cheviot|Cheviot city
+39|14156|Chickasaw|Chickasaw village
+39|14184|Chillicothe|Chillicothe city
+39|14226|Chilo|Chilo village
+39|14254|Chippewa Lake|Chippewa Lake village
+39|14296|Christiansburg|Christiansburg village
+39|15000|Cincinnati|Cincinnati city
+39|15070|Circleville|Circleville city
+39|15210|Clarington|Clarington village
+39|15336|Clarksburg|Clarksburg village
+39|15406|Clarksville|Clarksville village
+39|15588|Clay Center|Clay Center village
+39|15644|Clayton|Clayton city
+39|16000|Cleveland|Cleveland city
+39|16014|Cleveland Heights|Cleveland Heights city
+39|16028|Cleves|Cleves village
+39|16056|Clifton|Clifton village
+39|16182|Clinton|Clinton village
+39|16266|Cloverdale|Cloverdale village
+39|16308|Clyde|Clyde city
+39|16378|Coal Grove|Coal Grove village
+39|16434|Coalton|Coalton village
+39|16532|Coldwater|Coldwater village
+39|16700|College Corner|College Corner village
+39|17036|Columbiana|Columbiana city
+39|18000|Columbus|Columbus city
+39|18014|Columbus Grove|Columbus Grove village
+39|18070|Commercial Point|Commercial Point village
+39|18266|Conesville|Conesville village
+39|18308|Congress|Congress village
+39|18350|Conneaut|Conneaut city
+39|18504|Continental|Continental village
+39|18546|Convoy|Convoy village
+39|18588|Coolville|Coolville village
+39|18770|Corning|Corning village
+39|18812|Cortland|Cortland city
+39|18840|Corwin|Corwin village
+39|18868|Coshocton|Coshocton city
+39|19050|Covington|Covington village
+39|19106|Craig Beach|Craig Beach village
+39|19330|Crestline|Crestline city
+39|19344|Creston|Creston village
+39|19400|Cridersville|Cridersville village
+39|19456|Crooksville|Crooksville village
+39|19554|Crown City|Crown City village
+39|19694|Cumberland|Cumberland village
+39|19750|Custar|Custar village
+39|19778|Cuyahoga Falls|Cuyahoga Falls city
+39|19806|Cuyahoga Heights|Cuyahoga Heights village
+39|19820|Cygnet|Cygnet village
+39|19974|Dalton|Dalton village
+39|20114|Danville|Danville village
+39|20212|Darbyville|Darbyville village
+39|21000|Dayton|Dayton city
+39|21266|Deer Park|Deer Park city
+39|21294|Deersville|Deersville village
+39|21308|Defiance|Defiance city
+39|21378|De Graff|De Graff village
+39|21434|Delaware|Delaware city
+39|21560|Dellroy|Dellroy village
+39|21602|Delphos|Delphos city
+39|21616|Delta|Delta village
+39|21714|Dennison|Dennison village
+39|21812|Deshler|Deshler village
+39|21910|Dexter City|Dexter City village
+39|22022|Dillonvale|Dillonvale village
+39|22288|Donnelsville|Donnelsville village
+39|22456|Dover|Dover city
+39|22568|Doylestown|Doylestown village
+39|22610|Dresden|Dresden village
+39|22694|Dublin|Dublin city
+39|22946|Dunkirk|Dunkirk village
+39|22974|Dupont|Dupont village
+39|23324|East Canton|East Canton village
+39|23380|East Cleveland|East Cleveland city
+39|23618|Eastlake|Eastlake city
+39|23730|East Liverpool|East Liverpool city
+39|23940|East Palestine|East Palestine city
+39|24052|East Sparta|East Sparta village
+39|24234|Eaton|Eaton city
+39|24486|Edgerton|Edgerton village
+39|24598|Edison|Edison village
+39|24640|Edon|Edon village
+39|24766|Eldorado|Eldorado village
+39|24794|Elgin|Elgin village
+39|24808|Elida|Elida village
+39|25144|Elmore|Elmore village
+39|25186|Elmwood Place|Elmwood Place village
+39|25256|Elyria|Elyria city
+39|25368|Empire|Empire village
+39|25396|Englewood|Englewood city
+39|25452|Enon|Enon village
+39|25704|Euclid|Euclid city
+39|25802|Evendale|Evendale village
+39|25914|Fairborn|Fairborn city
+39|25942|Fairfax|Fairfax village
+39|25970|Fairfield|Fairfield city
+39|26166|Fairlawn|Fairlawn city
+39|26306|Fairport Harbor|Fairport Harbor village
+39|26348|Fairview|Fairview village
+39|26446|Fairview Park|Fairview Park city
+39|26656|Farmersville|Farmersville village
+39|26768|Fayette|Fayette village
+39|26796|Fayetteville|Fayetteville village
+39|26880|Felicity|Felicity village
+39|27048|Findlay|Findlay city
+39|27412|Fletcher|Fletcher village
+39|27538|Florida|Florida village
+39|27552|Flushing|Flushing village
+39|27636|Forest|Forest village
+39|27706|Forest Park|Forest Park city
+39|27818|Fort Jennings|Fort Jennings village
+39|27832|Fort Loramie|Fort Loramie village
+39|27902|Fort Recovery|Fort Recovery village
+39|27944|Fort Shawnee|Fort Shawnee village
+39|28014|Fostoria|Fostoria city
+39|28182|Frankfort|Frankfort village
+39|28476|Franklin|Franklin city
+39|28574|Frazeysburg|Frazeysburg village
+39|28616|Fredericksburg|Fredericksburg village
+39|28658|Fredericktown|Fredericktown village
+39|28798|Freeport|Freeport village
+39|28826|Fremont|Fremont city
+39|29050|Fulton|Fulton village
+39|29064|Fultonham|Fultonham village
+39|29106|Gahanna|Gahanna city
+39|29148|Galena|Galena village
+39|29162|Galion|Galion city
+39|29204|Gallipolis|Gallipolis village
+39|29246|Gambier|Gambier village
+39|29288|Gann|Gann village
+39|29428|Garfield Heights|Garfield Heights city
+39|29442|Garrettsville|Garrettsville village
+39|29498|Gates Mills|Gates Mills village
+39|29610|Geneva|Geneva city
+39|29652|Geneva-on-the-Lake|Geneva-on-the-Lake village
+39|29722|Genoa|Genoa village
+39|29778|Georgetown|Georgetown village
+39|29932|Germantown|Germantown village
+39|29974|Gettysburg|Gettysburg village
+39|30072|Gibsonburg|Gibsonburg village
+39|30114|Gilboa|Gilboa village
+39|30198|Girard|Girard city
+39|30282|Glandorf|Glandorf village
+39|30380|Glendale|Glendale village
+39|30436|Glenford|Glenford village
+39|30506|Glenmont|Glenmont village
+39|30632|Glenwillow|Glenwillow village
+39|30660|Gloria Glens Park|Gloria Glens Park village
+39|30674|Glouster|Glouster village
+39|30702|Gnadenhutten|Gnadenhutten village
+39|30786|Golf Manor|Golf Manor village
+39|30912|Gordon|Gordon village
+39|31150|Grafton|Grafton village
+39|31206|Grand Rapids|Grand Rapids village
+39|31234|Grand River|Grand River village
+39|31304|Grandview Heights|Grandview Heights city
+39|31402|Granville|Granville village
+39|31458|Gratiot|Gratiot village
+39|31472|Gratis|Gratis village
+39|31542|Graysville|Graysville village
+39|31860|Green|Green city
+39|31948|Green Camp|Green Camp village
+39|32088|Greenfield|Greenfield city
+39|32158|Greenhills|Greenhills village
+39|32256|Green Springs|Green Springs village
+39|32340|Greenville|Greenville city
+39|32368|Greenwich|Greenwich village
+39|32592|Grove City|Grove City city
+39|32606|Groveport|Groveport village
+39|32620|Grover Hill|Grover Hill village
+39|32956|Hamden|Hamden village
+39|32984|Hamersville|Hamersville village
+39|33012|Hamilton|Hamilton city
+39|33096|Hamler|Hamler village
+39|33194|Hanging Rock|Hanging Rock village
+39|33292|Hanover|Hanover village
+39|33306|Hanoverton|Hanoverton village
+39|33376|Harbor View|Harbor View village
+39|33656|Harpster|Harpster village
+39|33740|Harrisburg|Harrisburg village
+39|33838|Harrison|Harrison city
+39|34090|Harrisville|Harrisville village
+39|34118|Harrod|Harrod village
+39|34202|Hartford|Hartford village
+39|34328|Hartville|Hartville village
+39|34384|Harveysburg|Harveysburg village
+39|34412|Haskins|Haskins village
+39|34552|Haviland|Haviland village
+39|34636|Hayesville|Hayesville village
+39|34748|Heath|Heath city
+39|34790|Hebron|Hebron village
+39|34860|Helena|Helena village
+39|34888|Hemlock|Hemlock village
+39|35098|Hicksville|Hicksville village
+39|35168|Higginsport|Higginsport village
+39|35210|Highland|Highland village
+39|35252|Highland Heights|Highland Heights city
+39|35255|Highland Hills|Highland Hills village
+39|35476|Hilliard|Hilliard city
+39|35532|Hills and Dales|Hills and Dales village
+39|35560|Hillsboro|Hillsboro city
+39|35658|Hiram|Hiram village
+39|35854|Holgate|Holgate village
+39|35864|Holiday City|Holiday City village
+39|35882|Holland|Holland village
+39|35896|Hollansburg|Hollansburg village
+39|35924|Holloway|Holloway village
+39|35994|Holmesville|Holmesville village
+39|36260|Hopedale|Hopedale village
+39|36568|Hoytville|Hoytville village
+39|36582|Hubbard|Hubbard city
+39|36610|Huber Heights|Huber Heights city
+39|36651|Hudson|Hudson city
+39|36918|Hunting Valley|Hunting Valley village
+39|36988|Huntsville|Huntsville village
+39|37016|Huron|Huron city
+39|37240|Independence|Independence city
+39|37422|Irondale|Irondale village
+39|37464|Ironton|Ironton city
+39|37604|Ithaca|Ithaca village
+39|37842|Jackson|Jackson city
+39|38192|Jacksonburg|Jacksonburg village
+39|38220|Jackson Center|Jackson Center village
+39|38304|Jacksonville|Jacksonville village
+39|38374|Jamestown|Jamestown village
+39|38500|Jefferson|Jefferson village
+39|38920|Jeffersonville|Jeffersonville village
+39|38948|Jenera|Jenera village
+39|39060|Jeromesville|Jeromesville village
+39|39074|Jerry City|Jerry City village
+39|39130|Jerusalem|Jerusalem village
+39|39172|Jewett|Jewett village
+39|39340|Johnstown|Johnstown village
+39|39508|Junction City|Junction City village
+39|39536|Kalida|Kalida village
+39|39662|Kelleys Island|Kelleys Island village
+39|39872|Kent|Kent city
+39|39886|Kenton|Kenton city
+39|40040|Kettering|Kettering city
+39|40054|Kettlersville|Kettlersville village
+39|40180|Killbuck|Killbuck village
+39|40376|Kingston|Kingston village
+39|40544|Kipton|Kipton village
+39|40558|Kirby|Kirby village
+39|40572|Kirkersville|Kirkersville village
+39|40642|Kirtland|Kirtland city
+39|40670|Kirtland Hills|Kirtland Hills village
+39|41118|Lafayette|Lafayette village
+39|41230|LaGrange|LaGrange village
+39|41398|Lakeline|Lakeline village
+39|41454|Lakemore|Lakemore village
+39|41608|Lakeview|Lakeview village
+39|41664|Lakewood|Lakewood city
+39|41720|Lancaster|Lancaster city
+39|41902|La Rue|La Rue village
+39|41986|Latty|Latty village
+39|42028|Laura|Laura village
+39|42084|Laurelville|Laurelville village
+39|42364|Lebanon|Lebanon city
+39|42476|Leesburg|Leesburg village
+39|42518|Leesville|Leesville village
+39|42560|Leetonia|Leetonia village
+39|42602|Leipsic|Leipsic village
+39|42938|Lewisburg|Lewisburg village
+39|42980|Lewisville|Lewisville village
+39|42994|Lexington|Lexington village
+39|43414|Liberty Center|Liberty Center village
+39|43554|Lima|Lima city
+39|43596|Limaville|Limaville village
+39|43722|Lincoln Heights|Lincoln Heights village
+39|43904|Lindsey|Lindsey village
+39|43918|Linndale|Linndale village
+39|44030|Lisbon|Lisbon village
+39|44086|Lithopolis|Lithopolis village
+39|44310|Lockbourne|Lockbourne village
+39|44352|Lockington|Lockington village
+39|44366|Lockland|Lockland village
+39|44604|Lodi|Lodi village
+39|44632|Logan|Logan city
+39|44674|London|London city
+39|44856|Lorain|Lorain city
+39|44912|Lordstown|Lordstown village
+39|44954|Lore City|Lore City village
+39|45066|Loudonville|Loudonville village
+39|45094|Louisville|Louisville city
+39|45108|Loveland|Loveland city
+39|45164|Lowell|Lowell village
+39|45178|Lowellville|Lowellville village
+39|45220|Lower Salem|Lower Salem village
+39|45276|Lucas|Lucas village
+39|45332|Luckey|Luckey village
+39|45374|Ludlow Falls|Ludlow Falls village
+39|45542|Lynchburg|Lynchburg village
+39|45556|Lyndhurst|Lyndhurst city
+39|45626|Lyons|Lyons village
+39|45696|McArthur|McArthur village
+39|45794|McClure|McClure village
+39|45808|McComb|McComb village
+39|45822|McConnelsville|McConnelsville village
+39|45934|McDonald|McDonald village
+39|45976|Macedonia|Macedonia city
+39|46046|McGuffey|McGuffey village
+39|46158|Macksburg|Macksburg village
+39|46312|Madeira|Madeira city
+39|46480|Madison|Madison village
+39|46830|Magnetic Springs|Magnetic Springs village
+39|46844|Magnolia|Magnolia village
+39|46872|Maineville|Maineville village
+39|46942|Malinta|Malinta village
+39|46970|Malta|Malta village
+39|46998|Malvern|Malvern village
+39|47012|Manchester|Manchester village
+39|47138|Mansfield|Mansfield city
+39|47180|Mantua|Mantua village
+39|47306|Maple Heights|Maple Heights city
+39|47474|Marble Cliff|Marble Cliff village
+39|47502|Marblehead|Marblehead village
+39|47558|Marengo|Marengo village
+39|47600|Mariemont|Mariemont village
+39|47628|Marietta|Marietta city
+39|47754|Marion|Marion city
+39|47992|Marseilles|Marseilles village
+39|48048|Marshallville|Marshallville village
+39|48090|Martinsburg|Martinsburg village
+39|48104|Martins Ferry|Martins Ferry city
+39|48118|Martinsville|Martinsville village
+39|48160|Marysville|Marysville city
+39|48188|Mason|Mason city
+39|48244|Massillon|Massillon city
+39|48286|Matamoras|Matamoras village
+39|48342|Maumee|Maumee city
+39|48468|Mayfield|Mayfield village
+39|48482|Mayfield Heights|Mayfield Heights city
+39|48706|Mechanicsburg|Mechanicsburg village
+39|48790|Medina|Medina city
+39|49000|Melrose|Melrose village
+39|49042|Mendon|Mendon village
+39|49056|Mentor|Mentor city
+39|49098|Mentor-on-the-Lake|Mentor-on-the-Lake city
+39|49238|Metamora|Metamora village
+39|49294|Meyers Lake|Meyers Lake village
+39|49434|Miamisburg|Miamisburg city
+39|49644|Middleburg Heights|Middleburg Heights city
+39|49700|Middlefield|Middlefield village
+39|49728|Middle Point|Middle Point village
+39|49756|Middleport|Middleport village
+39|49840|Middletown|Middletown city
+39|49896|Midland|Midland village
+39|49966|Midvale|Midvale village
+39|50008|Midway|Midway village
+39|50036|Mifflin|Mifflin village
+39|50134|Milan|Milan village
+39|50176|Milford|Milford city
+39|50218|Milford Center|Milford Center village
+39|50260|Millbury|Millbury village
+39|50316|Milledgeville|Milledgeville village
+39|50358|Miller City|Miller City village
+39|50372|Millersburg|Millersburg village
+39|50400|Millersport|Millersport village
+39|50540|Millville|Millville village
+39|50708|Milton Center|Milton Center village
+39|50722|Miltonsburg|Miltonsburg village
+39|50764|Mineral City|Mineral City village
+39|50834|Minerva|Minerva village
+39|50862|Minerva Park|Minerva Park village
+39|50904|Mingo Junction|Mingo Junction village
+39|50918|Minster|Minster village
+39|51058|Mogadore|Mogadore village
+39|51310|Monroe|Monroe city
+39|51618|Monroeville|Monroeville village
+39|51674|Montezuma|Montezuma village
+39|51716|Montgomery|Montgomery city
+39|51772|Montpelier|Montpelier village
+39|52010|Moraine|Moraine city
+39|52052|Moreland Hills|Moreland Hills village
+39|52276|Morral|Morral village
+39|52346|Morristown|Morristown village
+39|52374|Morrow|Morrow village
+39|52416|Moscow|Moscow village
+39|52598|Mount Blanchard|Mount Blanchard village
+39|52668|Mount Cory|Mount Cory village
+39|52682|Mount Eaton|Mount Eaton village
+39|52738|Mount Gilead|Mount Gilead village
+39|52752|Mount Healthy|Mount Healthy city
+39|52906|Mount Orab|Mount Orab village
+39|52976|Mount Pleasant|Mount Pleasant village
+39|53046|Mount Sterling|Mount Sterling village
+39|53102|Mount Vernon|Mount Vernon city
+39|53144|Mount Victory|Mount Victory village
+39|53186|Mowrystown|Mowrystown village
+39|53312|Munroe Falls|Munroe Falls city
+39|53410|Murray City|Murray City village
+39|53480|Mutual|Mutual village
+39|53550|Napoleon|Napoleon city
+39|53634|Nashville|Nashville village
+39|53690|Navarre|Navarre village
+39|53816|Nellie|Nellie village
+39|53886|Nelsonville|Nelsonville city
+39|53942|Nevada|Nevada village
+39|53956|Neville|Neville village
+39|53970|New Albany|New Albany village
+39|54012|New Alexandria|New Alexandria village
+39|54040|Newark|Newark city
+39|54068|New Athens|New Athens village
+39|54110|New Bavaria|New Bavaria village
+39|54152|New Bloomington|New Bloomington village
+39|54166|New Boston|New Boston village
+39|54194|New Bremen|New Bremen village
+39|54250|Newburgh Heights|Newburgh Heights village
+39|54334|New Carlisle|New Carlisle city
+39|54432|Newcomerstown|Newcomerstown village
+39|54446|New Concord|New Concord village
+39|54562|New Franklin|New Franklin city
+39|54726|New Holland|New Holland village
+39|54838|New Knoxville|New Knoxville village
+39|54852|New Lebanon|New Lebanon village
+39|54866|New Lexington|New Lexington village
+39|54908|New London|New London village
+39|54978|New Madison|New Madison village
+39|55104|New Miami|New Miami village
+39|55118|New Middletown|New Middletown village
+39|55188|New Paris|New Paris village
+39|55216|New Philadelphia|New Philadelphia city
+39|55384|New Richmond|New Richmond village
+39|55398|New Riegel|New Riegel village
+39|55552|New Straitsville|New Straitsville village
+39|55650|Newton Falls|Newton Falls city
+39|55664|Newtonsville|Newtonsville village
+39|55678|Newtown|Newtown village
+39|55748|New Vienna|New Vienna village
+39|55776|New Washington|New Washington village
+39|55790|New Waterford|New Waterford village
+39|55818|New Weston|New Weston village
+39|55874|Ney|Ney village
+39|55916|Niles|Niles city
+39|56154|North Baltimore|North Baltimore village
+39|56182|North Bend|North Bend village
+39|56294|North Canton|North Canton city
+39|56322|North College Hill|North College Hill city
+39|56420|North Fairfield|North Fairfield village
+39|56448|Northfield|Northfield village
+39|56588|North Hampton|North Hampton village
+39|56700|North Kingsville|North Kingsville village
+39|56770|North Lewisburg|North Lewisburg village
+39|56882|North Olmsted|North Olmsted city
+39|56910|North Perry|North Perry village
+39|56924|North Randall|North Randall village
+39|56966|North Ridgeville|North Ridgeville city
+39|56994|North Robinson|North Robinson village
+39|57008|North Royalton|North Royalton city
+39|57064|North Star|North Star village
+39|57190|Northwood|Northwood city
+39|57260|Norton|Norton city
+39|57302|Norwalk|Norwalk city
+39|57372|Norwich|Norwich village
+39|57386|Norwood|Norwood city
+39|57582|Oak Harbor|Oak Harbor village
+39|57596|Oak Hill|Oak Hill village
+39|57750|Oakwood|Oakwood village
+39|57764|Oakwood|Oakwood city
+39|57792|Oakwood|Oakwood village
+39|57834|Oberlin|Oberlin city
+39|57862|Obetz|Obetz village
+39|57918|Octa|Octa village
+39|58002|Ohio City|Ohio City village
+39|58226|Old Washington|Old Washington village
+39|58422|Olmsted Falls|Olmsted Falls city
+39|58520|Ontario|Ontario city
+39|58604|Orange|Orange village
+39|58674|Orangeville|Orangeville village
+39|58730|Oregon|Oregon city
+39|58800|Orient|Orient village
+39|58828|Orrville|Orrville city
+39|58856|Orwell|Orwell village
+39|58912|Osgood|Osgood village
+39|58940|Ostrander|Ostrander village
+39|58982|Ottawa|Ottawa village
+39|59010|Ottawa Hills|Ottawa Hills village
+39|59052|Ottoville|Ottoville village
+39|59066|Otway|Otway village
+39|59220|Owensville|Owensville village
+39|59234|Oxford|Oxford city
+39|59416|Painesville|Painesville city
+39|59598|Palestine|Palestine village
+39|59738|Pandora|Pandora village
+39|61000|Parma|Parma city
+39|61028|Parma Heights|Parma Heights city
+39|61056|Parral|Parral village
+39|61112|Pataskala|Pataskala city
+39|61182|Patterson|Patterson village
+39|61252|Paulding|Paulding village
+39|61322|Payne|Payne village
+39|61420|Peebles|Peebles village
+39|61504|Pemberville|Pemberville village
+39|61574|Peninsula|Peninsula village
+39|61686|Pepper Pike|Pepper Pike city
+39|61882|Perry|Perry village
+39|62148|Perrysburg|Perrysburg city
+39|62190|Perrysville|Perrysville village
+39|62414|Phillipsburg|Phillipsburg village
+39|62442|Philo|Philo village
+39|62498|Pickerington|Pickerington city
+39|62708|Piketon|Piketon village
+39|62834|Pioneer|Pioneer village
+39|62848|Piqua|Piqua city
+39|62890|Pitsburg|Pitsburg village
+39|63030|Plain City|Plain City village
+39|63044|Plainfield|Plainfield village
+39|63436|Pleasant City|Pleasant City village
+39|63534|Pleasant Hill|Pleasant Hill village
+39|63576|Pleasant Plain|Pleasant Plain village
+39|63716|Pleasantville|Pleasantville village
+39|63800|Plymouth|Plymouth village
+39|63954|Poland|Poland village
+39|63996|Polk|Polk village
+39|64024|Pomeroy|Pomeroy village
+39|64108|Portage|Portage village
+39|64150|Port Clinton|Port Clinton city
+39|64262|Port Jefferson|Port Jefferson village
+39|64304|Portsmouth|Portsmouth city
+39|64346|Port Washington|Port Washington village
+39|64360|Port William|Port William village
+39|64430|Potsdam|Potsdam village
+39|64486|Powell|Powell city
+39|64542|Powhatan Point|Powhatan Point village
+39|64766|Proctorville|Proctorville village
+39|64780|Prospect|Prospect village
+39|65032|Put-in-Bay|Put-in-Bay village
+39|65116|Quaker City|Quaker City village
+39|65200|Quincy|Quincy village
+39|65256|Racine|Racine village
+39|65508|Rarden|Rarden village
+39|65592|Ravenna|Ravenna city
+39|65634|Rawson|Rawson village
+39|65662|Rayland|Rayland village
+39|65732|Reading|Reading city
+39|66152|Reminderville|Reminderville village
+39|66222|Rendville|Rendville village
+39|66320|Republic|Republic village
+39|66390|Reynoldsburg|Reynoldsburg city
+39|66530|Richfield|Richfield village
+39|66824|Richmond|Richmond village
+39|66894|Richmond Heights|Richmond Heights city
+39|66936|Richwood|Richwood village
+39|67118|Ridgeway|Ridgeway village
+39|67258|Rio Grande|Rio Grande village
+39|67272|Ripley|Ripley village
+39|67314|Risingsun|Risingsun village
+39|67356|Rittman|Rittman city
+39|67440|Riverlea|Riverlea village
+39|67468|Riverside|Riverside city
+39|67600|Roaming Shores|Roaming Shores village
+39|67762|Rochester|Rochester village
+39|67846|Rock Creek|Rock Creek village
+39|67874|Rockford|Rockford village
+39|68042|Rocky Ridge|Rocky Ridge village
+39|68056|Rocky River|Rocky River city
+39|68084|Rogers|Rogers village
+39|68196|Rome|Rome village
+39|68560|Roseville|Roseville village
+39|68672|Rossburg|Rossburg village
+39|68686|Rossford|Rossford city
+39|68742|Roswell|Roswell village
+39|69176|Rushsylvania|Rushsylvania village
+39|69204|Rushville|Rushville village
+39|69302|Russells Point|Russells Point village
+39|69316|Russellville|Russellville village
+39|69344|Russia|Russia village
+39|69358|Rutland|Rutland village
+39|69400|Sabina|Sabina village
+39|69470|St. Bernard|St. Bernard city
+39|69526|St. Clairsville|St. Clairsville city
+39|69540|St. Henry|St. Henry village
+39|69652|St. Louisville|St. Louisville village
+39|69666|St. Martin|St. Martin village
+39|69680|St. Marys|St. Marys city
+39|69708|St. Paris|St. Paris village
+39|69834|Salem|Salem city
+39|70072|Salesville|Salesville village
+39|70100|Salineville|Salineville village
+39|70380|Sandusky|Sandusky city
+39|70520|Sarahsville|Sarahsville village
+39|70534|Sardinia|Sardinia village
+39|70576|Savannah|Savannah village
+39|70814|Scio|Scio village
+39|71080|Scott|Scott village
+39|71206|Seaman|Seaman village
+39|71220|Sebring|Sebring village
+39|71360|Senecaville|Senecaville village
+39|71416|Seven Hills|Seven Hills city
+39|71444|Seven Mile|Seven Mile village
+39|71486|Seville|Seville village
+39|71640|Shadyside|Shadyside village
+39|71682|Shaker Heights|Shaker Heights city
+39|71892|Sharonville|Sharonville city
+39|71962|Shawnee|Shawnee village
+39|71976|Shawnee Hills|Shawnee Hills village
+39|72060|Sheffield|Sheffield village
+39|72088|Sheffield Lake|Sheffield Lake city
+39|72102|Shelby|Shelby city
+39|72242|Sherrodsville|Sherrodsville village
+39|72256|Sherwood|Sherwood village
+39|72298|Shiloh|Shiloh village
+39|72396|Shreve|Shreve village
+39|72424|Sidney|Sidney city
+39|72494|Silver Lake|Silver Lake village
+39|72522|Silverton|Silverton city
+39|72578|Sinking Spring|Sinking Spring village
+39|72760|Smithfield|Smithfield village
+39|72788|Smithville|Smithville village
+39|72928|Solon|Solon city
+39|72977|Somerset|Somerset village
+39|72998|Somerville|Somerville village
+39|73040|South Amherst|South Amherst village
+39|73068|South Bloomfield|South Bloomfield village
+39|73124|South Charleston|South Charleston village
+39|73264|South Euclid|South Euclid city
+39|73446|South Lebanon|South Lebanon village
+39|73670|South Point|South Point village
+39|73684|South Russell|South Russell village
+39|73698|South Salem|South Salem village
+39|73768|South Solon|South Solon village
+39|73796|South Vienna|South Vienna village
+39|73824|South Webster|South Webster village
+39|73894|South Zanesville|South Zanesville village
+39|73950|Sparta|Sparta village
+39|73992|Spencer|Spencer village
+39|74034|Spencerville|Spencerville village
+39|74076|Springboro|Springboro city
+39|74104|Springdale|Springdale city
+39|74118|Springfield|Springfield city
+39|74216|Spring Valley|Spring Valley village
+39|74300|Stafford|Stafford village
+39|74608|Steubenville|Steubenville city
+39|74748|Stockport|Stockport village
+39|74804|Stone Creek|Stone Creek village
+39|74916|Stoutsville|Stoutsville village
+39|74944|Stow|Stow city
+39|74958|Strasburg|Strasburg village
+39|75000|Stratton|Stratton village
+39|75014|Streetsboro|Streetsboro city
+39|75098|Strongsville|Strongsville city
+39|75126|Struthers|Struthers city
+39|75140|Stryker|Stryker village
+39|75196|Sugar Bush Knolls|Sugar Bush Knolls village
+39|75210|Sugarcreek|Sugarcreek village
+39|75252|Sugar Grove|Sugar Grove village
+39|75406|Summerfield|Summerfield village
+39|75574|Summitville|Summitville village
+39|75602|Sunbury|Sunbury village
+39|75896|Swanton|Swanton village
+39|75980|Sycamore|Sycamore village
+39|76022|Sylvania|Sylvania city
+39|76050|Syracuse|Syracuse village
+39|76106|Tallmadge|Tallmadge city
+39|76148|Tarlton|Tarlton village
+39|76428|Terrace Park|Terrace Park village
+39|76582|The Village of Indian Hill|The Village of Indian Hill city
+39|76680|Thornville|Thornville village
+39|76764|Thurston|Thurston village
+39|76778|Tiffin|Tiffin city
+39|76806|Tiltonsville|Tiltonsville village
+39|76834|Timberlake|Timberlake village
+39|76876|Tipp City|Tipp City city
+39|76932|Tiro|Tiro village
+39|77000|Toledo|Toledo city
+39|77070|Tontogany|Tontogany village
+39|77112|Toronto|Toronto city
+39|77308|Tremont City|Tremont City village
+39|77322|Trenton|Trenton city
+39|77406|Trimble|Trimble village
+39|77504|Trotwood|Trotwood city
+39|77588|Troy|Troy city
+39|77924|Tuscarawas|Tuscarawas village
+39|78050|Twinsburg|Twinsburg city
+39|78176|Uhrichsville|Uhrichsville city
+39|78470|Union|Union city
+39|78624|Union City|Union City village
+39|78834|Unionville Center|Unionville Center village
+39|78848|Uniopolis|Uniopolis village
+39|78932|University Heights|University Heights city
+39|79002|Upper Arlington|Upper Arlington city
+39|79044|Upper Sandusky|Upper Sandusky city
+39|79072|Urbana|Urbana city
+39|79100|Urbancrest|Urbancrest village
+39|79114|Utica|Utica village
+39|79226|Valley Hi|Valley Hi village
+39|79268|Valley View|Valley View village
+39|79282|Valleyview|Valleyview village
+39|79394|Van Buren|Van Buren village
+39|79492|Vandalia|Vandalia city
+39|79534|Vanlue|Vanlue village
+39|79562|Van Wert|Van Wert city
+39|79632|Venedocia|Venedocia village
+39|79716|Vermilion|Vermilion city
+39|79898|Verona|Verona village
+39|79912|Versailles|Versailles village
+39|80178|Vinton|Vinton village
+39|80304|Wadsworth|Wadsworth city
+39|80402|Waite Hill|Waite Hill village
+39|80458|Wakeman|Wakeman village
+39|80486|Walbridge|Walbridge village
+39|80500|Waldo|Waldo village
+39|80738|Walton Hills|Walton Hills village
+39|80766|Wapakoneta|Wapakoneta city
+39|80892|Warren|Warren city
+39|80990|Warrensville Heights|Warrensville Heights city
+39|81032|Warsaw|Warsaw village
+39|81718|Washington Court House|Washington Court House city
+39|81732|Washingtonville|Washingtonville village
+39|81858|Waterville|Waterville village
+39|81928|Wauseon|Wauseon city
+39|81942|Waverly City|Waverly City city
+39|82334|Wayne|Wayne village
+39|82348|Wayne Lakes|Wayne Lakes village
+39|82376|Waynesburg|Waynesburg village
+39|82390|Waynesfield|Waynesfield village
+39|82418|Waynesville|Waynesville village
+39|82642|Wellington|Wellington village
+39|82712|Wellston|Wellston city
+39|82740|Wellsville|Wellsville village
+39|82880|West Alexandria|West Alexandria village
+39|83090|West Carrollton|West Carrollton city
+39|83216|West Elkton|West Elkton village
+39|83342|Westerville|Westerville city
+39|83384|West Farmington|West Farmington village
+39|83468|Westfield Center|Westfield Center village
+39|83580|West Jefferson|West Jefferson village
+39|83608|West Lafayette|West Lafayette village
+39|83622|Westlake|Westlake city
+39|83706|West Leipsic|West Leipsic village
+39|83734|West Liberty|West Liberty village
+39|83804|West Manchester|West Manchester village
+39|83818|West Mansfield|West Mansfield village
+39|83888|West Millgrove|West Millgrove village
+39|83902|West Milton|West Milton village
+39|83972|Weston|Weston village
+39|84182|West Rushville|West Rushville village
+39|84196|West Salem|West Salem village
+39|84294|West Union|West Union village
+39|84308|West Unity|West Unity village
+39|84574|Wharton|Wharton village
+39|84742|Whitehall|Whitehall city
+39|84770|Whitehouse|Whitehouse village
+39|85036|Wickliffe|Wickliffe city
+39|85190|Wilkesville|Wilkesville village
+39|85232|Willard|Willard city
+39|85288|Williamsburg|Williamsburg village
+39|85414|Williamsport|Williamsport village
+39|85484|Willoughby|Willoughby city
+39|85512|Willoughby Hills|Willoughby Hills city
+39|85638|Willowick|Willowick city
+39|85736|Willshire|Willshire village
+39|85792|Wilmington|Wilmington city
+39|85806|Wilmot|Wilmot village
+39|85834|Wilson|Wilson village
+39|85876|Winchester|Winchester village
+39|85946|Windham|Windham village
+39|86184|Wintersville|Wintersville village
+39|86366|Woodlawn|Woodlawn village
+39|86394|Woodmere|Woodmere village
+39|86436|Woodsfield|Woodsfield village
+39|86478|Woodstock|Woodstock village
+39|86492|Woodville|Woodville village
+39|86548|Wooster|Wooster city
+39|86604|Worthington|Worthington city
+39|86632|Wren|Wren village
+39|86730|Wyoming|Wyoming city
+39|86772|Xenia|Xenia city
+39|86856|Yankee Lake|Yankee Lake village
+39|86940|Yellow Springs|Yellow Springs village
+39|87164|Yorkshire|Yorkshire village
+39|87178|Yorkville|Yorkville village
+39|88000|Youngstown|Youngstown city
+39|88028|Zaleski|Zaleski village
+39|88070|Zanesfield|Zanesfield village
+39|88084|Zanesville|Zanesville city
+39|88168|Zoar|Zoar village

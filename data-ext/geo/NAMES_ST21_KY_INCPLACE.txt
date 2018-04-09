@@ -1,0 +1,423 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+21|00298|Adairville|Adairville city
+21|00694|Albany|Albany city
+21|00802|Alexandria|Alexandria city
+21|00946|Allen|Allen city
+21|01000|Allensville|Allensville city
+21|01504|Anchorage|Anchorage city
+21|02044|Arlington|Arlington city
+21|02368|Ashland|Ashland city
+21|02638|Auburn|Auburn city
+21|02656|Audubon Park|Audubon Park city
+21|02674|Augusta|Augusta city
+21|03376|Bancroft|Bancroft city
+21|03556|Barbourmeade|Barbourmeade city
+21|03574|Barbourville|Barbourville city
+21|03628|Bardstown|Bardstown city
+21|03664|Bardwell|Bardwell city
+21|03718|Barlow|Barlow city
+21|04546|Beattyville|Beattyville city
+21|04654|Beaver Dam|Beaver Dam city
+21|04816|Bedford|Bedford city
+21|05068|Beechwood Village|Beechwood Village city
+21|05374|Bellefonte|Bellefonte city
+21|05392|Bellemeade|Bellemeade city
+21|05446|Bellevue|Bellevue city
+21|05464|Bellewood|Bellewood city
+21|05662|Benham|Benham city
+21|05824|Benton|Benton city
+21|05842|Berea|Berea city
+21|05968|Berry|Berry city
+21|07012|Blackey|Blackey city
+21|07264|Blaine|Blaine city
+21|07390|Blandville|Blandville city
+21|07516|Bloomfield|Bloomfield city
+21|07858|Blue Ridge Manor|Blue Ridge Manor city
+21|08488|Bonnieville|Bonnieville city
+21|08614|Booneville|Booneville city
+21|08902|Bowling Green|Bowling Green city
+21|09100|Bradfordsville|Bradfordsville city
+21|09226|Brandenburg|Brandenburg city
+21|09406|Bremen|Bremen city
+21|09532|Briarwood|Briarwood city
+21|09838|Brodhead|Brodhead city
+21|09847|Broeck Pointe|Broeck Pointe city
+21|09856|Bromley|Bromley city
+21|10000|Brooksville|Brooksville city
+21|10162|Brownsboro Farm|Brownsboro Farm city
+21|10198|Brownsboro Village|Brownsboro Village city
+21|10324|Brownsville|Brownsville city
+21|10612|Buckhorn|Buckhorn city
+21|11044|Burgin|Burgin city
+21|11098|Burkesville|Burkesville city
+21|11278|Burnside|Burnside city
+21|11530|Butler|Butler city
+21|11692|Cadiz|Cadiz city
+21|11854|Calhoun|Calhoun city
+21|11872|California|California city
+21|12016|Calvert City|Calvert City city
+21|12052|Camargo|Camargo city
+21|12066|Cambridge|Cambridge city
+21|12142|Campbellsburg|Campbellsburg city
+21|12160|Campbellsville|Campbellsville city
+21|12358|Campton|Campton city
+21|12538|Caneyville|Caneyville city
+21|12898|Carlisle|Carlisle city
+21|13024|Carrollton|Carrollton city
+21|13060|Carrsville|Carrsville city
+21|13420|Catlettsburg|Catlettsburg city
+21|13492|Cave City|Cave City city
+21|13870|Centertown|Centertown city
+21|13978|Central City|Central City city
+21|15148|Clarkson|Clarkson city
+21|15202|Clay|Clay city
+21|15238|Clay City|Clay City city
+21|15742|Clinton|Clinton city
+21|15904|Cloverport|Cloverport city
+21|16110|Coal Run Village|Coal Run Village city
+21|16372|Cold Spring|Cold Spring city
+21|16395|Coldstream|Coldstream city
+21|16750|Columbia|Columbia city
+21|16768|Columbus|Columbus city
+21|16894|Concord|Concord city
+21|17362|Corbin|Corbin city
+21|17434|Corinth|Corinth city
+21|17686|Corydon|Corydon city
+21|17848|Covington|Covington city
+21|17956|Crab Orchard|Crab Orchard city
+21|18270|Creekside|Creekside city
+21|18352|Crescent Springs|Crescent Springs city
+21|18424|Crestview|Crestview city
+21|18442|Crestview Hills|Crestview Hills city
+21|18496|Crestwood|Crestwood city
+21|18568|Crittenden|Crittenden city
+21|18658|Crofton|Crofton city
+21|18766|Crossgate|Crossgate city
+21|19108|Cumberland|Cumberland city
+21|19432|Cynthiana|Cynthiana city
+21|19882|Danville|Danville city
+21|20224|Dawson Springs|Dawson Springs city
+21|20350|Dayton|Dayton city
+21|21682|Dixon|Dixon city
+21|22204|Douglass Hills|Douglass Hills city
+21|22222|Dover|Dover city
+21|22348|Drakesboro|Drakesboro city
+21|22474|Druid Hills|Druid Hills city
+21|22582|Dry Ridge|Dry Ridge city
+21|23140|Dycusburg|Dycusburg city
+21|23230|Earlington|Earlington city
+21|23824|Eddyville|Eddyville city
+21|23932|Edgewood|Edgewood city
+21|23968|Edmonton|Edmonton city
+21|24094|Ekron|Ekron city
+21|24274|Elizabethtown|Elizabethtown city
+21|24382|Elkhorn City|Elkhorn City city
+21|24400|Elkton|Elkton city
+21|24778|Elsmere|Elsmere city
+21|24904|Eminence|Eminence city
+21|25300|Erlanger|Erlanger city
+21|25552|Eubank|Eubank city
+21|25606|Evarts|Evarts city
+21|25786|Ewing|Ewing city
+21|26020|Fairfield|Fairfield city
+21|26236|Fairview|Fairview city
+21|26434|Falmouth|Falmouth city
+21|27010|Ferguson|Ferguson city
+21|27262|Fincastle|Fincastle city
+21|27802|Flatwoods|Flatwoods city
+21|27846|Fleming-Neon|Fleming-Neon city
+21|27856|Flemingsburg|Flemingsburg city
+21|27982|Florence|Florence city
+21|28270|Fordsville|Fordsville city
+21|28342|Forest Hills|Forest Hills city
+21|28558|Fort Mitchell|Fort Mitchell city
+21|28594|Fort Thomas|Fort Thomas city
+21|28612|Fort Wright|Fort Wright city
+21|28630|Foster|Foster city
+21|28666|Fountain Run|Fountain Run city
+21|28785|Fox Chase|Fox Chase city
+21|28900|Frankfort|Frankfort city
+21|28918|Franklin|Franklin city
+21|29080|Fredonia|Fredonia city
+21|29260|Frenchburg|Frenchburg city
+21|29566|Fulton|Fulton city
+21|29872|Gamaliel|Gamaliel city
+21|30700|Georgetown|Georgetown city
+21|30718|Germantown|Germantown city
+21|30808|Ghent|Ghent city
+21|31114|Glasgow|Glasgow city
+21|31204|Glencoe|Glencoe city
+21|31348|Glenview|Glenview city
+21|31402|Glenview Hills|Glenview Hills city
+21|31420|Glenview Manor|Glenview Manor city
+21|31870|Goose Creek|Goose Creek city
+21|31960|Goshen|Goshen city
+21|32212|Grand Rivers|Grand Rivers city
+21|32428|Gratz|Gratz city
+21|32523|Graymoor-Devondale|Graymoor-Devondale city
+21|32572|Grayson|Grayson city
+21|32968|Greensburg|Greensburg city
+21|32986|Green Spring|Green Spring city
+21|33004|Greenup|Greenup city
+21|33022|Greenville|Greenville city
+21|33562|Guthrie|Guthrie city
+21|34390|Hanson|Hanson city
+21|34534|Hardin|Hardin city
+21|34552|Hardinsburg|Hardinsburg city
+21|34732|Harlan|Harlan city
+21|34966|Harrodsburg|Harrodsburg city
+21|35020|Hartford|Hartford city
+21|35200|Hawesville|Hawesville city
+21|35362|Hazard|Hazard city
+21|35380|Hazel|Hazel city
+21|35545|Hebron Estates|Hebron Estates city
+21|35866|Henderson|Henderson city
+21|36102|Heritage Creek|Heritage Creek city
+21|36298|Hickman|Hickman city
+21|36374|Hickory Hill|Hickory Hill city
+21|36604|Highland Heights|Highland Heights city
+21|36865|Hills and Dales|Hills and Dales city
+21|36982|Hillview|Hillview city
+21|37108|Hindman|Hindman city
+21|37396|Hodgenville|Hodgenville city
+21|37576|Hollow Creek|Hollow Creek city
+21|37630|Hollyvilla|Hollyvilla city
+21|37918|Hopkinsville|Hopkinsville city
+21|38008|Horse Cave|Horse Cave city
+21|38170|Houston Acres|Houston Acres city
+21|38670|Hunters Hollow|Hunters Hollow city
+21|38814|Hurstbourne|Hurstbourne city
+21|38818|Hurstbourne Acres|Hurstbourne Acres city
+21|38836|Hustonville|Hustonville city
+21|38908|Hyden|Hyden city
+21|39142|Independence|Independence city
+21|39304|Indian Hills|Indian Hills city
+21|39430|Inez|Inez city
+21|39646|Irvine|Irvine city
+21|39664|Irvington|Irvington city
+21|39700|Island|Island city
+21|39952|Jackson|Jackson city
+21|40114|Jamestown|Jamestown city
+21|40222|Jeffersontown|Jeffersontown city
+21|40240|Jeffersonville|Jeffersonville city
+21|40312|Jenkins|Jenkins city
+21|41338|Junction City|Junction City city
+21|42094|Kenton Vale|Kenton Vale city
+21|42292|Kevil|Kevil city
+21|42598|Kingsley|Kingsley city
+21|43264|Kuttawa|Kuttawa city
+21|43336|La Center|La Center city
+21|43444|LaFayette|LaFayette city
+21|43480|La Grange|La Grange city
+21|43606|Lakeside Park|Lakeside Park city
+21|43668|Lakeview Heights|Lakeview Heights city
+21|43840|Lancaster|Lancaster city
+21|43900|Langdon Place|Langdon Place city
+21|44146|Lawrenceburg|Lawrenceburg city
+21|44344|Lebanon|Lebanon city
+21|44362|Lebanon Junction|Lebanon Junction city
+21|44686|Leitchfield|Leitchfield city
+21|45064|Lewisburg|Lewisburg city
+21|45136|Lewisport|Lewisport city
+21|46027|Lexington-Fayette|Lexington-Fayette urban county
+21|46072|Liberty|Liberty city
+21|46540|Lincolnshire|Lincolnshire city
+21|47062|Livermore|Livermore city
+21|47098|Livingston|Livingston city
+21|47476|London|London city
+21|47710|Loretto|Loretto city
+21|47854|Louisa|Louisa city
+21|48006|Louisville/Jefferson County metro government (balance)|Louisville/Jefferson County metro government (balance)
+21|48288|Loyall|Loyall city
+21|48378|Ludlow|Ludlow city
+21|48540|Lynch|Lynch city
+21|48558|Lyndon|Lyndon city
+21|48648|Lynnview|Lynnview city
+21|49098|McHenry|McHenry city
+21|49116|McKee|McKee city
+21|49206|Mackville|Mackville city
+21|49368|Madisonville|Madisonville city
+21|49656|Manchester|Manchester city
+21|49800|Manor Creek|Manor Creek city
+21|50034|Marion|Marion city
+21|50286|Martin|Martin city
+21|50412|Maryhill Estates|Maryhill Estates city
+21|50898|Mayfield|Mayfield city
+21|51024|Maysville|Maysville city
+21|51193|Meadowbrook Farm|Meadowbrook Farm city
+21|51258|Meadow Vale|Meadow Vale city
+21|51294|Meadowview Estates|Meadowview Estates city
+21|51438|Melbourne|Melbourne city
+21|51564|Mentor|Mentor city
+21|51924|Middlesborough|Middlesborough city
+21|51978|Middletown|Middletown city
+21|52140|Midway|Midway city
+21|52302|Millersburg|Millersburg city
+21|52590|Milton|Milton city
+21|52842|Mockingbird Valley|Mockingbird Valley city
+21|53076|Monterey|Monterey city
+21|53130|Monticello|Monticello city
+21|53328|Moorland|Moorland city
+21|53418|Morehead|Morehead city
+21|53472|Morganfield|Morganfield city
+21|53490|Morgantown|Morgantown city
+21|53616|Mortons Gap|Mortons Gap city
+21|53976|Mount Olivet|Mount Olivet city
+21|54084|Mount Sterling|Mount Sterling city
+21|54174|Mount Vernon|Mount Vernon city
+21|54228|Mount Washington|Mount Washington city
+21|54480|Muldraugh|Muldraugh city
+21|54570|Munfordville|Munfordville city
+21|54642|Murray|Murray city
+21|54660|Murray Hill|Murray Hill city
+21|55092|Nebo|Nebo city
+21|55596|New Castle|New Castle city
+21|55758|New Haven|New Haven city
+21|55884|Newport|Newport city
+21|56136|Nicholasville|Nicholasville city
+21|56550|Norbourne Estates|Norbourne Estates city
+21|56730|Northfield|Northfield city
+21|56820|North Middletown|North Middletown city
+21|56910|Nortonville|Nortonville city
+21|56928|Norwood|Norwood city
+21|57090|Oak Grove|Oak Grove city
+21|57144|Oakland|Oakland city
+21|57658|Old Brownsboro Place|Old Brownsboro Place city
+21|57918|Olive Hill|Olive Hill city
+21|58200|Orchard Grass Hills|Orchard Grass Hills city
+21|58620|Owensboro|Owensboro city
+21|58692|Owenton|Owenton city
+21|58710|Owingsville|Owingsville city
+21|58836|Paducah|Paducah city
+21|58962|Paintsville|Paintsville city
+21|59196|Paris|Paris city
+21|59232|Park City|Park City city
+21|59255|Park Hills|Park Hills city
+21|59322|Parkway Village|Parkway Village city
+21|59934|Pembroke|Pembroke city
+21|60258|Perryville|Perryville city
+21|60492|Pewee Valley|Pewee Valley city
+21|60852|Pikeville|Pikeville city
+21|61248|Pineville|Pineville city
+21|61356|Pioneer Village|Pioneer Village city
+21|61374|Pippa Passes|Pippa Passes city
+21|61554|Plantation|Plantation city
+21|61788|Pleasureville|Pleasureville city
+21|61860|Plum Springs|Plum Springs city
+21|62370|Poplar Hills|Poplar Hills city
+21|62652|Powderly|Powderly city
+21|62940|Prestonsburg|Prestonsburg city
+21|62958|Prestonville|Prestonville city
+21|63138|Princeton|Princeton city
+21|63264|Prospect|Prospect city
+21|63372|Providence|Providence city
+21|63858|Raceland|Raceland city
+21|63912|Radcliff|Radcliff city
+21|64092|Ravenna|Ravenna city
+21|64146|Raywick|Raywick city
+21|65208|Richlawn|Richlawn city
+21|65226|Richmond|Richmond city
+21|65559|River Bluff|River Bluff city
+21|65766|Riverwood|Riverwood city
+21|65874|Robards|Robards city
+21|65982|Rochester|Rochester city
+21|66216|Rockport|Rockport city
+21|66486|Rolling Fields|Rolling Fields city
+21|66504|Rolling Hills|Rolling Hills city
+21|67458|Russell|Russell city
+21|67494|Russell Springs|Russell Springs city
+21|67512|Russellville|Russellville city
+21|67602|Ryland Heights|Ryland Heights city
+21|67638|Sacramento|Sacramento city
+21|67656|Sadieville|Sadieville city
+21|67710|St. Charles|St. Charles city
+21|67944|St. Matthews|St. Matthews city
+21|67998|St. Regis Park|St. Regis Park city
+21|68052|Salem|Salem city
+21|68160|Salt Lick|Salt Lick city
+21|68232|Salyersville|Salyersville city
+21|68358|Sanders|Sanders city
+21|68556|Sandy Hook|Sandy Hook city
+21|68646|Sardis|Sardis city
+21|68952|Science Hill|Science Hill city
+21|69114|Scottsville|Scottsville city
+21|69222|Sebree|Sebree city
+21|69384|Seneca Gardens|Seneca Gardens city
+21|69852|Sharpsburg|Sharpsburg city
+21|70050|Shelbyville|Shelbyville city
+21|70086|Shepherdsville|Shepherdsville city
+21|70284|Shively|Shively city
+21|70644|Silver Grove|Silver Grove city
+21|70752|Simpsonville|Simpsonville city
+21|71130|Slaughters|Slaughters city
+21|71364|Smithfield|Smithfield city
+21|71382|Smithland|Smithland city
+21|71454|Smiths Grove|Smiths Grove city
+21|71688|Somerset|Somerset city
+21|71724|Sonora|Sonora city
+21|71814|South Carrollton|South Carrollton city
+21|71976|Southgate|Southgate city
+21|72138|South Park View|South Park View city
+21|72210|South Shore|South Shore city
+21|72372|Sparta|Sparta city
+21|72660|Springfield|Springfield city
+21|72770|Spring Mill|Spring Mill city
+21|72790|Spring Valley|Spring Valley city
+21|73038|Stamping Ground|Stamping Ground city
+21|73110|Stanford|Stanford city
+21|73164|Stanton|Stanton city
+21|74064|Strathmoor Manor|Strathmoor Manor city
+21|74082|Strathmoor Village|Strathmoor Village city
+21|74316|Sturgis|Sturgis city
+21|75190|Sycamore|Sycamore city
+21|75738|Taylor Mill|Taylor Mill city
+21|75810|Taylorsville|Taylorsville city
+21|75963|Ten Broeck|Ten Broeck city
+21|76380|Thornhill|Thornhill city
+21|77160|Tompkinsville|Tompkinsville city
+21|77592|Trenton|Trenton city
+21|78384|Union|Union city
+21|78492|Uniontown|Uniontown city
+21|78672|Upton|Upton city
+21|79068|Vanceburg|Vanceburg city
+21|79482|Versailles|Versailles city
+21|79590|Vicco|Vicco city
+21|79698|Villa Hills|Villa Hills city
+21|79734|Vine Grove|Vine Grove city
+21|80310|Wallins Creek|Wallins Creek city
+21|80490|Walton|Walton city
+21|80616|Warfield|Warfield city
+21|80706|Warsaw|Warsaw city
+21|80832|Water Valley|Water Valley city
+21|80913|Watterson Park|Watterson Park city
+21|80958|Waverly|Waverly city
+21|81012|Wayland|Wayland city
+21|81372|Wellington|Wellington city
+21|81624|West Buechel|West Buechel city
+21|81858|West Liberty|West Liberty city
+21|81930|West Point|West Point city
+21|82164|Westwood|Westwood city
+21|82200|Wheatcroft|Wheatcroft city
+21|82272|Wheelwright|Wheelwright city
+21|82722|White Plains|White Plains city
+21|82776|Whitesburg|Whitesburg city
+21|82830|Whitesville|Whitesville city
+21|83064|Wickliffe|Wickliffe city
+21|83172|Wilder|Wilder city
+21|83208|Wildwood|Wildwood city
+21|83334|Williamsburg|Williamsburg city
+21|83406|Williamstown|Williamstown city
+21|83424|Willisburg|Willisburg city
+21|83550|Wilmore|Wilmore city
+21|83676|Winchester|Winchester city
+21|83784|Windy Hills|Windy Hills city
+21|83856|Wingo|Wingo city
+21|84414|Woodburn|Woodburn city
+21|84432|Woodbury|Woodbury city
+21|84486|Woodland Hills|Woodland Hills city
+21|84522|Woodlawn|Woodlawn city
+21|84576|Woodlawn Park|Woodlawn Park city
+21|84864|Worthington|Worthington city
+21|84891|Worthington Hills|Worthington Hills city
+21|84900|Worthville|Worthville city
+21|85008|Wurtland|Wurtland city

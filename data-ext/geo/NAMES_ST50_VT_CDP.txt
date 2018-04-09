@@ -1,0 +1,74 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+50|01375|Arlington|Arlington CDP
+50|01750|Ascutney|Ascutney CDP
+50|02800|Barnet|Barnet CDP
+50|04150|Beecher Falls|Beecher Falls CDP
+50|04750|Bennington|Bennington CDP
+50|05125|Benson|Benson CDP
+50|05725|Bethel|Bethel CDP
+50|07225|Bradford|Bradford CDP
+50|07675|Brandon|Brandon CDP
+50|07975|Brattleboro|Brattleboro CDP
+50|08950|Bristol|Bristol CDP
+50|11725|Canaan|Canaan CDP
+50|11875|Castleton|Castleton CDP
+50|12175|Cavendish|Cavendish CDP
+50|13600|Chester|Chester CDP
+50|15175|Concord|Concord CDP
+50|16075|Coventry|Coventry CDP
+50|17050|Danville|Danville CDP
+50|17650|Dorset|Dorset CDP
+50|19075|East Barre|East Barre CDP
+50|19600|East Burke|East Burke CDP
+50|21700|East Middlebury|East Middlebury CDP
+50|21850|East Montpelier|East Montpelier CDP
+50|25450|Fair Haven|Fair Haven CDP
+50|25600|Fairlee|Fairlee CDP
+50|28000|Glover|Glover CDP
+50|29425|Graniteville|Graniteville CDP
+50|30100|Greensboro|Greensboro CDP
+50|30325|Greensboro Bend|Greensboro Bend CDP
+50|30475|Groton|Groton CDP
+50|31750|Hardwick|Hardwick CDP
+50|32350|Hartland|Hartland CDP
+50|33550|Hinesburg|Hinesburg CDP
+50|35500|Irasburg|Irasburg CDP
+50|35725|Island Pond|Island Pond CDP
+50|40450|Lowell|Lowell CDP
+50|42925|Manchester Center|Manchester Center CDP
+50|44275|Middlebury|Middlebury CDP
+50|45175|Milton|Milton CDP
+50|49000|Newport Center|Newport Center CDP
+50|50500|North Hartland|North Hartland CDP
+50|51925|North Springfield|North Springfield CDP
+50|52825|Norwich|Norwich CDP
+50|55525|Pittsford|Pittsford CDP
+50|55750|Plainfield|Plainfield CDP
+50|57400|Proctorsville|Proctorsville CDP
+50|57625|Putney|Putney CDP
+50|57775|Quechee|Quechee CDP
+50|58000|Randolph|Randolph CDP
+50|58525|Readsboro|Readsboro CDP
+50|59050|Richford|Richford CDP
+50|59200|Richmond|Richmond CDP
+50|60025|Rochester|Rochester CDP
+50|62125|St. Johnsbury|St. Johnsbury CDP
+50|64225|Shelburne|Shelburne CDP
+50|66025|South Barre|South Barre CDP
+50|68050|South Royalton|South Royalton CDP
+50|68200|South Shaftsbury|South Shaftsbury CDP
+50|69475|Springfield|Springfield CDP
+50|70450|Stowe|Stowe CDP
+50|73450|Troy|Troy CDP
+50|75250|Waitsfield|Waitsfield CDP
+50|75850|Wallingford|Wallingford CDP
+50|77800|Websterville|Websterville CDP
+50|77875|Wells|Wells CDP
+50|78850|West Brattleboro|West Brattleboro CDP
+50|82375|West Rutland|West Rutland CDP
+50|83575|White River Junction|White River Junction CDP
+50|84025|Wilder|Wilder CDP
+50|84100|Williamstown|Williamstown CDP
+50|84625|Wilmington|Wilmington CDP
+50|85000|Windsor|Windsor CDP
+50|86050|Worcester|Worcester CDP

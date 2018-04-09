@@ -1,0 +1,1449 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+35|001|1|Bernalillo County Precinct 1|Bernalillo County Precinct 1
+35|001|10|Bernalillo County Precinct 10|Bernalillo County Precinct 10
+35|001|101|Bernalillo County Precinct 101|Bernalillo County Precinct 101
+35|001|102|Bernalillo County Precinct 102|Bernalillo County Precinct 102
+35|001|103|Bernalillo County Precinct 103|Bernalillo County Precinct 103
+35|001|104|Bernalillo County Precinct 104|Bernalillo County Precinct 104
+35|001|105|Bernalillo County Precinct 105|Bernalillo County Precinct 105
+35|001|106|Bernalillo County Precinct 106|Bernalillo County Precinct 106
+35|001|107|Bernalillo County Precinct 107|Bernalillo County Precinct 107
+35|001|108|Bernalillo County Precinct 108|Bernalillo County Precinct 108
+35|001|109|Bernalillo County Precinct 109|Bernalillo County Precinct 109
+35|001|11|Bernalillo County Precinct 11|Bernalillo County Precinct 11
+35|001|110|Bernalillo County Precinct 110|Bernalillo County Precinct 110
+35|001|111|Bernalillo County Precinct 111|Bernalillo County Precinct 111
+35|001|112|Bernalillo County Precinct 112|Bernalillo County Precinct 112
+35|001|113|Bernalillo County Precinct 113|Bernalillo County Precinct 113
+35|001|114|Bernalillo County Precinct 114|Bernalillo County Precinct 114
+35|001|115|Bernalillo County Precinct 115|Bernalillo County Precinct 115
+35|001|116|Bernalillo County Precinct 116|Bernalillo County Precinct 116
+35|001|117|Bernalillo County Precinct 117|Bernalillo County Precinct 117
+35|001|118|Bernalillo County Precinct 118|Bernalillo County Precinct 118
+35|001|119|Bernalillo County Precinct 119|Bernalillo County Precinct 119
+35|001|12|Bernalillo County Precinct 12|Bernalillo County Precinct 12
+35|001|120|Bernalillo County Precinct 120|Bernalillo County Precinct 120
+35|001|121|Bernalillo County Precinct 121|Bernalillo County Precinct 121
+35|001|122|Bernalillo County Precinct 122|Bernalillo County Precinct 122
+35|001|123|Bernalillo County Precinct 123|Bernalillo County Precinct 123
+35|001|124|Bernalillo County Precinct 124|Bernalillo County Precinct 124
+35|001|125|Bernalillo County Precinct 125|Bernalillo County Precinct 125
+35|001|13|Bernalillo County Precinct 13|Bernalillo County Precinct 13
+35|001|131|Bernalillo County Precinct 131|Bernalillo County Precinct 131
+35|001|132|Bernalillo County Precinct 132|Bernalillo County Precinct 132
+35|001|133|Bernalillo County Precinct 133|Bernalillo County Precinct 133
+35|001|135|Bernalillo County Precinct 135|Bernalillo County Precinct 135
+35|001|14|Bernalillo County Precinct 14|Bernalillo County Precinct 14
+35|001|15|Bernalillo County Precinct 15|Bernalillo County Precinct 15
+35|001|150|Bernalillo County Precinct 150|Bernalillo County Precinct 150
+35|001|151|Bernalillo County Precinct 151|Bernalillo County Precinct 151
+35|001|152|Bernalillo County Precinct 152|Bernalillo County Precinct 152
+35|001|153|Bernalillo County Precinct 153|Bernalillo County Precinct 153
+35|001|154|Bernalillo County Precinct 154|Bernalillo County Precinct 154
+35|001|16|Bernalillo County Precinct 16|Bernalillo County Precinct 16
+35|001|161|Bernalillo County Precinct 161|Bernalillo County Precinct 161
+35|001|162|Bernalillo County Precinct 162|Bernalillo County Precinct 162
+35|001|163|Bernalillo County Precinct 163|Bernalillo County Precinct 163
+35|001|164|Bernalillo County Precinct 164|Bernalillo County Precinct 164
+35|001|165|Bernalillo County Precinct 165|Bernalillo County Precinct 165
+35|001|166|Bernalillo County Precinct 166|Bernalillo County Precinct 166
+35|001|17|Bernalillo County Precinct 17|Bernalillo County Precinct 17
+35|001|18|Bernalillo County Precinct 18|Bernalillo County Precinct 18
+35|001|180|Bernalillo County Precinct 180|Bernalillo County Precinct 180
+35|001|181|Bernalillo County Precinct 181|Bernalillo County Precinct 181
+35|001|182|Bernalillo County Precinct 182|Bernalillo County Precinct 182
+35|001|183|Bernalillo County Precinct 183|Bernalillo County Precinct 183
+35|001|184|Bernalillo County Precinct 184|Bernalillo County Precinct 184
+35|001|185|Bernalillo County Precinct 185|Bernalillo County Precinct 185
+35|001|186|Bernalillo County Precinct 186|Bernalillo County Precinct 186
+35|001|187|Bernalillo County Precinct 187|Bernalillo County Precinct 187
+35|001|19|Bernalillo County Precinct 19|Bernalillo County Precinct 19
+35|001|191|Bernalillo County Precinct 191|Bernalillo County Precinct 191
+35|001|192|Bernalillo County Precinct 192|Bernalillo County Precinct 192
+35|001|193|Bernalillo County Precinct 193|Bernalillo County Precinct 193
+35|001|194|Bernalillo County Precinct 194|Bernalillo County Precinct 194
+35|001|195|Bernalillo County Precinct 195|Bernalillo County Precinct 195
+35|001|196|Bernalillo County Precinct 196|Bernalillo County Precinct 196
+35|001|197|Bernalillo County Precinct 197|Bernalillo County Precinct 197
+35|001|2|Bernalillo County Precinct 2|Bernalillo County Precinct 2
+35|001|20|Bernalillo County Precinct 20|Bernalillo County Precinct 20
+35|001|21|Bernalillo County Precinct 21|Bernalillo County Precinct 21
+35|001|211|Bernalillo County Precinct 211|Bernalillo County Precinct 211
+35|001|212|Bernalillo County Precinct 212|Bernalillo County Precinct 212
+35|001|214|Bernalillo County Precinct 214|Bernalillo County Precinct 214
+35|001|215|Bernalillo County Precinct 215|Bernalillo County Precinct 215
+35|001|216|Bernalillo County Precinct 216|Bernalillo County Precinct 216
+35|001|217|Bernalillo County Precinct 217|Bernalillo County Precinct 217
+35|001|22|Bernalillo County Precinct 22|Bernalillo County Precinct 22
+35|001|221|Bernalillo County Precinct 221|Bernalillo County Precinct 221
+35|001|223|Bernalillo County Precinct 223|Bernalillo County Precinct 223
+35|001|224|Bernalillo County Precinct 224|Bernalillo County Precinct 224
+35|001|225|Bernalillo County Precinct 225|Bernalillo County Precinct 225
+35|001|226|Bernalillo County Precinct 226|Bernalillo County Precinct 226
+35|001|23|Bernalillo County Precinct 23|Bernalillo County Precinct 23
+35|001|24|Bernalillo County Precinct 24|Bernalillo County Precinct 24
+35|001|241|Bernalillo County Precinct 241|Bernalillo County Precinct 241
+35|001|242|Bernalillo County Precinct 242|Bernalillo County Precinct 242
+35|001|243|Bernalillo County Precinct 243|Bernalillo County Precinct 243
+35|001|244|Bernalillo County Precinct 244|Bernalillo County Precinct 244
+35|001|245|Bernalillo County Precinct 245|Bernalillo County Precinct 245
+35|001|246|Bernalillo County Precinct 246|Bernalillo County Precinct 246
+35|001|25|Bernalillo County Precinct 25|Bernalillo County Precinct 25
+35|001|251|Bernalillo County Precinct 251|Bernalillo County Precinct 251
+35|001|252|Bernalillo County Precinct 252|Bernalillo County Precinct 252
+35|001|253|Bernalillo County Precinct 253|Bernalillo County Precinct 253
+35|001|254|Bernalillo County Precinct 254|Bernalillo County Precinct 254
+35|001|255|Bernalillo County Precinct 255|Bernalillo County Precinct 255
+35|001|256|Bernalillo County Precinct 256|Bernalillo County Precinct 256
+35|001|257|Bernalillo County Precinct 257|Bernalillo County Precinct 257
+35|001|258|Bernalillo County Precinct 258|Bernalillo County Precinct 258
+35|001|26|Bernalillo County Precinct 26|Bernalillo County Precinct 26
+35|001|27|Bernalillo County Precinct 27|Bernalillo County Precinct 27
+35|001|271|Bernalillo County Precinct 271|Bernalillo County Precinct 271
+35|001|272|Bernalillo County Precinct 272|Bernalillo County Precinct 272
+35|001|273|Bernalillo County Precinct 273|Bernalillo County Precinct 273
+35|001|274|Bernalillo County Precinct 274|Bernalillo County Precinct 274
+35|001|275|Bernalillo County Precinct 275|Bernalillo County Precinct 275
+35|001|278|Bernalillo County Precinct 278|Bernalillo County Precinct 278
+35|001|28|Bernalillo County Precinct 28|Bernalillo County Precinct 28
+35|001|281|Bernalillo County Precinct 281|Bernalillo County Precinct 281
+35|001|282|Bernalillo County Precinct 282|Bernalillo County Precinct 282
+35|001|283|Bernalillo County Precinct 283|Bernalillo County Precinct 283
+35|001|284|Bernalillo County Precinct 284|Bernalillo County Precinct 284
+35|001|285|Bernalillo County Precinct 285|Bernalillo County Precinct 285
+35|001|286|Bernalillo County Precinct 286|Bernalillo County Precinct 286
+35|001|287|Bernalillo County Precinct 287|Bernalillo County Precinct 287
+35|001|289|Bernalillo County Precinct 289|Bernalillo County Precinct 289
+35|001|29|Bernalillo County Precinct 29|Bernalillo County Precinct 29
+35|001|290|Bernalillo County Precinct 290|Bernalillo County Precinct 290
+35|001|291|Bernalillo County Precinct 291|Bernalillo County Precinct 291
+35|001|292|Bernalillo County Precinct 292|Bernalillo County Precinct 292
+35|001|293|Bernalillo County Precinct 293|Bernalillo County Precinct 293
+35|001|294|Bernalillo County Precinct 294|Bernalillo County Precinct 294
+35|001|295|Bernalillo County Precinct 295|Bernalillo County Precinct 295
+35|001|296|Bernalillo County Precinct 296|Bernalillo County Precinct 296
+35|001|297|Bernalillo County Precinct 297|Bernalillo County Precinct 297
+35|001|298|Bernalillo County Precinct 298|Bernalillo County Precinct 298
+35|001|299|Bernalillo County Precinct 299|Bernalillo County Precinct 299
+35|001|3|Bernalillo County Precinct 3|Bernalillo County Precinct 3
+35|001|30|Bernalillo County Precinct 30|Bernalillo County Precinct 30
+35|001|300|Bernalillo County Precinct 300|Bernalillo County Precinct 300
+35|001|301|Bernalillo County Precinct 301|Bernalillo County Precinct 301
+35|001|302|Bernalillo County Precinct 302|Bernalillo County Precinct 302
+35|001|303|Bernalillo County Precinct 303|Bernalillo County Precinct 303
+35|001|304|Bernalillo County Precinct 304|Bernalillo County Precinct 304
+35|001|305|Bernalillo County Precinct 305|Bernalillo County Precinct 305
+35|001|306|Bernalillo County Precinct 306|Bernalillo County Precinct 306
+35|001|307|Bernalillo County Precinct 307|Bernalillo County Precinct 307
+35|001|308|Bernalillo County Precinct 308|Bernalillo County Precinct 308
+35|001|31|Bernalillo County Precinct 31|Bernalillo County Precinct 31
+35|001|311|Bernalillo County Precinct 311|Bernalillo County Precinct 311
+35|001|312|Bernalillo County Precinct 312|Bernalillo County Precinct 312
+35|001|313|Bernalillo County Precinct 313|Bernalillo County Precinct 313
+35|001|314|Bernalillo County Precinct 314|Bernalillo County Precinct 314
+35|001|315|Bernalillo County Precinct 315|Bernalillo County Precinct 315
+35|001|316|Bernalillo County Precinct 316|Bernalillo County Precinct 316
+35|001|317|Bernalillo County Precinct 317|Bernalillo County Precinct 317
+35|001|318|Bernalillo County Precinct 318|Bernalillo County Precinct 318
+35|001|32|Bernalillo County Precinct 32|Bernalillo County Precinct 32
+35|001|321|Bernalillo County Precinct 321|Bernalillo County Precinct 321
+35|001|322|Bernalillo County Precinct 322|Bernalillo County Precinct 322
+35|001|323|Bernalillo County Precinct 323|Bernalillo County Precinct 323
+35|001|324|Bernalillo County Precinct 324|Bernalillo County Precinct 324
+35|001|326|Bernalillo County Precinct 326|Bernalillo County Precinct 326
+35|001|327|Bernalillo County Precinct 327|Bernalillo County Precinct 327
+35|001|328|Bernalillo County Precinct 328|Bernalillo County Precinct 328
+35|001|329|Bernalillo County Precinct 329|Bernalillo County Precinct 329
+35|001|33|Bernalillo County Precinct 33|Bernalillo County Precinct 33
+35|001|330|Bernalillo County Precinct 330|Bernalillo County Precinct 330
+35|001|331|Bernalillo County Precinct 331|Bernalillo County Precinct 331
+35|001|332|Bernalillo County Precinct 332|Bernalillo County Precinct 332
+35|001|333|Bernalillo County Precinct 333|Bernalillo County Precinct 333
+35|001|34|Bernalillo County Precinct 34|Bernalillo County Precinct 34
+35|001|341|Bernalillo County Precinct 341|Bernalillo County Precinct 341
+35|001|342|Bernalillo County Precinct 342|Bernalillo County Precinct 342
+35|001|343|Bernalillo County Precinct 343|Bernalillo County Precinct 343
+35|001|344|Bernalillo County Precinct 344|Bernalillo County Precinct 344
+35|001|345|Bernalillo County Precinct 345|Bernalillo County Precinct 345
+35|001|346|Bernalillo County Precinct 346|Bernalillo County Precinct 346
+35|001|347|Bernalillo County Precinct 347|Bernalillo County Precinct 347
+35|001|35|Bernalillo County Precinct 35|Bernalillo County Precinct 35
+35|001|351|Bernalillo County Precinct 351|Bernalillo County Precinct 351
+35|001|352|Bernalillo County Precinct 352|Bernalillo County Precinct 352
+35|001|353|Bernalillo County Precinct 353|Bernalillo County Precinct 353
+35|001|354|Bernalillo County Precinct 354|Bernalillo County Precinct 354
+35|001|355|Bernalillo County Precinct 355|Bernalillo County Precinct 355
+35|001|356|Bernalillo County Precinct 356|Bernalillo County Precinct 356
+35|001|357|Bernalillo County Precinct 357|Bernalillo County Precinct 357
+35|001|358|Bernalillo County Precinct 358|Bernalillo County Precinct 358
+35|001|36|Bernalillo County Precinct 36|Bernalillo County Precinct 36
+35|001|37|Bernalillo County Precinct 37|Bernalillo County Precinct 37
+35|001|371|Bernalillo County Precinct 371|Bernalillo County Precinct 371
+35|001|372|Bernalillo County Precinct 372|Bernalillo County Precinct 372
+35|001|373|Bernalillo County Precinct 373|Bernalillo County Precinct 373
+35|001|374|Bernalillo County Precinct 374|Bernalillo County Precinct 374
+35|001|375|Bernalillo County Precinct 375|Bernalillo County Precinct 375
+35|001|38|Bernalillo County Precinct 38|Bernalillo County Precinct 38
+35|001|381|Bernalillo County Precinct 381|Bernalillo County Precinct 381
+35|001|382|Bernalillo County Precinct 382|Bernalillo County Precinct 382
+35|001|383|Bernalillo County Precinct 383|Bernalillo County Precinct 383
+35|001|384|Bernalillo County Precinct 384|Bernalillo County Precinct 384
+35|001|385|Bernalillo County Precinct 385|Bernalillo County Precinct 385
+35|001|386|Bernalillo County Precinct 386|Bernalillo County Precinct 386
+35|001|387|Bernalillo County Precinct 387|Bernalillo County Precinct 387
+35|001|39|Bernalillo County Precinct 39|Bernalillo County Precinct 39
+35|001|4|Bernalillo County Precinct 4|Bernalillo County Precinct 4
+35|001|40|Bernalillo County Precinct 40|Bernalillo County Precinct 40
+35|001|400|Bernalillo County Precinct 400|Bernalillo County Precinct 400
+35|001|401|Bernalillo County Precinct 401|Bernalillo County Precinct 401
+35|001|402|Bernalillo County Precinct 402|Bernalillo County Precinct 402
+35|001|403|Bernalillo County Precinct 403|Bernalillo County Precinct 403
+35|001|404|Bernalillo County Precinct 404|Bernalillo County Precinct 404
+35|001|405|Bernalillo County Precinct 405|Bernalillo County Precinct 405
+35|001|406|Bernalillo County Precinct 406|Bernalillo County Precinct 406
+35|001|407|Bernalillo County Precinct 407|Bernalillo County Precinct 407
+35|001|408|Bernalillo County Precinct 408|Bernalillo County Precinct 408
+35|001|409|Bernalillo County Precinct 409|Bernalillo County Precinct 409
+35|001|41|Bernalillo County Precinct 41|Bernalillo County Precinct 41
+35|001|410|Bernalillo County Precinct 410|Bernalillo County Precinct 410
+35|001|411|Bernalillo County Precinct 411|Bernalillo County Precinct 411
+35|001|412|Bernalillo County Precinct 412|Bernalillo County Precinct 412
+35|001|413|Bernalillo County Precinct 413|Bernalillo County Precinct 413
+35|001|414|Bernalillo County Precinct 414|Bernalillo County Precinct 414
+35|001|415|Bernalillo County Precinct 415|Bernalillo County Precinct 415
+35|001|416|Bernalillo County Precinct 416|Bernalillo County Precinct 416
+35|001|417|Bernalillo County Precinct 417|Bernalillo County Precinct 417
+35|001|418|Bernalillo County Precinct 418|Bernalillo County Precinct 418
+35|001|419|Bernalillo County Precinct 419|Bernalillo County Precinct 419
+35|001|42|Bernalillo County Precinct 42|Bernalillo County Precinct 42
+35|001|420|Bernalillo County Precinct 420|Bernalillo County Precinct 420
+35|001|421|Bernalillo County Precinct 421|Bernalillo County Precinct 421
+35|001|422|Bernalillo County Precinct 422|Bernalillo County Precinct 422
+35|001|423|Bernalillo County Precinct 423|Bernalillo County Precinct 423
+35|001|424|Bernalillo County Precinct 424|Bernalillo County Precinct 424
+35|001|425|Bernalillo County Precinct 425|Bernalillo County Precinct 425
+35|001|426|Bernalillo County Precinct 426|Bernalillo County Precinct 426
+35|001|427|Bernalillo County Precinct 427|Bernalillo County Precinct 427
+35|001|428|Bernalillo County Precinct 428|Bernalillo County Precinct 428
+35|001|429|Bernalillo County Precinct 429|Bernalillo County Precinct 429
+35|001|43|Bernalillo County Precinct 43|Bernalillo County Precinct 43
+35|001|430|Bernalillo County Precinct 430|Bernalillo County Precinct 430
+35|001|431|Bernalillo County Precinct 431|Bernalillo County Precinct 431
+35|001|432|Bernalillo County Precinct 432|Bernalillo County Precinct 432
+35|001|433|Bernalillo County Precinct 433|Bernalillo County Precinct 433
+35|001|434|Bernalillo County Precinct 434|Bernalillo County Precinct 434
+35|001|435|Bernalillo County Precinct 435|Bernalillo County Precinct 435
+35|001|436|Bernalillo County Precinct 436|Bernalillo County Precinct 436
+35|001|437|Bernalillo County Precinct 437|Bernalillo County Precinct 437
+35|001|438|Bernalillo County Precinct 438|Bernalillo County Precinct 438
+35|001|439|Bernalillo County Precinct 439|Bernalillo County Precinct 439
+35|001|44|Bernalillo County Precinct 44|Bernalillo County Precinct 44
+35|001|440|Bernalillo County Precinct 440|Bernalillo County Precinct 440
+35|001|441|Bernalillo County Precinct 441|Bernalillo County Precinct 441
+35|001|442|Bernalillo County Precinct 442|Bernalillo County Precinct 442
+35|001|443|Bernalillo County Precinct 443|Bernalillo County Precinct 443
+35|001|444|Bernalillo County Precinct 444|Bernalillo County Precinct 444
+35|001|445|Bernalillo County Precinct 445|Bernalillo County Precinct 445
+35|001|446|Bernalillo County Precinct 446|Bernalillo County Precinct 446
+35|001|447|Bernalillo County Precinct 447|Bernalillo County Precinct 447
+35|001|448|Bernalillo County Precinct 448|Bernalillo County Precinct 448
+35|001|449|Bernalillo County Precinct 449|Bernalillo County Precinct 449
+35|001|45|Bernalillo County Precinct 45|Bernalillo County Precinct 45
+35|001|450|Bernalillo County Precinct 450|Bernalillo County Precinct 450
+35|001|451|Bernalillo County Precinct 451|Bernalillo County Precinct 451
+35|001|452|Bernalillo County Precinct 452|Bernalillo County Precinct 452
+35|001|453|Bernalillo County Precinct 453|Bernalillo County Precinct 453
+35|001|454|Bernalillo County Precinct 454|Bernalillo County Precinct 454
+35|001|455|Bernalillo County Precinct 455|Bernalillo County Precinct 455
+35|001|46|Bernalillo County Precinct 46|Bernalillo County Precinct 46
+35|001|461|Bernalillo County Precinct 461|Bernalillo County Precinct 461
+35|001|462|Bernalillo County Precinct 462|Bernalillo County Precinct 462
+35|001|463|Bernalillo County Precinct 463|Bernalillo County Precinct 463
+35|001|464|Bernalillo County Precinct 464|Bernalillo County Precinct 464
+35|001|465|Bernalillo County Precinct 465|Bernalillo County Precinct 465
+35|001|466|Bernalillo County Precinct 466|Bernalillo County Precinct 466
+35|001|47|Bernalillo County Precinct 47|Bernalillo County Precinct 47
+35|001|471|Bernalillo County Precinct 471|Bernalillo County Precinct 471
+35|001|472|Bernalillo County Precinct 472|Bernalillo County Precinct 472
+35|001|473|Bernalillo County Precinct 473|Bernalillo County Precinct 473
+35|001|474|Bernalillo County Precinct 474|Bernalillo County Precinct 474
+35|001|475|Bernalillo County Precinct 475|Bernalillo County Precinct 475
+35|001|476|Bernalillo County Precinct 476|Bernalillo County Precinct 476
+35|001|477|Bernalillo County Precinct 477|Bernalillo County Precinct 477
+35|001|478|Bernalillo County Precinct 478|Bernalillo County Precinct 478
+35|001|48|Bernalillo County Precinct 48|Bernalillo County Precinct 48
+35|001|480|Bernalillo County Precinct 480|Bernalillo County Precinct 480
+35|001|481|Bernalillo County Precinct 481|Bernalillo County Precinct 481
+35|001|482|Bernalillo County Precinct 482|Bernalillo County Precinct 482
+35|001|483|Bernalillo County Precinct 483|Bernalillo County Precinct 483
+35|001|484|Bernalillo County Precinct 484|Bernalillo County Precinct 484
+35|001|485|Bernalillo County Precinct 485|Bernalillo County Precinct 485
+35|001|486|Bernalillo County Precinct 486|Bernalillo County Precinct 486
+35|001|487|Bernalillo County Precinct 487|Bernalillo County Precinct 487
+35|001|488|Bernalillo County Precinct 488|Bernalillo County Precinct 488
+35|001|489|Bernalillo County Precinct 489|Bernalillo County Precinct 489
+35|001|49|Bernalillo County Precinct 49|Bernalillo County Precinct 49
+35|001|490|Bernalillo County Precinct 490|Bernalillo County Precinct 490
+35|001|491|Bernalillo County Precinct 491|Bernalillo County Precinct 491
+35|001|492|Bernalillo County Precinct 492|Bernalillo County Precinct 492
+35|001|493|Bernalillo County Precinct 493|Bernalillo County Precinct 493
+35|001|494|Bernalillo County Precinct 494|Bernalillo County Precinct 494
+35|001|495|Bernalillo County Precinct 495|Bernalillo County Precinct 495
+35|001|496|Bernalillo County Precinct 496|Bernalillo County Precinct 496
+35|001|497|Bernalillo County Precinct 497|Bernalillo County Precinct 497
+35|001|498|Bernalillo County Precinct 498|Bernalillo County Precinct 498
+35|001|499|Bernalillo County Precinct 499|Bernalillo County Precinct 499
+35|001|5|Bernalillo County Precinct 5|Bernalillo County Precinct 5
+35|001|50|Bernalillo County Precinct 50|Bernalillo County Precinct 50
+35|001|500|Bernalillo County Precinct 500|Bernalillo County Precinct 500
+35|001|502|Bernalillo County Precinct 502|Bernalillo County Precinct 502
+35|001|503|Bernalillo County Precinct 503|Bernalillo County Precinct 503
+35|001|504|Bernalillo County Precinct 504|Bernalillo County Precinct 504
+35|001|505|Bernalillo County Precinct 505|Bernalillo County Precinct 505
+35|001|506|Bernalillo County Precinct 506|Bernalillo County Precinct 506
+35|001|507|Bernalillo County Precinct 507|Bernalillo County Precinct 507
+35|001|508|Bernalillo County Precinct 508|Bernalillo County Precinct 508
+35|001|509|Bernalillo County Precinct 509|Bernalillo County Precinct 509
+35|001|51|Bernalillo County Precinct 51|Bernalillo County Precinct 51
+35|001|510|Bernalillo County Precinct 510|Bernalillo County Precinct 510
+35|001|511|Bernalillo County Precinct 511|Bernalillo County Precinct 511
+35|001|512|Bernalillo County Precinct 512|Bernalillo County Precinct 512
+35|001|513|Bernalillo County Precinct 513|Bernalillo County Precinct 513
+35|001|514|Bernalillo County Precinct 514|Bernalillo County Precinct 514
+35|001|515|Bernalillo County Precinct 515|Bernalillo County Precinct 515
+35|001|516|Bernalillo County Precinct 516|Bernalillo County Precinct 516
+35|001|517|Bernalillo County Precinct 517|Bernalillo County Precinct 517
+35|001|518|Bernalillo County Precinct 518|Bernalillo County Precinct 518
+35|001|519|Bernalillo County Precinct 519|Bernalillo County Precinct 519
+35|001|52|Bernalillo County Precinct 52|Bernalillo County Precinct 52
+35|001|520|Bernalillo County Precinct 520|Bernalillo County Precinct 520
+35|001|521|Bernalillo County Precinct 521|Bernalillo County Precinct 521
+35|001|522|Bernalillo County Precinct 522|Bernalillo County Precinct 522
+35|001|523|Bernalillo County Precinct 523|Bernalillo County Precinct 523
+35|001|524|Bernalillo County Precinct 524|Bernalillo County Precinct 524
+35|001|525|Bernalillo County Precinct 525|Bernalillo County Precinct 525
+35|001|526|Bernalillo County Precinct 526|Bernalillo County Precinct 526
+35|001|527|Bernalillo County Precinct 527|Bernalillo County Precinct 527
+35|001|528|Bernalillo County Precinct 528|Bernalillo County Precinct 528
+35|001|529|Bernalillo County Precinct 529|Bernalillo County Precinct 529
+35|001|53|Bernalillo County Precinct 53|Bernalillo County Precinct 53
+35|001|530|Bernalillo County Precinct 530|Bernalillo County Precinct 530
+35|001|531|Bernalillo County Precinct 531|Bernalillo County Precinct 531
+35|001|532|Bernalillo County Precinct 532|Bernalillo County Precinct 532
+35|001|533|Bernalillo County Precinct 533|Bernalillo County Precinct 533
+35|001|534|Bernalillo County Precinct 534|Bernalillo County Precinct 534
+35|001|535|Bernalillo County Precinct 535|Bernalillo County Precinct 535
+35|001|536|Bernalillo County Precinct 536|Bernalillo County Precinct 536
+35|001|537|Bernalillo County Precinct 537|Bernalillo County Precinct 537
+35|001|538|Bernalillo County Precinct 538|Bernalillo County Precinct 538
+35|001|539|Bernalillo County Precinct 539|Bernalillo County Precinct 539
+35|001|54|Bernalillo County Precinct 54|Bernalillo County Precinct 54
+35|001|540|Bernalillo County Precinct 540|Bernalillo County Precinct 540
+35|001|541|Bernalillo County Precinct 541|Bernalillo County Precinct 541
+35|001|542|Bernalillo County Precinct 542|Bernalillo County Precinct 542
+35|001|543|Bernalillo County Precinct 543|Bernalillo County Precinct 543
+35|001|544|Bernalillo County Precinct 544|Bernalillo County Precinct 544
+35|001|545|Bernalillo County Precinct 545|Bernalillo County Precinct 545
+35|001|546|Bernalillo County Precinct 546|Bernalillo County Precinct 546
+35|001|547|Bernalillo County Precinct 547|Bernalillo County Precinct 547
+35|001|548|Bernalillo County Precinct 548|Bernalillo County Precinct 548
+35|001|549|Bernalillo County Precinct 549|Bernalillo County Precinct 549
+35|001|55|Bernalillo County Precinct 55|Bernalillo County Precinct 55
+35|001|550|Bernalillo County Precinct 550|Bernalillo County Precinct 550
+35|001|551|Bernalillo County Precinct 551|Bernalillo County Precinct 551
+35|001|552|Bernalillo County Precinct 552|Bernalillo County Precinct 552
+35|001|553|Bernalillo County Precinct 553|Bernalillo County Precinct 553
+35|001|554|Bernalillo County Precinct 554|Bernalillo County Precinct 554
+35|001|555|Bernalillo County Precinct 555|Bernalillo County Precinct 555
+35|001|556|Bernalillo County Precinct 556|Bernalillo County Precinct 556
+35|001|557|Bernalillo County Precinct 557|Bernalillo County Precinct 557
+35|001|558|Bernalillo County Precinct 558|Bernalillo County Precinct 558
+35|001|559|Bernalillo County Precinct 559|Bernalillo County Precinct 559
+35|001|56|Bernalillo County Precinct 56|Bernalillo County Precinct 56
+35|001|560|Bernalillo County Precinct 560|Bernalillo County Precinct 560
+35|001|561|Bernalillo County Precinct 561|Bernalillo County Precinct 561
+35|001|562|Bernalillo County Precinct 562|Bernalillo County Precinct 562
+35|001|563|Bernalillo County Precinct 563|Bernalillo County Precinct 563
+35|001|564|Bernalillo County Precinct 564|Bernalillo County Precinct 564
+35|001|565|Bernalillo County Precinct 565|Bernalillo County Precinct 565
+35|001|566|Bernalillo County Precinct 566|Bernalillo County Precinct 566
+35|001|567|Bernalillo County Precinct 567|Bernalillo County Precinct 567
+35|001|568|Bernalillo County Precinct 568|Bernalillo County Precinct 568
+35|001|569|Bernalillo County Precinct 569|Bernalillo County Precinct 569
+35|001|57|Bernalillo County Precinct 57|Bernalillo County Precinct 57
+35|001|570|Bernalillo County Precinct 570|Bernalillo County Precinct 570
+35|001|571|Bernalillo County Precinct 571|Bernalillo County Precinct 571
+35|001|572|Bernalillo County Precinct 572|Bernalillo County Precinct 572
+35|001|573|Bernalillo County Precinct 573|Bernalillo County Precinct 573
+35|001|58|Bernalillo County Precinct 58|Bernalillo County Precinct 58
+35|001|59|Bernalillo County Precinct 59|Bernalillo County Precinct 59
+35|001|6|Bernalillo County Precinct 6|Bernalillo County Precinct 6
+35|001|60|Bernalillo County Precinct 60|Bernalillo County Precinct 60
+35|001|601|Bernalillo County Precinct 601|Bernalillo County Precinct 601
+35|001|602|Bernalillo County Precinct 602|Bernalillo County Precinct 602
+35|001|603|Bernalillo County Precinct 603|Bernalillo County Precinct 603
+35|001|61|Bernalillo County Precinct 61|Bernalillo County Precinct 61
+35|001|62|Bernalillo County Precinct 62|Bernalillo County Precinct 62
+35|001|63|Bernalillo County Precinct 63|Bernalillo County Precinct 63
+35|001|64|Bernalillo County Precinct 64|Bernalillo County Precinct 64
+35|001|65|Bernalillo County Precinct 65|Bernalillo County Precinct 65
+35|001|66|Bernalillo County Precinct 66|Bernalillo County Precinct 66
+35|001|67|Bernalillo County Precinct 67|Bernalillo County Precinct 67
+35|001|68|Bernalillo County Precinct 68|Bernalillo County Precinct 68
+35|001|7|Bernalillo County Precinct 7|Bernalillo County Precinct 7
+35|001|70|Bernalillo County Precinct 70|Bernalillo County Precinct 70
+35|001|71|Bernalillo County Precinct 71|Bernalillo County Precinct 71
+35|001|72|Bernalillo County Precinct 72|Bernalillo County Precinct 72
+35|001|73|Bernalillo County Precinct 73|Bernalillo County Precinct 73
+35|001|74|Bernalillo County Precinct 74|Bernalillo County Precinct 74
+35|001|75|Bernalillo County Precinct 75|Bernalillo County Precinct 75
+35|001|76|Bernalillo County Precinct 76|Bernalillo County Precinct 76
+35|001|77|Bernalillo County Precinct 77|Bernalillo County Precinct 77
+35|001|78|Bernalillo County Precinct 78|Bernalillo County Precinct 78
+35|001|79|Bernalillo County Precinct 79|Bernalillo County Precinct 79
+35|001|8|Bernalillo County Precinct 8|Bernalillo County Precinct 8
+35|001|80|Bernalillo County Precinct 80|Bernalillo County Precinct 80
+35|001|81|Bernalillo County Precinct 81|Bernalillo County Precinct 81
+35|001|82|Bernalillo County Precinct 82|Bernalillo County Precinct 82
+35|001|83|Bernalillo County Precinct 83|Bernalillo County Precinct 83
+35|001|84|Bernalillo County Precinct 84|Bernalillo County Precinct 84
+35|001|85|Bernalillo County Precinct 85|Bernalillo County Precinct 85
+35|001|86|Bernalillo County Precinct 86|Bernalillo County Precinct 86
+35|001|87|Bernalillo County Precinct 87|Bernalillo County Precinct 87
+35|001|88|Bernalillo County Precinct 88|Bernalillo County Precinct 88
+35|001|89|Bernalillo County Precinct 89|Bernalillo County Precinct 89
+35|001|9|Bernalillo County Precinct 9|Bernalillo County Precinct 9
+35|001|90|Bernalillo County Precinct 90|Bernalillo County Precinct 90
+35|001|91|Bernalillo County Precinct 91|Bernalillo County Precinct 91
+35|001|92|Bernalillo County Precinct 92|Bernalillo County Precinct 92
+35|001|93|Bernalillo County Precinct 93|Bernalillo County Precinct 93
+35|001|94|Bernalillo County Precinct 94|Bernalillo County Precinct 94
+35|001|95|Bernalillo County Precinct 95|Bernalillo County Precinct 95
+35|001|96|Bernalillo County Precinct 96|Bernalillo County Precinct 96
+35|001|97|Bernalillo County Precinct 97|Bernalillo County Precinct 97
+35|001|98|Bernalillo County Precinct 98|Bernalillo County Precinct 98
+35|001|99|Bernalillo County Precinct 99|Bernalillo County Precinct 99
+35|003|1|Catron County Precinct 1|Catron County Precinct 1
+35|003|2|Catron County Precinct 2|Catron County Precinct 2
+35|003|3|Catron County Precinct 3|Catron County Precinct 3
+35|003|4|Catron County Precinct 4|Catron County Precinct 4
+35|003|5|Catron County Precinct 5|Catron County Precinct 5
+35|003|6|Catron County Precinct 6|Catron County Precinct 6
+35|005|1|Chaves County Precinct 1|Chaves County Precinct 1
+35|005|10|Chaves County Precinct 10|Chaves County Precinct 10
+35|005|101|Chaves County Precinct 101|Chaves County Precinct 101
+35|005|102|Chaves County Precinct 102|Chaves County Precinct 102
+35|005|103|Chaves County Precinct 103|Chaves County Precinct 103
+35|005|104|Chaves County Precinct 104|Chaves County Precinct 104
+35|005|11|Chaves County Precinct 11|Chaves County Precinct 11
+35|005|12|Chaves County Precinct 12|Chaves County Precinct 12
+35|005|13|Chaves County Precinct 13|Chaves County Precinct 13
+35|005|14|Chaves County Precinct 14|Chaves County Precinct 14
+35|005|15|Chaves County Precinct 15|Chaves County Precinct 15
+35|005|16|Chaves County Precinct 16|Chaves County Precinct 16
+35|005|2|Chaves County Precinct 2|Chaves County Precinct 2
+35|005|21|Chaves County Precinct 21|Chaves County Precinct 21
+35|005|22|Chaves County Precinct 22|Chaves County Precinct 22
+35|005|23|Chaves County Precinct 23|Chaves County Precinct 23
+35|005|24|Chaves County Precinct 24|Chaves County Precinct 24
+35|005|25|Chaves County Precinct 25|Chaves County Precinct 25
+35|005|3|Chaves County Precinct 3|Chaves County Precinct 3
+35|005|31|Chaves County Precinct 31|Chaves County Precinct 31
+35|005|32|Chaves County Precinct 32|Chaves County Precinct 32
+35|005|33|Chaves County Precinct 33|Chaves County Precinct 33
+35|005|34|Chaves County Precinct 34|Chaves County Precinct 34
+35|005|35|Chaves County Precinct 35|Chaves County Precinct 35
+35|005|36|Chaves County Precinct 36|Chaves County Precinct 36
+35|005|4|Chaves County Precinct 4|Chaves County Precinct 4
+35|005|41|Chaves County Precinct 41|Chaves County Precinct 41
+35|005|42|Chaves County Precinct 42|Chaves County Precinct 42
+35|005|43|Chaves County Precinct 43|Chaves County Precinct 43
+35|005|44|Chaves County Precinct 44|Chaves County Precinct 44
+35|005|45|Chaves County Precinct 45|Chaves County Precinct 45
+35|005|46|Chaves County Precinct 46|Chaves County Precinct 46
+35|005|47|Chaves County Precinct 47|Chaves County Precinct 47
+35|005|5|Chaves County Precinct 5|Chaves County Precinct 5
+35|005|51|Chaves County Precinct 51|Chaves County Precinct 51
+35|005|52|Chaves County Precinct 52|Chaves County Precinct 52
+35|005|6|Chaves County Precinct 6|Chaves County Precinct 6
+35|005|61|Chaves County Precinct 61|Chaves County Precinct 61
+35|005|62|Chaves County Precinct 62|Chaves County Precinct 62
+35|005|63|Chaves County Precinct 63|Chaves County Precinct 63
+35|005|7|Chaves County Precinct 7|Chaves County Precinct 7
+35|005|71|Chaves County Precinct 71|Chaves County Precinct 71
+35|005|72|Chaves County Precinct 72|Chaves County Precinct 72
+35|005|73|Chaves County Precinct 73|Chaves County Precinct 73
+35|005|81|Chaves County Precinct 81|Chaves County Precinct 81
+35|005|82|Chaves County Precinct 82|Chaves County Precinct 82
+35|005|83|Chaves County Precinct 83|Chaves County Precinct 83
+35|005|84|Chaves County Precinct 84|Chaves County Precinct 84
+35|005|85|Chaves County Precinct 85|Chaves County Precinct 85
+35|005|9|Chaves County Precinct 9|Chaves County Precinct 9
+35|005|90|Chaves County Precinct 90|Chaves County Precinct 90
+35|005|91|Chaves County Precinct 91|Chaves County Precinct 91
+35|005|92|Chaves County Precinct 92|Chaves County Precinct 92
+35|005|93|Chaves County Precinct 93|Chaves County Precinct 93
+35|005|94|Chaves County Precinct 94|Chaves County Precinct 94
+35|006|1|Cibola County Precinct 1|Cibola County Precinct 1
+35|006|10|Cibola County Precinct 10|Cibola County Precinct 10
+35|006|11|Cibola County Precinct 11|Cibola County Precinct 11
+35|006|12|Cibola County Precinct 12|Cibola County Precinct 12
+35|006|13|Cibola County Precinct 13|Cibola County Precinct 13
+35|006|14|Cibola County Precinct 14|Cibola County Precinct 14
+35|006|15|Cibola County Precinct 15|Cibola County Precinct 15
+35|006|16|Cibola County Precinct 16|Cibola County Precinct 16
+35|006|17|Cibola County Precinct 17|Cibola County Precinct 17
+35|006|18|Cibola County Precinct 18|Cibola County Precinct 18
+35|006|19|Cibola County Precinct 19|Cibola County Precinct 19
+35|006|2|Cibola County Precinct 2|Cibola County Precinct 2
+35|006|20|Cibola County Precinct 20|Cibola County Precinct 20
+35|006|21|Cibola County Precinct 21|Cibola County Precinct 21
+35|006|22|Cibola County Precinct 22|Cibola County Precinct 22
+35|006|23|Cibola County Precinct 23|Cibola County Precinct 23
+35|006|24|Cibola County Precinct 24|Cibola County Precinct 24
+35|006|25|Cibola County Precinct 25|Cibola County Precinct 25
+35|006|3|Cibola County Precinct 3|Cibola County Precinct 3
+35|006|4|Cibola County Precinct 4|Cibola County Precinct 4
+35|006|5|Cibola County Precinct 5|Cibola County Precinct 5
+35|006|6|Cibola County Precinct 6|Cibola County Precinct 6
+35|006|7|Cibola County Precinct 7|Cibola County Precinct 7
+35|006|8|Cibola County Precinct 8|Cibola County Precinct 8
+35|006|9|Cibola County Precinct 9|Cibola County Precinct 9
+35|007|1|Colfax County Precinct 1|Colfax County Precinct 1
+35|007|10|Colfax County Precinct 10|Colfax County Precinct 10
+35|007|11|Colfax County Precinct 11|Colfax County Precinct 11
+35|007|12|Colfax County Precinct 12|Colfax County Precinct 12
+35|007|13|Colfax County Precinct 13|Colfax County Precinct 13
+35|007|14|Colfax County Precinct 14|Colfax County Precinct 14
+35|007|15|Colfax County Precinct 15|Colfax County Precinct 15
+35|007|16|Colfax County Precinct 16|Colfax County Precinct 16
+35|007|17|Colfax County Precinct 17|Colfax County Precinct 17
+35|007|18|Colfax County Precinct 18|Colfax County Precinct 18
+35|007|19|Colfax County Precinct 19|Colfax County Precinct 19
+35|007|2|Colfax County Precinct 2|Colfax County Precinct 2
+35|007|20|Colfax County Precinct 20|Colfax County Precinct 20
+35|007|21|Colfax County Precinct 21|Colfax County Precinct 21
+35|007|22|Colfax County Precinct 22|Colfax County Precinct 22
+35|007|3|Colfax County Precinct 3|Colfax County Precinct 3
+35|007|4|Colfax County Precinct 4|Colfax County Precinct 4
+35|007|5|Colfax County Precinct 5|Colfax County Precinct 5
+35|007|7|Colfax County Precinct 7|Colfax County Precinct 7
+35|009|1|Curry County Precinct 1|Curry County Precinct 1
+35|009|10|Curry County Precinct 10|Curry County Precinct 10
+35|009|11|Curry County Precinct 11|Curry County Precinct 11
+35|009|12|Curry County Precinct 12|Curry County Precinct 12
+35|009|13|Curry County Precinct 13|Curry County Precinct 13
+35|009|14|Curry County Precinct 14|Curry County Precinct 14
+35|009|15|Curry County Precinct 15|Curry County Precinct 15
+35|009|16|Curry County Precinct 16|Curry County Precinct 16
+35|009|17|Curry County Precinct 17|Curry County Precinct 17
+35|009|18|Curry County Precinct 18|Curry County Precinct 18
+35|009|19|Curry County Precinct 19|Curry County Precinct 19
+35|009|2|Curry County Precinct 2|Curry County Precinct 2
+35|009|20|Curry County Precinct 20|Curry County Precinct 20
+35|009|21|Curry County Precinct 21|Curry County Precinct 21
+35|009|22|Curry County Precinct 22|Curry County Precinct 22
+35|009|23|Curry County Precinct 23|Curry County Precinct 23
+35|009|24|Curry County Precinct 24|Curry County Precinct 24
+35|009|25|Curry County Precinct 25|Curry County Precinct 25
+35|009|26|Curry County Precinct 26|Curry County Precinct 26
+35|009|27|Curry County Precinct 27|Curry County Precinct 27
+35|009|28|Curry County Precinct 28|Curry County Precinct 28
+35|009|29|Curry County Precinct 29|Curry County Precinct 29
+35|009|3|Curry County Precinct 3|Curry County Precinct 3
+35|009|30|Curry County Precinct 30|Curry County Precinct 30
+35|009|31|Curry County Precinct 31|Curry County Precinct 31
+35|009|32|Curry County Precinct 32|Curry County Precinct 32
+35|009|33|Curry County Precinct 33|Curry County Precinct 33
+35|009|34|Curry County Precinct 34|Curry County Precinct 34
+35|009|35|Curry County Precinct 35|Curry County Precinct 35
+35|009|36|Curry County Precinct 36|Curry County Precinct 36
+35|009|37|Curry County Precinct 37|Curry County Precinct 37
+35|009|4|Curry County Precinct 4|Curry County Precinct 4
+35|009|5|Curry County Precinct 5|Curry County Precinct 5
+35|009|6|Curry County Precinct 6|Curry County Precinct 6
+35|009|7|Curry County Precinct 7|Curry County Precinct 7
+35|009|8|Curry County Precinct 8|Curry County Precinct 8
+35|009|9|Curry County Precinct 9|Curry County Precinct 9
+35|011|1|De Baca County Precinct 1|De Baca County Precinct 1
+35|011|2|De Baca County Precinct 2|De Baca County Precinct 2
+35|011|3|De Baca County Precinct 3|De Baca County Precinct 3
+35|011|4|De Baca County Precinct 4|De Baca County Precinct 4
+35|013|1|Doña Ana County Precinct 1|Doña Ana County Precinct 1
+35|013|10|Doña Ana County Precinct 10|Doña Ana County Precinct 10
+35|013|100|Doña Ana County Precinct 100|Doña Ana County Precinct 100
+35|013|101|Doña Ana County Precinct 101|Doña Ana County Precinct 101
+35|013|102|Doña Ana County Precinct 102|Doña Ana County Precinct 102
+35|013|103|Doña Ana County Precinct 103|Doña Ana County Precinct 103
+35|013|104|Doña Ana County Precinct 104|Doña Ana County Precinct 104
+35|013|105|Doña Ana County Precinct 105|Doña Ana County Precinct 105
+35|013|106|Doña Ana County Precinct 106|Doña Ana County Precinct 106
+35|013|107|Doña Ana County Precinct 107|Doña Ana County Precinct 107
+35|013|108|Doña Ana County Precinct 108|Doña Ana County Precinct 108
+35|013|109|Doña Ana County Precinct 109|Doña Ana County Precinct 109
+35|013|11|Doña Ana County Precinct 11|Doña Ana County Precinct 11
+35|013|110|Doña Ana County Precinct 110|Doña Ana County Precinct 110
+35|013|111|Doña Ana County Precinct 111|Doña Ana County Precinct 111
+35|013|112|Doña Ana County Precinct 112|Doña Ana County Precinct 112
+35|013|113|Doña Ana County Precinct 113|Doña Ana County Precinct 113
+35|013|114|Doña Ana County Precinct 114|Doña Ana County Precinct 114
+35|013|115|Doña Ana County Precinct 115|Doña Ana County Precinct 115
+35|013|12|Doña Ana County Precinct 12|Doña Ana County Precinct 12
+35|013|13|Doña Ana County Precinct 13|Doña Ana County Precinct 13
+35|013|14|Doña Ana County Precinct 14|Doña Ana County Precinct 14
+35|013|15|Doña Ana County Precinct 15|Doña Ana County Precinct 15
+35|013|16|Doña Ana County Precinct 16|Doña Ana County Precinct 16
+35|013|17|Doña Ana County Precinct 17|Doña Ana County Precinct 17
+35|013|18|Doña Ana County Precinct 18|Doña Ana County Precinct 18
+35|013|19|Doña Ana County Precinct 19|Doña Ana County Precinct 19
+35|013|2|Doña Ana County Precinct 2|Doña Ana County Precinct 2
+35|013|20|Doña Ana County Precinct 20|Doña Ana County Precinct 20
+35|013|21|Doña Ana County Precinct 21|Doña Ana County Precinct 21
+35|013|22|Doña Ana County Precinct 22|Doña Ana County Precinct 22
+35|013|23|Doña Ana County Precinct 23|Doña Ana County Precinct 23
+35|013|24|Doña Ana County Precinct 24|Doña Ana County Precinct 24
+35|013|25|Doña Ana County Precinct 25|Doña Ana County Precinct 25
+35|013|26|Doña Ana County Precinct 26|Doña Ana County Precinct 26
+35|013|27|Doña Ana County Precinct 27|Doña Ana County Precinct 27
+35|013|28|Doña Ana County Precinct 28|Doña Ana County Precinct 28
+35|013|29|Doña Ana County Precinct 29|Doña Ana County Precinct 29
+35|013|3|Doña Ana County Precinct 3|Doña Ana County Precinct 3
+35|013|30|Doña Ana County Precinct 30|Doña Ana County Precinct 30
+35|013|31|Doña Ana County Precinct 31|Doña Ana County Precinct 31
+35|013|32|Doña Ana County Precinct 32|Doña Ana County Precinct 32
+35|013|33|Doña Ana County Precinct 33|Doña Ana County Precinct 33
+35|013|34|Doña Ana County Precinct 34|Doña Ana County Precinct 34
+35|013|35|Doña Ana County Precinct 35|Doña Ana County Precinct 35
+35|013|36|Doña Ana County Precinct 36|Doña Ana County Precinct 36
+35|013|37|Doña Ana County Precinct 37|Doña Ana County Precinct 37
+35|013|38|Doña Ana County Precinct 38|Doña Ana County Precinct 38
+35|013|39|Doña Ana County Precinct 39|Doña Ana County Precinct 39
+35|013|4|Doña Ana County Precinct 4|Doña Ana County Precinct 4
+35|013|40|Doña Ana County Precinct 40|Doña Ana County Precinct 40
+35|013|41|Doña Ana County Precinct 41|Doña Ana County Precinct 41
+35|013|42|Doña Ana County Precinct 42|Doña Ana County Precinct 42
+35|013|43|Doña Ana County Precinct 43|Doña Ana County Precinct 43
+35|013|44|Doña Ana County Precinct 44|Doña Ana County Precinct 44
+35|013|45|Doña Ana County Precinct 45|Doña Ana County Precinct 45
+35|013|46|Doña Ana County Precinct 46|Doña Ana County Precinct 46
+35|013|47|Doña Ana County Precinct 47|Doña Ana County Precinct 47
+35|013|48|Doña Ana County Precinct 48|Doña Ana County Precinct 48
+35|013|49|Doña Ana County Precinct 49|Doña Ana County Precinct 49
+35|013|5|Doña Ana County Precinct 5|Doña Ana County Precinct 5
+35|013|50|Doña Ana County Precinct 50|Doña Ana County Precinct 50
+35|013|51|Doña Ana County Precinct 51|Doña Ana County Precinct 51
+35|013|52|Doña Ana County Precinct 52|Doña Ana County Precinct 52
+35|013|53|Doña Ana County Precinct 53|Doña Ana County Precinct 53
+35|013|54|Doña Ana County Precinct 54|Doña Ana County Precinct 54
+35|013|55|Doña Ana County Precinct 55|Doña Ana County Precinct 55
+35|013|56|Doña Ana County Precinct 56|Doña Ana County Precinct 56
+35|013|57|Doña Ana County Precinct 57|Doña Ana County Precinct 57
+35|013|58|Doña Ana County Precinct 58|Doña Ana County Precinct 58
+35|013|59|Doña Ana County Precinct 59|Doña Ana County Precinct 59
+35|013|6|Doña Ana County Precinct 6|Doña Ana County Precinct 6
+35|013|60|Doña Ana County Precinct 60|Doña Ana County Precinct 60
+35|013|61|Doña Ana County Precinct 61|Doña Ana County Precinct 61
+35|013|62|Doña Ana County Precinct 62|Doña Ana County Precinct 62
+35|013|63|Doña Ana County Precinct 63|Doña Ana County Precinct 63
+35|013|64|Doña Ana County Precinct 64|Doña Ana County Precinct 64
+35|013|65|Doña Ana County Precinct 65|Doña Ana County Precinct 65
+35|013|66|Doña Ana County Precinct 66|Doña Ana County Precinct 66
+35|013|67|Doña Ana County Precinct 67|Doña Ana County Precinct 67
+35|013|68|Doña Ana County Precinct 68|Doña Ana County Precinct 68
+35|013|69|Doña Ana County Precinct 69|Doña Ana County Precinct 69
+35|013|7|Doña Ana County Precinct 7|Doña Ana County Precinct 7
+35|013|70|Doña Ana County Precinct 70|Doña Ana County Precinct 70
+35|013|71|Doña Ana County Precinct 71|Doña Ana County Precinct 71
+35|013|72|Doña Ana County Precinct 72|Doña Ana County Precinct 72
+35|013|73|Doña Ana County Precinct 73|Doña Ana County Precinct 73
+35|013|74|Doña Ana County Precinct 74|Doña Ana County Precinct 74
+35|013|75|Doña Ana County Precinct 75|Doña Ana County Precinct 75
+35|013|76|Doña Ana County Precinct 76|Doña Ana County Precinct 76
+35|013|77|Doña Ana County Precinct 77|Doña Ana County Precinct 77
+35|013|78|Doña Ana County Precinct 78|Doña Ana County Precinct 78
+35|013|79|Doña Ana County Precinct 79|Doña Ana County Precinct 79
+35|013|8|Doña Ana County Precinct 8|Doña Ana County Precinct 8
+35|013|80|Doña Ana County Precinct 80|Doña Ana County Precinct 80
+35|013|81|Doña Ana County Precinct 81|Doña Ana County Precinct 81
+35|013|82|Doña Ana County Precinct 82|Doña Ana County Precinct 82
+35|013|83|Doña Ana County Precinct 83|Doña Ana County Precinct 83
+35|013|84|Doña Ana County Precinct 84|Doña Ana County Precinct 84
+35|013|85|Doña Ana County Precinct 85|Doña Ana County Precinct 85
+35|013|86|Doña Ana County Precinct 86|Doña Ana County Precinct 86
+35|013|87|Doña Ana County Precinct 87|Doña Ana County Precinct 87
+35|013|88|Doña Ana County Precinct 88|Doña Ana County Precinct 88
+35|013|89|Doña Ana County Precinct 89|Doña Ana County Precinct 89
+35|013|9|Doña Ana County Precinct 9|Doña Ana County Precinct 9
+35|013|90|Doña Ana County Precinct 90|Doña Ana County Precinct 90
+35|013|91|Doña Ana County Precinct 91|Doña Ana County Precinct 91
+35|013|92|Doña Ana County Precinct 92|Doña Ana County Precinct 92
+35|013|93|Doña Ana County Precinct 93|Doña Ana County Precinct 93
+35|013|94|Doña Ana County Precinct 94|Doña Ana County Precinct 94
+35|013|95|Doña Ana County Precinct 95|Doña Ana County Precinct 95
+35|013|96|Doña Ana County Precinct 96|Doña Ana County Precinct 96
+35|013|97|Doña Ana County Precinct 97|Doña Ana County Precinct 97
+35|013|98|Doña Ana County Precinct 98|Doña Ana County Precinct 98
+35|013|99|Doña Ana County Precinct 99|Doña Ana County Precinct 99
+35|015|1|Eddy County Precinct 1|Eddy County Precinct 1
+35|015|10|Eddy County Precinct 10|Eddy County Precinct 10
+35|015|11|Eddy County Precinct 11|Eddy County Precinct 11
+35|015|12|Eddy County Precinct 12|Eddy County Precinct 12
+35|015|13|Eddy County Precinct 13|Eddy County Precinct 13
+35|015|14|Eddy County Precinct 14|Eddy County Precinct 14
+35|015|15|Eddy County Precinct 15|Eddy County Precinct 15
+35|015|16|Eddy County Precinct 16|Eddy County Precinct 16
+35|015|17|Eddy County Precinct 17|Eddy County Precinct 17
+35|015|18|Eddy County Precinct 18|Eddy County Precinct 18
+35|015|19|Eddy County Precinct 19|Eddy County Precinct 19
+35|015|2|Eddy County Precinct 2|Eddy County Precinct 2
+35|015|20|Eddy County Precinct 20|Eddy County Precinct 20
+35|015|21|Eddy County Precinct 21|Eddy County Precinct 21
+35|015|23|Eddy County Precinct 23|Eddy County Precinct 23
+35|015|25|Eddy County Precinct 25|Eddy County Precinct 25
+35|015|26|Eddy County Precinct 26|Eddy County Precinct 26
+35|015|27|Eddy County Precinct 27|Eddy County Precinct 27
+35|015|28|Eddy County Precinct 28|Eddy County Precinct 28
+35|015|29|Eddy County Precinct 29|Eddy County Precinct 29
+35|015|3|Eddy County Precinct 3|Eddy County Precinct 3
+35|015|30|Eddy County Precinct 30|Eddy County Precinct 30
+35|015|32|Eddy County Precinct 32|Eddy County Precinct 32
+35|015|33|Eddy County Precinct 33|Eddy County Precinct 33
+35|015|34|Eddy County Precinct 34|Eddy County Precinct 34
+35|015|35|Eddy County Precinct 35|Eddy County Precinct 35
+35|015|36|Eddy County Precinct 36|Eddy County Precinct 36
+35|015|37|Eddy County Precinct 37|Eddy County Precinct 37
+35|015|38|Eddy County Precinct 38|Eddy County Precinct 38
+35|015|39|Eddy County Precinct 39|Eddy County Precinct 39
+35|015|4|Eddy County Precinct 4|Eddy County Precinct 4
+35|015|40|Eddy County Precinct 40|Eddy County Precinct 40
+35|015|41|Eddy County Precinct 41|Eddy County Precinct 41
+35|015|42|Eddy County Precinct 42|Eddy County Precinct 42
+35|015|44|Eddy County Precinct 44|Eddy County Precinct 44
+35|015|45|Eddy County Precinct 45|Eddy County Precinct 45
+35|015|5|Eddy County Precinct 5|Eddy County Precinct 5
+35|015|6|Eddy County Precinct 6|Eddy County Precinct 6
+35|015|7|Eddy County Precinct 7|Eddy County Precinct 7
+35|015|8|Eddy County Precinct 8|Eddy County Precinct 8
+35|015|9|Eddy County Precinct 9|Eddy County Precinct 9
+35|017|1|Grant County Precinct 1|Grant County Precinct 1
+35|017|10|Grant County Precinct 10|Grant County Precinct 10
+35|017|11|Grant County Precinct 11|Grant County Precinct 11
+35|017|12|Grant County Precinct 12|Grant County Precinct 12
+35|017|13|Grant County Precinct 13|Grant County Precinct 13
+35|017|14|Grant County Precinct 14|Grant County Precinct 14
+35|017|15|Grant County Precinct 15|Grant County Precinct 15
+35|017|16|Grant County Precinct 16|Grant County Precinct 16
+35|017|17|Grant County Precinct 17|Grant County Precinct 17
+35|017|18|Grant County Precinct 18|Grant County Precinct 18
+35|017|19|Grant County Precinct 19|Grant County Precinct 19
+35|017|2|Grant County Precinct 2|Grant County Precinct 2
+35|017|20|Grant County Precinct 20|Grant County Precinct 20
+35|017|21|Grant County Precinct 21|Grant County Precinct 21
+35|017|22|Grant County Precinct 22|Grant County Precinct 22
+35|017|23|Grant County Precinct 23|Grant County Precinct 23
+35|017|24|Grant County Precinct 24|Grant County Precinct 24
+35|017|25|Grant County Precinct 25|Grant County Precinct 25
+35|017|26|Grant County Precinct 26|Grant County Precinct 26
+35|017|27|Grant County Precinct 27|Grant County Precinct 27
+35|017|28|Grant County Precinct 28|Grant County Precinct 28
+35|017|29|Grant County Precinct 29|Grant County Precinct 29
+35|017|3|Grant County Precinct 3|Grant County Precinct 3
+35|017|30|Grant County Precinct 30|Grant County Precinct 30
+35|017|31|Grant County Precinct 31|Grant County Precinct 31
+35|017|32|Grant County Precinct 32|Grant County Precinct 32
+35|017|33|Grant County Precinct 33|Grant County Precinct 33
+35|017|34|Grant County Precinct 34|Grant County Precinct 34
+35|017|35|Grant County Precinct 35|Grant County Precinct 35
+35|017|4|Grant County Precinct 4|Grant County Precinct 4
+35|017|5|Grant County Precinct 5|Grant County Precinct 5
+35|017|6|Grant County Precinct 6|Grant County Precinct 6
+35|017|7|Grant County Precinct 7|Grant County Precinct 7
+35|017|8|Grant County Precinct 8|Grant County Precinct 8
+35|017|9|Grant County Precinct 9|Grant County Precinct 9
+35|019|1|Guadalupe County Precinct 1|Guadalupe County Precinct 1
+35|019|2|Guadalupe County Precinct 2|Guadalupe County Precinct 2
+35|019|3|Guadalupe County Precinct 3|Guadalupe County Precinct 3
+35|019|4|Guadalupe County Precinct 4|Guadalupe County Precinct 4
+35|019|5|Guadalupe County Precinct 5|Guadalupe County Precinct 5
+35|021|1|Harding County Precinct 1|Harding County Precinct 1
+35|021|2|Harding County Precinct 2|Harding County Precinct 2
+35|023|1|Hidalgo County Precinct 1|Hidalgo County Precinct 1
+35|023|2|Hidalgo County Precinct 2|Hidalgo County Precinct 2
+35|023|3|Hidalgo County Precinct 3|Hidalgo County Precinct 3
+35|023|4|Hidalgo County Precinct 4|Hidalgo County Precinct 4
+35|023|5|Hidalgo County Precinct 5|Hidalgo County Precinct 5
+35|023|6|Hidalgo County Precinct 6|Hidalgo County Precinct 6
+35|025|10|Lea County Precinct 10|Lea County Precinct 10
+35|025|11|Lea County Precinct 11|Lea County Precinct 11
+35|025|12|Lea County Precinct 12|Lea County Precinct 12
+35|025|13|Lea County Precinct 13|Lea County Precinct 13
+35|025|14|Lea County Precinct 14|Lea County Precinct 14
+35|025|15|Lea County Precinct 15|Lea County Precinct 15
+35|025|16|Lea County Precinct 16|Lea County Precinct 16
+35|025|17|Lea County Precinct 17|Lea County Precinct 17
+35|025|18|Lea County Precinct 18|Lea County Precinct 18
+35|025|2|Lea County Precinct 2|Lea County Precinct 2
+35|025|20|Lea County Precinct 20|Lea County Precinct 20
+35|025|21|Lea County Precinct 21|Lea County Precinct 21
+35|025|22|Lea County Precinct 22|Lea County Precinct 22
+35|025|23|Lea County Precinct 23|Lea County Precinct 23
+35|025|24|Lea County Precinct 24|Lea County Precinct 24
+35|025|25|Lea County Precinct 25|Lea County Precinct 25
+35|025|26|Lea County Precinct 26|Lea County Precinct 26
+35|025|27|Lea County Precinct 27|Lea County Precinct 27
+35|025|28|Lea County Precinct 28|Lea County Precinct 28
+35|025|29|Lea County Precinct 29|Lea County Precinct 29
+35|025|3|Lea County Precinct 3|Lea County Precinct 3
+35|025|30|Lea County Precinct 30|Lea County Precinct 30
+35|025|31|Lea County Precinct 31|Lea County Precinct 31
+35|025|32|Lea County Precinct 32|Lea County Precinct 32
+35|025|33|Lea County Precinct 33|Lea County Precinct 33
+35|025|34|Lea County Precinct 34|Lea County Precinct 34
+35|025|35|Lea County Precinct 35|Lea County Precinct 35
+35|025|36|Lea County Precinct 36|Lea County Precinct 36
+35|025|41|Lea County Precinct 41|Lea County Precinct 41
+35|025|42|Lea County Precinct 42|Lea County Precinct 42
+35|025|43|Lea County Precinct 43|Lea County Precinct 43
+35|025|44|Lea County Precinct 44|Lea County Precinct 44
+35|025|51|Lea County Precinct 51|Lea County Precinct 51
+35|025|52|Lea County Precinct 52|Lea County Precinct 52
+35|025|53|Lea County Precinct 53|Lea County Precinct 53
+35|025|54|Lea County Precinct 54|Lea County Precinct 54
+35|025|55|Lea County Precinct 55|Lea County Precinct 55
+35|025|61|Lea County Precinct 61|Lea County Precinct 61
+35|025|62|Lea County Precinct 62|Lea County Precinct 62
+35|025|71|Lea County Precinct 71|Lea County Precinct 71
+35|025|72|Lea County Precinct 72|Lea County Precinct 72
+35|025|73|Lea County Precinct 73|Lea County Precinct 73
+35|025|74|Lea County Precinct 74|Lea County Precinct 74
+35|027|1|Lincoln County Precinct 1|Lincoln County Precinct 1
+35|027|10|Lincoln County Precinct 10|Lincoln County Precinct 10
+35|027|11|Lincoln County Precinct 11|Lincoln County Precinct 11
+35|027|12|Lincoln County Precinct 12|Lincoln County Precinct 12
+35|027|13|Lincoln County Precinct 13|Lincoln County Precinct 13
+35|027|14|Lincoln County Precinct 14|Lincoln County Precinct 14
+35|027|15|Lincoln County Precinct 15|Lincoln County Precinct 15
+35|027|16|Lincoln County Precinct 16|Lincoln County Precinct 16
+35|027|17|Lincoln County Precinct 17|Lincoln County Precinct 17
+35|027|18|Lincoln County Precinct 18|Lincoln County Precinct 18
+35|027|19|Lincoln County Precinct 19|Lincoln County Precinct 19
+35|027|2|Lincoln County Precinct 2|Lincoln County Precinct 2
+35|027|20|Lincoln County Precinct 20|Lincoln County Precinct 20
+35|027|21|Lincoln County Precinct 21|Lincoln County Precinct 21
+35|027|3|Lincoln County Precinct 3|Lincoln County Precinct 3
+35|027|4|Lincoln County Precinct 4|Lincoln County Precinct 4
+35|027|5|Lincoln County Precinct 5|Lincoln County Precinct 5
+35|027|6|Lincoln County Precinct 6|Lincoln County Precinct 6
+35|027|7|Lincoln County Precinct 7|Lincoln County Precinct 7
+35|027|8|Lincoln County Precinct 8|Lincoln County Precinct 8
+35|027|9|Lincoln County Precinct 9|Lincoln County Precinct 9
+35|028|1|Los Alamos County Precinct 1|Los Alamos County Precinct 1
+35|028|10|Los Alamos County Precinct 10|Los Alamos County Precinct 10
+35|028|11|Los Alamos County Precinct 11|Los Alamos County Precinct 11
+35|028|12|Los Alamos County Precinct 12|Los Alamos County Precinct 12
+35|028|13|Los Alamos County Precinct 13|Los Alamos County Precinct 13
+35|028|14|Los Alamos County Precinct 14|Los Alamos County Precinct 14
+35|028|15|Los Alamos County Precinct 15|Los Alamos County Precinct 15
+35|028|16|Los Alamos County Precinct 16|Los Alamos County Precinct 16
+35|028|17|Los Alamos County Precinct 17|Los Alamos County Precinct 17
+35|028|2|Los Alamos County Precinct 2|Los Alamos County Precinct 2
+35|028|3|Los Alamos County Precinct 3|Los Alamos County Precinct 3
+35|028|4|Los Alamos County Precinct 4|Los Alamos County Precinct 4
+35|028|5|Los Alamos County Precinct 5|Los Alamos County Precinct 5
+35|028|6|Los Alamos County Precinct 6|Los Alamos County Precinct 6
+35|028|7|Los Alamos County Precinct 7|Los Alamos County Precinct 7
+35|028|8|Los Alamos County Precinct 8|Los Alamos County Precinct 8
+35|028|9|Los Alamos County Precinct 9|Los Alamos County Precinct 9
+35|029|1|Luna County Precinct 1|Luna County Precinct 1
+35|029|10|Luna County Precinct 10|Luna County Precinct 10
+35|029|11|Luna County Precinct 11|Luna County Precinct 11
+35|029|12|Luna County Precinct 12|Luna County Precinct 12
+35|029|13|Luna County Precinct 13|Luna County Precinct 13
+35|029|14|Luna County Precinct 14|Luna County Precinct 14
+35|029|2|Luna County Precinct 2|Luna County Precinct 2
+35|029|3|Luna County Precinct 3|Luna County Precinct 3
+35|029|4|Luna County Precinct 4|Luna County Precinct 4
+35|029|5|Luna County Precinct 5|Luna County Precinct 5
+35|029|6|Luna County Precinct 6|Luna County Precinct 6
+35|029|8|Luna County Precinct 8|Luna County Precinct 8
+35|031|1|McKinley County Precinct 1|McKinley County Precinct 1
+35|031|10|McKinley County Precinct 10|McKinley County Precinct 10
+35|031|11|McKinley County Precinct 11|McKinley County Precinct 11
+35|031|12|McKinley County Precinct 12|McKinley County Precinct 12
+35|031|13|McKinley County Precinct 13|McKinley County Precinct 13
+35|031|14|McKinley County Precinct 14|McKinley County Precinct 14
+35|031|15|McKinley County Precinct 15|McKinley County Precinct 15
+35|031|16|McKinley County Precinct 16|McKinley County Precinct 16
+35|031|17|McKinley County Precinct 17|McKinley County Precinct 17
+35|031|18|McKinley County Precinct 18|McKinley County Precinct 18
+35|031|19|McKinley County Precinct 19|McKinley County Precinct 19
+35|031|2|McKinley County Precinct 2|McKinley County Precinct 2
+35|031|20|McKinley County Precinct 20|McKinley County Precinct 20
+35|031|21|McKinley County Precinct 21|McKinley County Precinct 21
+35|031|22|McKinley County Precinct 22|McKinley County Precinct 22
+35|031|23|McKinley County Precinct 23|McKinley County Precinct 23
+35|031|24|McKinley County Precinct 24|McKinley County Precinct 24
+35|031|25|McKinley County Precinct 25|McKinley County Precinct 25
+35|031|26|McKinley County Precinct 26|McKinley County Precinct 26
+35|031|27|McKinley County Precinct 27|McKinley County Precinct 27
+35|031|28|McKinley County Precinct 28|McKinley County Precinct 28
+35|031|29|McKinley County Precinct 29|McKinley County Precinct 29
+35|031|3|McKinley County Precinct 3|McKinley County Precinct 3
+35|031|30|McKinley County Precinct 30|McKinley County Precinct 30
+35|031|31|McKinley County Precinct 31|McKinley County Precinct 31
+35|031|32|McKinley County Precinct 32|McKinley County Precinct 32
+35|031|33|McKinley County Precinct 33|McKinley County Precinct 33
+35|031|34|McKinley County Precinct 34|McKinley County Precinct 34
+35|031|35|McKinley County Precinct 35|McKinley County Precinct 35
+35|031|36|McKinley County Precinct 36|McKinley County Precinct 36
+35|031|37|McKinley County Precinct 37|McKinley County Precinct 37
+35|031|38|McKinley County Precinct 38|McKinley County Precinct 38
+35|031|39|McKinley County Precinct 39|McKinley County Precinct 39
+35|031|4|McKinley County Precinct 4|McKinley County Precinct 4
+35|031|40|McKinley County Precinct 40|McKinley County Precinct 40
+35|031|41|McKinley County Precinct 41|McKinley County Precinct 41
+35|031|42|McKinley County Precinct 42|McKinley County Precinct 42
+35|031|43|McKinley County Precinct 43|McKinley County Precinct 43
+35|031|44|McKinley County Precinct 44|McKinley County Precinct 44
+35|031|45|McKinley County Precinct 45|McKinley County Precinct 45
+35|031|46|McKinley County Precinct 46|McKinley County Precinct 46
+35|031|47|McKinley County Precinct 47|McKinley County Precinct 47
+35|031|48|McKinley County Precinct 48|McKinley County Precinct 48
+35|031|49|McKinley County Precinct 49|McKinley County Precinct 49
+35|031|5|McKinley County Precinct 5|McKinley County Precinct 5
+35|031|50|McKinley County Precinct 50|McKinley County Precinct 50
+35|031|52|McKinley County Precinct 52|McKinley County Precinct 52
+35|031|53|McKinley County Precinct 53|McKinley County Precinct 53
+35|031|54|McKinley County Precinct 54|McKinley County Precinct 54
+35|031|55|McKinley County Precinct 55|McKinley County Precinct 55
+35|031|56|McKinley County Precinct 56|McKinley County Precinct 56
+35|031|57|McKinley County Precinct 57|McKinley County Precinct 57
+35|031|58|McKinley County Precinct 58|McKinley County Precinct 58
+35|031|59|McKinley County Precinct 59|McKinley County Precinct 59
+35|031|6|McKinley County Precinct 6|McKinley County Precinct 6
+35|031|7|McKinley County Precinct 7|McKinley County Precinct 7
+35|031|8|McKinley County Precinct 8|McKinley County Precinct 8
+35|031|9|McKinley County Precinct 9|McKinley County Precinct 9
+35|033|1|Mora County Precinct 1|Mora County Precinct 1
+35|033|10|Mora County Precinct 10|Mora County Precinct 10
+35|033|11|Mora County Precinct 11|Mora County Precinct 11
+35|033|2|Mora County Precinct 2|Mora County Precinct 2
+35|033|3|Mora County Precinct 3|Mora County Precinct 3
+35|033|4|Mora County Precinct 4|Mora County Precinct 4
+35|033|5|Mora County Precinct 5|Mora County Precinct 5
+35|033|6|Mora County Precinct 6|Mora County Precinct 6
+35|033|7|Mora County Precinct 7|Mora County Precinct 7
+35|033|8|Mora County Precinct 8|Mora County Precinct 8
+35|033|9|Mora County Precinct 9|Mora County Precinct 9
+35|035|1|Otero County Precinct 1|Otero County Precinct 1
+35|035|10|Otero County Precinct 10|Otero County Precinct 10
+35|035|11|Otero County Precinct 11|Otero County Precinct 11
+35|035|12|Otero County Precinct 12|Otero County Precinct 12
+35|035|13|Otero County Precinct 13|Otero County Precinct 13
+35|035|14|Otero County Precinct 14|Otero County Precinct 14
+35|035|15|Otero County Precinct 15|Otero County Precinct 15
+35|035|16|Otero County Precinct 16|Otero County Precinct 16
+35|035|17|Otero County Precinct 17|Otero County Precinct 17
+35|035|18|Otero County Precinct 18|Otero County Precinct 18
+35|035|19|Otero County Precinct 19|Otero County Precinct 19
+35|035|2|Otero County Precinct 2|Otero County Precinct 2
+35|035|20|Otero County Precinct 20|Otero County Precinct 20
+35|035|21|Otero County Precinct 21|Otero County Precinct 21
+35|035|22|Otero County Precinct 22|Otero County Precinct 22
+35|035|23|Otero County Precinct 23|Otero County Precinct 23
+35|035|24|Otero County Precinct 24|Otero County Precinct 24
+35|035|25|Otero County Precinct 25|Otero County Precinct 25
+35|035|26|Otero County Precinct 26|Otero County Precinct 26
+35|035|27|Otero County Precinct 27|Otero County Precinct 27
+35|035|28|Otero County Precinct 28|Otero County Precinct 28
+35|035|29|Otero County Precinct 29|Otero County Precinct 29
+35|035|3|Otero County Precinct 3|Otero County Precinct 3
+35|035|30|Otero County Precinct 30|Otero County Precinct 30
+35|035|31|Otero County Precinct 31|Otero County Precinct 31
+35|035|32|Otero County Precinct 32|Otero County Precinct 32
+35|035|33|Otero County Precinct 33|Otero County Precinct 33
+35|035|34|Otero County Precinct 34|Otero County Precinct 34
+35|035|35|Otero County Precinct 35|Otero County Precinct 35
+35|035|36|Otero County Precinct 36|Otero County Precinct 36
+35|035|37|Otero County Precinct 37|Otero County Precinct 37
+35|035|38|Otero County Precinct 38|Otero County Precinct 38
+35|035|39|Otero County Precinct 39|Otero County Precinct 39
+35|035|4|Otero County Precinct 4|Otero County Precinct 4
+35|035|40|Otero County Precinct 40|Otero County Precinct 40
+35|035|5|Otero County Precinct 5|Otero County Precinct 5
+35|035|6|Otero County Precinct 6|Otero County Precinct 6
+35|035|7|Otero County Precinct 7|Otero County Precinct 7
+35|035|8|Otero County Precinct 8|Otero County Precinct 8
+35|035|9|Otero County Precinct 9|Otero County Precinct 9
+35|037|1|Quay County Precinct 1|Quay County Precinct 1
+35|037|10|Quay County Precinct 10|Quay County Precinct 10
+35|037|11|Quay County Precinct 11|Quay County Precinct 11
+35|037|12|Quay County Precinct 12|Quay County Precinct 12
+35|037|2|Quay County Precinct 2|Quay County Precinct 2
+35|037|3|Quay County Precinct 3|Quay County Precinct 3
+35|037|4|Quay County Precinct 4|Quay County Precinct 4
+35|037|5|Quay County Precinct 5|Quay County Precinct 5
+35|037|6|Quay County Precinct 6|Quay County Precinct 6
+35|037|7|Quay County Precinct 7|Quay County Precinct 7
+35|037|8|Quay County Precinct 8|Quay County Precinct 8
+35|037|9|Quay County Precinct 9|Quay County Precinct 9
+35|039|1|Rio Arriba County Precinct 1|Rio Arriba County Precinct 1
+35|039|10|Rio Arriba County Precinct 10|Rio Arriba County Precinct 10
+35|039|11|Rio Arriba County Precinct 11|Rio Arriba County Precinct 11
+35|039|12|Rio Arriba County Precinct 12|Rio Arriba County Precinct 12
+35|039|13|Rio Arriba County Precinct 13|Rio Arriba County Precinct 13
+35|039|14|Rio Arriba County Precinct 14|Rio Arriba County Precinct 14
+35|039|15|Rio Arriba County Precinct 15|Rio Arriba County Precinct 15
+35|039|16|Rio Arriba County Precinct 16|Rio Arriba County Precinct 16
+35|039|17|Rio Arriba County Precinct 17|Rio Arriba County Precinct 17
+35|039|18|Rio Arriba County Precinct 18|Rio Arriba County Precinct 18
+35|039|19|Rio Arriba County Precinct 19|Rio Arriba County Precinct 19
+35|039|2|Rio Arriba County Precinct 2|Rio Arriba County Precinct 2
+35|039|20|Rio Arriba County Precinct 20|Rio Arriba County Precinct 20
+35|039|21|Rio Arriba County Precinct 21|Rio Arriba County Precinct 21
+35|039|22|Rio Arriba County Precinct 22|Rio Arriba County Precinct 22
+35|039|23|Rio Arriba County Precinct 23|Rio Arriba County Precinct 23
+35|039|24|Rio Arriba County Precinct 24|Rio Arriba County Precinct 24
+35|039|25|Rio Arriba County Precinct 25|Rio Arriba County Precinct 25
+35|039|26|Rio Arriba County Precinct 26|Rio Arriba County Precinct 26
+35|039|27|Rio Arriba County Precinct 27|Rio Arriba County Precinct 27
+35|039|28|Rio Arriba County Precinct 28|Rio Arriba County Precinct 28
+35|039|29|Rio Arriba County Precinct 29|Rio Arriba County Precinct 29
+35|039|3|Rio Arriba County Precinct 3|Rio Arriba County Precinct 3
+35|039|30|Rio Arriba County Precinct 30|Rio Arriba County Precinct 30
+35|039|31|Rio Arriba County Precinct 31|Rio Arriba County Precinct 31
+35|039|32|Rio Arriba County Precinct 32|Rio Arriba County Precinct 32
+35|039|33|Rio Arriba County Precinct 33|Rio Arriba County Precinct 33
+35|039|34|Rio Arriba County Precinct 34|Rio Arriba County Precinct 34
+35|039|35|Rio Arriba County Precinct 35|Rio Arriba County Precinct 35
+35|039|36|Rio Arriba County Precinct 36|Rio Arriba County Precinct 36
+35|039|37|Rio Arriba County Precinct 37|Rio Arriba County Precinct 37
+35|039|38|Rio Arriba County Precinct 38|Rio Arriba County Precinct 38
+35|039|39|Rio Arriba County Precinct 39|Rio Arriba County Precinct 39
+35|039|4|Rio Arriba County Precinct 4|Rio Arriba County Precinct 4
+35|039|40|Rio Arriba County Precinct 40|Rio Arriba County Precinct 40
+35|039|41|Rio Arriba County Precinct 41|Rio Arriba County Precinct 41
+35|039|42|Rio Arriba County Precinct 42|Rio Arriba County Precinct 42
+35|039|5|Rio Arriba County Precinct 5|Rio Arriba County Precinct 5
+35|039|6|Rio Arriba County Precinct 6|Rio Arriba County Precinct 6
+35|039|7|Rio Arriba County Precinct 7|Rio Arriba County Precinct 7
+35|039|8|Rio Arriba County Precinct 8|Rio Arriba County Precinct 8
+35|039|9|Rio Arriba County Precinct 9|Rio Arriba County Precinct 9
+35|041|1|Roosevelt County Precinct 1|Roosevelt County Precinct 1
+35|041|10|Roosevelt County Precinct 10|Roosevelt County Precinct 10
+35|041|11|Roosevelt County Precinct 11|Roosevelt County Precinct 11
+35|041|12|Roosevelt County Precinct 12|Roosevelt County Precinct 12
+35|041|13|Roosevelt County Precinct 13|Roosevelt County Precinct 13
+35|041|15|Roosevelt County Precinct 15|Roosevelt County Precinct 15
+35|041|17|Roosevelt County Precinct 17|Roosevelt County Precinct 17
+35|041|18|Roosevelt County Precinct 18|Roosevelt County Precinct 18
+35|041|19|Roosevelt County Precinct 19|Roosevelt County Precinct 19
+35|041|2|Roosevelt County Precinct 2|Roosevelt County Precinct 2
+35|041|21|Roosevelt County Precinct 21|Roosevelt County Precinct 21
+35|041|3|Roosevelt County Precinct 3|Roosevelt County Precinct 3
+35|041|4|Roosevelt County Precinct 4|Roosevelt County Precinct 4
+35|041|5|Roosevelt County Precinct 5|Roosevelt County Precinct 5
+35|041|6|Roosevelt County Precinct 6|Roosevelt County Precinct 6
+35|041|7|Roosevelt County Precinct 7|Roosevelt County Precinct 7
+35|041|8|Roosevelt County Precinct 8|Roosevelt County Precinct 8
+35|041|9|Roosevelt County Precinct 9|Roosevelt County Precinct 9
+35|043|1|Sandoval County Precinct 1|Sandoval County Precinct 1
+35|043|10|Sandoval County Precinct 10|Sandoval County Precinct 10
+35|043|11|Sandoval County Precinct 11|Sandoval County Precinct 11
+35|043|12|Sandoval County Precinct 12|Sandoval County Precinct 12
+35|043|13|Sandoval County Precinct 13|Sandoval County Precinct 13
+35|043|14|Sandoval County Precinct 14|Sandoval County Precinct 14
+35|043|15|Sandoval County Precinct 15|Sandoval County Precinct 15
+35|043|16|Sandoval County Precinct 16|Sandoval County Precinct 16
+35|043|17|Sandoval County Precinct 17|Sandoval County Precinct 17
+35|043|18|Sandoval County Precinct 18|Sandoval County Precinct 18
+35|043|19|Sandoval County Precinct 19|Sandoval County Precinct 19
+35|043|2|Sandoval County Precinct 2|Sandoval County Precinct 2
+35|043|20|Sandoval County Precinct 20|Sandoval County Precinct 20
+35|043|21|Sandoval County Precinct 21|Sandoval County Precinct 21
+35|043|22|Sandoval County Precinct 22|Sandoval County Precinct 22
+35|043|23|Sandoval County Precinct 23|Sandoval County Precinct 23
+35|043|24|Sandoval County Precinct 24|Sandoval County Precinct 24
+35|043|25|Sandoval County Precinct 25|Sandoval County Precinct 25
+35|043|26|Sandoval County Precinct 26|Sandoval County Precinct 26
+35|043|27|Sandoval County Precinct 27|Sandoval County Precinct 27
+35|043|28|Sandoval County Precinct 28|Sandoval County Precinct 28
+35|043|29|Sandoval County Precinct 29|Sandoval County Precinct 29
+35|043|3|Sandoval County Precinct 3|Sandoval County Precinct 3
+35|043|30|Sandoval County Precinct 30|Sandoval County Precinct 30
+35|043|31|Sandoval County Precinct 31|Sandoval County Precinct 31
+35|043|32|Sandoval County Precinct 32|Sandoval County Precinct 32
+35|043|33|Sandoval County Precinct 33|Sandoval County Precinct 33
+35|043|34|Sandoval County Precinct 34|Sandoval County Precinct 34
+35|043|35|Sandoval County Precinct 35|Sandoval County Precinct 35
+35|043|36|Sandoval County Precinct 36|Sandoval County Precinct 36
+35|043|37|Sandoval County Precinct 37|Sandoval County Precinct 37
+35|043|38|Sandoval County Precinct 38|Sandoval County Precinct 38
+35|043|39|Sandoval County Precinct 39|Sandoval County Precinct 39
+35|043|4|Sandoval County Precinct 4|Sandoval County Precinct 4
+35|043|40|Sandoval County Precinct 40|Sandoval County Precinct 40
+35|043|41|Sandoval County Precinct 41|Sandoval County Precinct 41
+35|043|42|Sandoval County Precinct 42|Sandoval County Precinct 42
+35|043|43|Sandoval County Precinct 43|Sandoval County Precinct 43
+35|043|44|Sandoval County Precinct 44|Sandoval County Precinct 44
+35|043|45|Sandoval County Precinct 45|Sandoval County Precinct 45
+35|043|46|Sandoval County Precinct 46|Sandoval County Precinct 46
+35|043|47|Sandoval County Precinct 47|Sandoval County Precinct 47
+35|043|48|Sandoval County Precinct 48|Sandoval County Precinct 48
+35|043|49|Sandoval County Precinct 49|Sandoval County Precinct 49
+35|043|5|Sandoval County Precinct 5|Sandoval County Precinct 5
+35|043|50|Sandoval County Precinct 50|Sandoval County Precinct 50
+35|043|51|Sandoval County Precinct 51|Sandoval County Precinct 51
+35|043|52|Sandoval County Precinct 52|Sandoval County Precinct 52
+35|043|53|Sandoval County Precinct 53|Sandoval County Precinct 53
+35|043|54|Sandoval County Precinct 54|Sandoval County Precinct 54
+35|043|55|Sandoval County Precinct 55|Sandoval County Precinct 55
+35|043|56|Sandoval County Precinct 56|Sandoval County Precinct 56
+35|043|57|Sandoval County Precinct 57|Sandoval County Precinct 57
+35|043|58|Sandoval County Precinct 58|Sandoval County Precinct 58
+35|043|59|Sandoval County Precinct 59|Sandoval County Precinct 59
+35|043|6|Sandoval County Precinct 6|Sandoval County Precinct 6
+35|043|60|Sandoval County Precinct 60|Sandoval County Precinct 60
+35|043|61|Sandoval County Precinct 61|Sandoval County Precinct 61
+35|043|62|Sandoval County Precinct 62|Sandoval County Precinct 62
+35|043|63|Sandoval County Precinct 63|Sandoval County Precinct 63
+35|043|64|Sandoval County Precinct 64|Sandoval County Precinct 64
+35|043|65|Sandoval County Precinct 65|Sandoval County Precinct 65
+35|043|66|Sandoval County Precinct 66|Sandoval County Precinct 66
+35|043|67|Sandoval County Precinct 67|Sandoval County Precinct 67
+35|043|68|Sandoval County Precinct 68|Sandoval County Precinct 68
+35|043|69|Sandoval County Precinct 69|Sandoval County Precinct 69
+35|043|7|Sandoval County Precinct 7|Sandoval County Precinct 7
+35|043|70|Sandoval County Precinct 70|Sandoval County Precinct 70
+35|043|71|Sandoval County Precinct 71|Sandoval County Precinct 71
+35|043|72|Sandoval County Precinct 72|Sandoval County Precinct 72
+35|043|73|Sandoval County Precinct 73|Sandoval County Precinct 73
+35|043|74|Sandoval County Precinct 74|Sandoval County Precinct 74
+35|043|75|Sandoval County Precinct 75|Sandoval County Precinct 75
+35|043|77|Sandoval County Precinct 77|Sandoval County Precinct 77
+35|043|78|Sandoval County Precinct 78|Sandoval County Precinct 78
+35|043|79|Sandoval County Precinct 79|Sandoval County Precinct 79
+35|043|8|Sandoval County Precinct 8|Sandoval County Precinct 8
+35|043|80|Sandoval County Precinct 80|Sandoval County Precinct 80
+35|043|81|Sandoval County Precinct 81|Sandoval County Precinct 81
+35|043|9|Sandoval County Precinct 9|Sandoval County Precinct 9
+35|045|1|San Juan County Precinct 1|San Juan County Precinct 1
+35|045|10|San Juan County Precinct 10|San Juan County Precinct 10
+35|045|11|San Juan County Precinct 11|San Juan County Precinct 11
+35|045|12|San Juan County Precinct 12|San Juan County Precinct 12
+35|045|13|San Juan County Precinct 13|San Juan County Precinct 13
+35|045|14|San Juan County Precinct 14|San Juan County Precinct 14
+35|045|15|San Juan County Precinct 15|San Juan County Precinct 15
+35|045|16|San Juan County Precinct 16|San Juan County Precinct 16
+35|045|17|San Juan County Precinct 17|San Juan County Precinct 17
+35|045|18|San Juan County Precinct 18|San Juan County Precinct 18
+35|045|19|San Juan County Precinct 19|San Juan County Precinct 19
+35|045|2|San Juan County Precinct 2|San Juan County Precinct 2
+35|045|20|San Juan County Precinct 20|San Juan County Precinct 20
+35|045|21|San Juan County Precinct 21|San Juan County Precinct 21
+35|045|22|San Juan County Precinct 22|San Juan County Precinct 22
+35|045|23|San Juan County Precinct 23|San Juan County Precinct 23
+35|045|24|San Juan County Precinct 24|San Juan County Precinct 24
+35|045|25|San Juan County Precinct 25|San Juan County Precinct 25
+35|045|26|San Juan County Precinct 26|San Juan County Precinct 26
+35|045|27|San Juan County Precinct 27|San Juan County Precinct 27
+35|045|28|San Juan County Precinct 28|San Juan County Precinct 28
+35|045|29|San Juan County Precinct 29|San Juan County Precinct 29
+35|045|3|San Juan County Precinct 3|San Juan County Precinct 3
+35|045|30|San Juan County Precinct 30|San Juan County Precinct 30
+35|045|31|San Juan County Precinct 31|San Juan County Precinct 31
+35|045|32|San Juan County Precinct 32|San Juan County Precinct 32
+35|045|33|San Juan County Precinct 33|San Juan County Precinct 33
+35|045|34|San Juan County Precinct 34|San Juan County Precinct 34
+35|045|35|San Juan County Precinct 35|San Juan County Precinct 35
+35|045|36|San Juan County Precinct 36|San Juan County Precinct 36
+35|045|37|San Juan County Precinct 37|San Juan County Precinct 37
+35|045|38|San Juan County Precinct 38|San Juan County Precinct 38
+35|045|39|San Juan County Precinct 39|San Juan County Precinct 39
+35|045|4|San Juan County Precinct 4|San Juan County Precinct 4
+35|045|40|San Juan County Precinct 40|San Juan County Precinct 40
+35|045|41|San Juan County Precinct 41|San Juan County Precinct 41
+35|045|42|San Juan County Precinct 42|San Juan County Precinct 42
+35|045|43|San Juan County Precinct 43|San Juan County Precinct 43
+35|045|44|San Juan County Precinct 44|San Juan County Precinct 44
+35|045|45|San Juan County Precinct 45|San Juan County Precinct 45
+35|045|46|San Juan County Precinct 46|San Juan County Precinct 46
+35|045|47|San Juan County Precinct 47|San Juan County Precinct 47
+35|045|48|San Juan County Precinct 48|San Juan County Precinct 48
+35|045|49|San Juan County Precinct 49|San Juan County Precinct 49
+35|045|5|San Juan County Precinct 5|San Juan County Precinct 5
+35|045|50|San Juan County Precinct 50|San Juan County Precinct 50
+35|045|51|San Juan County Precinct 51|San Juan County Precinct 51
+35|045|52|San Juan County Precinct 52|San Juan County Precinct 52
+35|045|53|San Juan County Precinct 53|San Juan County Precinct 53
+35|045|54|San Juan County Precinct 54|San Juan County Precinct 54
+35|045|55|San Juan County Precinct 55|San Juan County Precinct 55
+35|045|56|San Juan County Precinct 56|San Juan County Precinct 56
+35|045|57|San Juan County Precinct 57|San Juan County Precinct 57
+35|045|58|San Juan County Precinct 58|San Juan County Precinct 58
+35|045|59|San Juan County Precinct 59|San Juan County Precinct 59
+35|045|6|San Juan County Precinct 6|San Juan County Precinct 6
+35|045|60|San Juan County Precinct 60|San Juan County Precinct 60
+35|045|61|San Juan County Precinct 61|San Juan County Precinct 61
+35|045|62|San Juan County Precinct 62|San Juan County Precinct 62
+35|045|63|San Juan County Precinct 63|San Juan County Precinct 63
+35|045|64|San Juan County Precinct 64|San Juan County Precinct 64
+35|045|65|San Juan County Precinct 65|San Juan County Precinct 65
+35|045|66|San Juan County Precinct 66|San Juan County Precinct 66
+35|045|67|San Juan County Precinct 67|San Juan County Precinct 67
+35|045|68|San Juan County Precinct 68|San Juan County Precinct 68
+35|045|69|San Juan County Precinct 69|San Juan County Precinct 69
+35|045|7|San Juan County Precinct 7|San Juan County Precinct 7
+35|045|70|San Juan County Precinct 70|San Juan County Precinct 70
+35|045|71|San Juan County Precinct 71|San Juan County Precinct 71
+35|045|72|San Juan County Precinct 72|San Juan County Precinct 72
+35|045|73|San Juan County Precinct 73|San Juan County Precinct 73
+35|045|74|San Juan County Precinct 74|San Juan County Precinct 74
+35|045|75|San Juan County Precinct 75|San Juan County Precinct 75
+35|045|76|San Juan County Precinct 76|San Juan County Precinct 76
+35|045|77|San Juan County Precinct 77|San Juan County Precinct 77
+35|045|8|San Juan County Precinct 8|San Juan County Precinct 8
+35|045|9|San Juan County Precinct 9|San Juan County Precinct 9
+35|047|1|San Miguel County Precinct 1|San Miguel County Precinct 1
+35|047|10|San Miguel County Precinct 10|San Miguel County Precinct 10
+35|047|11|San Miguel County Precinct 11|San Miguel County Precinct 11
+35|047|12|San Miguel County Precinct 12|San Miguel County Precinct 12
+35|047|13|San Miguel County Precinct 13|San Miguel County Precinct 13
+35|047|14|San Miguel County Precinct 14|San Miguel County Precinct 14
+35|047|15|San Miguel County Precinct 15|San Miguel County Precinct 15
+35|047|16|San Miguel County Precinct 16|San Miguel County Precinct 16
+35|047|17|San Miguel County Precinct 17|San Miguel County Precinct 17
+35|047|18|San Miguel County Precinct 18|San Miguel County Precinct 18
+35|047|19|San Miguel County Precinct 19|San Miguel County Precinct 19
+35|047|2|San Miguel County Precinct 2|San Miguel County Precinct 2
+35|047|20|San Miguel County Precinct 20|San Miguel County Precinct 20
+35|047|21|San Miguel County Precinct 21|San Miguel County Precinct 21
+35|047|22|San Miguel County Precinct 22|San Miguel County Precinct 22
+35|047|23|San Miguel County Precinct 23|San Miguel County Precinct 23
+35|047|24|San Miguel County Precinct 24|San Miguel County Precinct 24
+35|047|25|San Miguel County Precinct 25|San Miguel County Precinct 25
+35|047|26|San Miguel County Precinct 26|San Miguel County Precinct 26
+35|047|27|San Miguel County Precinct 27|San Miguel County Precinct 27
+35|047|28|San Miguel County Precinct 28|San Miguel County Precinct 28
+35|047|3|San Miguel County Precinct 3|San Miguel County Precinct 3
+35|047|4|San Miguel County Precinct 4|San Miguel County Precinct 4
+35|047|5|San Miguel County Precinct 5|San Miguel County Precinct 5
+35|047|6|San Miguel County Precinct 6|San Miguel County Precinct 6
+35|047|7|San Miguel County Precinct 7|San Miguel County Precinct 7
+35|047|8|San Miguel County Precinct 8|San Miguel County Precinct 8
+35|047|9|San Miguel County Precinct 9|San Miguel County Precinct 9
+35|049|1|Santa Fe County Precinct 1|Santa Fe County Precinct 1
+35|049|10|Santa Fe County Precinct 10|Santa Fe County Precinct 10
+35|049|11|Santa Fe County Precinct 11|Santa Fe County Precinct 11
+35|049|12|Santa Fe County Precinct 12|Santa Fe County Precinct 12
+35|049|13|Santa Fe County Precinct 13|Santa Fe County Precinct 13
+35|049|14|Santa Fe County Precinct 14|Santa Fe County Precinct 14
+35|049|15|Santa Fe County Precinct 15|Santa Fe County Precinct 15
+35|049|16|Santa Fe County Precinct 16|Santa Fe County Precinct 16
+35|049|17|Santa Fe County Precinct 17|Santa Fe County Precinct 17
+35|049|18|Santa Fe County Precinct 18|Santa Fe County Precinct 18
+35|049|19|Santa Fe County Precinct 19|Santa Fe County Precinct 19
+35|049|2|Santa Fe County Precinct 2|Santa Fe County Precinct 2
+35|049|20|Santa Fe County Precinct 20|Santa Fe County Precinct 20
+35|049|21|Santa Fe County Precinct 21|Santa Fe County Precinct 21
+35|049|22|Santa Fe County Precinct 22|Santa Fe County Precinct 22
+35|049|23|Santa Fe County Precinct 23|Santa Fe County Precinct 23
+35|049|24|Santa Fe County Precinct 24|Santa Fe County Precinct 24
+35|049|25|Santa Fe County Precinct 25|Santa Fe County Precinct 25
+35|049|26|Santa Fe County Precinct 26|Santa Fe County Precinct 26
+35|049|27|Santa Fe County Precinct 27|Santa Fe County Precinct 27
+35|049|28|Santa Fe County Precinct 28|Santa Fe County Precinct 28
+35|049|29|Santa Fe County Precinct 29|Santa Fe County Precinct 29
+35|049|3|Santa Fe County Precinct 3|Santa Fe County Precinct 3
+35|049|30|Santa Fe County Precinct 30|Santa Fe County Precinct 30
+35|049|31|Santa Fe County Precinct 31|Santa Fe County Precinct 31
+35|049|32|Santa Fe County Precinct 32|Santa Fe County Precinct 32
+35|049|33|Santa Fe County Precinct 33|Santa Fe County Precinct 33
+35|049|34|Santa Fe County Precinct 34|Santa Fe County Precinct 34
+35|049|35|Santa Fe County Precinct 35|Santa Fe County Precinct 35
+35|049|36|Santa Fe County Precinct 36|Santa Fe County Precinct 36
+35|049|37|Santa Fe County Precinct 37|Santa Fe County Precinct 37
+35|049|38|Santa Fe County Precinct 38|Santa Fe County Precinct 38
+35|049|39|Santa Fe County Precinct 39|Santa Fe County Precinct 39
+35|049|4|Santa Fe County Precinct 4|Santa Fe County Precinct 4
+35|049|40|Santa Fe County Precinct 40|Santa Fe County Precinct 40
+35|049|41|Santa Fe County Precinct 41|Santa Fe County Precinct 41
+35|049|42|Santa Fe County Precinct 42|Santa Fe County Precinct 42
+35|049|43|Santa Fe County Precinct 43|Santa Fe County Precinct 43
+35|049|44|Santa Fe County Precinct 44|Santa Fe County Precinct 44
+35|049|45|Santa Fe County Precinct 45|Santa Fe County Precinct 45
+35|049|46|Santa Fe County Precinct 46|Santa Fe County Precinct 46
+35|049|47|Santa Fe County Precinct 47|Santa Fe County Precinct 47
+35|049|48|Santa Fe County Precinct 48|Santa Fe County Precinct 48
+35|049|49|Santa Fe County Precinct 49|Santa Fe County Precinct 49
+35|049|5|Santa Fe County Precinct 5|Santa Fe County Precinct 5
+35|049|50|Santa Fe County Precinct 50|Santa Fe County Precinct 50
+35|049|51|Santa Fe County Precinct 51|Santa Fe County Precinct 51
+35|049|52|Santa Fe County Precinct 52|Santa Fe County Precinct 52
+35|049|53|Santa Fe County Precinct 53|Santa Fe County Precinct 53
+35|049|54|Santa Fe County Precinct 54|Santa Fe County Precinct 54
+35|049|55|Santa Fe County Precinct 55|Santa Fe County Precinct 55
+35|049|56|Santa Fe County Precinct 56|Santa Fe County Precinct 56
+35|049|57|Santa Fe County Precinct 57|Santa Fe County Precinct 57
+35|049|58|Santa Fe County Precinct 58|Santa Fe County Precinct 58
+35|049|59|Santa Fe County Precinct 59|Santa Fe County Precinct 59
+35|049|6|Santa Fe County Precinct 6|Santa Fe County Precinct 6
+35|049|60|Santa Fe County Precinct 60|Santa Fe County Precinct 60
+35|049|61|Santa Fe County Precinct 61|Santa Fe County Precinct 61
+35|049|62|Santa Fe County Precinct 62|Santa Fe County Precinct 62
+35|049|63|Santa Fe County Precinct 63|Santa Fe County Precinct 63
+35|049|64|Santa Fe County Precinct 64|Santa Fe County Precinct 64
+35|049|65|Santa Fe County Precinct 65|Santa Fe County Precinct 65
+35|049|66|Santa Fe County Precinct 66|Santa Fe County Precinct 66
+35|049|67|Santa Fe County Precinct 67|Santa Fe County Precinct 67
+35|049|68|Santa Fe County Precinct 68|Santa Fe County Precinct 68
+35|049|69|Santa Fe County Precinct 69|Santa Fe County Precinct 69
+35|049|7|Santa Fe County Precinct 7|Santa Fe County Precinct 7
+35|049|70|Santa Fe County Precinct 70|Santa Fe County Precinct 70
+35|049|71|Santa Fe County Precinct 71|Santa Fe County Precinct 71
+35|049|72|Santa Fe County Precinct 72|Santa Fe County Precinct 72
+35|049|73|Santa Fe County Precinct 73|Santa Fe County Precinct 73
+35|049|74|Santa Fe County Precinct 74|Santa Fe County Precinct 74
+35|049|75|Santa Fe County Precinct 75|Santa Fe County Precinct 75
+35|049|76|Santa Fe County Precinct 76|Santa Fe County Precinct 76
+35|049|77|Santa Fe County Precinct 77|Santa Fe County Precinct 77
+35|049|78|Santa Fe County Precinct 78|Santa Fe County Precinct 78
+35|049|79|Santa Fe County Precinct 79|Santa Fe County Precinct 79
+35|049|8|Santa Fe County Precinct 8|Santa Fe County Precinct 8
+35|049|80|Santa Fe County Precinct 80|Santa Fe County Precinct 80
+35|049|81|Santa Fe County Precinct 81|Santa Fe County Precinct 81
+35|049|82|Santa Fe County Precinct 82|Santa Fe County Precinct 82
+35|049|83|Santa Fe County Precinct 83|Santa Fe County Precinct 83
+35|049|84|Santa Fe County Precinct 84|Santa Fe County Precinct 84
+35|049|85|Santa Fe County Precinct 85|Santa Fe County Precinct 85
+35|049|86|Santa Fe County Precinct 86|Santa Fe County Precinct 86
+35|049|87|Santa Fe County Precinct 87|Santa Fe County Precinct 87
+35|049|9|Santa Fe County Precinct 9|Santa Fe County Precinct 9
+35|051|1|Sierra County Precinct 1|Sierra County Precinct 1
+35|051|2|Sierra County Precinct 2|Sierra County Precinct 2
+35|051|3|Sierra County Precinct 3|Sierra County Precinct 3
+35|051|4|Sierra County Precinct 4|Sierra County Precinct 4
+35|051|5|Sierra County Precinct 5|Sierra County Precinct 5
+35|051|6|Sierra County Precinct 6|Sierra County Precinct 6
+35|051|7|Sierra County Precinct 7|Sierra County Precinct 7
+35|051|8|Sierra County Precinct 8|Sierra County Precinct 8
+35|051|9|Sierra County Precinct 9|Sierra County Precinct 9
+35|053|1|Socorro County Precinct 1|Socorro County Precinct 1
+35|053|10|Socorro County Precinct 10|Socorro County Precinct 10
+35|053|11|Socorro County Precinct 11|Socorro County Precinct 11
+35|053|12|Socorro County Precinct 12|Socorro County Precinct 12
+35|053|13|Socorro County Precinct 13|Socorro County Precinct 13
+35|053|14|Socorro County Precinct 14|Socorro County Precinct 14
+35|053|15|Socorro County Precinct 15|Socorro County Precinct 15
+35|053|16|Socorro County Precinct 16|Socorro County Precinct 16
+35|053|17|Socorro County Precinct 17|Socorro County Precinct 17
+35|053|18|Socorro County Precinct 18|Socorro County Precinct 18
+35|053|19|Socorro County Precinct 19|Socorro County Precinct 19
+35|053|2|Socorro County Precinct 2|Socorro County Precinct 2
+35|053|20|Socorro County Precinct 20|Socorro County Precinct 20
+35|053|21|Socorro County Precinct 21|Socorro County Precinct 21
+35|053|22|Socorro County Precinct 22|Socorro County Precinct 22
+35|053|23|Socorro County Precinct 23|Socorro County Precinct 23
+35|053|24|Socorro County Precinct 24|Socorro County Precinct 24
+35|053|25|Socorro County Precinct 25|Socorro County Precinct 25
+35|053|26|Socorro County Precinct 26|Socorro County Precinct 26
+35|053|3|Socorro County Precinct 3|Socorro County Precinct 3
+35|053|4|Socorro County Precinct 4|Socorro County Precinct 4
+35|053|5|Socorro County Precinct 5|Socorro County Precinct 5
+35|053|6|Socorro County Precinct 6|Socorro County Precinct 6
+35|053|7|Socorro County Precinct 7|Socorro County Precinct 7
+35|053|8|Socorro County Precinct 8|Socorro County Precinct 8
+35|053|9|Socorro County Precinct 9|Socorro County Precinct 9
+35|055|1|Taos County Precinct 1|Taos County Precinct 1
+35|055|10|Taos County Precinct 10|Taos County Precinct 10
+35|055|11|Taos County Precinct 11|Taos County Precinct 11
+35|055|12|Taos County Precinct 12|Taos County Precinct 12
+35|055|13|Taos County Precinct 13|Taos County Precinct 13
+35|055|14|Taos County Precinct 14|Taos County Precinct 14
+35|055|15|Taos County Precinct 15|Taos County Precinct 15
+35|055|16|Taos County Precinct 16|Taos County Precinct 16
+35|055|17|Taos County Precinct 17|Taos County Precinct 17
+35|055|18|Taos County Precinct 18|Taos County Precinct 18
+35|055|19|Taos County Precinct 19|Taos County Precinct 19
+35|055|2|Taos County Precinct 2|Taos County Precinct 2
+35|055|20|Taos County Precinct 20|Taos County Precinct 20
+35|055|21|Taos County Precinct 21|Taos County Precinct 21
+35|055|22|Taos County Precinct 22|Taos County Precinct 22
+35|055|23|Taos County Precinct 23|Taos County Precinct 23
+35|055|24|Taos County Precinct 24|Taos County Precinct 24
+35|055|25|Taos County Precinct 25|Taos County Precinct 25
+35|055|26|Taos County Precinct 26|Taos County Precinct 26
+35|055|27|Taos County Precinct 27|Taos County Precinct 27
+35|055|28|Taos County Precinct 28|Taos County Precinct 28
+35|055|29|Taos County Precinct 29|Taos County Precinct 29
+35|055|3|Taos County Precinct 3|Taos County Precinct 3
+35|055|30|Taos County Precinct 30|Taos County Precinct 30
+35|055|31|Taos County Precinct 31|Taos County Precinct 31
+35|055|32|Taos County Precinct 32|Taos County Precinct 32
+35|055|33|Taos County Precinct 33|Taos County Precinct 33
+35|055|34|Taos County Precinct 34|Taos County Precinct 34
+35|055|35|Taos County Precinct 35|Taos County Precinct 35
+35|055|36|Taos County Precinct 36|Taos County Precinct 36
+35|055|4|Taos County Precinct 4|Taos County Precinct 4
+35|055|5|Taos County Precinct 5|Taos County Precinct 5
+35|055|6|Taos County Precinct 6|Taos County Precinct 6
+35|055|7|Taos County Precinct 7|Taos County Precinct 7
+35|055|8|Taos County Precinct 8|Taos County Precinct 8
+35|055|9|Taos County Precinct 9|Taos County Precinct 9
+35|057|1|Torrance County Precinct 1|Torrance County Precinct 1
+35|057|10|Torrance County Precinct 10|Torrance County Precinct 10
+35|057|11|Torrance County Precinct 11|Torrance County Precinct 11
+35|057|12|Torrance County Precinct 12|Torrance County Precinct 12
+35|057|13|Torrance County Precinct 13|Torrance County Precinct 13
+35|057|14|Torrance County Precinct 14|Torrance County Precinct 14
+35|057|15|Torrance County Precinct 15|Torrance County Precinct 15
+35|057|16|Torrance County Precinct 16|Torrance County Precinct 16
+35|057|2|Torrance County Precinct 2|Torrance County Precinct 2
+35|057|3|Torrance County Precinct 3|Torrance County Precinct 3
+35|057|4|Torrance County Precinct 4|Torrance County Precinct 4
+35|057|5|Torrance County Precinct 5|Torrance County Precinct 5
+35|057|6|Torrance County Precinct 6|Torrance County Precinct 6
+35|057|7|Torrance County Precinct 7|Torrance County Precinct 7
+35|057|8|Torrance County Precinct 8|Torrance County Precinct 8
+35|057|9|Torrance County Precinct 9|Torrance County Precinct 9
+35|059|1|Union County Precinct 1|Union County Precinct 1
+35|059|4|Union County Precinct 4|Union County Precinct 4
+35|059|6|Union County Precinct 6|Union County Precinct 6
+35|059|7|Union County Precinct 7|Union County Precinct 7
+35|059|8|Union County Precinct 8|Union County Precinct 8
+35|059|9|Union County Precinct 9|Union County Precinct 9
+35|061|1|Valencia County Precinct 1|Valencia County Precinct 1
+35|061|10|Valencia County Precinct 10|Valencia County Precinct 10
+35|061|11|Valencia County Precinct 11|Valencia County Precinct 11
+35|061|12|Valencia County Precinct 12|Valencia County Precinct 12
+35|061|13|Valencia County Precinct 13|Valencia County Precinct 13
+35|061|14|Valencia County Precinct 14|Valencia County Precinct 14
+35|061|15|Valencia County Precinct 15|Valencia County Precinct 15
+35|061|16|Valencia County Precinct 16|Valencia County Precinct 16
+35|061|17|Valencia County Precinct 17|Valencia County Precinct 17
+35|061|18|Valencia County Precinct 18|Valencia County Precinct 18
+35|061|19|Valencia County Precinct 19|Valencia County Precinct 19
+35|061|2|Valencia County Precinct 2|Valencia County Precinct 2
+35|061|20|Valencia County Precinct 20|Valencia County Precinct 20
+35|061|21|Valencia County Precinct 21|Valencia County Precinct 21
+35|061|23|Valencia County Precinct 23|Valencia County Precinct 23
+35|061|25|Valencia County Precinct 25|Valencia County Precinct 25
+35|061|26|Valencia County Precinct 26|Valencia County Precinct 26
+35|061|27|Valencia County Precinct 27|Valencia County Precinct 27
+35|061|28|Valencia County Precinct 28|Valencia County Precinct 28
+35|061|29|Valencia County Precinct 29|Valencia County Precinct 29
+35|061|3|Valencia County Precinct 3|Valencia County Precinct 3
+35|061|30|Valencia County Precinct 30|Valencia County Precinct 30
+35|061|31|Valencia County Precinct 31|Valencia County Precinct 31
+35|061|32|Valencia County Precinct 32|Valencia County Precinct 32
+35|061|33|Valencia County Precinct 33|Valencia County Precinct 33
+35|061|34|Valencia County Precinct 34|Valencia County Precinct 34
+35|061|35|Valencia County Precinct 35|Valencia County Precinct 35
+35|061|36|Valencia County Precinct 36|Valencia County Precinct 36
+35|061|37|Valencia County Precinct 37|Valencia County Precinct 37
+35|061|4|Valencia County Precinct 4|Valencia County Precinct 4
+35|061|5|Valencia County Precinct 5|Valencia County Precinct 5
+35|061|6|Valencia County Precinct 6|Valencia County Precinct 6
+35|061|7|Valencia County Precinct 7|Valencia County Precinct 7
+35|061|8|Valencia County Precinct 8|Valencia County Precinct 8
+35|061|9|Valencia County Precinct 9|Valencia County Precinct 9

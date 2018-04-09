@@ -1,0 +1,14 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+13|01|1|Congressional District 1
+13|02|2|Congressional District 2
+13|03|3|Congressional District 3
+13|04|4|Congressional District 4
+13|05|5|Congressional District 5
+13|06|6|Congressional District 6
+13|07|7|Congressional District 7
+13|08|8|Congressional District 8
+13|09|9|Congressional District 9
+13|10|10|Congressional District 10
+13|11|11|Congressional District 11
+13|12|12|Congressional District 12
+13|13|13|Congressional District 13

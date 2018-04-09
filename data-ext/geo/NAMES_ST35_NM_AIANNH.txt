@@ -1,0 +1,26 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+35|0010|Acoma|Acoma Pueblo and Off-Reservation Trust Land
+35|0680|Cochiti|Pueblo de Cochiti
+35|1625|Isleta|Isleta Pueblo
+35|1685|Jemez|Jemez Pueblo
+35|1700|Jicarilla Apache Nation|Jicarilla Apache Nation Reservation and Off-Reservation Trust Land
+35|1840|Laguna|Laguna Pueblo and Off-Reservation Trust Land
+35|2205|Mescalero|Mescalero Reservation
+35|2400|Nambe|Nambe Pueblo and Off-Reservation Trust Land
+35|2430|Navajo Nation|Navajo Nation Reservation and Off-Reservation Trust Land
+35|2510|Ohkay Owingeh|Ohkay Owingeh
+35|2785|Picuris|Picuris Pueblo
+35|2990|Pojoaque|Pueblo of Pojoaque and Off-Reservation Trust Land
+35|3370|Sandia|Sandia Pueblo
+35|3400|San Felipe|San Felipe Pueblo
+35|3415|San Ildefonso|San Ildefonso Pueblo and Off-Reservation Trust Land
+35|3480|Santa Ana|Santa Ana Pueblo
+35|3495|Santa Clara|Santa Clara Pueblo
+35|3585|Santo Domingo|Santo Domingo Pueblo
+35|4140|Taos|Taos Pueblo and Off-Reservation Trust Land
+35|4170|Tesuque|Tesuque Pueblo and Off-Reservation Trust Land
+35|4470|Ute Mountain|Ute Mountain Reservation and Off-Reservation Trust Land
+35|4770|Zia|Zia Pueblo and Off-Reservation Trust Land
+35|4785|Zuni|Zuni Reservation and Off-Reservation Trust Land
+35|4930|San Felipe Pueblo/Santa Ana Pueblo|San Felipe Pueblo/Santa Ana Pueblo joint-use area
+35|4940|San Felipe Pueblo/Santo Domingo Pueblo|San Felipe Pueblo/Santo Domingo Pueblo joint-use area

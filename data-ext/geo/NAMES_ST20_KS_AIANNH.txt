@@ -1,0 +1,6 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+20|1590|Iowa (KS-NE)|Iowa (KS-NE) Reservation and Off-Reservation Trust Land
+20|1770|Kickapoo (KS)|Kickapoo (KS) Reservation
+20|2980|Prairie Band of Potawatomi Nation|Prairie Band of Potawatomi Nation Reservation
+20|3285|Sac and Fox Nation|Sac and Fox Nation Reservation and Off-Reservation Trust Land
+20|4910|Kickapoo (KS) Reservation/Sac and Fox Nation Trust Land|Kickapoo (KS) Reservation/Sac and Fox Nation Trust Land joint-use area

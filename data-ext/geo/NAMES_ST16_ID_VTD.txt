@@ -1,0 +1,923 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+16|001|1|1|Voting District 1
+16|001|10|10|Voting District 10
+16|001|100|100|Voting District 100
+16|001|101|101|Voting District 101
+16|001|102|102|Voting District 102
+16|001|103|103|Voting District 103
+16|001|104|104|Voting District 104
+16|001|105|105|Voting District 105
+16|001|106|106|Voting District 106
+16|001|107|107|Voting District 107
+16|001|108|108|Voting District 108
+16|001|109|109|Voting District 109
+16|001|11|11|Voting District 11
+16|001|110|110|Voting District 110
+16|001|111|111|Voting District 111
+16|001|112|112|Voting District 112
+16|001|113|113|Voting District 113
+16|001|114|114|Voting District 114
+16|001|115|115|Voting District 115
+16|001|116|116|Voting District 116
+16|001|117|117|Voting District 117
+16|001|118|118|Voting District 118
+16|001|119|119|Voting District 119
+16|001|12|12|Voting District 12
+16|001|120|120|Voting District 120
+16|001|121|121|Voting District 121
+16|001|122|122|Voting District 122
+16|001|123|123|Voting District 123
+16|001|124|124|Voting District 124
+16|001|125|125|Voting District 125
+16|001|126|126|Voting District 126
+16|001|127|127|Voting District 127
+16|001|128|128|Voting District 128
+16|001|129|129|Voting District 129
+16|001|13|13|Voting District 13
+16|001|130|130|Voting District 130
+16|001|131|131|Voting District 131
+16|001|132|132|Voting District 132
+16|001|133|133|Voting District 133
+16|001|134|134|Voting District 134
+16|001|135|135|Voting District 135
+16|001|136|136|Voting District 136
+16|001|137|137|Voting District 137
+16|001|138|138|Voting District 138
+16|001|139|139|Voting District 139
+16|001|14|14|Voting District 14
+16|001|140|140|Voting District 140
+16|001|141|141|Voting District 141
+16|001|15|15|Voting District 15
+16|001|16|16|Voting District 16
+16|001|17|17|Voting District 17
+16|001|18|18|Voting District 18
+16|001|19|19|Voting District 19
+16|001|2|2|Voting District 2
+16|001|20|20|Voting District 20
+16|001|21|21|Voting District 21
+16|001|22|22|Voting District 22
+16|001|23|23|Voting District 23
+16|001|24|24|Voting District 24
+16|001|25|25|Voting District 25
+16|001|26|26|Voting District 26
+16|001|27|27|Voting District 27
+16|001|28|28|Voting District 28
+16|001|29|29|Voting District 29
+16|001|3|3|Voting District 3
+16|001|30|30|Voting District 30
+16|001|31|31|Voting District 31
+16|001|32|32|Voting District 32
+16|001|33|33|Voting District 33
+16|001|34|34|Voting District 34
+16|001|35|35|Voting District 35
+16|001|36|36|Voting District 36
+16|001|37|37|Voting District 37
+16|001|38|38|Voting District 38
+16|001|39|39|Voting District 39
+16|001|4|4|Voting District 4
+16|001|40|40|Voting District 40
+16|001|41|41|Voting District 41
+16|001|42|42|Voting District 42
+16|001|43|43|Voting District 43
+16|001|44|44|Voting District 44
+16|001|45|45|Voting District 45
+16|001|46|46|Voting District 46
+16|001|47|47|Voting District 47
+16|001|48|48|Voting District 48
+16|001|49|49|Voting District 49
+16|001|5|5|Voting District 5
+16|001|50|50|Voting District 50
+16|001|51|51|Voting District 51
+16|001|52|52|Voting District 52
+16|001|53|53|Voting District 53
+16|001|54|54|Voting District 54
+16|001|55|55|Voting District 55
+16|001|56|56|Voting District 56
+16|001|57|57|Voting District 57
+16|001|58|58|Voting District 58
+16|001|59|59|Voting District 59
+16|001|6|6|Voting District 6
+16|001|60|60|Voting District 60
+16|001|61|61|Voting District 61
+16|001|62|62|Voting District 62
+16|001|63|63|Voting District 63
+16|001|64|64|Voting District 64
+16|001|65|65|Voting District 65
+16|001|66|66|Voting District 66
+16|001|67|67|Voting District 67
+16|001|68|68|Voting District 68
+16|001|69|69|Voting District 69
+16|001|7|7|Voting District 7
+16|001|70|70|Voting District 70
+16|001|71|71|Voting District 71
+16|001|72|72|Voting District 72
+16|001|73|73|Voting District 73
+16|001|74|74|Voting District 74
+16|001|75|75|Voting District 75
+16|001|76|76|Voting District 76
+16|001|77|77|Voting District 77
+16|001|78|78|Voting District 78
+16|001|79|79|Voting District 79
+16|001|8|8|Voting District 8
+16|001|80|80|Voting District 80
+16|001|81|81|Voting District 81
+16|001|82|82|Voting District 82
+16|001|83|83|Voting District 83
+16|001|84|84|Voting District 84
+16|001|85|85|Voting District 85
+16|001|86|86|Voting District 86
+16|001|87|87|Voting District 87
+16|001|88|88|Voting District 88
+16|001|89|89|Voting District 89
+16|001|9|9|Voting District 9
+16|001|90|90|Voting District 90
+16|001|91|91|Voting District 91
+16|001|92|92|Voting District 92
+16|001|93|93|Voting District 93
+16|001|94|94|Voting District 94
+16|001|95|95|Voting District 95
+16|001|96|96|Voting District 96
+16|001|97|97|Voting District 97
+16|001|98|98|Voting District 98
+16|001|99|99|Voting District 99
+16|003|003001|003001|Voting District 003001
+16|003|003002|003002|Voting District 003002
+16|003|003003|003003|Voting District 003003
+16|003|003004|003004|Voting District 003004
+16|003|003005|003005|Voting District 003005
+16|003|003006|003006|Voting District 003006
+16|005|005001|005001|Voting District 005001
+16|005|005002|005002|Voting District 005002
+16|005|005003|005003|Voting District 005003
+16|005|005004|005004|Voting District 005004
+16|005|005005|005005|Voting District 005005
+16|005|005006|005006|Voting District 005006
+16|005|005007|005007|Voting District 005007
+16|005|005008|005008|Voting District 005008
+16|005|005009|005009|Voting District 005009
+16|005|005010|005010|Voting District 005010
+16|005|005011|005011|Voting District 005011
+16|005|005012|005012|Voting District 005012
+16|005|005013|005013|Voting District 005013
+16|005|005014|005014|Voting District 005014
+16|005|005015|005015|Voting District 005015
+16|005|005017|005017|Voting District 005017
+16|005|005018|005018|Voting District 005018
+16|005|005019|005019|Voting District 005019
+16|005|005020|005020|Voting District 005020
+16|005|005021|005021|Voting District 005021
+16|005|005022|005022|Voting District 005022
+16|005|005023|005023|Voting District 005023
+16|005|005024|005024|Voting District 005024
+16|005|005025|005025|Voting District 005025
+16|005|005026|005026|Voting District 005026
+16|005|005027|005027|Voting District 005027
+16|005|005028|005028|Voting District 005028
+16|005|005031|005031|Voting District 005031
+16|005|005032|005032|Voting District 005032
+16|005|005034|005034|Voting District 005034
+16|005|005035|005035|Voting District 005035
+16|005|005036|005036|Voting District 005036
+16|005|005037|005037|Voting District 005037
+16|005|005038|005038|Voting District 005038
+16|005|005039|005039|Voting District 005039
+16|005|005040|005040|Voting District 005040
+16|005|005041|005041|Voting District 005041
+16|005|005042|005042|Voting District 005042
+16|005|005043|005043|Voting District 005043
+16|005|005050|005050|Voting District 005050
+16|005|005051|005051|Voting District 005051
+16|005|005052|005052|Voting District 005052
+16|005|005053|005053|Voting District 005053
+16|005|005054|005054|Voting District 005054
+16|005|005055|005055|Voting District 005055
+16|005|005056|005056|Voting District 005056
+16|005|005057|005057|Voting District 005057
+16|005|005058|005058|Voting District 005058
+16|005|005059|005059|Voting District 005059
+16|005|005060|005060|Voting District 005060
+16|005|005061|005061|Voting District 005061
+16|005|005062|005062|Voting District 005062
+16|005|005063|005063|Voting District 005063
+16|005|005064|005064|Voting District 005064
+16|005|005065|005065|Voting District 005065
+16|005|005066|005066|Voting District 005066
+16|005|005067|005067|Voting District 005067
+16|005|005068|005068|Voting District 005068
+16|007|007001|Montpelier 1|Montpelier 1 Voting District
+16|007|007002|Montpelier 2|Montpelier 2 Voting District
+16|007|007003|Montpelier 3|Montpelier 3 Voting District
+16|007|007005|Georgetown|Georgetown Voting District
+16|007|007006|Bennington|Bennington Voting District
+16|007|007007|Bailey Creek|Bailey Creek Voting District
+16|007|007008|Paris|Paris Voting District
+16|007|007009|Bern|Bern Voting District
+16|007|007010|Dingle|Dingle Voting District
+16|007|007012|Fish Haven|Fish Haven Voting District
+16|007|007013|St Charles|St Charles Voting District
+16|007|007014|Bloomington|Bloomington Voting District
+16|007|007015|Liberty|Liberty Voting District
+16|007|007016|Geneva|Geneva Voting District
+16|009|009001|Benewah|Benewah Voting District
+16|009|009002|Center|Center Voting District
+16|009|009003|College|College Voting District
+16|009|009004|Emida|Emida Voting District
+16|009|009005|Fernwood|Fernwood Voting District
+16|009|009006|Santa|Santa Voting District
+16|009|009007|St Joe|St Joe Voting District
+16|009|009008|St Maries|St Maries Voting District
+16|009|009009|Townsite|Townsite Voting District
+16|009|009010|Plummer|Plummer Voting District
+16|009|009011|Tensed|Tensed Voting District
+16|011|011001|Blackfoot 1|Blackfoot 1 Voting District
+16|011|011002|Blackfoot 2|Blackfoot 2 Voting District
+16|011|011003|Blackfoot 3|Blackfoot 3 Voting District
+16|011|011004|Blackfoot 4|Blackfoot 4 Voting District
+16|011|011005|Blackfoot 5|Blackfoot 5 Voting District
+16|011|011006|Blackfoot 6|Blackfoot 6 Voting District
+16|011|011007|Firth 7|Firth 7 Voting District
+16|011|011008|Firth 8|Firth 8 Voting District
+16|011|011009|Groveland 9|Groveland 9 Voting District
+16|011|011010|Jameston 10|Jameston 10 Voting District
+16|011|011011|Moreland 11|Moreland 11 Voting District
+16|011|011012|Rockford 12|Rockford 12 Voting District
+16|011|011013|Shelley 13|Shelley 13 Voting District
+16|011|011014|Shelley 14|Shelley 14 Voting District
+16|011|011015|Aberdeen 15|Aberdeen 15 Voting District
+16|011|011016|Sterling 16|Sterling 16 Voting District
+16|011|011017|Riverside 17|Riverside 17 Voting District
+16|011|011018|Pingree 18|Pingree 18 Voting District
+16|011|011019|Wapello 19|Wapello 19 Voting District
+16|011|011020|Ft Hall 20|Ft Hall 20 Voting District
+16|011|011021|Shelley 21|Shelley 21 Voting District
+16|011|011022|Groveland 22|Groveland 22 Voting District
+16|011|011023|Blackfoot 23|Blackfoot 23 Voting District
+16|011|011024|Riverside 24|Riverside 24 Voting District
+16|011|011025|Moreland 25|Moreland 25 Voting District
+16|013|013001|Nw Ketchum|Nw Ketchum Voting District
+16|013|013002|Sw Ketchum|Sw Ketchum Voting District
+16|013|013003|N & E Ketchum|N & E Ketchum Voting District
+16|013|013004|South Ketchum|South Ketchum Voting District
+16|013|013005|Ne Blaine County|Ne Blaine County Voting District
+16|013|013006|Hailey L|Hailey L Voting District
+16|013|013007|Hailey Ll|Hailey Ll Voting District
+16|013|013008|Hailey Lll|Hailey Lll Voting District
+16|013|013009|Yale|Yale Voting District
+16|013|013010|Bellevue|Bellevue Voting District
+16|013|013011|Gannet/Picabo|Gannet/Picabo Voting District
+16|013|013012|Carey|Carey Voting District
+16|013|013013|Sun Valley|Sun Valley Voting District
+16|013|013014|Hailey Llll|Hailey Llll Voting District
+16|015|015030|Garden Valley|Garden Valley Voting District
+16|015|015040|Horseshoe Bend|Horseshoe Bend Voting District
+16|015|015050|Idaho City|Idaho City Voting District
+16|015|015060|Lowman|Lowman Voting District
+16|015|015070|Mores Creek|Mores Creek Voting District
+16|015|015080|Placerville|Placerville Voting District
+16|017|017001|Airport|Airport Voting District
+16|017|017002|Algoma|Algoma Voting District
+16|017|017003|Baldy|Baldy Voting District
+16|017|017004|Blue Lake|Blue Lake Voting District
+16|017|017005|Careywood|Careywood Voting District
+16|017|017006|Clark Fork|Clark Fork Voting District
+16|017|017007|Cocolalla|Cocolalla Voting District
+16|017|017008|Colburn|Colburn Voting District
+16|017|017009|Dover|Dover Voting District
+16|017|017010|East Priest River|East Priest River Voting District
+16|017|017011|Edgemere|Edgemere Voting District
+16|017|017012|Gamlin Lake|Gamlin Lake Voting District
+16|017|017013|Grouse Creek|Grouse Creek Voting District
+16|017|017014|Hope|Hope Voting District
+16|017|017015|Humbird|Humbird Voting District
+16|017|017016|Kootenai|Kootenai Voting District
+16|017|017017|Laclede|Laclede Voting District
+16|017|017018|Lakeview|Lakeview Voting District
+16|017|017019|Lamb Creek|Lamb Creek Voting District
+16|017|017021|Oden|Oden Voting District
+16|017|017022|Oldtown|Oldtown Voting District
+16|017|017023|Priest Lake|Priest Lake Voting District
+16|017|017024|Priest River West City|Priest River West City Voting District
+16|017|017025|Sagle|Sagle Voting District
+16|017|017026|Sandpoint|Sandpoint Voting District
+16|017|017027|Selle l|Selle l Voting District
+16|017|017028|Southside|Southside Voting District
+16|017|017029|Spirit Valley|Spirit Valley Voting District
+16|017|017030|Washington|Washington Voting District
+16|017|017031|West Branch|West Branch Voting District
+16|017|017032|Westmond|Westmond Voting District
+16|017|017033|West Priest River Bench|West Priest River Bench Voting District
+16|017|017034|Wrenco|Wrenco Voting District
+16|017|017037|Selle ll|Selle ll Voting District
+16|019|019001|019001|Voting District 019001
+16|019|019002|019002|Voting District 019002
+16|019|019003|019003|Voting District 019003
+16|019|019004|019004|Voting District 019004
+16|019|019005|019005|Voting District 019005
+16|019|019006|019006|Voting District 019006
+16|019|019007|019007|Voting District 019007
+16|019|019008|019008|Voting District 019008
+16|019|019009|019009|Voting District 019009
+16|019|019010|019010|Voting District 019010
+16|019|019011|019011|Voting District 019011
+16|019|019012|019012|Voting District 019012
+16|019|019013|019013|Voting District 019013
+16|019|019014|019014|Voting District 019014
+16|019|019015|019015|Voting District 019015
+16|019|019016|019016|Voting District 019016
+16|019|019017|019017|Voting District 019017
+16|019|019018|019018|Voting District 019018
+16|019|019019|019019|Voting District 019019
+16|019|019020|019020|Voting District 019020
+16|019|019021|019021|Voting District 019021
+16|019|019022|019022|Voting District 019022
+16|019|019023|019023|Voting District 019023
+16|019|019024|019024|Voting District 019024
+16|019|019025|019025|Voting District 019025
+16|019|019026|019026|Voting District 019026
+16|019|019027|019027|Voting District 019027
+16|019|019028|019028|Voting District 019028
+16|019|019036|019036|Voting District 019036
+16|019|019037|019037|Voting District 019037
+16|019|019038|019038|Voting District 019038
+16|019|019039|019039|Voting District 019039
+16|019|019040|019040|Voting District 019040
+16|019|019041|019041|Voting District 019041
+16|019|019042|019042|Voting District 019042
+16|019|019043|019043|Voting District 019043
+16|019|019044|019044|Voting District 019044
+16|019|019045|019045|Voting District 019045
+16|019|019046|019046|Voting District 019046
+16|019|019047|019047|Voting District 019047
+16|019|019048|019048|Voting District 019048
+16|019|019049|019049|Voting District 019049
+16|019|019050|019050|Voting District 019050
+16|019|019051|019051|Voting District 019051
+16|019|019052|019052|Voting District 019052
+16|019|019053|019053|Voting District 019053
+16|019|019054|019054|Voting District 019054
+16|019|019055|019055|Voting District 019055
+16|019|019056|019056|Voting District 019056
+16|019|019057|019057|Voting District 019057
+16|019|019058|019058|Voting District 019058
+16|019|019059|019059|Voting District 019059
+16|021|021001|Bonners Ferry|Bonners Ferry Voting District
+16|021|021002|Copeland|Copeland Voting District
+16|021|021003|Kootenai|Kootenai Voting District
+16|021|021004|Moyie|Moyie Voting District
+16|021|021005|Naples|Naples Voting District
+16|021|021006|North Bonners Ferry|North Bonners Ferry Voting District
+16|021|021007|Valley View|Valley View Voting District
+16|023|023001|Howe|Howe Voting District
+16|023|023002|Moore|Moore Voting District
+16|023|023003|Arco 1|Arco 1 Voting District
+16|023|023004|Arco 2|Arco 2 Voting District
+16|025|025001|025001|Voting District 025001
+16|025|025002|025002|Voting District 025002
+16|027|027001|027001|Voting District 027001
+16|027|027003|027003|Voting District 027003
+16|027|027004|027004|Voting District 027004
+16|027|027005|027005|Voting District 027005
+16|027|027006|027006|Voting District 027006
+16|027|027007|027007|Voting District 027007
+16|027|027008|027008|Voting District 027008
+16|027|027009|027009|Voting District 027009
+16|027|027010|027010|Voting District 027010
+16|027|027011|027011|Voting District 027011
+16|027|027012|027012|Voting District 027012
+16|027|027013|027013|Voting District 027013
+16|027|027015|027015|Voting District 027015
+16|027|027018|027018|Voting District 027018
+16|027|027019|027019|Voting District 027019
+16|027|027020|027020-38|Voting District 027020-38
+16|027|027021|027021|Voting District 027021
+16|027|027022|027022|Voting District 027022
+16|027|027023|027023|Voting District 027023
+16|027|027025|027025|Voting District 027025
+16|027|027027|027027-9-13|Voting District 027027-9-13
+16|027|027028|027028|Voting District 027028
+16|027|027029|027029|Voting District 027029
+16|027|027030|027030-11-13-43|Voting District 027030-11-13-43
+16|027|027031|027031-40|Voting District 027031-40
+16|027|027032|027032|Voting District 027032
+16|027|027033|027033|Voting District 027033
+16|027|027034|027034|Voting District 027034
+16|027|027035|027035|Voting District 027035
+16|027|027036|027036|Voting District 027036
+16|027|027037|027037|Voting District 027037
+16|027|027038|027038|Voting District 027038
+16|027|027039|027039|Voting District 027039
+16|027|027040|027040|Voting District 027040
+16|027|027041|027041|Voting District 027041
+16|027|027042|027042|Voting District 027042
+16|027|027043|027043|Voting District 027043
+16|027|027044|027044|Voting District 027044
+16|027|027045|027045|Voting District 027045
+16|027|027046|027046|Voting District 027046
+16|027|027047|027047|Voting District 027047
+16|027|027048|027048|Voting District 027048
+16|027|027049|027049|Voting District 027049
+16|027|027050|027050|Voting District 027050
+16|027|027051|027051|Voting District 027051
+16|027|027052|027052|Voting District 027052
+16|027|027054|027054|Voting District 027054
+16|027|027055|027055|Voting District 027055
+16|027|027056|027056|Voting District 027056
+16|027|027057|027057|Voting District 027057
+16|027|027059|027059-41|Voting District 027059-41
+16|027|027060|027060-36|Voting District 027060-36
+16|027|027062|027062|Voting District 027062
+16|029|029001|Soda 1|Soda 1 Voting District
+16|029|029002|Soda 2|Soda 2 Voting District
+16|029|029003|Soda 3|Soda 3 Voting District
+16|029|029004|Soda 4|Soda 4 Voting District
+16|029|029005|Bancroft|Bancroft Voting District
+16|029|029006|Grace 1|Grace 1 Voting District
+16|029|029007|Grace 2|Grace 2 Voting District
+16|029|029008|Wayan|Wayan Voting District
+16|029|029009|Freedom|Freedom Voting District
+16|031|031001|Albion|Albion Voting District
+16|031|031002|Almo|Almo Voting District
+16|031|031003|Bridge|Bridge Voting District
+16|031|031004|Burley 1|Burley 1 Voting District
+16|031|031005|Burley 2|Burley 2 Voting District
+16|031|031006|Burley 3|Burley 3 Voting District
+16|031|031007|Burley 4|Burley 4 Voting District
+16|031|031008|Burley 5|Burley 5 Voting District
+16|031|031009|Burley 6|Burley 6 Voting District
+16|031|031010|Burley 7|Burley 7 Voting District
+16|031|031011|Burley 8|Burley 8 Voting District
+16|031|031012|Declo|Declo Voting District
+16|031|031013|Elba|Elba Voting District
+16|031|031014|Heglar-Yale|Heglar-Yale Voting District
+16|031|031015|Jackson|Jackson Voting District
+16|031|031016|Malta|Malta Voting District
+16|031|031017|Oakley 2|Oakley 2 Voting District
+16|031|031018|Oakley 1|Oakley 1 Voting District
+16|031|031019|Parsons|Parsons Voting District
+16|031|031020|Pella|Pella Voting District
+16|031|031021|Springdale|Springdale Voting District
+16|031|031022|Starrahs Ferry|Starrahs Ferry Voting District
+16|031|031023|Sublett|Sublett Voting District
+16|031|031024|Unity|Unity Voting District
+16|031|031025|View|View Voting District
+16|033|033001|033001|Voting District 033001
+16|033|033002|033002|Voting District 033002
+16|033|033003|033003|Voting District 033003
+16|035|035001|1 Orofino|1 Orofino Voting District
+16|035|035002|2 Orofino|2 Orofino Voting District
+16|035|035003|3 Orofino|3 Orofino Voting District
+16|035|035004|4 Orofino|4 Orofino Voting District
+16|035|035005|5 Orofino|5 Orofino Voting District
+16|035|035006|6 Fraser|6 Fraser Voting District
+16|035|035007|7 Greer|7 Greer Voting District
+16|035|035008|8 Teakean|8 Teakean Voting District
+16|035|035009|9 Weippe|9 Weippe Voting District
+16|035|035010|10 Headquarters|10 Headquarters Voting District
+16|035|035011|11 Ahsahka|11 Ahsahka Voting District
+16|035|035012|12 Pierce|12 Pierce Voting District
+16|035|035013|13 Elk River|13 Elk River Voting District
+16|035|035014|14 Grangemont|14 Grangemont Voting District
+16|037|037001|Challis 1|Challis 1 Voting District
+16|037|037002|Mackay|Mackay Voting District
+16|037|037003|Battleground|Battleground Voting District
+16|037|037004|Stanley|Stanley Voting District
+16|037|037005|Clayton|Clayton Voting District
+16|037|037006|Sunol|Sunol Voting District
+16|037|037007|Round Valley 1|Round Valley 1 Voting District
+16|037|037009|Leslie|Leslie Voting District
+16|037|037010|Round Valley 2|Round Valley 2 Voting District
+16|039|039001|Atlanta|Atlanta Voting District
+16|039|039002|Camas|Camas Voting District
+16|039|039005|Hammett|Hammett Voting District
+16|039|039006|King Hill|King Hill Voting District
+16|039|039007|Mayfield|Mayfield Voting District
+16|039|039008|Mtn Home 1|Mtn Home 1 Voting District
+16|039|039009|Mtn Home 2|Mtn Home 2 Voting District
+16|039|039010|Mtn Home 3|Mtn Home 3 Voting District
+16|039|039011|Mtn Home 4|Mtn Home 4 Voting District
+16|039|039012|Mtn Home 5|Mtn Home 5 Voting District
+16|039|039013|Mtn Home 6|Mtn Home 6 Voting District
+16|039|039014|Mtn Home 7|Mtn Home 7 Voting District
+16|039|039015|Mtn Home 8|Mtn Home 8 Voting District
+16|039|039016|Pine|Pine Voting District
+16|039|039017|Prairie|Prairie Voting District
+16|039|039018|Chattin Flats|Chattin Flats Voting District
+16|039|039019|Glenns Ferry|Glenns Ferry Voting District
+16|039|039020|Mtn Home 9|Mtn Home 9 Voting District
+16|041|041001|Banida-Winder 6|Banida-Winder 6 Voting District
+16|041|041002|Clifton-Oxford 7|Clifton-Oxford 7 Voting District
+16|041|041003|Dayton 8|Dayton 8 Voting District
+16|041|041004|Fairview 9|Fairview 9 Voting District
+16|041|041005|Franklin 10|Franklin 10 Voting District
+16|041|041006|Mapleton 11|Mapleton 11 Voting District
+16|041|041007|Mink Creek 12|Mink Creek 12 Voting District
+16|041|041008|Preston 1|Preston 1 Voting District
+16|041|041009|Preston 2|Preston 2 Voting District
+16|041|041010|Preston 3|Preston 3 Voting District
+16|041|041011|Preston 4|Preston 4 Voting District
+16|041|041012|Preston 5|Preston 5 Voting District
+16|041|041013|Treas-Riverdale 14|Treas-Riverdale 14 Voting District
+16|041|041014|Thatcher-Cleveland 13|Thatcher-Cleveland 13 Voting District
+16|041|041015|Weston 15|Weston 15 Voting District
+16|041|041016|Whitney 16|Whitney 16 Voting District
+16|041|041017|Worm Creek 17|Worm Creek 17 Voting District
+16|043|043001|1 Ashton 1|1 Ashton 1 Voting District
+16|043|043002|2 Ashton 2|2 Ashton 2 Voting District
+16|043|043003|3 Chester/Twin Grov|3 Chester/Twin Grov Voting District
+16|043|043004|4 Drummond/Squirrel/Lamont|4 Drummond/Squirrel/Lamont Voting District
+16|043|043005|5 Egin|5 Egin Voting District
+16|043|043006|6 Island Park|6 Island Park Voting District
+16|043|043007|7 Newdale|7 Newdale Voting District
+16|043|043008|8 Parker|8 Parker Voting District
+16|043|043010|10 St Anthony 1|10 St Anthony 1 Voting District
+16|043|043011|11 St Anthony 2|11 St Anthony 2 Voting District
+16|043|043012|12 St Anthony 3|12 St Anthony 3 Voting District
+16|043|043013|13 Teton|13 Teton Voting District
+16|043|043014|14 Warm River/Green|14 Warm River/Green Voting District
+16|043|043015|15 Wilford|15 Wilford Voting District
+16|045|045001|Ola|Ola Voting District
+16|045|045002|Montour-Sweet|Montour-Sweet Voting District
+16|045|045003|Bench|Bench Voting District
+16|045|045004|Letha|Letha Voting District
+16|045|045005|Hanna|Hanna Voting District
+16|045|045006|Emerson|Emerson Voting District
+16|045|045007|Lincoln|Lincoln Voting District
+16|045|045008|North Emmett|North Emmett Voting District
+16|045|045009|South Emmett|South Emmett Voting District
+16|045|045010|West Emmett|West Emmett Voting District
+16|045|045011|Central Emmett|Central Emmett Voting District
+16|045|045012|Butte View|Butte View Voting District
+16|045|045013|Brick|Brick Voting District
+16|047|047001|1|Voting District 1
+16|047|047002|2|Voting District 2
+16|047|047003|3|Voting District 3
+16|047|047004|4|Voting District 4
+16|047|047005|5|Voting District 5
+16|047|047006|6|Voting District 6
+16|047|047007|7|Voting District 7
+16|049|049001|Big Butte|Big Butte Voting District
+16|049|049002|Clearwater|Clearwater Voting District
+16|049|049003|Cottonwood 1|Cottonwood 1 Voting District
+16|049|049004|Cottonwood 2|Cottonwood 2 Voting District
+16|049|049005|Elk City|Elk City Voting District
+16|049|049006|Fenn|Fenn Voting District
+16|049|049007|Ferdinand|Ferdinand Voting District
+16|049|049008|Greencreek|Greencreek Voting District
+16|049|049009|Glover|Glover Voting District
+16|049|049010|Grangeville 1|Grangeville 1 Voting District
+16|049|049011|Grangeville 2|Grangeville 2 Voting District
+16|049|049012|Grangeville 3|Grangeville 3 Voting District
+16|049|049013|Grangeville 4|Grangeville 4 Voting District
+16|049|049014|Grangeville 5|Grangeville 5 Voting District
+16|049|049015|Harpster|Harpster Voting District
+16|049|049016|Joseph|Joseph Voting District
+16|049|049017|Kamiah|Kamiah Voting District
+16|049|049018|Keuterville|Keuterville Voting District
+16|049|049019|Kooskia|Kooskia Voting District
+16|049|049020|Lowell|Lowell Voting District
+16|049|049021|Pollock|Pollock Voting District
+16|049|049022|Riggins|Riggins Voting District
+16|049|049023|Slate Creek|Slate Creek Voting District
+16|049|049024|Stites|Stites Voting District
+16|049|049025|White Bird|White Bird Voting District
+16|049|049026|Woodland|Woodland Voting District
+16|051|051001|Annis|Annis Voting District
+16|051|051002|Clark|Clark Voting District
+16|051|051003|Garfield|Garfield Voting District
+16|051|051004|Grant|Grant Voting District
+16|051|051005|Hamer|Hamer Voting District
+16|051|051006|Labelle|Labelle Voting District
+16|051|051007|Lewisville|Lewisville Voting District
+16|051|051008|Lorenzo|Lorenzo Voting District
+16|051|051009|Menan|Menan Voting District
+16|051|051010|Monteview|Monteview Voting District
+16|051|051011|Rigby 1|Rigby 1 Voting District
+16|051|051012|Rigby 2|Rigby 2 Voting District
+16|051|051013|Rigby 3|Rigby 3 Voting District
+16|051|051014|Rigby 4|Rigby 4 Voting District
+16|051|051015|Ririe|Ririe Voting District
+16|051|051016|Roberts|Roberts Voting District
+16|051|051017|Terreton|Terreton Voting District
+16|053|053002|Canyonside|Canyonside Voting District
+16|053|053003|Bishop|Bishop Voting District
+16|053|053004|Eden|Eden Voting District
+16|053|053005|Falls City|Falls City Voting District
+16|053|053007|Hazelton|Hazelton Voting District
+16|053|053008|Northeast|Northeast Voting District
+16|053|053009|Northwest|Northwest Voting District
+16|053|053010|Shepherd|Shepherd Voting District
+16|053|053011|Southeast|Southeast Voting District
+16|053|053012|Southwest|Southwest Voting District
+16|055|055001|055001|Voting District 055001
+16|055|055002|055002|Voting District 055002
+16|055|055003|055003|Voting District 055003
+16|055|055004|055004|Voting District 055004
+16|055|055005|055005|Voting District 055005
+16|055|055006|055006|Voting District 055006
+16|055|055007|055007|Voting District 055007
+16|055|055008|055008|Voting District 055008
+16|055|055009|055009|Voting District 055009
+16|055|055010|055010|Voting District 055010
+16|055|055011|055011|Voting District 055011
+16|055|055012|055012|Voting District 055012
+16|055|055013|055013|Voting District 055013
+16|055|055014|055014|Voting District 055014
+16|055|055015|055015|Voting District 055015
+16|055|055016|055016|Voting District 055016
+16|055|055017|055017|Voting District 055017
+16|055|055018|055018|Voting District 055018
+16|055|055019|055019|Voting District 055019
+16|055|055020|055020|Voting District 055020
+16|055|055021|055021|Voting District 055021
+16|055|055022|055022|Voting District 055022
+16|055|055023|055023|Voting District 055023
+16|055|055024|055024|Voting District 055024
+16|055|055025|055025|Voting District 055025
+16|055|055026|055026|Voting District 055026
+16|055|055027|055027|Voting District 055027
+16|055|055028|055028|Voting District 055028
+16|055|055029|055029|Voting District 055029
+16|055|055030|055030|Voting District 055030
+16|055|055031|055031|Voting District 055031
+16|055|055032|055032|Voting District 055032
+16|055|055033|055033|Voting District 055033
+16|055|055034|055034|Voting District 055034
+16|055|055035|055035|Voting District 055035
+16|055|055036|055036|Voting District 055036
+16|055|055037|055037|Voting District 055037
+16|055|055038|055038|Voting District 055038
+16|055|055039|055039|Voting District 055039
+16|055|055040|055040|Voting District 055040
+16|055|055041|055041|Voting District 055041
+16|055|055042|055042|Voting District 055042
+16|055|055043|055043|Voting District 055043
+16|055|055044|055044|Voting District 055044
+16|055|055045|055045|Voting District 055045
+16|055|055046|055046|Voting District 055046
+16|055|055047|055047|Voting District 055047
+16|055|055048|055048|Voting District 055048
+16|055|055049|055049|Voting District 055049
+16|055|055050|055050|Voting District 055050
+16|055|055051|055051|Voting District 055051
+16|055|055052|055052|Voting District 055052
+16|055|055053|055053|Voting District 055053
+16|055|055054|055054|Voting District 055054
+16|055|055055|055055|Voting District 055055
+16|055|055056|055056|Voting District 055056
+16|055|055057|055057|Voting District 055057
+16|055|055058|055058|Voting District 055058
+16|055|055059|055059|Voting District 055059
+16|055|055060|055060|Voting District 055060
+16|055|055061|055061|Voting District 055061
+16|055|055062|055062|Voting District 055062
+16|055|055063|055063|Voting District 055063
+16|055|055064|055064|Voting District 055064
+16|055|055065|055065|Voting District 055065
+16|055|055066|055066|Voting District 055066
+16|055|055067|055067|Voting District 055067
+16|055|055068|055068|Voting District 055068
+16|055|055069|055069|Voting District 055069
+16|055|055070|055070|Voting District 055070
+16|055|055071|055071|Voting District 055071
+16|057|057001|057001|Voting District 057001
+16|057|057002|057002|Voting District 057002
+16|057|057003|057003|Voting District 057003
+16|057|057004|057004|Voting District 057004
+16|057|057005|057005|Voting District 057005
+16|057|057006|057006|Voting District 057006
+16|057|057007|057007|Voting District 057007
+16|057|057008|057008|Voting District 057008
+16|057|057009|057009|Voting District 057009
+16|057|057010|057010|Voting District 057010
+16|057|057011|057011|Voting District 057011
+16|057|057012|057012|Voting District 057012
+16|057|057013|057013|Voting District 057013
+16|057|057014|057014|Voting District 057014
+16|057|057015|057015|Voting District 057015
+16|057|057016|057016|Voting District 057016
+16|057|057017|057017|Voting District 057017
+16|057|057018|057018|Voting District 057018
+16|057|057019|057019|Voting District 057019
+16|057|057020|057020|Voting District 057020
+16|057|057021|057021|Voting District 057021
+16|057|057022|057022|Voting District 057022
+16|057|057023|057023|Voting District 057023
+16|057|057024|057024|Voting District 057024
+16|057|057025|057025|Voting District 057025
+16|057|057026|057026|Voting District 057026
+16|057|057027|057027|Voting District 057027
+16|057|057028|057028|Voting District 057028
+16|057|057029|057029|Voting District 057029
+16|057|057030|057030|Voting District 057030
+16|057|057031|057031|Voting District 057031
+16|057|057032|057032|Voting District 057032
+16|059|059001|Salmon|Salmon Voting District
+16|059|059002|Depot|Depot Voting District
+16|059|059003|Brooklyn|Brooklyn Voting District
+16|059|059005|North Fork|North Fork Voting District
+16|059|059007|Mineral Hill|Mineral Hill Voting District
+16|059|059008|Iron Creek|Iron Creek Voting District
+16|059|059009|Pahsimeroi|Pahsimeroi Voting District
+16|059|059011|Lemhi|Lemhi Voting District
+16|059|059013|Junction|Junction Voting District
+16|061|061001|Nezperce|Nezperce Voting District
+16|061|061002|West Kamiah|West Kamiah Voting District
+16|061|061003|East Kamiah|East Kamiah Voting District
+16|061|061004|Craigmont|Craigmont Voting District
+16|061|061005|Winchester|Winchester Voting District
+16|061|061006|Reubens|Reubens Voting District
+16|061|061007|Mohler|Mohler Voting District
+16|061|061008|Slickpoo|Slickpoo Voting District
+16|063|063001|063001|Voting District 063001
+16|063|063002|063002|Voting District 063002
+16|063|063003|063003|Voting District 063003
+16|063|063004|063004|Voting District 063004
+16|063|063005|063005|Voting District 063005
+16|063|063006|063006|Voting District 063006
+16|065|065001|Plano 1|Plano 1 Voting District
+16|065|065002|Burton 2|Burton 2 Voting District
+16|065|065003|Hibbard 3|Hibbard 3 Voting District
+16|065|065004|Salem 4|Salem 4 Voting District
+16|065|065005|Rexburg 5|Rexburg 5 Voting District
+16|065|065006|Sugar 6|Sugar 6 Voting District
+16|065|065007|Rexburg 7|Rexburg 7 Voting District
+16|065|065008|Rexburg 8|Rexburg 8 Voting District
+16|065|065009|Rexburg 9|Rexburg 9 Voting District
+16|065|065010|Rexburg 10|Rexburg 10 Voting District
+16|065|065011|Rexburg 11|Rexburg 11 Voting District
+16|065|065012|Rexburg 12|Rexburg 12 Voting District
+16|065|065013|Rexburg 13|Rexburg 13 Voting District
+16|065|065014|Rexburg 14|Rexburg 14 Voting District
+16|065|065015|Rexburg 15|Rexburg 15 Voting District
+16|065|065016|Rexburg 16|Rexburg 16 Voting District
+16|065|065017|Moody 17|Moody 17 Voting District
+16|065|065018|Union 18|Union 18 Voting District
+16|065|065019|Archer 19|Archer 19 Voting District
+16|067|067001|Emerson|Emerson Voting District
+16|067|067002|Paul|Paul Voting District
+16|067|067003|Pioneer|Pioneer Voting District
+16|067|067004|Acequia|Acequia Voting District
+16|067|067005|Heyburn 1|Heyburn 1 Voting District
+16|067|067006|Heyburn 2|Heyburn 2 Voting District
+16|067|067007|Rupert 1|Rupert 1 Voting District
+16|067|067008|Rupert 2|Rupert 2 Voting District
+16|067|067009|Rupert 3|Rupert 3 Voting District
+16|067|067010|Rupert 4|Rupert 4 Voting District
+16|067|067011|Rupert 5|Rupert 5 Voting District
+16|069|069001|Lewiston 1|Lewiston 1 Voting District
+16|069|069002|Lewiston 2|Lewiston 2 Voting District
+16|069|069003|Lewiston 3|Lewiston 3 Voting District
+16|069|069004|Lewiston 4|Lewiston 4 Voting District
+16|069|069005|Lewiston 5|Lewiston 5 Voting District
+16|069|069006|Lewiston 6|Lewiston 6 Voting District
+16|069|069007|Lewiston 7|Lewiston 7 Voting District
+16|069|069008|Lewiston 8|Lewiston 8 Voting District
+16|069|069009|Lewiston 9|Lewiston 9 Voting District
+16|069|069010|Lewiston 10|Lewiston 10 Voting District
+16|069|069011|Lewiston 11|Lewiston 11 Voting District
+16|069|069012|Lewiston 12|Lewiston 12 Voting District
+16|069|069013|Lewiston 13|Lewiston 13 Voting District
+16|069|069014|Lewiston 14|Lewiston 14 Voting District
+16|069|069015|Lewiston 15|Lewiston 15 Voting District
+16|069|069016|Lewiston 16|Lewiston 16 Voting District
+16|069|069017|Lewiston 17|Lewiston 17 Voting District
+16|069|069018|Lewiston 18|Lewiston 18 Voting District
+16|069|069019|Lewiston 19|Lewiston 19 Voting District
+16|069|069020|Lewiston 20|Lewiston 20 Voting District
+16|069|069021|Lewiston 21|Lewiston 21 Voting District
+16|069|069022|Lewiston 22|Lewiston 22 Voting District
+16|069|069023|Lewiston 23|Lewiston 23 Voting District
+16|069|069024|Lewiston 24|Lewiston 24 Voting District
+16|069|069025|Lewiston 25|Lewiston 25 Voting District
+16|069|069026|Lewiston 26|Lewiston 26 Voting District
+16|069|069030|Culdesac 30|Culdesac 30 Voting District
+16|069|069031|Gifford 31|Gifford 31 Voting District
+16|069|069032|Hatwai 32|Hatwai 32 Voting District
+16|069|069033|Lapwai 33|Lapwai 33 Voting District
+16|069|069034|Leland 34|Leland 34 Voting District
+16|069|069035|Lenore 35|Lenore 35 Voting District
+16|069|069036|Peck 36|Peck 36 Voting District
+16|069|069037|Rimrock 37|Rimrock 37 Voting District
+16|069|069038|Spalding 38|Spalding 38 Voting District
+16|069|069039|Tammany 39|Tammany 39 Voting District
+16|069|069040|Webb 40|Webb 40 Voting District
+16|071|071001|Malad 1|Malad 1 Voting District
+16|071|071002|Malad 2|Malad 2 Voting District
+16|071|071003|Malad 3|Malad 3 Voting District
+16|071|071004|Malad 4|Malad 4 Voting District
+16|071|071005|Holbrook|Holbrook Voting District
+16|071|071006|Curlew|Curlew Voting District
+16|073|073001|North Homedale 1|North Homedale 1 Voting District
+16|073|073002|South Homedale 2|South Homedale 2 Voting District
+16|073|073003|North Marsing 3|North Marsing 3 Voting District
+16|073|073004|South Marsing 4|South Marsing 4 Voting District
+16|073|073005|Pleasant Valley 5|Pleasant Valley 5 Voting District
+16|073|073006|Wilson 6|Wilson 6 Voting District
+16|073|073007|Murphy 7|Murphy 7 Voting District
+16|073|073008|Oreana 8|Oreana 8 Voting District
+16|073|073009|Grand View 9|Grand View 9 Voting District
+16|073|073010|Bruneau 10|Bruneau 10 Voting District
+16|073|073011|Riddle 11|Riddle 11 Voting District
+16|073|073012|Three Creek 12|Three Creek 12 Voting District
+16|075|075001|075001|Voting District 075001
+16|075|075002|075002|Voting District 075002
+16|075|075003|075003|Voting District 075003
+16|075|075004|075004|Voting District 075004
+16|075|075005|075005|Voting District 075005
+16|075|075006|075006|Voting District 075006
+16|075|075007|075007|Voting District 075007
+16|075|075008|075008|Voting District 075008
+16|075|075009|075009|Voting District 075009
+16|075|075010|075010|Voting District 075010
+16|077|077001|077001|Voting District 077001
+16|077|077002|077002|Voting District 077002
+16|077|077003|077003|Voting District 077003
+16|077|077004|077004|Voting District 077004
+16|077|077005|077005|Voting District 077005
+16|077|077006|077006|Voting District 077006
+16|079|079001|079001|Voting District 079001
+16|079|079002|079002|Voting District 079002
+16|079|079003|079003|Voting District 079003
+16|079|079004|079004|Voting District 079004
+16|079|079005|079005|Voting District 079005
+16|079|079006|079006|Voting District 079006
+16|079|079007|079007|Voting District 079007
+16|079|079008|079008|Voting District 079008
+16|079|079009|079009|Voting District 079009
+16|079|079010|079010|Voting District 079010
+16|079|079011|079011|Voting District 079011
+16|079|079012|079012|Voting District 079012
+16|079|079013|079013|Voting District 079013
+16|079|079014|079014|Voting District 079014
+16|079|079015|079015|Voting District 079015
+16|079|079016|079016|Voting District 079016
+16|079|079017|079017|Voting District 079017
+16|079|079018|079018|Voting District 079018
+16|081|081001|1 Victor|1 Victor Voting District
+16|081|081002|2 Driggs|2 Driggs Voting District
+16|081|081003|3 Tetonia|3 Tetonia Voting District
+16|081|081004|4 Felt|4 Felt Voting District
+16|083|083001|TF 1|TF 1 Voting District
+16|083|083002|TF 2|TF 2 Voting District
+16|083|083003|TF 3|TF 3 Voting District
+16|083|083004|TF 4|TF 4 Voting District
+16|083|083005|TF 5|TF 5 Voting District
+16|083|083006|TF 6|TF 6 Voting District
+16|083|083007|TF 7|TF 7 Voting District
+16|083|083008|TF 8|TF 8 Voting District
+16|083|083009|TF 9|TF 9 Voting District
+16|083|083010|TF 10|TF 10 Voting District
+16|083|083011|TF 11|TF 11 Voting District
+16|083|083012|TF 12|TF 12 Voting District
+16|083|083013|TF 13|TF 13 Voting District
+16|083|083014|TF 14|TF 14 Voting District
+16|083|083015|TF 15|TF 15 Voting District
+16|083|083016|TF 16|TF 16 Voting District
+16|083|083017|TF 17|TF 17 Voting District
+16|083|083018|TF 18|TF 18 Voting District
+16|083|083019|TF 19|TF 19 Voting District
+16|083|083020|TF 20|TF 20 Voting District
+16|083|083021|TF 21|TF 21 Voting District
+16|083|083022|TF 22|TF 22 Voting District
+16|083|083023|TF 23|TF 23 Voting District
+16|083|083024|TF 24|TF 24 Voting District
+16|083|083025|TF 25|TF 25 Voting District
+16|083|083026|Buhl 1|Buhl 1 Voting District
+16|083|083027|Buhl 2|Buhl 2 Voting District
+16|083|083028|Buhl 3|Buhl 3 Voting District
+16|083|083029|Buhl 4|Buhl 4 Voting District
+16|083|083030|Buhl 5|Buhl 5 Voting District
+16|083|083031|Buhl 6|Buhl 6 Voting District
+16|083|083032|Buhl 7|Buhl 7 Voting District
+16|083|083033|Castleford|Castleford Voting District
+16|083|083034|Clover|Clover Voting District
+16|083|083035|Deep Creek|Deep Creek Voting District
+16|083|083036|Filer 1|Filer 1 Voting District
+16|083|083037|Filer 2|Filer 2 Voting District
+16|083|083038|Filer 3|Filer 3 Voting District
+16|083|083039|Kimberly 1|Kimberly 1 Voting District
+16|083|083040|Kimberly 2|Kimberly 2 Voting District
+16|083|083041|Kimberly 3|Kimberly 3 Voting District
+16|083|083042|Hansen|Hansen Voting District
+16|083|083043|Hollister|Hollister Voting District
+16|083|083044|Maroa|Maroa Voting District
+16|083|083045|Murtaugh|Murtaugh Voting District
+16|085|085001|Alpha|Alpha Voting District
+16|085|085002|Cascade|Cascade Voting District
+16|085|085003|Donnelly|Donnelly Voting District
+16|085|085004|Mc Call|Mc Call Voting District
+16|085|085005|Payette|Payette Voting District
+16|085|085006|Roseberry|Roseberry Voting District
+16|085|085007|West Mountain|West Mountain Voting District
+16|085|085008|Yellow Pine|Yellow Pine Voting District
+16|087|087001|Eaton 1|Eaton 1 Voting District
+16|087|087002|West Weiser 2|West Weiser 2 Voting District
+16|087|087003|South Weiser 3|South Weiser 3 Voting District
+16|087|087004|Weiser 4|Weiser 4 Voting District
+16|087|087005|Middle Weiser 5|Middle Weiser 5 Voting District
+16|087|087006|East Weiser 6|East Weiser 6 Voting District
+16|087|087007|Midvale 7|Midvale 7 Voting District
+16|087|087008|Cambridge 8|Cambridge 8 Voting District
+16|087|087009|Pioneer 9|Pioneer 9 Voting District
+16|087|087010|Sunnyside 10|Sunnyside 10 Voting District
+16|087|087011|Mineral 11|Mineral 11 Voting District

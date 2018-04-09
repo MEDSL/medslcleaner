@@ -1,0 +1,1300 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+17|00113|Abingdon|Abingdon city
+17|00230|Addieville|Addieville village
+17|00243|Addison|Addison village
+17|00295|Adeline|Adeline village
+17|00516|Albany|Albany village
+17|00555|Albers|Albers village
+17|00568|Albion|Albion city
+17|00646|Aledo|Aledo city
+17|00672|Alexis|Alexis village
+17|00685|Algonquin|Algonquin village
+17|00737|Alhambra|Alhambra village
+17|00815|Allendale|Allendale village
+17|00867|Allenville|Allenville village
+17|00880|Allerton|Allerton village
+17|00919|Alma|Alma village
+17|00958|Alorton|Alorton village
+17|00971|Alpha|Alpha village
+17|00997|Alsey|Alsey village
+17|01010|Alsip|Alsip village
+17|01049|Altamont|Altamont city
+17|01114|Alton|Alton city
+17|01140|Altona|Altona village
+17|01205|Alto Pass|Alto Pass village
+17|01242|Alvan|Alvan village
+17|01270|Amboy|Amboy city
+17|01361|Anchor|Anchor village
+17|01426|Andalusia|Andalusia village
+17|01491|Andover|Andover village
+17|01543|Anna|Anna city
+17|01569|Annawan|Annawan town
+17|01595|Antioch|Antioch village
+17|01673|Apple River|Apple River village
+17|01881|Arcola|Arcola city
+17|01946|Arenzville|Arenzville village
+17|01972|Argenta|Argenta village
+17|02102|Arlington|Arlington village
+17|02154|Arlington Heights|Arlington Heights village
+17|02206|Armington|Armington village
+17|02258|Aroma Park|Aroma Park village
+17|02342|Arrowsmith|Arrowsmith village
+17|02414|Arthur|Arthur village
+17|02479|Ashkum|Ashkum village
+17|02505|Ashland|Ashland village
+17|02531|Ashley|Ashley city
+17|02557|Ashmore|Ashmore village
+17|02583|Ashton|Ashton village
+17|02609|Assumption|Assumption city
+17|02635|Astoria|Astoria town
+17|02674|Athens|Athens city
+17|02726|Atkinson|Atkinson town
+17|02752|Atlanta|Atlanta city
+17|02882|Atwood|Atwood village
+17|02921|Auburn|Auburn city
+17|02986|Augusta|Augusta village
+17|03012|Aurora|Aurora city
+17|03103|Ava|Ava city
+17|03181|Aviston|Aviston village
+17|03207|Avon|Avon village
+17|03454|Baldwin|Baldwin village
+17|03571|Banner|Banner village
+17|03610|Bannockburn|Bannockburn village
+17|03675|Bardolph|Bardolph village
+17|03844|Barrington|Barrington village
+17|03883|Barrington Hills|Barrington Hills village
+17|03948|Barry|Barry city
+17|04000|Bartelso|Bartelso village
+17|04013|Bartlett|Bartlett village
+17|04039|Bartonville|Bartonville village
+17|04052|Basco|Basco village
+17|04078|Batavia|Batavia city
+17|04117|Batchtown|Batchtown village
+17|04156|Bath|Bath village
+17|04247|Baylis|Baylis village
+17|04273|Bay View Gardens|Bay View Gardens village
+17|04303|Beach Park|Beach Park village
+17|04351|Beardstown|Beardstown city
+17|04507|Beaverville|Beaverville village
+17|04533|Beckemeyer|Beckemeyer village
+17|04572|Bedford Park|Bedford Park village
+17|04585|Beecher|Beecher village
+17|04598|Beecher City|Beecher City village
+17|04689|Belgium|Belgium village
+17|04715|Belknap|Belknap village
+17|04793|Belle Prairie City|Belle Prairie City town
+17|04806|Belle Rive|Belle Rive village
+17|04845|Belleville|Belleville city
+17|04871|Bellevue|Bellevue village
+17|04897|Bellflower|Bellflower village
+17|04936|Bellmont|Bellmont village
+17|04975|Bellwood|Bellwood village
+17|05092|Belvidere|Belvidere city
+17|05144|Bement|Bement village
+17|05209|Benld|Benld city
+17|05248|Bensenville|Bensenville village
+17|05261|Benson|Benson village
+17|05274|Bentley|Bentley town
+17|05300|Benton|Benton city
+17|05404|Berkeley|Berkeley village
+17|05443|Berlin|Berlin village
+17|05573|Berwyn|Berwyn city
+17|05599|Bethalto|Bethalto village
+17|05612|Bethany|Bethany village
+17|05898|Biggsville|Biggsville village
+17|05976|Big Rock|Big Rock village
+17|06028|Bingham|Bingham village
+17|06171|Bishop Hill|Bishop Hill village
+17|06184|Bismarck|Bismarck village
+17|06470|Blandinsville|Blandinsville village
+17|06587|Bloomingdale|Bloomingdale village
+17|06613|Bloomington|Bloomington city
+17|06704|Blue Island|Blue Island city
+17|06756|Blue Mound|Blue Mound village
+17|06899|Bluffs|Bluffs village
+17|06964|Bluford|Bluford village
+17|07133|Bolingbrook|Bolingbrook village
+17|07211|Bondville|Bondville village
+17|07224|Bone Gap|Bone Gap village
+17|07237|Bonfield|Bonfield village
+17|07263|Bonnie|Bonnie village
+17|07471|Bourbonnais|Bourbonnais village
+17|07510|Bowen|Bowen village
+17|07640|Braceville|Braceville village
+17|07692|Bradford|Bradford village
+17|07744|Bradley|Bradley village
+17|07770|Braidwood|Braidwood city
+17|07913|Breese|Breese city
+17|08186|Bridgeport|Bridgeport city
+17|08225|Bridgeview|Bridgeview village
+17|08264|Brighton|Brighton village
+17|08303|Brimfield|Brimfield village
+17|08420|Broadlands|Broadlands village
+17|08446|Broadview|Broadview village
+17|08472|Broadwell|Broadwell village
+17|08524|Brocton|Brocton village
+17|08576|Brookfield|Brookfield village
+17|08667|Brooklyn|Brooklyn village
+17|08706|Brookport|Brookport city
+17|08875|Broughton|Broughton village
+17|08953|Browning|Browning village
+17|08979|Browns|Browns village
+17|08992|Brownstown|Brownstown village
+17|09148|Brussels|Brussels village
+17|09161|Bryant|Bryant village
+17|09304|Buckingham|Buckingham village
+17|09317|Buckley|Buckley village
+17|09330|Buckner|Buckner village
+17|09356|Buda|Buda village
+17|09434|Buffalo|Buffalo village
+17|09447|Buffalo Grove|Buffalo Grove village
+17|09531|Bull Valley|Bull Valley village
+17|09538|Bulpitt|Bulpitt village
+17|09551|Buncombe|Buncombe village
+17|09577|Bunker Hill|Bunker Hill city
+17|09642|Burbank|Burbank city
+17|09681|Bureau Junction|Bureau Junction village
+17|09759|Burlington|Burlington village
+17|09798|Burnham|Burnham village
+17|09889|Burnt Prairie|Burnt Prairie village
+17|09980|Burr Ridge|Burr Ridge village
+17|10084|Bush|Bush village
+17|10110|Bushnell|Bushnell city
+17|10149|Butler|Butler village
+17|10240|Byron|Byron city
+17|10292|Cabery|Cabery village
+17|10370|Cahokia|Cahokia village
+17|10383|Cairo|Cairo city
+17|10422|Caledonia|Caledonia village
+17|10448|Calhoun|Calhoun village
+17|10487|Calumet City|Calumet City city
+17|10513|Calumet Park|Calumet Park village
+17|10591|Camargo|Camargo village
+17|10630|Cambria|Cambria village
+17|10643|Cambridge|Cambridge village
+17|10695|Camden|Camden village
+17|10773|Campbell Hill|Campbell Hill village
+17|10877|Camp Point|Camp Point village
+17|10906|Campton Hills|Campton Hills village
+17|10916|Campus|Campus village
+17|11007|Canton|Canton city
+17|11033|Cantrall|Cantrall village
+17|11124|Capron|Capron village
+17|11150|Carbon Cliff|Carbon Cliff village
+17|11163|Carbondale|Carbondale city
+17|11176|Carbon Hill|Carbon Hill village
+17|11202|Carlinville|Carlinville city
+17|11215|Carlock|Carlock village
+17|11228|Carlyle|Carlyle city
+17|11293|Carmi|Carmi city
+17|11332|Carol Stream|Carol Stream village
+17|11358|Carpentersville|Carpentersville village
+17|11397|Carrier Mills|Carrier Mills village
+17|11462|Carrollton|Carrollton city
+17|11514|Carterville|Carterville city
+17|11527|Carthage|Carthage city
+17|11592|Cary|Cary village
+17|11618|Casey|Casey city
+17|11644|Caseyville|Caseyville village
+17|11774|Catlin|Catlin village
+17|11826|Cave-In-Rock|Cave-In-Rock village
+17|11982|Cedar Point|Cedar Point village
+17|12008|Cedarville|Cedarville village
+17|12151|Central City|Central City village
+17|12164|Centralia|Centralia city
+17|12203|Centreville|Centreville city
+17|12268|Cerro Gordo|Cerro Gordo village
+17|12294|Chadwick|Chadwick village
+17|12385|Champaign|Champaign city
+17|12450|Chandlerville|Chandlerville village
+17|12476|Channahon|Channahon village
+17|12528|Chapin|Chapin village
+17|12567|Charleston|Charleston city
+17|12684|Chatham|Chatham village
+17|12710|Chatsworth|Chatsworth town
+17|12801|Chebanse|Chebanse village
+17|12931|Chenoa|Chenoa city
+17|12970|Cherry|Cherry village
+17|13074|Cherry Valley|Cherry Valley village
+17|13139|Chester|Chester city
+17|13165|Chesterfield|Chesterfield village
+17|14000|Chicago|Chicago city
+17|14026|Chicago Heights|Chicago Heights city
+17|14065|Chicago Ridge|Chicago Ridge village
+17|14117|Chillicothe|Chillicothe city
+17|14273|Chrisman|Chrisman city
+17|14286|Christopher|Christopher city
+17|14351|Cicero|Cicero town
+17|14442|Cisco|Cisco village
+17|14455|Cisne|Cisne village
+17|14468|Cissna Park|Cissna Park village
+17|14533|Claremont|Claremont village
+17|14572|Clarendon Hills|Clarendon Hills village
+17|14715|Clay City|Clay City village
+17|14767|Clayton|Clayton village
+17|14845|Clear Lake|Clear Lake village
+17|14923|Cleveland|Cleveland village
+17|14936|Clifton|Clifton village
+17|15001|Clinton|Clinton city
+17|15170|Coal City|Coal City village
+17|15209|Coalton|Coalton village
+17|15235|Coal Valley|Coal Valley village
+17|15261|Coatsburg|Coatsburg village
+17|15300|Cobden|Cobden village
+17|15352|Coffeen|Coffeen city
+17|15378|Colchester|Colchester city
+17|15469|Coleta|Coleta village
+17|15495|Colfax|Colfax village
+17|15599|Collinsville|Collinsville city
+17|15664|Colona|Colona city
+17|15807|Colp|Colp village
+17|15833|Columbia|Columbia city
+17|15846|Columbus|Columbus village
+17|15989|Compton|Compton village
+17|16054|Concord|Concord village
+17|16119|Congerville|Congerville village
+17|16210|Cooksville|Cooksville village
+17|16366|Cordova|Cordova village
+17|16405|Cornell|Cornell village
+17|16470|Cortland|Cortland town
+17|16613|Coulterville|Coulterville village
+17|16691|Country Club Hills|Country Club Hills city
+17|16873|Countryside|Countryside city
+17|17055|Cowden|Cowden village
+17|17185|Crainville|Crainville village
+17|17289|Creal Springs|Creal Springs city
+17|17406|Crescent City|Crescent City village
+17|17458|Crest Hill|Crest Hill city
+17|17471|Creston|Creston village
+17|17497|Crestwood|Crestwood village
+17|17523|Crete|Crete village
+17|17549|Creve Coeur|Creve Coeur village
+17|17783|Crossville|Crossville village
+17|17887|Crystal Lake|Crystal Lake city
+17|17991|Cuba|Cuba city
+17|18030|Cullom|Cullom village
+17|18147|Curran|Curran village
+17|18225|Cutler|Cutler village
+17|18251|Cypress|Cypress village
+17|18303|Dahlgren|Dahlgren village
+17|18342|Dakota|Dakota village
+17|18420|Dallas City|Dallas City city
+17|18446|Dalton City|Dalton City village
+17|18459|Dalzell|Dalzell village
+17|18472|Damiansville|Damiansville village
+17|18485|Dana|Dana village
+17|18498|Danforth|Danforth village
+17|18537|Danvers|Danvers village
+17|18563|Danville|Danville city
+17|18628|Darien|Darien city
+17|18706|Davis|Davis village
+17|18719|Davis Junction|Davis Junction village
+17|18745|Dawson|Dawson village
+17|18823|Decatur|Decatur city
+17|18940|Deer Creek|Deer Creek village
+17|18992|Deerfield|Deerfield village
+17|19031|Deer Grove|Deer Grove village
+17|19083|Deer Park|Deer Park village
+17|19161|DeKalb|DeKalb city
+17|19200|De Land|De Land village
+17|19226|Delavan|Delavan city
+17|19499|De Pue|De Pue village
+17|19616|De Soto|De Soto village
+17|19642|Des Plaines|Des Plaines city
+17|19681|Detroit|Detroit village
+17|19798|De Witt|De Witt village
+17|19837|Diamond|Diamond village
+17|19915|Dieterich|Dieterich village
+17|20045|Divernon|Divernon village
+17|20123|Dix|Dix village
+17|20149|Dixmoor|Dixmoor village
+17|20162|Dixon|Dixon city
+17|20292|Dolton|Dolton village
+17|20305|Dongola|Dongola village
+17|20318|Donnellson|Donnellson village
+17|20331|Donovan|Donovan village
+17|20370|Dorchester|Dorchester village
+17|20526|Dover|Dover village
+17|20565|Dowell|Dowell village
+17|20591|Downers Grove|Downers Grove village
+17|20643|Downs|Downs village
+17|20890|Du Bois|Du Bois village
+17|21098|Dunfermline|Dunfermline village
+17|21176|Dunlap|Dunlap village
+17|21254|Dupo|Dupo village
+17|21267|Du Quoin|Du Quoin city
+17|21280|Durand|Durand village
+17|21358|Dwight|Dwight village
+17|21410|Eagarville|Eagarville village
+17|21540|Earlville|Earlville city
+17|21553|East Alton|East Alton village
+17|21579|East Brooklyn|East Brooklyn village
+17|21605|East Cape Girardeau|East Cape Girardeau village
+17|21618|East Carondelet|East Carondelet village
+17|21683|East Dubuque|East Dubuque city
+17|21696|East Dundee|East Dundee village
+17|21826|East Galesburg|East Galesburg village
+17|21852|East Gillespie|East Gillespie village
+17|21904|East Hazel Crest|East Hazel Crest village
+17|22073|East Moline|East Moline city
+17|22151|Easton|Easton village
+17|22164|East Peoria|East Peoria city
+17|22255|East St. Louis|East St. Louis city
+17|22398|Eddyville|Eddyville village
+17|22567|Edgewood|Edgewood village
+17|22645|Edinburg|Edinburg village
+17|22697|Edwardsville|Edwardsville city
+17|22736|Effingham|Effingham city
+17|22931|Elburn|Elburn village
+17|22957|El Dara|El Dara village
+17|23009|Eldorado|Eldorado city
+17|23022|Eldred|Eldred village
+17|23074|Elgin|Elgin city
+17|23165|Elizabeth|Elizabeth village
+17|23191|Elizabethtown|Elizabethtown village
+17|23256|Elk Grove Village|Elk Grove Village village
+17|23269|Elkhart|Elkhart village
+17|23373|Elkville|Elkville village
+17|23425|Elliott|Elliott village
+17|23503|Ellis Grove|Ellis Grove village
+17|23529|Ellisville|Ellisville village
+17|23555|Ellsworth|Ellsworth village
+17|23620|Elmhurst|Elmhurst city
+17|23698|Elmwood|Elmwood city
+17|23724|Elmwood Park|Elmwood Park village
+17|23737|El Paso|El Paso city
+17|23776|Elsah|Elsah village
+17|23841|Elvaston|Elvaston village
+17|23945|Elwood|Elwood village
+17|23971|Emden|Emden village
+17|24062|Emington|Emington village
+17|24166|Energy|Energy village
+17|24179|Enfield|Enfield village
+17|24348|Equality|Equality village
+17|24374|Erie|Erie village
+17|24452|Essex|Essex village
+17|24543|Eureka|Eureka city
+17|24582|Evanston|Evanston city
+17|24608|Evansville|Evansville village
+17|24634|Evergreen Park|Evergreen Park village
+17|24673|Ewing|Ewing village
+17|24699|Exeter|Exeter village
+17|24764|Fairbury|Fairbury city
+17|24816|Fairfield|Fairfield city
+17|24933|Fairmont City|Fairmont City village
+17|24985|Fairmount|Fairmount village
+17|25063|Fairview|Fairview village
+17|25141|Fairview Heights|Fairview Heights city
+17|25375|Farina|Farina village
+17|25414|Farmer City|Farmer City city
+17|25440|Farmersville|Farmersville village
+17|25531|Farmington|Farmington city
+17|25713|Fayetteville|Fayetteville village
+17|25895|Ferris|Ferris village
+17|25960|Fidelity|Fidelity village
+17|26012|Fieldon|Fieldon village
+17|26077|Fillmore|Fillmore village
+17|26116|Findlay|Findlay village
+17|26194|Fisher|Fisher village
+17|26233|Fithian|Fithian village
+17|26311|Flanagan|Flanagan village
+17|26350|Flat Rock|Flat Rock village
+17|26454|Flora|Flora city
+17|26480|Florence|Florence village
+17|26571|Flossmoor|Flossmoor village
+17|26662|Foosland|Foosland village
+17|26710|Ford Heights|Ford Heights village
+17|26753|Forest City|Forest City village
+17|26935|Forest Park|Forest Park village
+17|26987|Forest View|Forest View village
+17|27026|Forrest|Forrest village
+17|27065|Forreston|Forreston village
+17|27091|Forsyth|Forsyth village
+17|27442|Fox Lake|Fox Lake village
+17|27533|Fox River Grove|Fox River Grove village
+17|27624|Frankfort|Frankfort village
+17|27663|Franklin|Franklin village
+17|27689|Franklin Grove|Franklin Grove village
+17|27702|Franklin Park|Franklin Park village
+17|27806|Freeburg|Freeburg village
+17|27858|Freeman Spur|Freeman Spur village
+17|27884|Freeport|Freeport city
+17|28144|Fulton|Fulton city
+17|28170|Fults|Fults village
+17|28261|Galatia|Galatia village
+17|28300|Galena|Galena city
+17|28326|Galesburg|Galesburg city
+17|28430|Galva|Galva city
+17|28612|Garden Prairie|Garden Prairie village
+17|28638|Gardner|Gardner village
+17|28742|Garrett|Garrett village
+17|28807|Gays|Gays village
+17|28846|Geneseo|Geneseo city
+17|28872|Geneva|Geneva city
+17|28898|Genoa|Genoa city
+17|28963|Georgetown|Georgetown city
+17|29041|Germantown|Germantown village
+17|29080|Germantown Hills|Germantown Hills village
+17|29093|German Valley|German Valley village
+17|29125|Gibson City|Gibson City city
+17|29145|Gifford|Gifford village
+17|29171|Gilberts|Gilberts village
+17|29236|Gillespie|Gillespie city
+17|29275|Gilman|Gilman city
+17|29392|Girard|Girard city
+17|29431|Gladstone|Gladstone village
+17|29483|Glasford|Glasford village
+17|29496|Glasgow|Glasgow village
+17|29639|Glen Carbon|Glen Carbon village
+17|29652|Glencoe|Glencoe village
+17|29730|Glendale Heights|Glendale Heights village
+17|29756|Glen Ellyn|Glen Ellyn village
+17|29938|Glenview|Glenview village
+17|30029|Glenwood|Glenwood village
+17|30094|Godfrey|Godfrey village
+17|30120|Godley|Godley village
+17|30133|Golconda|Golconda city
+17|30159|Golden|Golden village
+17|30250|Golden Gate|Golden Gate village
+17|30328|Golf|Golf village
+17|30445|Goodfield|Goodfield village
+17|30458|Good Hope|Good Hope village
+17|30575|Goreville|Goreville village
+17|30588|Gorham|Gorham village
+17|30653|Grafton|Grafton city
+17|30757|Grand Ridge|Grand Ridge village
+17|30770|Grand Tower|Grand Tower city
+17|30835|Grandview|Grandview village
+17|30926|Granite City|Granite City city
+17|30978|Grantfork|Grantfork village
+17|30991|Grant Park|Grant Park village
+17|31017|Granville|Granville village
+17|31121|Grayslake|Grayslake village
+17|31165|Grayville|Grayville city
+17|31368|Greenfield|Greenfield city
+17|31446|Green Oaks|Green Oaks village
+17|31524|Greenup|Greenup village
+17|31563|Green Valley|Green Valley village
+17|31576|Greenview|Greenview village
+17|31589|Greenville|Greenville city
+17|31667|Greenwood|Greenwood village
+17|31732|Gridley|Gridley village
+17|31771|Griggsville|Griggsville city
+17|31992|Gulf Port|Gulf Port village
+17|32018|Gurnee|Gurnee village
+17|32200|Hainesville|Hainesville village
+17|32395|Hamburg|Hamburg village
+17|32408|Hamel|Hamel village
+17|32434|Hamilton|Hamilton city
+17|32499|Hammond|Hammond village
+17|32525|Hampshire|Hampshire village
+17|32564|Hampton|Hampton village
+17|32616|Hanaford|Hanaford village
+17|32668|Hanna City|Hanna City village
+17|32707|Hanover|Hanover village
+17|32746|Hanover Park|Hanover Park village
+17|32850|Hardin|Hardin village
+17|32967|Harmon|Harmon village
+17|33136|Harrisburg|Harrisburg city
+17|33227|Harristown|Harristown village
+17|33279|Hartford|Hartford village
+17|33318|Hartsburg|Hartsburg village
+17|33331|Harvard|Harvard city
+17|33357|Harvel|Harvel village
+17|33383|Harvey|Harvey city
+17|33435|Harwood Heights|Harwood Heights village
+17|33513|Havana|Havana city
+17|33630|Hawthorn Woods|Hawthorn Woods village
+17|33695|Hazel Crest|Hazel Crest village
+17|33851|Hebron|Hebron village
+17|33877|Hecker|Hecker village
+17|34007|Henderson|Henderson village
+17|34098|Hennepin|Hennepin village
+17|34137|Henning|Henning village
+17|34163|Henry|Henry city
+17|34332|Herrick|Herrick village
+17|34358|Herrin|Herrin city
+17|34384|Herscher|Herscher village
+17|34423|Hettick|Hettick village
+17|34449|Heyworth|Heyworth village
+17|34514|Hickory Hills|Hickory Hills city
+17|34553|Hidalgo|Hidalgo village
+17|34670|Highland|Highland city
+17|34722|Highland Park|Highland Park city
+17|34865|Highwood|Highwood city
+17|34982|Hillcrest|Hillcrest village
+17|35047|Hillsboro|Hillsboro city
+17|35073|Hillsdale|Hillsdale village
+17|35086|Hillside|Hillside village
+17|35203|Hillview|Hillview village
+17|35268|Hinckley|Hinckley village
+17|35281|Hindsboro|Hindsboro village
+17|35307|Hinsdale|Hinsdale village
+17|35385|Hodgkins|Hodgkins village
+17|35398|Hoffman|Hoffman village
+17|35411|Hoffman Estates|Hoffman Estates village
+17|35515|Holiday Hills|Holiday Hills village
+17|35671|Hollowayville|Hollowayville village
+17|35814|Homer|Homer village
+17|35835|Homer Glen|Homer Glen village
+17|35866|Hometown|Hometown city
+17|35879|Homewood|Homewood village
+17|36061|Hoopeston|Hoopeston city
+17|36074|Hooppole|Hooppole village
+17|36126|Hopedale|Hopedale village
+17|36150|Hopewell|Hopewell village
+17|36190|Hopkins Park|Hopkins Park village
+17|36347|Hoyleton|Hoyleton village
+17|36438|Hudson|Hudson village
+17|36477|Huey|Huey village
+17|36516|Hull|Hull village
+17|36542|Humboldt|Humboldt village
+17|36568|Hume|Hume village
+17|36750|Huntley|Huntley village
+17|36815|Hurst|Hurst city
+17|36841|Hutsonville|Hutsonville village
+17|37127|Illiopolis|Illiopolis village
+17|37179|Ina|Ina village
+17|37218|Indian Creek|Indian Creek village
+17|37257|Indian Head Park|Indian Head Park village
+17|37348|Indianola|Indianola village
+17|37439|Industry|Industry village
+17|37608|Inverness|Inverness village
+17|37621|Iola|Iola village
+17|37647|Ipava|Ipava village
+17|37712|Iroquois|Iroquois village
+17|37738|Irving|Irving village
+17|37777|Irvington|Irvington village
+17|37803|Irwin|Irwin village
+17|37894|Island Lake|Island Lake village
+17|37907|Itasca|Itasca village
+17|37933|Iuka|Iuka village
+17|37998|Ivesdale|Ivesdale village
+17|38115|Jacksonville|Jacksonville city
+17|38323|Jeffersonville|Jeffersonville village
+17|38349|Jeisyville|Jeisyville village
+17|38375|Jerome|Jerome village
+17|38414|Jerseyville|Jerseyville city
+17|38427|Jewett|Jewett village
+17|38479|Johnsburg|Johnsburg village
+17|38531|Johnsonville|Johnsonville village
+17|38544|Johnston City|Johnston City city
+17|38570|Joliet|Joliet city
+17|38635|Jonesboro|Jonesboro city
+17|38674|Joppa|Joppa village
+17|38739|Joy|Joy village
+17|38778|Junction|Junction village
+17|38791|Junction City|Junction City village
+17|38830|Justice|Justice village
+17|38856|Kampsville|Kampsville village
+17|38869|Kane|Kane village
+17|38895|Kaneville|Kaneville village
+17|38921|Kangley|Kangley village
+17|38934|Kankakee|Kankakee city
+17|38986|Kansas|Kansas village
+17|39038|Kappa|Kappa village
+17|39077|Karnak|Karnak village
+17|39129|Kaskaskia|Kaskaskia village
+17|39233|Keenes|Keenes village
+17|39259|Keensburg|Keensburg village
+17|39298|Keithsburg|Keithsburg city
+17|39324|Kell|Kell village
+17|39441|Kempton|Kempton village
+17|39519|Kenilworth|Kenilworth village
+17|39532|Kenney|Kenney village
+17|39727|Kewanee|Kewanee city
+17|39753|Keyesport|Keyesport village
+17|39857|Kilbourne|Kilbourne village
+17|39883|Kildeer|Kildeer village
+17|39909|Kincaid|Kincaid village
+17|39922|Kinderhook|Kinderhook village
+17|40065|Kingston|Kingston village
+17|40091|Kingston Mines|Kingston Mines village
+17|40117|Kinmundy|Kinmundy city
+17|40143|Kinsman|Kinsman village
+17|40156|Kirkland|Kirkland village
+17|40182|Kirkwood|Kirkwood village
+17|40416|Knoxville|Knoxville city
+17|40559|Lacon|Lacon city
+17|40598|Ladd|Ladd village
+17|40676|La Fayette|La Fayette village
+17|40767|La Grange|La Grange village
+17|40793|La Grange Park|La Grange Park village
+17|40832|La Harpe|La Harpe city
+17|40884|Lake Barrington|Lake Barrington village
+17|40910|Lake Bluff|Lake Bluff village
+17|41105|Lake Forest|Lake Forest city
+17|41183|Lake in the Hills|Lake in the Hills village
+17|41214|Lake Ka-Ho|Lake Ka-Ho village
+17|41326|Lakemoor|Lakemoor village
+17|41586|Lake Villa|Lake Villa village
+17|41651|Lakewood|Lakewood village
+17|41742|Lake Zurich|Lake Zurich village
+17|41794|La Moille|La Moille village
+17|41859|Lanark|Lanark city
+17|42028|Lansing|Lansing village
+17|42080|La Prairie|La Prairie village
+17|42171|La Rose|La Rose village
+17|42184|LaSalle|LaSalle city
+17|42249|Latham|Latham village
+17|42405|Lawrenceville|Lawrenceville city
+17|42457|Leaf River|Leaf River village
+17|42496|Lebanon|Lebanon city
+17|42587|Lee|Lee village
+17|42756|Leland|Leland village
+17|42769|Leland Grove|Leland Grove city
+17|42795|Lemont|Lemont village
+17|42834|Lena|Lena village
+17|42860|Lenzburg|Lenzburg village
+17|42912|Leonore|Leonore village
+17|42938|Lerna|Lerna village
+17|42971|Le Roy|Le Roy city
+17|43055|Lewistown|Lewistown city
+17|43094|Lexington|Lexington city
+17|43133|Liberty|Liberty village
+17|43250|Libertyville|Libertyville village
+17|43406|Lily Lake|Lily Lake village
+17|43445|Lima|Lima village
+17|43510|Limestone|Limestone village
+17|43536|Lincoln|Lincoln city
+17|43666|Lincolnshire|Lincolnshire village
+17|43744|Lincolnwood|Lincolnwood village
+17|43770|Lindenhurst|Lindenhurst village
+17|43900|Lisbon|Lisbon village
+17|43939|Lisle|Lisle village
+17|43965|Litchfield|Litchfield city
+17|44056|Littleton|Littleton village
+17|44082|Little York|Little York village
+17|44121|Liverpool|Liverpool village
+17|44160|Livingston|Livingston village
+17|44173|Loami|Loami village
+17|44225|Lockport|Lockport city
+17|44264|Loda|Loda village
+17|44381|Lomax|Lomax village
+17|44407|Lombard|Lombard village
+17|44446|London Mills|London Mills village
+17|44498|Long Creek|Long Creek village
+17|44524|Long Grove|Long Grove village
+17|44576|Long Point|Long Point village
+17|44602|Longview|Longview village
+17|44719|Loraine|Loraine village
+17|44823|Lostant|Lostant village
+17|44927|Louisville|Louisville village
+17|45031|Loves Park|Loves Park city
+17|45044|Lovington|Lovington village
+17|45174|Ludlow|Ludlow village
+17|45278|Lyndon|Lyndon village
+17|45369|Lynnville|Lynnville village
+17|45421|Lynwood|Lynwood village
+17|45434|Lyons|Lyons village
+17|45525|McClure|McClure village
+17|45564|McCook|McCook village
+17|45616|McCullom Lake|McCullom Lake village
+17|45642|Macedonia|Macedonia village
+17|45694|McHenry|McHenry city
+17|45726|Machesney Park|Machesney Park village
+17|45785|Mackinaw|Mackinaw village
+17|45811|McLean|McLean village
+17|45824|McLeansboro|McLeansboro city
+17|45850|McNabb|McNabb village
+17|45889|Macomb|Macomb city
+17|45941|Macon|Macon city
+17|45993|Madison|Madison city
+17|46058|Maeystown|Maeystown village
+17|46110|Magnolia|Magnolia village
+17|46136|Mahomet|Mahomet village
+17|46214|Makanda|Makanda village
+17|46240|Malden|Malden village
+17|46279|Malta|Malta village
+17|46331|Manchester|Manchester village
+17|46357|Manhattan|Manhattan village
+17|46383|Manito|Manito village
+17|46422|Manlius|Manlius village
+17|46487|Mansfield|Mansfield village
+17|46500|Manteno|Manteno village
+17|46604|Maple Park|Maple Park village
+17|46643|Mapleton|Mapleton village
+17|46695|Maquon|Maquon village
+17|46786|Marengo|Marengo city
+17|46825|Marietta|Marietta village
+17|46864|Marine|Marine village
+17|46916|Marion|Marion city
+17|46955|Marissa|Marissa village
+17|46981|Mark|Mark village
+17|47007|Markham|Markham city
+17|47072|Maroa|Maroa city
+17|47111|Marquette Heights|Marquette Heights city
+17|47150|Marseilles|Marseilles city
+17|47163|Marshall|Marshall city
+17|47254|Martinsville|Martinsville city
+17|47280|Martinton|Martinton village
+17|47397|Maryville|Maryville village
+17|47423|Mascoutah|Mascoutah city
+17|47449|Mason|Mason town
+17|47475|Mason City|Mason City city
+17|47527|Matherville|Matherville village
+17|47540|Matteson|Matteson village
+17|47553|Mattoon|Mattoon city
+17|47592|Maunie|Maunie village
+17|47774|Maywood|Maywood village
+17|47787|Mazon|Mazon village
+17|48021|Mechanicsburg|Mechanicsburg village
+17|48073|Media|Media village
+17|48138|Medora|Medora village
+17|48242|Melrose Park|Melrose Park village
+17|48268|Melvin|Melvin village
+17|48307|Mendon|Mendon village
+17|48333|Mendota|Mendota city
+17|48359|Menominee|Menominee village
+17|48424|Meredosia|Meredosia village
+17|48554|Merrionette Park|Merrionette Park village
+17|48606|Metamora|Metamora village
+17|48632|Metcalf|Metcalf village
+17|48645|Metropolis|Metropolis city
+17|48671|Mettawa|Mettawa village
+17|48853|Middletown|Middletown village
+17|48892|Midlothian|Midlothian village
+17|49009|Milan|Milan village
+17|49048|Milford|Milford village
+17|49100|Millbrook|Millbrook village
+17|49178|Mill Creek|Mill Creek village
+17|49191|Milledgeville|Milledgeville village
+17|49308|Millington|Millington village
+17|49347|Mill Shoals|Mill Shoals village
+17|49386|Millstadt|Millstadt village
+17|49477|Milton|Milton village
+17|49516|Mineral|Mineral village
+17|49555|Minier|Minier village
+17|49568|Minonk|Minonk city
+17|49607|Minooka|Minooka village
+17|49802|Modesto|Modesto village
+17|49854|Mokena|Mokena village
+17|49867|Moline|Moline city
+17|49893|Momence|Momence city
+17|49945|Monee|Monee village
+17|50010|Monmouth|Monmouth city
+17|50062|Monroe Center|Monroe Center village
+17|50218|Montgomery|Montgomery village
+17|50244|Monticello|Monticello city
+17|50283|Montrose|Montrose village
+17|50491|Morris|Morris city
+17|50530|Morrison|Morrison city
+17|50543|Morrisonville|Morrisonville village
+17|50621|Morton|Morton village
+17|50647|Morton Grove|Morton Grove village
+17|50751|Mound City|Mound City city
+17|50777|Mounds|Mounds city
+17|50790|Mound Station|Mound Station village
+17|50829|Mount Auburn|Mount Auburn village
+17|50868|Mount Carmel|Mount Carmel city
+17|50881|Mount Carroll|Mount Carroll city
+17|50920|Mount Clare|Mount Clare village
+17|50933|Mount Erie|Mount Erie village
+17|50998|Mount Morris|Mount Morris village
+17|51024|Mount Olive|Mount Olive city
+17|51089|Mount Prospect|Mount Prospect village
+17|51128|Mount Pulaski|Mount Pulaski city
+17|51154|Mount Sterling|Mount Sterling city
+17|51180|Mount Vernon|Mount Vernon city
+17|51206|Mount Zion|Mount Zion village
+17|51232|Moweaqua|Moweaqua village
+17|51271|Muddy|Muddy village
+17|51284|Mulberry Grove|Mulberry Grove village
+17|51336|Muncie|Muncie village
+17|51349|Mundelein|Mundelein village
+17|51453|Murphysboro|Murphysboro city
+17|51479|Murrayville|Murrayville village
+17|51622|Naperville|Naperville city
+17|51648|Naplate|Naplate village
+17|51661|Naples|Naples town
+17|51700|Nashville|Nashville city
+17|51726|Nason|Nason city
+17|51791|Nauvoo|Nauvoo city
+17|51882|Nebo|Nebo village
+17|51947|Nelson|Nelson village
+17|51986|Neoga|Neoga city
+17|51999|Neponset|Neponset village
+17|52103|Newark|Newark village
+17|52116|New Athens|New Athens village
+17|52142|New Baden|New Baden village
+17|52155|New Bedford|New Bedford village
+17|52168|New Berlin|New Berlin village
+17|52220|New Boston|New Boston city
+17|52285|New Burnside|New Burnside village
+17|52311|New Canton|New Canton town
+17|52415|New Douglas|New Douglas village
+17|52467|New Grand Chain|New Grand Chain village
+17|52506|New Haven|New Haven village
+17|52545|New Holland|New Holland village
+17|52584|New Lenox|New Lenox village
+17|52623|Newman|Newman city
+17|52701|New Milford|New Milford village
+17|52714|New Minden|New Minden village
+17|52805|New Salem|New Salem village
+17|52844|Newton|Newton city
+17|52961|Niantic|Niantic village
+17|53000|Niles|Niles village
+17|53039|Nilwood|Nilwood town
+17|53143|Noble|Noble village
+17|53169|Nokomis|Nokomis city
+17|53195|Nora|Nora village
+17|53234|Normal|Normal town
+17|53377|Norridge|Norridge village
+17|53390|Norris|Norris village
+17|53403|Norris City|Norris City village
+17|53442|North Aurora|North Aurora village
+17|53455|North Barrington|North Barrington village
+17|53481|Northbrook|Northbrook village
+17|53559|North Chicago|North Chicago city
+17|53585|North City|North City village
+17|53663|Northfield|Northfield village
+17|53793|North Henderson|North Henderson village
+17|53871|Northlake|Northlake city
+17|54092|North Pekin|North Pekin village
+17|54144|North Riverside|North Riverside village
+17|54222|North Utica|North Utica village
+17|54404|Norwood|Norwood village
+17|54534|Oak Brook|Oak Brook village
+17|54560|Oakbrook Terrace|Oakbrook Terrace city
+17|54586|Oakdale|Oakdale village
+17|54625|Oakford|Oakford village
+17|54638|Oak Forest|Oak Forest city
+17|54703|Oak Grove|Oak Grove village
+17|54781|Oakland|Oakland city
+17|54820|Oak Lawn|Oak Lawn village
+17|54885|Oak Park|Oak Park village
+17|55002|Oakwood|Oakwood village
+17|55041|Oakwood Hills|Oakwood Hills village
+17|55106|Oblong|Oblong village
+17|55132|Oconee|Oconee village
+17|55171|Odell|Odell village
+17|55210|Odin|Odin village
+17|55249|O'Fallon|O'Fallon city
+17|55275|Ogden|Ogden village
+17|55353|Oglesby|Oglesby city
+17|55379|Ohio|Ohio village
+17|55418|Ohlman|Ohlman village
+17|55470|Okawville|Okawville village
+17|55639|Old Mill Creek|Old Mill Creek village
+17|55717|Old Ripley|Old Ripley village
+17|55756|Old Shawneetown|Old Shawneetown village
+17|55899|Olmsted|Olmsted village
+17|55912|Olney|Olney city
+17|55938|Olympia Fields|Olympia Fields village
+17|56003|Omaha|Omaha village
+17|56081|Onarga|Onarga village
+17|56159|Oneida|Oneida city
+17|56237|Oquawka|Oquawka village
+17|56341|Orangeville|Orangeville village
+17|56471|Oreana|Oreana village
+17|56484|Oregon|Oregon city
+17|56536|Orient|Orient city
+17|56601|Orion|Orion village
+17|56627|Orland Hills|Orland Hills village
+17|56640|Orland Park|Orland Park village
+17|56887|Oswego|Oswego village
+17|56926|Ottawa|Ottawa city
+17|56978|Otterville|Otterville town
+17|57043|Owaneco|Owaneco village
+17|57225|Palatine|Palatine village
+17|57277|Palestine|Palestine village
+17|57303|Palmer|Palmer village
+17|57329|Palmyra|Palmyra village
+17|57381|Palos Heights|Palos Heights city
+17|57394|Palos Hills|Palos Hills city
+17|57407|Palos Park|Palos Park village
+17|57472|Pana|Pana city
+17|57498|Panama|Panama village
+17|57524|Panola|Panola village
+17|57576|Papineau|Papineau village
+17|57628|Paris|Paris city
+17|57654|Park City|Park City city
+17|57693|Parkersburg|Parkersburg village
+17|57732|Park Forest|Park Forest village
+17|57875|Park Ridge|Park Ridge city
+17|58057|Patoka|Patoka village
+17|58174|Pawnee|Pawnee village
+17|58226|Paw Paw|Paw Paw village
+17|58239|Paxton|Paxton city
+17|58265|Payson|Payson village
+17|58343|Pearl|Pearl village
+17|58369|Pearl City|Pearl City village
+17|58408|Pecatonica|Pecatonica village
+17|58447|Pekin|Pekin city
+17|59000|Peoria|Peoria city
+17|59026|Peoria Heights|Peoria Heights village
+17|59052|Peotone|Peotone village
+17|59104|Percy|Percy village
+17|59156|Perry|Perry village
+17|59234|Peru|Peru city
+17|59273|Pesotum|Pesotum village
+17|59312|Petersburg|Petersburg city
+17|59520|Phillipstown|Phillipstown village
+17|59533|Philo|Philo village
+17|59572|Phoenix|Phoenix village
+17|59709|Pierron|Pierron village
+17|59884|Pinckneyville|Pinckneyville city
+17|59988|Pingree Grove|Pingree Grove village
+17|60079|Piper City|Piper City village
+17|60209|Pittsburg|Pittsburg village
+17|60222|Pittsfield|Pittsfield city
+17|60287|Plainfield|Plainfield village
+17|60339|Plainville|Plainville village
+17|60352|Plano|Plano city
+17|60391|Plattville|Plattville village
+17|60534|Pleasant Hill|Pleasant Hill village
+17|60599|Pleasant Plains|Pleasant Plains village
+17|60833|Plymouth|Plymouth village
+17|60872|Pocahontas|Pocahontas village
+17|60937|Polo|Polo city
+17|61015|Pontiac|Pontiac city
+17|61067|Pontoon Beach|Pontoon Beach village
+17|61080|Pontoosuc|Pontoosuc village
+17|61145|Poplar Grove|Poplar Grove village
+17|61216|Port Barrington|Port Barrington village
+17|61223|Port Byron|Port Byron village
+17|61314|Posen|Posen village
+17|61366|Potomac|Potomac village
+17|61548|Prairie City|Prairie City village
+17|61639|Prairie du Rocher|Prairie du Rocher village
+17|61678|Prairie Grove|Prairie Grove village
+17|61899|Princeton|Princeton city
+17|61925|Princeville|Princeville village
+17|61977|Prophetstown|Prophetstown city
+17|62016|Prospect Heights|Prospect Heights city
+17|62211|Pulaski|Pulaski village
+17|62367|Quincy|Quincy city
+17|62523|Radom|Radom village
+17|62588|Raleigh|Raleigh village
+17|62627|Ramsey|Ramsey village
+17|62744|Rankin|Rankin village
+17|62757|Ransom|Ransom village
+17|62783|Rantoul|Rantoul village
+17|62822|Rapids City|Rapids City village
+17|62848|Raritan|Raritan village
+17|62965|Raymond|Raymond village
+17|63043|Red Bud|Red Bud city
+17|63056|Reddick|Reddick village
+17|63069|Redmon|Redmon village
+17|63420|Reynolds|Reynolds village
+17|63641|Richmond|Richmond village
+17|63706|Richton Park|Richton Park village
+17|63719|Richview|Richview village
+17|63862|Ridge Farm|Ridge Farm village
+17|64018|Ridgway|Ridgway village
+17|64044|Ridott|Ridott village
+17|64135|Ringwood|Ringwood village
+17|64148|Rio|Rio village
+17|64174|Ripley|Ripley village
+17|64278|Riverdale|Riverdale village
+17|64304|River Forest|River Forest village
+17|64343|River Grove|River Grove village
+17|64421|Riverside|Riverside village
+17|64486|Riverton|Riverton village
+17|64538|Riverwoods|Riverwoods village
+17|64590|Roanoke|Roanoke village
+17|64616|Robbins|Robbins village
+17|64655|Roberts|Roberts village
+17|64707|Robinson|Robinson city
+17|64746|Rochelle|Rochelle city
+17|64759|Rochester|Rochester village
+17|64811|Rockbridge|Rockbridge village
+17|64837|Rock City|Rock City village
+17|64902|Rockdale|Rockdale village
+17|64928|Rock Falls|Rock Falls city
+17|65000|Rockford|Rockford city
+17|65078|Rock Island|Rock Island city
+17|65156|Rockton|Rockton village
+17|65221|Rockwood|Rockwood village
+17|65338|Rolling Meadows|Rolling Meadows city
+17|65442|Romeoville|Romeoville village
+17|65481|Roodhouse|Roodhouse city
+17|65611|Roscoe|Roscoe village
+17|65754|Rose Hill|Rose Hill village
+17|65806|Roselle|Roselle village
+17|65819|Rosemont|Rosemont village
+17|65845|Roseville|Roseville village
+17|65897|Rosiclare|Rosiclare city
+17|65962|Rossville|Rossville village
+17|66027|Round Lake|Round Lake village
+17|66040|Round Lake Beach|Round Lake Beach village
+17|66053|Round Lake Heights|Round Lake Heights village
+17|66066|Round Lake Park|Round Lake Park village
+17|66131|Roxana|Roxana village
+17|66157|Royal|Royal village
+17|66196|Royal Lakes|Royal Lakes village
+17|66209|Royalton|Royalton village
+17|66287|Ruma|Ruma village
+17|66339|Rushville|Rushville city
+17|66404|Russellville|Russellville village
+17|66443|Rutland|Rutland village
+17|66534|Sadorus|Sadorus village
+17|66599|Sailor Springs|Sailor Springs village
+17|66638|St. Anne|St. Anne village
+17|66677|St. Augustine|St. Augustine village
+17|66703|St. Charles|St. Charles city
+17|66768|St. David|St. David village
+17|66794|St. Elmo|St. Elmo city
+17|66800|Ste. Marie|Ste. Marie village
+17|66833|St. Francisville|St. Francisville city
+17|66859|St. Jacob|St. Jacob village
+17|66924|St. Johns|St. Johns village
+17|66950|St. Joseph|St. Joseph village
+17|66989|St. Libory|St. Libory village
+17|67132|St. Peter|St. Peter village
+17|67236|Salem|Salem city
+17|67372|Sammons Point|Sammons Point village
+17|67444|Sandoval|Sandoval village
+17|67548|Sandwich|Sandwich city
+17|67613|San Jose|San Jose village
+17|67756|Sauget|Sauget village
+17|67769|Sauk Village|Sauk Village village
+17|67795|Saunemin|Saunemin village
+17|67821|Savanna|Savanna city
+17|67860|Savoy|Savoy village
+17|67873|Sawyerville|Sawyerville village
+17|67912|Saybrook|Saybrook village
+17|67925|Scales Mound|Scales Mound village
+17|68003|Schaumburg|Schaumburg village
+17|68081|Schiller Park|Schiller Park village
+17|68120|Schram City|Schram City village
+17|68198|Sciota|Sciota village
+17|68406|Scottville|Scottville village
+17|68458|Seaton|Seaton village
+17|68471|Seatonville|Seatonville village
+17|68510|Secor|Secor village
+17|68640|Seneca|Seneca village
+17|68705|Sesser|Sesser city
+17|68822|Shabbona|Shabbona village
+17|68991|Shannon|Shannon village
+17|69082|Shawneetown|Shawneetown city
+17|69147|Sheffield|Sheffield village
+17|69186|Shelbyville|Shelbyville city
+17|69212|Sheldon|Sheldon village
+17|69277|Sheridan|Sheridan village
+17|69342|Sherman|Sherman village
+17|69368|Sherrard|Sherrard village
+17|69524|Shiloh|Shiloh village
+17|69563|Shipman|Shipman town
+17|69758|Shorewood|Shorewood village
+17|69797|Shumway|Shumway village
+17|69810|Sibley|Sibley village
+17|69836|Sidell|Sidell village
+17|69875|Sidney|Sidney village
+17|69914|Sigel|Sigel town
+17|69979|Silvis|Silvis city
+17|70005|Simpson|Simpson village
+17|70031|Sims|Sims village
+17|70122|Skokie|Skokie village
+17|70161|Sleepy Hollow|Sleepy Hollow village
+17|70213|Smithboro|Smithboro village
+17|70226|Smithfield|Smithfield village
+17|70252|Smithton|Smithton village
+17|70460|Somonauk|Somonauk village
+17|70525|Sorento|Sorento village
+17|70564|South Barrington|South Barrington village
+17|70590|South Beloit|South Beloit city
+17|70629|South Chicago Heights|South Chicago Heights village
+17|70720|South Elgin|South Elgin village
+17|70759|Southern View|Southern View village
+17|70850|South Holland|South Holland village
+17|70889|South Jacksonville|South Jacksonville village
+17|71175|South Pekin|South Pekin village
+17|71240|South Roxana|South Roxana village
+17|71370|South Wilmington|South Wilmington village
+17|71422|Sparland|Sparland village
+17|71448|Sparta|Sparta city
+17|71474|Spaulding|Spaulding village
+17|71526|Spillertown|Spillertown village
+17|71604|Spring Bay|Spring Bay village
+17|71643|Springerton|Springerton village
+17|72000|Springfield|Springfield city
+17|72052|Spring Grove|Spring Grove village
+17|72156|Spring Valley|Spring Valley city
+17|72221|Standard|Standard village
+17|72234|Standard City|Standard City village
+17|72260|Stanford|Stanford village
+17|72403|Staunton|Staunton city
+17|72468|Steeleville|Steeleville village
+17|72520|Steger|Steger village
+17|72546|Sterling|Sterling city
+17|72624|Steward|Steward village
+17|72650|Stewardson|Stewardson village
+17|72676|Stickney|Stickney village
+17|72702|Stillman Valley|Stillman Valley village
+17|72780|Stockton|Stockton village
+17|72884|Stonefort|Stonefort village
+17|72923|Stone Park|Stone Park village
+17|72949|Stonington|Stonington village
+17|73027|Stoy|Stoy village
+17|73040|Strasburg|Strasburg village
+17|73131|Strawn|Strawn village
+17|73157|Streamwood|Streamwood village
+17|73170|Streator|Streator city
+17|73261|Stronghurst|Stronghurst village
+17|73287|Sublette|Sublette village
+17|73391|Sugar Grove|Sugar Grove village
+17|73495|Sullivan|Sullivan city
+17|73547|Summerfield|Summerfield village
+17|73638|Summit|Summit village
+17|73703|Sumner|Sumner city
+17|73943|Sun River Terrace|Sun River Terrace village
+17|74119|Swansea|Swansea village
+17|74223|Sycamore|Sycamore city
+17|74275|Symerton|Symerton village
+17|74301|Table Grove|Table Grove village
+17|74379|Tallula|Tallula village
+17|74444|Tamaroa|Tamaroa village
+17|74457|Tamms|Tamms village
+17|74470|Tampico|Tampico village
+17|74561|Taylor Springs|Taylor Springs village
+17|74574|Taylorville|Taylorville city
+17|74665|Tennessee|Tennessee village
+17|74743|Teutopolis|Teutopolis village
+17|74847|Thawville|Thawville village
+17|74860|Thayer|Thayer village
+17|74873|Thebes|Thebes village
+17|75081|Third Lake|Third Lake village
+17|75107|Thomasboro|Thomasboro village
+17|75159|Thompsonville|Thompsonville village
+17|75172|Thomson|Thomson village
+17|75185|Thornton|Thornton village
+17|75263|Tilden|Tilden village
+17|75276|Tilton|Tilton village
+17|75360|Timberlane|Timberlane village
+17|75419|Time|Time village
+17|75484|Tinley Park|Tinley Park village
+17|75549|Tiskilwa|Tiskilwa village
+17|75601|Toledo|Toledo village
+17|75614|Tolono|Tolono village
+17|75653|Toluca|Toluca city
+17|75718|Tonica|Tonica village
+17|75757|Topeka|Topeka village
+17|75783|Toulon|Toulon city
+17|75809|Tovey|Tovey village
+17|75822|Towanda|Towanda village
+17|75848|Tower Hill|Tower Hill village
+17|75874|Tower Lakes|Tower Lakes village
+17|75965|Tremont|Tremont village
+17|75991|Trenton|Trenton city
+17|76160|Trout Valley|Trout Valley village
+17|76199|Troy|Troy city
+17|76225|Troy Grove|Troy Grove village
+17|76407|Tuscola|Tuscola city
+17|76615|Ullin|Ullin village
+17|76706|Union|Union village
+17|76771|Union Hill|Union Hill village
+17|76935|University Park|University Park village
+17|77005|Urbana|Urbana city
+17|77044|Ursa|Ursa village
+17|77148|Valier|Valier village
+17|77187|Valley City|Valley City village
+17|77265|Valmeyer|Valmeyer village
+17|77317|Vandalia|Vandalia city
+17|77395|Varna|Varna village
+17|77408|Venedy|Venedy village
+17|77473|Venice|Venice city
+17|77525|Vergennes|Vergennes village
+17|77551|Vermilion|Vermilion village
+17|77642|Vermont|Vermont village
+17|77681|Vernon|Vernon village
+17|77694|Vernon Hills|Vernon Hills village
+17|77707|Verona|Verona village
+17|77720|Versailles|Versailles village
+17|77811|Victoria|Victoria village
+17|77863|Vienna|Vienna city
+17|77941|Villa Grove|Villa Grove city
+17|77993|Villa Park|Villa Park village
+17|78123|Viola|Viola village
+17|78149|Virden|Virden city
+17|78175|Virgil|Virgil village
+17|78201|Virginia|Virginia city
+17|78227|Volo|Volo village
+17|78370|Wadsworth|Wadsworth village
+17|78383|Waggoner|Waggoner village
+17|78526|Walnut|Walnut village
+17|78604|Walnut Hill|Walnut Hill village
+17|78656|Walshville|Walshville village
+17|78708|Waltonville|Waltonville village
+17|78721|Wamac|Wamac city
+17|78773|Wapella|Wapella village
+17|78851|Warren|Warren village
+17|78916|Warrensburg|Warrensburg village
+17|78929|Warrenville|Warrenville city
+17|78942|Warsaw|Warsaw city
+17|79007|Washburn|Washburn village
+17|79033|Washington|Washington city
+17|79085|Washington Park|Washington Park village
+17|79124|Wataga|Wataga village
+17|79150|Waterloo|Waterloo city
+17|79163|Waterman|Waterman village
+17|79228|Watseka|Watseka city
+17|79241|Watson|Watson village
+17|79267|Wauconda|Wauconda village
+17|79293|Waukegan|Waukegan city
+17|79358|Waverly|Waverly city
+17|79397|Wayne|Wayne village
+17|79436|Wayne City|Wayne City village
+17|79449|Waynesville|Waynesville village
+17|79683|Weldon|Weldon village
+17|79735|Wellington|Wellington village
+17|79813|Wenona|Wenona city
+17|79826|Wenonah|Wenonah village
+17|80008|West Brooklyn|West Brooklyn village
+17|80047|Westchester|Westchester village
+17|80060|West Chicago|West Chicago city
+17|80073|West City|West City village
+17|80125|West Dundee|West Dundee village
+17|80242|Western Springs|Western Springs village
+17|80281|Westfield|Westfield village
+17|80333|West Frankfort|West Frankfort city
+17|80645|Westmont|Westmont village
+17|80736|West Peoria|West Peoria city
+17|80762|West Point|West Point village
+17|80853|West Salem|West Salem village
+17|80931|Westville|Westville village
+17|81048|Wheaton|Wheaton city
+17|81074|Wheeler|Wheeler village
+17|81087|Wheeling|Wheeling village
+17|81165|Whiteash|Whiteash village
+17|81191|White City|White City village
+17|81256|White Hall|White Hall city
+17|81802|Williamsfield|Williamsfield village
+17|81815|Williamson|Williamson village
+17|81854|Williamsville|Williamsville village
+17|81867|Willisville|Willisville village
+17|81919|Willowbrook|Willowbrook village
+17|82010|Willow Hill|Willow Hill village
+17|82049|Willow Springs|Willow Springs village
+17|82075|Wilmette|Wilmette village
+17|82088|Wilmington|Wilmington village
+17|82101|Wilmington|Wilmington city
+17|82218|Wilsonville|Wilsonville village
+17|82270|Winchester|Winchester city
+17|82309|Windsor|Windsor village
+17|82322|Windsor|Windsor city
+17|82400|Winfield|Winfield village
+17|82491|Winnebago|Winnebago village
+17|82530|Winnetka|Winnetka village
+17|82543|Winslow|Winslow village
+17|82686|Winthrop Harbor|Winthrop Harbor village
+17|82725|Witt|Witt city
+17|82855|Wonder Lake|Wonder Lake village
+17|82985|Wood Dale|Wood Dale city
+17|83063|Woodhull|Woodhull village
+17|83102|Woodland|Woodland village
+17|83206|Woodlawn|Woodlawn village
+17|83245|Woodridge|Woodridge village
+17|83271|Wood River|Wood River city
+17|83336|Woodson|Woodson village
+17|83349|Woodstock|Woodstock city
+17|83505|Worden|Worden village
+17|83518|Worth|Worth village
+17|83622|Wyanet|Wyanet village
+17|83687|Wyoming|Wyoming city
+17|83739|Xenia|Xenia village
+17|83765|Yale|Yale village
+17|83817|Yates City|Yates City village
+17|84038|Yorkville|Yorkville city
+17|84155|Zeigler|Zeigler city
+17|84220|Zion|Zion city

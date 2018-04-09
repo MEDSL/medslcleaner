@@ -1,0 +1,348 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+53|00135|Aberdeen Gardens|Aberdeen Gardens CDP
+53|00275|Acme|Acme CDP
+53|00380|Addy|Addy CDP
+53|00800|Ahtanum|Ahtanum CDP
+53|01045|Alder|Alder CDP
+53|01150|Alderton|Alderton CDP
+53|01185|Alderwood Manor|Alderwood Manor CDP
+53|01255|Alger|Alger CDP
+53|01430|Allyn|Allyn CDP
+53|01745|Altoona|Altoona CDP
+53|01780|Amanda Park|Amanda Park CDP
+53|01850|Amboy|Amboy CDP
+53|01920|Ames Lake|Ames Lake CDP
+53|02060|Anderson Island|Anderson Island CDP
+53|02620|Arlington Heights|Arlington Heights CDP
+53|02910|Artondale|Artondale CDP
+53|03005|Ashford|Ashford CDP
+53|04100|Bangor Base|Bangor Base CDP
+53|04125|Banks Lake South|Banks Lake South CDP
+53|04195|Barberton|Barberton CDP
+53|04300|Baring|Baring CDP
+53|04347|Barney's Junction|Barney's Junction CDP
+53|04370|Barstow|Barstow CDP
+53|04405|Basin City|Basin City CDP
+53|04615|Bay Center|Bay Center CDP
+53|04790|Bay View|Bay View CDP
+53|05140|Belfair|Belfair CDP
+53|05245|Bell Hill|Bell Hill CDP
+53|05735|Bethel|Bethel CDP
+53|05980|Bickleton|Bickleton CDP
+53|06050|Big Lake|Big Lake CDP
+53|06190|Birch Bay|Birch Bay CDP
+53|06855|Blyn|Blyn CDP
+53|07390|Bothell East|Bothell East CDP
+53|07395|Bothell West|Bothell West CDP
+53|07397|Boulevard Park|Boulevard Park CDP
+53|07485|Boyds|Boyds CDP
+53|07590|Brady|Brady CDP
+53|08080|Brinnon|Brinnon CDP
+53|08335|Browns Point|Browns Point CDP
+53|08465|Brush Prairie|Brush Prairie CDP
+53|08500|Bryant|Bryant CDP
+53|08552|Bryn Mawr-Skyway|Bryn Mawr-Skyway CDP
+53|08640|Buena|Buena CDP
+53|08770|Bunk Foss|Bunk Foss CDP
+53|08780|Burbank|Burbank CDP
+53|08885|Burley|Burley CDP
+53|09810|Canterwood|Canterwood CDP
+53|09820|Canyon Creek|Canyon Creek CDP
+53|10075|Carlsborg|Carlsborg CDP
+53|10320|Carson|Carson CDP
+53|10455|Cascade Valley|Cascade Valley CDP
+53|10600|Cathcart|Cathcart CDP
+53|10645|Cavalero|Cavalero CDP
+53|11090|Centerville|Centerville CDP
+53|11195|Central Park|Central Park CDP
+53|11325|Chain Lake|Chain Lake CDP
+53|11685|Chelan Falls|Chelan Falls CDP
+53|12015|Cherry Grove|Cherry Grove CDP
+53|12175|Chico|Chico CDP
+53|12315|Chinook|Chinook CDP
+53|12525|Clallam Bay|Clallam Bay CDP
+53|12680|Clarkston Heights-Vineland|Clarkston Heights-Vineland CDP
+53|12735|Clayton|Clayton CDP
+53|12820|Clear Lake|Clear Lake CDP
+53|12840|Clear Lake|Clear Lake CDP
+53|12875|Clearview|Clearview CDP
+53|13015|Cliffdell|Cliffdell CDP
+53|13155|Clinton|Clinton CDP
+53|13215|Clover Creek|Clover Creek CDP
+53|13595|Cohassett Beach|Cohassett Beach CDP
+53|14520|Conway|Conway CDP
+53|14660|Copalis Beach|Copalis Beach CDP
+53|14940|Cottage Lake|Cottage Lake CDP
+53|15150|Country Homes|Country Homes CDP
+53|15325|Cowiche|Cowiche CDP
+53|15780|Crocker|Crocker CDP
+53|16165|Curlew|Curlew CDP
+53|16170|Curlew Lake|Curlew Lake CDP
+53|16375|Custer|Custer CDP
+53|16550|Dallesport|Dallesport CDP
+53|16585|Danville|Danville CDP
+53|16760|Dash Point|Dash Point CDP
+53|17215|Deep River|Deep River CDP
+53|17495|Deming|Deming CDP
+53|17617|Desert Aire|Desert Aire CDP
+53|17880|Disautel|Disautel CDP
+53|18055|Dixie|Dixie CDP
+53|18195|Dollars Corner|Dollars Corner CDP
+53|18265|Donald|Donald CDP
+53|18775|Duluth|Duluth CDP
+53|19290|East Cathlamet|East Cathlamet CDP
+53|19420|Eastgate|Eastgate CDP
+53|19515|East Hill-Meridian|East Hill-Meridian CDP
+53|19630|Eastmont|Eastmont CDP
+53|19700|Easton|Easton CDP
+53|19770|East Port Orchard|East Port Orchard CDP
+53|19857|East Renton Highlands|East Renton Highlands CDP
+53|20680|Edison|Edison CDP
+53|20890|Elbe|Elbe CDP
+53|21205|Elk Plain|Elk Plain CDP
+53|21800|Enetai|Enetai CDP
+53|22118|Erlands Point-Kitsap Lake|Erlands Point-Kitsap Lake CDP
+53|22150|Eschbach|Eschbach CDP
+53|22255|Esperance|Esperance CDP
+53|22955|Fairchild AFB|Fairchild AFB CDP
+53|23160|Fairwood|Fairwood CDP
+53|23165|Fairwood|Fairwood CDP
+53|23200|Fall City|Fall City CDP
+53|23550|Felida|Felida CDP
+53|23690|Fern Prairie|Fern Prairie CDP
+53|23830|Fife Heights|Fife Heights CDP
+53|23865|Finley|Finley CDP
+53|24188|Five Corners|Five Corners CDP
+53|24425|Fobes Hill|Fobes Hill CDP
+53|24565|Fords Prairie|Fords Prairie CDP
+53|24915|Fort Lewis|Fort Lewis CDP
+53|25300|Four Lakes|Four Lakes CDP
+53|25370|Fox Island|Fox Island CDP
+53|25475|Frederickson|Frederickson CDP
+53|25510|Freeland|Freeland CDP
+53|26245|Garrett|Garrett CDP
+53|26420|Geneva|Geneva CDP
+53|26875|Glacier|Glacier CDP
+53|26945|Gleed|Gleed CDP
+53|27680|Gorst|Gorst CDP
+53|27785|Graham|Graham CDP
+53|27890|Grand Mound|Grand Mound CDP
+53|28135|Grapeview|Grapeview CDP
+53|28345|Grayland|Grayland CDP
+53|28450|Grays River|Grays River CDP
+53|28590|Green Bluff|Green Bluff CDP
+53|28695|Greenwater|Greenwater CDP
+53|29430|Hansville|Hansville CDP
+53|30030|Hat Island|Hat Island CDP
+53|30305|Hazel Dell|Hazel Dell CDP
+53|30690|Herron Island|Herron Island CDP
+53|30750|High Bridge|High Bridge CDP
+53|31495|Hobart|Hobart CDP
+53|31530|Hockinson|Hockinson CDP
+53|31540|Hogans Corner|Hogans Corner CDP
+53|31985|Home|Home CDP
+53|32125|Hoodsport|Hoodsport CDP
+53|32650|Humptulips|Humptulips CDP
+53|33105|Inchelium|Inchelium CDP
+53|33280|Indianola|Indianola CDP
+53|33380|Inglewood-Finn Hill|Inglewood-Finn Hill CDP
+53|33890|Jamestown|Jamestown CDP
+53|34470|Junction City|Junction City CDP
+53|34890|Kapowsin|Kapowsin CDP
+53|34960|Keller|Keller CDP
+53|35135|Kendall|Kendall CDP
+53|35450|Ketron Island|Ketron Island CDP
+53|35555|Key Center|Key Center CDP
+53|35625|Keyport|Keyport CDP
+53|35835|Kingsgate|Kingsgate CDP
+53|35870|Kingston|Kingston CDP
+53|36100|Klahanie|Klahanie CDP
+53|36115|Klickitat|Klickitat CDP
+53|36920|La Grande|La Grande CDP
+53|37077|Lake Bosworth|Lake Bosworth CDP
+53|37100|Lake Cassidy|Lake Cassidy CDP
+53|37105|Lake Cavanaugh|Lake Cavanaugh CDP
+53|37345|Lake Holm|Lake Holm CDP
+53|37415|Lake Ketchum|Lake Ketchum CDP
+53|37420|Lakeland North|Lakeland North CDP
+53|37430|Lakeland South|Lakeland South CDP
+53|37526|Lake McMurray|Lake McMurray CDP
+53|37538|Lake Marcel-Stillwater|Lake Marcel-Stillwater CDP
+53|37567|Lake Morton-Berrydale|Lake Morton-Berrydale CDP
+53|37672|Lake Roesiger|Lake Roesiger CDP
+53|37830|Lake Shore|Lake Shore CDP
+53|37917|Lake Stickney|Lake Stickney CDP
+53|37920|Lake Tapps|Lake Tapps CDP
+53|37926|Lakeview|Lakeview CDP
+53|38420|Larch Way|Larch Way CDP
+53|38705|Laurier|Laurier CDP
+53|38880|Lebam|Lebam CDP
+53|39212|Lewisville|Lewisville CDP
+53|39860|Lochsloy|Lochsloy CDP
+53|39930|Lofall|Lofall CDP
+53|40105|Longbranch|Longbranch CDP
+53|40270|Longview Heights|Longview Heights CDP
+53|40350|Loomis|Loomis CDP
+53|40385|Loon Lake|Loon Lake CDP
+53|40570|Lower Elochoman|Lower Elochoman CDP
+53|40735|Lyle|Lyle CDP
+53|41155|McChord AFB|McChord AFB CDP
+53|41470|Machias|Machias CDP
+53|41645|McKenna|McKenna CDP
+53|41785|McMillin|McMillin CDP
+53|42310|Malo|Malo CDP
+53|42345|Malone|Malone CDP
+53|42380|Malott|Malott CDP
+53|42415|Maltby|Maltby CDP
+53|42450|Manchester|Manchester CDP
+53|42835|Manson|Manson CDP
+53|43010|Maple Falls|Maple Falls CDP
+53|43062|Maple Heights-Lake Desire|Maple Heights-Lake Desire CDP
+53|43255|Maplewood|Maplewood CDP
+53|43325|Marblemount|Marblemount CDP
+53|43491|Marietta-Alderwood|Marietta-Alderwood CDP
+53|43640|Markham|Markham CDP
+53|43762|Marrowstone|Marrowstone CDP
+53|43815|Martha Lake|Martha Lake CDP
+53|43885|Maryhill|Maryhill CDP
+53|44260|May Creek|May Creek CDP
+53|44480|Mead|Mead CDP
+53|44585|Meadowdale|Meadowdale CDP
+53|44620|Meadow Glade|Meadow Glade CDP
+53|45355|Methow|Methow CDP
+53|45495|Midland|Midland CDP
+53|45870|Mill Creek East|Mill Creek East CDP
+53|46090|Mineral|Mineral CDP
+53|46125|Minnehaha|Minnehaha CDP
+53|46215|Mirrormont|Mirrormont CDP
+53|46405|Moclips|Moclips CDP
+53|46725|Monroe North|Monroe North CDP
+53|47280|Moses Lake North|Moses Lake North CDP
+53|47630|Mount Vista|Mount Vista CDP
+53|48015|Naselle|Naselle CDP
+53|48225|Navy Yard City|Navy Yard City CDP
+53|48295|Neah Bay|Neah Bay CDP
+53|48330|Neilton|Neilton CDP
+53|48550|Nespelem Community|Nespelem Community CDP
+53|49030|Nile|Nile CDP
+53|49193|Nisqually Indian Community|Nisqually Indian Community CDP
+53|49765|North Fort Lewis|North Fort Lewis CDP
+53|49940|North Lynnwood|North Lynnwood CDP
+53|49992|North Marysville|North Marysville CDP
+53|50007|North Omak|North Omak CDP
+53|50115|North Puyallup|North Puyallup CDP
+53|50183|North Sultan|North Sultan CDP
+53|50195|Northwest Stanwood|Northwest Stanwood CDP
+53|50210|North Yelm|North Yelm CDP
+53|50500|Ocean City|Ocean City CDP
+53|50535|Ocean Park|Ocean Park CDP
+53|51410|Onalaska|Onalaska CDP
+53|51795|Orchards|Orchards CDP
+53|51830|Orient|Orient CDP
+53|52110|Oso|Oso CDP
+53|52267|Otis Orchards-East Farms|Otis Orchards-East Farms CDP
+53|52285|Outlook|Outlook CDP
+53|52378|Oyehut|Oyehut CDP
+53|52530|Pacific Beach|Pacific Beach CDP
+53|52600|Packwood|Packwood CDP
+53|53265|Parker|Parker CDP
+53|53335|Parkland|Parkland CDP
+53|53440|Parkwood|Parkwood CDP
+53|53800|Peaceful Valley|Peaceful Valley CDP
+53|54213|Picnic Point|Picnic Point CDP
+53|54405|Pine Grove|Pine Grove CDP
+53|55015|Point Roberts|Point Roberts CDP
+53|55400|Port Angeles East|Port Angeles East CDP
+53|55540|Porter|Porter CDP
+53|55612|Port Gamble Tribal Comunity|Port Gamble Tribal Comunity CDP
+53|55620|Port Hadlock-Irondale|Port Hadlock-Irondale CDP
+53|55645|Port Ludlow|Port Ludlow CDP
+53|56150|Prairie Heights|Prairie Heights CDP
+53|56170|Prairie Ridge|Prairie Ridge CDP
+53|56555|Puget Island|Puget Island CDP
+53|56660|Purdy|Purdy CDP
+53|56905|Queets|Queets CDP
+53|56975|Quilcene|Quilcene CDP
+53|57030|Qui-nai-elt Village|Qui-nai-elt Village CDP
+53|57140|Raft Island|Raft Island CDP
+53|57395|Ravensdale|Ravensdale CDP
+53|58742|Riverbend|Riverbend CDP
+53|58777|River Road|River Road CDP
+53|58865|Riverton|Riverton CDP
+53|59110|Rochester|Rochester CDP
+53|59250|Rockport|Rockport CDP
+53|59390|Rocky Point|Rocky Point CDP
+53|59635|Ronald|Ronald CDP
+53|59705|Roosevelt|Roosevelt CDP
+53|59845|Rosburg|Rosburg CDP
+53|59880|Rosedale|Rosedale CDP
+53|60580|Ryderwood|Ryderwood CDP
+53|61000|Salmon Creek|Salmon Creek CDP
+53|61235|Santiago|Santiago CDP
+53|61350|Satsop|Satsop CDP
+53|62120|Seabeck|Seabeck CDP
+53|63245|Sekiu|Sekiu CDP
+53|63545|Shadow Lake|Shadow Lake CDP
+53|64190|Silvana|Silvana CDP
+53|64365|Silverdale|Silverdale CDP
+53|64380|Silver Firs|Silver Firs CDP
+53|64610|Sisco Heights|Sisco Heights CDP
+53|64755|Skamokawa Valley|Skamokawa Valley CDP
+53|64775|Skokomish|Skokomish CDP
+53|65275|Snoqualmie Pass|Snoqualmie Pass CDP
+53|65810|South Creek|South Creek CDP
+53|65922|South Hill|South Hill CDP
+53|66185|South Wenatchee|South Wenatchee CDP
+53|66220|Southworth|Southworth CDP
+53|66255|Spanaway|Spanaway CDP
+53|67435|Stansberry Lake|Stansberry Lake CDP
+53|67595|Startup|Startup CDP
+53|67805|Steptoe|Steptoe CDP
+53|68200|Sudden Valley|Sudden Valley CDP
+53|68365|Summit|Summit CDP
+53|68410|Summit View|Summit View CDP
+53|68417|Summitview|Summitview CDP
+53|68480|Sunday Lake|Sunday Lake CDP
+53|68785|Sunnyslope|Sunnyslope CDP
+53|69170|Suquamish|Suquamish CDP
+53|69280|Swede Heaven|Swede Heaven CDP
+53|70175|Taholah|Taholah CDP
+53|70245|Tampico|Tampico CDP
+53|70280|Tanglewilde|Tanglewilde CDP
+53|70315|Tanner|Tanner CDP
+53|70805|Terrace Heights|Terrace Heights CDP
+53|71225|Thorp|Thorp CDP
+53|71330|Three Lakes|Three Lakes CDP
+53|71680|Tokeland|Tokeland CDP
+53|71995|Torboy|Torboy CDP
+53|72030|Touchet|Touchet CDP
+53|72170|Town and Country|Town and Country CDP
+53|72205|Tracyton|Tracyton CDP
+53|72450|Trout Lake|Trout Lake CDP
+53|73065|Twin Lakes|Twin Lakes CDP
+53|73255|Union|Union CDP
+53|73307|Union Hill-Novelty Hill|Union Hill-Novelty Hill CDP
+53|73580|Upper Elochoman|Upper Elochoman CDP
+53|73885|Valley|Valley CDP
+53|74200|Vantage|Vantage CDP
+53|74305|Vashon|Vashon CDP
+53|74445|Vaughn|Vaughn CDP
+53|74585|Venersborg|Venersborg CDP
+53|74760|Verlot|Verlot CDP
+53|75810|Walla Walla East|Walla Walla East CDP
+53|75905|Waller|Waller CDP
+53|75985|Wallula|Wallula CDP
+53|76055|Walnut Grove|Walnut Grove CDP
+53|76195|Warm Beach|Warm Beach CDP
+53|76615|Wauna|Wauna CDP
+53|77297|West Clarkston-Highland|West Clarkston-Highland CDP
+53|77612|West Pasco|West Pasco CDP
+53|77745|West Side Highway|West Side Highway CDP
+53|78155|Whidbey Island Station|Whidbey Island Station CDP
+53|78225|White Center|White Center CDP
+53|78365|White Swan|White Swan CDP
+53|78780|Wilderness Rim|Wilderness Rim CDP
+53|78995|Willapa|Willapa CDP
+53|79485|Wishram|Wishram CDP
+53|79555|Wollochet|Wollochet CDP
+53|79825|Woods Creek|Woods Creek CDP

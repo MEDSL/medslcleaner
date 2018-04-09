@@ -1,0 +1,42 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+25|020|Berkshire, Hampshire & Franklin|Berkshire, Hampshire & Franklin District
+25|021|First Bristol & Plymouth|First Bristol & Plymouth District
+25|022|Second Bristol & Plymouth|Second Bristol & Plymouth District
+25|023|Cape & Islands|Cape & Islands District
+25|024|First Essex|First Essex District
+25|025|Second Essex|Second Essex District
+25|026|Third Essex & Middlesex|Third Essex & Middlesex District
+25|027|First Essex & Middlesex|First Essex & Middlesex District
+25|028|Second Essex & Middlesex|Second Essex & Middlesex District
+25|029|Hampden|Hampden District
+25|030|First Hampden & Hampshire|First Hampden & Hampshire District
+25|031|Second Hampden & Hampshire|Second Hampden & Hampshire District
+25|032|Hampshire & Franklin|Hampshire & Franklin District
+25|033|First Middlesex|First Middlesex District
+25|034|Second Middlesex|Second Middlesex District
+25|035|Third Middlesex|Third Middlesex District
+25|036|Fourth Middlesex|Fourth Middlesex District
+25|037|Middlesex & Essex|Middlesex & Essex District
+25|038|First Middlesex & Norfolk|First Middlesex & Norfolk District
+25|039|Second Middlesex & Norfolk|Second Middlesex & Norfolk District
+25|040|Second Suffolk & Middlesex|Second Suffolk & Middlesex District
+25|041|Middlesex, Suffolk & Essex|Middlesex, Suffolk & Essex District
+25|042|Middlesex & Worcester|Middlesex & Worcester District
+25|043|Norfolk, Bristol & Middlesex|Norfolk, Bristol & Middlesex District
+25|044|Norfolk, Bristol & Plymouth|Norfolk, Bristol & Plymouth District
+25|045|Norfolk & Plymouth|Norfolk & Plymouth District
+25|046|Bristol & Norfolk|Bristol & Norfolk District
+25|047|Plymouth & Barnstable|Plymouth & Barnstable District
+25|048|First Plymouth & Bristol|First Plymouth & Bristol District
+25|049|Second Plymouth & Bristol|Second Plymouth & Bristol District
+25|050|Plymouth & Norfolk|Plymouth & Norfolk District
+25|051|First Suffolk|First Suffolk District
+25|052|Second Suffolk|Second Suffolk District
+25|053|First Suffolk & Middlesex|First Suffolk & Middlesex District
+25|054|Suffolk & Norfolk|Suffolk & Norfolk District
+25|055|First Worcester|First Worcester District
+25|056|Second Worcester|Second Worcester District
+25|057|Worcester, Hampden, Hampshire & Franklin|Worcester, Hampden, Hampshire & Franklin District
+25|058|Worcester & Middlesex|Worcester & Middlesex District
+25|059|Worcester & Norfolk|Worcester & Norfolk District
+25|ZZZ|State Senate Districts not defined|State Senate Districts not defined

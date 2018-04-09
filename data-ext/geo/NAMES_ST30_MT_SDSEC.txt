@@ -1,0 +1,109 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+30|00095|Lame Deer High School District|Lame Deer High School District
+30|00097|North Star High School District|North Star High School District
+30|00101|Chester-Joplin-Inverness High School District|Chester-Joplin-Inverness High School District
+30|00933|Shields Valley High School District|Shields Valley High School District
+30|01740|Absarokee High School District|Absarokee High School District
+30|02030|Anaconda High School District|Anaconda High School District
+30|02250|Arlee High School District|Arlee High School District
+30|02450|Augusta High School District|Augusta High School District
+30|03090|Beaverhead County High School District|Beaverhead County High School District
+30|03330|Belgrade High School District|Belgrade High School District
+30|03450|Belt High School District|Belt High School District
+30|03750|Big Sandy High School District|Big Sandy High School District
+30|03840|Bigfork High School District|Bigfork High School District
+30|03900|Billings High School District|Billings High School District
+30|04500|Box Elder High School District|Box Elder High School District
+30|04590|Bozeman High School District|Bozeman High School District
+30|04860|Powder River County High School District|Powder River County High School District
+30|04920|Broadview High School District|Broadview High School District
+30|05040|Brockton High School District|Brockton High School District
+30|05190|Browning High School District|Browning High School District
+30|05310|Butte High School District|Butte High School District
+30|05610|Carter County High School District|Carter County High School District
+30|05910|Cascade High School District|Cascade High School District
+30|06115|Charlo High School District|Charlo High School District
+30|06270|Chinook High School District|Chinook High School District
+30|06330|Choteau High School District|Choteau High School District
+30|06810|Circle High School District|Circle High School District
+30|07080|Colstrip High School District|Colstrip High School District
+30|07140|Columbia Falls High School District|Columbia Falls High School District
+30|07200|Columbus High School District|Columbus High School District
+30|07320|Conrad High School District|Conrad High School District
+30|07860|Culbertson High School District|Culbertson High School District
+30|07930|Custer County High School District|Custer County High School District
+30|08190|Cut Bank High School District|Cut Bank High School District
+30|08340|Dawson High School District|Dawson High School District
+30|08850|Denton High School District|Denton High School District
+30|09120|Dodson High School District|Dodson High School District
+30|09210|Drummond High School District|Drummond High School District
+30|10170|Fairfield High School District|Fairfield High School District
+30|10290|Fairview High School District|Fairview High School District
+30|10530|Fergus High School District|Fergus High School District
+30|11190|Forsyth High School District|Forsyth High School District
+30|11260|Fort Benton High School District|Fort Benton High School District
+30|11460|Frazer High School District|Frazer High School District
+30|11580|Froid High School District|Froid High School District
+30|11850|Gardiner High School District|Gardiner High School District
+30|11880|Garfield County High School District|Garfield County High School District
+30|12210|Geraldine High School District|Geraldine High School District
+30|12300|Geyser High School District|Geyser High School District
+30|12990|Grass Range High School District|Grass Range High School District
+30|13050|Great Falls High School District|Great Falls High School District
+30|13340|Hardin High School District|Hardin High School District
+30|13360|Plenty Coups High School District|Plenty Coups High School District
+30|13400|Harlem High School District|Harlem High School District
+30|13470|Harlowton High School District|Harlowton High School District
+30|13590|Havre High School District|Havre High School District
+30|13830|Helena High School District|Helena High School District
+30|14070|Highwood High School District|Highwood High School District
+30|14370|Hinsdale High School District|Hinsdale High School District
+30|14640|Hot Springs High School District|Hot Springs High School District
+30|15120|Jefferson High School District|Jefferson High School District
+30|15260|Joliet High School District|Joliet High School District
+30|15390|Judith Gap High School District|Judith Gap High School District
+30|15420|Flathead High School District|Flathead High School District
+30|16020|Lambert High School District|Lambert High School District
+30|16230|Laurel High School District|Laurel High School District
+30|16770|Lincoln County High School District|Lincoln County High School District
+30|17040|Lodge Grass High School District|Lodge Grass High School District
+30|17640|Manhattan High School District|Manhattan High School District
+30|18270|Melstone High School District|Melstone High School District
+30|18540|Missoula High School District|Missoula High School District
+30|18900|Moore High School District|Moore High School District
+30|19500|Noxon High School District|Noxon High School District
+30|20070|Park City High School District|Park City High School District
+30|20100|Park High School District|Park High School District
+30|20850|Plains High School District|Plains High School District
+30|21090|Polson High School District|Polson High School District
+30|21270|Poplar High School District|Poplar High School District
+30|21450|Powell County High School District|Powell County High School District
+30|21540|Power High School District|Power High School District
+30|21900|Rapelje High School District|Rapelje High School District
+30|22110|Red Lodge High School District|Red Lodge High School District
+30|22260|Reedpoint High School District|Reedpoint High School District
+30|22410|Richey High School District|Richey High School District
+30|22800|Ronan High School District|Ronan High School District
+30|22920|Rosebud High School District|Rosebud High School District
+30|23070|Roundup High School District|Roundup High School District
+30|23400|Saco High School District|Saco High School District
+30|23550|Savage High School District|Savage High School District
+30|23910|Shelby High School District|Shelby High School District
+30|23970|Shepherd High School District|Shepherd High School District
+30|24180|Sheridan High School District|Sheridan High School District
+30|24230|Sidney High School District|Sidney High School District
+30|24330|Simms High School District|Simms High School District
+30|25050|Stevensville High School District|Stevensville High School District
+30|25140|Centerville High School District|Centerville High School District
+30|25560|Sweet Grass County High School District|Sweet Grass County High School District
+30|26100|Thompson Falls High School District|Thompson Falls High School District
+30|26190|Three Forks High School District|Three Forks High School District
+30|26580|Troy High School District|Troy High School District
+30|26670|Turner High School District|Turner High School District
+30|27090|Valier High School District|Valier High School District
+30|27790|Whitefish High School District|Whitefish High School District
+30|27840|Whitehall High School District|Whitehall High School District
+30|28170|Willow Creek High School District|Willow Creek High School District
+30|28620|Wolf Point High School District|Wolf Point High School District
+30|28770|White Sulphur Springs High School District|White Sulphur Springs High School District
+30|28911|Rocky Boy High School District|Rocky Boy High School District

@@ -1,0 +1,948 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+19|00190|Ackley|Ackley city
+19|00235|Ackworth|Ackworth city
+19|00370|Adair|Adair city
+19|00505|Adel|Adel city
+19|00595|Afton|Afton city
+19|00640|Agency|Agency city
+19|00730|Ainsworth|Ainsworth city
+19|00775|Akron|Akron city
+19|00865|Albert City|Albert City city
+19|00910|Albia|Albia city
+19|00955|Albion|Albion city
+19|01000|Alburnett|Alburnett city
+19|01045|Alden|Alden city
+19|01090|Alexander|Alexander city
+19|01135|Algona|Algona city
+19|01180|Alleman|Alleman city
+19|01270|Allerton|Allerton city
+19|01315|Allison|Allison city
+19|01495|Alta|Alta city
+19|01540|Alta Vista|Alta Vista city
+19|01585|Alton|Alton city
+19|01630|Altoona|Altoona city
+19|01675|Alvord|Alvord city
+19|01855|Ames|Ames city
+19|01990|Anamosa|Anamosa city
+19|02080|Andover|Andover city
+19|02125|Andrew|Andrew city
+19|02260|Anita|Anita city
+19|02305|Ankeny|Ankeny city
+19|02350|Anthon|Anthon city
+19|02395|Aplington|Aplington city
+19|02485|Arcadia|Arcadia city
+19|02530|Archer|Archer city
+19|02620|Aredale|Aredale city
+19|02755|Arion|Arion city
+19|02800|Arispe|Arispe city
+19|02845|Arlington|Arlington city
+19|02935|Armstrong|Armstrong city
+19|03025|Arnolds Park|Arnolds Park city
+19|03115|Arthur|Arthur city
+19|03160|Asbury|Asbury city
+19|03295|Ashton|Ashton city
+19|03340|Aspinwall|Aspinwall city
+19|03385|Atalissa|Atalissa city
+19|03475|Atkins|Atkins city
+19|03520|Atlantic|Atlantic city
+19|03610|Auburn|Auburn city
+19|03655|Audubon|Audubon city
+19|03745|Aurelia|Aurelia city
+19|03835|Aurora|Aurora city
+19|03970|Avoca|Avoca city
+19|04105|Ayrshire|Ayrshire city
+19|04195|Badger|Badger city
+19|04240|Bagley|Bagley city
+19|04330|Baldwin|Baldwin city
+19|04375|Balltown|Balltown city
+19|04420|Bancroft|Bancroft city
+19|04510|Bankston|Bankston city
+19|04555|Barnes City|Barnes City city
+19|04645|Barnum|Barnum city
+19|04780|Bassett|Bassett city
+19|04825|Batavia|Batavia city
+19|04870|Battle Creek|Battle Creek city
+19|04915|Baxter|Baxter city
+19|04960|Bayard|Bayard city
+19|05050|Beacon|Beacon city
+19|05095|Beaconsfield|Beaconsfield city
+19|05140|Beaman|Beaman city
+19|05185|Beaver|Beaver city
+19|05365|Bedford|Bedford city
+19|05590|Belle Plaine|Belle Plaine city
+19|05635|Bellevue|Bellevue city
+19|05680|Belmond|Belmond city
+19|05770|Bennett|Bennett city
+19|05905|Benton|Benton city
+19|06040|Berkley|Berkley city
+19|06085|Bernard|Bernard city
+19|06175|Bertram|Bertram city
+19|06355|Bettendorf|Bettendorf city
+19|06490|Bevington|Bevington city
+19|06625|Birmingham|Birmingham city
+19|06760|Blairsburg|Blairsburg city
+19|06805|Blairstown|Blairstown city
+19|06850|Blakesburg|Blakesburg city
+19|06895|Blanchard|Blanchard city
+19|06940|Blencoe|Blencoe city
+19|06985|Blockton|Blockton city
+19|07030|Bloomfield|Bloomfield city
+19|07075|Blue Grass|Blue Grass city
+19|07210|Bode|Bode city
+19|07345|Bonaparte|Bonaparte city
+19|07390|Bondurant|Bondurant city
+19|07480|Boone|Boone city
+19|07660|Bouton|Bouton city
+19|07750|Boxholm|Boxholm city
+19|07840|Boyden|Boyden city
+19|07930|Braddyville|Braddyville city
+19|08065|Bradgate|Bradgate city
+19|08155|Brandon|Brandon city
+19|08200|Brayton|Brayton city
+19|08290|Breda|Breda city
+19|08425|Bridgewater|Bridgewater city
+19|08470|Brighton|Brighton city
+19|08560|Bristow|Bristow city
+19|08605|Britt|Britt city
+19|08650|Bronson|Bronson city
+19|08695|Brooklyn|Brooklyn city
+19|08875|Brunsville|Brunsville city
+19|09100|Buckeye|Buckeye city
+19|09145|Buck Grove|Buck Grove city
+19|09235|Buffalo|Buffalo city
+19|09280|Buffalo Center|Buffalo Center city
+19|09550|Burlington|Burlington city
+19|09685|Burt|Burt city
+19|09730|Bussey|Bussey city
+19|09820|Calamus|Calamus city
+19|09955|Callender|Callender city
+19|10045|Calmar|Calmar city
+19|10090|Calumet|Calumet city
+19|10135|Camanche|Camanche city
+19|10225|Cambridge|Cambridge city
+19|10450|Cantril|Cantril city
+19|10585|Carbon|Carbon city
+19|10765|Carlisle|Carlisle city
+19|11035|Carpenter|Carpenter city
+19|11080|Carroll|Carroll city
+19|11170|Carson|Carson city
+19|11215|Carter Lake|Carter Lake city
+19|11305|Cascade|Cascade city
+19|11395|Casey|Casey city
+19|11485|Castalia|Castalia city
+19|11530|Castana|Castana city
+19|11755|Cedar Falls|Cedar Falls city
+19|12000|Cedar Rapids|Cedar Rapids city
+19|12225|Center Junction|Center Junction city
+19|12270|Center Point|Center Point city
+19|12315|Centerville|Centerville city
+19|12495|Central City|Central City city
+19|12630|Centralia|Centralia city
+19|12720|Chariton|Chariton city
+19|12765|Charles City|Charles City city
+19|12855|Charlotte|Charlotte city
+19|12900|Charter Oak|Charter Oak city
+19|12945|Chatsworth|Chatsworth city
+19|12990|Chelsea|Chelsea city
+19|13080|Cherokee|Cherokee city
+19|13125|Chester|Chester city
+19|13215|Chillicothe|Chillicothe city
+19|13350|Churdan|Churdan city
+19|13395|Cincinnati|Cincinnati city
+19|13485|Clare|Clare city
+19|13530|Clarence|Clarence city
+19|13575|Clarinda|Clarinda city
+19|13620|Clarion|Clarion city
+19|13755|Clarksville|Clarksville city
+19|13845|Clayton|Clayton city
+19|13980|Clearfield|Clearfield city
+19|14025|Clear Lake|Clear Lake city
+19|14115|Cleghorn|Cleghorn city
+19|14160|Clemons|Clemons city
+19|14250|Clermont|Clermont city
+19|14430|Clinton|Clinton city
+19|14475|Clio|Clio city
+19|14520|Clive|Clive city
+19|14655|Clutier|Clutier city
+19|14880|Coburg|Coburg city
+19|14925|Coggon|Coggon city
+19|14970|Coin|Coin city
+19|15015|Colesburg|Colesburg city
+19|15060|Colfax|Colfax city
+19|15105|College Springs|College Springs city
+19|15195|Collins|Collins city
+19|15240|Colo|Colo city
+19|15375|Columbus City|Columbus City city
+19|15420|Columbus Junction|Columbus Junction city
+19|15465|Colwell|Colwell city
+19|15645|Conesville|Conesville city
+19|15825|Conrad|Conrad city
+19|15960|Conway|Conway city
+19|16050|Coon Rapids|Coon Rapids city
+19|16140|Coppock|Coppock city
+19|16230|Coralville|Coralville city
+19|16500|Corning|Corning city
+19|16545|Correctionville|Correctionville city
+19|16590|Corwith|Corwith city
+19|16635|Corydon|Corydon city
+19|16725|Cotter|Cotter city
+19|16815|Coulter|Coulter city
+19|16860|Council Bluffs|Council Bluffs city
+19|16950|Craig|Craig city
+19|17130|Crawfordsville|Crawfordsville city
+19|17175|Crescent|Crescent city
+19|17220|Cresco|Cresco city
+19|17265|Creston|Creston city
+19|17490|Cromwell|Cromwell city
+19|17670|Crystal Lake|Crystal Lake city
+19|17760|Cumberland|Cumberland city
+19|17850|Cumming|Cumming city
+19|17895|Curlew|Curlew city
+19|17940|Cushing|Cushing city
+19|17985|Cylinder|Cylinder city
+19|18075|Dakota City|Dakota City city
+19|18255|Dallas Center|Dallas Center city
+19|18345|Dana|Dana city
+19|18390|Danbury|Danbury city
+19|18435|Danville|Danville city
+19|19000|Davenport|Davenport city
+19|19090|Davis City|Davis City city
+19|19135|Dawson|Dawson city
+19|19180|Dayton|Dayton city
+19|19360|Decatur City|Decatur City city
+19|19405|Decorah|Decorah city
+19|19450|Dedham|Dedham city
+19|19495|Deep River|Deep River city
+19|19585|Defiance|Defiance city
+19|19630|Delaware|Delaware city
+19|19675|Delhi|Delhi city
+19|19720|Delmar|Delmar city
+19|19765|Deloit|Deloit city
+19|19810|Delphos|Delphos city
+19|19855|Delta|Delta city
+19|19945|Denison|Denison city
+19|20035|Denver|Denver city
+19|20125|Derby|Derby city
+19|21000|Des Moines|Des Moines city
+19|21045|De Soto|De Soto city
+19|21180|De Witt|De Witt city
+19|21225|Dexter|Dexter city
+19|21270|Diagonal|Diagonal city
+19|21360|Dickens|Dickens city
+19|21405|Dike|Dike city
+19|21540|Dixon|Dixon city
+19|21675|Dolliver|Dolliver city
+19|21720|Donahue|Donahue city
+19|21810|Donnellson|Donnellson city
+19|21900|Doon|Doon city
+19|22080|Dougherty|Dougherty city
+19|22215|Dow City|Dow City city
+19|22305|Dows|Dows city
+19|22350|Drakesville|Drakesville city
+19|22395|Dubuque|Dubuque city
+19|22620|Dumont|Dumont city
+19|22755|Duncombe|Duncombe city
+19|22800|Dundee|Dundee city
+19|22845|Dunkerton|Dunkerton city
+19|22890|Dunlap|Dunlap city
+19|22935|Durango|Durango city
+19|22980|Durant|Durant city
+19|23115|Dyersville|Dyersville city
+19|23160|Dysart|Dysart city
+19|23250|Eagle Grove|Eagle Grove city
+19|23340|Earlham|Earlham city
+19|23385|Earling|Earling city
+19|23430|Earlville|Earlville city
+19|23475|Early|Early city
+19|23790|East Peru|East Peru city
+19|23970|Eddyville|Eddyville city
+19|24060|Edgewood|Edgewood city
+19|24375|Elberon|Elberon city
+19|24420|Eldon|Eldon city
+19|24465|Eldora|Eldora city
+19|24600|Eldridge|Eldridge city
+19|24645|Elgin|Elgin city
+19|24690|Elkader|Elkader city
+19|24735|Elkhart|Elkhart city
+19|24780|Elk Horn|Elk Horn city
+19|24825|Elkport|Elkport city
+19|24870|Elk Run Heights|Elk Run Heights city
+19|24915|Elliott|Elliott city
+19|25005|Ellston|Ellston city
+19|25050|Ellsworth|Ellsworth city
+19|25095|Elma|Elma city
+19|25365|Ely|Ely city
+19|25500|Emerson|Emerson city
+19|25590|Emmetsburg|Emmetsburg city
+19|25725|Epworth|Epworth city
+19|25815|Essex|Essex city
+19|25860|Estherville|Estherville city
+19|25995|Evansdale|Evansdale city
+19|26175|Everly|Everly city
+19|26265|Exira|Exira city
+19|26310|Exline|Exline city
+19|26355|Fairbank|Fairbank city
+19|26400|Fairfax|Fairfax city
+19|26445|Fairfield|Fairfield city
+19|26760|Farley|Farley city
+19|26850|Farmersburg|Farmersburg city
+19|26895|Farmington|Farmington city
+19|26940|Farnhamville|Farnhamville city
+19|26985|Farragut|Farragut city
+19|27165|Fayette|Fayette city
+19|27210|Fenton|Fenton city
+19|27255|Ferguson|Ferguson city
+19|27390|Fertile|Fertile city
+19|27975|Floris|Floris city
+19|28020|Floyd|Floyd city
+19|28245|Fonda|Fonda city
+19|28290|Fontanelle|Fontanelle city
+19|28380|Forest City|Forest City city
+19|28425|Fort Atkinson|Fort Atkinson city
+19|28515|Fort Dodge|Fort Dodge city
+19|28605|Fort Madison|Fort Madison city
+19|28650|Fostoria|Fostoria city
+19|28740|Franklin|Franklin city
+19|28920|Fraser|Fraser city
+19|28965|Fredericksburg|Fredericksburg city
+19|29010|Frederika|Frederika city
+19|29055|Fredonia|Fredonia city
+19|29190|Fremont|Fremont city
+19|29280|Fruitland|Fruitland city
+19|29550|Galt|Galt city
+19|29595|Galva|Galva city
+19|29685|Garber|Garber city
+19|29775|Garden Grove|Garden Grove city
+19|29910|Garnavillo|Garnavillo city
+19|29955|Garner|Garner city
+19|30000|Garrison|Garrison city
+19|30045|Garwin|Garwin city
+19|30135|Geneva|Geneva city
+19|30225|George|George city
+19|30540|Gibson|Gibson city
+19|30630|Gilbert|Gilbert city
+19|30675|Gilbertville|Gilbertville city
+19|30810|Gillett Grove|Gillett Grove city
+19|30900|Gilman|Gilman city
+19|30945|Gilmore City|Gilmore City city
+19|31035|Gladbrook|Gladbrook city
+19|31350|Glenwood|Glenwood city
+19|31395|Glidden|Glidden city
+19|31530|Goldfield|Goldfield city
+19|31575|Goodell|Goodell city
+19|31665|Goose Lake|Goose Lake city
+19|31710|Gowrie|Gowrie city
+19|31800|Graettinger|Graettinger city
+19|31845|Graf|Graf city
+19|31890|Grafton|Grafton city
+19|31980|Grand Junction|Grand Junction city
+19|32025|Grand Mound|Grand Mound city
+19|32070|Grand River|Grand River city
+19|32115|Grandview|Grandview city
+19|32160|Granger|Granger city
+19|32295|Grant|Grant city
+19|32475|Granville|Granville city
+19|32520|Gravity|Gravity city
+19|32565|Gray|Gray city
+19|32610|Greeley|Greeley city
+19|32745|Greene|Greene city
+19|32790|Greenfield|Greenfield city
+19|32970|Greenville|Greenville city
+19|33060|Grimes|Grimes city
+19|33105|Grinnell|Grinnell city
+19|33150|Griswold|Griswold city
+19|33195|Grundy Center|Grundy Center city
+19|33240|Gruver|Gruver city
+19|33285|Guernsey|Guernsey city
+19|33420|Guthrie Center|Guthrie Center city
+19|33465|Guttenberg|Guttenberg city
+19|33645|Halbur|Halbur city
+19|33780|Hamburg|Hamburg city
+19|33870|Hamilton|Hamilton city
+19|33960|Hampton|Hampton city
+19|34005|Hancock|Hancock city
+19|34185|Hanlontown|Hanlontown city
+19|34365|Hansell|Hansell city
+19|34410|Harcourt|Harcourt city
+19|34455|Hardy|Hardy city
+19|34500|Harlan|Harlan city
+19|34545|Harper|Harper city
+19|34590|Harpers Ferry|Harpers Ferry city
+19|34635|Harris|Harris city
+19|34680|Hartford|Hartford city
+19|34725|Hartley|Hartley city
+19|34770|Hartwick|Hartwick city
+19|34860|Harvey|Harvey city
+19|34995|Hastings|Hastings city
+19|35130|Havelock|Havelock city
+19|35220|Haverhill|Haverhill city
+19|35265|Hawarden|Hawarden city
+19|35310|Hawkeye|Hawkeye city
+19|35445|Hayesville|Hayesville city
+19|35580|Hazleton|Hazleton city
+19|35670|Hedrick|Hedrick city
+19|35715|Henderson|Henderson city
+19|35760|Hepburn|Hepburn city
+19|35940|Hiawatha|Hiawatha city
+19|36345|Hills|Hills city
+19|36390|Hillsboro|Hillsboro city
+19|36480|Hinton|Hinton city
+19|36705|Holland|Holland city
+19|36840|Holstein|Holstein city
+19|36885|Holy Cross|Holy Cross city
+19|37155|Hopkinton|Hopkinton city
+19|37200|Hornick|Hornick city
+19|37290|Hospers|Hospers city
+19|37335|Houghton|Houghton city
+19|37425|Hubbard|Hubbard city
+19|37470|Hudson|Hudson city
+19|37515|Hull|Hull city
+19|37560|Humboldt|Humboldt city
+19|37605|Humeston|Humeston city
+19|37920|Huxley|Huxley city
+19|38010|Ida Grove|Ida Grove city
+19|38055|Imogene|Imogene city
+19|38100|Independence|Independence city
+19|38280|Indianola|Indianola city
+19|38415|Inwood|Inwood city
+19|38460|Ionia|Ionia city
+19|38595|Iowa City|Iowa City city
+19|38640|Iowa Falls|Iowa Falls city
+19|38820|Ireton|Ireton city
+19|39000|Irwin|Irwin city
+19|39135|Jackson Junction|Jackson Junction city
+19|39225|Jamaica|Jamaica city
+19|39405|Janesville|Janesville city
+19|39450|Jefferson|Jefferson city
+19|39585|Jesup|Jesup city
+19|39675|Jewell Junction|Jewell Junction city
+19|39765|Johnston|Johnston city
+19|39855|Joice|Joice city
+19|39900|Jolley|Jolley city
+19|40170|Kalona|Kalona city
+19|40215|Kamrar|Kamrar city
+19|40260|Kanawha|Kanawha city
+19|40350|Kellerton|Kellerton city
+19|40395|Kelley|Kelley city
+19|40440|Kellogg|Kellogg city
+19|40665|Kensett|Kensett city
+19|40845|Keokuk|Keokuk city
+19|40890|Keomah Village|Keomah Village city
+19|40935|Keosauqua|Keosauqua city
+19|40980|Keota|Keota city
+19|41070|Keswick|Keswick city
+19|41115|Keystone|Keystone city
+19|41295|Kimballton|Kimballton city
+19|41385|Kingsley|Kingsley city
+19|41475|Kinross|Kinross city
+19|41520|Kirkman|Kirkman city
+19|41565|Kirkville|Kirkville city
+19|41610|Kiron|Kiron city
+19|41655|Klemme|Klemme city
+19|41790|Knierim|Knierim city
+19|42015|Knoxville|Knoxville city
+19|42285|Lacona|Lacona city
+19|42330|Ladora|Ladora city
+19|42465|Lake City|Lake City city
+19|42555|Lake Mills|Lake Mills city
+19|42600|Lake Park|Lake Park city
+19|42645|Lakeside|Lakeside city
+19|42690|Lake View|Lake View city
+19|42825|Lakota|Lakota city
+19|42870|Lambs Grove|Lambs Grove city
+19|42960|Lamoni|Lamoni city
+19|43005|Lamont|Lamont city
+19|43050|La Motte|La Motte city
+19|43140|Lanesboro|Lanesboro city
+19|43275|Lansing|Lansing city
+19|43365|La Porte City|La Porte City city
+19|43410|Larchwood|Larchwood city
+19|43500|Larrabee|Larrabee city
+19|43590|Latimer|Latimer city
+19|43680|Laurel|Laurel city
+19|43725|Laurens|Laurens city
+19|43815|Lawler|Lawler city
+19|43905|Lawton|Lawton city
+19|44085|Le Claire|Le Claire city
+19|44130|Ledyard|Ledyard city
+19|44220|Le Grand|Le Grand city
+19|44265|Lehigh|Lehigh city
+19|44310|Leighton|Leighton city
+19|44355|Leland|Leland city
+19|44400|Le Mars|Le Mars city
+19|44490|Lenox|Lenox city
+19|44535|Leon|Leon city
+19|44580|Le Roy|Le Roy city
+19|44670|Lester|Lester city
+19|44715|Letts|Letts city
+19|44805|Lewis|Lewis city
+19|44985|Libertyville|Libertyville city
+19|45030|Lidderdale|Lidderdale city
+19|45165|Lime Springs|Lime Springs city
+19|45255|Lincoln|Lincoln city
+19|45390|Linden|Linden city
+19|45435|Lineville|Lineville city
+19|45480|Linn Grove|Linn Grove city
+19|45615|Lisbon|Lisbon city
+19|45660|Liscomb|Liscomb city
+19|45795|Little Rock|Little Rock city
+19|45840|Little Sioux|Little Sioux city
+19|45975|Livermore|Livermore city
+19|46065|Lockridge|Lockridge city
+19|46155|Logan|Logan city
+19|46245|Lohrville|Lohrville city
+19|46290|Lone Rock|Lone Rock city
+19|46335|Lone Tree|Lone Tree city
+19|46425|Long Grove|Long Grove city
+19|46515|Lorimor|Lorimor city
+19|46605|Lost Nation|Lost Nation city
+19|46830|Lovilia|Lovilia city
+19|46920|Lowden|Lowden city
+19|47010|Low Moor|Low Moor city
+19|47055|Luana|Luana city
+19|47100|Lucas|Lucas city
+19|47280|Luther|Luther city
+19|47370|Lu Verne|Lu Verne city
+19|47460|Luxemburg|Luxemburg city
+19|47505|Luzerne|Luzerne city
+19|47595|Lynnville|Lynnville city
+19|47730|Lytton|Lytton city
+19|47775|McCallsburg|McCallsburg city
+19|47820|McCausland|McCausland city
+19|47865|McClelland|McClelland city
+19|47955|Macedonia|Macedonia city
+19|48000|McGregor|McGregor city
+19|48045|McIntire|McIntire city
+19|48180|Macksburg|Macksburg city
+19|48450|Madrid|Madrid city
+19|48495|Magnolia|Magnolia city
+19|48500|Maharishi Vedic City|Maharishi Vedic City city
+19|48540|Malcom|Malcom city
+19|48585|Mallard|Mallard city
+19|48675|Maloy|Maloy city
+19|48720|Malvern|Malvern city
+19|48810|Manchester|Manchester city
+19|48855|Manilla|Manilla city
+19|48900|Manly|Manly city
+19|48945|Manning|Manning city
+19|48990|Manson|Manson city
+19|49170|Mapleton|Mapleton city
+19|49215|Maquoketa|Maquoketa city
+19|49260|Marathon|Marathon city
+19|49305|Marble Rock|Marble Rock city
+19|49350|Marcus|Marcus city
+19|49395|Marengo|Marengo city
+19|49485|Marion|Marion city
+19|49575|Marne|Marne city
+19|49620|Marquette|Marquette city
+19|49755|Marshalltown|Marshalltown city
+19|49845|Martelle|Martelle city
+19|49890|Martensdale|Martensdale city
+19|49935|Martinsburg|Martinsburg city
+19|50070|Marysville|Marysville city
+19|50160|Mason City|Mason City city
+19|50205|Masonville|Masonville city
+19|50250|Massena|Massena city
+19|50385|Matlock|Matlock city
+19|50430|Maurice|Maurice city
+19|50520|Maxwell|Maxwell city
+19|50610|Maynard|Maynard city
+19|50655|Maysville|Maysville city
+19|50700|Mechanicsville|Mechanicsville city
+19|50790|Mediapolis|Mediapolis city
+19|50880|Melbourne|Melbourne city
+19|50935|Melcher-Dallas|Melcher-Dallas city
+19|50970|Melrose|Melrose city
+19|51060|Melvin|Melvin city
+19|51105|Menlo|Menlo city
+19|51150|Meriden|Meriden city
+19|51375|Merrill|Merrill city
+19|51420|Meservey|Meservey city
+19|51735|Middletown|Middletown city
+19|52050|Miles|Miles city
+19|52095|Milford|Milford city
+19|52230|Millersburg|Millersburg city
+19|52275|Millerton|Millerton city
+19|52410|Millville|Millville city
+19|52455|Milo|Milo city
+19|52500|Milton|Milton city
+19|52545|Minburn|Minburn city
+19|52590|Minden|Minden city
+19|52815|Mingo|Mingo city
+19|52860|Missouri Valley|Missouri Valley city
+19|52905|Mitchell|Mitchell city
+19|52950|Mitchellville|Mitchellville city
+19|52995|Modale|Modale city
+19|53175|Mondamin|Mondamin city
+19|53265|Monmouth|Monmouth city
+19|53310|Monona|Monona city
+19|53355|Monroe|Monroe city
+19|53490|Montezuma|Montezuma city
+19|53625|Monticello|Monticello city
+19|53670|Montour|Montour city
+19|53760|Montrose|Montrose city
+19|53850|Moorhead|Moorhead city
+19|53895|Moorland|Moorland city
+19|53985|Moravia|Moravia city
+19|54030|Morley|Morley city
+19|54120|Morning Sun|Morning Sun city
+19|54165|Morrison|Morrison city
+19|54390|Moulton|Moulton city
+19|54435|Mount Auburn|Mount Auburn city
+19|54480|Mount Ayr|Mount Ayr city
+19|54705|Mount Pleasant|Mount Pleasant city
+19|54750|Mount Sterling|Mount Sterling city
+19|54795|Mount Union|Mount Union city
+19|54840|Mount Vernon|Mount Vernon city
+19|54930|Moville|Moville city
+19|55065|Murray|Murray city
+19|55110|Muscatine|Muscatine city
+19|55200|Mystic|Mystic city
+19|55335|Nashua|Nashua city
+19|55515|Nemaha|Nemaha city
+19|55560|Neola|Neola city
+19|55695|Nevada|Nevada city
+19|55785|New Albin|New Albin city
+19|55965|Newell|Newell city
+19|56055|Newhall|Newhall city
+19|56100|New Hampton|New Hampton city
+19|56145|New Hartford|New Hartford city
+19|56280|New Liberty|New Liberty city
+19|56325|New London|New London city
+19|56370|New Market|New Market city
+19|56415|New Providence|New Providence city
+19|56460|New Sharon|New Sharon city
+19|56505|Newton|Newton city
+19|56550|New Vienna|New Vienna city
+19|56595|New Virginia|New Virginia city
+19|56685|Nichols|Nichols city
+19|56865|Nodaway|Nodaway city
+19|56910|Nora Springs|Nora Springs city
+19|57045|Northboro|Northboro city
+19|57135|North Buena Vista|North Buena Vista city
+19|57225|North English|North English city
+19|57360|North Liberty|North Liberty city
+19|57495|North Washington|North Washington city
+19|57630|Northwood|Northwood city
+19|57675|Norwalk|Norwalk city
+19|57720|Norway|Norway city
+19|57945|Numa|Numa city
+19|58080|Oakland|Oakland city
+19|58170|Oakland Acres|Oakland Acres city
+19|58395|Oakville|Oakville city
+19|58530|Ocheyedan|Ocheyedan city
+19|58575|Odebolt|Odebolt city
+19|58620|Oelwein|Oelwein city
+19|58665|Ogden|Ogden city
+19|58710|Okoboji|Okoboji city
+19|58890|Olds|Olds city
+19|58980|Olin|Olin city
+19|59070|Ollie|Ollie city
+19|59115|Onawa|Onawa city
+19|59250|Onslow|Onslow city
+19|59475|Orange City|Orange City city
+19|59520|Orchard|Orchard city
+19|59565|Orient|Orient city
+19|59655|Orleans|Orleans city
+19|59745|Osage|Osage city
+19|59835|Osceola|Osceola city
+19|59925|Oskaloosa|Oskaloosa city
+19|59970|Ossian|Ossian city
+19|60015|Osterdock|Osterdock city
+19|60105|Otho|Otho city
+19|60240|Oto|Oto city
+19|60420|Ottosen|Ottosen city
+19|60465|Ottumwa|Ottumwa city
+19|60555|Owasa|Owasa city
+19|60645|Oxford|Oxford city
+19|60690|Oxford Junction|Oxford Junction city
+19|60780|Oyens|Oyens city
+19|60825|Pacific Junction|Pacific Junction city
+19|60915|Packwood|Packwood city
+19|61050|Palmer|Palmer city
+19|61230|Palo|Palo city
+19|61275|Panama|Panama city
+19|61320|Panora|Panora city
+19|61365|Panorama Park|Panorama Park city
+19|61590|Parkersburg|Parkersburg city
+19|61770|Parnell|Parnell city
+19|61815|Paton|Paton city
+19|61860|Patterson|Patterson city
+19|61905|Paullina|Paullina city
+19|62040|Pella|Pella city
+19|62130|Peosta|Peosta city
+19|62355|Perry|Perry city
+19|62445|Persia|Persia city
+19|62625|Peterson|Peterson city
+19|62760|Pierson|Pierson city
+19|62850|Pilot Mound|Pilot Mound city
+19|62985|Pioneer|Pioneer city
+19|63075|Pisgah|Pisgah city
+19|63210|Plainfield|Plainfield city
+19|63345|Plano|Plano city
+19|63525|Pleasant Hill|Pleasant Hill city
+19|63570|Pleasanton|Pleasanton city
+19|63615|Pleasant Plain|Pleasant Plain city
+19|63750|Pleasantville|Pleasantville city
+19|63840|Plover|Plover city
+19|63885|Plymouth|Plymouth city
+19|63975|Pocahontas|Pocahontas city
+19|64020|Polk City|Polk City city
+19|64065|Pomeroy|Pomeroy city
+19|64110|Popejoy|Popejoy city
+19|64200|Portsmouth|Portsmouth city
+19|64290|Postville|Postville city
+19|64425|Prairieburg|Prairieburg city
+19|64470|Prairie City|Prairie City city
+19|64560|Prescott|Prescott city
+19|64605|Preston|Preston city
+19|64650|Primghar|Primghar city
+19|64740|Princeton|Princeton city
+19|64875|Promise City|Promise City city
+19|65010|Protivin|Protivin city
+19|65055|Pulaski|Pulaski city
+19|65235|Quasqueton|Quasqueton city
+19|65280|Quimby|Quimby city
+19|65370|Radcliffe|Radcliffe city
+19|65415|Rake|Rake city
+19|65505|Ralston|Ralston city
+19|65550|Randalia|Randalia city
+19|65595|Randall|Randall city
+19|65640|Randolph|Randolph city
+19|65730|Rathbun|Rathbun city
+19|65820|Raymond|Raymond city
+19|65910|Readlyn|Readlyn city
+19|65955|Reasnor|Reasnor city
+19|66000|Redding|Redding city
+19|66045|Redfield|Redfield city
+19|66135|Red Oak|Red Oak city
+19|66315|Reinbeck|Reinbeck city
+19|66360|Rembrandt|Rembrandt city
+19|66405|Remsen|Remsen city
+19|66450|Renwick|Renwick city
+19|66540|Rhodes|Rhodes city
+19|66585|Riceville|Riceville city
+19|66720|Richland|Richland city
+19|66810|Rickardsville|Rickardsville city
+19|66855|Ricketts|Ricketts city
+19|67035|Ridgeway|Ridgeway city
+19|67125|Rinard|Rinard city
+19|67170|Ringsted|Ringsted city
+19|67215|Rippey|Rippey city
+19|67350|Riverdale|Riverdale city
+19|67440|Riverside|Riverside city
+19|67575|Riverton|Riverton city
+19|67800|Robins|Robins city
+19|68025|Rock Falls|Rock Falls city
+19|68070|Rockford|Rockford city
+19|68160|Rock Rapids|Rock Rapids city
+19|68205|Rock Valley|Rock Valley city
+19|68250|Rockwell|Rockwell city
+19|68295|Rockwell City|Rockwell City city
+19|68340|Rodman|Rodman city
+19|68385|Rodney|Rodney city
+19|68475|Roland|Roland city
+19|68520|Rolfe|Rolfe city
+19|68565|Rome|Rome city
+19|68700|Rose Hill|Rose Hill city
+19|68925|Rossie|Rossie city
+19|69015|Rowan|Rowan city
+19|69060|Rowley|Rowley city
+19|69105|Royal|Royal city
+19|69195|Rudd|Rudd city
+19|69240|Runnells|Runnells city
+19|69285|Russell|Russell city
+19|69330|Ruthven|Ruthven city
+19|69375|Rutland|Rutland city
+19|69465|Ryan|Ryan city
+19|69510|Sabula|Sabula city
+19|69645|Sac City|Sac City city
+19|69690|Sageville|Sageville city
+19|69735|St. Ansgar|St. Ansgar city
+19|69780|St. Anthony|St. Anthony city
+19|69915|St. Charles|St. Charles city
+19|69960|St. Donatus|St. Donatus city
+19|70050|St. Lucas|St. Lucas city
+19|70095|St. Marys|St. Marys city
+19|70140|St. Olaf|St. Olaf city
+19|70185|St. Paul|St. Paul city
+19|70230|Salem|Salem city
+19|70320|Salix|Salix city
+19|70410|Sanborn|Sanborn city
+19|70590|Sandyville|Sandyville city
+19|71040|Scarville|Scarville city
+19|71085|Schaller|Schaller city
+19|71130|Schleswig|Schleswig city
+19|71310|Scranton|Scranton city
+19|71355|Searsboro|Searsboro city
+19|71625|Sergeant Bluff|Sergeant Bluff city
+19|71760|Seymour|Seymour city
+19|71895|Shambaugh|Shambaugh city
+19|71940|Shannon City|Shannon City city
+19|72075|Sharpsburg|Sharpsburg city
+19|72210|Sheffield|Sheffield city
+19|72300|Shelby|Shelby city
+19|72345|Sheldahl|Sheldahl city
+19|72390|Sheldon|Sheldon city
+19|72435|Shell Rock|Shell Rock city
+19|72480|Shellsburg|Shellsburg city
+19|72525|Shenandoah|Shenandoah city
+19|72660|Sherrill|Sherrill city
+19|72840|Shueyville|Shueyville city
+19|72975|Sibley|Sibley city
+19|73065|Sidney|Sidney city
+19|73110|Sigourney|Sigourney city
+19|73155|Silver City|Silver City city
+19|73290|Sioux Center|Sioux Center city
+19|73335|Sioux City|Sioux City city
+19|73425|Sioux Rapids|Sioux Rapids city
+19|73515|Slater|Slater city
+19|73605|Sloan|Sloan city
+19|73650|Smithland|Smithland city
+19|73785|Soldier|Soldier city
+19|73875|Solon|Solon city
+19|73920|Somers|Somers city
+19|74055|South English|South English city
+19|74280|Spencer|Spencer city
+19|74370|Spillville|Spillville city
+19|74415|Spirit Lake|Spirit Lake city
+19|74460|Spragueville|Spragueville city
+19|74505|Springbrook|Springbrook city
+19|74685|Spring Hill|Spring Hill city
+19|74775|Springville|Springville city
+19|74820|Stacyville|Stacyville city
+19|74910|Stanhope|Stanhope city
+19|74955|Stanley|Stanley city
+19|75000|Stanton|Stanton city
+19|75045|Stanwood|Stanwood city
+19|75135|State Center|State Center city
+19|75180|Steamboat Rock|Steamboat Rock city
+19|75405|Stockport|Stockport city
+19|75450|Stockton|Stockton city
+19|75630|Storm Lake|Storm Lake city
+19|75675|Story City|Story City city
+19|75720|Stout|Stout city
+19|75810|Stratford|Stratford city
+19|75855|Strawberry Point|Strawberry Point city
+19|75945|Struble|Struble city
+19|75990|Stuart|Stuart city
+19|76035|Sully|Sully city
+19|76260|Sumner|Sumner city
+19|76440|Superior|Superior city
+19|76485|Sutherland|Sutherland city
+19|76620|Swaledale|Swaledale city
+19|76665|Swan|Swan city
+19|76755|Swea City|Swea City city
+19|76890|Swisher|Swisher city
+19|76935|Tabor|Tabor city
+19|77115|Tama|Tama city
+19|77340|Templeton|Templeton city
+19|77430|Tennant|Tennant city
+19|77520|Terril|Terril city
+19|77565|Thayer|Thayer city
+19|77745|Thompson|Thompson city
+19|77790|Thor|Thor city
+19|77835|Thornburg|Thornburg city
+19|77880|Thornton|Thornton city
+19|77970|Thurman|Thurman city
+19|78060|Tiffin|Tiffin city
+19|78195|Tingley|Tingley city
+19|78285|Tipton|Tipton city
+19|78330|Titonka|Titonka city
+19|78510|Toledo|Toledo city
+19|78600|Toronto|Toronto city
+19|78735|Traer|Traer city
+19|78825|Treynor|Treynor city
+19|78915|Tripoli|Tripoli city
+19|79095|Truesdale|Truesdale city
+19|79140|Truro|Truro city
+19|79185|Turin|Turin city
+19|79410|Udell|Udell city
+19|79500|Underwood|Underwood city
+19|79545|Union|Union city
+19|79680|Unionville|Unionville city
+19|79770|University Heights|University Heights city
+19|79815|University Park|University Park city
+19|79905|Urbana|Urbana city
+19|79950|Urbandale|Urbandale city
+19|79995|Ute|Ute city
+19|80130|Vail|Vail city
+19|80175|Valeria|Valeria city
+19|80400|Van Horne|Van Horne city
+19|80445|Van Meter|Van Meter city
+19|80490|Van Wert|Van Wert city
+19|80535|Varina|Varina city
+19|80580|Ventura|Ventura city
+19|80805|Victor|Victor city
+19|80985|Villisca|Villisca city
+19|81075|Vincent|Vincent city
+19|81120|Vining|Vining city
+19|81210|Vinton|Vinton city
+19|81345|Volga|Volga city
+19|81570|Wadena|Wadena city
+19|81615|Wahpeton|Wahpeton city
+19|81705|Walcott|Walcott city
+19|81840|Walford|Walford city
+19|81885|Walker|Walker city
+19|81975|Wallingford|Wallingford city
+19|82020|Wall Lake|Wall Lake city
+19|82065|Walnut|Walnut city
+19|82200|Wapello|Wapello city
+19|82335|Washington|Washington city
+19|82380|Washta|Washta city
+19|82425|Waterloo|Waterloo city
+19|82470|Waterville|Waterville city
+19|82650|Waucoma|Waucoma city
+19|82695|Waukee|Waukee city
+19|82740|Waukon|Waukon city
+19|82875|Waverly|Waverly city
+19|82965|Wayland|Wayland city
+19|83010|Webb|Webb city
+19|83055|Webster|Webster city
+19|83145|Webster City|Webster City city
+19|83190|Weldon|Weldon city
+19|83280|Wellman|Wellman city
+19|83325|Wellsburg|Wellsburg city
+19|83370|Welton|Welton city
+19|83415|Wesley|Wesley city
+19|83550|West Bend|West Bend city
+19|83595|West Branch|West Branch city
+19|83685|West Burlington|West Burlington city
+19|83775|West Chester|West Chester city
+19|83910|West Des Moines|West Des Moines city
+19|84090|Westfield|Westfield city
+19|84180|Westgate|Westgate city
+19|84315|West Liberty|West Liberty city
+19|84450|West Okoboji|West Okoboji city
+19|84540|Westphalia|Westphalia city
+19|84585|West Point|West Point city
+19|84630|Westside|Westside city
+19|84765|West Union|West Union city
+19|84835|Westwood|Westwood city
+19|84900|What Cheer|What Cheer city
+19|84945|Wheatland|Wheatland city
+19|85215|Whiting|Whiting city
+19|85260|Whittemore|Whittemore city
+19|85305|Whitten|Whitten city
+19|85710|Willey|Willey city
+19|85800|Williams|Williams city
+19|85845|Williamsburg|Williamsburg city
+19|85935|Williamson|Williamson city
+19|86070|Wilton|Wilton city
+19|86250|Windsor Heights|Windsor Heights city
+19|86385|Winfield|Winfield city
+19|86520|Winterset|Winterset city
+19|86565|Winthrop|Winthrop city
+19|86610|Wiota|Wiota city
+19|86700|Woden|Woden city
+19|86835|Woodbine|Woodbine city
+19|86880|Woodburn|Woodburn city
+19|86970|Woodward|Woodward city
+19|87015|Woolstock|Woolstock city
+19|87060|Worthington|Worthington city
+19|87240|Wyoming|Wyoming city
+19|87285|Yale|Yale city
+19|87375|Yetter|Yetter city
+19|87420|Yorktown|Yorktown city
+19|87555|Zearing|Zearing city
+19|87690|Zwingle|Zwingle city

@@ -1,0 +1,502 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+42|00824|Center Valley School District|Center Valley School District
+42|02010|Abington Heights School District|Abington Heights School District
+42|02040|Abington School District|Abington School District
+42|02100|Albert Gallatin Area School District|Albert Gallatin Area School District
+42|02130|Aliquippa School District|Aliquippa School District
+42|02190|Allegheny Valley School District|Allegheny Valley School District
+42|02280|Allentown City School District|Allentown City School District
+42|02310|Allegheny-Clarion Valley School District|Allegheny-Clarion Valley School District
+42|02340|Altoona Area School District|Altoona Area School District
+42|02400|Wissahickon School District|Wissahickon School District
+42|02440|Ambridge Area School District|Ambridge Area School District
+42|02480|Antietam School District|Antietam School District
+42|02490|Annville-Cleona School District|Annville-Cleona School District
+42|02550|Apollo-Ridge School District|Apollo-Ridge School District
+42|02590|Armstrong School District|Armstrong School District
+42|02670|Athens Area School District|Athens Area School District
+42|02700|Austin Area School District|Austin Area School District
+42|02760|Avella Area School District|Avella Area School District
+42|02790|Avon Grove School District|Avon Grove School District
+42|02820|Avonworth School District|Avonworth School District
+42|02850|Pine-Richland School District|Pine-Richland School District
+42|02910|Bald Eagle Area School District|Bald Eagle Area School District
+42|02970|Baldwin-Whitehall School District|Baldwin-Whitehall School District
+42|03000|Bangor Area School District|Bangor Area School District
+42|03120|Beaver Area School District|Beaver Area School District
+42|03180|Bedford Area School District|Bedford Area School District
+42|03210|Belle Vernon Area School District|Belle Vernon Area School District
+42|03240|Bellefonte Area School District|Bellefonte Area School District
+42|03300|Bellwood-Antis School District|Bellwood-Antis School District
+42|03330|Bensalem Township School District|Bensalem Township School District
+42|03360|Bentworth School District|Bentworth School District
+42|03390|Benton Area School District|Benton Area School District
+42|03420|Berlin Brothersvalley School District|Berlin Brothersvalley School District
+42|03450|Bermudian Springs School District|Bermudian Springs School District
+42|03480|Berwick Area School District|Berwick Area School District
+42|03510|Bethel Park School District|Bethel Park School District
+42|03570|Bethlehem Area School District|Bethlehem Area School District
+42|03600|Bethlehem-Center School District|Bethlehem-Center School District
+42|03630|Big Beaver Falls Area School District|Big Beaver Falls Area School District
+42|03660|Big Spring School District|Big Spring School District
+42|03688|Blackhawk School District|Blackhawk School District
+42|03690|Blacklick Valley School District|Blacklick Valley School District
+42|03750|Blairsville-Saltsburg School District|Blairsville-Saltsburg School District
+42|03840|Bloomsburg Area School District|Bloomsburg Area School District
+42|03870|Blue Mountain School District|Blue Mountain School District
+42|03900|Blue Ridge School District|Blue Ridge School District
+42|03960|Boyertown Area School District|Boyertown Area School District
+42|04020|Bradford Area School District|Bradford Area School District
+42|04050|Brandywine Heights Area School District|Brandywine Heights Area School District
+42|04080|Brownsville Area School District|Brownsville Area School District
+42|04090|Bryn Athyn School District|Bryn Athyn School District
+42|04140|Brentwood Borough School District|Brentwood Borough School District
+42|04200|Bristol Borough School District|Bristol Borough School District
+42|04230|Bristol Township School District|Bristol Township School District
+42|04260|Brockway Area School District|Brockway Area School District
+42|04320|Brookville Area School District|Brookville Area School District
+42|04500|Burgettstown Area School District|Burgettstown Area School District
+42|04530|Burrell School District|Burrell School District
+42|04590|Butler Area School District|Butler Area School District
+42|04710|California Area School District|California Area School District
+42|04740|Cambria Heights School District|Cambria Heights School District
+42|04830|Cameron County School District|Cameron County School District
+42|04860|Camp Hill School District|Camp Hill School District
+42|04890|Canon-McMillan School District|Canon-McMillan School District
+42|04920|Canton Area School District|Canton Area School District
+42|04980|Carbondale Area School District|Carbondale Area School District
+42|05010|Carlisle Area School District|Carlisle Area School District
+42|05040|Carlynton School District|Carlynton School District
+42|05070|Carmichaels Area School District|Carmichaels Area School District
+42|05160|Catasauqua Area School District|Catasauqua Area School District
+42|05190|Centennial School District|Centennial School District
+42|05310|Central Bucks School District|Central Bucks School District
+42|05340|Central Cambria School District|Central Cambria School District
+42|05370|Central Columbia School District|Central Columbia School District
+42|05400|Central Dauphin School District|Central Dauphin School District
+42|05430|Central Greene School District|Central Greene School District
+42|05460|Crestwood School District|Crestwood School District
+42|05490|Central York School District|Central York School District
+42|05550|Chambersburg Area School District|Chambersburg Area School District
+42|05640|Charleroi School District|Charleroi School District
+42|05700|Chartiers Valley School District|Chartiers Valley School District
+42|05730|Chartiers-Houston School District|Chartiers-Houston School District
+42|05760|Cheltenham Township School District|Cheltenham Township School District
+42|05860|Chester-Upland School District|Chester-Upland School District
+42|05880|Chestnut Ridge School District|Chestnut Ridge School District
+42|05910|Chichester School District|Chichester School District
+42|06030|Clairton City School District|Clairton City School District
+42|06060|Clarion Area School District|Clarion Area School District
+42|06090|Clarion-Limestone Area School District|Clarion-Limestone Area School District
+42|06120|Claysburg-Kimmel School District|Claysburg-Kimmel School District
+42|06150|Clearfield Area School District|Clearfield Area School District
+42|06240|Coatesville Area School District|Coatesville Area School District
+42|06270|Cocalico School District|Cocalico School District
+42|06360|Columbia Borough School District|Columbia Borough School District
+42|06390|Commodore Perry School District|Commodore Perry School District
+42|06420|Conemaugh Township Area School District|Conemaugh Township Area School District
+42|06430|Conemaugh Valley School District|Conemaugh Valley School District
+42|06480|Conestoga Valley School District|Conestoga Valley School District
+42|06550|Conewago Valley School District|Conewago Valley School District
+42|06590|Conneaut School District|Conneaut School District
+42|06660|Connellsville Area School District|Connellsville Area School District
+42|06780|Conrad Weiser Area School District|Conrad Weiser Area School District
+42|06810|Cornell School District|Cornell School District
+42|06840|Cornwall-Lebanon School District|Cornwall-Lebanon School District
+42|06860|Corry Area School District|Corry Area School District
+42|06930|Coudersport Area School District|Coudersport Area School District
+42|06960|Council Rock School District|Council Rock School District
+42|07050|Cranberry Area School District|Cranberry Area School District
+42|07080|Crawford Central School District|Crawford Central School District
+42|07110|Cumberland Valley School District|Cumberland Valley School District
+42|07140|Curwensville Area School District|Curwensville Area School District
+42|07200|Dallas School District|Dallas School District
+42|07230|Dallastown Area School District|Dallastown Area School District
+42|07290|Daniel Boone Area School District|Daniel Boone Area School District
+42|07320|Danville Area School District|Danville Area School District
+42|07530|Delaware Valley School District|Delaware Valley School District
+42|07540|Deer Lakes School District|Deer Lakes School District
+42|07560|Derry Area School District|Derry Area School District
+42|07590|Derry Township School District|Derry Township School District
+42|07650|Donegal School District|Donegal School District
+42|07680|Dover Area School District|Dover Area School District
+42|07710|Downingtown Area School District|Downingtown Area School District
+42|07830|DuBois Area School District|DuBois Area School District
+42|07980|Dunmore School District|Dunmore School District
+42|08010|Duquesne City School District|Duquesne City School District
+42|08060|East Allegheny School District|East Allegheny School District
+42|08280|Forest Area School District|Forest Area School District
+42|08460|Eastern Lebanon County School District|Eastern Lebanon County School District
+42|08490|East Lycoming School District|East Lycoming School District
+42|08550|East Penn School District|East Penn School District
+42|08580|East Pennsboro Area School District|East Pennsboro Area School District
+42|08670|East Stroudsburg Area School District|East Stroudsburg Area School District
+42|08790|Eastern York School District|Eastern York School District
+42|08820|Eastern Lancaster County School District|Eastern Lancaster County School District
+42|08850|Easton Area School District|Easton Area School District
+42|09090|Elizabeth Forward School District|Elizabeth Forward School District
+42|09120|Elizabethtown Area School District|Elizabethtown Area School District
+42|09150|Elk Lake School District|Elk Lake School District
+42|09240|Ellwood City Area School District|Ellwood City Area School District
+42|09270|Ephrata Area School District|Ephrata Area School District
+42|09300|Erie City School District|Erie City School District
+42|09360|Everett Area School District|Everett Area School District
+42|09480|Exeter Township School District|Exeter Township School District
+42|09540|Fairfield Area School District|Fairfield Area School District
+42|09570|Fairview School District|Fairview School District
+42|09600|Karns City Area School District|Karns City Area School District
+42|09660|Fannett-Metal School District|Fannett-Metal School District
+42|09690|Farrell Area School District|Farrell Area School District
+42|09750|Ferndale Area School District|Ferndale Area School District
+42|09780|Fleetwood Area School District|Fleetwood Area School District
+42|09870|Forbes Road School District|Forbes Road School District
+42|09930|Forest City Regional School District|Forest City Regional School District
+42|09940|Forest Hills School District|Forest Hills School District
+42|09960|Fort Cherry School District|Fort Cherry School District
+42|09990|Fort LeBoeuf School District|Fort LeBoeuf School District
+42|10070|Fox Chapel Area School District|Fox Chapel Area School District
+42|10110|North Schuylkill School District|North Schuylkill School District
+42|10115|North Star School District|North Star School District
+42|10200|Franklin Area School District|Franklin Area School District
+42|10230|Franklin Regional School District|Franklin Regional School District
+42|10350|Frazier School District|Frazier School District
+42|10380|Freedom Area School District|Freedom Area School District
+42|10440|Freeport Area School District|Freeport Area School District
+42|10530|Galeton Area School District|Galeton Area School District
+42|10590|Garnet Valley School District|Garnet Valley School District
+42|10620|Gateway School District|Gateway School District
+42|10650|General McLane School District|General McLane School District
+42|10710|Gettysburg Area School District|Gettysburg Area School District
+42|10740|Girard School District|Girard School District
+42|10830|Glendale School District|Glendale School District
+42|10860|Governor Mifflin School District|Governor Mifflin School District
+42|10870|Great Valley School District|Great Valley School District
+42|10920|Greensburg Salem School District|Greensburg Salem School District
+42|10950|Greater Johnstown School District|Greater Johnstown School District
+42|10980|Greater Latrobe School District|Greater Latrobe School District
+42|11010|Greencastle-Antrim School District|Greencastle-Antrim School District
+42|11160|Greenville Area School District|Greenville Area School District
+42|11190|Greenwood School District|Greenwood School District
+42|11220|Grove City Area School District|Grove City Area School District
+42|11310|Halifax Area School District|Halifax Area School District
+42|11340|Hamburg Area School District|Hamburg Area School District
+42|11400|Hampton Township School District|Hampton Township School District
+42|11420|Hanover Area School District|Hanover Area School District
+42|11450|Hanover Public School District|Hanover Public School District
+42|11490|Harbor Creek School District|Harbor Creek School District
+42|11520|Harmony Area School District|Harmony Area School District
+42|11580|Harrisburg City School District|Harrisburg City School District
+42|11610|Hatboro-Horsham School District|Hatboro-Horsham School District
+42|11670|Haverford Township School District|Haverford Township School District
+42|11700|Hazleton Area School District|Hazleton Area School District
+42|11730|Saucon Valley School District|Saucon Valley School District
+42|11760|Hempfield Area School District|Hempfield Area School District
+42|11790|Hempfield School District|Hempfield School District
+42|11820|Hermitage School District|Hermitage School District
+42|11880|Highlands School District|Highlands School District
+42|11940|Hollidaysburg Area School District|Hollidaysburg Area School District
+42|12030|Hopewell Area School District|Hopewell Area School District
+42|12090|Huntingdon Area School District|Huntingdon Area School District
+42|12150|Indiana Area School District|Indiana Area School District
+42|12170|Interboro School District|Interboro School District
+42|12210|Iroquois School District|Iroquois School District
+42|12300|Jamestown Area School District|Jamestown Area School District
+42|12330|Jeannette City School District|Jeannette City School District
+42|12390|Jefferson-Morgan School District|Jefferson-Morgan School District
+42|12420|Jenkintown School District|Jenkintown School District
+42|12480|Jersey Shore Area School District|Jersey Shore Area School District
+42|12540|Jim Thorpe Area School District|Jim Thorpe Area School District
+42|12570|Johnsonburg Area School District|Johnsonburg Area School District
+42|12600|Juniata County School District|Juniata County School District
+42|12630|Juniata Valley School District|Juniata Valley School District
+42|12660|Kane Area School District|Kane Area School District
+42|12690|Kennett Consolidated School District|Kennett Consolidated School District
+42|12720|Keystone School District|Keystone School District
+42|12725|Keystone Central School District|Keystone Central School District
+42|12750|Keystone Oaks School District|Keystone Oaks School District
+42|12840|Kiski Area School District|Kiski Area School District
+42|12930|Kutztown Area School District|Kutztown Area School District
+42|12990|Lackawanna Trail School District|Lackawanna Trail School District
+42|13020|Lake-Lehman School District|Lake-Lehman School District
+42|13050|Lakeland School District|Lakeland School District
+42|13080|Lakeview School District|Lakeview School District
+42|13110|Lampeter-Strasburg School District|Lampeter-Strasburg School District
+42|13140|Lancaster School District|Lancaster School District
+42|13290|Homer-Center School District|Homer-Center School District
+42|13320|Laurel Highlands School District|Laurel Highlands School District
+42|13380|Laurel School District|Laurel School District
+42|13440|Lebanon School District|Lebanon School District
+42|13470|Leechburg Area School District|Leechburg Area School District
+42|13500|Lehighton Area School District|Lehighton Area School District
+42|13590|Lewisburg Area School District|Lewisburg Area School District
+42|13710|Ligonier Valley School District|Ligonier Valley School District
+42|13770|Penn Cambria School District|Penn Cambria School District
+42|13980|Littlestown Area School District|Littlestown Area School District
+42|14100|Lower Dauphin School District|Lower Dauphin School District
+42|14160|Lower Merion School District|Lower Merion School District
+42|14190|Lower Moreland Township School District|Lower Moreland Township School District
+42|14250|Methacton School District|Methacton School District
+42|14310|Loyalsock Township School District|Loyalsock Township School District
+42|14430|Mahanoy Area School District|Mahanoy Area School District
+42|14460|Line Mountain School District|Line Mountain School District
+42|14550|Manheim Central School District|Manheim Central School District
+42|14580|Manheim Township School District|Manheim Township School District
+42|14730|Marion Center Area School District|Marion Center Area School District
+42|14760|Marple Newtown School District|Marple Newtown School District
+42|14790|Mars Area School District|Mars Area School District
+42|14850|Central Fulton School District|Central Fulton School District
+42|14880|McGuffey School District|McGuffey School District
+42|14940|McKeesport Area School District|McKeesport Area School District
+42|15030|Mechanicsburg Area School District|Mechanicsburg Area School District
+42|15120|Mercer Area School District|Mercer Area School District
+42|15150|Meyersdale Area School District|Meyersdale Area School District
+42|15170|Mid Valley School District|Mid Valley School District
+42|15210|Midd-West School District|Midd-West School District
+42|15240|Middletown Area School District|Middletown Area School District
+42|15270|Midland Borough School District|Midland Borough School District
+42|15290|Mifflin County School District|Mifflin County School District
+42|15330|Millcreek Township School District|Millcreek Township School District
+42|15360|Millersburg Area School District|Millersburg Area School District
+42|15450|Millville Area School District|Millville Area School District
+42|15480|Milton Area School District|Milton Area School District
+42|15510|Minersville Area School District|Minersville Area School District
+42|15540|Mohawk Area School District|Mohawk Area School District
+42|15600|Monessen City School District|Monessen City School District
+42|15660|Montgomery Area School District|Montgomery Area School District
+42|15720|Montour School District|Montour School District
+42|15750|Montoursville Area School District|Montoursville Area School District
+42|15810|Montrose Area School District|Montrose Area School District
+42|15830|Moon Area School District|Moon Area School District
+42|15900|Morrisville Borough School District|Morrisville Borough School District
+42|15960|Moshannon Valley School District|Moshannon Valley School District
+42|15990|Mount Carmel Area School District|Mount Carmel Area School District
+42|16020|Mount Union Area School District|Mount Union Area School District
+42|16050|Mountain View School District|Mountain View School District
+42|16110|Mt. Lebanon School District|Mt. Lebanon School District
+42|16170|Mount Pleasant Area School District|Mount Pleasant Area School District
+42|16200|Muhlenberg School District|Muhlenberg School District
+42|16230|Muncy School District|Muncy School District
+42|16290|Greater Nanticoke Area School District|Greater Nanticoke Area School District
+42|16380|Nazareth Area School District|Nazareth Area School District
+42|16410|Neshaminy School District|Neshaminy School District
+42|16440|Neshannock Township School District|Neshannock Township School District
+42|16500|Woodland Hills School District|Woodland Hills School District
+42|16530|New Brighton Area School District|New Brighton Area School District
+42|16620|New Castle Area School District|New Castle Area School District
+42|16740|New Kensington-Arnold School District|New Kensington-Arnold School District
+42|16860|New Hope-Solebury School District|New Hope-Solebury School District
+42|16890|Newport School District|Newport School District
+42|16980|Norristown Area School District|Norristown Area School District
+42|17010|North Allegheny School District|North Allegheny School District
+42|17100|Moniteau School District|Moniteau School District
+42|17130|North Clarion County School District|North Clarion County School District
+42|17160|North East School District|North East School District
+42|17220|North Hills School District|North Hills School District
+42|17280|North Penn School District|North Penn School District
+42|17310|North Pocono School District|North Pocono School District
+42|17370|Northampton Area School District|Northampton Area School District
+42|17430|Riverside Beaver County School District|Riverside Beaver County School District
+42|17460|Northeast Bradford School District|Northeast Bradford School District
+42|17520|Northeastern York School District|Northeastern York School District
+42|17580|Northern Bedford County School District|Northern Bedford County School District
+42|17610|Northern Cambria School District|Northern Cambria School District
+42|17640|Northern Lebanon School District|Northern Lebanon School District
+42|17670|Northern Lehigh School District|Northern Lehigh School District
+42|17700|Northern Potter School District|Northern Potter School District
+42|17730|Northern Tioga School District|Northern Tioga School District
+42|17760|Northern York County School District|Northern York County School District
+42|17770|Northgate School District|Northgate School District
+42|17790|Northwest Area School District|Northwest Area School District
+42|17850|Northwestern Lehigh School District|Northwestern Lehigh School District
+42|17880|Northwestern School District|Northwestern School District
+42|17940|Norwin School District|Norwin School District
+42|18030|Octorara Area School District|Octorara Area School District
+42|18090|Oil City Area School District|Oil City Area School District
+42|18120|Old Forge School District|Old Forge School District
+42|18150|Oley Valley School District|Oley Valley School District
+42|18210|Oswayo Valley School District|Oswayo Valley School District
+42|18240|Otto-Eldred School District|Otto-Eldred School District
+42|18270|Owen J. Roberts School District|Owen J. Roberts School District
+42|18300|Oxford Area School District|Oxford Area School District
+42|18330|Palisades School District|Palisades School District
+42|18360|Palmerton Area School District|Palmerton Area School District
+42|18390|Palmyra Area School District|Palmyra Area School District
+42|18450|Panther Valley School District|Panther Valley School District
+42|18510|Parkland School District|Parkland School District
+42|18570|Pen Argyl Area School District|Pen Argyl Area School District
+42|18580|Penn-Delco School District|Penn-Delco School District
+42|18590|Penn Hills School District|Penn Hills School District
+42|18630|Penn Manor School District|Penn Manor School District
+42|18660|Penn-Trafford School District|Penn-Trafford School District
+42|18740|Penncrest School District|Penncrest School District
+42|18750|Pennridge School District|Pennridge School District
+42|18780|Penns Manor Area School District|Penns Manor Area School District
+42|18810|Penns Valley Area School District|Penns Valley Area School District
+42|18840|Pennsbury School District|Pennsbury School District
+42|18900|Pequea Valley School District|Pequea Valley School District
+42|18930|Perkiomen Valley School District|Perkiomen Valley School District
+42|18960|Peters Township School District|Peters Township School District
+42|18990|Philadelphia City School District|Philadelphia City School District
+42|19020|Philipsburg-Osceola Area School District|Philipsburg-Osceola Area School District
+42|19050|Phoenixville Area School District|Phoenixville Area School District
+42|19140|Pine Grove Area School District|Pine Grove Area School District
+42|19170|Pittsburgh School District|Pittsburgh School District
+42|19200|Pittston Area School District|Pittston Area School District
+42|19290|Pleasant Valley School District|Pleasant Valley School District
+42|19350|Plum Borough School District|Plum Borough School District
+42|19470|Colonial School District|Colonial School District
+42|19500|Pocono Mountain School District|Pocono Mountain School District
+42|19530|Port Allegany School District|Port Allegany School District
+42|19560|Portage Area School District|Portage Area School District
+42|19650|Pottsgrove School District|Pottsgrove School District
+42|19680|Pottstown School District|Pottstown School District
+42|19710|Pottsville Area School District|Pottsville Area School District
+42|19800|Punxsutawney Area School District|Punxsutawney Area School District
+42|19830|Purchase Line School District|Purchase Line School District
+42|19860|Quaker Valley School District|Quaker Valley School District
+42|19890|Quakertown Community School District|Quakertown Community School District
+42|19920|Radnor Township School District|Radnor Township School District
+42|20040|Reading School District|Reading School District
+42|20100|Red Lion Area School District|Red Lion Area School District
+42|20130|Redbank Valley School District|Redbank Valley School District
+42|20220|Reynolds School District|Reynolds School District
+42|20250|Richland School District|Richland School District
+42|20310|Ridgway Area School District|Ridgway Area School District
+42|20370|Ridley School District|Ridley School District
+42|20400|Ringgold School District|Ringgold School District
+42|20430|Riverview School District|Riverview School District
+42|20460|Rochester Area School District|Rochester Area School District
+42|20520|Rockwood Area School District|Rockwood Area School District
+42|20550|Rose Tree Media School District|Rose Tree Media School District
+42|20580|South Fayette Township School District|South Fayette Township School District
+42|20640|St. Marys Area School District|St. Marys Area School District
+42|20730|Salisbury Township School District|Salisbury Township School District
+42|20760|Salisbury-Elk Lick School District|Salisbury-Elk Lick School District
+42|20850|Sayre Area School District|Sayre Area School District
+42|20910|Schuylkill Haven Area School District|Schuylkill Haven Area School District
+42|20970|Schuylkill Valley School District|Schuylkill Valley School District
+42|21090|Scranton School District|Scranton School District
+42|21120|Selinsgrove Area School District|Selinsgrove Area School District
+42|21150|Yough School District|Yough School District
+42|21180|Shade-Central City School District|Shade-Central City School District
+42|21200|Shaler Area School District|Shaler Area School District
+42|21240|Shamokin Area School District|Shamokin Area School District
+42|21270|Shanksville-Stonycreek School District|Shanksville-Stonycreek School District
+42|21330|Sharon City School District|Sharon City School District
+42|21420|Sharpsville Area School District|Sharpsville Area School District
+42|21490|Shenandoah Valley School District|Shenandoah Valley School District
+42|21510|Shenango Area School District|Shenango Area School District
+42|21540|Shikellamy School District|Shikellamy School District
+42|21570|Shippensburg Area School District|Shippensburg Area School District
+42|21660|Slippery Rock Area School District|Slippery Rock Area School District
+42|21690|Smethport Area School District|Smethport Area School District
+42|21810|Solanco School District|Solanco School District
+42|21840|Somerset Area School District|Somerset Area School District
+42|21870|Souderton Area School District|Souderton Area School District
+42|21910|South Allegheny School District|South Allegheny School District
+42|21930|South Butler County School District|South Butler County School District
+42|22050|South Middleton School District|South Middleton School District
+42|22060|South Park School District|South Park School District
+42|22140|South Williamsport Area School District|South Williamsport Area School District
+42|22170|South Eastern School District|South Eastern School District
+42|22200|Southeastern Greene School District|Southeastern Greene School District
+42|22230|South Side Area School District|South Side Area School District
+42|22260|Southern Columbia Area School District|Southern Columbia Area School District
+42|22290|Southern Fulton School District|Southern Fulton School District
+42|22320|Southern Huntingdon County School District|Southern Huntingdon County School District
+42|22350|Southern Lehigh School District|Southern Lehigh School District
+42|22370|Southern Tioga School District|Southern Tioga School District
+42|22380|Southern York County School District|Southern York County School District
+42|22400|Southeast Delco School District|Southeast Delco School District
+42|22410|Southmoreland School District|Southmoreland School District
+42|22440|Seneca Valley School District|Seneca Valley School District
+42|22470|South Western School District|South Western School District
+42|22530|Spring Cove School District|Spring Cove School District
+42|22560|Spring-Ford Area School District|Spring-Ford Area School District
+42|22590|Spring Grove Area School District|Spring Grove Area School District
+42|22600|Springfield School District|Springfield School District
+42|22620|Springfield Township School District|Springfield Township School District
+42|22710|Saint Clair Area School District|Saint Clair Area School District
+42|22740|Tuscarora School District|Tuscarora School District
+42|22770|State College Area School District|State College Area School District
+42|22790|Steel Valley School District|Steel Valley School District
+42|22800|Steelton-Highspire School District|Steelton-Highspire School District
+42|22830|Sto-Rox School District|Sto-Rox School District
+42|22860|Stroudsburg Area School District|Stroudsburg Area School District
+42|22920|Sullivan County School District|Sullivan County School District
+42|22980|Susquehanna Community School District|Susquehanna Community School District
+42|23010|Susquehanna Township School District|Susquehanna Township School District
+42|23040|Susquenita School District|Susquenita School District
+42|23220|Tamaqua Area School District|Tamaqua Area School District
+42|23250|Riverside School District|Riverside School District
+42|23490|Titusville Area School District|Titusville Area School District
+42|23550|Towanda Area School District|Towanda Area School District
+42|23640|Tredyffrin-Easttown School District|Tredyffrin-Easttown School District
+42|23700|Tri-Valley School District|Tri-Valley School District
+42|23760|Trinity Area School District|Trinity Area School District
+42|23790|Troy Area School District|Troy Area School District
+42|23820|Tulpehocken Area School District|Tulpehocken Area School District
+42|23850|Tunkhannock Area School District|Tunkhannock Area School District
+42|23880|Turkeyfoot Valley Area School District|Turkeyfoot Valley Area School District
+42|23970|Tussey Mountain School District|Tussey Mountain School District
+42|24000|Twin Valley School District|Twin Valley School District
+42|24030|Tyrone Area School District|Tyrone Area School District
+42|24060|Union Area School District|Union Area School District
+42|24090|Union City Area School District|Union City Area School District
+42|24120|Union School District|Union School District
+42|24150|Uniontown Area School District|Uniontown Area School District
+42|24210|Unionville-Chadds Ford School District|Unionville-Chadds Ford School District
+42|24240|United School District|United School District
+42|24300|Upper Adams School District|Upper Adams School District
+42|24320|Upper Darby School District|Upper Darby School District
+42|24360|Upper Dauphin Area School District|Upper Dauphin Area School District
+42|24390|Upper Dublin School District|Upper Dublin School District
+42|24480|Upper Merion Area School District|Upper Merion Area School District
+42|24510|Upper Moreland Township School District|Upper Moreland Township School District
+42|24540|Upper Perkiomen School District|Upper Perkiomen School District
+42|24570|Upper Saint Clair School District|Upper Saint Clair School District
+42|24630|Valley Grove School District|Valley Grove School District
+42|24650|Valley View School District|Valley View School District
+42|24750|Wallenpaupack Area School District|Wallenpaupack Area School District
+42|24790|Wallingford-Swarthmore School District|Wallingford-Swarthmore School District
+42|24820|Warren County School District|Warren County School District
+42|24870|Warrior Run School District|Warrior Run School District
+42|24960|Warwick School District|Warwick School District
+42|24970|Wayne Highlands School District|Wayne Highlands School District
+42|24990|Washington School District|Washington School District
+42|25080|Wattsburg Area School District|Wattsburg Area School District
+42|25110|Waynesboro Area School District|Waynesboro Area School District
+42|25140|Weatherly Area School District|Weatherly Area School District
+42|25170|Wellsboro Area School District|Wellsboro Area School District
+42|25200|West Allegheny School District|West Allegheny School District
+42|25230|West Branch Area School District|West Branch Area School District
+42|25290|West Chester Area School District|West Chester Area School District
+42|25440|West Greene School District|West Greene School District
+42|25590|West Jefferson Hills School District|West Jefferson Hills School District
+42|25650|West Middlesex Area School District|West Middlesex Area School District
+42|25680|West Mifflin Area School District|West Mifflin Area School District
+42|25740|West Perry School District|West Perry School District
+42|25830|West Shore School District|West Shore School District
+42|25950|Wyoming Valley West School District|Wyoming Valley West School District
+42|25980|West York Area School District|West York Area School District
+42|26010|Mifflinburg Area School District|Mifflinburg Area School District
+42|26040|Western Beaver County School District|Western Beaver County School District
+42|26070|Western Wayne School District|Western Wayne School District
+42|26130|Westmont Hilltop School District|Westmont Hilltop School District
+42|26250|Whitehall-Coplay School District|Whitehall-Coplay School District
+42|26300|Wilkes-Barre Area School District|Wilkes-Barre Area School District
+42|26370|Wilkinsburg Borough School District|Wilkinsburg Borough School District
+42|26390|William Penn School District|William Penn School District
+42|26400|Williams Valley School District|Williams Valley School District
+42|26430|Williamsburg Community School District|Williamsburg Community School District
+42|26460|Williamsport Area School District|Williamsport Area School District
+42|26520|Wilmington Area School District|Wilmington Area School District
+42|26550|Wilson Area School District|Wilson Area School District
+42|26580|Wilson School District|Wilson School District
+42|26610|Windber Area School District|Windber Area School District
+42|26700|Wyalusing Area School District|Wyalusing Area School District
+42|26730|Wyoming Area School District|Wyoming Area School District
+42|26760|Wyomissing Area School District|Wyomissing Area School District
+42|26820|York City School District|York City School District
+42|26850|York Suburban School District|York Suburban School District
+42|99998|School District Not Defined (Water)|School District Not Defined (Water)

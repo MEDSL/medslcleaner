@@ -1,0 +1,7 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+23|0115|Aroostook Band of Micmac|Aroostook Band of Micmac Trust Land
+23|1530|Houlton Maliseet|Houlton Maliseet Reservation and Off-Reservation Trust Land
+23|1575|Indian Township|Indian Township Reservation
+23|2695|Passamaquoddy|Passamaquoddy Trust Land
+23|2760|Penobscot|Penobscot Reservation and Off-Reservation Trust Land
+23|2850|Pleasant Point|Pleasant Point Reservation

@@ -1,0 +1,255 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+31|00002|David City Public Schools|David City Public Schools
+31|00003|East Butler Public Schools|East Butler Public Schools
+31|00004|Laurel-Concord Public Schools|Laurel-Concord Public Schools
+31|00005|Howells Public Schools|Howells Public Schools
+31|00006|West Point Public Schools|West Point Public Schools
+31|00008|Wisner-Pilger Public Schools|Wisner-Pilger Public Schools
+31|00010|Anselmo-Merna Public Schools|Anselmo-Merna Public Schools
+31|00011|Broken Bow Public Schools|Broken Bow Public Schools
+31|00012|Callaway Public Schools|Callaway Public Schools
+31|00015|Cambridge Public Schools|Cambridge Public Schools
+31|00016|Grand Island Public Schools|Grand Island Public Schools
+31|00018|Wauneta-Palisade Public Schools|Wauneta-Palisade Public Schools
+31|00020|Ewing Public Schools|Ewing Public Schools
+31|00021|Waverly School District 145|Waverly School District 145
+31|00022|North Platte Public Schools|North Platte Public Schools
+31|00023|Maxwell Public Schools|Maxwell Public Schools
+31|00024|Sutherland Public Schools|Sutherland Public Schools
+31|00025|Elkhorn Valley Schools|Elkhorn Valley Schools
+31|00029|Superior Public Schools|Superior Public Schools
+31|00034|Ashland-Greenwood Public Schools|Ashland-Greenwood Public Schools
+31|00040|Prague Public Schools|Prague Public Schools
+31|00041|Stanton Community Schools|Stanton Community Schools
+31|00065|Franklin Public Schools|Franklin Public Schools
+31|00066|Silver Lake Public Schools|Silver Lake Public Schools
+31|00067|Banner County Public Schools|Banner County Public Schools
+31|00068|Cedar Rapids Public Schools|Cedar Rapids Public Schools
+31|00070|Amherst Public Schools|Amherst Public Schools
+31|00071|Tekamah-Herman Community Schools|Tekamah-Herman Community Schools
+31|00072|Leyton Public Schools|Leyton Public Schools
+31|00073|Arnold Public Schools|Arnold Public Schools
+31|00076|Scribner-Snyder Community Schools|Scribner-Snyder Community Schools
+31|00077|Dundy County Public Schools|Dundy County Public Schools
+31|00080|Alma Public Schools|Alma Public Schools
+31|00082|Stuart Public Schools|Stuart Public Schools
+31|00085|St. Paul Public Schools|St. Paul Public Schools
+31|00088|Norris School District 160|Norris School District 160
+31|00089|Palmer Public Schools|Palmer Public Schools
+31|00090|Bayard Public Schools|Bayard Public Schools
+31|00091|Fullerton Public Schools|Fullerton Public Schools
+31|00095|Crete Public Schools|Crete Public Schools
+31|00096|Friend Public Schools|Friend Public Schools
+31|00097|Morrill Public Schools|Morrill Public Schools
+31|00098|Gering Public Schools|Gering Public Schools
+31|00099|Centennial Public Schools|Centennial Public Schools
+31|00105|Bridgeport Public Schools|Bridgeport Public Schools
+31|00109|Southern Valley Schools|Southern Valley Schools
+31|00110|South Platte Public Schools|South Platte Public Schools
+31|00111|Eustis-Farnam Public Schools|Eustis-Farnam Public Schools
+31|00112|Lakeview Community Schools|Lakeview Community Schools
+31|00114|Logan View Public Schools|Logan View Public Schools
+31|00115|North Bend Central Public Schools|North Bend Central Public Schools
+31|00116|Freeman Public Schools|Freeman Public Schools
+31|00117|Heartland Community Schools|Heartland Community Schools
+31|00118|Fillmore Central Public Schools|Fillmore Central Public Schools
+31|00119|Nebraska Unified District 1|Nebraska Unified District 1
+31|00120|Hitchcock County School System|Hitchcock County School System
+31|00121|Doniphan-Trumbull Public Schools|Doniphan-Trumbull Public Schools
+31|00122|South Central Nebraska School District|South Central Nebraska School District
+31|00123|High Plains Community Schools|High Plains Community Schools
+31|00124|Bruning-Davenport Unified School System|Bruning-Davenport Unified School System
+31|00125|Diller-Odell Public Schools|Diller-Odell Public Schools
+31|00129|Twin Rivers Public Schools|Twin Rivers Public Schools
+31|00130|Cross County Community Schools|Cross County Community Schools
+31|00132|Thayer Central Community Schools|Thayer Central Community Schools
+31|00133|Exeter-Milligan Public Schools|Exeter-Milligan Public Schools
+31|00134|Wilcox-Hildreth Public Schools|Wilcox-Hildreth Public Schools
+31|00140|Creek Valley Schools|Creek Valley Schools
+31|00141|Emerson-Hubbard Public Schools|Emerson-Hubbard Public Schools
+31|00148|Greeley-Wolbach Public Schools|Greeley-Wolbach Public Schools
+31|00157|Perkins County Schools|Perkins County Schools
+31|00165|Douglas County West Community Schools|Douglas County West Community Schools
+31|00170|Gordon-Rushville Public Schools|Gordon-Rushville Public Schools
+31|00172|West Holt Public Schools|West Holt Public Schools
+31|00176|Johnson County Central Public Schools|Johnson County Central Public Schools
+31|00178|Southwest Public Schools|Southwest Public Schools
+31|00179|Humboldt Table Rock Steinauer Public Schools|Humboldt Table Rock Steinauer Public Schools
+31|00180|West Boyd Public Schools|West Boyd Public Schools
+31|01992|Elmwood-Murdock Public Schools|Elmwood-Murdock Public Schools
+31|02770|Adams Central Public Schools|Adams Central Public Schools
+31|02790|Ainsworth Community Schools|Ainsworth Community Schools
+31|02820|Boone Central Schools|Boone Central Schools
+31|02880|Allen Consolidated Schools|Allen Consolidated Schools
+31|02910|Alliance Public Schools|Alliance Public Schools
+31|03060|Ansley Public Schools|Ansley Public Schools
+31|03090|Arapahoe Public Schools|Arapahoe Public Schools
+31|03120|Arcadia Public Schools|Arcadia Public Schools
+31|03130|Arlington Public Schools|Arlington Public Schools
+31|03210|Arthur County Schools|Arthur County Schools
+31|03330|Auburn Public Schools|Auburn Public Schools
+31|03360|Aurora Public Schools|Aurora Public Schools
+31|03420|Axtell Community Schools|Axtell Community Schools
+31|03440|Bancroft-Rosalie Community Schools|Bancroft-Rosalie Community Schools
+31|03540|Battle Creek Public Schools|Battle Creek Public Schools
+31|03600|Beatrice Public Schools|Beatrice Public Schools
+31|03810|Bellevue Public Schools|Bellevue Public Schools
+31|03990|Bennington Public Schools|Bennington Public Schools
+31|04020|Bertrand Public Schools|Bertrand Public Schools
+31|04100|Blair Community Schools|Blair Community Schools
+31|04140|Bloomfield Community Schools|Bloomfield Community Schools
+31|04200|Blue Hill Public Schools|Blue Hill Public Schools
+31|04290|Brady Public Schools|Brady Public Schools
+31|04640|Burwell Public Schools|Burwell Public Schools
+31|04870|Cedar Bluffs Public Schools|Cedar Bluffs Public Schools
+31|04920|Central City Public Schools|Central City Public Schools
+31|04950|Raymond Central Schools|Raymond Central Schools
+31|04980|Chadron Public Schools|Chadron Public Schools
+31|05010|Chambers Public Schools|Chambers Public Schools
+31|05070|Chase County Schools|Chase County Schools
+31|05160|Clarkson Public Schools|Clarkson Public Schools
+31|05220|Clay Center Public Schools|Clay Center Public Schools
+31|05280|Cody-Kilgore Public Schools|Cody-Kilgore Public Schools
+31|05310|Coleridge Community Schools|Coleridge Community Schools
+31|05340|Columbus Public Schools|Columbus Public Schools
+31|05460|Cozad City Schools|Cozad City Schools
+31|05520|Crawford Public Schools|Crawford Public Schools
+31|05550|Creighton Public Schools|Creighton Public Schools
+31|05630|Crofton Community Schools|Crofton Community Schools
+31|05910|Deshler Public Schools|Deshler Public Schools
+31|05970|Tri County Public Schools|Tri County Public Schools
+31|09120|Hayes Center Public Schools|Hayes Center Public Schools
+31|19560|Umonhon Nation Public Schools|Umonhon Nation Public Schools
+31|62950|Centura Public Schools|Centura Public Schools
+31|69780|Dodge Public Schools|Dodge Public Schools
+31|69840|Dorchester Public Schools|Dorchester Public Schools
+31|70020|Elba Public Schools|Elba Public Schools
+31|70050|Elgin Public Schools|Elgin Public Schools
+31|70110|Elkhorn Public Schools|Elkhorn Public Schools
+31|70140|Elm Creek Public Schools|Elm Creek Public Schools
+31|70220|Elwood Public Schools|Elwood Public Schools
+31|70440|Fairbury Public Schools|Fairbury Public Schools
+31|70530|Falls City Public Schools|Falls City Public Schools
+31|70650|Fort Calhoun Community Schools|Fort Calhoun Community Schools
+31|70710|Fremont Public Schools|Fremont Public Schools
+31|70800|Garden County Schools|Garden County Schools
+31|70980|Gibbon Public Schools|Gibbon Public Schools
+31|71010|Giltner Public Schools|Giltner Public Schools
+31|71100|Gothenburg Public Schools|Gothenburg Public Schools
+31|71220|Gretna Public Schools|Gretna Public Schools
+31|71370|Hampton Public Schools|Hampton Public Schools
+31|71520|Hartington Public Schools|Hartington Public Schools
+31|71550|Harvard Public Schools|Harvard Public Schools
+31|71580|Hastings Public Schools|Hastings Public Schools
+31|71610|Hay Springs Public Schools|Hay Springs Public Schools
+31|71730|Hemingford Public Schools|Hemingford Public Schools
+31|71820|Hershey Public Schools|Hershey Public Schools
+31|71940|Holdrege Public Schools|Holdrege Public Schools
+31|72000|Homer Community Schools|Homer Community Schools
+31|72150|Humphrey Public Schools|Humphrey Public Schools
+31|72210|Hyannis Area Schools|Hyannis Area Schools
+31|72335|Johnson-Brock Public Schools|Johnson-Brock Public Schools
+31|72390|Kearney Public Schools|Kearney Public Schools
+31|72420|Kenesaw Public Schools|Kenesaw Public Schools
+31|72480|Keya Paha County Schools|Keya Paha County Schools
+31|72570|Kimball Public Schools|Kimball Public Schools
+31|72720|Leigh Community Schools|Leigh Community Schools
+31|72780|Lewiston Consolidated Schools|Lewiston Consolidated Schools
+31|72810|Lexington Public Schools|Lexington Public Schools
+31|72840|Lincoln Public Schools|Lincoln Public Schools
+31|72910|Litchfield Public Schools|Litchfield Public Schools
+31|72990|Loomis Public Schools|Loomis Public Schools
+31|73050|Louisville Public Schools|Louisville Public Schools
+31|73090|Loup City Public Schools|Loup City Public Schools
+31|73120|Loup County Public Schools|Loup County Public Schools
+31|73170|Lynch Public Schools|Lynch Public Schools
+31|73210|Lyons-Decatur Northeast Schools|Lyons-Decatur Northeast Schools
+31|73230|Madison Public Schools|Madison Public Schools
+31|73290|Malcolm Public Schools|Malcolm Public Schools
+31|73440|Maywood Public Schools|Maywood Public Schools
+31|73470|McCook Public Schools|McCook Public Schools
+31|73500|McCool Junction Public Schools|McCool Junction Public Schools
+31|73560|McPherson County Schools|McPherson County Schools
+31|73590|Mead Public Schools|Mead Public Schools
+31|73600|Medicine Valley Public Schools|Medicine Valley Public Schools
+31|73660|Meridian Public Schools|Meridian Public Schools
+31|73710|Milford Public Schools|Milford Public Schools
+31|73740|Millard Public Schools|Millard Public Schools
+31|73800|Minatare Public Schools|Minatare Public Schools
+31|73830|Minden Public Schools|Minden Public Schools
+31|73890|Mitchell Public Schools|Mitchell Public Schools
+31|74040|Mullen Public Schools|Mullen Public Schools
+31|74160|Nebraska City Public Schools|Nebraska City Public Schools
+31|74200|Conestoga Public Schools|Conestoga Public Schools
+31|74220|Neligh-Oakdale Schools|Neligh-Oakdale Schools
+31|74310|Newcastle Public Schools|Newcastle Public Schools
+31|74340|Newman Grove Public Schools|Newman Grove Public Schools
+31|74370|Niobrara Public Schools|Niobrara Public Schools
+31|74400|North Loup Scotia Public Schools|North Loup Scotia Public Schools
+31|74430|Norfolk Public Schools|Norfolk Public Schools
+31|74580|Northwest Public Schools|Northwest Public Schools
+31|74640|Oakland Craig Public Schools|Oakland Craig Public Schools
+31|74760|Ogallala Public Schools|Ogallala Public Schools
+31|74820|Omaha Public Schools|Omaha Public Schools
+31|74850|O'Neill Public Schools|O'Neill Public Schools
+31|74940|Ord Public Schools|Ord Public Schools
+31|75000|Osceola Public Schools|Osceola Public Schools
+31|75030|Osmond Public Schools|Osmond Public Schools
+31|75060|Overton Public Schools|Overton Public Schools
+31|75210|Palmyra District OR-1|Palmyra District OR-1
+31|75270|Papillion-La Vista Public Schools|Papillion-La Vista Public Schools
+31|75330|Pawnee City Public Schools|Pawnee City Public Schools
+31|75360|Paxton Consolidated Schools|Paxton Consolidated Schools
+31|75390|Pender Public Schools|Pender Public Schools
+31|75510|Pierce Public Schools|Pierce Public Schools
+31|75570|Plainview Public Schools|Plainview Public Schools
+31|75630|South Sarpy District 46|South Sarpy District 46
+31|75660|Plattsmouth Community Schools|Plattsmouth Community Schools
+31|75690|Pleasanton Public Schools|Pleasanton Public Schools
+31|75770|Ponca Public Schools|Ponca Public Schools
+31|75810|Potter-Dix Public Schools|Potter-Dix Public Schools
+31|75900|Ralston Public Schools|Ralston Public Schools
+31|75930|Randolph Public Schools|Randolph Public Schools
+31|75960|Ravenna Public Schools|Ravenna Public Schools
+31|75990|Red Cloud Community Schools|Red Cloud Community Schools
+31|76080|Rising City Public Schools|Rising City Public Schools
+31|76170|Rock County Public Schools|Rock County Public Schools
+31|76380|Sandhills Public Schools|Sandhills Public Schools
+31|76400|Santee Community Schools|Santee Community Schools
+31|76410|Sargent Public Schools|Sargent Public Schools
+31|76450|Schuyler Community Schools|Schuyler Community Schools
+31|76470|Scottsbluff Public Schools|Scottsbluff Public Schools
+31|76560|Seward Public Schools|Seward Public Schools
+31|76590|Shelby Public Schools|Shelby Public Schools
+31|76620|Shelton Public Schools|Shelton Public Schools
+31|76650|Shickley Public Schools|Shickley Public Schools
+31|76710|Sidney Public Schools|Sidney Public Schools
+31|76800|Sioux County Public Schools|Sioux County Public Schools
+31|76860|South Sioux City Community Schools|South Sioux City Community Schools
+31|76890|Spalding Public Schools|Spalding Public Schools
+31|76980|St. Edward Public Schools|St. Edward Public Schools
+31|77100|Stapleton Public Schools|Stapleton Public Schools
+31|77180|Southern School District 1|Southern School District 1
+31|77190|Sterling Public Schools|Sterling Public Schools
+31|77340|Sumner-Eddyville-Miller Schools|Sumner-Eddyville-Miller Schools
+31|77520|Sutton Public Schools|Sutton Public Schools
+31|77550|Syracuse-Dunbar-Avoca Schools|Syracuse-Dunbar-Avoca Schools
+31|77730|Thedford Public Schools|Thedford Public Schools
+31|78020|Valentine Community Schools|Valentine Community Schools
+31|78210|Wahoo Public Schools|Wahoo Public Schools
+31|78240|Wakefield Public Schools|Wakefield Public Schools
+31|78260|Wallace Public School District 65 R|Wallace Public School District 65 R
+31|78300|Walthill Public Schools|Walthill Public Schools
+31|78450|Wausa Public Schools|Wausa Public Schools
+31|78520|Wayne Community Schools|Wayne Community Schools
+31|78540|Weeping Water Public Schools|Weeping Water Public Schools
+31|78660|Westside Community Schools|Westside Community Schools
+31|78670|Wheeler Central Schools|Wheeler Central Schools
+31|78720|Wilber-Clatonia Public Schools|Wilber-Clatonia Public Schools
+31|78810|Winnebago Public Schools|Winnebago Public Schools
+31|78840|Winside Public Schools|Winside Public Schools
+31|78940|Wood River Rural Schools|Wood River Rural Schools
+31|78990|Wynot Public Schools|Wynot Public Schools
+31|79050|York Public Schools|York Public Schools
+31|79080|Yutan Public Schools|Yutan Public Schools
+31|99998|School District Not Defined|School District Not Defined

@@ -1,0 +1,63 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+19|01720|Amana|Amana CDP
+19|02035|Anderson|Anderson CDP
+19|03430|Athelstan|Athelstan CDP
+19|04735|Bartlett|Bartlett CDP
+19|05200|Beaverdale|Beaverdale CDP
+19|05870|Bentley|Bentley CDP
+19|07255|Bolan|Bolan CDP
+19|08020|Bradford|Bradford CDP
+19|09415|Burchinal|Burchinal CDP
+19|09640|Burr Oak|Burr Oak CDP
+19|09910|California Junction|California Junction CDP
+19|12675|Chapin|Chapin CDP
+19|14385|Climbing Hill|Climbing Hill CDP
+19|14835|Coalville|Coalville CDP
+19|15870|Conroy|Conroy CDP
+19|16320|Corley|Corley CDP
+19|19990|Denmark|Denmark CDP
+19|21320|Diamondhead Lake|Diamondhead Lake CDP
+19|22035|Douds|Douds CDP
+19|22710|Duncan|Duncan CDP
+19|23520|East Amana|East Amana CDP
+19|29325|Frytown|Frytown CDP
+19|29730|Garden City|Garden City CDP
+19|32925|Green Mountain|Green Mountain CDP
+19|35490|Hayfield|Hayfield CDP
+19|36030|High Amana|High Amana CDP
+19|36660|Holiday Lake|Holiday Lake CDP
+19|36975|Homestead|Homestead CDP
+19|37875|Hutchins|Hutchins CDP
+19|38955|Irvington|Irvington CDP
+19|39180|Jacksonville|Jacksonville CDP
+19|40710|Kent|Kent CDP
+19|42575|Lake Panorama|Lake Panorama CDP
+19|43950|Leando|Leando CDP
+19|45705|Little Cedar|Little Cedar CDP
+19|46785|Loveland|Loveland CDP
+19|51510|Meyer|Meyer CDP
+19|51600|Middle Amana|Middle Amana CDP
+19|52140|Miller|Miller CDP
+19|52635|Mineola|Mineola CDP
+19|53085|Mona|Mona CDP
+19|56190|New Haven|New Haven CDP
+19|60285|Otranto|Otranto CDP
+19|61725|Park View|Park View CDP
+19|62175|Percival|Percival CDP
+19|64155|Portland|Portland CDP
+19|67530|River Sioux|River Sioux CDP
+19|67890|Rochester|Rochester CDP
+19|68800|Roseville|Roseville CDP
+19|69825|St. Benedict|St. Benedict CDP
+19|70005|St. Joseph|St. Joseph CDP
+19|70995|Saylorville|Saylorville CDP
+19|71715|Sexton|Sexton CDP
+19|73965|South Amana|South Amana CDP
+19|75540|Stone City|Stone City CDP
+19|76415|Sun Valley Lake|Sun Valley Lake CDP
+19|78465|Toeterville|Toeterville CDP
+19|79335|Twin Lakes|Twin Lakes CDP
+19|82290|Washburn|Washburn CDP
+19|82515|Watkins|Watkins CDP
+19|83505|West Amana|West Amana CDP
+19|84495|Weston|Weston CDP

@@ -1,0 +1,6 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+16|0705|Coeur d'Alene|Coeur d'Alene Reservation
+16|0965|Duck Valley|Duck Valley Reservation
+16|1185|Fort Hall|Fort Hall Reservation and Off-Reservation Trust Land
+16|1800|Kootenai|Kootenai Reservation and Off-Reservation Trust Land
+16|2445|Nez Perce|Nez Perce Reservation

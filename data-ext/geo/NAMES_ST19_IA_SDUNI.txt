@@ -1,0 +1,365 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+19|00006|North Fayette Community School District|North Fayette Community School District
+19|00009|Colfax-Mingo Community School District|Colfax-Mingo Community School District
+19|00015|Sibley-Ocheyedan Community School District|Sibley-Ocheyedan Community School District
+19|00021|Okoboji Community School District|Okoboji Community School District
+19|00022|Union Community School District|Union Community School District
+19|00023|Sioux Central Community School District|Sioux Central Community School District
+19|00024|Southern Cal Community School District|Southern Cal Community School District
+19|00025|Panorama Community School District|Panorama Community School District
+19|00026|South O'Brien Community School District|South O'Brien Community School District
+19|00027|Riverside Community School District|Riverside Community School District
+19|00028|Prairie Valley Community School District|Prairie Valley Community School District
+19|00040|East Marshall Community School District|East Marshall Community School District
+19|00060|GMG Community School District|GMG Community School District
+19|03030|Lineville-Clio Community School District|Lineville-Clio Community School District
+19|03060|AGWSR Community School District|AGWSR Community School District
+19|03090|Adair-Casey Community School District|Adair-Casey Community School District
+19|03150|Adel-De Soto-Minburn Community School District|Adel-De Soto-Minburn Community School District
+19|03220|Akron-Westfield Community School District|Akron-Westfield Community School District
+19|03240|Albert City-Truesdale Community School District|Albert City-Truesdale Community School District
+19|03270|Albia Community School District|Albia Community School District
+19|03300|Alburnett Community School District|Alburnett Community School District
+19|03330|Alden Community School District|Alden Community School District
+19|03360|Algona Community School District|Algona Community School District
+19|03390|Allamakee Community School District|Allamakee Community School District
+19|03450|Allison-Bristow Community School District|Allison-Bristow Community School District
+19|03480|Alta Community School District|Alta Community School District
+19|03540|Ames Community School District|Ames Community School District
+19|03570|Anamosa Community School District|Anamosa Community School District
+19|03630|Andrew Community School District|Andrew Community School District
+19|03660|Anita Community School District|Anita Community School District
+19|03690|Ankeny Community School District|Ankeny Community School District
+19|03720|Anthon-Oto Community School District|Anthon-Oto Community School District
+19|03750|Aplington-Parkersburg Community School District|Aplington-Parkersburg Community School District
+19|03780|Ar-We-Va Community School District|Ar-We-Va Community School District
+19|03850|Armstrong-Ringsted Community School District|Armstrong-Ringsted Community School District
+19|03930|Atlantic Community School District|Atlantic Community School District
+19|03960|Audubon Community School District|Audubon Community School District
+19|04020|Aurelia Community School District|Aurelia Community School District
+19|04080|A-H-S-T Community School District|A-H-S-T Community School District
+19|04200|Ballard Community School District|Ballard Community School District
+19|04320|Battle Creek-Ida Grove Community School District|Battle Creek-Ida Grove Community School District
+19|04380|Baxter Community School District|Baxter Community School District
+19|04440|BCLUW Community School District|BCLUW Community School District
+19|04560|Bedford Community School District|Bedford Community School District
+19|04620|Belle Plaine Community School District|Belle Plaine Community School District
+19|04650|Bellevue Community School District|Bellevue Community School District
+19|04680|Belmond-Klemme Community School District|Belmond-Klemme Community School District
+19|04740|Bennett Community School District|Bennett Community School District
+19|04830|Benton Community School District|Benton Community School District
+19|04860|Bettendorf Community School District|Bettendorf Community School District
+19|04950|Eddyville-Blakesburg Community School District|Eddyville-Blakesburg Community School District
+19|05070|Bondurant-Farrar Community School District|Bondurant-Farrar Community School District
+19|05130|Boone Community School District|Boone Community School District
+19|05190|Boyden-Hull Community School District|Boyden-Hull Community School District
+19|05430|West Hancock Community School District|West Hancock Community School District
+19|05490|Brooklyn-Guernsey-Malcom Community School District|Brooklyn-Guernsey-Malcom Community School District
+19|05750|North Iowa Community School District|North Iowa Community School District
+19|05790|Burlington Community School District|Burlington Community School District
+19|05940|C and M Community School District|C and M Community School District
+19|05970|Cal Community School District|Cal Community School District
+19|06000|Calamus-Wheatland Community School District|Calamus-Wheatland Community School District
+19|06060|Camanche Community School District|Camanche Community School District
+19|06240|Cardinal Community School District|Cardinal Community School District
+19|06270|Carlisle Community School District|Carlisle Community School District
+19|06330|Carroll Community School District|Carroll Community School District
+19|06510|Cedar Falls Community School District|Cedar Falls Community School District
+19|06540|Cedar Rapids Community School District|Cedar Rapids Community School District
+19|06660|Center Point-Urbana Community School District|Center Point-Urbana Community School District
+19|06750|Centerville Community School District|Centerville Community School District
+19|06780|Central City Community School District|Central City Community School District
+19|06810|Central Clinton Community School District|Central Clinton Community School District
+19|06840|Central Community School District|Central Community School District
+19|06900|Central Decatur Community School District|Central Decatur Community School District
+19|06930|Central Lee Community School District|Central Lee Community School District
+19|06960|Central Lyon Community School District|Central Lyon Community School District
+19|07050|Chariton Community School District|Chariton Community School District
+19|07080|Charles City Community School District|Charles City Community School District
+19|07110|Charter Oak-Ute Community School District|Charter Oak-Ute Community School District
+19|07170|Cherokee Community School District|Cherokee Community School District
+19|07350|Clarinda Community School District|Clarinda Community School District
+19|07380|Clarion-Goldfield Community School District|Clarion-Goldfield Community School District
+19|07410|Clarke Community School District|Clarke Community School District
+19|07440|Clarksville Community School District|Clarksville Community School District
+19|07470|Clay Central-Everly Community School District|Clay Central-Everly Community School District
+19|07590|Clear Creek-Amana Community School District|Clear Creek-Amana Community School District
+19|07620|Clear Lake Community School District|Clear Lake Community School District
+19|07650|Clearfield Community School District|Clearfield Community School District
+19|07710|Clinton Community School District|Clinton Community School District
+19|07860|College Community School District|College Community School District
+19|07900|Collins-Maxwell Community School District|Collins-Maxwell Community School District
+19|07920|Colo-Nesco Community School District|Colo-Nesco Community School District
+19|07980|Columbus Community School District|Columbus Community School District
+19|08070|Coon Rapids-Bayard Community School District|Coon Rapids-Bayard Community School District
+19|08130|Corning Community School District|Corning Community School District
+19|08190|Corwith-Wesley Community School District|Corwith-Wesley Community School District
+19|08220|Council Bluffs Community School District|Council Bluffs Community School District
+19|08310|Creston Community School District|Creston Community School District
+19|08520|Dallas Center-Grimes Community School District|Dallas Center-Grimes Community School District
+19|08550|Danville Community School District|Danville Community School District
+19|08580|Davenport Community School District|Davenport Community School District
+19|08610|Davis County Community School District|Davis County Community School District
+19|08730|Decorah Community School District|Decorah Community School District
+19|08880|Delwood Community School District|Delwood Community School District
+19|08910|Denison Community School District|Denison Community School District
+19|08940|Denver Community School District|Denver Community School District
+19|08970|Des Moines Independent Community School District|Des Moines Independent Community School District
+19|09060|Diagonal Community School District|Diagonal Community School District
+19|09120|Dike-New Hartford Community School District|Dike-New Hartford Community School District
+19|09450|Dows Community School District|Dows Community School District
+19|09480|Dubuque Community School District|Dubuque Community School District
+19|09540|Dunkerton Community School District|Dunkerton Community School District
+19|09570|Boyer Valley Community School District|Boyer Valley Community School District
+19|09600|Durant Community School District|Durant Community School District
+19|09990|Eagle Grove Community School District|Eagle Grove Community School District
+19|10050|Earlham Community School District|Earlham Community School District
+19|10110|East Buchanan Community School District|East Buchanan Community School District
+19|10130|East Central Community School District|East Central Community School District
+19|10200|East Greene Community School District|East Greene Community School District
+19|10340|River Valley Community School District|River Valley Community School District
+19|10350|East Union Community School District|East Union Community School District
+19|10410|Eastern Allamakee Community School District|Eastern Allamakee Community School District
+19|10500|Edgewood-Colesburg Community School District|Edgewood-Colesburg Community School District
+19|10690|Eldora-New Providence Community School District|Eldora-New Providence Community School District
+19|10710|Elk Horn-Kimballton Community School District|Elk Horn-Kimballton Community School District
+19|10950|Emmetsburg Community School District|Emmetsburg Community School District
+19|10980|English Valleys Community School District|English Valleys Community School District
+19|11040|Essex Community School District|Essex Community School District
+19|11070|Estherville Lincoln Central Community School District|Estherville Lincoln Central Community School District
+19|11250|Exira Community School District|Exira Community School District
+19|11340|Fairfield Community School District|Fairfield Community School District
+19|11520|Farragut Community School District|Farragut Community School District
+19|11790|Forest City Community School District|Forest City Community School District
+19|11820|Fort Dodge Community School District|Fort Dodge Community School District
+19|11850|Fort Madison Community School District|Fort Madison Community School District
+19|11970|Fredericksburg Community School District|Fredericksburg Community School District
+19|12060|Fremont Community School District|Fremont Community School District
+19|12120|Fremont-Mills Community School District|Fremont-Mills Community School District
+19|12230|Galva-Holstein Community School District|Galva-Holstein Community School District
+19|12330|Garner-Hayfield Community School District|Garner-Hayfield Community School District
+19|12480|George-Little Rock Community School District|George-Little Rock Community School District
+19|12510|Gilbert Community School District|Gilbert Community School District
+19|12600|Gilmore City-Bradgate Community School District|Gilmore City-Bradgate Community School District
+19|12660|Gladbrook-Reinbeck Community School District|Gladbrook-Reinbeck Community School District
+19|12690|Glenwood Community School District|Glenwood Community School District
+19|12750|Glidden-Ralston Community School District|Glidden-Ralston Community School District
+19|12810|Graettinger Community School District|Graettinger Community School District
+19|13080|Greene Community School District|Greene Community School District
+19|13110|Nodaway Valley Community School District|Nodaway Valley Community School District
+19|13200|Grinnell-Newburg Community School District|Grinnell-Newburg Community School District
+19|13230|Griswold Community School District|Griswold Community School District
+19|13290|Grundy Center Community School District|Grundy Center Community School District
+19|13320|Guthrie Center Community School District|Guthrie Center Community School District
+19|13350|Clayton Ridge Community School District|Clayton Ridge Community School District
+19|13380|H-L-V Community School District|H-L-V Community School District
+19|13440|Hamburg Community School District|Hamburg Community School District
+19|13470|Hampton-Dumont Community School District|Hampton-Dumont Community School District
+19|13500|Harlan Community School District|Harlan Community School District
+19|13530|Harmony Community School District|Harmony Community School District
+19|13660|Hartley-Melvin-Sanborn Community School District|Hartley-Melvin-Sanborn Community School District
+19|14010|Highland Community School District|Highland Community School District
+19|14160|Hinton Community School District|Hinton Community School District
+19|14280|Howard-Winneshiek Community School District|Howard-Winneshiek Community School District
+19|14310|Hubbard-Radcliffe Community School District|Hubbard-Radcliffe Community School District
+19|14340|Hudson Community School District|Hudson Community School District
+19|14370|Humboldt Community School District|Humboldt Community School District
+19|14580|Independence Community School District|Independence Community School District
+19|14640|Indianola Community School District|Indianola Community School District
+19|14670|Interstate 35 Community School District|Interstate 35 Community School District
+19|14700|Iowa City Community School District|Iowa City Community School District
+19|14730|Iowa Falls Community School District|Iowa Falls Community School District
+19|14850|Iowa Valley Community School District|Iowa Valley Community School District
+19|14880|IKM Community School District|IKM Community School District
+19|15180|Janesville Consolidated School District|Janesville Consolidated School District
+19|15210|Jefferson-Scranton Community School District|Jefferson-Scranton Community School District
+19|15330|Jesup Community School District|Jesup Community School District
+19|15450|Johnston Community School District|Johnston Community School District
+19|15630|Keokuk Community School District|Keokuk Community School District
+19|15660|Keota Community School District|Keota Community School District
+19|15750|Kingsley-Pierson Community School District|Kingsley-Pierson Community School District
+19|15840|Knoxville Community School District|Knoxville Community School District
+19|16110|Lake Mills Community School District|Lake Mills Community School District
+19|16140|Harris-Lake Park Community School District|Harris-Lake Park Community School District
+19|16320|Lamoni Community School District|Lamoni Community School District
+19|16420|Laurens-Marathon Community School District|Laurens-Marathon Community School District
+19|16440|Lawton-Bronson Community School District|Lawton-Bronson Community School District
+19|16530|Le Mars Community School District|Le Mars Community School District
+19|16620|Lenox Community School District|Lenox Community School District
+19|16680|Lewis Central Community School District|Lewis Central Community School District
+19|17100|North Cedar Community School District|North Cedar Community School District
+19|17220|Linn-Mar Community School District|Linn-Mar Community School District
+19|17250|Lisbon Community School District|Lisbon Community School District
+19|17460|Logan-Magnolia Community School District|Logan-Magnolia Community School District
+19|17550|Lone Tree Community School District|Lone Tree Community School District
+19|17820|Louisa-Muscatine Community School District|Louisa-Muscatine Community School District
+19|17880|Lu Verne Community School District|Lu Verne Community School District
+19|18030|Lynnville-Sully Community School District|Lynnville-Sully Community School District
+19|18120|MFL MarMac Community School District|MFL MarMac Community School District
+19|18180|Madrid Community School District|Madrid Community School District
+19|18240|Malvern Community School District|Malvern Community School District
+19|18300|Manning Community School District|Manning Community School District
+19|18330|Manson Northwest Webster Community School District|Manson Northwest Webster Community School District
+19|18480|Maple Valley Community School District|Maple Valley Community School District
+19|18510|Maquoketa Community School District|Maquoketa Community School District
+19|18540|Maquoketa Valley Community School District|Maquoketa Valley Community School District
+19|18630|Marcus-Meriden-Cleghorn Community School District|Marcus-Meriden-Cleghorn Community School District
+19|18690|Marion Independent School District|Marion Independent School District
+19|18720|Marshalltown Community School District|Marshalltown Community School District
+19|18750|Martensdale-St. Marys Community School District|Martensdale-St. Marys Community School District
+19|18780|Mason City Community School District|Mason City Community School District
+19|18840|MOC-Floyd Valley Community School District|MOC-Floyd Valley Community School District
+19|18930|Mediapolis Community School District|Mediapolis Community School District
+19|18960|Melcher-Dallas Community School District|Melcher-Dallas Community School District
+19|19140|Mid-Prairie Community School District|Mid-Prairie Community School District
+19|19200|Midland Community School District|Midland Community School District
+19|19440|Missouri Valley Community School District|Missouri Valley Community School District
+19|19590|Montezuma Community School District|Montezuma Community School District
+19|19650|Monticello Community School District|Monticello Community School District
+19|19710|Moravia Community School District|Moravia Community School District
+19|19740|Mormon Trail Community School District|Mormon Trail Community School District
+19|19770|Morning Sun Community School District|Morning Sun Community School District
+19|19800|Moulton-Udell Community School District|Moulton-Udell Community School District
+19|19860|Mount Ayr Community School District|Mount Ayr Community School District
+19|19890|Mount Pleasant Community School District|Mount Pleasant Community School District
+19|20040|Mount Vernon Community School District|Mount Vernon Community School District
+19|20100|Murray Community School District|Murray Community School District
+19|20130|Muscatine Community School District|Muscatine Community School District
+19|20190|Nashua-Plainfield Community School District|Nashua-Plainfield Community School District
+19|20250|Nevada Community School District|Nevada Community School District
+19|20340|New Hampton Community School District|New Hampton Community School District
+19|20460|New London Community School District|New London Community School District
+19|20490|New Market Community School District|New Market Community School District
+19|20580|Newell-Fonda Community School District|Newell-Fonda Community School District
+19|20610|Newton Community School District|Newton Community School District
+19|20670|Nishna Valley Community School District|Nishna Valley Community School District
+19|20730|Nora Springs-Rock Falls Community School District|Nora Springs-Rock Falls Community School District
+19|20760|North Central Community School District|North Central Community School District
+19|20820|North Linn Community School District|North Linn Community School District
+19|20830|North Kossuth Community School District|North Kossuth Community School District
+19|20850|North Mahaska Community School District|North Mahaska Community School District
+19|20910|North Polk Community School District|North Polk Community School District
+19|20940|North Scott Community School District|North Scott Community School District
+19|21000|North Tama County Community School District|North Tama County Community School District
+19|21060|North Winneshiek Community School District|North Winneshiek Community School District
+19|21090|Northeast Community School District|Northeast Community School District
+19|21120|Northeast Hamilton Community School District|Northeast Hamilton Community School District
+19|21210|Northwood-Kensett Community School District|Northwood-Kensett Community School District
+19|21240|Norwalk Community School District|Norwalk Community School District
+19|21600|Odebolt-Arthur Community School District|Odebolt-Arthur Community School District
+19|21630|Oelwein Community School District|Oelwein Community School District
+19|21660|Ogden Community School District|Ogden Community School District
+19|21720|Olin Consolidated School District|Olin Consolidated School District
+19|21810|Orient-Macksburg Community School District|Orient-Macksburg Community School District
+19|21840|Osage Community School District|Osage Community School District
+19|21870|Oskaloosa Community School District|Oskaloosa Community School District
+19|22110|Ottumwa Community School District|Ottumwa Community School District
+19|22380|Paton-Churdan Community School District|Paton-Churdan Community School District
+19|22440|Pekin Community School District|Pekin Community School District
+19|22470|Pella Community School District|Pella Community School District
+19|22530|Perry Community School District|Perry Community School District
+19|23110|Pleasant Valley Community School District|Pleasant Valley Community School District
+19|23160|Pleasantville Community School District|Pleasantville Community School District
+19|23190|Pocahontas Area Community School District|Pocahontas Area Community School District
+19|23220|Pomeroy-Palmer Community School District|Pomeroy-Palmer Community School District
+19|23340|Postville Community School District|Postville Community School District
+19|23760|Prescott Community School District|Prescott Community School District
+19|23790|Preston Community School District|Preston Community School District
+19|24000|Red Oak Community School District|Red Oak Community School District
+19|24120|Remsen-Union Community School District|Remsen-Union Community School District
+19|24150|Riceville Community School District|Riceville Community School District
+19|24660|Rock Valley Community School District|Rock Valley Community School District
+19|24720|Rockwell City-Lytton Community School District|Rockwell City-Lytton Community School District
+19|24750|Rockwell-Swaledale Community School District|Rockwell-Swaledale Community School District
+19|24870|Roland-Story Community School District|Roland-Story Community School District
+19|24960|Rudd-Rockford-Marble Rock Community School District|Rudd-Rockford-Marble Rock Community School District
+19|24990|Russell Community School District|Russell Community School District
+19|25050|Ruthven-Ayrshire Community School District|Ruthven-Ayrshire Community School District
+19|25140|Sac Community School District|Sac Community School District
+19|25200|St. Ansgar Community School District|St. Ansgar Community School District
+19|25320|Saydel Community School District|Saydel Community School District
+19|25380|Schaller-Crestland Community School District|Schaller-Crestland Community School District
+19|25410|Schleswig Community School District|Schleswig Community School District
+19|25560|Sentral Community School District|Sentral Community School District
+19|25590|Sergeant Bluff-Luton Community School District|Sergeant Bluff-Luton Community School District
+19|25620|Seymour Community School District|Seymour Community School District
+19|25920|Sheffield Chapin Meservey Thornton Community School District|Sheffield Chapin Meservey Thornton Community School District
+19|25980|Sheldon Community School District|Sheldon Community School District
+19|26070|Shenandoah Community School District|Shenandoah Community School District
+19|26250|Sidney Community School District|Sidney Community School District
+19|26280|Sigourney Community School District|Sigourney Community School District
+19|26370|Sioux Center Community School District|Sioux Center Community School District
+19|26400|Sioux City Community School District|Sioux City Community School District
+19|26580|Solon Community School District|Solon Community School District
+19|26610|South Clay Community School District|South Clay Community School District
+19|26640|South Hamilton Community School District|South Hamilton Community School District
+19|26670|South Page Community School District|South Page Community School District
+19|26730|South Tama County Community School District|South Tama County Community School District
+19|26790|South Winneshiek Community School District|South Winneshiek Community School District
+19|26820|Southeast Polk Community School District|Southeast Polk Community School District
+19|26850|Southeast Warren Community School District|Southeast Warren Community School District
+19|26910|Spencer Community School District|Spencer Community School District
+19|27000|Spirit Lake Community School District|Spirit Lake Community School District
+19|27060|Springville Community School District|Springville Community School District
+19|27240|Stanton Community School District|Stanton Community School District
+19|27270|Starmont Community School District|Starmont Community School District
+19|27390|Storm Lake Community School District|Storm Lake Community School District
+19|27480|Stratford Community School District|Stratford Community School District
+19|27500|West Central Valley Community School District|West Central Valley Community School District
+19|27600|Sumner Community School District|Sumner Community School District
+19|27810|Terril Community School District|Terril Community School District
+19|27870|Tipton Community School District|Tipton Community School District
+19|27900|Titonka Consolidated School District|Titonka Consolidated School District
+19|27960|Treynor Community School District|Treynor Community School District
+19|27990|Tri-Center Community School District|Tri-Center Community School District
+19|28020|Tri-County Community School District|Tri-County Community School District
+19|28050|Tripoli Community School District|Tripoli Community School District
+19|28110|Turkey Valley Community School District|Turkey Valley Community School District
+19|28170|Twin Cedars Community School District|Twin Cedars Community School District
+19|28200|Twin Rivers Community School District|Twin Rivers Community School District
+19|28230|Underwood Community School District|Underwood Community School District
+19|28560|United Community School District|United Community School District
+19|28680|Urbandale Community School District|Urbandale Community School District
+19|28710|Valley Community School District|Valley Community School District
+19|28980|Van Buren Community School District|Van Buren Community School District
+19|29010|Van Meter Community School District|Van Meter Community School District
+19|29100|Ventura Community School District|Ventura Community School District
+19|29280|Villisca Community School District|Villisca Community School District
+19|29310|Vinton-Shellsburg Community School District|Vinton-Shellsburg Community School District
+19|29490|Waco Community School District|Waco Community School District
+19|29580|Wall Lake View Auburn Community School District|Wall Lake View Auburn Community School District
+19|29640|Walnut Community School District|Walnut Community School District
+19|29730|Wapello Community School District|Wapello Community School District
+19|29760|Wapsie Valley Community School District|Wapsie Valley Community School District
+19|30240|Washington Community School District|Washington Community School District
+19|30480|Waterloo Community School District|Waterloo Community School District
+19|30510|Waukee Community School District|Waukee Community School District
+19|30540|Waverly-Shell Rock Community School District|Waverly-Shell Rock Community School District
+19|30560|Wayne Community School District|Wayne Community School District
+19|30630|Webster City Community School District|Webster City Community School District
+19|30720|West Bend-Mallard Community School District|West Bend-Mallard Community School District
+19|30750|West Branch Community School District|West Branch Community School District
+19|30780|West Burlington Independent School District|West Burlington Independent School District
+19|30870|West Central Community School District|West Central Community School District
+19|30900|West Delaware County Community School District|West Delaware County Community School District
+19|30930|West Des Moines Community School District|West Des Moines Community School District
+19|30960|West Harrison Community School District|West Harrison Community School District
+19|30990|West Liberty Community School District|West Liberty Community School District
+19|31020|West Lyon Community School District|West Lyon Community School District
+19|31080|West Marshall Community School District|West Marshall Community School District
+19|31110|West Monona Community School District|West Monona Community School District
+19|31290|West Sioux Community School District|West Sioux Community School District
+19|31350|Western Dubuque Community School District|Western Dubuque Community School District
+19|31470|Westwood Community School District|Westwood Community School District
+19|31620|Whiting Community School District|Whiting Community School District
+19|31680|Williamsburg Community School District|Williamsburg Community School District
+19|31800|Wilton Community School District|Wilton Community School District
+19|31830|Winfield-Mount Union Community School District|Winfield-Mount Union Community School District
+19|31860|Winterset Community School District|Winterset Community School District
+19|31890|Woden-Crystal Lake Community School District|Woden-Crystal Lake Community School District
+19|31920|Woodbine Community School District|Woodbine Community School District
+19|31950|Woodbury Central Community School District|Woodbury Central Community School District
+19|32010|Woodward-Granger Community School District|Woodward-Granger Community School District
+19|99017|PCM Community School District|PCM Community School District
+19|99019|Southeast Webster-Grand Community School District|Southeast Webster-Grand Community School District
+19|99997|School District Not Defined|School District Not Defined

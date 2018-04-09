@@ -1,0 +1,618 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+36|00199|Adams|Adams village
+36|00276|Addison|Addison village
+36|00342|Afton|Afton village
+36|00408|Airmont|Airmont village
+36|00441|Akron|Akron village
+36|01000|Albany|Albany city
+36|01033|Albion|Albion village
+36|01088|Alden|Alden village
+36|01154|Alexander|Alexander village
+36|01187|Alexandria Bay|Alexandria Bay village
+36|01198|Alfred|Alfred village
+36|01286|Allegany|Allegany village
+36|01440|Almond|Almond village
+36|01517|Altamont|Altamont village
+36|01550|Altmar|Altmar village
+36|01737|Ames|Ames village
+36|02044|Amityville|Amityville village
+36|02066|Amsterdam|Amsterdam city
+36|02143|Andover|Andover village
+36|02176|Angelica|Angelica village
+36|02198|Angola|Angola village
+36|02286|Antwerp|Antwerp village
+36|02407|Arcade|Arcade village
+36|02506|Ardsley|Ardsley village
+36|02550|Argyle|Argyle village
+36|02583|Arkport|Arkport village
+36|02737|Asharoken|Asharoken village
+36|02902|Athens|Athens village
+36|02968|Atlantic Beach|Atlantic Beach village
+36|03001|Attica|Attica village
+36|03078|Auburn|Auburn city
+36|03188|Aurora|Aurora village
+36|03331|Avoca|Avoca village
+36|03353|Avon|Avon village
+36|03408|Babylon|Babylon village
+36|04033|Bainbridge|Bainbridge village
+36|04198|Baldwinsville|Baldwinsville village
+36|04253|Ballston Spa|Ballston Spa village
+36|04440|Barker|Barker village
+36|04528|Barneveld|Barneveld village
+36|04715|Batavia|Batavia city
+36|04759|Bath|Bath village
+36|04803|Baxter Estates|Baxter Estates village
+36|05034|Bayville|Bayville village
+36|05100|Beacon|Beacon city
+36|05639|Bellerose|Bellerose village
+36|05672|Belle Terre|Belle Terre village
+36|05771|Bellport|Bellport village
+36|05815|Belmont|Belmont village
+36|05848|Bemus Point|Bemus Point village
+36|06046|Bergen|Bergen village
+36|06607|Binghamton|Binghamton city
+36|06794|Black River|Black River village
+36|06849|Blasdell|Blasdell village
+36|06945|Bloomfield|Bloomfield village
+36|06959|Bloomingburg|Bloomingburg village
+36|07190|Bolivar|Bolivar village
+36|07355|Boonville|Boonville village
+36|08070|Brewster|Brewster village
+36|08103|Briarcliff Manor|Briarcliff Manor village
+36|08169|Bridgewater|Bridgewater village
+36|08323|Brightwaters|Brightwaters village
+36|08422|Broadalbin|Broadalbin village
+36|08466|Brockport|Brockport village
+36|08488|Brocton|Brocton village
+36|08532|Bronxville|Bronxville village
+36|10132|Brookville|Brookville village
+36|10231|Brownville|Brownville village
+36|10286|Brushton|Brushton village
+36|10341|Buchanan|Buchanan village
+36|11000|Buffalo|Buffalo city
+36|11132|Burdett|Burdett village
+36|11154|Burke|Burke village
+36|11704|Caledonia|Caledonia village
+36|11825|Cambridge|Cambridge village
+36|11847|Camden|Camden village
+36|11902|Camillus|Camillus village
+36|12111|Canajoharie|Canajoharie village
+36|12144|Canandaigua|Canandaigua city
+36|12177|Canaseraga|Canaseraga village
+36|12188|Canastota|Canastota village
+36|12210|Candor|Candor village
+36|12254|Canisteo|Canisteo village
+36|12331|Canton|Canton village
+36|12353|Cape Vincent|Cape Vincent village
+36|12683|Carthage|Carthage village
+36|12749|Cassadaga|Cassadaga village
+36|12771|Castile|Castile village
+36|12870|Castleton-on-Hudson|Castleton-on-Hudson village
+36|12881|Castorland|Castorland village
+36|12958|Cato|Cato village
+36|13002|Catskill|Catskill village
+36|13024|Cattaraugus|Cattaraugus village
+36|13068|Cayuga|Cayuga village
+36|13079|Cayuga Heights|Cayuga Heights village
+36|13145|Cazenovia|Cazenovia village
+36|13233|Cedarhurst|Cedarhurst village
+36|13288|Celoron|Celoron village
+36|13585|Central Square|Central Square village
+36|13618|Centre Island|Centre Island village
+36|13739|Champlain|Champlain village
+36|13981|Chateaugay|Chateaugay village
+36|14003|Chatham|Chatham village
+36|14036|Chaumont|Chaumont village
+36|15187|Cherry Creek|Cherry Creek village
+36|15242|Cherry Valley|Cherry Valley village
+36|15297|Chester|Chester village
+36|15400|Chestnut Ridge|Chestnut Ridge village
+36|15561|Chittenango|Chittenango village
+36|15638|Churchville|Churchville village
+36|16089|Clayton|Clayton village
+36|16111|Clayville|Clayville village
+36|16188|Cleveland|Cleveland village
+36|16375|Clifton Springs|Clifton Springs village
+36|16419|Clinton|Clinton village
+36|16573|Clyde|Clyde village
+36|16628|Cobleskill|Cobleskill village
+36|16727|Cohocton|Cohocton village
+36|16749|Cohoes|Cohoes city
+36|16815|Cold Brook|Cold Brook village
+36|16936|Cold Spring|Cold Spring village
+36|17332|Colonie|Colonie village
+36|17882|Constableville|Constableville village
+36|18047|Cooperstown|Cooperstown village
+36|18135|Copenhagen|Copenhagen village
+36|18201|Corfu|Corfu village
+36|18212|Corinth|Corinth village
+36|18256|Corning|Corning city
+36|18333|Cornwall-on-Hudson|Cornwall-on-Hudson village
+36|18388|Cortland|Cortland city
+36|18597|Cove Neck|Cove Neck village
+36|18718|Coxsackie|Coxsackie village
+36|19070|Croghan|Croghan village
+36|19213|Croton-on-Hudson|Croton-on-Hudson village
+36|19356|Cuba|Cuba village
+36|19642|Dannemora|Dannemora village
+36|19664|Dansville|Dansville village
+36|19994|Deferiet|Deferiet village
+36|20082|Delanson|Delanson village
+36|20115|Delevan|Delevan village
+36|20126|Delhi|Delhi village
+36|20313|Depew|Depew village
+36|20346|Deposit|Deposit village
+36|20379|Dering Harbor|Dering Harbor village
+36|20390|DeRuyter|DeRuyter village
+36|20500|Dexter|Dexter village
+36|20698|Dobbs Ferry|Dobbs Ferry village
+36|20731|Dolgeville|Dolgeville village
+36|20896|Dresden|Dresden village
+36|20951|Dryden|Dryden village
+36|21050|Dundee|Dundee village
+36|21105|Dunkirk|Dunkirk city
+36|21523|Earlville|Earlville village
+36|21589|East Aurora|East Aurora village
+36|22183|East Hampton|East Hampton village
+36|22260|East Hills|East Hills village
+36|22557|East Nassau|East Nassau village
+36|22843|East Randolph|East Randolph village
+36|22865|East Rochester|East Rochester village
+36|22876|East Rockaway|East Rockaway village
+36|23052|East Syracuse|East Syracuse village
+36|23217|East Williston|East Williston village
+36|23635|Edwards|Edwards village
+36|23745|Elba|Elba village
+36|23789|Elbridge|Elbridge village
+36|23965|Ellenville|Ellenville village
+36|24020|Ellicottville|Ellicottville village
+36|24075|Ellisburg|Ellisburg village
+36|24229|Elmira|Elmira city
+36|24251|Elmira Heights|Elmira Heights village
+36|24295|Elmsford|Elmsford village
+36|24515|Endicott|Endicott village
+36|24713|Esperance|Esperance village
+36|24823|Evans Mills|Evans Mills village
+36|24867|Fabius|Fabius village
+36|24988|Fair Haven|Fair Haven village
+36|25076|Fairport|Fairport village
+36|25164|Falconer|Falconer village
+36|25384|Farmingdale|Farmingdale village
+36|25428|Farnham|Farnham village
+36|25527|Fayetteville|Fayetteville village
+36|25967|Fishkill|Fishkill village
+36|26209|Fleischmanns|Fleischmanns village
+36|26264|Floral Park|Floral Park village
+36|26319|Florida|Florida village
+36|26352|Flower Hill|Flower Hill village
+36|26462|Fonda|Fonda village
+36|26649|Forestville|Forestville village
+36|26704|Fort Ann|Fort Ann village
+36|26770|Fort Edward|Fort Edward village
+36|26880|Fort Johnson|Fort Johnson village
+36|26924|Fort Plain|Fort Plain village
+36|27188|Frankfort|Frankfort village
+36|27221|Franklin|Franklin village
+36|27331|Franklinville|Franklinville village
+36|27419|Fredonia|Fredonia village
+36|27485|Freeport|Freeport village
+36|27529|Freeville|Freeville village
+36|27815|Fulton|Fulton city
+36|27859|Fultonville|Fultonville village
+36|27969|Gainesville|Gainesville village
+36|28101|Galway|Galway village
+36|28178|Garden City|Garden City village
+36|28618|Geneseo|Geneseo village
+36|28640|Geneva|Geneva city
+36|28959|Gilbertsville|Gilbertsville village
+36|29113|Glen Cove|Glen Cove city
+36|29322|Glen Park|Glen Park village
+36|29333|Glens Falls|Glens Falls city
+36|29443|Gloversville|Gloversville city
+36|29542|Goshen|Goshen village
+36|29597|Gouverneur|Gouverneur village
+36|29630|Gowanda|Gowanda village
+36|29872|Grand View-on-Hudson|Grand View-on-Hudson village
+36|30026|Granville|Granville village
+36|30169|Great Neck|Great Neck village
+36|30191|Great Neck Estates|Great Neck Estates village
+36|30213|Great Neck Plaza|Great Neck Plaza village
+36|30411|Greene|Greene village
+36|30521|Green Island|Green Island village
+36|30576|Greenport|Greenport village
+36|30675|Greenwich|Greenwich village
+36|30752|Greenwood Lake|Greenwood Lake village
+36|30961|Groton|Groton village
+36|31291|Hagaman|Hagaman village
+36|31643|Hamburg|Hamburg village
+36|31709|Hamilton|Hamilton village
+36|31830|Hammond|Hammond village
+36|31852|Hammondsport|Hammondsport village
+36|31940|Hancock|Hancock village
+36|32017|Hannibal|Hannibal village
+36|32325|Harriman|Harriman village
+36|32402|Harrison|Harrison village
+36|32424|Harrisville|Harrisville village
+36|32710|Hastings-on-Hudson|Hastings-on-Hudson village
+36|32754|Haverstraw|Haverstraw village
+36|32963|Head of the Harbor|Head of the Harbor village
+36|33139|Hempstead|Hempstead village
+36|34121|Herkimer|Herkimer village
+36|34165|Hermon|Hermon village
+36|34220|Herrings|Herrings village
+36|34264|Heuvelton|Heuvelton village
+36|34297|Hewlett Bay Park|Hewlett Bay Park village
+36|34308|Hewlett Harbor|Hewlett Harbor village
+36|34319|Hewlett Neck|Hewlett Neck village
+36|34495|Highland Falls|Highland Falls village
+36|34660|Hillburn|Hillburn village
+36|34847|Hilton|Hilton village
+36|34979|Hobart|Hobart village
+36|35144|Holland Patent|Holland Patent village
+36|35155|Holley|Holley village
+36|35276|Homer|Homer village
+36|35364|Honeoye Falls|Honeoye Falls village
+36|35474|Hoosick Falls|Hoosick Falls village
+36|35672|Hornell|Hornell city
+36|35694|Horseheads|Horseheads village
+36|35969|Hudson|Hudson city
+36|35980|Hudson Falls|Hudson Falls village
+36|36167|Hunter|Hunter village
+36|37022|Huntington Bay|Huntington Bay village
+36|37275|Ilion|Ilion village
+36|37528|Interlaken|Interlaken village
+36|37803|Irvington|Irvington village
+36|37840|Islandia|Islandia village
+36|37847|Island Park|Island Park village
+36|38077|Ithaca|Ithaca city
+36|38264|Jamestown|Jamestown city
+36|38506|Jeffersonville|Jeffersonville village
+36|38748|Johnson City|Johnson City village
+36|38781|Johnstown|Johnstown city
+36|38825|Jordan|Jordan village
+36|38934|Kaser|Kaser village
+36|39089|Keeseville|Keeseville village
+36|39232|Kenmore|Kenmore village
+36|39309|Kensington|Kensington village
+36|39562|Kinderhook|Kinderhook village
+36|39694|Kings Point|Kings Point village
+36|39727|Kingston|Kingston city
+36|39853|Kiryas Joel|Kiryas Joel village
+36|40189|Lackawanna|Lackawanna city
+36|40200|Lacona|Lacona village
+36|40508|Lake George|Lake George village
+36|40530|Lake Grove|Lake Grove village
+36|40761|Lake Placid|Lake Placid village
+36|40937|Lake Success|Lake Success village
+36|41069|Lakewood|Lakewood village
+36|41135|Lancaster|Lancaster village
+36|41223|Lansing|Lansing village
+36|41333|Larchmont|Larchmont village
+36|41432|Lattingtown|Lattingtown village
+36|41487|Laurel Hollow|Laurel Hollow village
+36|41520|Laurens|Laurens village
+36|41553|Lawrence|Lawrence village
+36|41872|Leicester|Leicester village
+36|42026|Le Roy|Le Roy village
+36|42147|Lewiston|Lewiston village
+36|42224|Liberty|Liberty village
+36|42323|Lima|Lima village
+36|42378|Limestone|Limestone village
+36|42554|Lindenhurst|Lindenhurst village
+36|42642|Lisle|Lisle village
+36|42741|Little Falls|Little Falls city
+36|42829|Little Valley|Little Valley village
+36|42884|Liverpool|Liverpool village
+36|42950|Livonia|Livonia village
+36|43005|Lloyd Harbor|Lloyd Harbor village
+36|43082|Lockport|Lockport city
+36|43214|Lodi|Lodi village
+36|43335|Long Beach|Long Beach city
+36|43720|Lowville|Lowville village
+36|43874|Lynbrook|Lynbrook village
+36|43918|Lyndonville|Lyndonville village
+36|43962|Lyons|Lyons village
+36|44006|Lyons Falls|Lyons Falls village
+36|44149|Macedon|Macedon village
+36|44193|McGraw|McGraw village
+36|44424|Madison|Madison village
+36|44710|Malone|Malone village
+36|44787|Malverne|Malverne village
+36|44831|Mamaroneck|Mamaroneck village
+36|44853|Manchester|Manchester village
+36|45018|Manlius|Manlius village
+36|45073|Mannsville|Mannsville village
+36|45106|Manorhaven|Manorhaven village
+36|45392|Marathon|Marathon village
+36|45480|Marcellus|Marcellus village
+36|45557|Margaretville|Margaretville village
+36|45997|Massapequa Park|Massapequa Park village
+36|46019|Massena|Massena village
+36|46107|Matinecock|Matinecock village
+36|46162|Maybrook|Maybrook village
+36|46206|Mayfield|Mayfield village
+36|46239|Mayville|Mayville village
+36|46360|Mechanicville|Mechanicville city
+36|46415|Medina|Medina village
+36|46536|Menands|Menands village
+36|46646|Meridian|Meridian village
+36|46811|Mexico|Mexico village
+36|46866|Middleburgh|Middleburgh village
+36|46998|Middleport|Middleport village
+36|47042|Middletown|Middletown city
+36|47108|Middleville|Middleville village
+36|47229|Milford|Milford village
+36|47273|Millbrook|Millbrook village
+36|47361|Millerton|Millerton village
+36|47405|Mill Neck|Mill Neck village
+36|47427|Millport|Millport village
+36|47636|Mineola|Mineola village
+36|47757|Minoa|Minoa village
+36|47823|Mohawk|Mohawk village
+36|47988|Monroe|Monroe village
+36|48090|Montebello|Montebello village
+36|48142|Montgomery|Montgomery village
+36|48175|Monticello|Monticello village
+36|48197|Montour Falls|Montour Falls village
+36|48296|Moravia|Moravia village
+36|48483|Morris|Morris village
+36|48571|Morristown|Morristown village
+36|48593|Morrisville|Morrisville village
+36|48890|Mount Kisco|Mount Kisco village
+36|48945|Mount Morris|Mount Morris village
+36|49121|Mount Vernon|Mount Vernon city
+36|49220|Munnsville|Munnsville village
+36|49231|Munsey Park|Munsey Park village
+36|49330|Muttontown|Muttontown village
+36|49429|Naples|Naples village
+36|49506|Nassau|Nassau village
+36|49748|Nelliston|Nelliston village
+36|49781|Nelsonville|Nelsonville village
+36|49891|Newark|Newark village
+36|49902|Newark Valley|Newark Valley village
+36|49946|New Berlin|New Berlin village
+36|50034|Newburgh|Newburgh city
+36|50298|New Hartford|New Hartford village
+36|50353|New Hempstead|New Hempstead village
+36|50397|New Hyde Park|New Hyde Park village
+36|50551|New Paltz|New Paltz village
+36|50573|Newport|Newport village
+36|50617|New Rochelle|New Rochelle city
+36|50705|New Square|New Square village
+36|51000|New York|New York city
+36|51011|New York Mills|New York Mills village
+36|51055|Niagara Falls|Niagara Falls city
+36|51110|Nichols|Nichols village
+36|51286|Nissequogue|Nissequogue village
+36|51792|North Collins|North Collins village
+36|52188|North Haven|North Haven village
+36|53022|North Hills|North Hills village
+36|53055|North Hornell|North Hornell village
+36|53396|Northport|Northport village
+36|53660|North Syracuse|North Syracuse village
+36|53682|North Tonawanda|North Tonawanda city
+36|53770|Northville|Northville village
+36|53979|Norwich|Norwich city
+36|54012|Norwood|Norwood village
+36|54078|Nunda|Nunda village
+36|54100|Nyack|Nyack village
+36|54155|Oakfield|Oakfield village
+36|54430|Ocean Beach|Ocean Beach village
+36|54452|Odessa|Odessa village
+36|54485|Ogdensburg|Ogdensburg city
+36|54562|Old Brookville|Old Brookville village
+36|54617|Old Field|Old Field village
+36|54705|Old Westbury|Old Westbury village
+36|54716|Olean|Olean city
+36|54837|Oneida|Oneida city
+36|54848|Oneida Castle|Oneida Castle village
+36|54881|Oneonta|Oneonta city
+36|55266|Orchard Park|Orchard Park village
+36|55365|Oriskany|Oriskany village
+36|55376|Oriskany Falls|Oriskany Falls village
+36|55530|Ossining|Ossining village
+36|55574|Oswego|Oswego city
+36|55618|Otego|Otego village
+36|55673|Otisville|Otisville village
+36|55816|Ovid|Ovid village
+36|55882|Owego|Owego village
+36|55948|Oxford|Oxford village
+36|56011|Oyster Bay Cove|Oyster Bay Cove village
+36|56088|Painted Post|Painted Post village
+36|56110|Palatine Bridge|Palatine Bridge village
+36|56187|Palmyra|Palmyra village
+36|56231|Panama|Panama village
+36|56341|Parish|Parish village
+36|56660|Patchogue|Patchogue village
+36|56814|Pawling|Pawling village
+36|56979|Peekskill|Peekskill city
+36|57001|Pelham|Pelham village
+36|57023|Pelham Manor|Pelham Manor village
+36|57177|Penn Yan|Penn Yan village
+36|57243|Perry|Perry village
+36|57287|Perrysburg|Perrysburg village
+36|57518|Phelps|Phelps village
+36|57551|Philadelphia|Philadelphia village
+36|57639|Philmont|Philmont village
+36|57661|Phoenix|Phoenix village
+36|57749|Piermont|Piermont village
+36|58354|Pittsford|Pittsford village
+36|58475|Plandome|Plandome village
+36|58486|Plandome Heights|Plandome Heights village
+36|58497|Plandome Manor|Plandome Manor village
+36|58574|Plattsburgh|Plattsburgh city
+36|58728|Pleasantville|Pleasantville village
+36|58937|Poland|Poland village
+36|58992|Pomona|Pomona village
+36|59157|Poquott|Poquott village
+36|59212|Port Byron|Port Byron village
+36|59223|Port Chester|Port Chester village
+36|59245|Port Dickinson|Port Dickinson village
+36|59333|Port Henry|Port Henry village
+36|59355|Port Jefferson|Port Jefferson village
+36|59388|Port Jervis|Port Jervis city
+36|59454|Port Leyden|Port Leyden village
+36|59498|Portville|Portville village
+36|59531|Port Washington North|Port Washington North village
+36|59564|Potsdam|Potsdam village
+36|59641|Poughkeepsie|Poughkeepsie city
+36|59883|Prospect|Prospect village
+36|59960|Pulaski|Pulaski village
+36|60422|Quogue|Quogue village
+36|60576|Randolph|Randolph village
+36|60675|Ravena|Ravena village
+36|60829|Red Creek|Red Creek village
+36|60895|Red Hook|Red Hook village
+36|61115|Remsen|Remsen village
+36|61148|Rensselaer|Rensselaer city
+36|61159|Rensselaer Falls|Rensselaer Falls village
+36|61346|Rhinebeck|Rhinebeck village
+36|61434|Richburg|Richburg village
+36|61489|Richfield Springs|Richfield Springs village
+36|61588|Richmondville|Richmondville village
+36|61621|Richville|Richville village
+36|62061|Riverside|Riverside village
+36|63000|Rochester|Rochester city
+36|63264|Rockville Centre|Rockville Centre village
+36|63418|Rome|Rome city
+36|63770|Roslyn|Roslyn village
+36|63792|Roslyn Estates|Roslyn Estates village
+36|63803|Roslyn Harbor|Roslyn Harbor village
+36|63957|Round Lake|Round Lake village
+36|63979|Rouses Point|Rouses Point village
+36|64199|Rushville|Rushville village
+36|64232|Russell Gardens|Russell Gardens village
+36|64309|Rye|Rye city
+36|64325|Rye Brook|Rye Brook village
+36|64408|Sackets Harbor|Sackets Harbor village
+36|64430|Saddle Rock|Saddle Rock village
+36|64452|Sagaponack|Sagaponack village
+36|64485|Sag Harbor|Sag Harbor village
+36|64639|St. Johnsville|St. Johnsville village
+36|64749|Salamanca|Salamanca city
+36|64771|Salem|Salem village
+36|64881|Saltaire|Saltaire village
+36|65035|Sands Point|Sands Point village
+36|65068|Sandy Creek|Sandy Creek village
+36|65233|Saranac Lake|Saranac Lake village
+36|65255|Saratoga Springs|Saratoga Springs city
+36|65288|Saugerties|Saugerties village
+36|65354|Savona|Savona village
+36|65431|Scarsdale|Scarsdale village
+36|65475|Schaghticoke|Schaghticoke village
+36|65508|Schenectady|Schenectady city
+36|65585|Schoharie|Schoharie village
+36|65750|Schuylerville|Schuylerville village
+36|65893|Scotia|Scotia village
+36|65959|Scottsville|Scottsville village
+36|66047|Sea Cliff|Sea Cliff village
+36|66322|Seneca Falls|Seneca Falls village
+36|66663|Sharon Springs|Sharon Springs village
+36|66883|Sherburne|Sherburne village
+36|66949|Sherman|Sherman village
+36|66993|Sherrill|Sherrill city
+36|67191|Shoreham|Shoreham village
+36|67257|Shortsville|Shortsville village
+36|67334|Sidney|Sidney village
+36|67411|Silver Creek|Silver Creek village
+36|67466|Silver Springs|Silver Springs village
+36|67488|Sinclairville|Sinclairville village
+36|67510|Skaneateles|Skaneateles village
+36|67638|Sleepy Hollow|Sleepy Hollow village
+36|67686|Sloan|Sloan village
+36|67708|Sloatsburg|Sloatsburg village
+36|68099|Smyrna|Smyrna village
+36|68209|Sodus|Sodus village
+36|68242|Sodus Point|Sodus Point village
+36|68286|Solvay|Solvay village
+36|68462|Southampton|Southampton village
+36|68610|South Blooming Grove|South Blooming Grove village
+36|68847|South Corning|South Corning village
+36|68891|South Dayton|South Dayton village
+36|69023|South Floral Park|South Floral Park village
+36|69078|South Glens Falls|South Glens Falls village
+36|69441|South Nyack|South Nyack village
+36|70123|Speculator|Speculator village
+36|70167|Spencer|Spencer village
+36|70189|Spencerport|Spencerport village
+36|70420|Spring Valley|Spring Valley village
+36|70442|Springville|Springville village
+36|70618|Stamford|Stamford village
+36|71267|Stewart Manor|Stewart Manor village
+36|71322|Stillwater|Stillwater village
+36|71894|Suffern|Suffern village
+36|72521|Sylvan Beach|Sylvan Beach village
+36|73000|Syracuse|Syracuse city
+36|73143|Tannersville|Tannersville village
+36|73176|Tarrytown|Tarrytown village
+36|73517|Theresa|Theresa village
+36|73605|Thomaston|Thomaston village
+36|74023|Tivoli|Tivoli village
+36|74166|Tonawanda|Tonawanda city
+36|75484|Troy|Troy city
+36|75506|Trumansburg|Trumansburg village
+36|75583|Tuckahoe|Tuckahoe village
+36|75627|Tully|Tully village
+36|75671|Tupper Lake|Tupper Lake village
+36|75682|Turin|Turin village
+36|75803|Tuxedo Park|Tuxedo Park village
+36|76001|Unadilla|Unadilla village
+36|76155|Union Springs|Union Springs village
+36|76210|Unionville|Unionville village
+36|76331|Upper Brookville|Upper Brookville village
+36|76386|Upper Nyack|Upper Nyack village
+36|76540|Utica|Utica city
+36|76617|Valatie|Valatie village
+36|76672|Valley Falls|Valley Falls village
+36|76705|Valley Stream|Valley Stream village
+36|76881|Van Etten|Van Etten village
+36|77112|Vernon|Vernon village
+36|77376|Victor|Victor village
+36|77431|Victory|Victory village
+36|77519|Village of the Branch|Village of the Branch village
+36|77684|Voorheesville|Voorheesville village
+36|77728|Waddington|Waddington village
+36|77849|Walden|Walden village
+36|78036|Walton|Walton village
+36|78113|Wampsville|Wampsville village
+36|78168|Wappingers Falls|Wappingers Falls village
+36|78333|Warsaw|Warsaw village
+36|78355|Warwick|Warwick village
+36|78465|Washingtonville|Washingtonville village
+36|78520|Waterford|Waterford village
+36|78553|Waterloo|Waterloo village
+36|78608|Watertown|Watertown city
+36|78663|Waterville|Waterville village
+36|78674|Watervliet|Watervliet city
+36|78696|Watkins Glen|Watkins Glen village
+36|78806|Waverly|Waverly village
+36|78850|Wayland|Wayland village
+36|78960|Webster|Webster village
+36|79015|Weedsport|Weedsport village
+36|79081|Wellsburg|Wellsburg village
+36|79092|Wellsville|Wellsville village
+36|79174|Wesley Hills|Wesley Hills village
+36|79444|Westbury|Westbury village
+36|79499|West Carthage|West Carthage village
+36|79939|Westfield|Westfield village
+36|80181|Westhampton Beach|Westhampton Beach village
+36|80186|West Hampton Dunes|West Hampton Dunes village
+36|80203|West Haverstraw|West Haverstraw village
+36|81292|West Winfield|West Winfield village
+36|81622|Whitehall|Whitehall village
+36|81677|White Plains|White Plains city
+36|81710|Whitesboro|Whitesboro village
+36|81831|Whitney Point|Whitney Point village
+36|82084|Williamsville|Williamsville village
+36|82117|Williston Park|Williston Park village
+36|82359|Wilson|Wilson village
+36|82524|Windsor|Windsor village
+36|82678|Wolcott|Wolcott village
+36|82750|Woodbury|Woodbury village
+36|82953|Woodridge|Woodridge village
+36|82986|Woodsburgh|Woodsburgh village
+36|83272|Wurtsboro|Wurtsboro village
+36|83371|Wyoming|Wyoming village
+36|84000|Yonkers|Yonkers city
+36|84099|Yorkville|Yorkville village
+36|84143|Youngstown|Youngstown village

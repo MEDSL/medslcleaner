@@ -1,0 +1,35 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+50|00002|Spaulding Union High School District 41|Spaulding Union High School District 41
+50|00006|Essex Community Education Center|Essex Community Education Center
+50|00027|Whitingham/Wilmington Joint Contract School District|Whitingham/Wilmington Joint Contract School District
+50|02060|Chittenden School District|Chittenden School District
+50|02085|Bellows Free Academy Union High School District 48|Bellows Free Academy Union High School District 48
+50|02400|Randolph Union High School District 2|Randolph Union High School District 2
+50|02520|Brattleboro Union High School District 6|Brattleboro Union High School District 6
+50|03030|Champlain Valley Union High School District 15|Champlain Valley Union High School District 15
+50|03430|Danby School District|Danby School District
+50|03900|Fair Haven Union High School District 16|Fair Haven Union High School District 16
+50|04580|Harwood Union High School District 19|Harwood Union High School District 19
+50|05050|Lake Region Union High School District 24|Lake Region Union High School District 24
+50|05060|Lamoille Union High School District 18|Lamoille Union High School District 18
+50|05120|Leland and Gray Union High School District 34|Leland and Gray Union High School District 34
+50|05460|Mendon School District|Mendon School District
+50|05520|Middlebury Union High School District 3|Middlebury Union High School District 3
+50|05620|Missisquoi Valley Union High School District 7|Missisquoi Valley Union High School District 7
+50|05810|Mount Anthony Union High School District 14|Mount Anthony Union High School District 14
+50|05840|Mount Mansfield Union School District 17|Mount Mansfield Union School District 17
+50|05860|Mount Tabor School District|Mount Tabor School District
+50|06300|Otter Valley Union High School District 8|Otter Valley Union High School District 8
+50|06360|Pawlet School District|Pawlet School District
+50|07020|Rupert School District|Rupert School District
+50|08235|Mount Abraham Union High School District 28|Mount Abraham Union High School District 28
+50|08237|Union High School District 32|Union High School District 32
+50|08241|Black River Union School District 39|Black River Union School District 39
+50|08243|Hazen Union High School District 26|Hazen Union High School District 26
+50|08244|Mill River Union School District 40|Mill River Union School District 40
+50|08246|Bellows Falls Union High School District 27|Bellows Falls Union High School District 27
+50|08247|Oxbow Union High School District 30|Oxbow Union High School District 30
+50|08248|Green Mountain Union High School District 35|Green Mountain Union High School District 35
+50|08280|Vergennes Union High School District 5|Vergennes Union High School District 5
+50|09510|Woodstock Union High School District 4|Woodstock Union High School District 4
+50|09600|North Country Union High School District 22|North Country Union High School District 22

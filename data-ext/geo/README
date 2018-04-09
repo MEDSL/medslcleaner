@@ -1,0 +1,8 @@
+The NAMES* files are 2010 Census Name Lookup Tables downloaded from
+https://www.census.gov/geo/maps-data/data/nlt.html.
+
+2017_Gaz_counties_national.txt is the National Counties Gazetteer File,
+downloaded from 
+https://www.census.gov/geo/maps-data/data/gazetteer2017.html.
+
+2017_Gaz_place_national.txt is the corresponding file for Places.

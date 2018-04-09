@@ -1,0 +1,14 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+50|ADD|Addison|Addison State Senate District
+50|BEN|Bennington|Bennington State Senate District
+50|CAL|Caledonia|Caledonia State Senate District
+50|CGI|Grand Isle|Grand Isle State Senate District
+50|CHI|Chittenden|Chittenden State Senate District
+50|E-O|Essex-Orleans|Essex-Orleans State Senate District
+50|FRA|Franklin|Franklin State Senate District
+50|LAM|Lamoille|Lamoille State Senate District
+50|ORA|Orange|Orange State Senate District
+50|RUT|Rutland|Rutland State Senate District
+50|WAS|Washington|Washington State Senate District
+50|WDM|Windham|Windham State Senate District
+50|WSR|Windsor|Windsor State Senate District

@@ -1,0 +1,76 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+15|5003|Anahola (Agricultural)|Anahola (Agricultural) Hawaiian Home Land
+15|5004|Anahola (Residential)|Anahola (Residential) Hawaiian Home Land
+15|5008|East Kapolei|East Kapolei Hawaiian Home Land
+15|5009|Haiku|Haiku Hawaiian Home Land
+15|5011|Hanapepe|Hanapepe Hawaiian Home Land
+15|5018|Homuula-Upper Piihonua|Homuula-Upper Piihonua Hawaiian Home Land
+15|5026|Honokaia|Honokaia Hawaiian Home Land
+15|5029|Honokowai|Honokowai Hawaiian Home Land
+15|5030|Honolulu Makai|Honolulu Makai Hawaiian Home Land
+15|5031|Honomu|Honomu Hawaiian Home Land
+15|5033|Hoolehua-Palaaau|Hoolehua-Palaaau Hawaiian Home Land
+15|5041|Kahikinui|Kahikinui Hawaiian Home Land
+15|5043|Kakaina-Kumuhau|Kakaina-Kumuhau Hawaiian Home Land
+15|5044|Kalaeloa|Kalaeloa Hawaiian Home Land
+15|5046|Kalamaula|Kalamaula Hawaiian Home Land
+15|5051|Kalaupapa|Kalaupapa Hawaiian Home Land
+15|5053|Kalawahine|Kalawahine Hawaiian Home Land
+15|5056|Kamaoa-Puueo|Kamaoa-Puueo Hawaiian Home Land
+15|5061|Kamiloloa-Makakupaia|Kamiloloa-Makakupaia Hawaiian Home Land
+15|5066|Kamoku-Kapulena|Kamoku-Kapulena Hawaiian Home Land
+15|5067|Kanehili|Kanehili Hawaiian Home Land
+15|5069|Kaohe-Olaa|Kaohe-Olaa Hawaiian Home Land
+15|5071|Kapaa|Kapaa Hawaiian Home Land
+15|5076|Kapaakea|Kapaakea Hawaiian Home Land
+15|5083|Kapolei|Kapolei Hawaiian Home Land
+15|5086|Kaumana|Kaumana Hawaiian Home Land
+15|5088|Kaupea|Kaupea Hawaiian Home Land
+15|5091|Kawaihae|Kawaihae Hawaiian Home Land
+15|5098|Keahuolu|Keahuolu Hawaiian Home Land
+15|5101|Kealakehe|Kealakehe Hawaiian Home Land
+15|5104|Keanae-Wailua|Keanae-Wailua Hawaiian Home Land
+15|5106|Keaukaha|Keaukaha Hawaiian Home Land
+15|5111|Kekaha|Kekaha Hawaiian Home Land
+15|5114|Keokea (Agricultural)|Keokea (Agricultural) Hawaiian Home Land
+15|5116|Keoniki|Keoniki Hawaiian Home Land
+15|5120|Kewalo|Kewalo Hawaiian Home Land
+15|5123|Kolaoa|Kolaoa Hawaiian Home Land
+15|5133|Lalamilo|Lalamilo Hawaiian Home Land
+15|5134|Lanai City|Lanai City Hawaiian Home Land
+15|5135|Leialii|Leialii Hawaiian Home Land
+15|5136|Lualualei|Lualualei Hawaiian Home Land
+15|5138|Maili|Maili Hawaiian Home Land
+15|5139|Makaha Valley|Makaha Valley Hawaiian Home Land
+15|5146|Makuu|Makuu Hawaiian Home Land
+15|5148|Maluohai|Maluohai Hawaiian Home Land
+15|5156|Moloaa|Moloaa Hawaiian Home Land
+15|5161|Nanakuli|Nanakuli Hawaiian Home Land
+15|5166|Nienie|Nienie Hawaiian Home Land
+15|5176|Panaewa (Agricultural)|Panaewa (Agricultural) Hawaiian Home Land
+15|5177|Panaewa (Residential)|Panaewa (Residential) Hawaiian Home Land
+15|5179|Papakolea|Papakolea Hawaiian Home Land
+15|5181|Pauahi|Pauahi Hawaiian Home Land
+15|5186|Paukukalo|Paukukalo Hawaiian Home Land
+15|5188|Pearl City|Pearl City Hawaiian Home Land
+15|5193|Piihonua|Piihonua Hawaiian Home Land
+15|5196|Ponohawaii|Ponohawaii Hawaiian Home Land
+15|5198|Princess Kahanu Estates|Princess Kahanu Estates Hawaiian Home Land
+15|5199|Pulehunui|Pulehunui Hawaiian Home Land
+15|5201|Puukapu|Puukapu Hawaiian Home Land
+15|5213|South Maui|South Maui Hawaiian Home Land
+15|5216|Ualapue|Ualapue Hawaiian Home Land
+15|5222|Upolu|Upolu Hawaiian Home Land
+15|5223|Waiahole|Waiahole Hawaiian Home Land
+15|5236|Waiakea|Waiakea Hawaiian Home Land
+15|5238|Waianae|Waianae Hawaiian Home Land
+15|5239|Waianae Kai|Waianae Kai Hawaiian Home Land
+15|5241|Waiehu|Waiehu Hawaiian Home Land
+15|5248|Waiku-Hana|Waiku-Hana Hawaiian Home Land
+15|5251|Wailau|Wailau Hawaiian Home Land
+15|5256|Wailua|Wailua Hawaiian Home Land
+15|5271|Waimanalo|Waimanalo Hawaiian Home Land
+15|5276|Waimanu|Waimanu Hawaiian Home Land
+15|5281|Waimea|Waimea Hawaiian Home Land
+15|5283|Waiohinu|Waiohinu Hawaiian Home Land
+15|5286|Waiohuli (Residential)|Waiohuli (Residential) Hawaiian Home Land

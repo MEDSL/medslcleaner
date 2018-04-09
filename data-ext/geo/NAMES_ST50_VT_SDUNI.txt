@@ -1,0 +1,65 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+50|00011|Buels Gore School District|Buels Gore School District
+50|00012|Ferdinand School District|Ferdinand School District
+50|00013|Glastenbury School District|Glastenbury School District
+50|00014|Somerset School District|Somerset School District
+50|00015|Averill School District|Averill School District
+50|00016|Avery's Gore School District|Avery's Gore School District
+50|00017|Lewis School District|Lewis School District
+50|00018|Warner's Grant School District|Warner's Grant School District
+50|00019|Warren'S Gore School Disrrict|Warren'S Gore School Disrrict
+50|00024|Rivendell Interstate School District|Rivendell Interstate School District
+50|01830|Arlington School District|Arlington School District
+50|01920|Baltimore School District|Baltimore School District
+50|02280|Bloomfield School District|Bloomfield School District
+50|02760|Brunswick School District|Brunswick School District
+50|02820|Burlington School District|Burlington School District
+50|02850|Cabot School District|Cabot School District
+50|02940|Canaan School District|Canaan School District
+50|03120|Chelsea School District|Chelsea School District
+50|03240|Colchester School District|Colchester School District
+50|03270|Concord School District|Concord School District
+50|03390|Craftsbury School District|Craftsbury School District
+50|03450|Danville School District|Danville School District
+50|03660|East Haven School District|East Haven School District
+50|03780|Enosburgh School District|Enosburgh School District
+50|03930|Fairfax School District|Fairfax School District
+50|04320|Granville School District|Granville School District
+50|04530|Hancock School District|Hancock School District
+50|04590|Hartford School District|Hartford School District
+50|04830|Ira School District|Ira School District
+50|05040|Kirby School District|Kirby School District
+50|05130|Lemington School District|Lemington School District
+50|05340|Maidstone School District|Maidstone School District
+50|05610|Milton School District|Milton School District
+50|05700|Montpelier School District|Montpelier School District
+50|05790|Morristown School District|Morristown School District
+50|06120|Northfield School District|Northfield School District
+50|06450|Pittsfield School District|Pittsfield School District
+50|06600|Poultney School District|Poultney School District
+50|06660|Proctor School District|Proctor School District
+50|06780|Readsboro School District|Readsboro School District
+50|06810|Richford School District|Richford School District
+50|06900|Rochester School District|Rochester School District
+50|06990|Royalton School District|Royalton School District
+50|07050|Rutland City School District|Rutland City School District
+50|07170|Sandgate School District|Sandgate School District
+50|07200|Searsburg School District|Searsburg School District
+50|07470|South Burlington School District|South Burlington School District
+50|07530|Springfield School District|Springfield School District
+50|07620|St. George School District|St. George School District
+50|07680|Stamford School District|Stamford School District
+50|07800|Stowe School District|Stowe School District
+50|07830|Strafford School District|Strafford School District
+50|07860|Stratton School District|Stratton School District
+50|08224|Blue Mountain Union School District 21|Blue Mountain Union School District 21
+50|08225|Twinfield Union School District 33|Twinfield Union School District 33
+50|08230|Flood Brook Union School District 20|Flood Brook Union School District 20
+50|08242|Waits River Valley Union School District 36|Waits River Valley Union School District 36
+50|08370|Victory School District|Victory School District
+50|08640|Waterford School District|Waterford School District
+50|08700|Weathersfield School District|Weathersfield School District
+50|08850|West Rutland School District|West Rutland School District
+50|09180|Williamstown School District|Williamstown School District
+50|09300|Windsor School District|Windsor School District
+50|09360|Winooski Incorporated School District|Winooski Incorporated School District

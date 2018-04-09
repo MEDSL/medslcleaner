@@ -1,0 +1,41 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+02|001|1, Ketchikan|State House District 1, Ketchikan
+02|002|2, Sitka-Wrangell-Petersburg|State House District 2, Sitka-Wrangell-Petersburg
+02|003|3, Juneau-Downtown-Douglas|State House District 3, Juneau-Downtown-Douglas
+02|004|4, Juneau-Mendenhall Valley|State House District 4, Juneau-Mendenhall Valley
+02|005|5, Cordova-Southeast Islands|State House District 5, Cordova-Southeast Islands
+02|006|6, Interior Villages|State House District 6, Interior Villages
+02|007|7, Farmers Loop-Steese Highway|State House District 7, Farmers Loop-Steese Highway
+02|008|8, Denali-University|State House District 8, Denali-University
+02|009|9, City of Fairbanks|State House District 9, City of Fairbanks
+02|010|10, Fairbanks-Fort Wainwright|State House District 10, Fairbanks-Fort Wainwright
+02|011|11, North Pole|State House District 11, North Pole
+02|012|12, Richardson-Glenn Highways|State House District 12, Richardson-Glenn Highways
+02|013|13, Greater Palmer|State House District 13, Greater Palmer
+02|014|14, Greater Wasilla|State House District 14, Greater Wasilla
+02|015|15, Rural Mat-Su|State House District 15, Rural Mat-Su
+02|016|16, Chugiak-South Mat-Su|State House District 16, Chugiak-South Mat-Su
+02|017|17, Eagle River|State House District 17, Eagle River
+02|018|18, Military|State House District 18, Military
+02|019|19, Muldoon|State House District 19, Muldoon
+02|020|20, Mountain View-Wonder Park|State House District 20, Mountain View-Wonder Park
+02|021|21, Baxter Bog|State House District 21, Baxter Bog
+02|022|22, University-Airport Heights|State House District 22, University-Airport Heights
+02|023|23, Downtown-Rogers Park|State House District 23, Downtown-Rogers Park
+02|024|24, Midtown-Taku|State House District 24, Midtown-Taku
+02|025|25, East Spenard|State House District 25, East Spenard
+02|026|26, Turnagain-Inlet View|State House District 26, Turnagain-Inlet View
+02|027|27, Sand Lake|State House District 27, Sand Lake
+02|028|28, Bayshore-Klatt|State House District 28, Bayshore-Klatt
+02|029|29, Campbell-Independence Park|State House District 29, Campbell-Independence Park
+02|030|30, Lore-Abbott|State House District 30, Lore-Abbott
+02|031|31, Huffman-Ocean View|State House District 31, Huffman-Ocean View
+02|032|32, Chugach State Park|State House District 32, Chugach State Park
+02|033|33, Kenai-Soldotna|State House District 33, Kenai-Soldotna
+02|034|34, Rural Kenai|State House District 34, Rural Kenai
+02|035|35, Homer-Seward|State House District 35, Homer-Seward
+02|036|36, Kodiak|State House District 36, Kodiak
+02|037|37, Bristol Bay-Aleutians|State House District 37, Bristol Bay-Aleutians
+02|038|38, Bethel|State House District 38, Bethel
+02|039|39, Bering Straits|State House District 39, Bering Straits
+02|040|40, Arctic|State House District 40, Arctic

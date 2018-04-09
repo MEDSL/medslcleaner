@@ -1,0 +1,202 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+16|00100|Aberdeen|Aberdeen city
+16|00280|Acequia|Acequia city
+16|01000|Albion|Albion city
+16|01900|American Falls|American Falls city
+16|01990|Ammon|Ammon city
+16|03160|Arco|Arco city
+16|03340|Arimo|Arimo city
+16|03610|Ashton|Ashton city
+16|03700|Athol|Athol city
+16|03970|Atomic City|Atomic City city
+16|04420|Bancroft|Bancroft city
+16|05230|Basalt|Basalt city
+16|06220|Bellevue|Bellevue city
+16|07840|Blackfoot|Blackfoot city
+16|08470|Bliss|Bliss city
+16|08560|Bloomington|Bloomington city
+16|08830|Boise City|Boise City city
+16|09370|Bonners Ferry|Bonners Ferry city
+16|09730|Bovill|Bovill city
+16|10810|Buhl|Buhl city
+16|11260|Burley|Burley city
+16|11710|Butte City|Butte City city
+16|12250|Caldwell|Caldwell city
+16|12520|Cambridge|Cambridge city
+16|12790|Carey|Carey city
+16|13150|Cascade|Cascade city
+16|13240|Castleford|Castleford city
+16|13780|Challis|Challis city
+16|14680|Chubbuck|Chubbuck city
+16|14950|Clark Fork|Clark Fork city
+16|15490|Clayton|Clayton city
+16|16120|Clifton|Clifton city
+16|16750|Coeur d'Alene|Coeur d'Alene city
+16|18640|Cottonwood|Cottonwood city
+16|18820|Council|Council city
+16|19270|Craigmont|Craigmont city
+16|19720|Crouch|Crouch city
+16|19900|Culdesac|Culdesac city
+16|20350|Dalton Gardens|Dalton Gardens city
+16|20710|Dayton|Dayton city
+16|20890|Deary|Deary city
+16|20980|Declo|Declo city
+16|21790|Dietrich|Dietrich city
+16|22330|Donnelly|Donnelly city
+16|22510|Dover|Dover city
+16|22600|Downey|Downey city
+16|22690|Driggs|Driggs city
+16|22780|Drummond|Drummond city
+16|22960|Dubois|Dubois city
+16|23410|Eagle|Eagle city
+16|23680|East Hope|East Hope city
+16|24310|Eden|Eden city
+16|25120|Elk River|Elk River city
+16|25570|Emmett|Emmett city
+16|26290|Fairfield|Fairfield city
+16|27460|Ferdinand|Ferdinand city
+16|27550|Fernan Lake Village|Fernan Lake Village city
+16|27730|Filer|Filer city
+16|27910|Firth|Firth city
+16|28810|Franklin|Franklin city
+16|28990|Fruitland|Fruitland city
+16|29620|Garden City|Garden City city
+16|30160|Genesee|Genesee city
+16|30340|Georgetown|Georgetown city
+16|31690|Glenns Ferry|Glenns Ferry city
+16|32140|Gooding|Gooding city
+16|32500|Grace|Grace city
+16|32770|Grand View|Grand View city
+16|32950|Grangeville|Grangeville city
+16|33490|Greenleaf|Greenleaf city
+16|34300|Hagerman|Hagerman city
+16|34390|Hailey|Hailey city
+16|34570|Hamer|Hamer city
+16|34930|Hansen|Hansen city
+16|35200|Harrison|Harrison city
+16|35830|Hauser|Hauser city
+16|36370|Hayden|Hayden city
+16|36460|Hayden Lake|Hayden Lake city
+16|36730|Hazelton|Hazelton city
+16|37360|Heyburn|Heyburn city
+16|38080|Hollister|Hollister city
+16|38170|Homedale|Homedale city
+16|38440|Hope|Hope city
+16|38620|Horseshoe Bend|Horseshoe Bend city
+16|39070|Huetter|Huetter city
+16|39610|Idaho City|Idaho City city
+16|39700|Idaho Falls|Idaho Falls city
+16|40330|Inkom|Inkom city
+16|40420|Iona|Iona city
+16|40510|Irwin|Irwin city
+16|40600|Island Park|Island Park city
+16|41320|Jerome|Jerome city
+16|42130|Juliaetta|Juliaetta city
+16|42400|Kamiah|Kamiah city
+16|42580|Kellogg|Kellogg city
+16|42760|Kendrick|Kendrick city
+16|43030|Ketchum|Ketchum city
+16|43570|Kimberly|Kimberly city
+16|44110|Kooskia|Kooskia city
+16|44200|Kootenai|Kootenai city
+16|44290|Kuna|Kuna city
+16|45370|Lapwai|Lapwai city
+16|45820|Lava Hot Springs|Lava Hot Springs city
+16|45910|Leadore|Leadore city
+16|46540|Lewiston|Lewiston city
+16|46720|Lewisville|Lewisville city
+16|47890|Lost River|Lost River city
+16|48790|McCall|McCall city
+16|48880|McCammon|McCammon city
+16|49240|Mackay|Mackay city
+16|50140|Malad City|Malad City city
+16|50230|Malta|Malta city
+16|50950|Marsing|Marsing city
+16|51850|Melba|Melba city
+16|52030|Menan|Menan city
+16|52120|Meridian|Meridian city
+16|52660|Middleton|Middleton city
+16|52750|Midvale|Midvale city
+16|53110|Minidoka|Minidoka city
+16|53920|Montpelier|Montpelier city
+16|54100|Moore|Moore city
+16|54550|Moscow|Moscow city
+16|54730|Mountain Home|Mountain Home city
+16|55270|Moyie Springs|Moyie Springs city
+16|55450|Mud Lake|Mud Lake city
+16|55630|Mullan|Mullan city
+16|55900|Murtaugh|Murtaugh city
+16|56260|Nampa|Nampa city
+16|56800|Newdale|Newdale city
+16|56890|New Meadows|New Meadows city
+16|56980|New Plymouth|New Plymouth city
+16|57250|Nezperce|Nezperce city
+16|58060|Notus|Notus city
+16|58330|Oakley|Oakley city
+16|58600|Oldtown|Oldtown city
+16|58870|Onaway|Onaway city
+16|59320|Orofino|Orofino city
+16|59590|Osburn|Osburn city
+16|60040|Oxford|Oxford city
+16|60580|Paris|Paris city
+16|60760|Parker|Parker city
+16|60940|Parma|Parma city
+16|61210|Paul|Paul city
+16|61300|Payette|Payette city
+16|61840|Peck|Peck city
+16|62740|Pierce|Pierce city
+16|63100|Pinehurst|Pinehurst city
+16|63550|Placerville|Placerville city
+16|63910|Plummer|Plummer city
+16|64090|Pocatello|Pocatello city
+16|64450|Ponderay|Ponderay city
+16|64810|Post Falls|Post Falls city
+16|64900|Potlatch|Potlatch city
+16|65260|Preston|Preston city
+16|65530|Priest River|Priest River city
+16|66340|Rathdrum|Rathdrum city
+16|67150|Reubens|Reubens city
+16|67420|Rexburg|Rexburg city
+16|67600|Richfield|Richfield city
+16|67780|Rigby|Rigby city
+16|67870|Riggins|Riggins city
+16|67960|Ririe|Ririe city
+16|68500|Roberts|Roberts city
+16|69130|Rockland|Rockland city
+16|70660|Rupert|Rupert city
+16|71020|St. Anthony|St. Anthony city
+16|71110|St. Charles|St. Charles city
+16|71470|St. Maries|St. Maries city
+16|71650|Salmon|Salmon city
+16|72100|Sandpoint|Sandpoint city
+16|73450|Shelley|Shelley city
+16|73900|Shoshone|Shoshone city
+16|75070|Smelterville|Smelterville city
+16|75195|Soda Springs|Soda Springs city
+16|75970|Spencer|Spencer city
+16|76060|Spirit Lake|Spirit Lake city
+16|76780|Stanley|Stanley city
+16|76870|Star|Star city
+16|77050|State Line|State Line city
+16|77500|Stites|Stites city
+16|78040|Sugar City|Sugar City city
+16|78850|Sun Valley|Sun Valley city
+16|79120|Swan Valley|Swan Valley city
+16|80200|Tensed|Tensed city
+16|80380|Teton|Teton city
+16|80470|Tetonia|Tetonia city
+16|82360|Troy|Troy city
+16|82810|Twin Falls|Twin Falls city
+16|83350|Ucon|Ucon city
+16|84250|Victor|Victor city
+16|84790|Wallace|Wallace city
+16|85240|Wardner|Wardner city
+16|85420|Warm River|Warm River city
+16|86050|Weippe|Weippe city
+16|86140|Weiser|Weiser city
+16|86320|Wendell|Wendell city
+16|87040|Weston|Weston city
+16|87310|White Bird|White Bird city
+16|87670|Wilder|Wilder city
+16|87850|Winchester|Winchester city
+16|88480|Worley|Worley city

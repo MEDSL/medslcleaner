@@ -1,0 +1,157 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+46|00002|Milbank School District 25-4|Milbank School District 25-4
+46|00003|Wilmot School District 54-7|Wilmot School District 54-7
+46|00025|Howard School District 48-3|Howard School District 48-3
+46|00028|Alcester-Hudson School District 61-1|Alcester-Hudson School District 61-1
+46|00036|Deuel School District 19-4|Deuel School District 19-4
+46|00041|Britton-Hecla School District 45-4|Britton-Hecla School District 45-4
+46|00042|Agar-Blunt-Onida School District 58-3|Agar-Blunt-Onida School District 58-3
+46|00045|Groton Area School District 06-6|Groton Area School District 06-6
+46|00046|Hitchcock-Tulare School District 56-6|Hitchcock-Tulare School District 56-6
+46|00052|Tea Area School District 41-5|Tea Area School District 41-5
+46|00053|Sisseton School District 54-2|Sisseton School District 54-2
+46|01026|McCook Central School District 43-7|McCook Central School District 43-7
+46|01027|Oldham-Ramona School District 39-5|Oldham-Ramona School District 39-5
+46|01028|Selby School District 62-5|Selby School District 62-5
+46|02070|Aberdeen School District 06-1|Aberdeen School District 06-1
+46|02640|Hanson School District 30-1|Hanson School District 30-1
+46|03720|Arlington School District 38-1|Arlington School District 38-1
+46|03780|Armour School District 21-1|Armour School District 21-1
+46|03932|Sanborn Central School District 55-5|Sanborn Central School District 55-5
+46|04270|Avon School District 04-1|Avon School District 04-1
+46|04680|Baltic School District 49-1|Baltic School District 49-1
+46|05610|Belle Fourche School District 09-1|Belle Fourche School District 09-1
+46|06240|Bennett County School District 03-1|Bennett County School District 03-1
+46|06360|Beresford School District 61-2|Beresford School District 61-2
+46|06960|Big Stone City School District 25-1|Big Stone City School District 25-1
+46|07050|Bison School District 52-1|Bison School District 52-1
+46|07400|Bon Homme School District 04-2|Bon Homme School District 04-2
+46|07670|South Central School District 26-5|South Central School District 26-5
+46|07800|Bowdle School District 22-1|Bowdle School District 22-1
+46|07950|Brandon Valley School District 49-2|Brandon Valley School District 49-2
+46|08230|Bridgewater School District 43-6|Bridgewater School District 43-6
+46|08520|Brookings School District 05-1|Brookings School District 05-1
+46|09300|Harding County School District 31-1|Harding County School District 31-1
+46|09512|Burke School District 26-2|Burke School District 26-2
+46|10320|Canistota School District 43-1|Canistota School District 43-1
+46|10560|Canton School District 41-1|Canton School District 41-1
+46|11280|Castlewood School District 28-1|Castlewood School District 28-1
+46|11760|Centerville School District 60-1|Centerville School District 60-1
+46|12000|Chamberlain School District 07-1|Chamberlain School District 07-1
+46|12300|Chester School District 39-1|Chester School District 39-1
+46|12940|Clark School District 12-2|Clark School District 12-2
+46|14100|Colman-Egan School District 50-5|Colman-Egan School District 50-5
+46|14130|Colome Consolidated School District 59-3|Colome Consolidated School District 59-3
+46|16230|Corsica School District 21-2|Corsica School District 21-2
+46|16950|Custer School District 16-1|Custer School District 16-1
+46|17850|De Smet School District 38-2|De Smet School District 38-2
+46|18120|Dell Rapids School District 49-3|Dell Rapids School District 49-3
+46|19170|Doland School District 56-2|Doland School District 56-2
+46|19410|Douglas School District 51-1|Douglas School District 51-1
+46|19450|Dupree School District 64-2|Dupree School District 64-2
+46|19580|Jones County School District 37-3|Jones County School District 37-3
+46|20100|Eagle Butte School District 20-1|Eagle Butte School District 20-1
+46|20850|Edgemont School District 23-1|Edgemont School District 23-1
+46|21300|Elk Mountain School District 16-2|Elk Mountain School District 16-2
+46|21340|Elk Point-Jefferson School District 61-7|Elk Point-Jefferson School District 61-7
+46|21390|Elkton School District 05-3|Elkton School District 05-3
+46|21400|Frederick Area School District 06-2|Frederick Area School District 06-2
+46|21420|Emery School District 30-2|Emery School District 30-2
+46|22410|Estelline School District 28-2|Estelline School District 28-2
+46|22500|Ethan School District 17-1|Ethan School District 17-1
+46|22560|Eureka School District 44-1|Eureka School District 44-1
+46|22940|Faith School District 46-2|Faith School District 46-2
+46|24030|Faulkton School District 24-4|Faulkton School District 24-4
+46|24390|Flandreau School District 50-3|Flandreau School District 50-3
+46|24540|Florence School District 14-1|Florence School District 14-1
+46|24850|Stanley County School District 57-1|Stanley County School District 57-1
+46|25500|Freeman School District 33-1|Freeman School District 33-1
+46|26370|Garretson School District 49-4|Garretson School District 49-4
+46|26490|Gayville-Volin School District 63-1|Gayville-Volin School District 63-1
+46|26970|Gettysburg School District 53-1|Gettysburg School District 53-1
+46|29340|Grant-Deuel School District 25-3|Grant-Deuel School District 25-3
+46|29880|Gregory School District 26-4|Gregory School District 26-4
+46|30490|Haakon School District 27-1|Haakon School District 27-1
+46|30800|Hamlin School District 28-3|Hamlin School District 28-3
+46|31350|Harrisburg School District 41-2|Harrisburg School District 41-2
+46|31710|West Central School District 49-7|West Central School District 49-7
+46|32340|Henry School District 14-2|Henry School District 14-2
+46|32430|Herreid School District 10-1|Herreid School District 10-1
+46|33360|Hill City School District 51-2|Hill City School District 51-2
+46|34440|Edmunds Central School District 22-5|Edmunds Central School District 22-5
+46|34480|Hot Springs School District 23-2|Hot Springs School District 23-2
+46|34600|Hoven School District 53-2|Hoven School District 53-2
+46|35010|Greater Hoyt School District 61-4|Greater Hoyt School District 61-4
+46|35400|Hurley School District 60-2|Hurley School District 60-2
+46|35480|Huron School District 02-2|Huron School District 02-2
+46|36060|Ipswich School District 22-6|Ipswich School District 22-6
+46|36150|Iroquois School District 02-3|Iroquois School District 02-3
+46|36990|Dakota Valley School District 61-8|Dakota Valley School District 61-8
+46|38220|Kimball School District 07-2|Kimball School District 07-2
+46|39540|Andes Central School District 11-1|Andes Central School District 11-1
+46|39600|Madison Central School District 39-2|Madison Central School District 39-2
+46|39990|Lake Preston School District 38-3|Lake Preston School District 38-3
+46|40860|Langford School District 45-2|Langford School District 45-2
+46|41300|Lead-Deadwood School District 40-1|Lead-Deadwood School District 40-1
+46|41520|Lemmon School District 52-4|Lemmon School District 52-4
+46|41550|Lennox School District 41-4|Lennox School District 41-4
+46|41640|Leola School District 44-2|Leola School District 44-2
+46|44770|Lyman School District 42-1|Lyman School District 42-1
+46|44940|Tri-Valley School District 49-6|Tri-Valley School District 49-6
+46|45450|Marion School District 60-3|Marion School District 60-3
+46|46260|McIntosh School District 15-1|McIntosh School District 15-1
+46|46380|McLaughlin School District 15-2|McLaughlin School District 15-2
+46|47100|Menno School District 33-2|Menno School District 33-2
+46|47942|Miller Area School District 29-4|Miller Area School District 29-4
+46|48390|Mitchell School District 17-2|Mitchell School District 17-2
+46|48780|Montrose School District 43-2|Montrose School District 43-2
+46|49650|Mount Vernon School District 17-3|Mount Vernon School District 17-3
+46|50670|New Underwood School District 51-3|New Underwood School District 51-3
+46|50850|Newell School District 09-2|Newell School District 09-2
+46|51750|Northwestern Area School District 56-7|Northwestern Area School District 56-7
+46|52770|Oelrichs School District 23-3|Oelrichs School District 23-3
+46|54270|Parker School District 60-4|Parker School District 60-4
+46|54300|Parkston School District 33-3|Parkston School District 33-3
+46|55260|Pierre School District 32-2|Pierre School District 32-2
+46|55710|Plankinton School District 01-1|Plankinton School District 01-1
+46|59820|Rapid City School District 51-4|Rapid City School District 51-4
+46|60450|Redfield School District 56-4|Redfield School District 56-4
+46|63360|Rosholt School District 54-4|Rosholt School District 54-4
+46|63400|Roslyn School District 18-2|Roslyn School District 18-2
+46|64140|Rutland School District 39-4|Rutland School District 39-4
+46|65180|Scotland School District 04-3|Scotland School District 04-3
+46|65250|Greater Scott School District 61-5|Greater Scott School District 61-5
+46|65460|Shannon County School District 65-1|Shannon County School District 65-1
+46|66270|Sioux Falls School District 49-5|Sioux Falls School District 49-5
+46|66300|Sioux Valley School District 05-5|Sioux Valley School District 05-5
+46|66930|Spearfish School District 40-2|Spearfish School District 40-2
+46|69540|Stickney School District 01-2|Stickney School District 01-2
+46|69930|Meade School District 46-1|Meade School District 46-1
+46|70140|Summit School District 54-6|Summit School District 54-6
+46|71880|Timber Lake School District 20-3|Timber Lake School District 20-3
+46|72090|Todd County School District 66-1|Todd County School District 66-1
+46|72450|Tripp-Delmont School District 33-5|Tripp-Delmont School District 33-5
+46|74370|Vermillion School District 13-1|Vermillion School District 13-1
+46|74520|Viborg School District 60-5|Viborg School District 60-5
+46|75420|Wagner School District 11-4|Wagner School District 11-4
+46|75600|Smee School District 15-3|Smee School District 15-3
+46|75660|Wall School District 51-5|Wall School District 51-5
+46|76020|Warner School District 06-5|Warner School District 06-5
+46|76620|Watertown School District 14-4|Watertown School District 14-4
+46|76680|Waubay School District 18-3|Waubay School District 18-3
+46|76740|Waverly School District 14-5|Waverly School District 14-5
+46|76990|Webster School District 18-4|Webster School District 18-4
+46|77460|Wessington Springs School District 36-2|Wessington Springs School District 36-2
+46|78300|Deubrook School District 05-6|Deubrook School District 05-6
+46|78510|White Lake School District 01-3|White Lake School District 01-3
+46|78570|White River School District 47-1|White River School District 47-1
+46|79350|Willow Lake School District 12-3|Willow Lake School District 12-3
+46|79710|Winner School District 59-2|Winner School District 59-2
+46|80100|Wolsey-Wessington School District 02-6|Wolsey-Wessington School District 02-6
+46|80190|Woonsocket School District 55-4|Woonsocket School District 55-4
+46|80430|Yankton School District 63-3|Yankton School District 63-3
+46|80437|Kadoka School District 35-2|Kadoka School District 35-2
+46|80438|Platte-Geddes School District 11-5|Platte-Geddes School District 11-5
+46|80439|Irene-Wakonda School District 13-3|Irene-Wakonda School District 13-3
+46|80440|Highmore-Harrold School District 34-2|Highmore-Harrold School District 34-2
+46|80441|Mobridge-Pollock School District 62-6|Mobridge-Pollock School District 62-6

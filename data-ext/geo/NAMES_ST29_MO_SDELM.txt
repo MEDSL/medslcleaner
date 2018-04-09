@@ -1,0 +1,74 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+29|03040|Altenburg 48 School District|Altenburg 48 School District
+29|04080|Avenue City R-IX School District|Avenue City R-IX School District
+29|04110|Avilla R-XIII School District|Avilla R-XIII School District
+29|04590|Belleview R-III School District|Belleview R-III School District
+29|05190|Blackwater R-II School District|Blackwater R-II School District
+29|05400|Boncl R-X School District|Boncl R-X School District
+29|06540|Callao C-8 School District|Callao C-8 School District
+29|07320|Nell Holcomb R-IV School District|Nell Holcomb R-IV School District
+29|08340|Centerville R-I School District|Centerville R-I School District
+29|08790|Livingston County R-III School District|Livingston County R-III School District
+29|09090|Clarksburg C-2 School District|Clarksburg C-2 School District
+29|10230|Cowgill R-VI School District|Cowgill R-VI School District
+29|10470|Davis R-XII School District|Davis R-XII School District
+29|10650|North Wood R-IV School District|North Wood R-IV School District
+29|10710|Dent-Phelps R-III School District|Dent-Phelps R-III School District
+29|11010|Skyline R-II School District|Skyline R-II School District
+29|11040|Plainview R-VIII School District|Plainview R-VIII School District
+29|11160|East Lynne 40 School District|East Lynne 40 School District
+29|11850|Fairview R-XI School District|Fairview R-XI School District
+29|12450|Spring Bluff R-XV School District|Spring Bluff R-XV School District
+29|12480|Strain-Japan R-XVI School District|Strain-Japan R-XVI School District
+29|12510|Franklin County R-II School District|Franklin County R-II School District
+29|12720|Gasconade C-4 School District|Gasconade C-4 School District
+29|12840|Gilliam C-4 School District|Gilliam C-4 School District
+29|13020|Gorin R-III School District|Gorin R-III School District
+29|13260|Green Forest R-II School District|Green Forest R-II School District
+29|13440|Pleasant View R-VI School District|Pleasant View R-VI School District
+29|14520|Holliday C-2 School District|Holliday C-2 School District
+29|15060|Junction Hill C-12 School District|Junction Hill C-12 School District
+29|15180|Glenwood R-VIII School District|Glenwood R-VIII School District
+29|15210|Howell Valley R-I School District|Howell Valley R-I School District
+29|15240|Hudson R-IX School District|Hudson R-IX School District
+29|16230|Jefferson County R-VII School District|Jefferson County R-VII School District
+29|16470|Kelso C-7 School District|Kelso C-7 School District
+29|16620|Kingston 42 School District|Kingston 42 School District
+29|16710|Kirbyville R-VI School District|Kirbyville R-VI School District
+29|17000|Laclede County C-5 School District|Laclede County C-5 School District
+29|17910|Laredo R-VII School District|Laredo R-VII School District
+29|18330|Leesville R-IX School District|Leesville R-IX School District
+29|19200|Lonedell R-XIV School District|Lonedell R-XIV School District
+29|19320|Luray 33 School District|Luray 33 School District
+29|19950|Manes R-V School District|Manes R-V School District
+29|20340|Mark Twain R-VIII School District|Mark Twain R-VIII School District
+29|20840|Miami R-I School District|Miami R-I School District
+29|20880|Middle Grove C-1 School District|Middle Grove C-1 School District
+29|21030|Mirabile C-1 School District|Mirabile C-1 School District
+29|21060|Missouri City 56 School District|Missouri City 56 School District
+29|21150|High Point R-III School District|High Point R-III School District
+29|21180|Moniteau County R-V School District|Moniteau County R-V School District
+29|22110|New York R-IV School District|New York R-IV School District
+29|23040|Oak Hill R-I School District|Oak Hill R-I School District
+29|23370|Thornfield R-I School District|Thornfield R-I School District
+29|23790|Pemiscot County R-3 School District|Pemiscot County R-3 School District
+29|24690|Pettis County R-XII School District|Pettis County R-XII School District
+29|25080|Phelps County R-III School District|Phelps County R-III School District
+29|26040|Raymondville R-7 School District|Raymondville R-7 School District
+29|26190|Renick R-V School District|Renick R-V School District
+29|26370|Richards R-V School District|Richards R-V School District
+29|26550|Ripley County R-III School District|Ripley County R-III School District
+29|26580|Ripley County R-IV School District|Ripley County R-IV School District
+29|26940|Roscoe C-1 School District|Roscoe C-1 School District
+29|27330|Hardeman R-X School District|Hardeman R-X School District
+29|27450|Orearville R-IV School District|Orearville R-IV School District
+29|28080|Shawnee R-III School District|Shawnee R-III School District
+29|28200|Shell Knob 78 School District|Shell Knob 78 School District
+29|28770|Spickard R-II School District|Spickard R-II School District
+29|29670|Strasburg C-3 School District|Strasburg C-3 School District
+29|29730|Success R-VI School District|Success R-VI School District
+29|29820|Sunrise R-IX School District|Sunrise R-IX School District
+29|29850|Swedeborg R-III School District|Swedeborg R-III School District
+29|29910|Taneyville R-II School District|Taneyville R-II School District
+29|31230|Richwoods R-VII School District|Richwoods R-VII School District
+29|31890|Westview C-6 School District|Westview C-6 School District

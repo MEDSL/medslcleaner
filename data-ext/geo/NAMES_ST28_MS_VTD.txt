@@ -1,0 +1,1970 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+28|001|101|Courthouse|Courthouse Voting District
+28|001|102|By-Pass Firestation|By-Pass Firestation Voting District
+28|001|103|Bellemont|Bellemont Voting District
+28|001|201|Liberty Park|Liberty Park Voting District
+28|001|202|Duncan Park|Duncan Park Voting District
+28|001|203|Beau Pre|Beau Pre Voting District
+28|001|204|Kingston|Kingston Voting District
+28|001|301|Concord|Concord Voting District
+28|001|302|Convention Center|Convention Center Voting District
+28|001|303|Maryland|Maryland Voting District
+28|001|304|Palestine|Palestine Voting District
+28|001|401|Northside School|Northside School Voting District
+28|001|402|Thompson|Thompson Voting District
+28|001|403|Pine Ridge|Pine Ridge Voting District
+28|001|404|Carpenter|Carpenter Voting District
+28|001|405|Morgantown|Morgantown Voting District
+28|001|501|Foster Mound|Foster Mound Voting District
+28|001|502|Airport|Airport Voting District
+28|001|503|Oakland|Oakland Voting District
+28|001|504|Washington|Washington Voting District
+28|003|101|Five-Point|Five-Point Voting District
+28|003|102|North Corinth|North Corinth Voting District
+28|003|103|Wenasoga|Wenasoga Voting District
+28|003|201|Central|Central Voting District
+28|003|202|Glen|Glen Voting District
+28|003|203|Jacinto|Jacinto Voting District
+28|003|204|East Third Street|East Third Street Voting District
+28|003|301|South Corinth|South Corinth Voting District
+28|003|302|Biggersville|Biggersville Voting District
+28|003|303|Rienzi|Rienzi Voting District
+28|003|401|College Hill|College Hill Voting District
+28|003|402|Kossuth|Kossuth Voting District
+28|003|501|West Corinth|West Corinth Voting District
+28|003|502|Union Center|Union Center Voting District
+28|003|503|Bethel|Bethel Voting District
+28|003|504|East Corinth|East Corinth Voting District
+28|005|101|East Gloster|East Gloster Voting District
+28|005|102|Liberty|Liberty Voting District
+28|005|103|New Zion|New Zion Voting District
+28|005|104|Zion Hill|Zion Hill Voting District
+28|005|201|Ariel|Ariel Voting District
+28|005|202|Berwick|Berwick Voting District
+28|005|203|East Centreville|East Centreville Voting District
+28|005|204|Street|Street Voting District
+28|005|205|Amite River|Amite River Voting District
+28|005|301|Crosby|Crosby Voting District
+28|005|302|Gloster|Gloster Voting District
+28|005|303|Homochitto|Homochitto Voting District
+28|005|304|Oneil|Oneil Voting District
+28|005|401|East Fork|East Fork Voting District
+28|005|402|East Liberty|East Liberty Voting District
+28|005|403|Smithdale|Smithdale Voting District
+28|005|404|Tangipahoa|Tangipahoa Voting District
+28|005|501|Riceville|Riceville Voting District
+28|005|502|South Liberty|South Liberty Voting District
+28|005|503|Tickfaw|Tickfaw Voting District
+28|005|504|Walls|Walls Voting District
+28|007|101|South Central|South Central Voting District
+28|007|102|Williamsville|Williamsville Voting District
+28|007|201|McCool|McCool Voting District
+28|007|202|Liberty Chapel|Liberty Chapel Voting District
+28|007|203|Berea|Berea Voting District
+28|007|204|Northeast|Northeast Voting District
+28|007|301|Carmack|Carmack Voting District
+28|007|302|Hesterville|Hesterville Voting District
+28|007|303|Possumneck|Possumneck Voting District
+28|007|304|North Central|North Central Voting District
+28|007|305|Northwest|Northwest Voting District
+28|007|306|Aponaug|Aponaug Voting District
+28|007|401|McAdams|McAdams Voting District
+28|007|402|Newport|Newport Voting District
+28|007|403|Sallis|Sallis Voting District
+28|007|404|Southwest|Southwest Voting District
+28|007|501|Thompson|Thompson Voting District
+28|007|502|Zama|Zama Voting District
+28|007|503|Providence|Providence Voting District
+28|007|504|East|East Voting District
+28|007|505|Ethel|Ethel Voting District
+28|009|101|Lamar|Lamar Voting District
+28|009|102|Canaan|Canaan Voting District
+28|009|103|Ashland|Ashland Voting District
+28|009|104|Floyd|Floyd Voting District
+28|009|105|Hickory Flat|Hickory Flat Voting District
+28|011|101|Gunnison|Gunnison Voting District
+28|011|102|West Rosedale|West Rosedale Voting District
+28|011|103|Pace|Pace Voting District
+28|011|104|Benoit|Benoit Voting District
+28|011|105|Scott|Scott Voting District
+28|011|106|Stringtown|Stringtown Voting District
+28|011|107|East Rosedale|East Rosedale Voting District
+28|011|108|Winstonville|Winstonville Voting District
+28|011|109|Beulah|Beulah Voting District
+28|011|110|Longshot|Longshot Voting District
+28|011|201|East Central Cleveland|East Central Cleveland Voting District
+28|011|202|Northwest Cleveland|Northwest Cleveland Voting District
+28|011|203|West Central Cleveland|West Central Cleveland Voting District
+28|011|204|West Cleveland|West Cleveland Voting District
+28|011|301|Duncan/Alligator|Duncan/Alligator Voting District
+28|011|302|Shelby|Shelby Voting District
+28|011|303|Mound Bayou|Mound Bayou Voting District
+28|011|401|Merigold|Merigold Voting District
+28|011|402|East Cleveland|East Cleveland Voting District
+28|011|403|North Cleveland|North Cleveland Voting District
+28|011|404|Renova|Renova Voting District
+28|011|405|Cleveland Eastgate|Cleveland Eastgate Voting District
+28|011|406|Cleveland Courthouse|Cleveland Courthouse Voting District
+28|011|501|Boyle|Boyle Voting District
+28|011|502|Skene|Skene Voting District
+28|011|503|Shaw|Shaw Voting District
+28|011|504|Choctaw|Choctaw Voting District
+28|011|505|South Cleveland|South Cleveland Voting District
+28|013|001|Banner|Banner Voting District
+28|013|002|Bruce 3|Bruce 3 Voting District
+28|013|003|NE Calhoun|NE Calhoun Voting District
+28|013|004|Pittsboro 1|Pittsboro 1 Voting District
+28|013|005|Calhoun City 1|Calhoun City 1 Voting District
+28|013|006|Pittsboro 2|Pittsboro 2 Voting District
+28|013|007|Vardaman|Vardaman Voting District
+28|013|008|Derma 5|Derma 5 Voting District
+28|013|009|Calhoun City 4|Calhoun City 4 Voting District
+28|013|010|Derma 4|Derma 4 Voting District
+28|015|101|Ray's Shop|Ray's Shop Voting District
+28|015|102|Jefferson|Jefferson Voting District
+28|015|103|Calvary|Calvary Voting District
+28|015|104|North Carrollton|North Carrollton Voting District
+28|015|105|McCarley|McCarley Voting District
+28|015|106|Carrollton|Carrollton Voting District
+28|015|107|West Carroll|West Carroll Voting District
+28|015|108|Fire Tower|Fire Tower Voting District
+28|015|109|Gravel Hill|Gravel Hill Voting District
+28|015|110|Black Hawk|Black Hawk Voting District
+28|015|111|430 School|Voting District 430 School
+28|015|112|Salem|Salem Voting District
+28|015|113|West Vaiden|West Vaiden Voting District
+28|015|114|East Vaiden|East Vaiden Voting District
+28|017|101|South Houlka|South Houlka Voting District
+28|017|102|North Houlka|North Houlka Voting District
+28|017|103|Van Vleet|Van Vleet Voting District
+28|017|104|North Okolona|North Okolona Voting District
+28|017|105|West Okolona|West Okolona Voting District
+28|017|106|East Okolona|East Okolona Voting District
+28|017|107|Egypt|Egypt Voting District
+28|017|108|Buena Vista|Buena Vista Voting District
+28|017|109|Southeast Houston|Southeast Houston Voting District
+28|017|111|Northwest Houston|Northwest Houston Voting District
+28|017|112|Pleasant Grove|Pleasant Grove Voting District
+28|017|113|Anchor|Anchor Voting District
+28|017|114|Pearsall|Pearsall Voting District
+28|017|115|Sparta|Sparta Voting District
+28|017|116|Woodland|Woodland Voting District
+28|019|001|Panhandle|Panhandle Voting District
+28|019|002|East Weir|East Weir Voting District
+28|019|003|District 5|District 5
+28|019|004|SW Ackerman|SW Ackerman Voting District
+28|019|005|Fentress|Fentress Voting District
+28|019|006|West Weir|West Weir Voting District
+28|019|007|French Camp|French Camp Voting District
+28|019|008|Kenego|Kenego Voting District
+28|019|009|Chester|Chester Voting District
+28|019|010|Byway|Byway Voting District
+28|019|011|Hebron|Hebron Voting District
+28|019|012|Sherwood|Sherwood Voting District
+28|019|013|Reform|Reform Voting District
+28|021|101|District 1A|District 1A
+28|021|102|District 1B|District 1B
+28|021|103|District 1C|District 1C
+28|021|201|District 2|District 2
+28|021|301|District 3A|District 3A
+28|021|302|District 3B|District 3B
+28|021|401|District 4A|District 4A
+28|021|402|District 4B|District 4B
+28|021|403|District 4C|District 4C
+28|021|501|District 5A|District 5A
+28|021|502|District 5B|District 5B
+28|023|101|South Quitman|South Quitman Voting District
+28|023|102|Desoto|Desoto Voting District
+28|023|103|Harmony Beat 1|Harmony Beat 1 Voting District
+28|023|104|Stonewall Beat 1|Stonewall Beat 1 Voting District
+28|023|105|Langsdale|Langsdale Voting District
+28|023|202|Pachuta|Pachuta Voting District
+28|023|204|Oak Grove|Oak Grove Voting District
+28|023|205|Shubuta|Shubuta Voting District
+28|023|206|Beaver Dam|Beaver Dam Voting District
+28|023|301|Enterprise|Enterprise Voting District
+28|023|303|Stonewall Beat 3|Stonewall Beat 3 Voting District
+28|023|304|Harmony Beat 2|Harmony Beat 2 Voting District
+28|023|305|Souinlovie|Souinlovie Voting District
+28|023|401|Union|Union Voting District
+28|023|402|Energy|Energy Voting District
+28|023|403|Snell|Snell Voting District
+28|023|404|Pineridge|Pineridge Voting District
+28|023|405|North Quitman|North Quitman Voting District
+28|023|406|Rolling Creek|Rolling Creek Voting District
+28|023|501|Manassa|Manassa Voting District
+28|023|502|Springs|Springs Voting District
+28|023|503|East Quitman|East Quitman Voting District
+28|023|504|Carmichael|Carmichael Voting District
+28|025|101|Vinton|Vinton Voting District
+28|025|102|North West Point|North West Point Voting District
+28|025|201|Union Star|Union Star Voting District
+28|025|202|Tibbee|Tibbee Voting District
+28|025|203|East West Point|East West Point Voting District
+28|025|301|Siloam|Siloam Voting District
+28|025|302|Central West Point|Central West Point Voting District
+28|025|303|Cairo|Cairo Voting District
+28|025|401|Caradine|Caradine Voting District
+28|025|403|West West Point|West West Point Voting District
+28|025|501|South West Point|South West Point Voting District
+28|025|502|Cedar Bluff|Cedar Bluff Voting District
+28|025|503|Pheba|Pheba Voting District
+28|025|504|Pine Bluff|Pine Bluff Voting District
+28|027|001|Lula|Lula Voting District
+28|027|002|Coahoma|Coahoma Voting District
+28|027|003|Friar's Point|Friar's Point Voting District
+28|027|004|Jonestown|Jonestown Voting District
+28|027|005|Lyons|Lyons Voting District
+28|027|006|Farrell|Farrell Voting District
+28|027|007|Sherard|Sherard Voting District
+28|027|008|Clarksdale 2-4|Clarksdale 2-4 Voting District
+28|027|009|Clarksdale 3-3|Clarksdale 3-3 Voting District
+28|027|010|Rena Lara|Rena Lara Voting District
+28|027|011|Clarksdale 5-4|Clarksdale 5-4 Voting District
+28|027|012|Bobo|Bobo Voting District
+28|027|013|Roundaway|Roundaway Voting District
+28|027|014|Clarksdale 4-2|Clarksdale 4-2 Voting District
+28|027|015|Dublin|Dublin Voting District
+28|027|016|Cagle Crossing|Cagle Crossing Voting District
+28|027|017|Clarksdale 3-4|Clarksdale 3-4 Voting District
+28|027|018|Clarksdale 1-4|Clarksdale 1-4 Voting District
+28|027|019|Clarksdale 4-3|Clarksdale 4-3 Voting District
+28|029|101|Gallman|Gallman Voting District
+28|029|103|Georgetown North|Georgetown North Voting District
+28|029|104|Hazlehurst East|Hazlehurst East Voting District
+28|029|201|Georgetown South|Georgetown South Voting District
+28|029|202|Strong Hope-Union|Strong Hope-Union Voting District
+28|029|203|Wesson|Wesson Voting District
+28|029|204|Beauregard|Beauregard Voting District
+28|029|205|Shady Grove|Shady Grove Voting District
+28|029|206|Hazlehurst South|Hazlehurst South Voting District
+28|029|301|Martinsville|Martinsville Voting District
+28|029|302|Centerpoint|Centerpoint Voting District
+28|029|303|Hazlehurst West|Hazlehurst West Voting District
+28|029|304|Hazlehurst North|Hazlehurst North Voting District
+28|029|401|Carpenter|Carpenter Voting District
+28|029|402|Dentville|Dentville Voting District
+28|029|403|Crystal Springs South|Crystal Springs South Voting District
+28|029|404|Crystal Springs North|Crystal Springs North Voting District
+28|029|501|Crystal Springs East|Crystal Springs East Voting District
+28|029|502|Crystal Springs West|Crystal Springs West Voting District
+28|031|001|Seminary|Seminary Voting District
+28|031|002|Strahan|Strahan Voting District
+28|031|003|West Collins|West Collins Voting District
+28|031|004|Richmond|Richmond Voting District
+28|031|005|Sanford|Sanford Voting District
+28|031|006|South Collins|South Collins Voting District
+28|031|007|Collins|Collins Voting District
+28|031|008|Williamsburg|Williamsburg Voting District
+28|031|009|Dry Creek|Dry Creek Voting District
+28|031|010|Lone Star/Black Jack|Lone Star/Black Jack Voting District
+28|031|011|Mt. Olive|Mt. Olive Voting District
+28|031|013|Gilmer|Gilmer Voting District
+28|031|014|Mitchell|Mitchell Voting District
+28|031|015|Okahay|Okahay Voting District
+28|031|016|Station Creek|Station Creek Voting District
+28|031|017|Yawn|Yawn Voting District
+28|031|12|Rock Hill|Rock Hill Voting District
+28|033|101|Ingram's Mill|Ingram's Mill Voting District
+28|033|102|Lewisburg East|Lewisburg East Voting District
+28|033|103|Miller|Miller Voting District
+28|033|104|Fairhaven|Fairhaven Voting District
+28|033|105|Olive Branch South|Olive Branch South Voting District
+28|033|106|Olive Branch North|Olive Branch North Voting District
+28|033|107|Hack's Cross|Hack's Cross Voting District
+28|033|108|Olive Branch West|Olive Branch West Voting District
+28|033|201|Mineral Wells|Mineral Wells Voting District
+28|033|202|Greenbrook North|Greenbrook North Voting District
+28|033|203|Southhaven North|Southhaven North Voting District
+28|033|204|Greenbrook South|Greenbrook South Voting District
+28|033|205|Plum Point|Plum Point Voting District
+28|033|206|Pleasant Hill North|Pleasant Hill North Voting District
+28|033|207|Elmore|Elmore Voting District
+28|033|301|Cherry Valley|Cherry Valley Voting District
+28|033|302|Southhaven West|Southhaven West Voting District
+28|033|303|Horn Lake Intermediate School|Horn Lake Intermediate School Voting District
+28|033|304|Horn Lake West|Horn Lake West Voting District
+28|033|305|Walls|Walls Voting District
+28|033|306|Lake Cormorant|Lake Cormorant Voting District
+28|033|307|Horn Lake North|Horn Lake North Voting District
+28|033|401|Southhaven South|Southhaven South Voting District
+28|033|402|Horn Lake East|Horn Lake East Voting District
+28|033|403|Horn Lake South|Horn Lake South Voting District
+28|033|404|Aldens|Aldens Voting District
+28|033|405|Nesbit West|Nesbit West Voting District
+28|033|406|Endora|Endora Voting District
+28|033|407|Oak Grove|Oak Grove Voting District
+28|033|408|Horn Lake Central|Horn Lake Central Voting District
+28|033|501|DeSoto Central|DeSoto Central Voting District
+28|033|502|Nesbit East|Nesbit East Voting District
+28|033|503|Bridgetown|Bridgetown Voting District
+28|033|504|Pleasant Hill South|Pleasant Hill South Voting District
+28|033|505|Lewisburg West|Lewisburg West Voting District
+28|033|506|Hernando East|Hernando East Voting District
+28|033|507|Hernando West|Hernando West Voting District
+28|033|508|Love|Love Voting District
+28|033|509|Alphaba Cockrum|Alphaba Cockrum Voting District
+28|033|510|Hernando Central|Hernando Central Voting District
+28|035|102|Blair High School|Blair High School Voting District
+28|035|103|Woodley School|Woodley School Voting District
+28|035|104|Westside|Westside Voting District
+28|035|107|Dixie|Dixie Voting District
+28|035|108|Camp School|Camp School Voting District
+28|035|109|Dantzler|Dantzler Voting District
+28|035|110|Timberton|Timberton Voting District
+28|035|201|Rawls Springs|Rawls Springs Voting District
+28|035|202|Eatonville|Eatonville Voting District
+28|035|203|Glendale|Glendale Voting District
+28|035|204|Eaton School|Eaton School Voting District
+28|035|205|Davis School|Davis School Voting District
+28|035|206|Jones School|Jones School Voting District
+28|035|207|USM Golf Course|USM Golf Course Voting District
+28|035|301|Barrontown-Macedonia|Barrontown-Macedonia Voting District
+28|035|302|Leeville|Leeville Voting District
+28|035|303|Petal Masonic Lodge|Petal Masonic Lodge Voting District
+28|035|304|Sunrise|Sunrise Voting District
+28|035|305|East Petal|East Petal Voting District
+28|035|402|Mclaurin|Mclaurin Voting District
+28|035|404|Lillie Burney School|Lillie Burney School Voting District
+28|035|405|Walthall School|Walthall School Voting District
+28|035|406|Rowan School|Rowan School Voting District
+28|035|407|Salvation Army|Salvation Army Voting District
+28|035|408|West Petal|West Petal Voting District
+28|035|409|Dixie Pine-Central|Dixie Pine-Central Voting District
+28|035|501|Brooklyn|Brooklyn Voting District
+28|035|502|Carnes|Carnes Voting District
+28|035|503|Maxie|Maxie Voting District
+28|035|504|Highland Park|Highland Park Voting District
+28|035|505|North Heights|North Heights Voting District
+28|035|506|Pinecrest|Pinecrest Voting District
+28|035|507|Thames School|Thames School Voting District
+28|037|101|Knoxville|Knoxville Voting District
+28|037|102|Roxie|Roxie Voting District
+28|037|103|Hamburg|Hamburg Voting District
+28|037|201|Pine Grove|Pine Grove Voting District
+28|037|202|Antioch|Antioch Voting District
+28|037|203|Meadville|Meadville Voting District
+28|037|301|Wesley Chapel|Wesley Chapel Voting District
+28|037|302|Bude|Bude Voting District
+28|037|401|Eddiceton|Eddiceton Voting District
+28|037|403|McCall Creek|McCall Creek Voting District
+28|037|404|Lucien|Lucien Voting District
+28|037|501|Bad Bayou|Bad Bayou Voting District
+28|037|502|Whittington|Whittington Voting District
+28|037|503|Cains|Cains Voting District
+28|039|101|Rocky Creek|Rocky Creek Voting District
+28|039|102|Shipman|Shipman Voting District
+28|039|103|Ward|Ward Voting District
+28|039|104|Multi-Mart|Multi-Mart Voting District
+28|039|201|Courthouse|Courthouse Voting District
+28|039|202|Pine Level|Pine Level Voting District
+28|039|203|Agricola|Agricola Voting District
+28|039|204|Howell School|Howell School Voting District
+28|039|205|Movella|Movella Voting District
+28|039|301|Multipurpose Bldg.|Multipurpose Bldg. Voting District
+28|039|302|Davis School|Davis School Voting District
+28|039|303|Basin School|Basin School Voting District
+28|039|304|Barton|Barton Voting District
+28|039|401|Lucedale City Hall|Lucedale City Hall Voting District
+28|039|402|Bexley School|Bexley School Voting District
+28|039|403|Shady Grove|Shady Grove Voting District
+28|039|404|Salem School|Salem School Voting District
+28|039|501|Lucedale High School|Lucedale High School Voting District
+28|039|502|Twin Creek|Twin Creek Voting District
+28|039|503|Central School|Central School Voting District
+28|039|504|Benndale Crossing|Benndale Crossing Voting District
+28|039|505|Broom School|Broom School Voting District
+28|041|101|Leakesville|Leakesville Voting District
+28|041|201|North Leakesville|North Leakesville Voting District
+28|041|202|State Line|State Line Voting District
+28|041|302|Jones|Jones Voting District
+28|041|303|Piave|Piave Voting District
+28|041|304|Wade|Wade Voting District
+28|041|401|Washington A|Washington A Voting District
+28|041|402|Vernal|Vernal Voting District
+28|041|403|Maples|Maples Voting District
+28|041|501|Mutual Rights|Mutual Rights Voting District
+28|041|502|Jonathan|Jonathan Voting District
+28|041|503|Leaf|Leaf Voting District
+28|041|504|McLain|McLain Voting District
+28|041|505|Washington|Washington Voting District
+28|043|101|Grenada Box 1|Grenada Box 1 Voting District
+28|043|102|Tie Plant|Tie Plant Voting District
+28|043|103|Elliott|Elliott Voting District
+28|043|104|Sweethome|Sweethome Voting District
+28|043|201|Grenada Box 2|Grenada Box 2 Voting District
+28|043|202|Gore Springs|Gore Springs Voting District
+28|043|203|Futheyville|Futheyville Voting District
+28|043|204|Providence|Providence Voting District
+28|043|301|Grenada Box 3|Grenada Box 3 Voting District
+28|043|303|Mt. Nebo|Mt. Nebo Voting District
+28|043|304|Pleasant Grove|Pleasant Grove Voting District
+28|043|401|Grenada Box 4|Grenada Box 4 Voting District
+28|043|402|Geeslin|Geeslin Voting District
+28|043|403|Hardy|Hardy Voting District
+28|043|501|Grenada Box 5|Grenada Box 5 Voting District
+28|043|502|Holcomb|Holcomb Voting District
+28|045|001|Pearlington|Pearlington Voting District
+28|045|002|Ansley|Ansley Voting District
+28|045|003|Lakeshore|Lakeshore Voting District
+28|045|004|Clermont Harbor|Clermont Harbor Voting District
+28|045|005|Arlington|Arlington Voting District
+28|045|006|Waveland East|Waveland East Voting District
+28|045|007|Waveland West|Waveland West Voting District
+28|045|008|South Bay|South Bay Voting District
+28|045|009|City Hall|City Hall Voting District
+28|045|010|North Bay East|North Bay East Voting District
+28|045|011|North Bay West|North Bay West Voting District
+28|045|012|Courthouse|Courthouse Voting District
+28|045|013|Bayou Phillip|Bayou Phillip Voting District
+28|045|014|Kiln West|Kiln West Voting District
+28|045|015|West Shoreline Park|West Shoreline Park Voting District
+28|045|016|Edwardsville|Edwardsville Voting District
+28|045|017|Kiln East|Kiln East Voting District
+28|045|018|Diamondhead East|Diamondhead East Voting District
+28|045|019|Diamondhead West|Diamondhead West Voting District
+28|045|020|Fenton|Fenton Voting District
+28|045|021|Catahoula|Catahoula Voting District
+28|045|022|Dedeaux|Dedeaux Voting District
+28|045|023|Hancock North Central|Hancock North Central Voting District
+28|045|024|Flat Top|Flat Top Voting District
+28|045|025|Standard|Standard Voting District
+28|045|026|Crane Creek|Crane Creek Voting District
+28|045|027|Leetown|Leetown Voting District
+28|047|101|101|Voting District 101
+28|047|102|102|Voting District 102
+28|047|103|103|Voting District 103
+28|047|104|104|Voting District 104
+28|047|105|105|Voting District 105
+28|047|106|106|Voting District 106
+28|047|107|107|Voting District 107
+28|047|108|108|Voting District 108
+28|047|109|109|Voting District 109
+28|047|110|110|Voting District 110
+28|047|111|111|Voting District 111
+28|047|112|112|Voting District 112
+28|047|113|113|Voting District 113
+28|047|114|114|Voting District 114
+28|047|201|201|Voting District 201
+28|047|202|202|Voting District 202
+28|047|203|203|Voting District 203
+28|047|204|204|Voting District 204
+28|047|205|205|Voting District 205
+28|047|206|206|Voting District 206
+28|047|207|207|Voting District 207
+28|047|208|208|Voting District 208
+28|047|209|209|Voting District 209
+28|047|210|210|Voting District 210
+28|047|211|211|Voting District 211
+28|047|212|212|Voting District 212
+28|047|213|213|Voting District 213
+28|047|214|214|Voting District 214
+28|047|215|215|Voting District 215
+28|047|301|301|Voting District 301
+28|047|302|302|Voting District 302
+28|047|303|303|Voting District 303
+28|047|304|304|Voting District 304
+28|047|305|305|Voting District 305
+28|047|306|306|Voting District 306
+28|047|307|307|Voting District 307
+28|047|308|308|Voting District 308
+28|047|309|309|Voting District 309
+28|047|310|310|Voting District 310
+28|047|311|311|Voting District 311
+28|047|312|312|Voting District 312
+28|047|313|313|Voting District 313
+28|047|314|314|Voting District 314
+28|047|315|315|Voting District 315
+28|047|401|401|Voting District 401
+28|047|402|402|Voting District 402
+28|047|403|403|Voting District 403
+28|047|404|404|Voting District 404
+28|047|405|405|Voting District 405
+28|047|406|406|Voting District 406
+28|047|407|407|Voting District 407
+28|047|408|408|Voting District 408
+28|047|409|409|Voting District 409
+28|047|410|410|Voting District 410
+28|047|411|411|Voting District 411
+28|047|412|412|Voting District 412
+28|047|501|501|Voting District 501
+28|047|502|502|Voting District 502
+28|047|503|503|Voting District 503
+28|047|504|504|Voting District 504
+28|047|505|505|Voting District 505
+28|047|506|506|Voting District 506
+28|047|507|507|Voting District 507
+28|047|508|508|Voting District 508
+28|047|509|509|Voting District 509
+28|047|510|510|Voting District 510
+28|049|101|33|Voting District 33
+28|049|102|34|Voting District 34
+28|049|103|35|Voting District 35
+28|049|104|36|Voting District 36
+28|049|105|37|Voting District 37
+28|049|106|38|Voting District 38
+28|049|107|5|Voting District 5
+28|049|108|8|Voting District 8
+28|049|109|9|Voting District 9
+28|049|110|42|Voting District 42
+28|049|111|43|Voting District 43
+28|049|112|44|Voting District 44
+28|049|113|45|Voting District 45
+28|049|114|46|Voting District 46
+28|049|115|78|Voting District 78
+28|049|116|79|Voting District 79
+28|049|117|80|Voting District 80
+28|049|118|81|Voting District 81
+28|049|119|82|Voting District 82
+28|049|120|83|Voting District 83
+28|049|121|32|Voting District 32
+28|049|201|11|Voting District 11
+28|049|202|12|Voting District 12
+28|049|203|13|Voting District 13
+28|049|204|14|Voting District 14
+28|049|205|15|Voting District 15
+28|049|206|16|Voting District 16
+28|049|207|17|Voting District 17
+28|049|208|39|Voting District 39
+28|049|209|40|Voting District 40
+28|049|210|23|Voting District 23
+28|049|211|25|Voting District 25
+28|049|212|27|Voting District 27
+28|049|213|28|Voting District 28
+28|049|214|29|Voting District 29
+28|049|215|30|Voting District 30
+28|049|216|41|Voting District 41
+28|049|217|85|Voting District 85
+28|049|218|86|Voting District 86
+28|049|219|Bolton|Bolton Voting District
+28|049|220|Edwards|Edwards Voting District
+28|049|221|Pinehaven|Pinehaven Voting District
+28|049|222|84|Voting District 84
+28|049|223|Brownsville|Brownsville Voting District
+28|049|224|Cayuga|Cayuga Voting District
+28|049|225|Cynthia|Cynthia Voting District
+28|049|226|Pocahontas|Pocahontas Voting District
+28|049|227|St. Thomas|St. Thomas Voting District
+28|049|228|Tinnin|Tinnin Voting District
+28|049|229|Utica 1|Utica 1 Voting District
+28|049|301|21|Voting District 21
+28|049|302|22|Voting District 22
+28|049|303|24|Voting District 24
+28|049|304|59|Voting District 59
+28|049|305|26|Voting District 26
+28|049|306|67|Voting District 67
+28|049|307|68|Voting District 68
+28|049|308|69|Voting District 69
+28|049|309|31|Voting District 31
+28|049|310|71|Voting District 71
+28|049|311|54|Voting District 54
+28|049|312|55|Voting District 55
+28|049|313|56|Voting District 56
+28|049|314|57|Voting District 57
+28|049|315|60|Voting District 60
+28|049|316|61|Voting District 61
+28|049|317|89|Voting District 89
+28|049|318|62|Voting District 62
+28|049|319|87|Voting District 87
+28|049|320|94|Voting District 94
+28|049|321|88|Voting District 88
+28|049|322|90|Voting District 90
+28|049|323|91|Voting District 91
+28|049|401|Clinton 1|Clinton 1 Voting District
+28|049|402|Clinton 2|Clinton 2 Voting District
+28|049|403|Clinton 3|Clinton 3 Voting District
+28|049|404|Clinton 4|Clinton 4 Voting District
+28|049|405|Clinton 5|Clinton 5 Voting District
+28|049|406|Clinton 6|Clinton 6 Voting District
+28|049|407|Raymond 1|Raymond 1 Voting District
+28|049|408|Raymond 2|Raymond 2 Voting District
+28|049|409|Spring Ridge|Spring Ridge Voting District
+28|049|410|73|Voting District 73
+28|049|411|74|Voting District 74
+28|049|412|75|Voting District 75
+28|049|413|76|Voting District 76
+28|049|414|92|Voting District 92
+28|049|415|93|Voting District 93
+28|049|416|95|Voting District 95
+28|049|417|96|Voting District 96
+28|049|418|Byram 1|Byram 1 Voting District
+28|049|419|Byram 2|Byram 2 Voting District
+28|049|420|Learned|Learned Voting District
+28|049|501|1|Voting District 1
+28|049|502|2|Voting District 2
+28|049|503|Old Byram|Old Byram Voting District
+28|049|504|4|Voting District 4
+28|049|505|66|Voting District 66
+28|049|506|6|Voting District 6
+28|049|507|Terry|Terry Voting District
+28|049|508|70|Voting District 70
+28|049|509|72|Voting District 72
+28|049|510|10|Voting District 10
+28|049|511|18|Voting District 18
+28|049|512|19|Voting District 19
+28|049|513|20|Voting District 20
+28|049|514|77|Voting District 77
+28|049|515|47|Voting District 47
+28|049|516|50|Voting District 50
+28|049|517|51|Voting District 51
+28|049|518|52|Voting District 52
+28|049|519|53|Voting District 53
+28|049|520|63|Voting District 63
+28|049|521|64|Voting District 64
+28|049|522|97|Voting District 97
+28|049|523|Chapel Hill|Chapel Hill Voting District
+28|049|524|Dry Grove|Dry Grove Voting District
+28|049|525|58|Voting District 58
+28|049|526|Jackson State|Jackson State Voting District
+28|049|527|Utica 2|Utica 2 Voting District
+28|051|101|Lexington Beat 1|Lexington Beat 1 Voting District
+28|051|102|Acona|Acona Voting District
+28|051|103|Lexington East|Lexington East Voting District
+28|051|104|Sandhill|Sandhill Voting District
+28|051|201|West|West Voting District
+28|051|202|Durant|Durant Voting District
+28|051|301|Coxburg|Coxburg Voting District
+28|051|302|Ebenezer|Ebenezer Voting District
+28|051|303|Pickens|Pickens Voting District
+28|051|304|Goodman|Goodman Voting District
+28|051|401|Thornton|Thornton Voting District
+28|051|402|Lexington Beat 4|Lexington Beat 4 Voting District
+28|051|403|Beat 4 Walden Chapel|Beat 4 Walden Chapel Voting District
+28|051|501|Cruger|Cruger Voting District
+28|051|502|Tchula|Tchula Voting District
+28|051|503|Lexington Beat 5|Lexington Beat 5 Voting District
+28|053|101|Four Mile|Four Mile Voting District
+28|053|102|North Belzoni|North Belzoni Voting District
+28|053|201|Isola|Isola Voting District
+28|053|202|Northwest Belzoni|Northwest Belzoni Voting District
+28|053|203|Gooden Lake|Gooden Lake Voting District
+28|053|301|Silver City|Silver City Voting District
+28|053|302|Lake City|Lake City Voting District
+28|053|303|Southeast Belzoni|Southeast Belzoni Voting District
+28|053|401|Putnam|Putnam Voting District
+28|053|402|Central Belzoni|Central Belzoni Voting District
+28|053|501|Midnight|Midnight Voting District
+28|053|502|Louise|Louise Voting District
+28|053|503|Southwest Belzoni|Southwest Belzoni Voting District
+28|055|101|Valley Park|Valley Park Voting District
+28|055|102|Tallula|Tallula Voting District
+28|055|103|Mayersville|Mayersville Voting District
+28|055|104|Addie|Addie Voting District
+28|055|105|Grace|Grace Voting District
+28|057|101|Copeland|Copeland Voting District
+28|057|102|Pineville|Pineville Voting District
+28|057|103|Pleasanton|Pleasanton Voting District
+28|057|104|Fulton Dist.1 Courthouse|Fulton Dist.1 Courthouse
+28|057|105|Ryan|Ryan Voting District
+28|057|201|Ozark|Ozark Voting District
+28|057|202|Kirkville|Kirkville Voting District
+28|057|203|Ratliff|Ratliff Voting District
+28|057|204|Mantachie|Mantachie Voting District
+28|057|205|Centerville|Centerville Voting District
+28|057|206|Fawn Grove|Fawn Grove Voting District
+28|057|301|Dorsey|Dorsey Voting District
+28|057|302|Friendship|Friendship Voting District
+28|057|303|Greenwood|Greenwood Voting District
+28|057|304|Evergreen|Evergreen Voting District
+28|057|305|Carolina|Carolina Voting District
+28|057|306|Bigbee Fork|Bigbee Fork Voting District
+28|057|307|Cardsville|Cardsville Voting District
+28|057|401|Fulton Dist.4 Am. Legion|Fulton Dist.4 Am. Legion
+28|057|402|Tilden|Tilden Voting District
+28|057|403|Turon|Turon Voting District
+28|057|404|Hampton|Hampton Voting District
+28|057|405|James Creek|James Creek Voting District
+28|057|406|Tremont|Tremont Voting District
+28|057|407|Wigginton|Wigginton Voting District
+28|057|408|Oakland|Oakland Voting District
+28|057|409|New Salem|New Salem Voting District
+28|057|501|Clay|Clay Voting District
+28|057|502|Armory|Armory Voting District
+28|057|503|Mt. Gilead|Mt. Gilead Voting District
+28|057|504|Bounds|Bounds Voting District
+28|057|505|Fulton Dist.5 Firestation|Fulton Dist.5 Firestation
+28|059|0101|Hwy 57|Hwy 57 Voting District
+28|059|0101a|Hwy 57 A|Hwy 57 A Voting District
+28|059|0102|North Vancleave|North Vancleave Voting District
+28|059|0102a|North Vancleave A|North Vancleave A Voting District
+28|059|0105|East Central|East Central Voting District
+28|059|0106|Wade A|Wade A Voting District
+28|059|0108|Big Point|Big Point Voting District
+28|059|0109|Helena|Helena Voting District
+28|059|0110|Escatawpa|Escatawpa Voting District
+28|059|0111|Escatawpa A|Escatawpa A Voting District
+28|059|0112|Escatawpa B|Escatawpa B Voting District
+28|059|0113|Orange Grove|Orange Grove Voting District
+28|059|0114|Orange Grove A|Orange Grove A Voting District
+28|059|0201|Union Hall|Union Hall Voting District
+28|059|0202|Sue Ellen|Sue Ellen Voting District
+28|059|0203|Rec Center|Rec Center Voting District
+28|059|0204|Rec Center A|Rec Center A Voting District
+28|059|0205|YMBC/Dantzler|YMBC/Dantzler Voting District
+28|059|0206|Griffin Heights|Griffin Heights Voting District
+28|059|0208|Jefferson Street|Jefferson Street Voting District
+28|059|0210|Fair A|Fair A Voting District
+28|059|0211|Fair B|Fair B Voting District
+28|059|0213|Arlington A|Arlington A Voting District
+28|059|0214|Chico|Chico Voting District
+28|059|0217|Girl Scout A|Girl Scout A Voting District
+28|059|0302|Pinecrest A|Pinecrest A Voting District
+28|059|0303|Nazarene|Nazarene Voting District
+28|059|0304|Sacred Heart|Sacred Heart Voting District
+28|059|0305|Eastlawn|Eastlawn Voting District
+28|059|0306|American Legion|American Legion Voting District
+28|059|0307|Presbyterian|Presbyterian Voting District
+28|059|0309|North Pascagoula|North Pascagoula Voting District
+28|059|0311|Gautier A|Gautier A Voting District
+28|059|0401|Villia Maria|Villia Maria Voting District
+28|059|0402|Ocean Springs Comm Center|Ocean Springs Comm Center Voting District
+28|059|0404|Gulf Hills|Gulf Hills Voting District
+28|059|0405|Gulf Hills A|Gulf Hills A Voting District
+28|059|0406|St. Martin|St. Martin Voting District
+28|059|0407|Latimer|Latimer Voting District
+28|059|0408|Larue|Larue Voting District
+28|059|0506|Ocean Springs Civic Center A|Ocean Springs Civic Center A Voting District
+28|059|0507|South Vancleave|South Vancleave Voting District
+28|059|0507a|South Vancleave A|South Vancleave A Voting District
+28|059|0509|Red Hill|Red Hill Voting District
+28|059|0509a|Red Hill A|Red Hill A Voting District
+28|059|0511|Carterville|Carterville Voting District
+28|059|0512|Gulf Hills B|Gulf Hills B Voting District
+28|059|207|Eastside|Eastside Voting District
+28|059|209|Fair|Fair Voting District
+28|059|212|Arlington|Arlington Voting District
+28|059|215|Chico A|Chico A Voting District
+28|059|216|Girl Scout|Girl Scout Voting District
+28|059|301|Pinecrest|Pinecrest Voting District
+28|059|308|Presbyterian A|Presbyterian A Voting District
+28|059|310|Gautier|Gautier Voting District
+28|059|312|Gautier B|Gautier B Voting District
+28|059|313|Gautier C|Gautier C Voting District
+28|059|314|Presbyterian B|Presbyterian B Voting District
+28|059|403|Ocean Springs Armory|Ocean Springs Armory Voting District
+28|059|501|Hickory Hill|Hickory Hill Voting District
+28|059|502|Hickory Hills A|Hickory Hills A Voting District
+28|059|503|Fountainbleau|Fountainbleau Voting District
+28|059|504|Gulf Park Estates|Gulf Park Estates Voting District
+28|059|505|Ocean Springs Civic Center|Ocean Springs Civic Center Voting District
+28|059|513|Gulf Park Estates A|Gulf Park Estates A Voting District
+28|061|101|Antioch|Antioch Voting District
+28|061|102|Holders Church|Holders Church Voting District
+28|061|103|Mossville 2nd|Mossville 2nd Voting District
+28|061|104|Palestine|Palestine Voting District
+28|061|105|Mossville 1st|Mossville 1st Voting District
+28|061|201|Paulding|Paulding Voting District
+28|061|202|Fellowship|Fellowship Voting District
+28|061|203|Midway|Midway Voting District
+28|061|205|Rose Hill|Rose Hill Voting District
+28|061|206|Vossburg|Vossburg Voting District
+28|061|301|Bay Springs Beat 3|Bay Springs Beat 3 Voting District
+28|061|303|Louin|Louin Voting District
+28|061|304|Montrose|Montrose Voting District
+28|061|401|Bay Springs Beat 4|Bay Springs Beat 4 Voting District
+28|061|402|Stringer|Stringer Voting District
+28|061|501|Philadelphia|Philadelphia Voting District
+28|061|502|Claiborne|Claiborne Voting District
+28|061|503|Heidelberg|Heidelberg Voting District
+28|061|504|Waldrup|Waldrup Voting District
+28|063|001|Union Church|Union Church Voting District
+28|063|002|Ebenezer|Ebenezer Voting District
+28|063|003|Red Lick|Red Lick Voting District
+28|063|004|Harriston|Harriston Voting District
+28|063|005|Stampley|Stampley Voting District
+28|063|006|Circuit Clerk|Circuit Clerk Voting District
+28|063|007|McNair|McNair Voting District
+28|063|008|Hwy 33|Hwy 33 Voting District
+28|063|009|Chancery Clerk|Chancery Clerk Voting District
+28|063|010|City Hall|City Hall Voting District
+28|063|011|Cannonsburg|Cannonsburg Voting District
+28|063|012|Church Hill|Church Hill Voting District
+28|063|013|Old Hollywood Church|Old Hollywood Church Voting District
+28|063|014|Lorman|Lorman Voting District
+28|063|015|Fayette Manor|Fayette Manor Voting District
+28|065|11|Granby|Granby Voting District
+28|065|12|South Prentiss|South Prentiss Voting District
+28|065|13|South Prentiss|South Prentiss Voting District
+28|065|22|Carson|Carson Voting District
+28|065|23|Green's Creek|Green's Creek Voting District
+28|065|24|Hawthorn|Hawthorn Voting District
+28|065|25|Sons Academy|Sons Academy Voting District
+28|065|26|Bassfield Beat 2|Bassfield Beat 2 Voting District
+28|065|31|Bassfield Beat 3|Bassfield Beat 3 Voting District
+28|065|33|Good Hope|Good Hope Voting District
+28|065|34|Melba|Melba Voting District
+28|065|41|Clem|Clem Voting District
+28|065|42|Mt. Caramel|Mt. Caramel Voting District
+28|065|43|Northeast Prentiss|Northeast Prentiss Voting District
+28|065|44|Williamsoms Mill|Williamsoms Mill Voting District
+28|065|51|Gwinville|Gwinville Voting District
+28|065|52|Hebron|Hebron Voting District
+28|065|53|Northwest Prentiss|Northwest Prentiss Voting District
+28|065|55|Red House|Red House Voting District
+28|065|56|Whiting|Whiting Voting District
+28|067|101|Lamar School|Lamar School Voting District
+28|067|102|North Laurel|North Laurel Voting District
+28|067|103|Shady Grove|Shady Grove Voting District
+28|067|104|Sharon|Sharon Voting District
+28|067|201|Bruce|Bruce Voting District
+28|067|202|Calhoun|Calhoun Voting District
+28|067|203|Centerville|Centerville Voting District
+28|067|204|Laurel Courthouse|Laurel Courthouse Voting District
+28|067|205|Gitano|Gitano Voting District
+28|067|206|Hebron|Hebron Voting District
+28|067|207|Matthews|Matthews Voting District
+28|067|208|Pleasant Ridge|Pleasant Ridge Voting District
+28|067|209|Cameron Center|Cameron Center Voting District
+28|067|210|Soso|Soso Voting District
+28|067|211|Mauldin Comm. Center|Mauldin Comm. Center Voting District
+28|067|301|Kingston Church|Kingston Church Voting District
+28|067|302|Erata|Erata Voting District
+28|067|303|Glade School|Glade School Voting District
+28|067|304|Myrick|Myrick Voting District
+28|067|305|Powers Comm. Ctr.|Powers Comm. Ctr. Voting District
+28|067|306|Ovett|Ovett Voting District
+28|067|307|Rustin|Rustin Voting District
+28|067|308|Sandersville Civic Center|Sandersville Civic Center Voting District
+28|067|309|Tuckers|Tuckers Voting District
+28|067|310|Antioch|Antioch Voting District
+28|067|401|Blackwell|Blackwell Voting District
+28|067|402|County Barn|County Barn Voting District
+28|067|403|Johnson|Johnson Voting District
+28|067|404|Ellisville Court House|Ellisville Court House Voting District
+28|067|405|Landrum Comm. Ctr.|Landrum Comm. Ctr. Voting District
+28|067|406|Moselle|Moselle Voting District
+28|067|407|Pinegrove|Pinegrove Voting District
+28|067|408|Rainey|Rainey Voting District
+28|067|409|Sandhill|Sandhill Voting District
+28|067|410|Shelton|Shelton Voting District
+28|067|411|South Jones|South Jones Voting District
+28|067|412|Union|Union Voting District
+28|067|501|Cooks Ave. Comm. Ctr.|Cooks Ave. Comm. Ctr. Voting District
+28|067|502|National Guard Armory|National Guard Armory Voting District
+28|067|503|Nora Davis School|Nora Davis School Voting District
+28|067|504|Roosevelt|Roosevelt Voting District
+28|067|505|Oak Park School|Oak Park School Voting District
+28|067|506|Pendorf|Pendorf Voting District
+28|067|508|Old Health Dept.|Old Health Dept. Voting District
+28|067|509|Currie|Currie Voting District
+28|067|510|Stainton|Stainton Voting District
+28|069|101|City Hall And Fire Dpt.|City Hall And Fire Dpt. Voting District
+28|069|102|Farmers Market|Farmers Market Voting District
+28|069|201|Band Building|Band Building Voting District
+28|069|202|Porterville|Porterville Voting District
+28|069|204|Kemper Springs|Kemper Springs Voting District
+28|069|301|Satellite|Satellite Voting District
+28|069|302|Lynwood|Lynwood Voting District
+28|069|303|Ft. Stevens|Ft. Stevens Voting District
+28|069|403|Kellis Store|Kellis Store Voting District
+28|069|404|Lynville|Lynville Voting District
+28|069|406|Preston|Preston Voting District
+28|069|501|Courthouse|Courthouse Voting District
+28|069|502|Mt. Nebo Fire Station|Mt. Nebo Fire Station Voting District
+28|071|101|Lafayette Springs|Lafayette Springs Voting District
+28|071|102|Yocona|Yocona Voting District
+28|071|103|Oxford 1|Oxford 1 Voting District
+28|071|201|Philadelphia|Philadelphia Voting District
+28|071|202|Oxford 2|Oxford 2 Voting District
+28|071|301|Harmontown|Harmontown Voting District
+28|071|302|Abbeville|Abbeville Voting District
+28|071|303|College Hill|College Hill Voting District
+28|071|304|West Spring Hill - Oxford 3|West Spring Hill - Oxford 3 Voting District
+28|071|401|Burgess|Burgess Voting District
+28|071|402|Taylor 3|Taylor 3 Voting District
+28|071|403|Union West|Union West Voting District
+28|071|405|Anchor-Taylor 4|Anchor-Taylor 4 Voting District
+28|071|406|Oxford 4|Oxford 4 Voting District
+28|071|501|Paris|Paris Voting District
+28|071|502|Airport Grocery|Airport Grocery Voting District
+28|071|504|Tula|Tula Voting District
+28|071|506|Oxford 6|Oxford 6 Voting District
+28|073|001|Sumrall|Sumrall Voting District
+28|073|002|Breland|Breland Voting District
+28|073|003|Rocky Branch|Rocky Branch Voting District
+28|073|004|Oloh|Oloh Voting District
+28|073|005|Midway|Midway Voting District
+28|073|006|Bellevue|Bellevue Voting District
+28|073|007|Lake Serene|Lake Serene Voting District
+28|073|008|Arnold Line|Arnold Line Voting District
+28|073|009|N E Lamar|N E Lamar Voting District
+28|073|010|Lamar Park|Lamar Park Voting District
+28|073|011|Wesley Manor|Wesley Manor Voting District
+28|073|012|Richburg|Richburg Voting District
+28|073|013|Oak Grove|Oak Grove Voting District
+28|073|014|Okahola|Okahola Voting District
+28|073|015|Pine Grove|Pine Grove Voting District
+28|073|016|Purvis|Purvis Voting District
+28|073|017|South Purvis|South Purvis Voting District
+28|073|019|Baxterville|Baxterville Voting District
+28|073|020|Lumberton|Lumberton Voting District
+28|073|021|Yawn|Yawn Voting District
+28|073|022|Greenville|Greenville Voting District
+28|075|101|1|Voting District 1
+28|075|102|5|Voting District 5
+28|075|103|Andrews Chapel|Andrews Chapel Voting District
+28|075|104|Bailey|Bailey Voting District
+28|075|105|West Dalewood|West Dalewood Voting District
+28|075|106|Marion|Marion Voting District
+28|075|107|New Lauderdale|New Lauderdale Voting District
+28|075|108|Prospect|Prospect Voting District
+28|075|109|13|Voting District 13
+28|075|201|6|Voting District 6
+28|075|202|Alamucha|Alamucha Voting District
+28|075|203|Daleville|Daleville Voting District
+28|075|204|14|Voting District 14
+28|075|205|Odom|Odom Voting District
+28|075|206|East Lauderdale|East Lauderdale Voting District
+28|075|207|East Marion|East Marion Voting District
+28|075|208|Kewanee|Kewanee Voting District
+28|075|209|Toomsuba|Toomsuba Voting District
+28|075|210|Russell|Russell Voting District
+28|075|211|Center Ridge|Center Ridge Voting District
+28|075|301|2|Voting District 2
+28|075|302|3|Voting District 3
+28|075|303|Center Hill|Center Hill Voting District
+28|075|304|Collinsville|Collinsville Voting District
+28|075|305|Martin|Martin Voting District
+28|075|306|West Lauderdale|West Lauderdale Voting District
+28|075|308|Obadiah|Obadiah Voting District
+28|075|309|Suqualena|Suqualena Voting District
+28|075|401|4|Voting District 4
+28|075|402|9|Voting District 9
+28|075|403|10|Voting District 10
+28|075|404|11|Voting District 11
+28|075|405|12|Voting District 12
+28|075|406|15|Voting District 15
+28|075|407|Pickard|Pickard Voting District
+28|075|408|Sageville|Sageville Voting District
+28|075|409|20|Voting District 20
+28|075|501|7|Voting District 7
+28|075|502|8|Voting District 8
+28|075|503|16|Voting District 16
+28|075|504|17|Voting District 17
+28|075|505|18|Voting District 18
+28|075|506|Clarkdale|Clarkdale Voting District
+28|075|507|Culpepper|Culpepper Voting District
+28|075|508|Meehan|Meehan Voting District
+28|075|509|South Nellieburg|South Nellieburg Voting District
+28|075|510|South Russell|South Russell Voting District
+28|075|511|Valley|Valley Voting District
+28|075|512|Causeyville|Causeyville Voting District
+28|075|513|East Bonita|East Bonita Voting District
+28|075|514|Vimville|Vimville Voting District
+28|075|515|Whynot|Whynot Voting District
+28|075|516|Zero|Zero Voting District
+28|075|517|Mt. Gilead|Mt. Gilead Voting District
+28|077|1|East Arm|East Arm Voting District
+28|077|10|New Hebron|New Hebron Voting District
+28|077|11|Nola|Nola Voting District
+28|077|12|North Silver Creek|North Silver Creek Voting District
+28|077|13|Oakvale|Oakvale Voting District
+28|077|14|Oma|Oma Voting District
+28|077|15|Peyton Town|Peyton Town Voting District
+28|077|16|Sontag|Sontag Voting District
+28|077|17|South Silver Creek|South Silver Creek Voting District
+28|077|18|Stringer|Stringer Voting District
+28|077|19|Tilton|Tilton Voting District
+28|077|2|Center|Center Voting District
+28|077|21|Wanilla|Wanilla Voting District
+28|077|22|West Arm|West Arm Voting District
+28|077|23|West Monticello|West Monticello Voting District
+28|077|24|Topeka|Topeka Voting District
+28|077|3|Cooper's Creek|Cooper's Creek Voting District
+28|077|4|Courthouse|Courthouse Voting District
+28|077|5|Grange|Grange Voting District
+28|077|6|Hooker|Hooker Voting District
+28|077|7|Jayess|Jayess Voting District
+28|077|8|Monticello|Monticello Voting District
+28|077|9|National Guard Armory|National Guard Armory Voting District
+28|079|101|Edinburg|Edinburg Voting District
+28|079|102|East Carthage|East Carthage Voting District
+28|079|103|Sunrise|Sunrise Voting District
+28|079|104|Renfroe|Renfroe Voting District
+28|079|201|North Carthage|North Carthage Voting District
+28|079|202|Conway|Conway Voting District
+28|079|203|Singleton|Singleton Voting District
+28|079|301|West Carthage|West Carthage Voting District
+28|079|302|Wiggins|Wiggins Voting District
+28|079|303|Thomastown|Thomastown Voting District
+28|079|304|Ofahoma|Ofahoma Voting District
+28|079|401|South Carthage|South Carthage Voting District
+28|079|402|Good Hope|Good Hope Voting District
+28|079|403|Lena|Lena Voting District
+28|079|404|Freeny|Freeny Voting District
+28|079|501|Ebenezer|Ebenezer Voting District
+28|079|502|Walnut Grove|Walnut Grove Voting District
+28|079|503|Salem|Salem Voting District
+28|079|504|Madden|Madden Voting District
+28|081|101|Baldwin|Baldwin Voting District
+28|081|102|Pratts|Pratts Voting District
+28|081|103|Friendship|Friendship Voting District
+28|081|104|Guntown|Guntown Voting District
+28|081|105|Unity|Unity Voting District
+28|081|106|Hebron|Hebron Voting District
+28|081|107|Fellowship|Fellowship Voting District
+28|081|108|Oak Hill|Oak Hill Voting District
+28|081|109|Tupelo 1|Tupelo 1 Voting District
+28|081|110|Eggville|Eggville Voting District
+28|081|111|Gilvo 1|Gilvo 1 Voting District
+28|081|112|Mooreville 1|Mooreville 1 Voting District
+28|081|113|Auburn|Auburn Voting District
+28|081|114|East Heights|East Heights Voting District
+28|081|201|Tupelo 2|Tupelo 2 Voting District
+28|081|202|Blair|Blair Voting District
+28|081|203|Euclautubba|Euclautubba Voting District
+28|081|204|Birmingham Ridge|Birmingham Ridge Voting District
+28|081|205|Saltillo|Saltillo Voting District
+28|081|206|Davis Box|Davis Box Voting District
+28|081|207|Corrona|Corrona Voting District
+28|081|208|Beech Springs|Beech Springs Voting District
+28|081|209|Flowerdale|Flowerdale Voting District
+28|081|301|Belden|Belden Voting District
+28|081|302|Bissell|Bissell Voting District
+28|081|303|Tupelo 3|Tupelo 3 Voting District
+28|081|401|Pleasant Grove|Pleasant Grove Voting District
+28|081|402|Old Union|Old Union Voting District
+28|081|403|Tupelo 4 South|Tupelo 4 South Voting District
+28|081|404|Palmetto A & B|Palmetto A & B Voting District
+28|081|405|Tupelo 4 North|Tupelo 4 North Voting District
+28|081|501|Nettleton|Nettleton Voting District
+28|081|502|Petersburg|Petersburg Voting District
+28|081|503|Shannon|Shannon Voting District
+28|081|504|Brewer|Brewer Voting District
+28|081|505|Plantersville|Plantersville Voting District
+28|081|506|Richmond|Richmond Voting District
+28|081|507|Kedron|Kedron Voting District
+28|081|508|Tupelo 5|Tupelo 5 Voting District
+28|081|509|Gilvo 5|Gilvo 5 Voting District
+28|081|510|Mooreville 5|Mooreville 5 Voting District
+28|081|511|Verona|Verona Voting District
+28|083|001|East Greenwood|East Greenwood Voting District
+28|083|003|Central Greenwood|Central Greenwood Voting District
+28|083|004|Minter City|Minter City Voting District
+28|083|005|Money|Money Voting District
+28|083|006|Morgan City/Swiftown|Morgan City/Swiftown Voting District
+28|083|007|MVSU|MVSU Voting District
+28|083|008|North Greenwood|North Greenwood Voting District
+28|083|009|North Itta Bena|North Itta Bena Voting District
+28|083|010|Northeast Greenwood|Northeast Greenwood Voting District
+28|083|011|Rising Sun|Rising Sun Voting District
+28|083|012|Schlater|Schlater Voting District
+28|083|013|Sidon|Sidon Voting District
+28|083|014|South Greenwood|South Greenwood Voting District
+28|083|015|South Itta Bena|South Itta Bena Voting District
+28|083|016|Southeast Greenwood|Southeast Greenwood Voting District
+28|083|017|Southwest Greenwood|Southwest Greenwood Voting District
+28|083|018|West Greenwood|West Greenwood Voting District
+28|085|101|Alexander Jr. High|Alexander Jr. High Voting District
+28|085|102|East Lincoln|East Lincoln Voting District
+28|085|103|Forrestry|Forrestry Voting District
+28|085|104|Fair River|Fair River Voting District
+28|085|105|Government Complex|Government Complex Voting District
+28|085|106|High School|High School Voting District
+28|085|201|Little Bahala|Little Bahala Voting District
+28|085|202|Heucks Retreat|Heucks Retreat Voting District
+28|085|203|Big Springs|Big Springs Voting District
+28|085|204|New Pearlhaven|New Pearlhaven Voting District
+28|085|205|Montgomery|Montgomery Voting District
+28|085|206|New Sight|New Sight Voting District
+28|085|207|Brignal|Brignal Voting District
+28|085|208|Rogers Circle|Rogers Circle Voting District
+28|085|301|City Hall|City Hall Voting District
+28|085|302|Enterprise|Enterprise Voting District
+28|085|303|Bogue Chitto|Bogue Chitto Voting District
+28|085|304|Ruth|Ruth Voting District
+28|085|305|Norfield|Norfield Voting District
+28|085|306|Old Brook|Old Brook Voting District
+28|085|401|West Lincoln|West Lincoln Voting District
+28|085|402|Johnson Grove|Johnson Grove Voting District
+28|085|403|Arlington|Arlington Voting District
+28|085|404|Johnson|Johnson Voting District
+28|085|405|Halbert Heights|Halbert Heights Voting District
+28|085|406|Northwest Brookhaven|Northwest Brookhaven Voting District
+28|085|501|Old Red Star|Old Red Star Voting District
+28|085|502|Loyd Star|Loyd Star Voting District
+28|085|503|Zetus|Zetus Voting District
+28|085|504|Vaughn|Vaughn Voting District
+28|085|505|Caseyville|Caseyville Voting District
+28|085|506|Lipsey School|Lipsey School Voting District
+28|087|101|Caledonia|Caledonia Voting District
+28|087|102|Steens A|Steens A Voting District
+28|087|103|Steens B|Steens B Voting District
+28|087|104|Columbus High School B|Columbus High School B Voting District
+28|087|105|Dowdle Gas Training Center B|Dowdle Gas Training Center B Voting District
+28|087|106|Steens C|Steens C Voting District
+28|087|107|Trinity B|Trinity B Voting District
+28|087|108|Sale A|Sale A Voting District
+28|087|110|Columbus High School A|Columbus High School A Voting District
+28|087|111|Columbus High School C|Columbus High School C Voting District
+28|087|112|Sale B|Sale B Voting District
+28|087|113|Fairgrounds C|Fairgrounds C Voting District
+28|087|114|Columbus High School D|Columbus High School D Voting District
+28|087|115|Sale C|Sale C Voting District
+28|087|201|Lee Middle School|Lee Middle School Voting District
+28|087|202|Brandon A|Brandon A Voting District
+28|087|203|Brandon B|Brandon B Voting District
+28|087|204|Air Base A|Air Base A Voting District
+28|087|205|Air Base B|Air Base B Voting District
+28|087|206|Air Base C|Air Base C Voting District
+28|087|207|Air Base D|Air Base D Voting District
+28|087|208|Air Base E|Air Base E Voting District
+28|087|209|Brandon C|Brandon C Voting District
+28|087|210|Brandon D|Brandon D Voting District
+28|087|301|Trinity A|Trinity A Voting District
+28|087|302|Rural Hill A|Rural Hill A Voting District
+28|087|303|New Hope A|New Hope A Voting District
+28|087|304|New Hope B|New Hope B Voting District
+28|087|305|Rural Hill B|Rural Hill B Voting District
+28|087|306|Rural Hill C|Rural Hill C Voting District
+28|087|307|New Hope F|New Hope F Voting District
+28|087|308|New Hope E|New Hope E Voting District
+28|087|309|New Hope D|New Hope D Voting District
+28|087|310|New Hope C|New Hope C Voting District
+28|087|401|Coleman A|Coleman A Voting District
+28|087|402|Mitchell A|Mitchell A Voting District
+28|087|403|Plum Grove A|Plum Grove A Voting District
+28|087|404|Crawford A|Crawford A Voting District
+28|087|407|Fairgrounds D|Fairgrounds D Voting District
+28|087|408|Fairgrounds B|Fairgrounds B Voting District
+28|087|409|Fairgrounds A|Fairgrounds A Voting District
+28|087|410|Plum Grove B|Plum Grove B Voting District
+28|087|411|Plum Grove C|Plum Grove C Voting District
+28|087|412|Propst Park Community Hut|Propst Park Community Hut Voting District
+28|087|413|Mitchell B|Mitchell B Voting District
+28|087|414|Coleman B|Coleman B Voting District
+28|087|415|Fairgrounds E|Fairgrounds E Voting District
+28|087|416|Faigrounds G|Faigrounds G Voting District
+28|087|417|Faigrounds F|Faigrounds F Voting District
+28|087|501|Hunt B|Hunt B Voting District
+28|087|502|Hunt A|Hunt A Voting District
+28|087|503|Union Academy B|Union Academy B Voting District
+28|087|504|Union Academy A|Union Academy A Voting District
+28|087|505|University A|University A Voting District
+28|087|507|West Lowndes A|West Lowndes A Voting District
+28|087|508|Artesia|Artesia Voting District
+28|087|509|Union Academy C|Union Academy C Voting District
+28|087|510|Hunt C|Hunt C Voting District
+28|087|511|University B|University B Voting District
+28|087|512|West Lowndes B|West Lowndes B Voting District
+28|089|101|Ratliff Ferry|Ratliff Ferry Voting District
+28|089|103|Trace Harbor|Trace Harbor Voting District
+28|089|104|Canton Precinct 2|Canton Precinct 2
+28|089|105|Canton Precinct 3|Canton Precinct 3
+28|089|106|Canton Precinct 7|Canton Precinct 7
+28|089|107|Bear Creek|Bear Creek Voting District
+28|089|108|Main Harbor|Main Harbor Voting District
+28|089|109|Victory Baptist Church|Victory Baptist Church Voting District
+28|089|201|Madison 1|Madison 1 Voting District
+28|089|202|Madison 2|Madison 2 Voting District
+28|089|203|Madison 3|Madison 3 Voting District
+28|089|204|Ridgeland 3|Ridgeland 3 Voting District
+28|089|205|Ridgeland 4|Ridgeland 4 Voting District
+28|089|214|Cobblestone|Cobblestone Voting District
+28|089|301|Ridgeland First Meth. Ch.|Ridgeland First Meth. Ch. Voting District
+28|089|302|Gluckstadt|Gluckstadt Voting District
+28|089|303|Lorman-Cavalier|Lorman-Cavalier Voting District
+28|089|304|Ridgeland 1|Ridgeland 1 Voting District
+28|089|305|Tougaloo|Tougaloo Voting District
+28|089|306|Ridgeland Tennis Center|Ridgeland Tennis Center Voting District
+28|089|307|Highland Colony Bap. Ch.|Highland Colony Bap. Ch. Voting District
+28|089|308|Whispering Lake|Whispering Lake Voting District
+28|089|401|Smith School|Smith School Voting District
+28|089|402|Magnolia Heights|Magnolia Heights Voting District
+28|089|403|Flora|Flora Voting District
+28|089|404|Virlilia|Virlilia Voting District
+28|089|405|Canton Precinct 5|Canton Precinct 5
+28|089|406|Liberty|Liberty Voting District
+28|089|407|New Industrial Park|New Industrial Park Voting District
+28|089|408|Mad. Co. Bap. Fam. Lf.Ct|Mad. Co. Bap. Fam. Lf.Ct Voting District
+28|089|501|Cameron|Cameron Voting District
+28|089|502|Couparle|Couparle Voting District
+28|089|503|Camden|Camden Voting District
+28|089|504|Sharon|Sharon Voting District
+28|089|505|Canton Precinct 1|Canton Precinct 1
+28|089|506|Canton Precinct 4|Canton Precinct 4
+28|089|507|Luther Branson School|Luther Branson School Voting District
+28|089|508|Bible Church|Bible Church Voting District
+28|089|996|Cedar Grove|Cedar Grove Voting District
+28|089|997|Yandell Road|Yandell Road Voting District
+28|089|998|SunnyBrook|SunnyBrook Voting District
+28|089|999|NorthBay|NorthBay Voting District
+28|091|1|Morris|Morris Voting District
+28|091|10|Stoval|Stoval Voting District
+28|091|11|City Hall|City Hall Voting District
+28|091|12|White Bluff|White Bluff Voting District
+28|091|13|Darbun|Darbun Voting District
+28|091|14|Courthouse|Courthouse Voting District
+28|091|15|Balls Mill|Balls Mill Voting District
+28|091|16|kokomo|kokomo Voting District
+28|091|17|Pittman|Pittman Voting District
+28|091|18|Sandy Hook|Sandy Hook Voting District
+28|091|19|5 South Columbia|Voting District 5 South Columbia
+28|091|2|National Guard|National Guard Voting District
+28|091|20|Jefferson Middle School|Jefferson Middle School Voting District
+28|091|21|Hub|Hub Voting District
+28|091|22|East Columbia|East Columbia Voting District
+28|091|23|Pine Burr|Pine Burr Voting District
+28|091|3|Union|Union Voting District
+28|091|4|Popetown|Popetown Voting District
+28|091|5|Carley|Carley Voting District
+28|091|6|Cedar Grove|Cedar Grove Voting District
+28|091|7|Goss|Goss Voting District
+28|091|8|Foxworth|Foxworth Voting District
+28|091|9|Morgantown|Morgantown Voting District
+28|093|101|N. Holly Springs Dist. 1|N. Holly Springs Dist. 1
+28|093|102|West Holly Springs|West Holly Springs Voting District
+28|093|103|Redbanks|Redbanks Voting District
+28|093|201|N. Holly Springs Dist. 2|N. Holly Springs Dist. 2
+28|093|202|Early Grove|Early Grove Voting District
+28|093|203|Hudsonville|Hudsonville Voting District
+28|093|204|Slayden|Slayden Voting District
+28|093|205|Mt. Pleasant|Mt. Pleasant Voting District
+28|093|206|North Cayce|North Cayce Voting District
+28|093|301|Byhalia|Byhalia Voting District
+28|093|302|Cayce|Cayce Voting District
+28|093|303|Barton|Barton Voting District
+28|093|401|Victoria|Victoria Voting District
+28|093|402|Warsaw|Warsaw Voting District
+28|093|403|Watson|Watson Voting District
+28|093|404|Wall Hill|Wall Hill Voting District
+28|093|405|Marianna|Marianna Voting District
+28|093|406|Chulahoma|Chulahoma Voting District
+28|093|407|Laws Hill|Laws Hill Voting District
+28|093|501|South Holly Springs|South Holly Springs Voting District
+28|093|502|Potts Camp|Potts Camp Voting District
+28|093|503|Cornersville|Cornersville Voting District
+28|093|504|Bethlehem|Bethlehem Voting District
+28|093|505|Waterford|Waterford Voting District
+28|095|102|Smithville|Smithville Voting District
+28|095|103|Williams|Williams Voting District
+28|095|104|Parham|Parham Voting District
+28|095|105|Hatley|Hatley Voting District
+28|095|107|Amory 1|Amory 1 Voting District
+28|095|108|Bigbee 1|Bigbee 1 Voting District
+28|095|109|Boyds|Boyds Voting District
+28|095|202|Greenwood Springs|Greenwood Springs Voting District
+28|095|204|Becker|Becker Voting District
+28|095|205|Amory 2|Amory 2 Voting District
+28|095|302|Bartahatchie|Bartahatchie Voting District
+28|095|304|Hamilton|Hamilton Voting District
+28|095|305|Lackey|Lackey Voting District
+28|095|306|Aberdeen 3|Aberdeen 3 Voting District
+28|095|307|Athens|Athens Voting District
+28|095|401|South Aberdeen 4|South Aberdeen 4 Voting District
+28|095|402|Darracott|Darracott Voting District
+28|095|405|Prairie|Prairie Voting District
+28|095|406|Gibson|Gibson Voting District
+28|095|407|North Aberdeen 4|North Aberdeen 4 Voting District
+28|095|501|Willis|Willis Voting District
+28|095|502|Central Grove|Central Grove Voting District
+28|095|503|Nettleton|Nettleton Voting District
+28|095|505|Wren|Wren Voting District
+28|095|506|Amory 5|Amory 5 Voting District
+28|097|101|Mt. Pisgah|Mt. Pisgah Voting District
+28|097|102|North Winona|North Winona Voting District
+28|097|103|North Mt. Pisgah - Sweethome|North Mt. Pisgah - Sweethome Voting District
+28|097|201|Duck Hill|Duck Hill Voting District
+28|097|202|West Winona|West Winona Voting District
+28|097|203|North Duck Hill|North Duck Hill Voting District
+28|097|301|Alva|Alva Voting District
+28|097|302|East Winona|East Winona Voting District
+28|097|303|Lodi|Lodi Voting District
+28|097|304|North Kilmicheal|North Kilmicheal Voting District
+28|097|401|Kilmichael|Kilmichael Voting District
+28|097|402|Stewart|Stewart Voting District
+28|097|403|Nations|Nations Voting District
+28|097|501|Poplar Creek|Poplar Creek Voting District
+28|097|502|South Winona|South Winona Voting District
+28|097|503|Southeast Winona|Southeast Winona Voting District
+28|099|101|Zephyr Hill|Zephyr Hill Voting District
+28|099|102|Tucker District 1|Tucker District 1
+28|099|103|Arlilngton|Arlilngton Voting District
+28|099|104|Fork|Fork Voting District
+28|099|106|Hope|Hope Voting District
+28|099|107|Fairview|Fairview Voting District
+28|099|108|Pearl River|Pearl River Voting District
+28|099|201|North Bend|North Bend Voting District
+28|099|202|Center|Center Voting District
+28|099|204|Forestdale|Forestdale Voting District
+28|099|205|Bogue Chitto|Bogue Chitto Voting District
+28|099|206|Northeast Philadelphia|Northeast Philadelphia Voting District
+28|099|301|Southeast Philadelphia|Southeast Philadelphia Voting District
+28|099|303|County Line|County Line Voting District
+28|099|304|Tucker District 3|Tucker District 3
+28|099|305|House|House Voting District
+28|099|306|Herbert|Herbert Voting District
+28|099|401|Southwest Philadelphia|Southwest Philadelphia Voting District
+28|099|402|McDonald|McDonald Voting District
+28|099|403|Dixon|Dixon Voting District
+28|099|404|Deemer|Deemer Voting District
+28|099|406|Hays|Hays Voting District
+28|099|407|Neshoba|Neshoba Voting District
+28|099|501|Northwest Philadelphia|Northwest Philadelphia Voting District
+28|099|502|Burnside|Burnside Voting District
+28|099|503|East Neshoba|East Neshoba Voting District
+28|099|504|Fusky|Fusky Voting District
+28|101|101|Union 1|Union 1 Voting District
+28|101|102|Decatur 1|Decatur 1 Voting District
+28|101|103|Decatur 1-A|Decatur 1-A Voting District
+28|101|104|Newton 1|Newton 1 Voting District
+28|101|201|Union 2|Union 2 Voting District
+28|101|202|Duffee|Duffee Voting District
+28|101|203|Chapel Hill|Chapel Hill Voting District
+28|101|204|Little Rock|Little Rock Voting District
+28|101|301|Union 3|Union 3 Voting District
+28|101|302|Scanlan|Scanlan Voting District
+28|101|303|Conehatta|Conehatta Voting District
+28|101|304|Prospect|Prospect Voting District
+28|101|401|Lawrence|Lawrence Voting District
+28|101|402|Newton 4|Newton 4 Voting District
+28|101|403|Hazel|Hazel Voting District
+28|101|501|Chunky|Chunky Voting District
+28|101|502|Hickory|Hickory Voting District
+28|101|503|Liberty|Liberty Voting District
+28|101|504|Newton 5|Newton 5 Voting District
+28|103|101|Cliftonville|Cliftonville Voting District
+28|103|103|Prairie Point|Prairie Point Voting District
+28|103|104|Noxubee Cnty Vo-Tech Cen.|Noxubee Cnty Vo-Tech Cen. Voting District
+28|103|202|Earl Nash Gym|Earl Nash Gym Voting District
+28|103|203|Savannah|Savannah Voting District
+28|103|302|Central District 3|Central District 3
+28|103|401|Mashulaville|Mashulaville Voting District
+28|103|403|Sommerville|Sommerville Voting District
+28|103|404|Shuqualak|Shuqualak Voting District
+28|103|501|Brooksville|Brooksville Voting District
+28|105|101|West Starkville|West Starkville Voting District
+28|105|102|South Adaton|South Adaton Voting District
+28|105|103|North Longview|North Longview Voting District
+28|105|104|Self Creek|Self Creek Voting District
+28|105|105|Double Springs|Double Springs Voting District
+28|105|106|North Adaton|North Adaton Voting District
+28|105|201|Osborn|Osborn Voting District
+28|105|202|Northeast Starkville|Northeast Starkville Voting District
+28|105|203|Hickory Grove|Hickory Grove Voting District
+28|105|204|North Starkville 2|North Starkville 2 Voting District
+28|105|301|East Starkville|East Starkville Voting District
+28|105|302|North Starkville 3|North Starkville 3 Voting District
+28|105|303|Bell Schoolhouse|Bell Schoolhouse Voting District
+28|105|304|Center Grove|Center Grove Voting District
+28|105|305|Maben|Maben Voting District
+28|105|401|South Starkville|South Starkville Voting District
+28|105|402|South Longview|South Longview Voting District
+28|105|403|Craig Springs|Craig Springs Voting District
+28|105|404|Bradley|Bradley Voting District
+28|105|405|Sturgis|Sturgis Voting District
+28|105|501|Central Starkville|Central Starkville Voting District
+28|105|502|Gillespie Street Center|Gillespie Street Center Voting District
+28|105|503|Sessums|Sessums Voting District
+28|105|504|Oktoc|Oktoc Voting District
+28|105|505|Southeast Oktibehha|Southeast Oktibehha Voting District
+28|107|101|East Sardis|East Sardis Voting District
+28|107|102|West Sardis|West Sardis Voting District
+28|107|103|Como|Como Voting District
+28|107|105|Pleasant Mount|Pleasant Mount Voting District
+28|107|106|Cold Springs|Cold Springs Voting District
+28|107|201|Longtown|Longtown Voting District
+28|107|202|Crenshaw|Crenshaw Voting District
+28|107|203|Pleasant Grove|Pleasant Grove Voting District
+28|107|204|South Sardis|South Sardis Voting District
+28|107|206|Curtis|Curtis Voting District
+28|107|207|Macedonia-Concord|Macedonia-Concord Voting District
+28|107|301|Enon|Enon Voting District
+28|107|303|Tocowa|Tocowa Voting District
+28|107|304|Pope|Pope Voting District
+28|107|305|Courtland|Courtland Voting District
+28|107|306|Batesville 3|Batesville 3 Voting District
+28|107|401|Coles Point|Coles Point Voting District
+28|107|402|North Springport|North Springport Voting District
+28|107|403|South Springport|South Springport Voting District
+28|107|404|Eureka|Eureka Voting District
+28|107|405|East Batesville 4|East Batesville 4 Voting District
+28|107|502|North Batesville A|North Batesville A Voting District
+28|107|503|North Batesville B|North Batesville B Voting District
+28|107|504|East Batesville 5|East Batesville 5 Voting District
+28|109|110|Whitesand 1|Whitesand 1 Voting District
+28|109|130|Derby|Derby Voting District
+28|109|140|Picayune 1 East|Picayune 1 East Voting District
+28|109|150|Poplarville 1|Poplarville 1 Voting District
+28|109|160|Picayune 1 South|Picayune 1 South Voting District
+28|109|210|Mill Creek|Mill Creek Voting District
+28|109|220|Poplarville 2|Poplarville 2 Voting District
+28|109|230|Oak Hill|Oak Hill Voting District
+28|109|240|Buck Branch|Buck Branch Voting District
+28|109|250|Ford's Creek|Ford's Creek Voting District
+28|109|260|Byrd Line|Byrd Line Voting District
+28|109|270|Picayune 2|Picayune 2 Voting District
+28|109|280|Henleyfield|Henleyfield Voting District
+28|109|290|Whitesand 2|Whitesand 2 Voting District
+28|109|310|Ozona|Ozona Voting District
+28|109|320|Caesar|Caesar Voting District
+28|109|330|Savannah|Savannah Voting District
+28|109|340|Steep Hollow|Steep Hollow Voting District
+28|109|350|Progress|Progress Voting District
+28|109|359|McNeill 3|McNeill 3 Voting District
+28|109|360|Poplarville 3|Poplarville 3 Voting District
+28|109|380|Hickory Grove|Hickory Grove Voting District
+28|109|390|Gum Pond|Gum Pond Voting District
+28|109|410|Pine Grove|Pine Grove Voting District
+28|109|420|Nicholson|Nicholson Voting District
+28|109|430|Salem|Salem Voting District
+28|109|440|Picayune 4 West|Picayune 4 West Voting District
+28|109|450|Picayune 4 East|Picayune 4 East Voting District
+28|109|510|McNeill 5|McNeill 5 Voting District
+28|109|520|Carriere|Carriere Voting District
+28|109|525|Sycamore|Sycamore Voting District
+28|109|535|Anchor Lake/West Union|Anchor Lake/West Union Voting District
+28|109|540|Hide-A-Way North Hills|Hide-A-Way North Hills Voting District
+28|109|550|Picayune 5|Picayune 5 Voting District
+28|111|101|New Augusta Elementary|New Augusta Elementary Voting District
+28|111|102|Indian Springs|Indian Springs Voting District
+28|111|103|Beaumont Library|Beaumont Library Voting District
+28|111|201|Prospect|Prospect Voting District
+28|111|202|Runnelstown|Runnelstown Voting District
+28|111|301|Holly Street|Holly Street Voting District
+28|111|302|Richton City Hall|Richton City Hall Voting District
+28|111|401|Richton Multi-Purpose|Richton Multi-Purpose Voting District
+28|111|402|Hintonville|Hintonville Voting District
+28|111|403|Arlington|Arlington Voting District
+28|111|501|N.A. Courthouse|N.A. Courthouse Voting District
+28|111|502|Thompson Hill|Thompson Hill Voting District
+28|111|503|Beaumont City Hall|Beaumont City Hall Voting District
+28|111|504|Janice|Janice Voting District
+28|111|505|Deep Creek|Deep Creek Voting District
+28|113|101|5|Voting District 5
+28|113|102|6|Voting District 6
+28|113|103|16|Voting District 16
+28|113|104|24|Voting District 24
+28|113|105|18|Voting District 18
+28|113|106|26|Voting District 26
+28|113|201|8|Voting District 8
+28|113|202|9|Voting District 9
+28|113|203|10|Voting District 10
+28|113|204|11|Voting District 11
+28|113|205|12|Voting District 12
+28|113|206|7|Voting District 7
+28|113|301|2|Voting District 2
+28|113|302|3|Voting District 3
+28|113|303|4|Voting District 4
+28|113|304|13|Voting District 13
+28|113|305|14|Voting District 14
+28|113|306|15|Voting District 15
+28|113|401|21|Voting District 21
+28|113|402|23|Voting District 23
+28|113|403|17|Voting District 17
+28|113|404|19|Voting District 19
+28|113|405|20|Voting District 20
+28|113|406|22|Voting District 22
+28|113|407|25|Voting District 25
+28|113|501|1|Voting District 1
+28|113|502|27|Voting District 27
+28|113|503|28|Voting District 28
+28|113|504|29|Voting District 29
+28|113|505|30|Voting District 30
+28|113|506|31|Voting District 31
+28|113|507|32|Voting District 32
+28|115|101|Friendship|Friendship Voting District
+28|115|102|Cherry Creek|Cherry Creek Voting District
+28|115|103|Oak Hill|Oak Hill Voting District
+28|115|104|Bethel|Bethel Voting District
+28|115|106|Sherman|Sherman Voting District
+28|115|107|Pontotoc 1|Pontotoc 1 Voting District
+28|115|108|Ecru|Ecru Voting District
+28|115|201|Hurricane|Hurricane Voting District
+28|115|202|Buchanan|Buchanan Voting District
+28|115|203|Thaxton|Thaxton Voting District
+28|115|204|Toccopola|Toccopola Voting District
+28|115|205|Turnpike|Turnpike Voting District
+28|115|206|Pontotoc 2|Pontotoc 2 Voting District
+28|115|301|North Randolph|North Randolph Voting District
+28|115|302|South Randolph|South Randolph Voting District
+28|115|303|Springville|Springville Voting District
+28|115|304|Pontotoc 3|Pontotoc 3 Voting District
+28|115|305|Judah|Judah Voting District
+28|115|306|Robbs|Robbs Voting District
+28|115|401|Bankhead|Bankhead Voting District
+28|115|402|Pontotoc 4|Pontotoc 4 Voting District
+28|115|403|Longview|Longview Voting District
+28|115|404|Hoyle|Hoyle Voting District
+28|115|405|Zion|Zion Voting District
+28|115|406|Woodland|Woodland Voting District
+28|115|501|Algoma|Algoma Voting District
+28|115|502|Beckham|Beckham Voting District
+28|115|503|Troy|Troy Voting District
+28|115|504|Pontotoc 5|Pontotoc 5 Voting District
+28|117|101|Tuscumbia-New Chandler|Tuscumbia-New Chandler Voting District
+28|117|103|Thrasher|Thrasher Voting District
+28|117|104|Booneville|Booneville Voting District
+28|117|202|Crossroads|Crossroads Voting District
+28|117|203|Blackland|Blackland Voting District
+28|117|205|West Booneville|West Booneville Voting District
+28|117|302|Wheeler|Wheeler Voting District
+28|117|303|Ingram|Ingram Voting District
+28|117|304|Baldwyn|Baldwyn Voting District
+28|117|402|New Site|New Site Voting District
+28|117|404|Marietta|Marietta Voting District
+28|117|405|East Booneville|East Booneville Voting District
+28|117|501|Odom Hill|Odom Hill Voting District
+28|117|502|Hills Chapel-New Hope|Hills Chapel-New Hope Voting District
+28|117|504|North Booneville|North Booneville Voting District
+28|119|101|Sledge|Sledge Voting District
+28|119|102|Crenshaw|Crenshaw Voting District
+28|119|103|Darling|Darling Voting District
+28|119|201|Belen|Belen Voting District
+28|119|202|Northwest Marks|Northwest Marks Voting District
+28|119|301|District 3 North|District 3 North
+28|119|302|District 3 South|District 3 South
+28|119|401|Southwest Marks|Southwest Marks Voting District
+28|119|402|West Lambert|West Lambert Voting District
+28|119|501|Lambert|Lambert Voting District
+28|119|502|Crowder|Crowder Voting District
+28|121|101|Clear Branch|Clear Branch Voting District
+28|121|102|Cleary|Cleary Voting District
+28|121|103|East Steens Creek|East Steens Creek Voting District
+28|121|104|Mountain Creek|Mountain Creek Voting District
+28|121|105|North Richland|North Richland Voting District
+28|121|106|South Richland|South Richland Voting District
+28|121|107|Star|Star Voting District
+28|121|109|West Steens Creek|West Steens Creek Voting District
+28|121|110|West Pearl|West Pearl Voting District
+28|121|201|Castlewoods West|Castlewoods West Voting District
+28|121|202|Crest Park|Crest Park Voting District
+28|121|203|Fannin|Fannin Voting District
+28|121|204|Flowood|Flowood Voting District
+28|121|205|Holbrook|Holbrook Voting District
+28|121|206|Reservoir West|Reservoir West Voting District
+28|121|207|Northshore|Northshore Voting District
+28|121|208|Reservoir East|Reservoir East Voting District
+28|121|209|Grant's Ferry|Grant's Ferry Voting District
+28|121|210|Castlewoods|Castlewoods Voting District
+28|121|301|Cato|Cato Voting District
+28|121|302|Cunningham Heights|Cunningham Heights Voting District
+28|121|303|Dry Creek|Dry Creek Voting District
+28|121|304|Monterey|Monterey Voting District
+28|121|305|North McLaurin|North McLaurin Voting District
+28|121|306|North Pearson|North Pearson Voting District
+28|121|307|Patton Place|Patton Place Voting District
+28|121|308|Pearl|Pearl Voting District
+28|121|309|Puckett|Puckett Voting District
+28|121|310|South Pearson|South Pearson Voting District
+28|121|311|Antioch|Antioch Voting District
+28|121|312|East Brandon|East Brandon Voting District
+28|121|313|Johns|Johns Voting District
+28|121|314|Mayton|Mayton Voting District
+28|121|315|South Brandon|South Brandon Voting District
+28|121|401|Crossroads|Crossroads Voting District
+28|121|402|Leesburg|Leesburg Voting District
+28|121|403|North Brandon|North Brandon Voting District
+28|121|404|West Crossgates|West Crossgates Voting District
+28|121|405|Pelahatchie|Pelahatchie Voting District
+28|121|406|South Crossgates|South Crossgates Voting District
+28|121|408|Oakdale|Oakdale Voting District
+28|121|409|Pisgah|Pisgah Voting District
+28|121|410|Shiloh|Shiloh Voting District
+28|121|411|Northeast Brandon|Northeast Brandon Voting District
+28|121|412|East Crossgates|East Crossgates Voting District
+28|121|501|South McLaurin|South McLaurin Voting District
+28|121|502|Springhill|Springhill Voting District
+28|121|503|West Brandon|West Brandon Voting District
+28|121|505|Eldorado|Eldorado Voting District
+28|121|506|Mullins|Mullins Voting District
+28|121|507|Park Place|Park Place Voting District
+28|121|508|Liberty|Liberty Voting District
+28|123|101|Harperville|Harperville Voting District
+28|123|102|Hillsboro|Hillsboro Voting District
+28|123|103|North Forest|North Forest Voting District
+28|123|201|South Forest|South Forest Voting District
+28|123|202|House|House Voting District
+28|123|203|Lake|Lake Voting District
+28|123|204|High Hill|High Hill Voting District
+28|123|205|Homewood|Homewood Voting District
+28|123|301|East-West Morton|East-West Morton Voting District
+28|123|302|Northwest Forest|Northwest Forest Voting District
+28|123|303|Pulaski|Pulaski Voting District
+28|123|304|Springfield|Springfield Voting District
+28|123|305|Cooperville|Cooperville Voting District
+28|123|401|Contrell|Contrell Voting District
+28|123|402|Clifton|Clifton Voting District
+28|123|403|Forkville|Forkville Voting District
+28|123|404|North Morton|North Morton Voting District
+28|123|405|Liberty|Liberty Voting District
+28|123|406|Ludlow|Ludlow Voting District
+28|123|501|Sebastapol|Sebastapol Voting District
+28|123|502|Salem|Salem Voting District
+28|123|503|Northeast Forest|Northeast Forest Voting District
+28|123|504|Langs Mill|Langs Mill Voting District
+28|123|505|Steele|Steele Voting District
+28|125|101|Cary|Cary Voting District
+28|125|102|Rolling Fork 2|Rolling Fork 2 Voting District
+28|125|103|Spanish Fort|Spanish Fort Voting District
+28|125|104|Rolling Fork 1|Rolling Fork 1 Voting District
+28|125|105|Rolling Fork 3|Rolling Fork 3 Voting District
+28|125|106|Rolling Fork 4|Rolling Fork 4 Voting District
+28|125|107|Anguilla 4|Anguilla 4 Voting District
+28|125|108|Straight Bayou|Straight Bayou Voting District
+28|125|109|Delta City|Delta City Voting District
+28|125|110|Anguilla 5|Anguilla 5 Voting District
+28|127|101|Magee 1|Magee 1 Voting District
+28|127|102|Jupiter|Jupiter Voting District
+28|127|103|Weathersby|Weathersby Voting District
+28|127|104|Mendenhall 1|Mendenhall 1 Voting District
+28|127|105|Jupiter A|Jupiter A Voting District
+28|127|201|Saratoga|Saratoga Voting District
+28|127|202|New Hope|New Hope Voting District
+28|127|203|Bowie|Bowie Voting District
+28|127|204|Oak Grove|Oak Grove Voting District
+28|127|205|Magee 2|Magee 2 Voting District
+28|127|206|Oak Grove A|Oak Grove A Voting District
+28|127|207|Oak Grove B|Oak Grove B Voting District
+28|127|208|Magee 2 A|Magee 2 A Voting District
+28|127|301|Sumrall|Sumrall Voting District
+28|127|302|Mendenhall 3|Mendenhall 3 Voting District
+28|127|303|DLo|DLo Voting District
+28|127|304|Dry Creek|Dry Creek Voting District
+28|127|401|Magee 4-N|Magee 4-N Voting District
+28|127|402|Magee 4-S|Magee 4-S Voting District
+28|127|403|Pinola|Pinola Voting District
+28|127|404|Shivers|Shivers Voting District
+28|127|405|Bridgeport|Bridgeport Voting District
+28|127|406|Shivers A|Shivers A Voting District
+28|127|407|Magee 4N A|Magee 4N A Voting District
+28|127|501|Braxton|Braxton Voting District
+28|127|502|Merit|Merit Voting District
+28|127|503|Fork Church|Fork Church Voting District
+28|127|504|Harrisville|Harrisville Voting District
+28|127|505|Pearl|Pearl Voting District
+28|129|101|Center Ridge|Center Ridge Voting District
+28|129|102|Sylvarena|Sylvarena Voting District
+28|129|103|Ag Complex|Ag Complex Voting District
+28|129|201|Union-New Home|Union-New Home Voting District
+28|129|202|Summerland|Summerland Voting District
+28|129|203|Warren Hill|Warren Hill Voting District
+28|129|301|Zion Hill-New Haven|Zion Hill-New Haven Voting District
+28|129|302|Taylorsville|Taylorsville Voting District
+28|129|303|Mize|Mize Voting District
+28|129|401|West Raleigh|West Raleigh Voting District
+28|129|402|Shady Grove|Shady Grove Voting District
+28|129|403|White Oak|White Oak Voting District
+28|129|404|Polkville 77|Polkville 77 Voting District
+28|129|405|Polkville 79|Polkville 79 Voting District
+28|129|501|North Raleigh|North Raleigh Voting District
+28|129|502|Burns|Burns Voting District
+28|129|503|Clear Springs-Pineville|Clear Springs-Pineville Voting District
+28|129|504|Lorena-Spinola|Lorena-Spinola Voting District
+28|129|505|Cedar Grove|Cedar Grove Voting District
+28|131|101|Bond|Bond Voting District
+28|131|102|Courthouse|Courthouse Voting District
+28|131|103|Old Hospital|Old Hospital Voting District
+28|131|201|American Legion|American Legion Voting District
+28|131|203|Project Road|Project Road Voting District
+28|131|301|Perkinston|Perkinston Voting District
+28|131|302|Elarbee|Elarbee Voting District
+28|131|303|McHenry Library|McHenry Library Voting District
+28|131|304|Magnolia|Magnolia Voting District
+28|131|401|Tuxachanie|Tuxachanie Voting District
+28|131|402|Ten Mile|Ten Mile Voting District
+28|131|403|McHenry Fire Station|McHenry Fire Station Voting District
+28|131|501|Flint Creek|Flint Creek Voting District
+28|131|502|Big Level|Big Level Voting District
+28|131|503|Pleasant Hill|Pleasant Hill Voting District
+28|133|101|Inverness|Inverness Voting District
+28|133|102|Indianola Southeast|Indianola Southeast Voting District
+28|133|103|Moorhead|Moorhead Voting District
+28|133|201|Indianola 2 West|Indianola 2 West Voting District
+28|133|202|Indianola 2 East|Indianola 2 East Voting District
+28|133|301|Sunflower 3|Sunflower 3 Voting District
+28|133|302|Indianola 3 North|Indianola 3 North Voting District
+28|133|303|Indianola 3 South|Indianola 3 South Voting District
+28|133|304|Indianola 3 Northeast|Indianola 3 Northeast Voting District
+28|133|401|Ruleville|Ruleville Voting District
+28|133|402|Doddsville|Doddsville Voting District
+28|133|403|Boyer-Linn|Boyer-Linn Voting District
+28|133|404|Fairview-Hale|Fairview-Hale Voting District
+28|133|405|Sunflower 4|Sunflower 4 Voting District
+28|133|501|Rome|Rome Voting District
+28|133|502|Sunflower Plantation|Sunflower Plantation Voting District
+28|133|503|Drew|Drew Voting District
+28|133|504|Ruleville North|Ruleville North Voting District
+28|135|101|Teasdale|Teasdale Voting District
+28|135|102|Enid|Enid Voting District
+28|135|103|Springhill|Springhill Voting District
+28|135|104|Charleston Beat 1|Charleston Beat 1 Voting District
+28|135|201|Charleston Beat 2|Charleston Beat 2 Voting District
+28|135|202|Brazil|Brazil Voting District
+28|135|203|Webb Beat 2|Webb Beat 2 Voting District
+28|135|204|Sumner Beat 2|Sumner Beat 2 Voting District
+28|135|301|Charleston Beat 3|Charleston Beat 3 Voting District
+28|135|302|Paynes|Paynes Voting District
+28|135|303|Leverette|Leverette Voting District
+28|135|304|Cascilla|Cascilla Voting District
+28|135|305|Murphreesboro|Murphreesboro Voting District
+28|135|306|Rosebloom|Rosebloom Voting District
+28|135|307|Blue Cane|Blue Cane Voting District
+28|135|401|Tippo|Tippo Voting District
+28|135|402|Philipp|Philipp Voting District
+28|135|403|Glendora|Glendora Voting District
+28|135|404|Webb Beat 4|Webb Beat 4 Voting District
+28|135|501|Webb Beat 5|Webb Beat 5 Voting District
+28|135|502|Sumner Beat 5|Sumner Beat 5 Voting District
+28|135|503|Tutwiler|Tutwiler Voting District
+28|137|101|Senatobia No.1|Senatobia No.1 Voting District
+28|137|102|Sarah|Sarah Voting District
+28|137|103|Sherrod|Sherrod Voting District
+28|137|104|Strayhorn|Strayhorn Voting District
+28|137|201|Senatobia No.2|Senatobia No.2 Voting District
+28|137|202|Coldwater|Coldwater Voting District
+28|137|203|Arkabutla|Arkabutla Voting District
+28|137|204|Evansville|Evansville Voting District
+28|137|302|Poagville 4|Poagville 4 Voting District
+28|137|303|Palestine|Palestine Voting District
+28|137|304|Taylor|Taylor Voting District
+28|137|305|Senatobia 3|Senatobia 3 Voting District
+28|137|401|Senatobia No.4|Senatobia No.4 Voting District
+28|137|402|Looxahoma|Looxahoma Voting District
+28|137|403|Tyro|Tyro Voting District
+28|137|502|Thyatira|Thyatira Voting District
+28|137|503|Wyatte|Wyatte Voting District
+28|137|504|Independence|Independence Voting District
+28|137|505|Poagville 5|Poagville 5 Voting District
+28|139|101|Threeforks|Threeforks Voting District
+28|139|102|Brownfield|Brownfield Voting District
+28|139|103|Walnut|Walnut Voting District
+28|139|104|Chalybeate|Chalybeate Voting District
+28|139|105|Tiplersville|Tiplersville Voting District
+28|139|106|North Falkner|North Falkner Voting District
+28|139|201|Falkner|Falkner Voting District
+28|139|202|North Ripley|North Ripley Voting District
+28|139|301|Blue Mountain|Blue Mountain Voting District
+28|139|302|Cotton Plant|Cotton Plant Voting District
+28|139|303|New Hope|New Hope Voting District
+28|139|304|Clarysville|Clarysville Voting District
+28|139|305|Palmer|Palmer Voting District
+28|139|306|Shady Grove|Shady Grove Voting District
+28|139|401|Mitchell|Mitchell Voting District
+28|139|402|Pine Grove|Pine Grove Voting District
+28|139|403|Dumas|Dumas Voting District
+28|139|404|Dry Creek|Dry Creek Voting District
+28|139|405|S.W. Ripley|S.W. Ripley Voting District
+28|139|501|Chapman|Chapman Voting District
+28|139|503|Spout Springs|Spout Springs Voting District
+28|139|506|Peoples|Peoples Voting District
+28|139|507|Providence|Providence Voting District
+28|139|508|Ripley|Ripley Voting District
+28|141|101|Hubbard-Salem|Hubbard-Salem Voting District
+28|141|102|North Iuka|North Iuka Voting District
+28|141|103|Luka|Luka Voting District
+28|141|201|Coles Mill|Coles Mill Voting District
+28|141|202|North Burnsville|North Burnsville Voting District
+28|141|203|West Burnsville|West Burnsville Voting District
+28|141|204|Burnsville|Burnsville Voting District
+28|141|301|East Iuka|East Iuka Voting District
+28|141|302|Spring Hill|Spring Hill Voting District
+28|141|303|West Iuka|West Iuka Voting District
+28|141|401|Paden|Paden Voting District
+28|141|402|West Tishomingo|West Tishomingo Voting District
+28|141|403|Tishomingo|Tishomingo Voting District
+28|141|404|Dennis|Dennis Voting District
+28|141|405|North Belmont|North Belmont Voting District
+28|141|501|Cotton Springs|Cotton Springs Voting District
+28|141|502|Belmont|Belmont Voting District
+28|141|503|East Belmont|East Belmont Voting District
+28|141|504|Golden|Golden Voting District
+28|143|001|Robinsonville|Robinsonville Voting District
+28|143|002|Banks/Hambrick|Banks/Hambrick Voting District
+28|143|003|Prichard|Prichard Voting District
+28|143|004|Watsonville|Watsonville Voting District
+28|143|005|Mhoon Landing|Mhoon Landing Voting District
+28|143|006|Justice Court Building|Justice Court Building Voting District
+28|143|007|Tunica|Tunica Voting District
+28|143|008|Courthouse|Courthouse Voting District
+28|143|009|School Bus Barn|School Bus Barn Voting District
+28|143|010|West End Store|West End Store Voting District
+28|143|011|Evansville|Evansville Voting District
+28|143|012|Two Mile Lake|Two Mile Lake Voting District
+28|145|101|Macedonia|Macedonia Voting District
+28|145|102|Blythe|Blythe Voting District
+28|145|103|Myrtle|Myrtle Voting District
+28|145|105|Glenfield|Glenfield Voting District
+28|145|201|Pinedale|Pinedale Voting District
+28|145|202|West Union|West Union Voting District
+28|145|205|Sportsplex|Sportsplex Voting District
+28|145|206|Imgomar|Imgomar Voting District
+28|145|301|Kings Chapel|Kings Chapel Voting District
+28|145|302|Courthouse|Courthouse Voting District
+28|145|304|Central Maintenance|Central Maintenance Voting District
+28|145|306|Beacon Hill|Beacon Hill Voting District
+28|145|401|Blue Springs|Blue Springs Voting District
+28|145|402|B.F. Ford|B.F. Ford Voting District
+28|145|404|Center|Center Voting District
+28|145|407|East Union|East Union Voting District
+28|145|503|Northeast MS Community College|Northeast MS Community College Voting District
+28|145|504|Keownville|Keownville Voting District
+28|145|505|Pleasant Ridge|Pleasant Ridge Voting District
+28|145|508|Jericho|Jericho Voting District
+28|147|101|Midway|Midway Voting District
+28|147|102|North Kirklin|North Kirklin Voting District
+28|147|103|Lexie|Lexie Voting District
+28|147|104|South Kirklin|South Kirklin Voting District
+28|147|201|Mesa|Mesa Voting District
+28|147|202|West Tylertown|West Tylertown Voting District
+28|147|203|East Tylertown|East Tylertown Voting District
+28|147|204|North Knoxo|North Knoxo Voting District
+28|147|205|South Knoxo|South Knoxo Voting District
+28|147|301|Improve|Improve Voting District
+28|147|302|Dexter|Dexter Voting District
+28|147|303|Dist.3 Tylertown|Dist.3 Tylertown
+28|147|401|Sartinville|Sartinville Voting District
+28|147|402|Darbun|Darbun Voting District
+28|147|403|Varnell|Varnell Voting District
+28|147|404|Dist.4 Tylertown|Dist.4 Tylertown
+28|147|405|Dist.4 West|Dist.4 West
+28|147|501|Enon|Enon Voting District
+28|147|502|Dinan|Dinan Voting District
+28|147|503|Hope|Hope Voting District
+28|147|504|Saint Paul|Saint Paul Voting District
+28|149|101|Oak Ridge|Oak Ridge Voting District
+28|149|102|Bovina|Bovina Voting District
+28|149|103|Culkin|Culkin Voting District
+28|149|104|Redwood|Redwood Voting District
+28|149|201|St. Aloysius|St. Aloysius Voting District
+28|149|202|Kings|Kings Voting District
+28|149|203|Cedar Grove|Cedar Grove Voting District
+28|149|204|3-61 Store|Voting District 3-61 Store
+28|149|205|Auditorium|Auditorium Voting District
+28|149|206|Brunswick|Brunswick Voting District
+28|149|301|Vicksburg Jr. High School|Vicksburg Jr. High School Voting District
+28|149|302|American Legion Hall|American Legion Hall Voting District
+28|149|303|No.7 Fire Station|No.7 Fire Station Voting District
+28|149|401|Jett|Jett Voting District
+28|149|402|Elks Lodge|Elks Lodge Voting District
+28|149|403|Goodrum|Goodrum Voting District
+28|149|404|Yokena|Yokena Voting District
+28|149|501|Plumbers Hall|Plumbers Hall Voting District
+28|149|502|Beechwood|Beechwood Voting District
+28|149|503|Y.M.C.A.|Y.M.C.A. Voting District
+28|149|504|Moose Lodge|Moose Lodge Voting District
+28|149|505|Tingleville|Tingleville Voting District
+28|151|102|St. James Epis. Church|St. James Epis. Church Voting District
+28|151|103|Swiftwater Baptist Church|Swiftwater Baptist Church Voting District
+28|151|104|Glen Allan Health Clinic|Glen Allan Health Clinic Voting District
+28|151|105|Christ Wesleyan Methodist Church|Christ Wesleyan Methodist Church Voting District
+28|151|201|Wards Recreation Center|Wards Recreation Center Voting District
+28|151|202|Buster Brown Comm. Center|Buster Brown Comm. Center Voting District
+28|151|204|Arcola City Hall|Arcola City Hall Voting District
+28|151|205|Potter House Church|Potter House Church Voting District
+28|151|301|Tampa Drive|Tampa Drive Voting District
+28|151|302|Brent Center|Brent Center Voting District
+28|151|303|Extension Building|Extension Building Voting District
+28|151|304|American Legion|American Legion Voting District
+28|151|305|Metcalfe City Hall|Metcalfe City Hall Voting District
+28|151|401|Elks Club|Elks Club Voting District
+28|151|402|Leland Health Dpt. Clinic|Leland Health Dpt. Clinic Voting District
+28|151|403|Leland Rotary Club|Leland Rotary Club Voting District
+28|151|501|Hollandale City Hall|Hollandale City Hall Voting District
+28|151|502|Darlove Baptist Church|Darlove Baptist Church Voting District
+28|151|504|Grace Methodist Church|Grace Methodist Church Voting District
+28|151|505|Greenville Ind. College|Greenville Ind. College Voting District
+28|153|101|Buckatunna|Buckatunna Voting District
+28|153|102|Waynesboro 1|Waynesboro 1 Voting District
+28|153|103|Chicora|Chicora Voting District
+28|153|105|State Line|State Line Voting District
+28|153|201|Waynesboro 2|Waynesboro 2 Voting District
+28|153|202|Big Rock|Big Rock Voting District
+28|153|203|Winchester|Winchester Voting District
+28|153|204|Denham|Denham Voting District
+28|153|205|Diamond|Diamond Voting District
+28|153|301|Waynesboro 3|Waynesboro 3 Voting District
+28|153|302|Yellow Creek|Yellow Creek Voting District
+28|153|303|Hiwannee|Hiwannee Voting District
+28|153|304|Chaparral|Chaparral Voting District
+28|153|305|Matherville|Matherville Voting District
+28|153|306|Coit|Coit Voting District
+28|153|401|Waynesboro 4|Waynesboro 4 Voting District
+28|153|402|Mozingo|Mozingo Voting District
+28|153|403|Beat 4 School|Beat 4 School Voting District
+28|153|404|Pleasant Grove|Pleasant Grove Voting District
+28|153|405|Eucutta|Eucutta Voting District
+28|153|501|Waynesboro 5|Waynesboro 5 Voting District
+28|153|502|Clara|Clara Voting District
+28|153|503|Corinth|Corinth Voting District
+28|153|505|Strengthford|Strengthford Voting District
+28|155|101|Bluff Springs|Bluff Springs Voting District
+28|155|102|Eupora 1|Eupora 1 Voting District
+28|155|201|Cadaretta|Cadaretta Voting District
+28|155|202|Walthall|Walthall Voting District
+28|155|204|Eupora 2|Eupora 2 Voting District
+28|155|205|Bellefontaine|Bellefontaine Voting District
+28|155|301|Fay|Fay Voting District
+28|155|302|Eupora 3|Eupora 3 Voting District
+28|155|303|Tomnolen|Tomnolen Voting District
+28|155|304|Grady|Grady Voting District
+28|155|401|Big Black|Big Black Voting District
+28|155|402|Mathiston|Mathiston Voting District
+28|155|403|Maben|Maben Voting District
+28|155|501|Fame|Fame Voting District
+28|155|502|Clarkson|Clarkson Voting District
+28|155|503|Cumberland|Cumberland Voting District
+28|155|504|Mantee|Mantee Voting District
+28|157|101|Woodville First District Precinct|Woodville First District Precinct
+28|157|102|Centreville First District Precinct|Centreville First District Precinct
+28|157|201|Woodville Second District Precinct|Woodville Second District Precinct
+28|157|202|Fort Adams Precinct|Fort Adams Precinct
+28|157|301|Centreville Third District Precinct|Centreville Third District Precinct
+28|157|401|Woodville Fourth District Precinct|Woodville Fourth District Precinct
+28|157|402|Cold Springs Precinct|Cold Springs Precinct
+28|157|501|Woodville Fifth District Precinct|Woodville Fifth District Precinct
+28|157|502|Longmire Precinct|Longmire Precinct
+28|159|101|Wathall|Wathall Voting District
+28|159|102|Fairground|Fairground Voting District
+28|159|104|New National Guard Armory|New National Guard Armory Voting District
+28|159|201|East Winston|East Winston Voting District
+28|159|203|Nanih Waiya|Nanih Waiya Voting District
+28|159|204|Lovorn Tractor|Lovorn Tractor Voting District
+28|159|301|American Legion|American Legion Voting District
+28|159|303|Mill Creek|Mill Creek Voting District
+28|159|401|Zion Ridge|Zion Ridge Voting District
+28|159|402|County Agent|County Agent Voting District
+28|159|405|Shilioh|Shilioh Voting District
+28|159|502|Noxapater|Noxapater Voting District
+28|159|504|Mars Hill|Mars Hill Voting District
+28|161|101|One South|One South Voting District
+28|161|102|One North|One North Voting District
+28|161|201|Two Water Valley|Two Water Valley Voting District
+28|161|301|Sylva Rena|Sylva Rena Voting District
+28|161|302|Three North West|Three North West Voting District
+28|161|401|Oakland|Oakland Voting District
+28|161|402|Coffeeville 4|Coffeeville 4 Voting District
+28|161|502|Skuna-Vanns|Skuna-Vanns Voting District
+28|161|503|Coffeeville 5|Coffeeville 5 Voting District
+28|161|504|Scobey|Scobey Voting District
+28|161|505|Tillatoba|Tillatoba Voting District
+28|163|101|Center Ridge|Center Ridge Voting District
+28|163|102|Dover|Dover Voting District
+28|163|103|East Bentonia|East Bentonia Voting District
+28|163|104|Fugates|Fugates Voting District
+28|163|105|Mechanicsburg|Mechanicsburg Voting District
+28|163|107|Robinette|Robinette Voting District
+28|163|108|Satartia|Satartia Voting District
+28|163|109|Valley|Valley Voting District
+28|163|110|West Bentonia|West Bentonia Voting District
+28|163|111|Tinsley|Tinsley Voting District
+28|163|201|Benton|Benton Voting District
+28|163|202|Deasonville|Deasonville Voting District
+28|163|203|Harttown|Harttown Voting District
+28|163|204|Ward 2|Ward 2
+28|163|205|Zion|Zion Voting District
+28|163|301|3-1 West|Voting District 3-1 West
+28|163|302|3-2 East|Voting District 3-2 East
+28|163|303|3-3 Jonestown|Voting District 3-3 Jonestown
+28|163|304|3-4 South|Voting District 3-4 South
+28|163|401|East Midway|East Midway Voting District
+28|163|402|Eden|Eden Voting District
+28|163|403|Free Run|Free Run Voting District
+28|163|404|West Midway|West Midway Voting District
+28|163|405|Ward 4|Ward 4
+28|163|406|District 4 Ward 2|District 4 Ward 2
+28|163|501|Carter|Carter Voting District
+28|163|503|Fairview|Fairview Voting District
+28|163|504|Holly Bluff|Holly Bluff Voting District
+28|163|505|Lake City|Lake City Voting District
+28|163|506|Ward 5|Ward 5

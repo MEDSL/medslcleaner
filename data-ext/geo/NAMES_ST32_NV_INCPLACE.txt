@@ -1,0 +1,20 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+32|06500|Boulder City|Boulder City city
+32|08500|Caliente|Caliente city
+32|08900|Carlin|Carlin city
+32|09700|Carson City|Carson City
+32|22500|Elko|Elko city
+32|23500|Ely|Ely city
+32|24100|Fallon|Fallon city
+32|24900|Fernley|Fernley city
+32|31900|Henderson|Henderson city
+32|40000|Las Vegas|Las Vegas city
+32|43000|Lovelock|Lovelock city
+32|46000|Mesquite|Mesquite city
+32|51800|North Las Vegas|North Las Vegas city
+32|60600|Reno|Reno city
+32|68400|Sparks|Sparks city
+32|83000|Wells|Wells city
+32|83730|West Wendover|West Wendover city
+32|84800|Winnemucca|Winnemucca city
+32|85400|Yerington|Yerington city

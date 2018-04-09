@@ -1,0 +1,222 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+02|0110|Annette Island|Annette Island Reserve
+02|6015|Akhiok|Akhiok ANVSA
+02|6020|Akiachak|Akiachak ANVSA
+02|6025|Akiak|Akiak ANVSA
+02|6030|Akutan|Akutan ANVSA
+02|6035|Alakanuk|Alakanuk ANVSA
+02|6040|Alatna|Alatna ANVSA
+02|6045|Aleknagik|Aleknagik ANVSA
+02|6065|Algaaciq|Algaaciq ANVSA
+02|6070|Allakaket|Allakaket ANVSA
+02|6075|Ambler|Ambler ANVSA
+02|6080|Anaktuvuk Pass|Anaktuvuk Pass ANVSA
+02|6095|Andreafsky|Andreafsky ANVSA
+02|6100|Angoon|Angoon ANVSA
+02|6105|Aniak|Aniak ANVSA
+02|6125|Anvik|Anvik ANVSA
+02|6140|Arctic Village|Arctic Village ANVSA
+02|6150|Atka|Atka ANVSA
+02|6160|Atmautluak|Atmautluak ANVSA
+02|6165|Atqasuk|Atqasuk ANVSA
+02|6175|Barrow|Barrow ANVSA
+02|6190|Beaver|Beaver ANVSA
+02|6195|Belkofski|Belkofski ANVSA
+02|6205|Bethel|Bethel ANVSA
+02|6225|Bill Moore's|Bill Moore's ANVSA
+02|6235|Birch Creek|Birch Creek ANVSA
+02|6240|Brevig Mission|Brevig Mission ANVSA
+02|6250|Buckland|Buckland ANVSA
+02|6255|Cantwell|Cantwell ANVSA
+02|6257|Canyon Village|Canyon Village ANVSA
+02|6265|Chalkyitsik|Chalkyitsik ANVSA
+02|6275|Chefornak|Chefornak ANVSA
+02|6280|Chenega|Chenega ANVSA
+02|6285|Chevak|Chevak ANVSA
+02|6290|Chickaloon|Chickaloon ANVSA
+02|6295|Chignik|Chignik ANVSA
+02|6300|Chignik Lagoon|Chignik Lagoon ANVSA
+02|6305|Chignik Lake|Chignik Lake ANVSA
+02|6310|Chilkat|Chilkat ANVSA
+02|6315|Chilkoot|Chilkoot ANVSA
+02|6325|Chistochina|Chistochina ANVSA
+02|6330|Chitina|Chitina ANVSA
+02|6335|Chuathbaluk|Chuathbaluk ANVSA
+02|6340|Chulloonawick|Chulloonawick ANVSA
+02|6350|Circle|Circle ANVSA
+02|6360|Clarks Point|Clarks Point ANVSA
+02|6365|Copper Center|Copper Center ANVSA
+02|6380|Council|Council ANVSA
+02|6385|Craig|Craig ANVSA
+02|6390|Crooked Creek|Crooked Creek ANVSA
+02|6400|Deering|Deering ANVSA
+02|6405|Dillingham|Dillingham ANVSA
+02|6415|Dot Lake|Dot Lake ANVSA
+02|6420|Douglas|Douglas ANVSA
+02|6430|Eagle|Eagle ANVSA
+02|6440|Eek|Eek ANVSA
+02|6445|Egegik|Egegik ANVSA
+02|6450|Eklutna|Eklutna ANVSA
+02|6455|Ekuk|Ekuk ANVSA
+02|6460|Ekwok|Ekwok ANVSA
+02|6470|Elim|Elim ANVSA
+02|6480|Emmonak|Emmonak ANVSA
+02|6490|Evansville|Evansville ANVSA
+02|6495|Eyak|Eyak ANVSA
+02|6500|False Pass|False Pass ANVSA
+02|6515|Fort Yukon|Fort Yukon ANVSA
+02|6520|Gakona|Gakona ANVSA
+02|6525|Galena|Galena ANVSA
+02|6530|Gambell|Gambell ANVSA
+02|6535|Georgetown|Georgetown ANVSA
+02|6540|Golovin|Golovin ANVSA
+02|6545|Goodnews Bay|Goodnews Bay ANVSA
+02|6550|Grayling|Grayling ANVSA
+02|6560|Gulkana|Gulkana ANVSA
+02|6570|Hamilton|Hamilton ANVSA
+02|6575|Healy Lake|Healy Lake ANVSA
+02|6585|Holy Cross|Holy Cross ANVSA
+02|6590|Hoonah|Hoonah ANVSA
+02|6595|Hooper Bay|Hooper Bay ANVSA
+02|6605|Hughes|Hughes ANVSA
+02|6610|Huslia|Huslia ANVSA
+02|6615|Hydaburg|Hydaburg ANVSA
+02|6620|Igiugig|Igiugig ANVSA
+02|6625|Iliamna|Iliamna ANVSA
+02|6630|Inalik|Inalik ANVSA
+02|6650|Ivanof Bay|Ivanof Bay ANVSA
+02|6670|Kake|Kake ANVSA
+02|6680|Kaktovik|Kaktovik ANVSA
+02|6685|Kalskag|Kalskag ANVSA
+02|6690|Kaltag|Kaltag ANVSA
+02|6700|Karluk|Karluk ANVSA
+02|6705|Kasaan|Kasaan ANVSA
+02|6710|Kasigluk|Kasigluk ANVSA
+02|6720|Kenaitze|Kenaitze ANVSA
+02|6725|Ketchikan|Ketchikan ANVSA
+02|6730|Kiana|Kiana ANVSA
+02|6735|King Cove|King Cove ANVSA
+02|6740|King Salmon|King Salmon ANVSA
+02|6750|Kipnuk|Kipnuk ANVSA
+02|6755|Kivalina|Kivalina ANVSA
+02|6765|Klawock|Klawock ANVSA
+02|6785|Knik|Knik ANVSA
+02|6790|Kobuk|Kobuk ANVSA
+02|6795|Kodiak|Kodiak ANVSA
+02|6800|Kokhanok|Kokhanok ANVSA
+02|6810|Kongiganak|Kongiganak ANVSA
+02|6815|Kotlik|Kotlik ANVSA
+02|6820|Kotzebue|Kotzebue ANVSA
+02|6825|Koyuk|Koyuk ANVSA
+02|6830|Koyukuk|Koyukuk ANVSA
+02|6835|Kwethluk|Kwethluk ANVSA
+02|6840|Kwigillingok|Kwigillingok ANVSA
+02|6845|Kwinhagak|Kwinhagak ANVSA
+02|6850|Lake Minchumina|Lake Minchumina ANVSA
+02|6855|Larsen Bay|Larsen Bay ANVSA
+02|6860|Lesnoi|Lesnoi ANVSA
+02|6865|Levelock|Levelock ANVSA
+02|6875|Lime Village|Lime Village ANVSA
+02|6890|Lower Kalskag|Lower Kalskag ANVSA
+02|6895|McGrath|McGrath ANVSA
+02|6900|Manley Hot Springs|Manley Hot Springs ANVSA
+02|6905|Manokotak|Manokotak ANVSA
+02|6910|Marshall|Marshall ANVSA
+02|6915|Mary's Igloo|Mary's Igloo ANVSA
+02|6935|Mekoryuk|Mekoryuk ANVSA
+02|6945|Mentasta Lake|Mentasta Lake ANVSA
+02|6965|Minto|Minto ANVSA
+02|6975|Mountain Village|Mountain Village ANVSA
+02|6990|Naknek|Naknek ANVSA
+02|6995|Nanwalek|Nanwalek ANVSA
+02|7005|Napaimute|Napaimute ANVSA
+02|7010|Napakiak|Napakiak ANVSA
+02|7020|Napaskiak|Napaskiak ANVSA
+02|7025|Nelson Lagoon|Nelson Lagoon ANVSA
+02|7030|Nenana|Nenana ANVSA
+02|7035|Newhalen|Newhalen ANVSA
+02|7040|New Koliganek|New Koliganek ANVSA
+02|7050|New Stuyahok|New Stuyahok ANVSA
+02|7055|Newtok|Newtok ANVSA
+02|7065|Nightmute|Nightmute ANVSA
+02|7070|Nikolai|Nikolai ANVSA
+02|7075|Nikolski|Nikolski ANVSA
+02|7080|Ninilchik|Ninilchik ANVSA
+02|7085|Noatak|Noatak ANVSA
+02|7095|Nome|Nome ANVSA
+02|7100|Nondalton|Nondalton ANVSA
+02|7110|Noorvik|Noorvik ANVSA
+02|7115|Northway|Northway ANVSA
+02|7125|Nuiqsut|Nuiqsut ANVSA
+02|7130|Nulato|Nulato ANVSA
+02|7133|Nunam Iqua|Nunam Iqua ANVSA
+02|7135|Nunapitchuk|Nunapitchuk ANVSA
+02|7145|Ohogamiut|Ohogamiut ANVSA
+02|7150|Old Harbor|Old Harbor ANVSA
+02|7175|Oscarville|Oscarville ANVSA
+02|7180|Ouzinkie|Ouzinkie ANVSA
+02|7185|Paimiut|Paimiut ANVSA
+02|7205|Pedro Bay|Pedro Bay ANVSA
+02|7215|Perryville|Perryville ANVSA
+02|7220|Petersburg|Petersburg ANVSA
+02|7225|Pilot Point|Pilot Point ANVSA
+02|7230|Pilot Station|Pilot Station ANVSA
+02|7235|Pitkas Point|Pitkas Point ANVSA
+02|7245|Platinum|Platinum ANVSA
+02|7250|Point Hope|Point Hope ANVSA
+02|7255|Point Lay|Point Lay ANVSA
+02|7260|Portage Creek|Portage Creek ANVSA
+02|7263|Port Alsworth|Port Alsworth ANVSA
+02|7265|Port Graham|Port Graham ANVSA
+02|7270|Port Heiden|Port Heiden ANVSA
+02|7275|Port Lions|Port Lions ANVSA
+02|7300|Rampart|Rampart ANVSA
+02|7305|Red Devil|Red Devil ANVSA
+02|7310|Ruby|Ruby ANVSA
+02|7315|Russian Mission|Russian Mission ANVSA
+02|7340|St. George|St. George ANVSA
+02|7375|St. Michael|St. Michael ANVSA
+02|7390|St. Paul|St. Paul ANVSA
+02|7400|Salamatof|Salamatof ANVSA
+02|7410|Sand Point|Sand Point ANVSA
+02|7415|Savoonga|Savoonga ANVSA
+02|7420|Saxman|Saxman ANVSA
+02|7425|Scammon Bay|Scammon Bay ANVSA
+02|7430|Selawik|Selawik ANVSA
+02|7435|Seldovia|Seldovia ANVSA
+02|7440|Shageluk|Shageluk ANVSA
+02|7450|Shaktoolik|Shaktoolik ANVSA
+02|7465|Shishmaref|Shishmaref ANVSA
+02|7470|Shungnak|Shungnak ANVSA
+02|7475|Sitka|Sitka ANVSA
+02|7485|Skagway|Skagway ANVSA
+02|7495|Sleetmute|Sleetmute ANVSA
+02|7500|Solomon|Solomon ANVSA
+02|7505|South Naknek|South Naknek ANVSA
+02|7510|Stebbins|Stebbins ANVSA
+02|7520|Stevens Village|Stevens Village ANVSA
+02|7525|Stony River|Stony River ANVSA
+02|7530|Takotna|Takotna ANVSA
+02|7535|Tanacross|Tanacross ANVSA
+02|7540|Tanana|Tanana ANVSA
+02|7555|Tatitlek|Tatitlek ANVSA
+02|7560|Tazlina|Tazlina ANVSA
+02|7565|Telida|Telida ANVSA
+02|7570|Teller|Teller ANVSA
+02|7580|Tetlin|Tetlin ANVSA
+02|7605|Togiak|Togiak ANVSA
+02|7625|Toksook Bay|Toksook Bay ANVSA
+02|7630|Tuluksak|Tuluksak ANVSA
+02|7640|Tuntutuliak|Tuntutuliak ANVSA
+02|7645|Tununak|Tununak ANVSA
+02|7650|Twin Hills|Twin Hills ANVSA
+02|7655|Tyonek|Tyonek ANVSA
+02|7665|Ugashik|Ugashik ANVSA
+02|7690|Unalakleet|Unalakleet ANVSA
+02|7695|Unalaska|Unalaska ANVSA
+02|7725|Venetie|Venetie ANVSA
+02|7735|Wainwright|Wainwright ANVSA
+02|7740|Wales|Wales ANVSA
+02|7745|White Mountain|White Mountain ANVSA
+02|7755|Wrangell|Wrangell ANVSA
+02|7765|Yakutat|Yakutat ANVSA

@@ -1,0 +1,29 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+53|0575|Chehalis|Chehalis Reservation and Off-Reservation Trust Land
+53|0760|Colville|Colville Reservation and Off-Reservation Trust Land
+53|1460|Hoh|Hoh Indian Reservation
+53|1655|Jamestown S'Klallam|Jamestown S'Klallam Reservation and Off-Reservation Trust Land
+53|1735|Kalispel|Kalispel Reservation and Off-Reservation Trust Land
+53|2040|Lower Elwha|Lower Elwha Reservation and Off-Reservation Trust Land
+53|2070|Lummi|Lummi Reservation
+53|2085|Makah|Makah Indian Reservation
+53|2375|Muckleshoot|Muckleshoot Reservation and Off-Reservation Trust Land
+53|2460|Nisqually|Nisqually Reservation
+53|2475|Nooksack|Nooksack Reservation and Off-Reservation Trust Land
+53|2910|Port Gamble|Port Gamble Reservation
+53|2925|Port Madison|Port Madison Reservation
+53|3000|Puyallup|Puyallup Reservation and Off-Reservation Trust Land
+53|3030|Quileute|Quileute Reservation
+53|3040|Quinault|Quinault Reservation
+53|3625|Sauk-Suiattle|Sauk-Suiattle Reservation
+53|3780|Shoalwater Bay|Shoalwater Bay Indian Reservation and Off-Reservation Trust Land
+53|3825|Skokomish|Skokomish Reservation
+53|3860|Snoqualmie|Snoqualmie Reservation
+53|3940|Spokane|Spokane Reservation and Off-Reservation Trust Land
+53|3955|Squaxin Island|Squaxin Island Reservation and Off-Reservation Trust Land
+53|4000|Stillaguamish|Stillaguamish Reservation and Off-Reservation Trust Land
+53|4075|Swinomish|Swinomish Reservation and Off-Reservation Trust Land
+53|4290|Tulalip|Tulalip Reservation and Off-Reservation Trust Land
+53|4455|Upper Skagit|Upper Skagit Reservation
+53|4690|Yakama Nation|Yakama Nation Reservation and Off-Reservation Trust Land
+53|8750|Samish|Samish TDSA

@@ -1,0 +1,9 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+30|0305|Blackfeet|Blackfeet Indian Reservation and Off-Reservation Trust Land
+30|0845|Crow|Crow Reservation and Off-Reservation Trust Land
+30|1110|Flathead|Flathead Reservation
+30|1150|Fort Belknap|Fort Belknap Reservation and Off-Reservation Trust Land
+30|1250|Fort Peck|Fort Peck Indian Reservation and Off-Reservation Trust Land
+30|2490|Northern Cheyenne|Northern Cheyenne Indian Reservation and Off-Reservation Trust Land
+30|3205|Rocky Boy's|Rocky Boy's Reservation and Off-Reservation Trust Land
+30|4345|Turtle Mountain|Turtle Mountain Reservation and Off-Reservation Trust Land

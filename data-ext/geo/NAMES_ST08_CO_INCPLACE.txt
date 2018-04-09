@@ -1,0 +1,272 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+08|00760|Aguilar|Aguilar town
+08|00925|Akron|Akron town
+08|01090|Alamosa|Alamosa city
+08|01530|Alma|Alma town
+08|02355|Antonito|Antonito town
+08|03235|Arriba|Arriba town
+08|03455|Arvada|Arvada city
+08|03620|Aspen|Aspen city
+08|03950|Ault|Ault town
+08|04000|Aurora|Aurora city
+08|04110|Avon|Avon town
+08|04935|Basalt|Basalt town
+08|05265|Bayfield|Bayfield town
+08|06090|Bennett|Bennett town
+08|06255|Berthoud|Berthoud town
+08|06530|Bethune|Bethune town
+08|07025|Black Hawk|Black Hawk city
+08|07190|Blanca|Blanca town
+08|07410|Blue River|Blue River town
+08|07571|Bonanza|Bonanza town
+08|07795|Boone|Boone town
+08|07850|Boulder|Boulder city
+08|08070|Bow Mar|Bow Mar town
+08|08345|Branson|Branson town
+08|08400|Breckenridge|Breckenridge town
+08|08675|Brighton|Brighton city
+08|09115|Brookside|Brookside town
+08|09280|Broomfield|Broomfield city
+08|09555|Brush|Brush city
+08|10105|Buena Vista|Buena Vista town
+08|10600|Burlington|Burlington city
+08|11260|Calhan|Calhan town
+08|11645|Campo|Campo town
+08|11810|Cañon City|Cañon City city
+08|12045|Carbondale|Carbondale town
+08|12390|Castle Pines North|Castle Pines North city
+08|12415|Castle Rock|Castle Rock town
+08|12635|Cedaredge|Cedaredge town
+08|12815|Centennial|Centennial city
+08|12855|Center|Center town
+08|12910|Central City|Central City city
+08|13460|Cheraw|Cheraw town
+08|13845|Cherry Hills Village|Cherry Hills Village city
+08|14175|Cheyenne Wells|Cheyenne Wells town
+08|14765|City of Creede|City of Creede town
+08|15330|Coal Creek|Coal Creek town
+08|15550|Cokedale|Cokedale town
+08|15605|Collbran|Collbran town
+08|16000|Colorado Springs|Colorado Springs city
+08|16385|Columbine Valley|Columbine Valley town
+08|16495|Commerce City|Commerce City city
+08|17375|Cortez|Cortez city
+08|17760|Craig|Craig city
+08|17925|Crawford|Crawford town
+08|18310|Crested Butte|Crested Butte town
+08|18420|Crestone|Crestone town
+08|18530|Cripple Creek|Cripple Creek city
+08|18640|Crook|Crook town
+08|18750|Crowley|Crowley town
+08|19080|Dacono|Dacono city
+08|19355|De Beque|De Beque town
+08|19630|Deer Trail|Deer Trail town
+08|19795|Del Norte|Del Norte town
+08|19850|Delta|Delta city
+08|20000|Denver|Denver city
+08|20440|Dillon|Dillon town
+08|20495|Dinosaur|Dinosaur town
+08|20770|Dolores|Dolores town
+08|21265|Dove Creek|Dove Creek town
+08|22035|Durango|Durango city
+08|22145|Eads|Eads town
+08|22200|Eagle|Eagle town
+08|22860|Eaton|Eaton town
+08|23025|Eckley|Eckley town
+08|23135|Edgewater|Edgewater city
+08|23740|Elizabeth|Elizabeth town
+08|24620|Empire|Empire town
+08|24785|Englewood|Englewood city
+08|24950|Erie|Erie town
+08|25115|Estes Park|Estes Park town
+08|25280|Evans|Evans city
+08|25610|Fairplay|Fairplay town
+08|26270|Federal Heights|Federal Heights city
+08|26600|Firestone|Firestone town
+08|26765|Flagler|Flagler town
+08|26875|Fleming|Fleming town
+08|27040|Florence|Florence city
+08|27425|Fort Collins|Fort Collins city
+08|27700|Fort Lupton|Fort Lupton city
+08|27810|Fort Morgan|Fort Morgan city
+08|27865|Fountain|Fountain city
+08|27975|Fowler|Fowler town
+08|28105|Foxfield|Foxfield town
+08|28305|Fraser|Fraser town
+08|28360|Frederick|Frederick town
+08|28690|Frisco|Frisco town
+08|28745|Fruita|Fruita city
+08|29185|Garden City|Garden City town
+08|29680|Genoa|Genoa town
+08|29735|Georgetown|Georgetown town
+08|29955|Gilcrest|Gilcrest town
+08|30340|Glendale|Glendale city
+08|30780|Glenwood Springs|Glenwood Springs city
+08|30835|Golden|Golden city
+08|31550|Granada|Granada town
+08|31605|Granby|Granby town
+08|31660|Grand Junction|Grand Junction city
+08|31715|Grand Lake|Grand Lake town
+08|32155|Greeley|Greeley city
+08|32650|Green Mountain Falls|Green Mountain Falls town
+08|33035|Greenwood Village|Greenwood Village city
+08|33310|Grover|Grover town
+08|33640|Gunnison|Gunnison city
+08|33695|Gypsum|Gypsum town
+08|34520|Hartman|Hartman town
+08|34740|Haswell|Haswell town
+08|34960|Haxtun|Haxtun town
+08|35070|Hayden|Hayden town
+08|36610|Hillrose|Hillrose town
+08|37215|Holly|Holly town
+08|37270|Holyoke|Holyoke city
+08|37380|Hooper|Hooper town
+08|37545|Hotchkiss|Hotchkiss town
+08|37600|Hot Sulphur Springs|Hot Sulphur Springs town
+08|37820|Hudson|Hudson town
+08|37875|Hugo|Hugo town
+08|38370|Idaho Springs|Idaho Springs city
+08|38535|Ignacio|Ignacio town
+08|38590|Iliff|Iliff town
+08|39195|Jamestown|Jamestown town
+08|39855|Johnstown|Johnstown town
+08|39965|Julesburg|Julesburg town
+08|40185|Keenesburg|Keenesburg town
+08|40515|Kersey|Kersey town
+08|40570|Kim|Kim town
+08|40790|Kiowa|Kiowa town
+08|41010|Kit Carson|Kit Carson town
+08|41560|Kremmling|Kremmling town
+08|41835|Lafayette|Lafayette city
+08|42055|La Jara|La Jara town
+08|42110|La Junta|La Junta city
+08|42330|Lake City|Lake City town
+08|42495|Lakeside|Lakeside town
+08|43000|Lakewood|Lakewood city
+08|43110|Lamar|Lamar city
+08|43550|Larkspur|Larkspur town
+08|43605|La Salle|La Salle town
+08|43660|Las Animas|Las Animas city
+08|44100|La Veta|La Veta town
+08|44320|Leadville|Leadville city
+08|44980|Limon|Limon town
+08|45255|Littleton|Littleton city
+08|45530|Lochbuie|Lochbuie town
+08|45695|Log Lane Village|Log Lane Village town
+08|45955|Lone Tree|Lone Tree city
+08|45970|Longmont|Longmont city
+08|46355|Louisville|Louisville city
+08|46465|Loveland|Loveland city
+08|47070|Lyons|Lyons town
+08|48060|Manassa|Manassa town
+08|48115|Mancos|Mancos town
+08|48445|Manitou Springs|Manitou Springs city
+08|48500|Manzanola|Manzanola town
+08|48555|Marble|Marble town
+08|49600|Mead|Mead town
+08|49875|Meeker|Meeker town
+08|50040|Merino|Merino town
+08|50480|Milliken|Milliken town
+08|50920|Minturn|Minturn town
+08|51250|Moffat|Moffat town
+08|51635|Monte Vista|Monte Vista city
+08|51690|Montezuma|Montezuma town
+08|51745|Montrose|Montrose city
+08|51800|Monument|Monument town
+08|52075|Morrison|Morrison town
+08|52350|Mountain View|Mountain View town
+08|52550|Mountain Village|Mountain Village town
+08|52570|Mount Crested Butte|Mount Crested Butte town
+08|53120|Naturita|Naturita town
+08|53175|Nederland|Nederland town
+08|53395|New Castle|New Castle town
+08|54330|Northglenn|Northglenn city
+08|54880|Norwood|Norwood town
+08|54935|Nucla|Nucla town
+08|55045|Nunn|Nunn town
+08|55155|Oak Creek|Oak Creek town
+08|55540|Olathe|Olathe town
+08|55705|Olney Springs|Olney Springs town
+08|55870|Ophir|Ophir town
+08|55980|Orchard City|Orchard City town
+08|56145|Ordway|Ordway town
+08|56365|Otis|Otis town
+08|56420|Ouray|Ouray city
+08|56475|Ovid|Ovid town
+08|56860|Pagosa Springs|Pagosa Springs town
+08|56970|Palisade|Palisade town
+08|57025|Palmer Lake|Palmer Lake town
+08|57245|Paoli|Paoli town
+08|57300|Paonia|Paonia town
+08|57400|Parachute|Parachute town
+08|57630|Parker|Parker town
+08|58235|Peetz|Peetz town
+08|59005|Pierce|Pierce town
+08|59830|Pitkin|Pitkin town
+08|60160|Platteville|Platteville town
+08|60600|Poncha Springs|Poncha Springs town
+08|61315|Pritchett|Pritchett town
+08|62000|Pueblo|Pueblo city
+08|62660|Ramah|Ramah town
+08|62880|Rangely|Rangely town
+08|63045|Raymer (New Raymer)|Raymer (New Raymer) town
+08|63265|Red Cliff|Red Cliff town
+08|64090|Rico|Rico town
+08|64200|Ridgway|Ridgway town
+08|64255|Rifle|Rifle city
+08|64970|Rockvale|Rockvale town
+08|65190|Rocky Ford|Rocky Ford city
+08|65740|Romeo|Romeo town
+08|66895|Rye|Rye town
+08|67005|Saguache|Saguache town
+08|67280|Salida|Salida city
+08|67830|Sanford|Sanford town
+08|68105|San Luis|San Luis town
+08|68655|Sawpit|Sawpit town
+08|68930|Sedgwick|Sedgwick town
+08|69040|Seibert|Seibert town
+08|69150|Severance|Severance town
+08|69645|Sheridan|Sheridan city
+08|69700|Sheridan Lake|Sheridan Lake town
+08|70195|Silt|Silt town
+08|70250|Silver Cliff|Silver Cliff town
+08|70360|Silver Plume|Silver Plume town
+08|70525|Silverthorne|Silverthorne town
+08|70580|Silverton|Silverton town
+08|70635|Simla|Simla town
+08|71755|Snowmass Village|Snowmass Village town
+08|72395|South Fork|South Fork town
+08|73330|Springfield|Springfield town
+08|73715|Starkville|Starkville town
+08|73825|Steamboat Springs|Steamboat Springs city
+08|73935|Sterling|Sterling city
+08|74485|Stratton|Stratton town
+08|74815|Sugar City|Sugar City town
+08|75640|Superior|Superior town
+08|75970|Swink|Swink town
+08|76795|Telluride|Telluride town
+08|77290|Thornton|Thornton city
+08|77510|Timnath|Timnath town
+08|78610|Trinidad|Trinidad city
+08|79270|Two Buttes|Two Buttes town
+08|80040|Vail|Vail town
+08|80865|Victor|Victor city
+08|81030|Vilas|Vilas town
+08|81690|Vona|Vona town
+08|82130|Walden|Walden town
+08|82350|Walsenburg|Walsenburg city
+08|82460|Walsh|Walsh town
+08|82735|Ward|Ward town
+08|83230|Wellington|Wellington town
+08|83450|Westcliffe|Westcliffe town
+08|83835|Westminster|Westminster city
+08|84440|Wheat Ridge|Wheat Ridge city
+08|84770|Wiggins|Wiggins town
+08|85045|Wiley|Wiley town
+08|85155|Williamsburg|Williamsburg town
+08|85485|Windsor|Windsor town
+08|85705|Winter Park|Winter Park town
+08|86090|Woodland Park|Woodland Park city
+08|86310|Wray|Wray city
+08|86475|Yampa|Yampa town
+08|86750|Yuma|Yuma city

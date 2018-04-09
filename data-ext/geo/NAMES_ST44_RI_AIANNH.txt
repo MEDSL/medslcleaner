@@ -1,0 +1,2 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+44|2415|Narragansett|Narragansett Reservation

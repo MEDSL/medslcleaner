@@ -1,0 +1,9 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+37|0990|Eastern Cherokee|Eastern Cherokee Reservation
+37|9635|Coharie|Coharie SDTSA
+37|9745|Haliwa-Saponi|Haliwa-Saponi SDTSA
+37|9815|Lumbee|Lumbee SDTSA
+37|9825|Meherrin|Meherrin SDTSA
+37|9838|Occaneechi-Saponi|Occaneechi-Saponi SDTSA
+37|9865|Sappony|Sappony SDTSA
+37|9970|Waccamaw Siouan|Waccamaw Siouan SDTSA

@@ -1,0 +1,598 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+40|00100|Achille|Achille town
+40|00200|Ada|Ada city
+40|00250|Adair|Adair town
+40|00450|Addington|Addington town
+40|00600|Afton|Afton town
+40|00700|Agra|Agra town
+40|01050|Albion|Albion town
+40|01150|Alderson|Alderson town
+40|01250|Alex|Alex town
+40|01350|Aline|Aline town
+40|01400|Allen|Allen town
+40|01700|Altus|Altus city
+40|01800|Alva|Alva city
+40|01900|Amber|Amber town
+40|01950|Ames|Ames town
+40|02000|Amorita|Amorita town
+40|02050|Anadarko|Anadarko city
+40|02250|Antlers|Antlers city
+40|02300|Apache|Apache town
+40|02500|Arapaho|Arapaho town
+40|02550|Arcadia|Arcadia town
+40|02600|Ardmore|Ardmore city
+40|02650|Arkoma|Arkoma town
+40|02750|Armstrong|Armstrong town
+40|02800|Arnett|Arnett town
+40|03000|Asher|Asher town
+40|03050|Ashland|Ashland town
+40|03300|Atoka|Atoka city
+40|03350|Atwood|Atwood town
+40|03500|Avant|Avant town
+40|04250|Barnsdall|Barnsdall city
+40|04450|Bartlesville|Bartlesville city
+40|04700|Bearden|Bearden town
+40|04750|Beaver|Beaver town
+40|05000|Beggs|Beggs city
+40|05400|Bennington|Bennington town
+40|05550|Bernice|Bernice town
+40|05650|Bessie|Bessie town
+40|05700|Bethany|Bethany city
+40|05800|Bethel Acres|Bethel Acres town
+40|05900|Big Cabin|Big Cabin town
+40|06100|Billings|Billings town
+40|06200|Binger|Binger town
+40|06400|Bixby|Bixby city
+40|06450|Blackburn|Blackburn town
+40|06600|Blackwell|Blackwell city
+40|06650|Blair|Blair town
+40|06700|Blanchard|Blanchard city
+40|06950|Bluejacket|Bluejacket town
+40|07300|Boise City|Boise City city
+40|07350|Bokchito|Bokchito town
+40|07450|Bokoshe|Bokoshe town
+40|07500|Boley|Boley town
+40|07750|Boswell|Boswell town
+40|07950|Bowlegs|Bowlegs town
+40|08150|Boynton|Boynton town
+40|08300|Bradley|Bradley town
+40|08400|Braggs|Braggs town
+40|08450|Braman|Braman town
+40|08550|Bray|Bray town
+40|08600|Breckenridge|Breckenridge town
+40|08725|Bridge Creek|Bridge Creek town
+40|08750|Bridgeport|Bridgeport city
+40|08900|Bristow|Bristow city
+40|09050|Broken Arrow|Broken Arrow city
+40|09100|Broken Bow|Broken Bow city
+40|09150|Bromide|Bromide town
+40|09400|Brooksville|Brooksville town
+40|09850|Buffalo|Buffalo town
+40|09950|Burbank|Burbank town
+40|10050|Burlington|Burlington town
+40|10250|Burns Flat|Burns Flat town
+40|10450|Butler|Butler town
+40|10550|Byars|Byars town
+40|10600|Byng|Byng town
+40|10650|Byron|Byron town
+40|10700|Cache|Cache city
+40|10800|Caddo|Caddo town
+40|10950|Calera|Calera town
+40|11050|Calumet|Calumet town
+40|11100|Calvin|Calvin town
+40|11150|Camargo|Camargo town
+40|11300|Cameron|Cameron town
+40|11450|Canadian|Canadian town
+40|11550|Caney|Caney town
+40|11600|Canton|Canton town
+40|11650|Canute|Canute town
+40|11750|Capron|Capron town
+40|11900|Cardin|Cardin town
+40|12000|Carmen|Carmen town
+40|12050|Carnegie|Carnegie town
+40|12100|Carney|Carney town
+40|12200|Carrier|Carrier town
+40|12300|Carter|Carter town
+40|12650|Cashion|Cashion town
+40|12750|Castle|Castle town
+40|12900|Catoosa|Catoosa city
+40|12960|Cedar Valley|Cedar Valley city
+40|13000|Cement|Cement town
+40|13100|Centrahoma|Centrahoma city
+40|13135|Central High|Central High town
+40|13500|Chandler|Chandler city
+40|13600|Chattanooga|Chattanooga town
+40|13650|Checotah|Checotah city
+40|13700|Chelsea|Chelsea town
+40|13750|Cherokee|Cherokee city
+40|13900|Cheyenne|Cheyenne town
+40|13950|Chickasha|Chickasha city
+40|14200|Choctaw|Choctaw city
+40|14300|Chouteau|Chouteau town
+40|14500|Cimarron City|Cimarron City town
+40|14700|Claremore|Claremore city
+40|14900|Clayton|Clayton town
+40|15050|Clearview|Clearview town
+40|15300|Cleo Springs|Cleo Springs town
+40|15350|Cleveland|Cleveland city
+40|15400|Clinton|Clinton city
+40|15800|Coalgate|Coalgate city
+40|16050|Colbert|Colbert town
+40|16100|Colcord|Colcord town
+40|16200|Cole|Cole town
+40|16350|Collinsville|Collinsville city
+40|16400|Colony|Colony town
+40|16450|Comanche|Comanche city
+40|16500|Commerce|Commerce city
+40|17050|Cooperton|Cooperton town
+40|17100|Copan|Copan town
+40|17300|Corn|Corn town
+40|17350|Cornish|Cornish town
+40|17550|Council Hill|Council Hill town
+40|17700|Covington|Covington town
+40|17800|Coweta|Coweta city
+40|17850|Cowlington|Cowlington town
+40|17950|Coyle|Coyle town
+40|18250|Crescent|Crescent city
+40|18450|Cromwell|Cromwell town
+40|18550|Crowder|Crowder town
+40|18850|Cushing|Cushing city
+40|18950|Custer City|Custer City town
+40|19000|Cyril|Cyril town
+40|19050|Dacoma|Dacoma town
+40|19350|Davenport|Davenport town
+40|19400|Davidson|Davidson town
+40|19450|Davis|Davis city
+40|19650|Deer Creek|Deer Creek town
+40|19850|Delaware|Delaware town
+40|19900|Del City|Del City city
+40|20300|Depew|Depew town
+40|20450|Devol|Devol town
+40|20500|Dewar|Dewar town
+40|20550|Dewey|Dewey city
+40|20650|Dibble|Dibble town
+40|20700|Dickson|Dickson town
+40|20850|Dill City|Dill City town
+40|20900|Disney|Disney town
+40|21200|Dougherty|Dougherty town
+40|21250|Douglas|Douglas town
+40|21350|Dover|Dover town
+40|21700|Drummond|Drummond town
+40|21750|Drumright|Drumright city
+40|21900|Duncan|Duncan city
+40|22050|Durant|Durant city
+40|22200|Dustin|Dustin town
+40|22400|Eakly|Eakly town
+40|22500|Earlsboro|Earlsboro town
+40|22550|East Duke|East Duke town
+40|23200|Edmond|Edmond city
+40|23350|Eldorado|Eldorado town
+40|23450|Elgin|Elgin city
+40|23500|Elk City|Elk City city
+40|23550|Elmer|Elmer town
+40|23600|Elmore City|Elmore City town
+40|23700|El Reno|El Reno city
+40|23900|Empire City|Empire City town
+40|23950|Enid|Enid city
+40|24200|Erick|Erick city
+40|24300|Erin Springs|Erin Springs town
+40|24460|Etowah|Etowah town
+40|24650|Eufaula|Eufaula city
+40|24850|Fairfax|Fairfax town
+40|24900|Fairland|Fairland town
+40|24950|Fairmont|Fairmont town
+40|25000|Fair Oaks|Fair Oaks town
+40|25100|Fairview|Fairview city
+40|25250|Fallis|Fallis town
+40|25400|Fanshawe|Fanshawe town
+40|25450|Fargo|Fargo town
+40|25650|Faxon|Faxon town
+40|26250|Fitzhugh|Fitzhugh town
+40|26350|Fletcher|Fletcher town
+40|26750|Foraker|Foraker town
+40|26850|Forest Park|Forest Park town
+40|26900|Forgan|Forgan town
+40|27100|Fort Cobb|Fort Cobb town
+40|27150|Fort Coffee|Fort Coffee town
+40|27200|Fort Gibson|Fort Gibson town
+40|27350|Fort Supply|Fort Supply town
+40|27400|Fort Towson|Fort Towson town
+40|27450|Foss|Foss town
+40|27500|Foster|Foster town
+40|27600|Foyil|Foyil town
+40|27650|Francis|Francis town
+40|27800|Frederick|Frederick city
+40|27850|Freedom|Freedom town
+40|27900|Friendship|Friendship town
+40|28250|Gage|Gage town
+40|28350|Gans|Gans town
+40|28500|Garber|Garber city
+40|28700|Garvin|Garvin town
+40|28800|Gate|Gate town
+40|28900|Geary|Geary city
+40|28950|Gene Autry|Gene Autry town
+40|29100|Geronimo|Geronimo town
+40|29150|Gerty|Gerty town
+40|29400|Glencoe|Glencoe town
+40|29600|Glenpool|Glenpool city
+40|29850|Goldsby|Goldsby town
+40|29900|Goltry|Goltry town
+40|30200|Goodwell|Goodwell town
+40|30300|Gore|Gore town
+40|30350|Gotebo|Gotebo town
+40|30400|Gould|Gould town
+40|30600|Gracemont|Gracemont town
+40|30750|Grainola|Grainola town
+40|30850|Grandfield|Grandfield city
+40|30900|Grand Lake Towne|Grand Lake Towne town
+40|30950|Granite|Granite town
+40|31150|Grayson|Grayson town
+40|31250|Greenfield|Greenfield town
+40|31600|Grove|Grove city
+40|31700|Guthrie|Guthrie city
+40|31750|Guymon|Guymon city
+40|31900|Haileyville|Haileyville city
+40|32050|Hallett|Hallett town
+40|32250|Hammon|Hammon town
+40|32350|Hanna|Hanna town
+40|32550|Hardesty|Hardesty town
+40|32750|Harrah|Harrah city
+40|32850|Hartshorne|Hartshorne city
+40|32900|Haskell|Haskell town
+40|33000|Hastings|Hastings town
+40|33150|Haworth|Haworth town
+40|33300|Headrick|Headrick town
+40|33350|Healdton|Healdton city
+40|33400|Heavener|Heavener city
+40|33450|Helena|Helena town
+40|33600|Hendrix|Hendrix town
+40|33700|Hennessey|Hennessey town
+40|33750|Henryetta|Henryetta city
+40|34150|Hickory|Hickory town
+40|34650|Hillsdale|Hillsdale town
+40|34750|Hinton|Hinton town
+40|34850|Hitchcock|Hitchcock town
+40|34900|Hitchita|Hitchita town
+40|35000|Hobart|Hobart city
+40|35300|Hoffman|Hoffman town
+40|35400|Holdenville|Holdenville city
+40|35500|Hollis|Hollis city
+40|35550|Hollister|Hollister town
+40|35850|Hominy|Hominy city
+40|36000|Hooker|Hooker city
+40|36020|Hoot Owl|Hoot Owl town
+40|36090|Horntown|Horntown town
+40|36150|Howe|Howe town
+40|36300|Hugo|Hugo city
+40|36400|Hulbert|Hulbert town
+40|36600|Hunter|Hunter town
+40|36700|Hydro|Hydro town
+40|36750|Idabel|Idabel city
+40|36850|Indiahoma|Indiahoma town
+40|36950|Indianola|Indianola town
+40|37100|Inola|Inola town
+40|37410|IXL|IXL town
+40|37650|Jay|Jay city
+40|37750|Jefferson|Jefferson town
+40|37800|Jenks|Jenks city
+40|37850|Jennings|Jennings town
+40|38000|Jet|Jet town
+40|38200|Johnson|Johnson town
+40|38350|Jones|Jones town
+40|38600|Kansas|Kansas town
+40|38700|Katie|Katie town
+40|38800|Kaw City|Kaw City city
+40|39000|Kellyville|Kellyville town
+40|39050|Kemp|Kemp town
+40|39150|Kendrick|Kendrick town
+40|39200|Kenefic|Kenefic town
+40|39500|Keota|Keota town
+40|39550|Ketchum|Ketchum town
+40|39600|Keyes|Keyes town
+40|39750|Kiefer|Kiefer town
+40|39800|Kildare|Kildare town
+40|39850|Kingfisher|Kingfisher city
+40|39900|Kingston|Kingston town
+40|39950|Kinta|Kinta town
+40|40000|Kiowa|Kiowa town
+40|40100|Knowles|Knowles town
+40|40200|Konawa|Konawa city
+40|40300|Krebs|Krebs city
+40|40400|Kremlin|Kremlin town
+40|40700|Lahoma|Lahoma town
+40|40800|Lake Aluma|Lake Aluma town
+40|41250|Lamar|Lamar town
+40|41300|Lambert|Lambert town
+40|41350|Lamont|Lamont town
+40|41500|Langley|Langley town
+40|41550|Langston|Langston town
+40|41700|Laverne|Laverne town
+40|41760|Lawrence Creek|Lawrence Creek town
+40|41850|Lawton|Lawton city
+40|42050|Leedey|Leedey town
+40|42150|Le Flore|Le Flore town
+40|42200|Lehigh|Lehigh city
+40|42300|Lenapah|Lenapah town
+40|42450|Leon|Leon town
+40|42700|Lexington|Lexington city
+40|42860|Liberty|Liberty town
+40|43000|Lima|Lima town
+40|43150|Lindsay|Lindsay city
+40|43450|Loco|Loco town
+40|43500|Locust Grove|Locust Grove town
+40|43750|Lone Grove|Lone Grove city
+40|43850|Lone Wolf|Lone Wolf town
+40|43950|Longdale|Longdale town
+40|44000|Lookeba|Lookeba town
+40|44100|Lotsee|Lotsee town
+40|44150|Loveland|Loveland town
+40|44300|Loyal|Loyal town
+40|44500|Luther|Luther town
+40|44800|McAlester|McAlester city
+40|44950|McCurtain|McCurtain town
+40|45350|McLoud|McLoud town
+40|45500|Macomb|Macomb town
+40|45750|Madill|Madill city
+40|46000|Manchester|Manchester town
+40|46050|Mangum|Mangum city
+40|46150|Manitou|Manitou town
+40|46200|Mannford|Mannford town
+40|46300|Mannsville|Mannsville town
+40|46400|Maramec|Maramec town
+40|46450|Marble City|Marble City town
+40|46500|Marietta|Marietta city
+40|46550|Marland|Marland town
+40|46600|Marlow|Marlow city
+40|46650|Marshall|Marshall town
+40|46700|Martha|Martha town
+40|46900|Maud|Maud city
+40|47000|May|May town
+40|47150|Maysville|Maysville town
+40|47250|Mead|Mead town
+40|47300|Medford|Medford city
+40|47350|Medicine Park|Medicine Park town
+40|47450|Meeker|Meeker town
+40|47750|Meno|Meno town
+40|47800|Meridian|Meridian town
+40|48000|Miami|Miami city
+40|48350|Midwest City|Midwest City city
+40|48400|Milburn|Milburn town
+40|48500|Mill Creek|Mill Creek town
+40|48600|Millerton|Millerton town
+40|48750|Minco|Minco city
+40|49000|Moffett|Moffett town
+40|49200|Moore|Moore city
+40|49250|Mooreland|Mooreland town
+40|49400|Morris|Morris city
+40|49450|Morrison|Morrison town
+40|49550|Mounds|Mounds town
+40|49600|Mountain Park|Mountain Park town
+40|49650|Mountain View|Mountain View town
+40|49850|Muldrow|Muldrow town
+40|49900|Mulhall|Mulhall town
+40|50050|Muskogee|Muskogee city
+40|50100|Mustang|Mustang city
+40|50150|Mutual|Mutual town
+40|50300|Nash|Nash town
+40|51050|New Alluwe|New Alluwe town
+40|51150|Newcastle|Newcastle city
+40|51250|New Cordell|New Cordell city
+40|51300|Newkirk|Newkirk city
+40|51750|New Woodville|New Woodville town
+40|51800|Nichols Hills|Nichols Hills city
+40|51850|Nicoma Park|Nicoma Park city
+40|52100|Ninnekah|Ninnekah town
+40|52150|Noble|Noble city
+40|52450|Norge|Norge town
+40|52500|Norman|Norman city
+40|52600|North Enid|North Enid town
+40|52700|North Miami|North Miami town
+40|52900|Nowata|Nowata city
+40|53210|Oak Grove|Oak Grove town
+40|53400|Oakland|Oakland town
+40|53550|Oaks|Oaks town
+40|53600|Oakwood|Oakwood town
+40|53700|Ochelata|Ochelata town
+40|54000|Oilton|Oilton city
+40|54050|Okarche|Okarche town
+40|54100|Okay|Okay town
+40|54150|Okeene|Okeene town
+40|54200|Okemah|Okemah city
+40|55000|Oklahoma City|Oklahoma City city
+40|55150|Okmulgee|Okmulgee city
+40|55200|Oktaha|Oktaha town
+40|55450|Olustee|Olustee town
+40|55750|Oologah|Oologah town
+40|55850|Optima|Optima town
+40|56050|Orlando|Orlando town
+40|56150|Osage|Osage town
+40|56650|Owasso|Owasso city
+40|56800|Paden|Paden town
+40|56900|Panama|Panama town
+40|57100|Paoli|Paoli town
+40|57150|Paradise Hill|Paradise Hill town
+40|57550|Pauls Valley|Pauls Valley city
+40|57600|Pawhuska|Pawhuska city
+40|57650|Pawnee|Pawnee city
+40|58050|Pensacola|Pensacola town
+40|58100|Peoria|Peoria town
+40|58150|Perkins|Perkins city
+40|58250|Perry|Perry city
+40|58500|Phillips|Phillips town
+40|58550|Picher|Picher city
+40|58700|Piedmont|Piedmont city
+40|59150|Pink|Pink town
+40|59350|Pittsburg|Pittsburg town
+40|59700|Pocasset|Pocasset town
+40|59750|Pocola|Pocola town
+40|59850|Ponca City|Ponca City city
+40|59950|Pond Creek|Pond Creek city
+40|60150|Porter|Porter town
+40|60250|Porum|Porum town
+40|60350|Poteau|Poteau city
+40|60500|Prague|Prague city
+40|60850|Prue|Prue town
+40|61000|Pryor Creek|Pryor Creek city
+40|61150|Purcell|Purcell city
+40|61250|Putnam|Putnam town
+40|61400|Quapaw|Quapaw town
+40|61550|Quinton|Quinton town
+40|61650|Ralston|Ralston town
+40|61700|Ramona|Ramona town
+40|61850|Randlett|Randlett town
+40|61900|Ratliff City|Ratliff City town
+40|61950|Rattan|Rattan town
+40|62000|Ravia|Ravia town
+40|62200|Redbird|Redbird town
+40|62550|Red Oak|Red Oak town
+40|62650|Red Rock|Red Rock town
+40|62900|Renfrow|Renfrow town
+40|62950|Rentiesville|Rentiesville town
+40|63100|Reydon|Reydon town
+40|63350|Ringling|Ringling town
+40|63450|Ringwood|Ringwood town
+40|63500|Ripley|Ripley town
+40|63600|Rock Island|Rock Island town
+40|63700|Rocky|Rocky town
+40|63750|Roff|Roff town
+40|63800|Roland|Roland town
+40|63900|Roosevelt|Roosevelt town
+40|64000|Rosedale|Rosedale town
+40|64050|Rosston|Rosston town
+40|64300|Rush Springs|Rush Springs town
+40|64600|Ryan|Ryan town
+40|64850|St. Louis|St. Louis town
+40|64950|Salina|Salina town
+40|65000|Sallisaw|Sallisaw city
+40|65300|Sand Springs|Sand Springs city
+40|65400|Sapulpa|Sapulpa city
+40|65500|Sasakwa|Sasakwa town
+40|65600|Savanna|Savanna town
+40|65650|Sawyer|Sawyer town
+40|65700|Sayre|Sayre city
+40|65900|Schulter|Schulter town
+40|66250|Seiling|Seiling city
+40|66350|Seminole|Seminole city
+40|66400|Sentinel|Sentinel town
+40|66540|Shady Grove|Shady Grove town
+40|66550|Shady Point|Shady Point town
+40|66600|Shamrock|Shamrock town
+40|66650|Sharon|Sharon town
+40|66750|Shattuck|Shattuck town
+40|66800|Shawnee|Shawnee city
+40|67200|Shidler|Shidler city
+40|67550|Silo|Silo town
+40|67800|Skedee|Skedee town
+40|67850|Skiatook|Skiatook town
+40|67950|Slaughterville|Slaughterville town
+40|68000|Slick|Slick town
+40|68200|Smith Village|Smith Village town
+40|68250|Smithville|Smithville town
+40|68400|Snyder|Snyder city
+40|68500|Soper|Soper town
+40|68600|South Coffeyville|South Coffeyville town
+40|68950|Sparks|Sparks town
+40|69000|Spaulding|Spaulding town
+40|69050|Spavinaw|Spavinaw town
+40|69200|Spencer|Spencer city
+40|69300|Sperry|Sperry town
+40|69350|Spiro|Spiro town
+40|69400|Sportsmen Acres|Sportsmen Acres town
+40|69500|Springer|Springer town
+40|70150|Sterling|Sterling town
+40|70200|Stidham|Stidham town
+40|70250|Stigler|Stigler city
+40|70300|Stillwater|Stillwater city
+40|70350|Stilwell|Stilwell city
+40|70500|Stonewall|Stonewall town
+40|70750|Strang|Strang town
+40|70800|Stratford|Stratford town
+40|70850|Stringtown|Stringtown town
+40|70950|Strong City|Strong City town
+40|71000|Stroud|Stroud city
+40|71050|Stuart|Stuart town
+40|71250|Sugden|Sugden town
+40|71350|Sulphur|Sulphur city
+40|71450|Summit|Summit town
+40|71900|Sweetwater|Sweetwater town
+40|72050|Taft|Taft town
+40|72100|Tahlequah|Tahlequah city
+40|72200|Talala|Talala town
+40|72250|Talihina|Talihina town
+40|72350|Taloga|Taloga town
+40|72400|Tamaha|Tamaha town
+40|72500|Tatums|Tatums town
+40|72650|Tecumseh|Tecumseh city
+40|72750|Temple|Temple town
+40|72850|Terlton|Terlton town
+40|72900|Terral|Terral town
+40|73100|Texhoma|Texhoma town
+40|73150|Texola|Texola town
+40|73200|Thackerville|Thackerville town
+40|73250|The Village|The Village city
+40|73450|Thomas|Thomas city
+40|73850|Tipton|Tipton town
+40|73900|Tishomingo|Tishomingo city
+40|74150|Tonkawa|Tonkawa city
+40|74400|Tribbey|Tribbey town
+40|74550|Tryon|Tryon town
+40|74650|Tullahassee|Tullahassee town
+40|75000|Tulsa|Tulsa city
+40|75050|Tupelo|Tupelo city
+40|75250|Tushka|Tushka town
+40|75450|Tuttle|Tuttle city
+40|75750|Tyrone|Tyrone town
+40|75950|Union City|Union City town
+40|76500|Valley Brook|Valley Brook town
+40|76600|Valley Park|Valley Park town
+40|76650|Valliant|Valliant town
+40|76900|Velma|Velma town
+40|76950|Vera|Vera town
+40|77000|Verden|Verden town
+40|77050|Verdigris|Verdigris town
+40|77250|Vian|Vian town
+40|77300|Vici|Vici town
+40|77550|Vinita|Vinita city
+40|77850|Wagoner|Wagoner city
+40|77900|Wainwright|Wainwright town
+40|77950|Wakita|Wakita town
+40|78150|Walters|Walters city
+40|78200|Wanette|Wanette town
+40|78250|Wann|Wann town
+40|78300|Wapanucka|Wapanucka town
+40|78400|Warner|Warner town
+40|78500|Warr Acres|Warr Acres city
+40|78650|Warwick|Warwick town
+40|78700|Washington|Washington town
+40|78950|Watonga|Watonga city
+40|79100|Watts|Watts town
+40|79200|Waukomis|Waukomis town
+40|79250|Waurika|Waurika city
+40|79300|Wayne|Wayne town
+40|79350|Waynoka|Waynoka city
+40|79450|Weatherford|Weatherford city
+40|79600|Webb City|Webb City town
+40|79650|Webbers Falls|Webbers Falls town
+40|79750|Welch|Welch town
+40|79800|Weleetka|Weleetka town
+40|79900|Wellston|Wellston town
+40|80250|Westport|Westport town
+40|80350|West Siloam Springs|West Siloam Springs town
+40|80450|Westville|Westville town
+40|80500|Wetumka|Wetumka city
+40|80550|Wewoka|Wewoka city
+40|80800|Whitefield|Whitefield town
+40|81000|Wilburton|Wilburton city
+40|81300|Willow|Willow town
+40|81500|Wilson|Wilson city
+40|81575|Winchester|Winchester town
+40|81750|Wister|Wister town
+40|82000|Woodlawn Park|Woodlawn Park town
+40|82150|Woodward|Woodward city
+40|82200|Wright City|Wright City town
+40|82250|Wyandotte|Wyandotte town
+40|82400|Wynnewood|Wynnewood city
+40|82450|Wynona|Wynona town
+40|82500|Yale|Yale city
+40|82650|Yeager|Yeager town
+40|82950|Yukon|Yukon city

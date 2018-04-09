@@ -1,0 +1,628 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+20|00100|Abbyville|Abbyville city
+20|00125|Abilene|Abilene city
+20|00325|Admire|Admire city
+20|00475|Agenda|Agenda city
+20|00550|Agra|Agra city
+20|00825|Albert|Albert city
+20|00950|Alden|Alden city
+20|01050|Alexander|Alexander city
+20|01275|Allen|Allen city
+20|01350|Alma|Alma city
+20|01425|Almena|Almena city
+20|01550|Altamont|Altamont city
+20|01575|Alta Vista|Alta Vista city
+20|01600|Alton|Alton city
+20|01625|Altoona|Altoona city
+20|01675|Americus|Americus city
+20|01775|Andale|Andale city
+20|01800|Andover|Andover city
+20|01975|Anthony|Anthony city
+20|02175|Arcadia|Arcadia city
+20|02250|Argonia|Argonia city
+20|02300|Arkansas City|Arkansas City city
+20|02325|Arlington|Arlington city
+20|02375|Arma|Arma city
+20|02675|Ashland|Ashland city
+20|02850|Assaria|Assaria city
+20|02900|Atchison|Atchison city
+20|03025|Athol|Athol city
+20|03050|Atlanta|Atlanta city
+20|03100|Attica|Attica city
+20|03150|Atwood|Atwood city
+20|03250|Auburn|Auburn city
+20|03300|Augusta|Augusta city
+20|03425|Aurora|Aurora city
+20|03600|Axtell|Axtell city
+20|03900|Baldwin City|Baldwin City city
+20|04225|Barnard|Barnard city
+20|04250|Barnes|Barnes city
+20|04350|Bartlett|Bartlett city
+20|04400|Basehor|Basehor city
+20|04450|Bassett|Bassett city
+20|04625|Baxter Springs|Baxter Springs city
+20|04775|Bazine|Bazine city
+20|04900|Beattie|Beattie city
+20|05337|Bel Aire|Bel Aire city
+20|05500|Belle Plaine|Belle Plaine city
+20|05600|Belleville|Belleville city
+20|05775|Beloit|Beloit city
+20|05825|Belpre|Belpre city
+20|05925|Belvue|Belvue city
+20|06000|Benedict|Benedict city
+20|06075|Bennington|Bennington city
+20|06125|Bentley|Bentley city
+20|06175|Benton|Benton city
+20|06275|Bern|Bern city
+20|06500|Beverly|Beverly city
+20|06825|Bird City|Bird City city
+20|06950|Bison|Bison city
+20|07600|Blue Mound|Blue Mound city
+20|07650|Blue Rapids|Blue Rapids city
+20|07775|Bluff City|Bluff City city
+20|07825|Bogue|Bogue city
+20|07975|Bonner Springs|Bonner Springs city
+20|08425|Brewster|Brewster city
+20|08475|Bronson|Bronson city
+20|08575|Brookville|Brookville city
+20|08675|Brownell|Brownell city
+20|09000|Bucklin|Bucklin city
+20|09150|Buffalo|Buffalo city
+20|09200|Buhler|Buhler city
+20|09225|Bunker Hill|Bunker Hill city
+20|09250|Burden|Burden city
+20|09275|Burdett|Burdett city
+20|09350|Burlingame|Burlingame city
+20|09400|Burlington|Burlington city
+20|09450|Burns|Burns city
+20|09525|Burr Oak|Burr Oak city
+20|09575|Burrton|Burrton city
+20|09675|Bushong|Bushong city
+20|09700|Bushton|Bushton city
+20|09800|Byers|Byers city
+20|09900|Caldwell|Caldwell city
+20|10125|Cambridge|Cambridge city
+20|10375|Caney|Caney city
+20|10475|Canton|Canton city
+20|10600|Carbondale|Carbondale city
+20|10675|Carlton|Carlton city
+20|10925|Cassoday|Cassoday city
+20|11175|Cawker City|Cawker City city
+20|11325|Cedar|Cedar city
+20|11425|Cedar Point|Cedar Point city
+20|11450|Cedar Vale|Cedar Vale city
+20|12425|Centralia|Centralia city
+20|12500|Chanute|Chanute city
+20|12550|Chapman|Chapman city
+20|12650|Chase|Chase city
+20|12675|Chautauqua|Chautauqua city
+20|12775|Cheney|Cheney city
+20|12825|Cherokee|Cherokee city
+20|12925|Cherryvale|Cherryvale city
+20|12950|Chetopa|Chetopa city
+20|13275|Cimarron|Cimarron city
+20|13375|Circleville|Circleville city
+20|13425|Claflin|Claflin city
+20|13625|Clay Center|Clay Center city
+20|13675|Clayton|Clayton city
+20|13925|Clearwater|Clearwater city
+20|14200|Clifton|Clifton city
+20|14275|Climax|Climax city
+20|14475|Clyde|Clyde city
+20|14525|Coats|Coats city
+20|14600|Coffeyville|Coffeyville city
+20|14650|Colby|Colby city
+20|14700|Coldwater|Coldwater city
+20|14900|Collyer|Collyer city
+20|14950|Colony|Colony city
+20|15075|Columbus|Columbus city
+20|15100|Colwich|Colwich city
+20|15200|Concordia|Concordia city
+20|15325|Conway Springs|Conway Springs city
+20|15400|Coolidge|Coolidge city
+20|15475|Copeland|Copeland city
+20|15725|Corning|Corning city
+20|15900|Cottonwood Falls|Cottonwood Falls city
+20|15925|Council Grove|Council Grove city
+20|16025|Courtland|Courtland city
+20|16150|Coyville|Coyville city
+20|16625|Cuba|Cuba city
+20|16675|Cullison|Cullison city
+20|16700|Culver|Culver city
+20|16775|Cunningham|Cunningham city
+20|16975|Damar|Damar city
+20|17000|Danville|Danville city
+20|17150|Dearing|Dearing city
+20|17225|Deerfield|Deerfield city
+20|17525|Delia|Delia city
+20|17600|Delphos|Delphos city
+20|17625|Denison|Denison city
+20|17750|Denton|Denton city
+20|17800|Derby|Derby city
+20|17850|De Soto|De Soto city
+20|17925|Dexter|Dexter city
+20|18050|Dighton|Dighton city
+20|18250|Dodge City|Dodge City city
+20|18325|Dorrance|Dorrance city
+20|18400|Douglass|Douglass city
+20|18500|Downs|Downs city
+20|18600|Dresden|Dresden city
+20|18950|Dunlap|Dunlap city
+20|19050|Durham|Durham city
+20|19125|Dwight|Dwight city
+20|19275|Earlton|Earlton city
+20|19300|Eastborough|Eastborough city
+20|19600|Easton|Easton city
+20|19825|Edgerton|Edgerton city
+20|19875|Edmond|Edmond city
+20|19900|Edna|Edna city
+20|20000|Edwardsville|Edwardsville city
+20|20025|Effingham|Effingham city
+20|20050|Elbing|Elbing city
+20|20075|El Dorado|El Dorado city
+20|20125|Elgin|Elgin city
+20|20250|Elk City|Elk City city
+20|20300|Elk Falls|Elk Falls city
+20|20350|Elkhart|Elkhart city
+20|20425|Ellinwood|Ellinwood city
+20|20450|Ellis|Ellis city
+20|20500|Ellsworth|Ellsworth city
+20|20675|Elmdale|Elmdale city
+20|20875|Elsmore|Elsmore city
+20|20950|Elwood|Elwood city
+20|21100|Emmett|Emmett city
+20|21275|Emporia|Emporia city
+20|21350|Englewood|Englewood city
+20|21400|Ensign|Ensign city
+20|21425|Enterprise|Enterprise city
+20|21500|Erie|Erie city
+20|21600|Esbon|Esbon city
+20|21650|Eskridge|Eskridge city
+20|21675|Eudora|Eudora city
+20|21800|Eureka|Eureka city
+20|22025|Everest|Everest city
+20|22425|Fairview|Fairview city
+20|22700|Fairway|Fairway city
+20|22775|Fall River|Fall River city
+20|23600|Florence|Florence city
+20|23650|Fontana|Fontana city
+20|23725|Ford|Ford city
+20|23825|Formoso|Formoso city
+20|24000|Fort Scott|Fort Scott city
+20|24175|Fowler|Fowler city
+20|24275|Frankfort|Frankfort city
+20|24550|Frederick|Frederick city
+20|24575|Fredonia|Fredonia city
+20|24725|Freeport|Freeport city
+20|24850|Frontenac|Frontenac city
+20|24925|Fulton|Fulton city
+20|25050|Galatia|Galatia city
+20|25100|Galena|Galena city
+20|25150|Galesburg|Galesburg city
+20|25200|Galva|Galva city
+20|25325|Garden City|Garden City city
+20|25375|Garden Plain|Garden Plain city
+20|25425|Gardner|Gardner city
+20|25750|Garfield|Garfield city
+20|25925|Garnett|Garnett city
+20|25975|Gas|Gas city
+20|26000|Gaylord|Gaylord city
+20|26050|Gem|Gem city
+20|26075|Geneseo|Geneseo city
+20|26200|Geuda Springs|Geuda Springs city
+20|26300|Girard|Girard city
+20|26325|Glade|Glade city
+20|26375|Glasco|Glasco city
+20|26500|Glen Elder|Glen Elder city
+20|26725|Goddard|Goddard city
+20|26750|Goessel|Goessel city
+20|26775|Goff|Goff city
+20|26875|Goodland|Goodland city
+20|27000|Gorham|Gorham city
+20|27125|Gove City|Gove City city
+20|27200|Grainfield|Grainfield city
+20|27425|Grandview Plaza|Grandview Plaza city
+20|28300|Great Bend|Great Bend city
+20|28350|Greeley|Greeley city
+20|28425|Green|Green city
+20|28625|Greenleaf|Greenleaf city
+20|28675|Greensburg|Greensburg city
+20|28800|Grenola|Grenola city
+20|28850|Gridley|Gridley city
+20|28900|Grinnell|Grinnell city
+20|29250|Gypsum|Gypsum city
+20|29400|Haddam|Haddam city
+20|29600|Halstead|Halstead city
+20|29675|Hamilton|Hamilton city
+20|29700|Hamlin|Hamlin city
+20|29875|Hanover|Hanover city
+20|29925|Hanston|Hanston city
+20|30000|Hardtner|Hardtner city
+20|30175|Harper|Harper city
+20|30475|Hartford|Hartford city
+20|30575|Harveyville|Harveyville city
+20|30700|Havana|Havana city
+20|30725|Haven|Haven city
+20|30775|Havensville|Havensville city
+20|30825|Haviland|Haviland city
+20|31100|Hays|Hays city
+20|31125|Haysville|Haysville city
+20|31150|Hazelton|Hazelton city
+20|31375|Hepler|Hepler city
+20|31400|Herington|Herington city
+20|31475|Herndon|Herndon city
+20|31600|Hesston|Hesston city
+20|31675|Hiawatha|Hiawatha city
+20|31850|Highland|Highland city
+20|32175|Hill City|Hill City city
+20|32275|Hillsboro|Hillsboro city
+20|32550|Hoisington|Hoisington city
+20|32575|Holcomb|Holcomb city
+20|32650|Hollenberg|Hollenberg city
+20|32825|Holton|Holton city
+20|32850|Holyrood|Holyrood city
+20|33075|Hope|Hope city
+20|33150|Horace|Horace city
+20|33200|Horton|Horton city
+20|33250|Howard|Howard city
+20|33350|Hoxie|Hoxie city
+20|33375|Hoyt|Hoyt city
+20|33400|Hudson|Hudson city
+20|33425|Hugoton|Hugoton city
+20|33450|Humboldt|Humboldt city
+20|33500|Hunnewell|Hunnewell city
+20|33525|Hunter|Hunter city
+20|33575|Huron|Huron city
+20|33625|Hutchinson|Hutchinson city
+20|33875|Independence|Independence city
+20|34225|Ingalls|Ingalls city
+20|34275|Inman|Inman city
+20|34300|Iola|Iola city
+20|34550|Isabel|Isabel city
+20|34625|Iuka|Iuka city
+20|34975|Jamestown|Jamestown city
+20|35375|Jennings|Jennings city
+20|35450|Jetmore|Jetmore city
+20|35475|Jewell|Jewell city
+20|35600|Johnson City|Johnson City city
+20|35750|Junction City|Junction City city
+20|35950|Kanopolis|Kanopolis city
+20|35975|Kanorado|Kanorado city
+20|36000|Kansas City|Kansas City city
+20|36225|Kechi|Kechi city
+20|36550|Kensington|Kensington city
+20|36875|Kincaid|Kincaid city
+20|36950|Kingman|Kingman city
+20|37075|Kinsley|Kinsley city
+20|37125|Kiowa|Kiowa city
+20|37275|Kirwin|Kirwin city
+20|37325|Kismet|Kismet city
+20|37375|Labette|Labette city
+20|37500|La Crosse|La Crosse city
+20|37575|La Cygne|La Cygne city
+20|37725|La Harpe|La Harpe city
+20|37975|Lake Quivira|Lake Quivira city
+20|38175|Lakin|Lakin city
+20|38325|Lancaster|Lancaster city
+20|38400|Lane|Lane city
+20|38500|Langdon|Langdon city
+20|38650|Lansing|Lansing city
+20|38700|Larned|Larned city
+20|38775|Latham|Latham city
+20|38800|Latimer|Latimer city
+20|38900|Lawrence|Lawrence city
+20|39000|Leavenworth|Leavenworth city
+20|39075|Leawood|Leawood city
+20|39100|Lebanon|Lebanon city
+20|39125|Lebo|Lebo city
+20|39150|Lecompton|Lecompton city
+20|39225|Lehigh|Lehigh city
+20|39350|Lenexa|Lenexa city
+20|39400|Lenora|Lenora city
+20|39450|Leon|Leon city
+20|39475|Leona|Leona city
+20|39500|Leonardville|Leonardville city
+20|39550|Leoti|Leoti city
+20|39650|LeRoy|LeRoy city
+20|39725|Lewis|Lewis city
+20|39825|Liberal|Liberal city
+20|40250|Liberty|Liberty city
+20|40400|Liebenthal|Liebenthal city
+20|41300|Lincoln Center|Lincoln Center city
+20|41325|Lincolnville|Lincolnville city
+20|41375|Lindsborg|Lindsborg city
+20|41425|Linn|Linn city
+20|41465|Linn Valley|Linn Valley city
+20|41475|Linwood|Linwood city
+20|41575|Little River|Little River city
+20|42100|Logan|Logan city
+20|42425|Lone Elm|Lone Elm city
+20|42575|Longford|Longford city
+20|42600|Long Island|Long Island city
+20|42650|Longton|Longton city
+20|42800|Lorraine|Lorraine city
+20|42825|Lost Springs|Lost Springs city
+20|42875|Louisburg|Louisburg city
+20|42925|Louisville|Louisville city
+20|43150|Lucas|Lucas city
+20|43250|Luray|Luray city
+20|43350|Lyndon|Lyndon city
+20|43525|Lyons|Lyons city
+20|43700|McCracken|McCracken city
+20|43725|McCune|McCune city
+20|43750|McDonald|McDonald city
+20|43775|McFarland|McFarland city
+20|43850|Macksville|Macksville city
+20|43900|McLouth|McLouth city
+20|43950|McPherson|McPherson city
+20|44050|Madison|Madison city
+20|44150|Mahaska|Mahaska city
+20|44200|Maize|Maize city
+20|44225|Manchester|Manchester city
+20|44250|Manhattan|Manhattan city
+20|44300|Mankato|Mankato city
+20|44375|Manter|Manter city
+20|44500|Maple Hill|Maple Hill city
+20|44550|Mapleton|Mapleton city
+20|44750|Marion|Marion city
+20|44925|Marquette|Marquette city
+20|45050|Marysville|Marysville city
+20|45150|Matfield Green|Matfield Green city
+20|45250|Mayetta|Mayetta city
+20|45275|Mayfield|Mayfield city
+20|45325|Meade|Meade city
+20|45500|Medicine Lodge|Medicine Lodge city
+20|45700|Melvern|Melvern city
+20|45750|Menlo|Menlo city
+20|45950|Meriden|Meriden city
+20|46000|Merriam|Merriam city
+20|46450|Milan|Milan city
+20|46500|Mildred|Mildred city
+20|46525|Milford|Milford city
+20|46950|Miltonvale|Miltonvale city
+20|47075|Minneapolis|Minneapolis city
+20|47150|Minneola|Minneola city
+20|47225|Mission|Mission city
+20|47350|Mission Hills|Mission Hills city
+20|47425|Mission Woods|Mission Woods city
+20|47600|Moline|Moline city
+20|47875|Montezuma|Montezuma city
+20|48125|Moran|Moran city
+20|48225|Morganville|Morganville city
+20|48275|Morland|Morland city
+20|48300|Morrill|Morrill city
+20|48450|Morrowville|Morrowville city
+20|48600|Moscow|Moscow city
+20|48750|Mound City|Mound City city
+20|48800|Moundridge|Moundridge city
+20|48825|Mound Valley|Mound Valley city
+20|48900|Mount Hope|Mount Hope city
+20|49025|Mulberry|Mulberry city
+20|49075|Mullinville|Mullinville city
+20|49100|Mulvane|Mulvane city
+20|49150|Munden|Munden city
+20|49325|Muscotah|Muscotah city
+20|49350|Narka|Narka city
+20|49400|Nashville|Nashville city
+20|49425|Natoma|Natoma city
+20|49650|Neodesha|Neodesha city
+20|49825|Neosho Falls|Neosho Falls city
+20|49875|Neosho Rapids|Neosho Rapids city
+20|49925|Ness City|Ness City city
+20|49950|Netawaka|Netawaka city
+20|50150|New Albany|New Albany city
+20|50300|New Cambria|New Cambria city
+20|50450|New Strawn|New Strawn city
+20|50475|Newton|Newton city
+20|50525|Nickerson|Nickerson city
+20|50750|Niotaze|Niotaze city
+20|50925|Norcatur|Norcatur city
+20|51225|North Newton|North Newton city
+20|51500|Norton|Norton city
+20|51525|Nortonville|Nortonville city
+20|51600|Norwich|Norwich city
+20|51700|Oak Hill|Oak Hill city
+20|51825|Oakley|Oakley city
+20|52000|Oberlin|Oberlin city
+20|52200|Offerle|Offerle city
+20|52275|Ogden|Ogden city
+20|52525|Oketo|Oketo city
+20|52575|Olathe|Olathe city
+20|52700|Olivet|Olivet city
+20|52750|Olmitz|Olmitz city
+20|52800|Olpe|Olpe city
+20|52825|Olsburg|Olsburg city
+20|52875|Onaga|Onaga city
+20|52900|Oneida|Oneida city
+20|53200|Osage City|Osage City city
+20|53225|Osawatomie|Osawatomie city
+20|53325|Osborne|Osborne city
+20|53375|Oskaloosa|Oskaloosa city
+20|53450|Oswego|Oswego city
+20|53525|Otis|Otis city
+20|53550|Ottawa|Ottawa city
+20|53725|Overbrook|Overbrook city
+20|53775|Overland Park|Overland Park city
+20|53850|Oxford|Oxford city
+20|53925|Ozawkie|Ozawkie city
+20|54125|Palco|Palco city
+20|54200|Palmer|Palmer city
+20|54250|Paola|Paola city
+20|54325|Paradise|Paradise city
+20|54400|Park|Park city
+20|54450|Park City|Park City city
+20|54500|Parker|Parker city
+20|54560|Parkerfield|Parkerfield city
+20|54575|Parkerville|Parkerville city
+20|54675|Parsons|Parsons city
+20|54700|Partridge|Partridge city
+20|54875|Pawnee Rock|Pawnee Rock city
+20|54950|Paxico|Paxico city
+20|55100|Peabody|Peabody city
+20|55225|Penalosa|Penalosa city
+20|55450|Perry|Perry city
+20|55525|Peru|Peru city
+20|55675|Phillipsburg|Phillipsburg city
+20|56025|Pittsburg|Pittsburg city
+20|56100|Plains|Plains city
+20|56150|Plainville|Plainville city
+20|56450|Pleasanton|Pleasanton city
+20|56725|Plevna|Plevna city
+20|57000|Pomona|Pomona city
+20|57100|Portis|Portis city
+20|57300|Potwin|Potwin city
+20|57350|Powhattan|Powhattan city
+20|57525|Prairie View|Prairie View city
+20|57575|Prairie Village|Prairie Village city
+20|57625|Pratt|Pratt city
+20|57650|Prescott|Prescott city
+20|57675|Preston|Preston city
+20|57700|Pretty Prairie|Pretty Prairie city
+20|57725|Princeton|Princeton city
+20|57850|Protection|Protection city
+20|58100|Quenemo|Quenemo city
+20|58250|Quinter|Quinter city
+20|58300|Radium|Radium city
+20|58375|Ramona|Ramona city
+20|58450|Randall|Randall city
+20|58475|Randolph|Randolph city
+20|58500|Ransom|Ransom city
+20|58525|Rantoul|Rantoul city
+20|58550|Raymond|Raymond city
+20|58600|Reading|Reading city
+20|58725|Redfield|Redfield city
+20|59000|Republic|Republic city
+20|59050|Reserve|Reserve city
+20|59125|Rexford|Rexford city
+20|59200|Richfield|Richfield city
+20|59675|Richmond|Richmond city
+20|59875|Riley|Riley city
+20|60325|Robinson|Robinson city
+20|60825|Roeland Park|Roeland Park city
+20|60900|Rolla|Rolla city
+20|61250|Rose Hill|Rose Hill city
+20|61275|Roseland|Roseland city
+20|61400|Rossville|Rossville city
+20|61600|Rozel|Rozel city
+20|61775|Rush Center|Rush Center city
+20|61825|Russell|Russell city
+20|61875|Russell Springs|Russell Springs city
+20|62025|Sabetha|Sabetha city
+20|62175|St. Francis|St. Francis city
+20|62200|St. George|St. George city
+20|62275|St. John|St. John city
+20|62400|St. Marys|St. Marys city
+20|62500|St. Paul|St. Paul city
+20|62700|Salina|Salina city
+20|63150|Satanta|Satanta city
+20|63200|Savonburg|Savonburg city
+20|63275|Sawyer|Sawyer city
+20|63325|Scammon|Scammon city
+20|63350|Scandia|Scandia city
+20|63425|Schoenchen|Schoenchen city
+20|63600|Scott City|Scott City city
+20|63650|Scottsville|Scottsville city
+20|63675|Scranton|Scranton city
+20|63750|Sedan|Sedan city
+20|63800|Sedgwick|Sedgwick city
+20|63875|Selden|Selden city
+20|63950|Seneca|Seneca city
+20|64025|Severance|Severance city
+20|64050|Severy|Severy city
+20|64100|Seward|Seward city
+20|64325|Sharon|Sharon city
+20|64375|Sharon Springs|Sharon Springs city
+20|64500|Shawnee|Shawnee city
+20|65600|Silver Lake|Silver Lake city
+20|65650|Simpson|Simpson city
+20|65925|Smith Center|Smith Center city
+20|66100|Smolan|Smolan city
+20|66175|Soldier|Soldier city
+20|66275|Solomon|Solomon city
+20|66650|South Haven|South Haven city
+20|66750|South Hutchinson|South Hutchinson city
+20|67125|Spearville|Spearville city
+20|67175|Speed|Speed city
+20|67250|Spivey|Spivey city
+20|67625|Spring Hill|Spring Hill city
+20|67775|Stafford|Stafford city
+20|68025|Stark|Stark city
+20|68200|Sterling|Sterling city
+20|68350|Stockton|Stockton city
+20|68650|Strong City|Strong City city
+20|68775|Sublette|Sublette city
+20|68950|Summerfield|Summerfield city
+20|69275|Sun City|Sun City city
+20|69525|Susank|Susank city
+20|69775|Sylvan Grove|Sylvan Grove city
+20|69800|Sylvia|Sylvia city
+20|69850|Syracuse|Syracuse city
+20|70000|Tampa|Tampa city
+20|70250|Tescott|Tescott city
+20|70300|Thayer|Thayer city
+20|70625|Timken|Timken city
+20|70675|Tipton|Tipton city
+20|70800|Tonganoxie|Tonganoxie city
+20|71000|Topeka|Topeka city
+20|71050|Toronto|Toronto city
+20|71125|Towanda|Towanda city
+20|71350|Treece|Treece city
+20|71450|Tribune|Tribune city
+20|71575|Troy|Troy city
+20|71800|Turon|Turon city
+20|71925|Tyro|Tyro city
+20|71950|Udall|Udall city
+20|71975|Ulysses|Ulysses city
+20|72525|Uniontown|Uniontown city
+20|72650|Utica|Utica city
+20|73250|Valley Center|Valley Center city
+20|73300|Valley Falls|Valley Falls city
+20|73525|Vermillion|Vermillion city
+20|73775|Victoria|Victoria city
+20|73950|Vining|Vining city
+20|74025|Viola|Viola city
+20|74075|Virgil|Virgil city
+20|74450|WaKeeney|WaKeeney city
+20|74525|Wakefield|Wakefield city
+20|74575|Waldo|Waldo city
+20|74625|Waldron|Waldron city
+20|74750|Wallace|Wallace city
+20|74950|Walnut|Walnut city
+20|75200|Walton|Walton city
+20|75325|Wamego|Wamego city
+20|75825|Washington|Washington city
+20|75950|Waterville|Waterville city
+20|76000|Wathena|Wathena city
+20|76050|Waverly|Waverly city
+20|76250|Webber|Webber city
+20|76350|Weir|Weir city
+20|76475|Wellington|Wellington city
+20|76625|Wellsville|Wellsville city
+20|77150|West Mineral|West Mineral city
+20|77200|Westmoreland|Westmoreland city
+20|77250|Westphalia|Westphalia city
+20|77500|Westwood|Westwood city
+20|77525|Westwood Hills|Westwood Hills city
+20|77550|Wetmore|Wetmore city
+20|77700|Wheaton|Wheaton city
+20|77825|White City|White City city
+20|77850|White Cloud|White Cloud city
+20|78050|Whitewater|Whitewater city
+20|78100|Whiting|Whiting city
+20|79000|Wichita|Wichita city
+20|79250|Willard|Willard city
+20|79300|Williamsburg|Williamsburg city
+20|79400|Willis|Willis city
+20|79425|Willowbrook|Willowbrook city
+20|79550|Wilmore|Wilmore city
+20|79650|Wilsey|Wilsey city
+20|79675|Wilson|Wilson city
+20|79800|Winchester|Winchester city
+20|79850|Windom|Windom city
+20|79950|Winfield|Winfield city
+20|80075|Winona|Winona city
+20|80350|Woodbine|Woodbine city
+20|80450|Woodston|Woodston city
+20|80700|Yates Center|Yates Center city
+20|80925|Zenda|Zenda city
+20|81025|Zurich|Zurich city

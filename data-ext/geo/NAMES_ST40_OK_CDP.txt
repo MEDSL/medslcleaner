@@ -1,0 +1,137 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+40|00900|Akins|Akins CDP
+40|00950|Albany|Albany CDP
+40|02900|Arpelar|Arpelar CDP
+40|03815|Badger Lee|Badger Lee CDP
+40|04075|Ballou|Ballou CDP
+40|04950|Bee|Bee CDP
+40|05070|Belfonte|Belfonte CDP
+40|05090|Bell|Bell CDP
+40|06350|Bison|Bison CDP
+40|06500|Blackgum|Blackgum CDP
+40|06900|Blue|Blue CDP
+40|08050|Box|Box CDP
+40|08650|Brent|Brent CDP
+40|08775|Briggs|Briggs CDP
+40|09612|Brush Creek|Brush Creek CDP
+40|09650|Brushy|Brushy CDP
+40|09887|Bull Hollow|Bull Hollow CDP
+40|10400|Bushyhead|Bushyhead CDP
+40|10460|Butler|Butler CDP
+40|11975|Carlisle|Carlisle CDP
+40|12550|Cartwright|Cartwright CDP
+40|12915|Cayuga|Cayuga CDP
+40|12930|Cedar Crest|Cedar Crest CDP
+40|13775|Cherry Tree|Cherry Tree CDP
+40|13800|Chester|Chester CDP
+40|13850|Chewey|Chewey CDP
+40|14350|Christie|Christie CDP
+40|15250|Cleora|Cleora CDP
+40|15625|Cloud Creek|Cloud Creek CDP
+40|17110|Copeland|Copeland CDP
+40|19150|Dale|Dale CDP
+40|19665|Deer Lick|Deer Lick CDP
+40|20100|Dennis|Dennis CDP
+40|21020|Dodge|Dodge CDP
+40|21150|Dotyville|Dotyville CDP
+40|21672|Dripping Springs|Dripping Springs CDP
+40|21676|Drowning Creek|Drowning Creek CDP
+40|21755|Dry Creek|Dry Creek CDP
+40|21760|Duchess Landing|Duchess Landing CDP
+40|22275|Dwight Mission|Dwight Mission CDP
+40|22350|Eagletown|Eagletown CDP
+40|23300|Eldon|Eldon CDP
+40|23575|Elm Grove|Elm Grove CDP
+40|24762|Evening Shade|Evening Shade CDP
+40|24875|Fairfield|Fairfield CDP
+40|25850|Felt|Felt CDP
+40|26415|Flint Creek|Flint Creek CDP
+40|26525|Flute Springs|Flute Springs CDP
+40|29300|Gideon|Gideon CDP
+40|30915|Grandview|Grandview CDP
+40|31000|Grant|Grant CDP
+40|31165|Greasy|Greasy CDP
+40|31425|Gregory|Gregory CDP
+40|36945|Indianola|Indianola CDP
+40|37275|Iron Post|Iron Post CDP
+40|37350|Isabella|Isabella CDP
+40|38475|Justice|Justice CDP
+40|39400|Kenton|Kenton CDP
+40|39450|Kenwood|Kenwood CDP
+40|39625|Keys|Keys CDP
+40|41400|Lane|Lane CDP
+40|41900|Leach|Leach CDP
+40|41950|Lebanon|Lebanon CDP
+40|42855|Liberty|Liberty CDP
+40|43057|Limestone|Limestone CDP
+40|43900|Long|Long CDP
+40|43975|Longtown|Longtown CDP
+40|44075|Lost City|Lost City CDP
+40|44350|Lucien|Lucien CDP
+40|44775|Lyons Switch|Lyons Switch CDP
+40|44925|McCord|McCord CDP
+40|46488|Marietta|Marietta CDP
+40|47200|Mazie|Mazie CDP
+40|47810|Meridian|Meridian CDP
+40|49825|Mulberry|Mulberry CDP
+40|49950|Murphy|Murphy CDP
+40|50200|Narcissa|Narcissa CDP
+40|50250|Nardin|Nardin CDP
+40|50975|Nescatunga|Nescatunga CDP
+40|51275|New Eucha|New Eucha CDP
+40|51900|Nicut|Nicut CDP
+40|52862|Notchietown|Notchietown CDP
+40|53350|Oakhurst|Oakhurst CDP
+40|55275|Old Eucha|Old Eucha CDP
+40|55285|Old Green|Old Green CDP
+40|57300|Park Hill|Park Hill CDP
+40|57875|Peavine|Peavine CDP
+40|57950|Peggs|Peggs CDP
+40|58400|Pettit|Pettit CDP
+40|59100|Piney|Piney CDP
+40|59125|Pinhook Corner|Pinhook Corner CDP
+40|59175|Pin Oak Acres|Pin Oak Acres CDP
+40|60750|Proctor|Proctor CDP
+40|61020|Pump Back|Pump Back CDP
+40|62275|Redbird Smith|Redbird Smith CDP
+40|62875|Remy|Remy CDP
+40|63537|River Bottom|River Bottom CDP
+40|63715|Rocky Ford|Rocky Ford CDP
+40|63720|Rocky Mountain|Rocky Mountain CDP
+40|63950|Rose|Rose CDP
+40|64875|Salem|Salem CDP
+40|65062|Sams Corner|Sams Corner CDP
+40|65240|Sand Hill|Sand Hill CDP
+40|66050|Scraper|Scraper CDP
+40|66450|Sequoyah|Sequoyah CDP
+40|66510|Shady Grove|Shady Grove CDP
+40|66520|Shady Grove|Shady Grove CDP
+40|67400|Short|Short CDP
+40|67625|Simms|Simms CDP
+40|68275|Snake Creek|Snake Creek CDP
+40|68537|Sour John|Sour John CDP
+40|70037|Steely Hollow|Steely Hollow CDP
+40|70512|Stoney Point|Stoney Point CDP
+40|71950|Swink|Swink CDP
+40|71965|Sycamore|Sycamore CDP
+40|72075|Tagg Flats|Tagg Flats CDP
+40|72775|Tenkiller|Tenkiller CDP
+40|72800|Teresita|Teresita CDP
+40|72950|Texanna|Texanna CDP
+40|73600|Tiawah|Tiawah CDP
+40|73950|Titanic|Titanic CDP
+40|75150|Turley|Turley CDP
+40|75200|Turpin|Turpin CDP
+40|75300|Tuskahoma|Tuskahoma CDP
+40|75600|Twin Oaks|Twin Oaks CDP
+40|79150|Wauhillau|Wauhillau CDP
+40|79850|Welling|Welling CDP
+40|80230|West Peavine|West Peavine CDP
+40|80850|White Oak|White Oak CDP
+40|80900|Whitesboro|Whitesboro CDP
+40|80912|White Water|White Water CDP
+40|80975|Wickliffe|Wickliffe CDP
+40|81912|Woodall|Woodall CDP
+40|83030|Zeb|Zeb CDP
+40|83050|Zena|Zena CDP
+40|83125|Zion|Zion CDP

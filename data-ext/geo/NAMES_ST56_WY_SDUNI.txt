@@ -1,0 +1,50 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+56|00730|Albany County School District 1|Albany County School District 1
+56|00960|Fremont County School District 38|Fremont County School District 38
+56|01030|Carbon County School District 1|Carbon County School District 1
+56|01090|Big Horn County School District 4|Big Horn County School District 4
+56|01260|Sublette County School District 9|Sublette County School District 9
+56|01420|Big Horn County School District 1|Big Horn County School District 1
+56|01460|Big Horn County School District 2|Big Horn County School District 2
+56|01470|Campbell County School District 1|Campbell County School District 1
+56|01700|Carbon County School District 2|Carbon County School District 2
+56|01980|Laramie County School District 1|Laramie County School District 1
+56|02070|Park County School District 6|Park County School District 6
+56|02140|Converse County School District 1|Converse County School District 1
+56|02150|Converse County School District 2|Converse County School District 2
+56|02370|Crook County School District 1|Crook County School District 1
+56|02670|Fremont County School District 2|Fremont County School District 2
+56|02760|Uinta County School District 1|Uinta County School District 1
+56|02820|Fremont County School District 21|Fremont County School District 21
+56|02830|Fremont County School District 6|Fremont County School District 6
+56|02870|Fremont County School District 1|Fremont County School District 1
+56|02990|Goshen County School District 1|Goshen County School District 1
+56|03170|Big Horn County School District 3|Big Horn County School District 3
+56|03180|Platte County School District 2|Platte County School District 2
+56|03310|Hot Springs County School District 1|Hot Springs County School District 1
+56|03770|Johnson County School District 1|Johnson County School District 1
+56|04030|Lincoln County School District 1|Lincoln County School District 1
+56|04060|Lincoln County School District 2|Lincoln County School District 2
+56|04120|Laramie County School District 2|Laramie County School District 2
+56|04230|Niobrara County School District 1|Niobrara County School District 1
+56|04260|Uinta County School District 6|Uinta County School District 6
+56|04380|Park County School District 16|Park County School District 16
+56|04450|Fremont County School District 14|Fremont County School District 14
+56|04500|Uinta County School District 4|Uinta County School District 4
+56|04510|Natrona County School District 1|Natrona County School District 1
+56|04830|Weston County School District 1|Weston County School District 1
+56|04860|Sublette County School District 1|Sublette County School District 1
+56|05090|Platte County School District 1|Platte County School District 1
+56|05160|Park County School District 1|Park County School District 1
+56|05220|Fremont County School District 25|Fremont County School District 25
+56|05302|Sweetwater County School District 1|Sweetwater County School District 1
+56|05680|Sheridan County School District 3|Sheridan County School District 3
+56|05690|Sheridan County School District 1|Sheridan County School District 1
+56|05695|Sheridan County School District 2|Sheridan County School District 2
+56|05700|Fremont County School District 24|Fremont County School District 24
+56|05762|Sweetwater County School District 2|Sweetwater County School District 2
+56|05820|Washakie County School District 2|Washakie County School District 2
+56|05830|Teton County School District 1|Teton County School District 1
+56|06090|Weston County School District 7|Weston County School District 7
+56|06240|Washakie County School District 1|Washakie County School District 1
+56|99997|School District Not Defined|School District Not Defined

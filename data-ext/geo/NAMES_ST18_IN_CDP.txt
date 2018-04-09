@@ -1,0 +1,114 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+18|00140|Aberdeen|Aberdeen CDP
+18|01396|Americus|Americus CDP
+18|02116|Arlington|Arlington CDP
+18|02890|Avoca|Avoca CDP
+18|03610|Bass Lake|Bass Lake CDP
+18|05662|Blanford|Blanford CDP
+18|07624|Bright|Bright CDP
+18|08812|Buck Creek|Buck Creek CDP
+18|08992|Buffalo|Buffalo CDP
+18|09352|Burns City|Burns City CDP
+18|09622|Butlerville|Butlerville CDP
+18|10036|Canaan|Canaan CDP
+18|12880|Clarksburg|Clarksburg CDP
+18|14032|Coalmont|Coalmont CDP
+18|14176|Colburn|Colburn CDP
+18|14464|Collegeville|Collegeville CDP
+18|15115|Cordry Sweetwater Lakes|Cordry Sweetwater Lakes CDP
+18|15409|Country Squire Lakes|Country Squire Lakes CDP
+18|17812|Deputy|Deputy CDP
+18|18550|Dover Hill|Dover Hill CDP
+18|18658|Dresser|Dresser CDP
+18|18784|Dubois|Dubois CDP
+18|19072|Dunlap|Dunlap CDP
+18|19576|East Enterprise|East Enterprise CDP
+18|21124|Emison|Emison CDP
+18|23386|Fish Lake|Fish Lake CDP
+18|23728|Florence|Florence CDP
+18|23854|Fontanet|Fontanet CDP
+18|25810|Freelandville|Freelandville CDP
+18|25864|Freetown|Freetown CDP
+18|26206|Galena|Galena CDP
+18|28800|Granger|Granger CDP
+18|30060|Grissom AFB|Grissom AFB CDP
+18|31180|Hanna|Hanna CDP
+18|31432|Harlan|Harlan CDP
+18|32170|Harrodsburg|Harrodsburg CDP
+18|32494|Hatfield|Hatfield CDP
+18|32584|Hayden|Hayden CDP
+18|33142|Henryville|Henryville CDP
+18|33178|Herbst|Herbst CDP
+18|33187|Heritage Lake|Heritage Lake CDP
+18|33392|Hidden Valley|Hidden Valley CDP
+18|33484|Highland|Highland CDP
+18|34096|Hoagland|Hoagland CDP
+18|34978|Howe|Howe CDP
+18|35104|Hudson Lake|Hudson Lake CDP
+18|35536|Idaville|Idaville CDP
+18|36144|Indian Heights|Indian Heights CDP
+18|37674|Jalapa|Jalapa CDP
+18|39510|Kent|Kent CDP
+18|39744|Kimmell|Kimmell CDP
+18|40464|Koontz Lake|Koontz Lake CDP
+18|41058|Lake Dalecarlia|Lake Dalecarlia CDP
+18|41211|Lake Holiday|Lake Holiday CDP
+18|41444|Lake Santee|Lake Santee CDP
+18|41530|Lakes of the Four Seasons|Lakes of the Four Seasons CDP
+18|41562|Laketon|Laketon CDP
+18|41652|Lake Village|Lake Village CDP
+18|41994|Landess|Landess CDP
+18|46422|Manilla|Manilla CDP
+18|48330|Melody Hill|Melody Hill CDP
+18|48384|Memphis|Memphis CDP
+18|48563|Metamora|Metamora CDP
+18|48636|Mexico|Mexico CDP
+18|49212|Mier|Mier CDP
+18|49806|Milroy|Milroy CDP
+18|50778|Montmorenci|Montmorenci CDP
+18|52956|New Goshen|New Goshen CDP
+18|53370|New Paris|New Paris CDP
+18|53586|New Salisbury|New Salisbury CDP
+18|53712|New Trenton|New Trenton CDP
+18|53820|New Washington|New Washington CDP
+18|55098|North Terre Haute|North Terre Haute CDP
+18|55350|Norway|Norway CDP
+18|55386|Notre Dame|Notre Dame CDP
+18|57384|Otwell|Otwell CDP
+18|57510|Owensburg|Owensburg CDP
+18|57632|Painted Hills|Painted Hills CDP
+18|58050|Parkers Settlement|Parkers Settlement CDP
+18|60894|Point Isabel|Point Isabel CDP
+18|62388|Purdue University|Purdue University CDP
+18|62712|Raglesville|Raglesville CDP
+18|62730|Ragsdale|Ragsdale CDP
+18|65736|Rolling Prairie|Rolling Prairie CDP
+18|66006|Roselawn|Roselawn CDP
+18|66762|St. Bernice|St. Bernice CDP
+18|67050|St. Mary of the Woods|St. Mary of the Woods CDP
+18|67176|St. Meinrad|St. Meinrad CDP
+18|67608|Salt Creek Commons|Salt Creek Commons CDP
+18|68004|San Pierre|San Pierre CDP
+18|68328|Scipio|Scipio CDP
+18|68382|Scotland|Scotland CDP
+18|69246|Shelby|Shelby CDP
+18|69336|Shepardsville|Shepardsville CDP
+18|69642|Shorewood Forest|Shorewood Forest CDP
+18|69840|Simonton Lake|Simonton Lake CDP
+18|69894|Sims|Sims CDP
+18|70330|Smithville-Sanders|Smithville-Sanders CDP
+18|70524|Somerset|Somerset CDP
+18|71288|South Haven|South Haven CDP
+18|72638|Star City|Star City CDP
+18|73340|Stockwell|Stockwell CDP
+18|75104|Taylorsville|Taylorsville CDP
+18|75176|Tecumseh|Tecumseh CDP
+18|76022|Toad Hop|Toad Hop CDP
+18|76526|Tri-Lakes|Tri-Lakes CDP
+18|78290|Vallonia|Vallonia CDP
+18|78380|Van Bibber Lake|Van Bibber Lake CDP
+18|79568|Waldron|Waldron CDP
+18|83204|Westphalia|Westphalia CDP
+18|83222|West Point|West Point CDP
+18|83600|Wheeler|Wheeler CDP
+18|84338|Williams|Williams CDP

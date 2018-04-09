@@ -1,0 +1,267 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+39|01588|Alvordton|Alvordton CDP
+39|02022|Andersonville|Andersonville CDP
+39|02266|Apple Valley|Apple Valley CDP
+39|02848|Atwater|Atwater CDP
+39|03142|Austinburg|Austinburg CDP
+39|03184|Austintown|Austintown CDP
+39|03585|Bainbridge|Bainbridge CDP
+39|03716|Ballville|Ballville CDP
+39|03786|Bannock|Bannock CDP
+39|04094|Bascom|Bascom CDP
+39|04840|Beckett Ridge|Beckett Ridge CDP
+39|05013|Beechwood Trails|Beechwood Trails CDP
+39|05676|Bentonville|Bentonville CDP
+39|05816|Berlin|Berlin CDP
+39|06208|Beulah Beach|Beulah Beach CDP
+39|06670|Blacklick Estates|Blacklick Estates CDP
+39|06740|Bladensburg|Bladensburg CDP
+39|07377|Blue Jay|Blue Jay CDP
+39|07454|Boardman|Boardman CDP
+39|07583|Bolindale|Bolindale CDP
+39|07888|Bourneville|Bourneville CDP
+39|08378|Brecon|Brecon CDP
+39|08602|Bridgetown|Bridgetown CDP
+39|08812|Brilliant|Brilliant CDP
+39|08826|Brimfield|Brimfield CDP
+39|09200|Brookfield Center|Brookfield Center CDP
+39|09596|Brownsville|Brownsville CDP
+39|10128|Buffalo|Buffalo CDP
+39|10156|Buford|Buford CDP
+39|10352|Burlington|Burlington CDP
+39|10926|Calcutta|Calcutta CDP
+39|11150|Camp Dennison|Camp Dennison CDP
+39|11318|Canal Lewisville|Canal Lewisville CDP
+39|11334|Candlewood Lake|Candlewood Lake CDP
+39|12056|Carbon Hill|Carbon Hill CDP
+39|12854|Celeryville|Celeryville CDP
+39|13484|Champion Heights|Champion Heights CDP
+39|13848|Cherry Grove|Cherry Grove CDP
+39|14100|Chesterland|Chesterland CDP
+39|14280|Chippewa Park|Chippewa Park CDP
+39|14288|Choctaw Lake|Choctaw Lake CDP
+39|14324|Churchill|Churchill CDP
+39|15008|Cinnamon Lake|Cinnamon Lake CDP
+39|15434|Clarktown|Clarktown CDP
+39|16521|Coldstream|Coldstream CDP
+39|16784|Collins|Collins CDP
+39|18244|Concorde Hills|Concorde Hills CDP
+39|19008|Covedale|Covedale CDP
+39|19596|Crystal Lakes|Crystal Lakes CDP
+39|19615|Crystal Rock|Crystal Rock CDP
+39|19736|Curtice|Curtice CDP
+39|19848|Cynthiana|Cynthiana CDP
+39|20030|Damascus|Damascus CDP
+39|20198|Darbydale|Darbydale CDP
+39|20268|Darrtown|Darrtown CDP
+39|20366|Day Heights|Day Heights CDP
+39|21518|Delhi Hills|Delhi Hills CDP
+39|21610|Delshire|Delshire CDP
+39|21742|Dent|Dent CDP
+39|21784|Derby|Derby CDP
+39|21868|Devola|Devola CDP
+39|22008|Dillonvale|Dillonvale CDP
+39|22260|Dola|Dola CDP
+39|22624|Drexel|Drexel CDP
+39|22660|Dry Ridge|Dry Ridge CDP
+39|22674|Dry Run|Dry Run CDP
+39|22820|Duncan Falls|Duncan Falls CDP
+39|22848|Dundee|Dundee CDP
+39|22960|Dunlap|Dunlap CDP
+39|23534|East Fultonham|East Fultonham CDP
+39|23702|East Liberty|East Liberty CDP
+39|24024|East Rochester|East Rochester CDP
+39|24262|Eaton Estates|Eaton Estates CDP
+39|24542|Edgewood|Edgewood CDP
+39|24850|Elizabethtown|Elizabethtown CDP
+39|25676|Etna|Etna CDP
+39|26110|Fairfield Beach|Fairfield Beach CDP
+39|27104|Finneytown|Finneytown CDP
+39|27303|Five Points|Five Points CDP
+39|27356|Flat Rock|Flat Rock CDP
+39|27776|Forestville|Forestville CDP
+39|27930|Fort Seneca|Fort Seneca CDP
+39|28058|Four Bridges|Four Bridges CDP
+39|28532|Franklin Furnace|Franklin Furnace CDP
+39|28882|Fresno|Fresno CDP
+39|28896|Friendship|Friendship CDP
+39|28966|Fruit Hill|Fruit Hill CDP
+39|30352|Glencoe|Glencoe CDP
+39|30520|Glenmoor|Glenmoor CDP
+39|30828|Good Hope|Good Hope CDP
+39|31262|Grandview|Grandview CDP
+39|31434|Granville South|Granville South CDP
+39|32207|Green Meadows|Green Meadows CDP
+39|32298|Greentown|Greentown CDP
+39|32536|Groesbeck|Groesbeck CDP
+39|33222|Hannibal|Hannibal CDP
+39|33362|Harbor Hills|Harbor Hills CDP
+39|34594|Haydenville|Haydenville CDP
+39|35028|Hessville|Hessville CDP
+39|35126|Hide-A-Way Hills|Hide-A-Way Hills CDP
+39|35256|Highland Holiday|Highland Holiday CDP
+39|35322|Highpoint|Highpoint CDP
+39|35613|Hilltop|Hilltop CDP
+39|35826|Hockingport|Hockingport CDP
+39|35866|Holiday Lakes|Holiday Lakes CDP
+39|35868|Holiday Valley|Holiday Valley CDP
+39|36176|Homeworth|Homeworth CDP
+39|36232|Hooven|Hooven CDP
+39|36512|Howard|Howard CDP
+39|36557|Howland Center|Howland Center CDP
+39|36624|Huber Ridge|Huber Ridge CDP
+39|36806|Hunter|Hunter CDP
+39|37142|Iberia|Iberia CDP
+39|39564|Kanauga|Kanauga CDP
+39|39578|Kansas|Kansas CDP
+39|39914|Kenwood|Kenwood CDP
+39|40096|Kidron|Kidron CDP
+39|40124|Kilbourne|Kilbourne CDP
+39|40264|Kimbolton|Kimbolton CDP
+39|40348|Kings Mills|Kings Mills CDP
+39|40507|Kinsman Center|Kinsman Center CDP
+39|40978|Kunkle|Kunkle CDP
+39|41090|La Croft|La Croft CDP
+39|41146|Lafayette|Lafayette CDP
+39|41188|Lafferty|Lafferty CDP
+39|41349|Lake Buckhorn|Lake Buckhorn CDP
+39|41363|Lake Darby|Lake Darby CDP
+39|41373|Lake Lakengren|Lake Lakengren CDP
+39|41419|Lake Lorelei|Lake Lorelei CDP
+39|41443|Lake Mohawk|Lake Mohawk CDP
+39|41500|Lake Seneca|Lake Seneca CDP
+39|41552|Lakeside|Lakeside CDP
+39|41597|Lake Tomahawk|Lake Tomahawk CDP
+39|41657|Lake Waynoka|Lake Waynoka CDP
+39|41755|Landen|Landen CDP
+39|41860|Lansing|Lansing CDP
+39|42308|Leavittsburg|Leavittsburg CDP
+39|42966|Lewistown|Lewistown CDP
+39|43792|Lincoln Village|Lincoln Village CDP
+39|44128|Little Hocking|Little Hocking CDP
+39|44636|Logan Elm Village|Logan Elm Village CDP
+39|45122|Loveland Park|Loveland Park CDP
+39|45304|Lucasville|Lucasville CDP
+39|45892|McCutchenville|McCutchenville CDP
+39|45906|McDermott|McDermott CDP
+39|46088|Mack|Mack CDP
+39|46144|McKinley Heights|McKinley Heights CDP
+39|47362|Maple Ridge|Maple Ridge CDP
+39|47445|Maplewood Park|Maplewood Park CDP
+39|47950|Marne|Marne CDP
+39|48272|Masury|Masury CDP
+39|48972|Melmore|Melmore CDP
+39|49420|Miami Heights|Miami Heights CDP
+39|49462|Miamitown|Miamitown CDP
+39|49504|Miamiville|Miamiville CDP
+39|50456|Millfield|Millfield CDP
+39|50778|Mineral Ridge|Mineral Ridge CDP
+39|50876|Minford|Minford CDP
+39|51212|Monfort Heights|Monfort Heights CDP
+39|51816|Montrose-Ghent|Montrose-Ghent CDP
+39|52178|Morgandale|Morgandale CDP
+39|52612|Mount Carmel|Mount Carmel CDP
+39|52780|Mount Healthy Heights|Mount Healthy Heights CDP
+39|53032|Mount Repose|Mount Repose CDP
+39|53270|Mulberry|Mulberry CDP
+39|53718|Neapolis|Neapolis CDP
+39|53788|Neffs|Neffs CDP
+39|53802|Negley|Negley CDP
+39|54082|New Baltimore|New Baltimore CDP
+39|54264|New Burlington|New Burlington CDP
+39|54320|New California|New California CDP
+39|54628|New Hampshire|New Hampshire CDP
+39|54684|New Haven|New Haven CDP
+39|54698|New Haven|New Haven CDP
+39|55062|New Marshfield|New Marshfield CDP
+39|55244|New Pittsburg|New Pittsburg CDP
+39|55314|Newport|Newport CDP
+39|55342|Newport|Newport CDP
+39|56280|Northbrook|Northbrook CDP
+39|56553|Northgate|Northgate CDP
+39|56756|North Lawrence|North Lawrence CDP
+39|56812|North Madison|North Madison CDP
+39|56938|Northridge|Northridge CDP
+39|57218|North Zanesville|North Zanesville CDP
+39|57876|Oceola|Oceola CDP
+39|58149|Olde West Chester|Olde West Chester CDP
+39|58156|Old Fort|Old Fort CDP
+39|59724|Pancoastburg|Pancoastburg CDP
+39|59920|Park Layne|Park Layne CDP
+39|62134|Perry Heights|Perry Heights CDP
+39|62344|Pettisville|Pettisville CDP
+39|62404|Pheasant Run|Pheasant Run CDP
+39|62578|Pigeon Creek|Pigeon Creek CDP
+39|63072|Plainville|Plainville CDP
+39|63478|Pleasant Grove|Pleasant Grove CDP
+39|63548|Pleasant Hills|Pleasant Hills CDP
+39|63604|Pleasant Run|Pleasant Run CDP
+39|63618|Pleasant Run Farm|Pleasant Run Farm CDP
+39|63758|Plumwood|Plumwood CDP
+39|64136|Portage Lakes|Portage Lakes CDP
+39|64472|Pottery Addition|Pottery Addition CDP
+39|64906|Pulaski|Pulaski CDP
+39|65298|Radnor|Radnor CDP
+39|65676|Raymond|Raymond CDP
+39|66180|Remington|Remington CDP
+39|66250|Reno|Reno CDP
+39|66880|Richmond Dale|Richmond Dale CDP
+39|66922|Richville|Richville CDP
+39|67104|Ridgeville Corners|Ridgeville Corners CDP
+39|67664|Robertsville|Robertsville CDP
+39|67804|Rockbridge|Rockbridge CDP
+39|68004|Rocky Fork Point|Rocky Fork Point CDP
+39|68546|Rosemount|Rosemount CDP
+39|68574|Rosewood|Rosewood CDP
+39|68602|Ross|Ross CDP
+39|68714|Rossmoyne|Rossmoyne CDP
+39|68938|Rudolph|Rudolph CDP
+39|69596|St Johns|St Johns CDP
+39|70050|Salem Heights|Salem Heights CDP
+39|70464|Sandyville|Sandyville CDP
+39|70548|Sardis|Sardis CDP
+39|70618|Sawyerwood|Sawyerwood CDP
+39|70912|Sciotodale|Sciotodale CDP
+39|71958|Shawnee|Shawnee CDP
+39|71983|Shawnee Hills|Shawnee Hills CDP
+39|72258|Sherwood|Sherwood CDP
+39|72620|Sixteen Mile Stand|Sixteen Mile Stand CDP
+39|72648|Skyline Acres|Skyline Acres CDP
+39|73118|South Canal|South Canal CDP
+39|74566|Sterling|Sterling CDP
+39|74622|Stewart|Stewart CDP
+39|74734|Stockdale|Stockdale CDP
+39|74832|Stony Prairie|Stony Prairie CDP
+39|74846|Stony Ridge|Stony Ridge CDP
+39|75392|Sulphur Springs|Sulphur Springs CDP
+39|75434|Summerside|Summerside CDP
+39|76197|Taylor Creek|Taylor Creek CDP
+39|76358|Tedrow|Tedrow CDP
+39|76568|The Plains|The Plains CDP
+39|76666|Thornport|Thornport CDP
+39|76890|Tippecanoe|Tippecanoe CDP
+39|77434|Trinway|Trinway CDP
+39|77812|Tuppers Plains|Tuppers Plains CDP
+39|77840|Turpin Hills|Turpin Hills CDP
+39|78078|Twinsburg Heights|Twinsburg Heights CDP
+39|78736|Uniontown|Uniontown CDP
+39|79590|Vaughnsville|Vaughnsville CDP
+39|79982|Vickery|Vickery CDP
+39|80066|Vienna Center|Vienna Center CDP
+39|80150|Vincent|Vincent CDP
+39|80612|Walnut Creek|Walnut Creek CDP
+39|81760|Waterford|Waterford CDP
+39|83541|West Hill|West Hill CDP
+39|84140|West Portsmouth|West Portsmouth CDP
+39|84528|Wetherington|Wetherington CDP
+39|84588|Wheelersburg|Wheelersburg CDP
+39|84812|White Oak|White Oak CDP
+39|84882|Whites Landing|Whites Landing CDP
+39|85085|Wightmans Grove|Wightmans Grove CDP
+39|85092|Wilberforce|Wilberforce CDP
+39|85344|Williamsdale|Williamsdale CDP
+39|85442|Williston|Williston CDP
+39|86072|Winesburg|Winesburg CDP
+39|86254|Withamsville|Withamsville CDP
+39|86282|Wolfhurst|Wolfhurst CDP
+39|86660|Wright-Patterson AFB|Wright-Patterson AFB CDP

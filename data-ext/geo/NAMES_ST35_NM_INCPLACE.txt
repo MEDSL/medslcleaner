@@ -1,0 +1,103 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+35|01780|Alamogordo|Alamogordo city
+35|02000|Albuquerque|Albuquerque city
+35|03400|Angel Fire|Angel Fire village
+35|05220|Artesia|Artesia city
+35|05780|Aztec|Aztec city
+35|06270|Bayard|Bayard city
+35|06480|Belen|Belen city
+35|06970|Bernalillo|Bernalillo town
+35|07880|Bloomfield|Bloomfield city
+35|08580|Bosque Farms|Bosque Farms village
+35|11800|Capitan|Capitan village
+35|12150|Carlsbad|Carlsbad city
+35|12500|Carrizozo|Carrizozo town
+35|12850|Causey|Causey village
+35|13970|Chama|Chama village
+35|15440|Cimarron|Cimarron village
+35|15720|Clayton|Clayton town
+35|16280|Cloudcroft|Cloudcroft village
+35|16420|Clovis|Clovis city
+35|17050|Columbus|Columbus village
+35|17680|Corona|Corona village
+35|17960|Corrales|Corrales village
+35|19150|Cuba|Cuba village
+35|20270|Deming|Deming city
+35|20480|Des Moines|Des Moines village
+35|20620|Dexter|Dexter town
+35|21180|Dora|Dora village
+35|22020|Eagle Nest|Eagle Nest village
+35|22380|Edgewood|Edgewood town
+35|22720|Elephant Butte|Elephant Butte city
+35|23000|Elida|Elida town
+35|24610|Encino|Encino village
+35|25170|Espanola|Espanola city
+35|25380|Estancia|Estancia town
+35|25450|Eunice|Eunice city
+35|25800|Farmington|Farmington city
+35|26570|Floyd|Floyd village
+35|26780|Folsom|Folsom village
+35|27340|Fort Sumner|Fort Sumner village
+35|28460|Gallup|Gallup city
+35|30210|Grady|Grady village
+35|30490|Grants|Grants city
+35|30770|Grenville|Grenville village
+35|31330|Hagerman|Hagerman town
+35|31820|Hatch|Hatch village
+35|32520|Hobbs|Hobbs city
+35|33290|Hope|Hope village
+35|33710|House|House village
+35|33850|Hurley|Hurley town
+35|35040|Jal|Jal city
+35|35320|Jemez Springs|Jemez Springs village
+35|37840|Lake Arthur|Lake Arthur town
+35|39380|Las Cruces|Las Cruces city
+35|39940|Las Vegas|Las Vegas city
+35|42040|Logan|Logan village
+35|42180|Lordsburg|Lordsburg city
+35|43370|Los Lunas|Los Lunas village
+35|43930|Los Ranchos de Albuquerque|Los Ranchos de Albuquerque village
+35|44420|Loving|Loving village
+35|44490|Lovington|Lovington city
+35|46310|Magdalena|Magdalena village
+35|47080|Maxwell|Maxwell village
+35|47570|Melrose|Melrose village
+35|48060|Mesilla|Mesilla town
+35|48620|Milan|Milan village
+35|50160|Moriarty|Moriarty city
+35|50300|Mosquero|Mosquero village
+35|50370|Mountainair|Mountainair town
+35|55620|Pecos|Pecos village
+35|56180|Peralta|Peralta town
+35|59260|Portales|Portales city
+35|60870|Questa|Questa village
+35|62060|Raton|Raton city
+35|62200|Red River|Red River town
+35|62620|Reserve|Reserve village
+35|63460|Rio Rancho|Rio Rancho city
+35|64930|Roswell|Roswell city
+35|65070|Roy|Roy village
+35|65210|Ruidoso|Ruidoso village
+35|65280|Ruidoso Downs|Ruidoso Downs city
+35|68150|San Jon|San Jon village
+35|70270|Santa Clara|Santa Clara village
+35|70500|Santa Fe|Santa Fe city
+35|70670|Santa Rosa|Santa Rosa city
+35|71020|San Ysidro|San Ysidro village
+35|73260|Silver City|Silver City town
+35|73540|Socorro|Socorro city
+35|74800|Springer|Springer town
+35|75640|Sunland Park|Sunland Park city
+35|76200|Taos|Taos town
+35|76480|Taos Ski Valley|Taos Ski Valley village
+35|76620|Tatum|Tatum town
+35|77250|Texico|Texico city
+35|77880|Tijeras|Tijeras village
+35|79840|Truth or Consequences|Truth or Consequences city
+35|79910|Tucumcari|Tucumcari city
+35|79980|Tularosa|Tularosa village
+35|82570|Vaughn|Vaughn town
+35|83200|Virden|Virden village
+35|83340|Wagon Mound|Wagon Mound village
+35|85160|Willard|Willard village
+35|85300|Williamsburg|Williamsburg village

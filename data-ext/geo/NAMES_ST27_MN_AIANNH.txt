@@ -1,0 +1,14 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+27|0335|Bois Forte|Bois Forte Reservation
+27|1125|Fond du Lac|Fond du Lac Reservation and Off-Reservation Trust Land
+27|1355|Grand Portage|Grand Portage Reservation and Off-Reservation Trust Land
+27|1450|Ho-Chunk Nation|Ho-Chunk Nation Reservation and Off-Reservation Trust Land
+27|1940|Leech Lake|Leech Lake Reservation and Off-Reservation Trust Land
+27|2055|Lower Sioux|Lower Sioux Indian Community
+27|2270|Mille Lacs|Mille Lacs Reservation and Off-Reservation Trust Land
+27|2285|Minnesota Chippewa|Minnesota Chippewa Trust Land
+27|2985|Prairie Island|Prairie Island Indian Community and Off-Reservation Trust Land
+27|3100|Red Lake|Red Lake Reservation
+27|3680|Shakopee Mdewakanton Sioux|Shakopee Mdewakanton Sioux Community and Off-Reservation Trust Land
+27|4445|Upper Sioux|Upper Sioux Community and Off-Reservation Trust Land
+27|4595|White Earth|White Earth Reservation and Off-Reservation Trust Land

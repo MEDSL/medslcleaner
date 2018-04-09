@@ -1,0 +1,53 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+30|00099|Heart Butte K-12 Schools|Heart Butte K-12 Schools
+30|00102|Dutton/Brady K-12 Schools|Dutton/Brady K-12 Schools
+30|01860|Alberton K-12 Schools|Alberton K-12 Schools
+30|02640|Bainville K-12 Schools|Bainville K-12 Schools
+30|02730|Baker K-12 Schools|Baker K-12 Schools
+30|03270|Belfry K-12 Schools|Belfry K-12 Schools
+30|04800|Bridger K-12 Schools|Bridger K-12 Schools
+30|04980|Townsend K-12 Schools|Townsend K-12 Schools
+30|06110|St. Ignatius K-12 Schools|St. Ignatius K-12 Schools
+30|07410|Corvallis K-12 Schools|Corvallis K-12 Schools
+30|08130|Custer K-12 Schools|Custer K-12 Schools
+30|08280|Darby K-12 Schools|Darby K-12 Schools
+30|09930|Ennis K-12 Schools|Ennis K-12 Schools
+30|11100|Florence-Carlton K-12 Schools|Florence-Carlton K-12 Schools
+30|11520|Frenchtown K-12 Schools|Frenchtown K-12 Schools
+30|11650|Fromberg K-12 Schools|Fromberg K-12 Schools
+30|12420|Glasgow K-12 Schools|Glasgow K-12 Schools
+30|12840|Philipsburg K-12 Schools|Philipsburg K-12 Schools
+30|13260|Hamilton K-12 Schools|Hamilton K-12 Schools
+30|13530|Harrison K-12 Schools|Harrison K-12 Schools
+30|13660|Hays-Lodge Pole K-12 Schools|Hays-Lodge Pole K-12 Schools
+30|14430|Hobson K-12 Schools|Hobson K-12 Schools
+30|14700|Huntley Project K-12 Schools|Huntley Project K-12 Schools
+30|14760|Hysham K-12 Schools|Hysham K-12 Schools
+30|16290|Lavina K-12 Schools|Lavina K-12 Schools
+30|16530|Libby K-12 Schools|Libby K-12 Schools
+30|16710|Lima K-12 Schools|Lima K-12 Schools
+30|16810|Lincoln K-12 Schools|Lincoln K-12 Schools
+30|17580|Malta K-12 Schools|Malta K-12 Schools
+30|18170|Medicine Lake K-12 Schools|Medicine Lake K-12 Schools
+30|19170|Nashua K-12 Schools|Nashua K-12 Schools
+30|19740|Opheim K-12 Schools|Opheim K-12 Schools
+30|20220|Peerless K-12 Schools|Peerless K-12 Schools
+30|20960|Plentywood K-12 Schools|Plentywood K-12 Schools
+30|21000|Plevna K-12 Schools|Plevna K-12 Schools
+30|22710|Roberts K-12 Schools|Roberts K-12 Schools
+30|23160|Roy K-12 Schools|Roy K-12 Schools
+30|23340|Ryegate K-12 Schools|Ryegate K-12 Schools
+30|23670|Scobey K-12 Schools|Scobey K-12 Schools
+30|24930|St. Regis K-12 Schools|St. Regis K-12 Schools
+30|24990|Stanford K-12 Schools|Stanford K-12 Schools
+30|25320|Sunburst K-12 Schools|Sunburst K-12 Schools
+30|25470|Superior K-12 Schools|Superior K-12 Schools
+30|25950|Terry K-12 Schools|Terry K-12 Schools
+30|26730|Twin Bridges K-12 Schools|Twin Bridges K-12 Schools
+30|27270|Victor K-12 Schools|Victor K-12 Schools
+30|27630|West Yellowstone K-12 School District|West Yellowstone K-12 School District
+30|27730|Westby K-12 Schools|Westby K-12 Schools
+30|27930|Whitewater K-12 Schools|Whitewater K-12 Schools
+30|28020|Wibaux K-12 Schools|Wibaux K-12 Schools
+30|28380|Winifred K-12 Schools|Winifred K-12 Schools
+30|28470|Winnett K-12 Schools|Winnett K-12 Schools

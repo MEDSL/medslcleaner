@@ -1,0 +1,10 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+47|01|1|Congressional District 1
+47|02|2|Congressional District 2
+47|03|3|Congressional District 3
+47|04|4|Congressional District 4
+47|05|5|Congressional District 5
+47|06|6|Congressional District 6
+47|07|7|Congressional District 7
+47|08|8|Congressional District 8
+47|09|9|Congressional District 9

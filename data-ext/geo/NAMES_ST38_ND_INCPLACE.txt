@@ -1,0 +1,358 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+38|00100|Abercrombie|Abercrombie city
+38|00340|Adams|Adams city
+38|00940|Alamo|Alamo city
+38|01180|Alexander|Alexander city
+38|01420|Alice|Alice city
+38|01700|Almont|Almont city
+38|01740|Alsen|Alsen city
+38|01860|Ambrose|Ambrose city
+38|01940|Amenia|Amenia city
+38|02060|Amidon|Amidon city
+38|02220|Anamoose|Anamoose city
+38|02380|Aneta|Aneta city
+38|02660|Antler|Antler city
+38|02860|Ardoch|Ardoch city
+38|03020|Argusville|Argusville city
+38|03220|Arnegard|Arnegard city
+38|03300|Arthur|Arthur city
+38|03540|Ashley|Ashley city
+38|04020|Ayr|Ayr city
+38|04460|Balfour|Balfour city
+38|04580|Balta|Balta city
+38|04740|Bantry|Bantry city
+38|04940|Barney|Barney city
+38|05260|Bathgate|Bathgate city
+38|05420|Beach|Beach city
+38|05820|Belfield|Belfield city
+38|05980|Benedict|Benedict city
+38|06180|Bergen|Bergen city
+38|06300|Berlin|Berlin city
+38|06460|Berthold|Berthold city
+38|06660|Beulah|Beulah city
+38|07020|Binford|Binford city
+38|07180|Bisbee|Bisbee city
+38|07200|Bismarck|Bismarck city
+38|08460|Bottineau|Bottineau city
+38|08500|Bowbells|Bowbells city
+38|08580|Bowdon|Bowdon city
+38|08700|Bowman|Bowman city
+38|08900|Braddock|Braddock city
+38|09320|Briarwood|Briarwood city
+38|09460|Brinsmade|Brinsmade city
+38|09700|Brocket|Brocket city
+38|10060|Buchanan|Buchanan city
+38|10300|Bucyrus|Bucyrus city
+38|10420|Buffalo|Buffalo city
+38|10940|Burlington|Burlington city
+38|11180|Butte|Butte city
+38|11340|Buxton|Buxton city
+38|11580|Calio|Calio city
+38|11700|Calvin|Calvin city
+38|11860|Cando|Cando city
+38|12060|Canton City|Canton City city
+38|12260|Carpio|Carpio city
+38|12340|Carrington|Carrington city
+38|12460|Carson|Carson city
+38|12700|Casselton|Casselton city
+38|12820|Cathay|Cathay city
+38|12940|Cavalier|Cavalier city
+38|13020|Cayuga|Cayuga city
+38|13180|Center|Center city
+38|14100|Christine|Christine city
+38|14140|Churchs Ferry|Churchs Ferry city
+38|14660|Cleveland|Cleveland city
+38|14740|Clifford|Clifford city
+38|15100|Cogswell|Cogswell city
+38|15140|Coleharbor|Coleharbor city
+38|15180|Colfax|Colfax city
+38|15460|Columbus|Columbus city
+38|15820|Conway|Conway city
+38|15900|Cooperstown|Cooperstown city
+38|16380|Courtenay|Courtenay city
+38|16580|Crary|Crary city
+38|16940|Crosby|Crosby city
+38|17060|Crystal|Crystal city
+38|18180|Davenport|Davenport city
+38|18260|Dawson|Dawson city
+38|18340|Dazey|Dazey city
+38|18620|Deering|Deering city
+38|19300|Des Lacs|Des Lacs city
+38|19420|Devils Lake|Devils Lake city
+38|19580|Dickey|Dickey city
+38|19620|Dickinson|Dickinson city
+38|19820|Dodge|Dodge city
+38|19900|Donnybrook|Donnybrook city
+38|20020|Douglas|Douglas city
+38|20300|Drake|Drake city
+38|20340|Drayton|Drayton city
+38|20940|Dunn Center|Dunn Center city
+38|21020|Dunseith|Dunseith city
+38|21220|Dwight|Dwight city
+38|22140|Edgeley|Edgeley city
+38|22260|Edinburg|Edinburg city
+38|22340|Edmore|Edmore city
+38|22540|Egeland|Egeland city
+38|23020|Elgin|Elgin city
+38|23220|Ellendale|Ellendale city
+38|23340|Elliott|Elliott city
+38|24060|Emerado|Emerado city
+38|24260|Enderlin|Enderlin city
+38|24540|Epping|Epping city
+38|24780|Esmond|Esmond city
+38|25180|Fairdale|Fairdale city
+38|25300|Fairmount|Fairmount city
+38|25700|Fargo|Fargo city
+38|26180|Fessenden|Fessenden city
+38|26380|Fingal|Fingal city
+38|26420|Finley|Finley city
+38|26660|Flasher|Flasher city
+38|26700|Flaxton|Flaxton city
+38|26980|Forbes|Forbes city
+38|27060|Fordville|Fordville city
+38|27100|Forest River|Forest River city
+38|27260|Forman|Forman city
+38|27580|Fort Ransom|Fort Ransom city
+38|27820|Fortuna|Fortuna city
+38|27860|Fort Yates|Fort Yates city
+38|28380|Fredonia|Fredonia city
+38|28720|Frontier|Frontier city
+38|28780|Fullerton|Fullerton city
+38|28860|Gackle|Gackle city
+38|28980|Galesburg|Galesburg city
+38|29180|Gardena|Gardena city
+38|29220|Gardner|Gardner city
+38|29460|Garrison|Garrison city
+38|29540|Gascoyne|Gascoyne city
+38|30180|Gilby|Gilby city
+38|30460|Gladstone|Gladstone city
+38|30580|Glenburn|Glenburn city
+38|30660|Glenfield|Glenfield city
+38|30860|Glen Ullin|Glen Ullin city
+38|31180|Golden Valley|Golden Valley city
+38|31420|Golva|Golva city
+38|31500|Goodrich|Goodrich city
+38|31740|Grace City|Grace City city
+38|31820|Grafton|Grafton city
+38|32060|Grand Forks|Grand Forks city
+38|32300|Grandin|Grandin city
+38|32580|Grano|Grano city
+38|32660|Granville|Granville city
+38|32900|Great Bend|Great Bend city
+38|33500|Grenora|Grenora city
+38|34020|Gwinner|Gwinner city
+38|34180|Hague|Hague city
+38|34340|Halliday|Halliday city
+38|34460|Hamberg|Hamberg city
+38|34620|Hamilton|Hamilton city
+38|34860|Hampden|Hampden city
+38|34900|Hankinson|Hankinson city
+38|35020|Hannaford|Hannaford city
+38|35060|Hannah|Hannah city
+38|35140|Hansboro|Hansboro city
+38|35900|Harvey|Harvey city
+38|35940|Harwood|Harwood city
+38|36100|Hatton|Hatton city
+38|36140|Havana|Havana city
+38|36540|Haynes|Haynes city
+38|36700|Hazelton|Hazelton city
+38|36780|Hazen|Hazen city
+38|36860|Hebron|Hebron city
+38|37700|Hettinger|Hettinger city
+38|38100|Hillsboro|Hillsboro city
+38|38780|Hoople|Hoople city
+38|38860|Hope|Hope city
+38|38900|Horace|Horace city
+38|39460|Hunter|Hunter city
+38|39580|Hurdsfield|Hurdsfield city
+38|39980|Inkster|Inkster city
+38|40580|Jamestown|Jamestown city
+38|41180|Jud|Jud city
+38|41380|Karlsruhe|Karlsruhe city
+38|41500|Kathryn|Kathryn city
+38|42020|Kenmare|Kenmare city
+38|42180|Kensal|Kensal city
+38|42660|Kief|Kief city
+38|42700|Killdeer|Killdeer city
+38|42780|Kindred|Kindred city
+38|43260|Knox|Knox city
+38|43500|Kramer|Kramer city
+38|43580|Kulm|Kulm city
+38|44300|Lakota|Lakota city
+38|44540|LaMoure|LaMoure city
+38|44700|Landa|Landa city
+38|44780|Langdon|Langdon city
+38|44860|Lankin|Lankin city
+38|44900|Lansford|Lansford city
+38|45020|Larimore|Larimore city
+38|45300|Lawton|Lawton city
+38|45460|Leal|Leal city
+38|45580|Leeds|Leeds city
+38|45740|Lehr|Lehr city
+38|45860|Leith|Leith city
+38|45980|Leonard|Leonard city
+38|46460|Lidgerwood|Lidgerwood city
+38|46540|Lignite|Lignite city
+38|46640|Lincoln|Lincoln city
+38|46980|Linton|Linton city
+38|47100|Lisbon|Lisbon city
+38|47140|Litchville|Litchville city
+38|47660|Loma|Loma city
+38|48020|Loraine|Loraine city
+38|48460|Ludden|Ludden city
+38|48580|Luverne|Luverne city
+38|49020|McClusky|McClusky city
+38|49260|McHenry|McHenry city
+38|49580|McVille|McVille city
+38|49620|Maddock|Maddock city
+38|49820|Makoti|Makoti city
+38|49900|Mandan|Mandan city
+38|50380|Mantador|Mantador city
+38|50420|Manvel|Manvel city
+38|50580|Mapleton|Mapleton city
+38|50780|Marion|Marion city
+38|50860|Marmarth|Marmarth city
+38|51060|Martin|Martin city
+38|51380|Max|Max city
+38|51420|Maxbass|Maxbass city
+38|51500|Mayville|Mayville city
+38|51860|Medina|Medina city
+38|51900|Medora|Medora city
+38|52340|Mercer|Mercer city
+38|52740|Michigan City|Michigan City city
+38|52940|Milnor|Milnor city
+38|53020|Milton|Milton city
+38|53220|Minnewaukan|Minnewaukan city
+38|53380|Minot|Minot city
+38|53540|Minto|Minto city
+38|53780|Mohall|Mohall city
+38|53820|Monango|Monango city
+38|53980|Montpelier|Montpelier city
+38|54220|Mooreton|Mooreton city
+38|54620|Mott|Mott city
+38|54740|Mountain|Mountain city
+38|55020|Munich|Munich city
+38|55220|Mylo|Mylo city
+38|55420|Napoleon|Napoleon city
+38|55620|Neche|Neche city
+38|55740|Nekoma|Nekoma city
+38|56020|Newburg|Newburg city
+38|56180|New England|New England city
+38|56420|New Leipzig|New Leipzig city
+38|56620|New Rockford|New Rockford city
+38|56700|New Salem|New Salem city
+38|56740|New Town|New Town city
+38|56780|Niagara|Niagara city
+38|57180|Nome|Nome city
+38|57220|Noonan|Noonan city
+38|58120|North River|North River city
+38|58300|Northwood|Northwood city
+38|58740|Oakes|Oakes city
+38|59020|Oberon|Oberon city
+38|59660|Oriska|Oriska city
+38|60100|Osnabrock|Osnabrock city
+38|60380|Overly|Overly city
+38|60480|Oxbow|Oxbow city
+38|60500|Page|Page city
+38|60620|Palermo|Palermo city
+38|60900|Park River|Park River city
+38|60940|Parshall|Parshall city
+38|61460|Pekin|Pekin city
+38|61580|Pembina|Pembina city
+38|61780|Perth|Perth city
+38|61860|Petersburg|Petersburg city
+38|62060|Pettibone|Pettibone city
+38|62260|Pick City|Pick City city
+38|62540|Pillsbury|Pillsbury city
+38|62620|Pingree|Pingree city
+38|62780|Pisek|Pisek city
+38|62980|Plaza|Plaza city
+38|63740|Portal|Portal city
+38|63900|Portland|Portland city
+38|64140|Powers Lake|Powers Lake city
+38|64320|Prairie Rose|Prairie Rose city
+38|65580|Ray|Ray city
+38|65900|Reeder|Reeder city
+38|65980|Regan|Regan city
+38|66020|Regent|Regent city
+38|66040|Reile's Acres|Reile's Acres city
+38|66260|Reynolds|Reynolds city
+38|66300|Rhame|Rhame city
+38|66500|Richardton|Richardton city
+38|66980|Riverdale|Riverdale city
+38|67180|Robinson|Robinson city
+38|67500|Rocklake|Rocklake city
+38|67620|Rogers|Rogers city
+38|67780|Rolette|Rolette city
+38|67820|Rolla|Rolla city
+38|68540|Ross|Ross city
+38|68860|Rugby|Rugby city
+38|69140|Ruso|Ruso city
+38|69340|Rutland|Rutland city
+38|69460|Ryder|Ryder city
+38|69980|St. John|St. John city
+38|70260|St. Thomas|St. Thomas city
+38|70380|Sanborn|Sanborn city
+38|70780|Sarles|Sarles city
+38|70980|Sawyer|Sawyer city
+38|71500|Scranton|Scranton city
+38|71660|Selfridge|Selfridge city
+38|71780|Sentinel Butte|Sentinel Butte city
+38|71940|Sharon|Sharon city
+38|72180|Sheldon|Sheldon city
+38|72540|Sherwood|Sherwood city
+38|72580|Sheyenne|Sheyenne city
+38|72820|Sibley|Sibley city
+38|73820|Solen|Solen city
+38|74020|Souris|Souris city
+38|74185|South Heart|South Heart city
+38|74740|Spiritwood Lake|Spiritwood Lake city
+38|74780|Springbrook|Springbrook city
+38|75380|Stanley|Stanley city
+38|75420|Stanton|Stanton city
+38|75580|Starkweather|Starkweather city
+38|75780|Steele|Steele city
+38|76500|Strasburg|Strasburg city
+38|76620|Streeter|Streeter city
+38|77180|Surrey|Surrey city
+38|77660|Sykeston|Sykeston city
+38|77980|Tappen|Tappen city
+38|78180|Taylor|Taylor city
+38|78660|Thompson|Thompson city
+38|78940|Tioga|Tioga city
+38|79140|Tolley|Tolley city
+38|79180|Tolna|Tolna city
+38|79340|Tower City|Tower City city
+38|79420|Towner|Towner city
+38|79940|Turtle Lake|Turtle Lake city
+38|80140|Tuttle|Tuttle city
+38|80660|Underwood|Underwood city
+38|80860|Upham|Upham city
+38|81180|Valley City|Valley City city
+38|81620|Velva|Velva city
+38|81700|Venturia|Venturia city
+38|81900|Verona|Verona city
+38|82380|Voltaire|Voltaire city
+38|82660|Wahpeton|Wahpeton city
+38|82780|Walcott|Walcott city
+38|82940|Wales|Wales city
+38|82980|Walhalla|Walhalla city
+38|83580|Warwick|Warwick city
+38|83700|Washburn|Washburn city
+38|83860|Watford City|Watford City city
+38|84780|West Fargo|West Fargo city
+38|85020|Westhope|Westhope city
+38|85540|White Earth|White Earth city
+38|86020|Wildrose|Wildrose city
+38|86220|Williston|Williston city
+38|86380|Willow City|Willow City city
+38|86580|Wilton|Wilton city
+38|86620|Wimbledon|Wimbledon city
+38|86780|Wing|Wing city
+38|87020|Wishek|Wishek city
+38|87180|Wolford|Wolford city
+38|87580|Woodworth|Woodworth city
+38|87740|Wyndmere|Wyndmere city
+38|87860|York|York city
+38|88140|Zap|Zap city
+38|88180|Zeeland|Zeeland city

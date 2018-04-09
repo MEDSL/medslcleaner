@@ -1,0 +1,234 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+34|00004|The Chathams School District|The Chathams School District
+34|00008|Great Meadows Regional School District|Great Meadows Regional School District
+34|00009|Somerset Hills Regional School District|Somerset Hills Regional School District
+34|00780|Allenhurst Borough School District|Allenhurst Borough School District
+34|00930|Asbury Park City School District|Asbury Park City School District
+34|00960|Atlantic City School District|Atlantic City School District
+34|01050|Audubon Borough School District|Audubon Borough School District
+34|01260|Bayonne City School District|Bayonne City School District
+34|01350|Belleville Town School District|Belleville Town School District
+34|01440|Belvidere Town School District|Belvidere Town School District
+34|01500|Bergenfield Borough School District|Bergenfield Borough School District
+34|01530|Berkeley Heights Township School District|Berkeley Heights Township School District
+34|01650|Bernards Township School District|Bernards Township School District
+34|01830|Bloomfield Township School District|Bloomfield Township School District
+34|01920|Bogota Borough School District|Bogota Borough School District
+34|01950|Boonton Town School District|Boonton Town School District
+34|02030|Bordentown Regional School District|Bordentown Regional School District
+34|02100|Bound Brook Borough School District|Bound Brook Borough School District
+34|02220|Brick Township School District|Brick Township School District
+34|02250|Bridgeton City School District|Bridgeton City School District
+34|02280|Bridgewater-Raritan Regional School District|Bridgewater-Raritan Regional School District
+34|02400|Buena Regional School District|Buena Regional School District
+34|02430|Burlington City School District|Burlington City School District
+34|02460|Burlington Township School District|Burlington Township School District
+34|02520|Butler Borough School District|Butler Borough School District
+34|02580|Caldwell-West Caldwell School District|Caldwell-West Caldwell School District
+34|02640|Camden City School District|Camden City School District
+34|02760|Cape May Point Borough School District|Cape May Point Borough School District
+34|02820|Carteret Borough School District|Carteret Borough School District
+34|02850|Cedar Grove Township School District|Cedar Grove Township School District
+34|03000|Cherry Hill Township School District|Cherry Hill Township School District
+34|03120|Cinnaminson Township School District|Cinnaminson Township School District
+34|03150|Clark Township School District|Clark Township School District
+34|03180|Clayton Borough School District|Clayton Borough School District
+34|03270|Cliffside Park Borough School District|Cliffside Park Borough School District
+34|03300|Clifton City School District|Clifton City School District
+34|03420|Collingswood Borough School District|Collingswood Borough School District
+34|03510|Corbin City School District|Corbin City School District
+34|03570|Cranford Township School District|Cranford Township School District
+34|03600|Cresskill Borough School District|Cresskill Borough School District
+34|03780|Delran Township School District|Delran Township School District
+34|03900|Deptford Township School District|Deptford Township School District
+34|03930|Dover Town School District|Dover Town School District
+34|03990|Dumont Borough School District|Dumont Borough School District
+34|04020|Dunellen Borough School District|Dunellen Borough School District
+34|04110|East Brunswick Township School District|East Brunswick Township School District
+34|04230|East Orange City School District|East Orange City School District
+34|04320|East Windsor Regional School District|East Windsor Regional School District
+34|04500|Edison Township School District|Edison Township School District
+34|04560|Egg Harbor Township School District|Egg Harbor Township School District
+34|04590|Elizabeth City School District|Elizabeth City School District
+34|04660|Elmwood Park Borough School District|Elmwood Park Borough School District
+34|04710|Emerson Borough School District|Emerson Borough School District
+34|04740|Englewood City School District|Englewood City School District
+34|04920|Ewing Township School District|Ewing Township School District
+34|04980|Fair Lawn Borough School District|Fair Lawn Borough School District
+34|05220|Florence Township School District|Florence Township School District
+34|05310|Fort Lee Borough School District|Fort Lee Borough School District
+34|05490|Franklin Township School District|Franklin Township School District
+34|05760|Garfield City School District|Garfield City School District
+34|05880|Glassboro Borough School District|Glassboro Borough School District
+34|05940|Glen Ridge Borough School District|Glen Ridge Borough School District
+34|05970|Glen Rock Borough School District|Glen Rock Borough School District
+34|06000|Gloucester City School District|Gloucester City School District
+34|06120|Green Brook Township School District|Green Brook Township School District
+34|06270|Hackensack City School District|Hackensack City School District
+34|06300|Hackettstown Town School District|Hackettstown Town School District
+34|06330|Haddon Heights Borough School District|Haddon Heights Borough School District
+34|06360|Haddon Township School District|Haddon Township School District
+34|06390|Haddonfield Borough School District|Haddonfield Borough School District
+34|06540|Hamilton Township School District|Hamilton Township School District
+34|06570|Hammonton Town School District|Hammonton Town School District
+34|06870|Harrison Town School District|Harrison Town School District
+34|06930|Hasbrouck Heights Borough School District|Hasbrouck Heights Borough School District
+34|06990|Hawthorne Borough School District|Hawthorne Borough School District
+34|07080|Hi-Nella Borough School District|Hi-Nella Borough School District
+34|07170|Highland Park Borough School District|Highland Park Borough School District
+34|07230|Hillsborough Township School District|Hillsborough Township School District
+34|07290|Hillside Township School District|Hillside Township School District
+34|07350|Hoboken City School District|Hoboken City School District
+34|07410|Holmdel Township School District|Holmdel Township School District
+34|07440|Hopatcong Borough School District|Hopatcong Borough School District
+34|07530|Hopewell Valley Regional School District|Hopewell Valley Regional School District
+34|07650|Interlaken Borough School District|Interlaken Borough School District
+34|07680|Irvington Township School District|Irvington Township School District
+34|07740|Jackson Township School District|Jackson Township School District
+34|07800|Jefferson Township School District|Jefferson Township School District
+34|07830|Jersey City School District|Jersey City School District
+34|07860|Keansburg Borough School District|Keansburg Borough School District
+34|07890|Kearny Town School District|Kearny Town School District
+34|07920|Kenilworth Borough School District|Kenilworth Borough School District
+34|07950|Keyport Borough School District|Keyport Borough School District
+34|08040|Kinnelon Borough School District|Kinnelon Borough School District
+34|08100|Lacey Township School District|Lacey Township School District
+34|08220|Lakewood Township School District|Lakewood Township School District
+34|08400|Lawrence Township School District|Lawrence Township School District
+34|08520|Leonia Borough School District|Leonia Borough School District
+34|08610|Linden City School District|Linden City School District
+34|08640|Lindenwold Borough School District|Lindenwold Borough School District
+34|08671|Longport Borough School District|Longport Borough School District
+34|08820|Livingston Township School District|Livingston Township School District
+34|08850|Lodi Borough School District|Lodi Borough School District
+34|08940|Long Branch City School District|Long Branch City School District
+34|09120|Pennsville Township School District|Pennsville Township School District
+34|09210|Lyndhurst Township School District|Lyndhurst Township School District
+34|09240|Madison Borough School District|Madison Borough School District
+34|09270|Old Bridge Township School District|Old Bridge Township School District
+34|09330|Mahwah Township School District|Mahwah Township School District
+34|09420|Manasquan Borough School District|Manasquan Borough School District
+34|09450|Manchester Township School District|Manchester Township School District
+34|09630|Manville Borough School District|Manville Borough School District
+34|09660|Maple Shade Township School District|Maple Shade Township School District
+34|09750|Matawan-Aberdeen Regional School District|Matawan-Aberdeen Regional School District
+34|09810|Maywood Borough School District|Maywood Borough School District
+34|09990|Metuchen Borough School District|Metuchen Borough School District
+34|10020|Middle Township School District|Middle Township School District
+34|10050|Middlesex Borough School District|Middlesex Borough School District
+34|10110|Middletown Township School District|Middletown Township School District
+34|10140|Midland Park Borough School District|Midland Park Borough School District
+34|10200|Millburn Township School District|Millburn Township School District
+34|10320|Millville City School District|Millville City School District
+34|10470|Monroe Township School District|Monroe Township School District
+34|10500|Monroe Township School District|Monroe Township School District
+34|10560|Montclair Town School District|Montclair Town School District
+34|10590|Montgomery Township School District|Montgomery Township School District
+34|10650|Montville Township School District|Montville Township School District
+34|10710|Moorestown Township School District|Moorestown Township School District
+34|10810|Morris Township School District|Morris Township School District
+34|10980|Mount Olive Township School District|Mount Olive Township School District
+34|11010|Mountain Lakes Borough School District|Mountain Lakes Borough School District
+34|11160|Neptune Township School District|Neptune Township School District
+34|11220|New Brunswick City School District|New Brunswick City School District
+34|11280|New Milford Borough School District|New Milford Borough School District
+34|11310|New Providence Borough School District|New Providence Borough School District
+34|11340|Newark City School District|Newark City School District
+34|11400|Newton Town School District|Newton Town School District
+34|11430|North Arlington Borough School District|North Arlington Borough School District
+34|11460|North Bergen Township School District|North Bergen Township School District
+34|11490|North Brunswick Township School District|North Brunswick Township School District
+34|11640|North Plainfield Borough School District|North Plainfield Borough School District
+34|11880|Nutley Town School District|Nutley Town School District
+34|11940|Oaklyn Borough School District|Oaklyn Borough School District
+34|11970|Ocean City School District|Ocean City School District
+34|12060|Ocean Township School District|Ocean Township School District
+34|12270|Orange City Township School District|Orange City Township School District
+34|12360|Palisades Park Borough School District|Palisades Park Borough School District
+34|12390|Palmyra Borough School District|Palmyra Borough School District
+34|12420|Paramus Borough School District|Paramus Borough School District
+34|12450|Park Ridge Borough School District|Park Ridge Borough School District
+34|12480|Parsippany-Troy Hills Township School District|Parsippany-Troy Hills Township School District
+34|12540|Passaic City School District|Passaic City School District
+34|12690|Paterson City School District|Paterson City School District
+34|12720|Paulsboro Borough School District|Paulsboro Borough School District
+34|12810|Pemberton Township School District|Pemberton Township School District
+34|12840|Penns Grove-Carneys Point Regional School District|Penns Grove-Carneys Point Regional School District
+34|12870|Pennsauken Township School District|Pennsauken Township School District
+34|12900|Pequannock Township School District|Pequannock Township School District
+34|12930|Perth Amboy City School District|Perth Amboy City School District
+34|12960|Phillipsburg Town School District|Phillipsburg Town School District
+34|12990|Pine Hill Borough School District|Pine Hill Borough School District
+34|13020|Pine Valley Borough School District|Pine Valley Borough School District
+34|13050|Piscataway Township School District|Piscataway Township School District
+34|13080|Pitman Borough School District|Pitman Borough School District
+34|13110|Pittsgrove Township School District|Pittsgrove Township School District
+34|13140|Plainfield City School District|Plainfield City School District
+34|13200|Pleasantville City School District|Pleasantville City School District
+34|13230|Plumsted Township School District|Plumsted Township School District
+34|13290|Point Pleasant Borough School District|Point Pleasant Borough School District
+34|13320|Point Pleasant Beach Borough School District|Point Pleasant Beach Borough School District
+34|13350|Pompton Lakes Borough School District|Pompton Lakes Borough School District
+34|13410|Princeton Regional School District|Princeton Regional School District
+34|13530|Rahway City School District|Rahway City School District
+34|13590|Ramsey Borough School District|Ramsey Borough School District
+34|13650|Randolph Township School District|Randolph Township School District
+34|13680|Hazlet Township School District|Hazlet Township School District
+34|13770|Ridgefield Borough School District|Ridgefield Borough School District
+34|13800|Ridgefield Park Township School District|Ridgefield Park Township School District
+34|13830|Ridgewood Village School District|Ridgewood Village School District
+34|14010|Riverside Township School District|Riverside Township School District
+34|14160|Rockleigh Borough School District|Rockleigh Borough School District
+34|14280|Roselle Borough School District|Roselle Borough School District
+34|14310|Roselle Park Borough School District|Roselle Park Borough School District
+34|14340|Roxbury Township School District|Roxbury Township School District
+34|14460|Rutherford Borough School District|Rutherford Borough School District
+34|14490|Saddle Brook Township School District|Saddle Brook Township School District
+34|14550|Salem City School District|Salem City School District
+34|14640|Sayreville Borough School District|Sayreville Borough School District
+34|14670|Scotch Plains-Fanwood Regional School District|Scotch Plains-Fanwood Regional School District
+34|14850|Secaucus Town School District|Secaucus Town School District
+34|15090|Somerville Borough School District|Somerville Borough School District
+34|15120|South Amboy City School District|South Amboy City School District
+34|15150|Lake Como Borough School District|Lake Como Borough School District
+34|15210|South Brunswick Township School District|South Brunswick Township School District
+34|15330|South Orange-Maplewood School District|South Orange-Maplewood School District
+34|15360|South Plainfield Borough School District|South Plainfield Borough School District
+34|15390|South River Borough School District|South River Borough School District
+34|15510|Sparta Township School District|Sparta Township School District
+34|15540|Spotswood Borough School District|Spotswood Borough School District
+34|15630|Springfield Township School District|Springfield Township School District
+34|15900|Summit City School District|Summit City School District
+34|16080|Teaneck Township School District|Teaneck Township School District
+34|16110|Tenafly Borough School District|Tenafly Borough School District
+34|16140|Teterboro Borough School District|Teterboro Borough School District
+34|16230|Toms River Regional School District|Toms River Regional School District
+34|16290|Trenton City School District|Trenton City School District
+34|16380|Union City School District|Union City School District
+34|16500|Union Township School District|Union Township School District
+34|16560|Upper Freehold Regional School District|Upper Freehold Regional School District
+34|16710|Vernon Township School District|Vernon Township School District
+34|16740|Verona Borough School District|Verona Borough School District
+34|16800|Vineland City School District|Vineland City School District
+34|16860|Waldwick Borough School District|Waldwick Borough School District
+34|16890|Wall Township School District|Wall Township School District
+34|16920|Wallington Borough School District|Wallington Borough School District
+34|17070|Washington Township School District|Washington Township School District
+34|17280|Wayne Township School District|Wayne Township School District
+34|17310|Weehawken Township School District|Weehawken Township School District
+34|17430|West Deptford Township School District|West Deptford Township School District
+34|17520|West Milford Township School District|West Milford Township School District
+34|17580|West New York Town School District|West New York Town School District
+34|17610|West Orange Town School District|West Orange Town School District
+34|17670|West Wildwood Borough School District|West Wildwood Borough School District
+34|17700|West Windsor-Plainsboro Regional School District|West Windsor-Plainsboro Regional School District
+34|17760|Westfield Town School District|Westfield Town School District
+34|17820|Westwood Regional School District|Westwood Regional School District
+34|17940|Wildwood City School District|Wildwood City School District
+34|18000|Willingboro Township School District|Willingboro Township School District
+34|18060|Winslow Township School District|Winslow Township School District
+34|18120|Woodbridge Township School District|Woodbridge Township School District
+34|18150|Woodbury City School District|Woodbury City School District
+34|18300|Wood-Ridge Borough School District|Wood-Ridge Borough School District
+34|18330|Woodstown-Pilesgrove Regional School District|Woodstown-Pilesgrove Regional School District
+34|99998|School District Not Defined (Water)|School District Not Defined (Water)

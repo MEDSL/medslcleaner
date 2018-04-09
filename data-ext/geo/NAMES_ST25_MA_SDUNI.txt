@@ -1,0 +1,211 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+25|00001|Quabbin School District|Quabbin School District
+25|00002|Spencer-East Brookfield School District|Spencer-East Brookfield School District
+25|00013|Southwick-Tolland School District|Southwick-Tolland School District
+25|00067|Manchester Essex Regional School District|Manchester Essex Regional School District
+25|01650|Abington School District|Abington School District
+25|01780|Adams-Cheshire School District|Adams-Cheshire School District
+25|01800|Agawam School District|Agawam School District
+25|01860|Amesbury School District|Amesbury School District
+25|01950|Andover School District|Andover School District
+25|01980|Arlington School District|Arlington School District
+25|02040|Ashburnham-Westminster School District|Ashburnham-Westminster School District
+25|02100|Ashland School District|Ashland School District
+25|02160|Athol-Royalston School District|Athol-Royalston School District
+25|02190|Attleboro School District|Attleboro School District
+25|02220|Auburn School District|Auburn School District
+25|02250|Avon School District|Avon School District
+25|02280|Ayer School District|Ayer School District
+25|02310|Barnstable School District|Barnstable School District
+25|02400|Bedford School District|Bedford School District
+25|02430|Belchertown School District|Belchertown School District
+25|02460|Bellingham School District|Bellingham School District
+25|02490|Belmont School District|Belmont School District
+25|02530|Berkshire Hills School District|Berkshire Hills School District
+25|02640|Beverly School District|Beverly School District
+25|02670|Billerica School District|Billerica School District
+25|02715|Blackstone-Millville School District|Blackstone-Millville School District
+25|02790|Boston School District|Boston School District
+25|02820|Bourne School District|Bourne School District
+25|02940|Braintree School District|Braintree School District
+25|03030|Bridgewater-Raynham School District|Bridgewater-Raynham School District
+25|03090|Brockton School District|Brockton School District
+25|03150|Brookline School District|Brookline School District
+25|03240|Burlington School District|Burlington School District
+25|03270|Cambridge School District|Cambridge School District
+25|03300|Canton School District|Canton School District
+25|03360|Carver School District|Carver School District
+25|03390|Central Berkshire School District|Central Berkshire School District
+25|03480|Chatham School District|Chatham School District
+25|03510|Chelmsford School District|Chelmsford School District
+25|03540|Chelsea School District|Chelsea School District
+25|03660|Chicopee School District|Chicopee School District
+25|03750|Clinton School District|Clinton School District
+25|03780|Cohasset School District|Cohasset School District
+25|03990|Danvers School District|Danvers School District
+25|04020|Dartmouth School District|Dartmouth School District
+25|04050|Dedham School District|Dedham School District
+25|04140|Dennis-Yarmouth School District|Dennis-Yarmouth School District
+25|04200|Dighton-Rehoboth School District|Dighton-Rehoboth School District
+25|04230|Douglas School District|Douglas School District
+25|04320|Dracut School District|Dracut School District
+25|04360|Dudley-Charlton Regional School District|Dudley-Charlton Regional School District
+25|04410|Duxbury School District|Duxbury School District
+25|04440|East Bridgewater School District|East Bridgewater School District
+25|04500|East Longmeadow School District|East Longmeadow School District
+25|04590|Easthampton School District|Easthampton School District
+25|04620|Easton School District|Easton School District
+25|04770|Everett School District|Everett School District
+25|04800|Fairhaven School District|Fairhaven School District
+25|04830|Fall River School District|Fall River School District
+25|04860|Falmouth School District|Falmouth School District
+25|04890|Fitchburg School District|Fitchburg School District
+25|04950|Foxborough School District|Foxborough School District
+25|04980|Framingham School District|Framingham School District
+25|05010|Franklin School District|Franklin School District
+25|05130|Gardner School District|Gardner School District
+25|05160|Gateway School District|Gateway School District
+25|05220|Georgetown School District|Georgetown School District
+25|05270|Gill-Montague School District|Gill-Montague School District
+25|05280|Gloucester School District|Gloucester School District
+25|05340|Gosnold School District|Gosnold School District
+25|05370|Grafton School District|Grafton School District
+25|05400|Granby School District|Granby School District
+25|05490|Greenfield School District|Greenfield School District
+25|05500|Groton-Dunstable School District|Groton-Dunstable School District
+25|05580|Hadley School District|Hadley School District
+25|05670|Hamilton-Wenham School District|Hamilton-Wenham School District
+25|05730|Hampden-Wilbraham School District|Hampden-Wilbraham School District
+25|05790|Hanover School District|Hanover School District
+25|05880|Harvard School District|Harvard School District
+25|05910|Harwich School District|Harwich School District
+25|05940|Hatfield School District|Hatfield School District
+25|05970|Haverhill School District|Haverhill School District
+25|06090|Hingham School District|Hingham School District
+25|06150|Holbrook School District|Holbrook School District
+25|06240|Holliston School District|Holliston School District
+25|06270|Holyoke School District|Holyoke School District
+25|06300|Hopedale School District|Hopedale School District
+25|06330|Hopkinton School District|Hopkinton School District
+25|06390|Hudson School District|Hudson School District
+25|06420|Hull School District|Hull School District
+25|06480|Ipswich School District|Ipswich School District
+25|06660|Lawrence School District|Lawrence School District
+25|06690|Lee School District|Lee School District
+25|06720|Leicester School District|Leicester School District
+25|06750|Lenox School District|Lenox School District
+25|06780|Leominster School District|Leominster School District
+25|06840|Lexington School District|Lexington School District
+25|06960|Littleton School District|Littleton School District
+25|06990|Longmeadow School District|Longmeadow School District
+25|07020|Lowell School District|Lowell School District
+25|07050|Ludlow School District|Ludlow School District
+25|07080|Lunenburg School District|Lunenburg School District
+25|07110|Lynn School District|Lynn School District
+25|07140|Lynnfield School District|Lynnfield School District
+25|07170|Malden School District|Malden School District
+25|07230|Mansfield School District|Mansfield School District
+25|07260|Marblehead School District|Marblehead School District
+25|07320|Marlborough School District|Marlborough School District
+25|07350|Marshfield School District|Marshfield School District
+25|07440|Mashpee School District|Mashpee School District
+25|07500|Maynard School District|Maynard School District
+25|07530|Medfield School District|Medfield School District
+25|07560|Medford School District|Medford School District
+25|07590|Medway School District|Medway School District
+25|07620|Melrose School District|Melrose School District
+25|07680|Mendon-Upton School District|Mendon-Upton School District
+25|07740|Methuen School District|Methuen School District
+25|07770|Middleborough School District|Middleborough School District
+25|07860|Milford School District|Milford School District
+25|07890|Millbury School District|Millbury School District
+25|07920|Millis School District|Millis School District
+25|07980|Milton School District|Milton School District
+25|07990|Mohawk Trail School District|Mohawk Trail School District
+25|08040|Monson School District|Monson School District
+25|08250|Nantucket School District|Nantucket School District
+25|08280|Narragansett School District|Narragansett School District
+25|08310|Nashoba School District|Nashoba School District
+25|08340|Natick School District|Natick School District
+25|08370|Needham School District|Needham School District
+25|08430|New Bedford School District|New Bedford School District
+25|08580|Newburyport School District|Newburyport School District
+25|08610|Newton School District|Newton School District
+25|08670|North Adams School District|North Adams School District
+25|08700|North Andover School District|North Andover School District
+25|08730|North Attleborough School District|North Attleborough School District
+25|08760|North Brookfield School District|North Brookfield School District
+25|08790|North Middlesex School District|North Middlesex School District
+25|08820|North Reading School District|North Reading School District
+25|08850|Northampton School District|Northampton School District
+25|08940|Northbridge School District|Northbridge School District
+25|09000|Norton School District|Norton School District
+25|09030|Norwell School District|Norwell School District
+25|09060|Norwood School District|Norwood School District
+25|09270|Oxford School District|Oxford School District
+25|09300|Palmer School District|Palmer School District
+25|09360|Peabody School District|Peabody School District
+25|09420|Pembroke School District|Pembroke School District
+25|09450|Pentucket School District|Pentucket School District
+25|09600|Pioneer Valley School District|Pioneer Valley School District
+25|09630|Pittsfield School District|Pittsfield School District
+25|09720|Plymouth School District|Plymouth School District
+25|09840|Provincetown School District|Provincetown School District
+25|09870|Quincy School District|Quincy School District
+25|09930|Randolph School District|Randolph School District
+25|09990|Reading School District|Reading School District
+25|10050|Revere School District|Revere School District
+25|10170|Rockland School District|Rockland School District
+25|10200|Rockport School District|Rockport School District
+25|10380|Salem School District|Salem School District
+25|10470|Sandwich School District|Sandwich School District
+25|10500|Saugus School District|Saugus School District
+25|10560|Scituate School District|Scituate School District
+25|10590|Seekonk School District|Seekonk School District
+25|10620|Sharon School District|Sharon School District
+25|10770|Shrewsbury School District|Shrewsbury School District
+25|10860|Somerset School District|Somerset School District
+25|10890|Somerville School District|Somerville School District
+25|10920|South Hadley School District|South Hadley School District
+25|11010|Southbridge School District|Southbridge School District
+25|11040|Southern Berkshire School District|Southern Berkshire School District
+25|11130|Springfield School District|Springfield School District
+25|11220|Stoneham School District|Stoneham School District
+25|11250|Stoughton School District|Stoughton School District
+25|11400|Sutton School District|Sutton School District
+25|11430|Swampscott School District|Swampscott School District
+25|11460|Swansea School District|Swansea School District
+25|11520|Taunton School District|Taunton School District
+25|11580|Tewksbury School District|Tewksbury School District
+25|11740|Triton School District|Triton School District
+25|11760|Tyngsborough School District|Tyngsborough School District
+25|11850|Uxbridge School District|Uxbridge School District
+25|11880|Wachusett School District|Wachusett School District
+25|11910|Wakefield School District|Wakefield School District
+25|11970|Walpole School District|Walpole School District
+25|12000|Waltham School District|Waltham School District
+25|12030|Ware School District|Ware School District
+25|12060|Wareham School District|Wareham School District
+25|12100|Quaboag Regional School District|Quaboag Regional School District
+25|12180|Watertown School District|Watertown School District
+25|12210|Wayland School District|Wayland School District
+25|12240|Webster School District|Webster School District
+25|12270|Wellesley School District|Wellesley School District
+25|12390|West Boylston School District|West Boylston School District
+25|12420|West Bridgewater School District|West Bridgewater School District
+25|12510|West Springfield School District|West Springfield School District
+25|12600|Westborough School District|Westborough School District
+25|12630|Westfield School District|Westfield School District
+25|12660|Westford School District|Westford School District
+25|12750|Weston School District|Weston School District
+25|12780|Westport School District|Westport School District
+25|12810|Westwood School District|Westwood School District
+25|12840|Weymouth School District|Weymouth School District
+25|12930|Whitman-Hanson School District|Whitman-Hanson School District
+25|13050|Wilmington School District|Wilmington School District
+25|13080|Winchendon School District|Winchendon School District
+25|13110|Winchester School District|Winchester School District
+25|13170|Winthrop School District|Winthrop School District
+25|13200|Woburn School District|Woburn School District
+25|13230|Worcester School District|Worcester School District
+25|99998|School District Not Defined (Water)|School District Not Defined (Water)

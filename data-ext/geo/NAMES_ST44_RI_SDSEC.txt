@@ -1,0 +1,2 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+44|00420|Foster-Glocester Regional School District|Foster-Glocester Regional School District

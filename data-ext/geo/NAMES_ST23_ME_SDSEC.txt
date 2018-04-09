@@ -1,0 +1,5 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+23|03480|Bremen|Bremen
+23|04830|Damariscotta|Damariscotta
+23|08500|Mount Desert Community School District|Mount Desert Community School District
+23|08760|Newcastle|Newcastle

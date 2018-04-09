@@ -1,0 +1,3 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+45|45013|Beaufort County School District within Beaufort Marine Corps Air Station|Beaufort County School District within Beaufort Marine Corps Air Station
+45|45079|Richland County School District 2 within Fort Jackson|Richland County School District 2 within Fort Jackson

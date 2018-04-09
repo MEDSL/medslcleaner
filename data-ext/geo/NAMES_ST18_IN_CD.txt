@@ -1,0 +1,10 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+18|01|1|Congressional District 1
+18|02|2|Congressional District 2
+18|03|3|Congressional District 3
+18|04|4|Congressional District 4
+18|05|5|Congressional District 5
+18|06|6|Congressional District 6
+18|07|7|Congressional District 7
+18|08|8|Congressional District 8
+18|09|9|Congressional District 9

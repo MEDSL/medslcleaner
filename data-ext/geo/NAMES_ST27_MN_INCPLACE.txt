@@ -1,0 +1,855 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+27|00172|Ada|Ada city
+27|00190|Adams|Adams city
+27|00262|Adrian|Adrian city
+27|00316|Afton|Afton city
+27|00460|Aitkin|Aitkin city
+27|00496|Akeley|Akeley city
+27|00622|Albany|Albany city
+27|00676|Alberta|Alberta city
+27|00694|Albert Lea|Albert Lea city
+27|00730|Albertville|Albertville city
+27|00838|Alden|Alden city
+27|00892|Aldrich|Aldrich city
+27|00928|Alexandria|Alexandria city
+27|01162|Alpha|Alpha city
+27|01234|Altura|Altura city
+27|01252|Alvarado|Alvarado city
+27|01324|Amboy|Amboy city
+27|01486|Andover|Andover city
+27|01684|Annandale|Annandale city
+27|01720|Anoka|Anoka city
+27|01864|Appleton|Appleton city
+27|01900|Apple Valley|Apple Valley city
+27|01972|Arco|Arco city
+27|02026|Arden Hills|Arden Hills city
+27|02134|Argyle|Argyle city
+27|02152|Arlington|Arlington city
+27|02422|Ashby|Ashby city
+27|02548|Askov|Askov city
+27|02692|Atwater|Atwater city
+27|02728|Audubon|Audubon city
+27|02872|Aurora|Aurora city
+27|02908|Austin|Austin city
+27|03052|Avoca|Avoca city
+27|03070|Avon|Avon city
+27|03106|Babbitt|Babbitt city
+27|03124|Backus|Backus city
+27|03160|Badger|Badger city
+27|03196|Bagley|Bagley city
+27|03250|Balaton|Balaton city
+27|03574|Barnesville|Barnesville city
+27|03628|Barnum|Barnum city
+27|03682|Barrett|Barrett city
+27|03718|Barry|Barry city
+27|03970|Battle Lake|Battle Lake city
+27|04024|Baudette|Baudette city
+27|04042|Baxter|Baxter city
+27|04114|Bayport|Bayport city
+27|04204|Beardsley|Beardsley city
+27|04456|Beaver Bay|Beaver Bay city
+27|04492|Beaver Creek|Beaver Creek city
+27|04618|Becker|Becker city
+27|04672|Bejou|Bejou city
+27|04762|Belgrade|Belgrade city
+27|04798|Bellechester|Bellechester city
+27|04834|Belle Plaine|Belle Plaine city
+27|04960|Bellingham|Bellingham city
+27|05014|Beltrami|Beltrami city
+27|05050|Belview|Belview city
+27|05068|Bemidji|Bemidji city
+27|05104|Bena|Bena city
+27|05212|Benson|Benson city
+27|05482|Bertha|Bertha city
+27|05554|Bethel|Bethel city
+27|05644|Bigelow|Bigelow city
+27|05680|Big Falls|Big Falls city
+27|05698|Bigfork|Bigfork city
+27|05752|Big Lake|Big Lake city
+27|05896|Bingham Lake|Bingham Lake city
+27|06058|Birchwood Village|Birchwood Village city
+27|06076|Bird Island|Bird Island city
+27|06112|Biscay|Biscay city
+27|06148|Biwabik|Biwabik city
+27|06256|Blackduck|Blackduck city
+27|06382|Blaine|Blaine city
+27|06490|Blomkest|Blomkest city
+27|06580|Blooming Prairie|Blooming Prairie city
+27|06616|Bloomington|Bloomington city
+27|06688|Blue Earth|Blue Earth city
+27|06778|Bluffton|Bluffton city
+27|06814|Bock|Bock city
+27|07030|Borup|Borup city
+27|07048|Bovey|Bovey city
+27|07066|Bowlus|Bowlus city
+27|07138|Boyd|Boyd city
+27|07174|Boy River|Boy River city
+27|07282|Braham|Braham city
+27|07300|Brainerd|Brainerd city
+27|07336|Brandon|Brandon city
+27|07462|Breckenridge|Breckenridge city
+27|07516|Breezy Point|Breezy Point city
+27|07660|Brewster|Brewster city
+27|07678|Bricelyn|Bricelyn city
+27|07948|Brooklyn Center|Brooklyn Center city
+27|07966|Brooklyn Park|Brooklyn Park city
+27|07984|Brook Park|Brook Park city
+27|08038|Brooks|Brooks city
+27|08056|Brookston|Brookston city
+27|08092|Brooten|Brooten city
+27|08110|Browerville|Browerville city
+27|08164|Brownsdale|Brownsdale city
+27|08200|Browns Valley|Browns Valley city
+27|08218|Brownsville|Brownsville city
+27|08254|Brownton|Brownton city
+27|08290|Bruno|Bruno city
+27|08416|Buckman|Buckman city
+27|08452|Buffalo|Buffalo city
+27|08488|Buffalo Lake|Buffalo Lake city
+27|08524|Buhl|Buhl city
+27|08794|Burnsville|Burnsville city
+27|08902|Burtrum|Burtrum city
+27|08992|Butterfield|Butterfield city
+27|09154|Byron|Byron city
+27|09226|Caledonia|Caledonia city
+27|09280|Callaway|Callaway city
+27|09316|Calumet|Calumet city
+27|09370|Cambridge|Cambridge city
+27|09496|Campbell|Campbell city
+27|09604|Canby|Canby city
+27|09730|Cannon Falls|Cannon Falls city
+27|09802|Canton|Canton city
+27|09964|Carlos|Carlos city
+27|10018|Carlton|Carlton city
+27|10144|Carver|Carver city
+27|10252|Cass Lake|Cass Lake city
+27|10468|Cedar Mills|Cedar Mills city
+27|10576|Center City|Center City city
+27|10648|Centerville|Centerville city
+27|10792|Ceylon|Ceylon city
+27|10846|Champlin|Champlin city
+27|10900|Chandler|Chandler city
+27|10918|Chanhassen|Chanhassen city
+27|10972|Chaska|Chaska city
+27|11008|Chatfield|Chatfield city
+27|11296|Chickamaw Beach|Chickamaw Beach city
+27|11350|Chisago City|Chisago City city
+27|11386|Chisholm|Chisholm city
+27|11440|Chokio|Chokio city
+27|11494|Circle Pines|Circle Pines city
+27|11548|Clara City|Clara City city
+27|11566|Claremont|Claremont city
+27|11602|Clarissa|Clarissa city
+27|11656|Clarkfield|Clarkfield city
+27|11674|Clarks Grove|Clarks Grove city
+27|11746|Clearbrook|Clearbrook city
+27|11764|Clear Lake|Clear Lake city
+27|11800|Clearwater|Clearwater city
+27|11836|Clements|Clements city
+27|11872|Cleveland|Cleveland city
+27|11962|Climax|Climax city
+27|11980|Clinton|Clinton city
+27|12088|Clitherall|Clitherall city
+27|12124|Clontarf|Clontarf city
+27|12160|Cloquet|Cloquet city
+27|12376|Coates|Coates city
+27|12394|Cobden|Cobden city
+27|12412|Cohasset|Cohasset city
+27|12430|Cokato|Cokato city
+27|12484|Cold Spring|Cold Spring city
+27|12502|Coleraine|Coleraine city
+27|12664|Cologne|Cologne city
+27|12700|Columbia Heights|Columbia Heights city
+27|12718|Columbus|Columbus city
+27|12772|Comfrey|Comfrey city
+27|12862|Comstock|Comstock city
+27|12952|Conger|Conger city
+27|13006|Cook|Cook city
+27|13114|Coon Rapids|Coon Rapids city
+27|13168|Corcoran|Corcoran city
+27|13384|Correll|Correll city
+27|13420|Cosmos|Cosmos city
+27|13456|Cottage Grove|Cottage Grove city
+27|13564|Cottonwood|Cottonwood city
+27|13582|Courtland|Courtland city
+27|13780|Cromwell|Cromwell city
+27|13870|Crookston|Crookston city
+27|13924|Crosby|Crosby city
+27|13978|Crosslake|Crosslake city
+27|14158|Crystal|Crystal city
+27|14320|Currie|Currie city
+27|14428|Cuyuna|Cuyuna city
+27|14446|Cyrus|Cyrus city
+27|14518|Dakota|Dakota city
+27|14626|Dalton|Dalton city
+27|14716|Danube|Danube city
+27|14734|Danvers|Danvers city
+27|14770|Darfur|Darfur city
+27|14842|Darwin|Darwin city
+27|14878|Dassel|Dassel city
+27|14968|Dawson|Dawson city
+27|15022|Dayton|Dayton city
+27|15148|Deephaven|Deephaven city
+27|15184|Deer Creek|Deer Creek city
+27|15310|Deer River|Deer River city
+27|15346|Deerwood|Deerwood city
+27|15418|De Graff|De Graff city
+27|15454|Delano|Delano city
+27|15472|Delavan|Delavan city
+27|15544|Delhi|Delhi city
+27|15616|Dellwood|Dellwood city
+27|15670|Denham|Denham city
+27|15706|Dennison|Dennison city
+27|15724|Dent|Dent city
+27|15832|Detroit Lakes|Detroit Lakes city
+27|15886|Dexter|Dexter city
+27|15976|Dilworth|Dilworth city
+27|15994|Dodge Center|Dodge Center city
+27|16030|Donaldson|Donaldson city
+27|16084|Donnelly|Donnelly city
+27|16156|Doran|Doran city
+27|16264|Dover|Dover city
+27|16300|Dovray|Dovray city
+27|17000|Duluth|Duluth city
+27|17090|Dumont|Dumont city
+27|17126|Dundas|Dundas city
+27|17144|Dundee|Dundee city
+27|17180|Dunnell|Dunnell city
+27|17288|Eagan|Eagan city
+27|17342|Eagle Bend|Eagle Bend city
+27|17378|Eagle Lake|Eagle Lake city
+27|17486|East Bethel|East Bethel city
+27|17612|East Grand Forks|East Grand Forks city
+27|17630|East Gull Lake|East Gull Lake city
+27|17738|Easton|Easton city
+27|17900|Echo|Echo city
+27|18116|Eden Prairie|Eden Prairie city
+27|18134|Eden Valley|Eden Valley city
+27|18152|Edgerton|Edgerton city
+27|18188|Edina|Edina city
+27|18260|Effie|Effie city
+27|18368|Eitzen|Eitzen city
+27|18386|Elba|Elba city
+27|18458|Elbow Lake|Elbow Lake city
+27|18530|Elgin|Elgin city
+27|18566|Elizabeth|Elizabeth city
+27|18662|Elko New Market|Elko New Market city
+27|18674|Elk River|Elk River city
+27|18728|Elkton|Elkton city
+27|18746|Ellendale|Ellendale city
+27|18836|Ellsworth|Ellsworth city
+27|18872|Elmdale|Elmdale city
+27|18998|Elmore|Elmore city
+27|19088|Elrosa|Elrosa city
+27|19142|Ely|Ely city
+27|19160|Elysian|Elysian city
+27|19286|Emily|Emily city
+27|19340|Emmons|Emmons city
+27|19556|Erhard|Erhard city
+27|19700|Erskine|Erskine city
+27|19880|Evan|Evan city
+27|19898|Evansville|Evansville city
+27|19934|Eveleth|Eveleth city
+27|20078|Excelsior|Excelsior city
+27|20114|Eyota|Eyota city
+27|20222|Fairfax|Fairfax city
+27|20330|Fairmont|Fairmont city
+27|20420|Falcon Heights|Falcon Heights city
+27|20546|Faribault|Faribault city
+27|20618|Farmington|Farmington city
+27|20690|Farwell|Farwell city
+27|20798|Federal Dam|Federal Dam city
+27|20834|Felton|Felton city
+27|20906|Fergus Falls|Fergus Falls city
+27|20978|Fertile|Fertile city
+27|21032|Fifty Lakes|Fifty Lakes city
+27|21122|Finlayson|Finlayson city
+27|21158|Fisher|Fisher city
+27|21266|Flensburg|Flensburg city
+27|21338|Floodwood|Floodwood city
+27|21410|Florence|Florence city
+27|21536|Foley|Foley city
+27|21608|Forada|Forada city
+27|21770|Forest Lake|Forest Lake city
+27|21824|Foreston|Foreston city
+27|21932|Fort Ripley|Fort Ripley city
+27|21986|Fosston|Fosston city
+27|22094|Fountain|Fountain city
+27|22202|Foxhome|Foxhome city
+27|22364|Franklin|Franklin city
+27|22472|Frazee|Frazee city
+27|22526|Freeborn|Freeborn city
+27|22652|Freeport|Freeport city
+27|22814|Fridley|Fridley city
+27|22940|Frost|Frost city
+27|22958|Fulda|Fulda city
+27|22976|Funkley|Funkley city
+27|23120|Garfield|Garfield city
+27|23192|Garrison|Garrison city
+27|23228|Garvin|Garvin city
+27|23246|Gary|Gary city
+27|23300|Gaylord|Gaylord city
+27|23318|Gem Lake|Gem Lake city
+27|23354|Geneva|Geneva city
+27|23444|Genola|Genola city
+27|23498|Georgetown|Georgetown city
+27|23660|Ghent|Ghent city
+27|23678|Gibbon|Gibbon city
+27|23714|Gilbert|Gilbert city
+27|23804|Gilman|Gilman city
+27|23948|Glencoe|Glencoe city
+27|24056|Glenville|Glenville city
+27|24074|Glenwood|Glenwood city
+27|24182|Glyndon|Glyndon city
+27|24308|Golden Valley|Golden Valley city
+27|24344|Gonvick|Gonvick city
+27|24398|Goodhue|Goodhue city
+27|24470|Goodridge|Goodridge city
+27|24506|Good Thunder|Good Thunder city
+27|24524|Goodview|Goodview city
+27|24758|Graceville|Graceville city
+27|24884|Granada|Granada city
+27|24992|Grand Marais|Grand Marais city
+27|25010|Grand Meadow|Grand Meadow city
+27|25118|Grand Rapids|Grand Rapids city
+27|25280|Granite Falls|Granite Falls city
+27|25334|Grant|Grant city
+27|25424|Grasston|Grasston city
+27|25604|Greenbush|Greenbush city
+27|25622|Greenfield|Greenfield city
+27|25658|Green Isle|Green Isle city
+27|25874|Greenwald|Greenwald city
+27|25918|Greenwood|Greenwood city
+27|26000|Grey Eagle|Grey Eagle city
+27|26126|Grove City|Grove City city
+27|26216|Grygla|Grygla city
+27|26270|Gully|Gully city
+27|26378|Hackensack|Hackensack city
+27|26450|Hadley|Hadley city
+27|26576|Hallock|Hallock city
+27|26612|Halma|Halma city
+27|26630|Halstad|Halstad city
+27|26666|Hamburg|Hamburg city
+27|26738|Ham Lake|Ham Lake city
+27|26828|Hammond|Hammond city
+27|26864|Hampton|Hampton city
+27|26936|Hancock|Hancock city
+27|26972|Hanley Falls|Hanley Falls city
+27|26990|Hanover|Hanover city
+27|27008|Hanska|Hanska city
+27|27098|Harding|Harding city
+27|27116|Hardwick|Hardwick city
+27|27188|Harmony|Harmony city
+27|27278|Harris|Harris city
+27|27404|Hartland|Hartland city
+27|27530|Hastings|Hastings city
+27|27566|Hatfield|Hatfield city
+27|27746|Hawley|Hawley city
+27|27872|Hayfield|Hayfield city
+27|27944|Hayward|Hayward city
+27|28016|Hazel Run|Hazel Run city
+27|28124|Hector|Hector city
+27|28214|Heidelberg|Heidelberg city
+27|28394|Henderson|Henderson city
+27|28430|Hendricks|Hendricks city
+27|28484|Hendrum|Hendrum city
+27|28520|Henning|Henning city
+27|28574|Henriette|Henriette city
+27|28646|Herman|Herman city
+27|28682|Hermantown|Hermantown city
+27|28700|Heron Lake|Heron Lake city
+27|28754|Hewitt|Hewitt city
+27|28790|Hibbing|Hibbing city
+27|29096|Hill City|Hill City city
+27|29150|Hillman|Hillman city
+27|29204|Hills|Hills city
+27|29258|Hilltop|Hilltop city
+27|29294|Hinckley|Hinckley city
+27|29402|Hitterdal|Hitterdal city
+27|29474|Hoffman|Hoffman city
+27|29510|Hokah|Hokah city
+27|29582|Holdingford|Holdingford city
+27|29618|Holland|Holland city
+27|29636|Hollandale|Hollandale city
+27|29672|Holloway|Holloway city
+27|29870|Holt|Holt city
+27|30140|Hopkins|Hopkins city
+27|30230|Houston|Houston city
+27|30284|Howard Lake|Howard Lake city
+27|30302|Hoyt Lakes|Hoyt Lakes city
+27|30392|Hugo|Hugo city
+27|30446|Humboldt|Humboldt city
+27|30644|Hutchinson|Hutchinson city
+27|30806|Ihlen|Ihlen city
+27|30842|Independence|Independence city
+27|31040|International Falls|International Falls city
+27|31076|Inver Grove Heights|Inver Grove Heights city
+27|31094|Iona|Iona city
+27|31238|Iron Junction|Iron Junction city
+27|31274|Ironton|Ironton city
+27|31328|Isanti|Isanti city
+27|31472|Isle|Isle city
+27|31526|Ivanhoe|Ivanhoe city
+27|31562|Jackson|Jackson city
+27|31706|Janesville|Janesville city
+27|31760|Jasper|Jasper city
+27|31796|Jeffers|Jeffers city
+27|31832|Jenkins|Jenkins city
+27|32012|Johnson|Johnson city
+27|32174|Jordan|Jordan city
+27|32372|Kandiyohi|Kandiyohi city
+27|32444|Karlstad|Karlstad city
+27|32462|Kasota|Kasota city
+27|32498|Kasson|Kasson city
+27|32570|Keewatin|Keewatin city
+27|32606|Kelliher|Kelliher city
+27|32642|Kellogg|Kellogg city
+27|32732|Kennedy|Kennedy city
+27|32750|Kenneth|Kenneth city
+27|32768|Kensington|Kensington city
+27|32786|Kent|Kent city
+27|32840|Kenyon|Kenyon city
+27|32876|Kerkhoven|Kerkhoven city
+27|32912|Kerrick|Kerrick city
+27|32966|Kettle River|Kettle River city
+27|33056|Kiester|Kiester city
+27|33110|Kilkenny|Kilkenny city
+27|33164|Kimball|Kimball city
+27|33236|Kinbrae|Kinbrae city
+27|33344|Kingston|Kingston city
+27|33416|Kinney|Kinney city
+27|33866|La Crescent|La Crescent city
+27|33920|Lafayette|Lafayette city
+27|34100|Lake Benton|Lake Benton city
+27|34136|Lake Bronson|Lake Bronson city
+27|34172|Lake City|Lake City city
+27|34190|Lake Crystal|Lake Crystal city
+27|34244|Lake Elmo|Lake Elmo city
+27|34316|Lakefield|Lakefield city
+27|34478|Lake Henry|Lake Henry city
+27|34622|Lakeland|Lakeland city
+27|34658|Lakeland Shores|Lakeland Shores city
+27|34676|Lake Lillian|Lake Lillian city
+27|34784|Lake Park|Lake Park city
+27|34865|Lake St. Croix Beach|Lake St. Croix Beach city
+27|34928|Lake Shore|Lake Shore city
+27|35180|Lakeville|Lakeville city
+27|35198|Lake Wilson|Lake Wilson city
+27|35288|Lamberton|Lamberton city
+27|35378|Lancaster|Lancaster city
+27|35414|Landfall|Landfall city
+27|35450|Lanesboro|Lanesboro city
+27|35612|Laporte|Laporte city
+27|35648|La Prairie|La Prairie city
+27|35702|La Salle|La Salle city
+27|35720|Lastrup|Lastrup city
+27|35738|Lauderdale|Lauderdale city
+27|36134|Le Center|Le Center city
+27|36404|Lengby|Lengby city
+27|36494|Leonard|Leonard city
+27|36530|Leonidas|Leonidas city
+27|36620|Le Roy|Le Roy city
+27|36728|Lester Prairie|Lester Prairie city
+27|36746|Le Sueur|Le Sueur city
+27|36800|Lewiston|Lewiston city
+27|36818|Lewisville|Lewisville city
+27|36836|Lexington|Lexington city
+27|37016|Lilydale|Lilydale city
+27|37304|Lindstrom|Lindstrom city
+27|37322|Lino Lakes|Lino Lakes city
+27|37412|Lismore|Lismore city
+27|37448|Litchfield|Litchfield city
+27|37502|Little Canada|Little Canada city
+27|37556|Little Falls|Little Falls city
+27|37592|Littlefork|Littlefork city
+27|37970|Long Beach|Long Beach city
+27|38006|Long Lake|Long Lake city
+27|38060|Long Prairie|Long Prairie city
+27|38114|Longville|Longville city
+27|38150|Lonsdale|Lonsdale city
+27|38222|Loretto|Loretto city
+27|38258|Louisburg|Louisburg city
+27|38366|Lowry|Lowry city
+27|38420|Lucan|Lucan city
+27|38564|Luverne|Luverne city
+27|38654|Lyle|Lyle city
+27|38708|Lynd|Lynd city
+27|38888|Mabel|Mabel city
+27|38996|McGrath|McGrath city
+27|39014|McGregor|McGregor city
+27|39050|McIntosh|McIntosh city
+27|39140|McKinley|McKinley city
+27|39230|Madelia|Madelia city
+27|39266|Madison|Madison city
+27|39320|Madison Lake|Madison Lake city
+27|39338|Magnolia|Magnolia city
+27|39392|Mahnomen|Mahnomen city
+27|39428|Mahtomedi|Mahtomedi city
+27|39716|Manchester|Manchester city
+27|39806|Manhattan Beach|Manhattan Beach city
+27|39878|Mankato|Mankato city
+27|39986|Mantorville|Mantorville city
+27|40166|Maple Grove|Maple Grove city
+27|40220|Maple Lake|Maple Lake city
+27|40256|Maple Plain|Maple Plain city
+27|40310|Mapleton|Mapleton city
+27|40346|Mapleview|Mapleview city
+27|40382|Maplewood|Maplewood city
+27|40418|Marble|Marble city
+27|40526|Marietta|Marietta city
+27|40562|Marine on St. Croix|Marine on St. Croix city
+27|40688|Marshall|Marshall city
+27|41138|Mayer|Mayer city
+27|41210|Maynard|Maynard city
+27|41282|Mazeppa|Mazeppa city
+27|41372|Meadowlands|Meadowlands city
+27|41426|Medford|Medford city
+27|41462|Medicine Lake|Medicine Lake city
+27|41480|Medina|Medina city
+27|41534|Meire Grove|Meire Grove city
+27|41570|Melrose|Melrose city
+27|41660|Menahga|Menahga city
+27|41678|Mendota|Mendota city
+27|41696|Mendota Heights|Mendota Heights city
+27|41714|Mentor|Mentor city
+27|41912|Middle River|Middle River city
+27|42092|Miesville|Miesville city
+27|42110|Milaca|Milaca city
+27|42146|Milan|Milan city
+27|42254|Millerville|Millerville city
+27|42290|Millville|Millville city
+27|42362|Milroy|Milroy city
+27|42398|Miltona|Miltona city
+27|43000|Minneapolis|Minneapolis city
+27|43036|Minneiska|Minneiska city
+27|43126|Minneota|Minneota city
+27|43144|Minnesota City|Minnesota City city
+27|43198|Minnesota Lake|Minnesota Lake city
+27|43252|Minnetonka|Minnetonka city
+27|43270|Minnetonka Beach|Minnetonka Beach city
+27|43306|Minnetrista|Minnetrista city
+27|43540|Mizpah|Mizpah city
+27|43720|Montevideo|Montevideo city
+27|43738|Montgomery|Montgomery city
+27|43774|Monticello|Monticello city
+27|43810|Montrose|Montrose city
+27|43864|Moorhead|Moorhead city
+27|43954|Moose Lake|Moose Lake city
+27|44044|Mora|Mora city
+27|44116|Morgan|Morgan city
+27|44242|Morris|Morris city
+27|44296|Morristown|Morristown city
+27|44368|Morton|Morton city
+27|44422|Motley|Motley city
+27|44476|Mound|Mound city
+27|44530|Mounds View|Mounds View city
+27|44548|Mountain Iron|Mountain Iron city
+27|44566|Mountain Lake|Mountain Lake city
+27|44818|Murdock|Murdock city
+27|44890|Myrtle|Myrtle city
+27|44944|Nashua|Nashua city
+27|44980|Nashwauk|Nashwauk city
+27|45016|Nassau|Nassau city
+27|45106|Nelson|Nelson city
+27|45196|Nerstrand|Nerstrand city
+27|45340|Nevis|Nevis city
+27|45376|New Auburn|New Auburn city
+27|45430|New Brighton|New Brighton city
+27|45520|Newfolden|Newfolden city
+27|45556|New Germany|New Germany city
+27|45628|New Hope|New Hope city
+27|45682|New London|New London city
+27|45772|New Munich|New Munich city
+27|45790|Newport|Newport city
+27|45808|New Prague|New Prague city
+27|45862|New Richland|New Richland city
+27|46024|New Trier|New Trier city
+27|46042|New Ulm|New Ulm city
+27|46060|New York Mills|New York Mills city
+27|46150|Nicollet|Nicollet city
+27|46258|Nielsville|Nielsville city
+27|46294|Nimrod|Nimrod city
+27|46348|Nisswa|Nisswa city
+27|46492|Norcross|Norcross city
+27|46798|North Branch|North Branch city
+27|46924|Northfield|Northfield city
+27|47068|North Mankato|North Mankato city
+27|47104|North Oaks|North Oaks city
+27|47122|Northome|Northome city
+27|47212|Northrop|Northrop city
+27|47221|North St. Paul|North St. Paul city
+27|47520|Norwood Young America|Norwood Young America city
+27|47536|Nowthen|Nowthen city
+27|47680|Oakdale|Oakdale city
+27|47690|Oak Grove|Oak Grove city
+27|47914|Oak Park Heights|Oak Park Heights city
+27|48058|Odessa|Odessa city
+27|48094|Odin|Odin city
+27|48130|Ogema|Ogema city
+27|48166|Ogilvie|Ogilvie city
+27|48184|Okabena|Okabena city
+27|48202|Oklee|Oklee city
+27|48256|Olivia|Olivia city
+27|48310|Onamia|Onamia city
+27|48562|Ormsby|Ormsby city
+27|48580|Orono|Orono city
+27|48598|Oronoco|Oronoco city
+27|48634|Orr|Orr city
+27|48706|Ortonville|Ortonville city
+27|48796|Osakis|Osakis city
+27|48976|Oslo|Oslo city
+27|49012|Osseo|Osseo city
+27|49030|Ostrander|Ostrander city
+27|49138|Otsego|Otsego city
+27|49210|Ottertail|Ottertail city
+27|49300|Owatonna|Owatonna city
+27|49498|Palisade|Palisade city
+27|49732|Parkers Prairie|Parkers Prairie city
+27|49768|Park Rapids|Park Rapids city
+27|49966|Paynesville|Paynesville city
+27|50056|Pease|Pease city
+27|50164|Pelican Rapids|Pelican Rapids city
+27|50200|Pemberton|Pemberton city
+27|50344|Pennock|Pennock city
+27|50416|Pequot Lakes|Pequot Lakes city
+27|50470|Perham|Perham city
+27|50506|Perley|Perley city
+27|50596|Peterson|Peterson city
+27|50776|Pierz|Pierz city
+27|50902|Pillager|Pillager city
+27|51064|Pine City|Pine City city
+27|51136|Pine Island|Pine Island city
+27|51280|Pine River|Pine River city
+27|51316|Pine Springs|Pine Springs city
+27|51388|Pipestone|Pipestone city
+27|51424|Plainview|Plainview city
+27|51460|Plato|Plato city
+27|51712|Plummer|Plummer city
+27|51730|Plymouth|Plymouth city
+27|52144|Porter|Porter city
+27|52450|Preston|Preston city
+27|52522|Princeton|Princeton city
+27|52558|Prinsburg|Prinsburg city
+27|52594|Prior Lake|Prior Lake city
+27|52630|Proctor|Proctor city
+27|52756|Quamba|Quamba city
+27|52882|Racine|Racine city
+27|53026|Ramsey|Ramsey city
+27|53080|Randall|Randall city
+27|53098|Randolph|Randolph city
+27|53134|Ranier|Ranier city
+27|53296|Raymond|Raymond city
+27|53476|Red Lake Falls|Red Lake Falls city
+27|53620|Red Wing|Red Wing city
+27|53656|Redwood Falls|Redwood Falls city
+27|53710|Regal|Regal city
+27|53782|Remer|Remer city
+27|53890|Renville|Renville city
+27|53908|Revere|Revere city
+27|53998|Rice|Rice city
+27|54214|Richfield|Richfield city
+27|54268|Richmond|Richmond city
+27|54340|Richville|Richville city
+27|54736|Riverton|Riverton city
+27|54808|Robbinsdale|Robbinsdale city
+27|54880|Rochester|Rochester city
+27|54934|Rock Creek|Rock Creek city
+27|55006|Rockford|Rockford city
+27|55078|Rockville|Rockville city
+27|55186|Rogers|Rogers city
+27|55276|Rollingstone|Rollingstone city
+27|55438|Roosevelt|Roosevelt city
+27|55510|Roscoe|Roscoe city
+27|55546|Roseau|Roseau city
+27|55600|Rose Creek|Rose Creek city
+27|55726|Rosemount|Rosemount city
+27|55852|Roseville|Roseville city
+27|56014|Rothsay|Rothsay city
+27|56086|Round Lake|Round Lake city
+27|56176|Royalton|Royalton city
+27|56266|Rush City|Rush City city
+27|56284|Rushford|Rushford city
+27|56302|Rushford Village|Rushford Village city
+27|56338|Rushmore|Rushmore city
+27|56428|Russell|Russell city
+27|56482|Ruthton|Ruthton city
+27|56518|Rutledge|Rutledge city
+27|56554|Sabin|Sabin city
+27|56572|Sacred Heart|Sacred Heart city
+27|56680|St. Anthony|St. Anthony city
+27|56698|St. Anthony|St. Anthony city
+27|56724|St. Augusta|St. Augusta city
+27|56770|St. Bonifacius|St. Bonifacius city
+27|56788|St. Charles|St. Charles city
+27|56824|St. Clair|St. Clair city
+27|56896|St. Cloud|St. Cloud city
+27|56950|St. Francis|St. Francis city
+27|57022|St. Hilaire|St. Hilaire city
+27|57040|St. James|St. James city
+27|57130|St. Joseph|St. Joseph city
+27|57202|St. Leo|St. Leo city
+27|57220|St. Louis Park|St. Louis Park city
+27|57238|St. Martin|St. Martin city
+27|57292|St. Marys Point|St. Marys Point city
+27|57346|St. Michael|St. Michael city
+27|58000|St. Paul|St. Paul city
+27|58018|St. Paul Park|St. Paul Park city
+27|58036|St. Peter|St. Peter city
+27|58072|St. Rosa|St. Rosa city
+27|58090|St. Stephen|St. Stephen city
+27|58144|St. Vincent|St. Vincent city
+27|58306|Sanborn|Sanborn city
+27|58396|Sandstone|Sandstone city
+27|58576|Sargeant|Sargeant city
+27|58612|Sartell|Sartell city
+27|58648|Sauk Centre|Sauk Centre city
+27|58684|Sauk Rapids|Sauk Rapids city
+27|58738|Savage|Savage city
+27|58900|Scandia|Scandia city
+27|58936|Scanlon|Scanlon city
+27|59098|Seaforth|Seaforth city
+27|59152|Sebeka|Sebeka city
+27|59188|Sedan|Sedan city
+27|59314|Shafer|Shafer city
+27|59350|Shakopee|Shakopee city
+27|59566|Shelly|Shelly city
+27|59620|Sherburn|Sherburn city
+27|59782|Shevlin|Shevlin city
+27|59998|Shoreview|Shoreview city
+27|60016|Shorewood|Shorewood city
+27|60250|Silver Bay|Silver Bay city
+27|60376|Silver Lake|Silver Lake city
+27|60754|Skyline|Skyline city
+27|60808|Slayton|Slayton city
+27|60844|Sleepy Eye|Sleepy Eye city
+27|61006|Sobieski|Sobieski city
+27|61114|Solway|Solway city
+27|61402|South Haven|South Haven city
+27|61492|South St. Paul|South St. Paul city
+27|61690|Spicer|Spicer city
+27|61816|Springfield|Springfield city
+27|61852|Spring Grove|Spring Grove city
+27|61888|Spring Hill|Spring Hill city
+27|61996|Spring Lake Park|Spring Lake Park city
+27|62014|Spring Park|Spring Park city
+27|62104|Spring Valley|Spring Valley city
+27|62284|Squaw Lake|Squaw Lake city
+27|62320|Stacy|Stacy city
+27|62446|Staples|Staples city
+27|62500|Starbuck|Starbuck city
+27|62662|Steen|Steen city
+27|62698|Stephen|Stephen city
+27|62788|Stewart|Stewart city
+27|62806|Stewartville|Stewartville city
+27|62824|Stillwater|Stillwater city
+27|62896|Stockton|Stockton city
+27|63022|Storden|Storden city
+27|63112|Strandquist|Strandquist city
+27|63130|Strathcona|Strathcona city
+27|63220|Sturgeon Lake|Sturgeon Lake city
+27|63454|Sunburg|Sunburg city
+27|63544|Sunfish Lake|Sunfish Lake city
+27|63778|Swanville|Swanville city
+27|64048|Taconite|Taconite city
+27|64156|Tamarack|Tamarack city
+27|64210|Taopi|Taopi city
+27|64264|Taunton|Taunton city
+27|64318|Taylors Falls|Taylors Falls city
+27|64426|Tenney|Tenney city
+27|64444|Tenstrike|Tenstrike city
+27|64570|Thief River Falls|Thief River Falls city
+27|64750|Thomson|Thomson city
+27|64948|Tintah|Tintah city
+27|65164|Tonka Bay|Tonka Bay city
+27|65272|Tower|Tower city
+27|65308|Tracy|Tracy city
+27|65344|Trail|Trail city
+27|65470|Trimont|Trimont city
+27|65506|Trommald|Trommald city
+27|65542|Trosky|Trosky city
+27|65668|Truman|Truman city
+27|65794|Turtle River|Turtle River city
+27|65920|Twin Lakes|Twin Lakes city
+27|65938|Twin Valley|Twin Valley city
+27|65956|Two Harbors|Two Harbors city
+27|66046|Tyler|Tyler city
+27|66136|Ulen|Ulen city
+27|66172|Underwood|Underwood city
+27|66334|Upsala|Upsala city
+27|66388|Urbank|Urbank city
+27|66424|Utica|Utica city
+27|66460|Vadnais Heights|Vadnais Heights city
+27|66766|Vergas|Vergas city
+27|66802|Vermillion|Vermillion city
+27|66874|Verndale|Verndale city
+27|66910|Vernon Center|Vernon Center city
+27|66982|Vesta|Vesta city
+27|67036|Victoria|Victoria city
+27|67090|Viking|Viking city
+27|67144|Villard|Villard city
+27|67216|Vining|Vining city
+27|67288|Virginia|Virginia city
+27|67378|Wabasha|Wabasha city
+27|67396|Wabasso|Wabasso city
+27|67432|Waconia|Waconia city
+27|67504|Wadena|Wadena city
+27|67558|Wahkon|Wahkon city
+27|67612|Waite Park|Waite Park city
+27|67756|Waldorf|Waldorf city
+27|67792|Walker|Walker city
+27|67846|Walnut Grove|Walnut Grove city
+27|67900|Walters|Walters city
+27|67918|Waltham|Waltham city
+27|67972|Wanamingo|Wanamingo city
+27|68008|Wanda|Wanda city
+27|68080|Warba|Warba city
+27|68170|Warren|Warren city
+27|68224|Warroad|Warroad city
+27|68296|Waseca|Waseca city
+27|68548|Watertown|Watertown city
+27|68584|Waterville|Waterville city
+27|68620|Watkins|Watkins city
+27|68656|Watson|Watson city
+27|68674|Waubun|Waubun city
+27|68764|Waverly|Waverly city
+27|68818|Wayzata|Wayzata city
+27|69070|Welcome|Welcome city
+27|69106|Wells|Wells city
+27|69142|Wendell|Wendell city
+27|69250|Westbrook|Westbrook city
+27|69304|West Concord|West Concord city
+27|69628|Westport|Westport city
+27|69700|West St. Paul|West St. Paul city
+27|69736|West Union|West Union city
+27|69808|Whalan|Whalan city
+27|69844|Wheaton|Wheaton city
+27|69970|White Bear Lake|White Bear Lake city
+27|70258|Wilder|Wilder city
+27|70366|Willernie|Willernie city
+27|70402|Williams|Williams city
+27|70420|Willmar|Willmar city
+27|70492|Willow River|Willow River city
+27|70582|Wilmont|Wilmont city
+27|70708|Wilton|Wilton city
+27|70798|Windom|Windom city
+27|70870|Winger|Winger city
+27|70924|Winnebago|Winnebago city
+27|71032|Winona|Winona city
+27|71086|Winsted|Winsted city
+27|71122|Winthrop|Winthrop city
+27|71140|Winton|Winton city
+27|71338|Wolf Lake|Wolf Lake city
+27|71392|Wolverton|Wolverton city
+27|71428|Woodbury|Woodbury city
+27|71446|Wood Lake|Wood Lake city
+27|71500|Woodland|Woodland city
+27|71680|Woodstock|Woodstock city
+27|71734|Worthington|Worthington city
+27|71788|Wrenshall|Wrenshall city
+27|71824|Wright|Wright city
+27|71950|Wykoff|Wykoff city
+27|72022|Wyoming|Wyoming city
+27|72184|Zemple|Zemple city
+27|72238|Zimmerman|Zimmerman city
+27|72310|Zumbro Falls|Zumbro Falls city
+27|72328|Zumbrota|Zumbrota city

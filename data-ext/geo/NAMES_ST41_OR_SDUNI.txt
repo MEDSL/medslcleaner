@@ -1,0 +1,189 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+41|00003|Falls City School District 57|Falls City School District 57
+41|00014|Vale School District 84|Vale School District 84
+41|00015|Gervais School District 1|Gervais School District 1
+41|00016|Yamhill-Carlton School District 1|Yamhill-Carlton School District 1
+41|00019|Harrisburg School District 7J|Harrisburg School District 7J
+41|00020|North Santiam School District 29J|North Santiam School District 29J
+41|00021|South Wasco County School District 1|South Wasco County School District 1
+41|00023|Hillsboro School District 1J|Hillsboro School District 1J
+41|00040|Knappa School District 4|Knappa School District 4
+41|00047|Ione School District 2|Ione School District 2
+41|00048|North Wasco School District 21|North Wasco School District 21
+41|00640|Myrtle Point School District 41|Myrtle Point School District 41
+41|00990|Adel School District 21|Adel School District 21
+41|01020|Adrian School District 61|Adrian School District 61
+41|01120|Greater Albany School District 8J|Greater Albany School District 8J
+41|01200|Alsea School District 7J|Alsea School District 7J
+41|01230|Amity School District 4J|Amity School District 4J
+41|01350|Annex School District 29|Annex School District 29
+41|01470|Arlington School District 3|Arlington School District 3
+41|01500|Arock School District 81|Arock School District 81
+41|01560|Ashland School District 5|Ashland School District 5
+41|01590|Ashwood School District 8|Ashwood School District 8
+41|01620|Astoria School District 1|Astoria School District 1
+41|01660|Athena-Weston School District 29J|Athena-Weston School District 29J
+41|01710|Baker School District 5J|Baker School District 5J
+41|01740|Burnt River School District 30J|Burnt River School District 30J
+41|01800|Bandon School District 54|Bandon School District 54
+41|01830|Banks School District 13|Banks School District 13
+41|01920|Beaverton School District 48J|Beaverton School District 48J
+41|01980|Bend-La Pine Administrative School District 1|Bend-La Pine Administrative School District 1
+41|02040|Bethel School District 52|Bethel School District 52
+41|02160|Blachly School District 090|Blachly School District 090
+41|02190|Black Butte School District 41|Black Butte School District 41
+41|02310|Brookings-Harbor School District 17|Brookings-Harbor School District 17
+41|02490|Harney County School District 3|Harney County School District 3
+41|02580|Butte Falls School District 91|Butte Falls School District 91
+41|02610|Camas Valley School District 21J|Camas Valley School District 21J
+41|02640|Canby School District 86|Canby School District 86
+41|02780|Cascade School District 5|Cascade School District 5
+41|02800|Centennial School District 28J|Centennial School District 28J
+41|02840|Central School District 13J|Central School District 13J
+41|02910|Central Linn School District 552|Central Linn School District 552
+41|02940|Central Point School District 6|Central Point School District 6
+41|03260|Clatskanie School District 6J|Clatskanie School District 6J
+41|03265|Rainier School District 13|Rainier School District 13
+41|03270|Colton School District 53|Colton School District 53
+41|03330|Condon School District 25J|Condon School District 25J
+41|03390|Coquille School District 8|Coquille School District 8
+41|03420|Corbett School District 39|Corbett School District 39
+41|03480|Corvallis School District 509J|Corvallis School District 509J
+41|03540|Cove School District 15|Cove School District 15
+41|03660|Coos Bay School District 9|Coos Bay School District 9
+41|03690|Creswell School District 40|Creswell School District 40
+41|03720|Crook County School District|Crook County School District
+41|03780|Crow-Applegate-Lorane Sd 66|Crow-Applegate-Lorane Sd 66
+41|03840|Culver School District 4|Culver School District 4
+41|03860|Dallas School District 2|Dallas School District 2
+41|03940|David Douglas School District 40|David Douglas School District 40
+41|03960|Days Creek School District 15|Days Creek School District 15
+41|03990|Dayton School District 8|Dayton School District 8
+41|04020|Dayville School District 16J|Dayville School District 16J
+41|04350|North Douglas School District 22|North Douglas School District 22
+41|04410|Dufur School District 29|Dufur School District 29
+41|04500|Eagle Point School District 9|Eagle Point School District 9
+41|04530|Echo School District 5|Echo School District 5
+41|04590|Elgin School District 23|Elgin School District 23
+41|04620|Elkton School District 34|Elkton School District 34
+41|04700|Estacada School District 108|Estacada School District 108
+41|04740|Eugene School District 4J|Eugene School District 4J
+41|04950|Fern Ridge School District 28J|Fern Ridge School District 28J
+41|05080|Enterprise School District 21|Enterprise School District 21
+41|05100|Siuslaw School District 97J|Siuslaw School District 97J
+41|05160|Forest Grove School District 15|Forest Grove School District 15
+41|05250|Fossil School District 21J|Fossil School District 21J
+41|05430|Gaston School District 511J|Gaston School District 511J
+41|05610|Gladstone School District 115|Gladstone School District 115
+41|05640|Glendale School District 77|Glendale School District 77
+41|05670|Glide School District 12|Glide School District 12
+41|05760|Central Curry School District 1|Central Curry School District 1
+41|05910|Grants Pass School District 7|Grants Pass School District 7
+41|06000|Gresham-Barlow School District 1J|Gresham-Barlow School District 1J
+41|06120|Harper School District 66|Harper School District 66
+41|06270|Helix School District 1|Helix School District 1
+41|06300|Hermiston School District 8|Hermiston School District 8
+41|06510|Hood River County School District 1|Hood River County School District 1
+41|06600|Huntington School District 16J|Huntington School District 16J
+41|06630|Imbler School District 11|Imbler School District 11
+41|06710|Jefferson School District 14J|Jefferson School District 14J
+41|06740|Jefferson County School District 509J|Jefferson County School District 509J
+41|06750|Jewell School District 8|Jewell School District 8
+41|06780|John Day School District 3|John Day School District 3
+41|06820|Jordan Valley School District 3|Jordan Valley School District 3
+41|06870|Joseph School District 6|Joseph School District 6
+41|06900|Three Rivers School District|Three Rivers School District
+41|06930|Junction City School District 69|Junction City School District 69
+41|07020|Klamath County School District|Klamath County School District
+41|07080|Klamath Falls City Schools|Klamath Falls City Schools
+41|07200|La Grande School District 1|La Grande School District 1
+41|07230|Lake Oswego School District 7J|Lake Oswego School District 7J
+41|07280|Lakeview School District 7|Lakeview School District 7
+41|07380|Lebanon Community School District 9|Lebanon Community School District 9
+41|07500|Lincoln County School District|Lincoln County School District
+41|07530|Long Creek School District 17|Long Creek School District 17
+41|07590|Lowell School District 71|Lowell School District 71
+41|07710|Mapleton School District 32|Mapleton School District 32
+41|07740|Marcola School District 79J|Marcola School District 79J
+41|07880|McDermitt School District 51|McDermitt School District 51
+41|07980|McKenzie School District 68|McKenzie School District 68
+41|08010|McMinnville School District 40|McMinnville School District 40
+41|08040|Medford School District 549|Medford School District 549
+41|08100|Santiam Canyon School District 129J|Santiam Canyon School District 129J
+41|08160|Milton-Freewater School District 7|Milton-Freewater School District 7
+41|08280|Mitchell School District 55|Mitchell School District 55
+41|08310|Molalla River School District 35|Molalla River School District 35
+41|08430|Monroe School District 1J|Monroe School District 1J
+41|08460|Monument School District 8|Monument School District 8
+41|08520|Morrow School District 1|Morrow School District 1
+41|08550|Mount Angel School District 91|Mount Angel School District 91
+41|08650|Neah-Kah-Nie School District 56|Neah-Kah-Nie School District 56
+41|08700|Nestucca Valley School District 101J|Nestucca Valley School District 101J
+41|08720|Newberg School District 29J|Newberg School District 29J
+41|08820|North Bend School District 13|North Bend School District 13
+41|08830|North Clackamas School District 12|North Clackamas School District 12
+41|08880|North Marion School District 15|North Marion School District 15
+41|08940|North Powder School District 8J|North Powder School District 8J
+41|09000|Nyssa School District 26|Nyssa School District 26
+41|09120|Oakland School District 1|Oakland School District 1
+41|09150|Oakridge School District 76|Oakridge School District 76
+41|09270|Ontario School District 8|Ontario School District 8
+41|09330|Oregon City School District 62|Oregon City School District 62
+41|09430|Paisley School District 11|Paisley School District 11
+41|09480|Parkrose School District 3|Parkrose School District 3
+41|09510|Pendleton School District 16|Pendleton School District 16
+41|09530|Perrydale School District 21|Perrydale School District 21
+41|09600|Philomath School District 17J|Philomath School District 17J
+41|09630|Phoenix-Talent School District 4|Phoenix-Talent School District 4
+41|09660|Pilot Rock School District 2|Pilot Rock School District 2
+41|09720|Pine-Eagle School District 61|Pine-Eagle School District 61
+41|09750|Pinehurst School District 94|Pinehurst School District 94
+41|09870|Pleasant Hill School District 1|Pleasant Hill School District 1
+41|09960|Plush School District 18|Plush School District 18
+41|10020|Port Orford-Langlois School District 2J|Port Orford-Langlois School District 2J
+41|10040|Portland School District 1J|Portland School District 1J
+41|10080|Powers School District 31|Powers School District 31
+41|10110|Prairie City School District 4|Prairie City School District 4
+41|10200|Prospect School District 59|Prospect School District 59
+41|10350|Redmond School District 2J|Redmond School District 2J
+41|10410|Reedsport School District 105|Reedsport School District 105
+41|10520|Reynolds School District 7|Reynolds School District 7
+41|10530|Riddle School District 70|Riddle School District 70
+41|10560|Riverdale School District 51J|Riverdale School District 51J
+41|10680|Rogue River School District 35|Rogue River School District 35
+41|10710|Roseburg School District 4|Roseburg School District 4
+41|10820|Salem-Keizer School District 24J|Salem-Keizer School District 24J
+41|10920|Oregon Trail School District 46|Oregon Trail School District 46
+41|10980|Scappoose School District 1J|Scappoose School District 1J
+41|11040|Scio School District 95|Scio School District 95
+41|11100|Seaside School District 10|Seaside School District 10
+41|11220|Sheridan School District 48J|Sheridan School District 48J
+41|11250|Sherman School District 1|Sherman School District 1
+41|11290|Sherwood School District 88J|Sherwood School District 88J
+41|11400|North Lake School District 14|North Lake School District 14
+41|11470|Silver Falls School District 4J|Silver Falls School District 4J
+41|11490|Sisters School District 6|Sisters School District 6
+41|11580|South Lane School District 45J|South Lane School District 45J
+41|11610|South Umpqua School District 19|South Umpqua School District 19
+41|11640|Spray School District 1|Spray School District 1
+41|11670|Springfield School District 19|Springfield School District 19
+41|11720|St. Helens School District 502|St. Helens School District 502
+41|11760|St. Paul School District 45|St. Paul School District 45
+41|11790|Stanfield School District 61|Stanfield School District 61
+41|11940|Sutherlin School District 130|Sutherlin School District 130
+41|11970|Sweet Home School District 55|Sweet Home School District 55
+41|12240|Tigard-Tualatin School District 23J|Tigard-Tualatin School District 23J
+41|12320|Tillamook School District 9|Tillamook School District 9
+41|12360|Troy School District 54|Troy School District 54
+41|12540|Ukiah School District 80|Ukiah School District 80
+41|12600|Umatilla School District 6|Umatilla School District 6
+41|12690|Union School District 5|Union School District 5
+41|12930|Vernonia School District 47J|Vernonia School District 47J
+41|12990|Wallowa School District 12|Wallowa School District 12
+41|13080|Warrenton-Hammond School District 30|Warrenton-Hammond School District 30
+41|13170|West Linn School District 3J|West Linn School District 3J
+41|13350|Willamina School District 30J|Willamina School District 30J
+41|13490|Winston-Dillard School District 116|Winston-Dillard School District 116
+41|13530|Woodburn School District 103|Woodburn School District 103
+41|13650|Yoncalla School District 32|Yoncalla School District 32
+41|99997|School District Not Defined|School District Not Defined

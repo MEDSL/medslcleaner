@@ -1,0 +1,510 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+12|00075|Acacia Villas|Acacia Villas CDP
+12|00410|Alafaya|Alafaya CDP
+12|00800|Allentown|Allentown CDP
+12|01050|Altoona|Altoona CDP
+12|01100|Alturas|Alturas CDP
+12|01125|Alva|Alva CDP
+12|01353|Andrews|Andrews CDP
+12|01675|Apollo Beach|Apollo Beach CDP
+12|01875|Aripeka|Aripeka CDP
+12|02187|Asbury Lake|Asbury Lake CDP
+12|02275|Astor|Astor CDP
+12|02575|Aucilla|Aucilla CDP
+12|02660|Avalon|Avalon CDP
+12|02850|Azalea Park|Azalea Park CDP
+12|02900|Babson Park|Babson Park CDP
+12|02925|Bagdad|Bagdad CDP
+12|03375|Balm|Balm CDP
+12|03480|Bardmoor|Bardmoor CDP
+12|04070|Bay Hill|Bay Hill CDP
+12|04162|Bayonet Point|Bayonet Point CDP
+12|04200|Bay Pines|Bay Pines CDP
+12|04250|Bayport|Bayport CDP
+12|04350|Bayshore Gardens|Bayshore Gardens CDP
+12|04650|Beacon Square|Beacon Square CDP
+12|04735|Bear Creek|Bear Creek CDP
+12|04925|Bee Ridge|Bee Ridge CDP
+12|05025|Bellair-Meadowbrook Terrace|Bellair-Meadowbrook Terrace CDP
+12|05462|Bellview|Bellview CDP
+12|05825|Berrydale|Berrydale CDP
+12|06125|Beverly Hills|Beverly Hills CDP
+12|06350|Big Coppitt Key|Big Coppitt Key CDP
+12|06425|Big Pine Key|Big Pine Key CDP
+12|06625|Bithlo|Bithlo CDP
+12|06667|Black Diamond|Black Diamond CDP
+12|06670|Black Hammock|Black Hammock CDP
+12|06875|Bloomingdale|Bloomingdale CDP
+12|07375|Bokeelia|Bokeelia CDP
+12|07687|Boulevard Gardens|Boulevard Gardens CDP
+12|08125|Bradley Junction|Bradley Junction CDP
+12|08150|Brandon|Brandon CDP
+12|08300|Brent|Brent CDP
+12|08450|Brewster|Brewster CDP
+12|08650|Broadview Park|Broadview Park CDP
+12|08762|Brookridge|Brookridge CDP
+12|08925|Brownsdale|Brownsdale CDP
+12|09000|Brownsville|Brownsville CDP
+12|09315|Buckhead Ridge|Buckhead Ridge CDP
+12|09350|Buckingham|Buckingham CDP
+12|09415|Buenaventura Lakes|Buenaventura Lakes CDP
+12|09612|Burnt Store Marina|Burnt Store Marina CDP
+12|09630|Butler Beach|Butler Beach CDP
+12|09655|Cabana Colony|Cabana Colony CDP
+12|09875|Campbell|Campbell CDP
+12|10100|Canal Point|Canal Point CDP
+12|10425|Captiva|Captiva CDP
+12|10825|Carrollwood|Carrollwood CDP
+12|11150|Cedar Grove|Cedar Grove CDP
+12|11285|Celebration|Celebration CDP
+12|11597|Charleston Park|Charleston Park CDP
+12|11625|Charlotte Harbor|Charlotte Harbor CDP
+12|11650|Charlotte Park|Charlotte Park CDP
+12|11912|Cheval|Cheval CDP
+12|12150|Chokoloskee|Chokoloskee CDP
+12|12250|Christmas|Christmas CDP
+12|12275|Chuluota|Chuluota CDP
+12|12300|Chumuckla|Chumuckla CDP
+12|12412|Citrus Hills|Citrus Hills CDP
+12|12425|Citrus Park|Citrus Park CDP
+12|12450|Citrus Springs|Citrus Springs CDP
+12|12675|Clarcona|Clarcona CDP
+12|12950|Cleveland|Cleveland CDP
+12|13125|Cobbtown|Cobbtown CDP
+12|13225|Cocoa West|Cocoa West CDP
+12|13775|Combee Settlement|Combee Settlement CDP
+12|13965|Connerton|Connerton CDP
+12|14050|Conway|Conway CDP
+12|14412|Coral Terrace|Coral Terrace CDP
+12|14700|Cortez|Cortez CDP
+12|14895|Country Club|Country Club CDP
+12|15055|Country Walk|Country Walk CDP
+12|15300|Crawfordville|Crawfordville CDP
+12|15325|Crescent Beach|Crescent Beach CDP
+12|15515|Crooked Lake Park|Crooked Lake Park CDP
+12|15725|Crystal Lake|Crystal Lake CDP
+12|15800|Crystal Springs|Crystal Springs CDP
+12|15862|Cudjoe Key|Cudjoe Key CDP
+12|16050|Cypress Gardens|Cypress Gardens CDP
+12|16062|Cypress Lake|Cypress Lake CDP
+12|16100|Cypress Quarters|Cypress Quarters CDP
+12|16175|Dade City North|Dade City North CDP
+12|16500|Day|Day CDP
+12|16937|DeLand Southwest|DeLand Southwest CDP
+12|16975|De Leon Springs|De Leon Springs CDP
+12|17300|Desoto Lakes|Desoto Lakes CDP
+12|17450|Dickerson City|Dickerson City CDP
+12|17710|Dixonville|Dixonville CDP
+12|17725|Doctor Phillips|Doctor Phillips CDP
+12|18075|Dover|Dover CDP
+12|18425|Duck Key|Duck Key CDP
+12|19025|East Bronson|East Bronson CDP
+12|19206|East Lake|East Lake CDP
+12|19212|East Lake-Orient Park|East Lake-Orient Park CDP
+12|19275|East Milton|East Milton CDP
+12|19350|East Palatka|East Palatka CDP
+12|19400|Eastpoint|Eastpoint CDP
+12|19575|East Williston|East Williston CDP
+12|20050|Eglin AFB|Eglin AFB CDP
+12|20108|Egypt Lake-Leto|Egypt Lake-Leto CDP
+12|20275|Elfers|Elfers CDP
+12|20375|Ellenton|Ellenton CDP
+12|20825|Englewood|Englewood CDP
+12|20925|Ensley|Ensley CDP
+12|21150|Estero|Estero CDP
+12|21750|Fairview Shores|Fairview Shores CDP
+12|21945|Feather Sound|Feather Sound CDP
+12|22225|Ferndale|Ferndale CDP
+12|22250|Fern Park|Fern Park CDP
+12|22275|Ferry Pass|Ferry Pass CDP
+12|22325|Fidelis|Fidelis CDP
+12|22375|Fisher Island|Fisher Island CDP
+12|22387|Fish Hawk|Fish Hawk CDP
+12|22475|Five Points|Five Points CDP
+12|22560|Flagler Estates|Flagler Estates CDP
+12|22660|Fleming Island|Fleming Island CDP
+12|22775|Floral City|Floral City CDP
+12|23050|Florida Ridge|Florida Ridge CDP
+12|23125|Floridatown|Floridatown CDP
+12|23375|Forest City|Forest City CDP
+12|23730|Fort Denaud|Fort Denaud CDP
+12|23850|Fort Green|Fort Green CDP
+12|23875|Fort Green Springs|Fort Green Springs CDP
+12|24175|Fort Myers Shores|Fort Myers Shores CDP
+12|24337|Fort Pierce North|Fort Pierce North CDP
+12|24387|Fort Pierce South|Fort Pierce South CDP
+12|24562|Fountainebleau|Fountainebleau CDP
+12|24581|Four Corners|Four Corners CDP
+12|24710|Franklin Park|Franklin Park CDP
+12|24925|Fruit Cove|Fruit Cove CDP
+12|25000|Fruitville|Fruitville CDP
+12|25025|Fuller Heights|Fuller Heights CDP
+12|25125|Fussels Corner|Fussels Corner CDP
+12|25392|Garcon Point|Garcon Point CDP
+12|25475|Garden Grove|Garden Grove CDP
+12|25550|Gardner|Gardner CDP
+12|25655|Gateway|Gateway CDP
+12|25750|Geneva|Geneva CDP
+12|25900|Gibsonton|Gibsonton CDP
+12|25925|Gifford|Gifford CDP
+12|25987|Gladeview|Gladeview CDP
+12|26000|Glencoe|Glencoe CDP
+12|26100|Glenvar Heights|Glenvar Heights CDP
+12|26300|Golden Gate|Golden Gate CDP
+12|26375|Golden Glades|Golden Glades CDP
+12|26475|Goldenrod|Goldenrod CDP
+12|26700|Gonzalez|Gonzalez CDP
+12|26775|Goodland|Goodland CDP
+12|26900|Gotha|Gotha CDP
+12|26925|Goulding|Goulding CDP
+12|26950|Goulds|Goulds CDP
+12|27360|Greenbriar|Greenbriar CDP
+12|27635|Grenelefe|Grenelefe CDP
+12|27775|Grove City|Grove City CDP
+12|28050|Gulf Gate Estates|Gulf Gate Estates CDP
+12|28305|Gun Club Estates|Gun Club Estates CDP
+12|28650|Harbor Bluffs|Harbor Bluffs CDP
+12|28800|Harbour Heights|Harbour Heights CDP
+12|28925|Harlem|Harlem CDP
+12|28937|Harlem Heights|Harlem Heights CDP
+12|29000|Harold|Harold CDP
+12|29320|Heathrow|Heathrow CDP
+12|29385|Heritage Pines|Heritage Pines CDP
+12|29425|Hernando|Hernando CDP
+12|29437|Hernando Beach|Hernando Beach CDP
+12|30225|Highland City|Highland City CDP
+12|30494|High Point|High Point CDP
+12|30800|Hill 'n Dale|Hill 'n Dale CDP
+12|30858|Hillsboro Pines|Hillsboro Pines CDP
+12|30975|Hobe Sound|Hobe Sound CDP
+12|31025|Holden Heights|Holden Heights CDP
+12|31075|Holiday|Holiday CDP
+12|31275|Holley|Holley CDP
+12|32250|Homeland|Homeland CDP
+12|32325|Homestead Base|Homestead Base CDP
+12|32375|Homosassa|Homosassa CDP
+12|32400|Homosassa Springs|Homosassa Springs CDP
+12|32610|Horizon West|Horizon West CDP
+12|32675|Hosford|Hosford CDP
+12|32825|Hudson|Hudson CDP
+12|32967|Hunters Creek|Hunters Creek CDP
+12|32993|Hutchinson Island South|Hutchinson Island South CDP
+12|33250|Immokalee|Immokalee CDP
+12|33585|Indian River Estates|Indian River Estates CDP
+12|33700|Indiantown|Indiantown CDP
+12|33958|Inverness Highlands North|Inverness Highlands North CDP
+12|33966|Inverness Highlands South|Inverness Highlands South CDP
+12|34000|Inwood|Inwood CDP
+12|34012|Iona|Iona CDP
+12|34185|Island Walk|Island Walk CDP
+12|34275|Istachatta|Istachatta CDP
+12|34400|Ives Estates|Ives Estates CDP
+12|35300|Jan Phyl Village|Jan Phyl Village CDP
+12|35350|Jasmine Estates|Jasmine Estates CDP
+12|35550|Jensen Beach|Jensen Beach CDP
+12|35800|June Park|June Park CDP
+12|35862|Juno Ridge|Juno Ridge CDP
+12|35890|Jupiter Farms|Jupiter Farms CDP
+12|35950|Kathleen|Kathleen CDP
+12|36062|Kendale Lakes|Kendale Lakes CDP
+12|36100|Kendall|Kendall CDP
+12|36121|Kendall West|Kendall West CDP
+12|36200|Kensington Park|Kensington Park CDP
+12|36220|Kenwood Estates|Kenwood Estates CDP
+12|36375|Key Largo|Key Largo CDP
+12|36462|Keystone|Keystone CDP
+12|36535|Key Vista|Key Vista CDP
+12|37275|Lacoochee|Lacoochee CDP
+12|37500|Laguna Beach|Laguna Beach CDP
+12|37542|Lake Belvedere Estates|Lake Belvedere Estates CDP
+12|37648|Lake Butler|Lake Butler CDP
+12|38000|Lake Harbor|Lake Harbor CDP
+12|38012|Lake Hart|Lake Hart CDP
+12|38162|Lake Kathryn|Lake Kathryn CDP
+12|38262|Lakeland Highlands|Lakeland Highlands CDP
+12|38275|Lake Lindsey|Lake Lindsey CDP
+12|38287|Lake Lorraine|Lake Lorraine CDP
+12|38332|Lake Mack-Forest Hills|Lake Mack-Forest Hills CDP
+12|38350|Lake Magdalene|Lake Magdalene CDP
+12|38430|Lake Mary Jane|Lake Mary Jane CDP
+12|38519|Lake Mystic|Lake Mystic CDP
+12|38575|Lake Panasoffkee|Lake Panasoffkee CDP
+12|38690|Lake Sarasota|Lake Sarasota CDP
+12|38813|Lakeside|Lakeside CDP
+12|39056|Lakewood Gardens|Lakewood Gardens CDP
+12|39062|Lakewood Park|Lakewood Park CDP
+12|39100|Lamont|Lamont CDP
+12|39200|Land O' Lakes|Land O' Lakes CDP
+12|39600|Laurel|Laurel CDP
+12|39775|Lealman|Lealman CDP
+12|39825|Lecanto|Lecanto CDP
+12|39925|Lehigh Acres|Lehigh Acres CDP
+12|39950|Leisure City|Leisure City CDP
+12|39987|Lely|Lely CDP
+12|40037|Lely Resort|Lely Resort CDP
+12|40100|Lemon Grove|Lemon Grove CDP
+12|40525|Limestone|Limestone CDP
+12|40562|Limestone Creek|Limestone Creek CDP
+12|40750|Lisbon|Lisbon CDP
+12|40950|Lloyd|Lloyd CDP
+12|40985|Lochmoor Waterway Estates|Lochmoor Waterway Estates CDP
+12|41025|Lockhart|Lockhart CDP
+12|41400|Loughman|Loughman CDP
+12|41562|Lower Grand Lagoon|Lower Grand Lagoon CDP
+12|41775|Lutz|Lutz CDP
+12|42090|McGregor|McGregor CDP
+12|42750|Manasota Key|Manasota Key CDP
+12|42787|Manatee Road|Manatee Road CDP
+12|42850|Mango|Mango CDP
+12|43400|Masaryktown|Masaryktown CDP
+12|43475|Matlacha|Matlacha CDP
+12|43484|Matlacha Isles-Matlacha Shores|Matlacha Isles-Matlacha Shores CDP
+12|43785|Meadow Oaks|Meadow Oaks CDP
+12|43800|Meadow Woods|Meadow Woods CDP
+12|43925|Medulla|Medulla CDP
+12|44175|Memphis|Memphis CDP
+12|44275|Merritt Island|Merritt Island CDP
+12|45275|Micco|Micco CDP
+12|45350|Middleburg|Middleburg CDP
+12|45465|Midway|Midway CDP
+12|45475|Midway|Midway CDP
+12|45775|Mims|Mims CDP
+12|46000|Miramar Beach|Miramar Beach CDP
+12|46225|Molino|Molino CDP
+12|46520|Montura|Montura CDP
+12|46540|Moon Lake|Moon Lake CDP
+12|46725|Morriston|Morriston CDP
+12|47000|Mount Carmel|Mount Carmel CDP
+12|47125|Mount Plymouth|Mount Plymouth CDP
+12|47175|Mulat|Mulat CDP
+12|47300|Munson|Munson CDP
+12|47550|Myrtle Grove|Myrtle Grove CDP
+12|47650|Naples Manor|Naples Manor CDP
+12|47675|Naples Park|Naples Park CDP
+12|47700|Naranja|Naranja CDP
+12|47787|Nassau Village-Ratliff|Nassau Village-Ratliff CDP
+12|48050|Navarre|Navarre CDP
+12|48055|Navarre Beach|Navarre Beach CDP
+12|48525|New Port Richey East|New Port Richey East CDP
+12|48825|Nobleton|Nobleton CDP
+12|48850|Nocatee|Nocatee CDP
+12|48875|Nokomis|Nokomis CDP
+12|49237|North Brooksville|North Brooksville CDP
+12|49260|Northdale|Northdale CDP
+12|49275|North DeLand|North DeLand CDP
+12|49350|North Fort Myers|North Fort Myers CDP
+12|49406|North Key Largo|North Key Largo CDP
+12|49750|North River Shores|North River Shores CDP
+12|49787|North Sarasota|North Sarasota CDP
+12|49905|North Weeki Wachee|North Weeki Wachee CDP
+12|50630|Oakleaf Plantation|Oakleaf Plantation CDP
+12|50638|Oak Ridge|Oak Ridge CDP
+12|50925|Ocean City|Ocean City CDP
+12|51100|Odessa|Odessa CDP
+12|51125|Ojus|Ojus CDP
+12|51150|Okahumpka|Okahumpka CDP
+12|51400|Olga|Olga CDP
+12|51475|Olympia Heights|Olympia Heights CDP
+12|51505|Ona|Ona CDP
+12|52162|Orangetree|Orangetree CDP
+12|52250|Oriole Beach|Oriole Beach CDP
+12|53100|Orlovista|Orlovista CDP
+12|53200|Ormond-by-the-Sea|Ormond-by-the-Sea CDP
+12|53425|Osprey|Osprey CDP
+12|53725|Pace|Pace CDP
+12|53775|Page Park|Page Park CDP
+12|53850|Paisley|Paisley CDP
+12|54175|Palm City|Palm City CDP
+12|54300|Palmetto Estates|Palmetto Estates CDP
+12|54350|Palm Harbor|Palm Harbor CDP
+12|54357|Palmona Park|Palmona Park CDP
+12|54387|Palm River-Clair Mel|Palm River-Clair Mel CDP
+12|54500|Palm Springs North|Palm Springs North CDP
+12|54525|Palm Valley|Palm Valley CDP
+12|54625|Panacea|Panacea CDP
+12|54912|Paradise Heights|Paradise Heights CDP
+12|55305|Pasadena Hills|Pasadena Hills CDP
+12|55375|Patrick AFB|Patrick AFB CDP
+12|55532|Pea Ridge|Pea Ridge CDP
+12|55540|Pebble Creek|Pebble Creek CDP
+12|55650|Pelican Bay|Pelican Bay CDP
+12|56475|Pine Air|Pine Air CDP
+12|56500|Pine Castle|Pine Castle CDP
+12|56825|Pine Hills|Pine Hills CDP
+12|56840|Pine Island|Pine Island CDP
+12|56850|Pine Island Center|Pine Island Center CDP
+12|56865|Pine Lakes|Pine Lakes CDP
+12|56875|Pineland|Pineland CDP
+12|56955|Pine Level|Pine Level CDP
+12|57025|Pine Manor|Pine Manor CDP
+12|57058|Pine Ridge|Pine Ridge CDP
+12|57066|Pine Ridge|Pine Ridge CDP
+12|57250|Pinewood|Pinewood CDP
+12|57320|Pioneer|Pioneer CDP
+12|57380|Pittman|Pittman CDP
+12|57450|Plantation|Plantation CDP
+12|57492|Plantation Island|Plantation Island CDP
+12|57518|Plantation Mobile Home Park|Plantation Mobile Home Park CDP
+12|57900|Poinciana|Poinciana CDP
+12|57908|Point Baker|Point Baker CDP
+12|58350|Port Charlotte|Port Charlotte CDP
+12|58420|Port LaBelle|Port LaBelle CDP
+12|58700|Port St. John|Port St. John CDP
+12|58727|Port Salerno|Port Salerno CDP
+12|58962|Pretty Bayou|Pretty Bayou CDP
+12|58975|Princeton|Princeton CDP
+12|59050|Progress Village|Progress Village CDP
+12|59250|Punta Rassa|Punta Rassa CDP
+12|59311|Quail Ridge|Quail Ridge CDP
+12|59475|Raleigh|Raleigh CDP
+12|60225|Richmond Heights|Richmond Heights CDP
+12|60230|Richmond West|Richmond West CDP
+12|60275|Ridgecrest|Ridgecrest CDP
+12|60325|Ridge Manor|Ridge Manor CDP
+12|60475|Ridge Wood Heights|Ridge Wood Heights CDP
+12|60550|Rio|Rio CDP
+12|60562|Rio Pinar|Rio Pinar CDP
+12|60785|River Park|River Park CDP
+12|60835|River Ridge|River Ridge CDP
+12|60950|Riverview|Riverview CDP
+12|61615|Roeville|Roeville CDP
+12|61807|Roosevelt Gardens|Roosevelt Gardens CDP
+12|61875|Roseland|Roseland CDP
+12|61937|Rotonda|Rotonda CDP
+12|62118|Royal Palm Estates|Royal Palm Estates CDP
+12|62275|Ruskin|Ruskin CDP
+12|62550|St. Augustine Shores|St. Augustine Shores CDP
+12|62562|St. Augustine South|St. Augustine South CDP
+12|62675|St. James City|St. James City CDP
+12|63225|Samoset|Samoset CDP
+12|63362|Samsula-Spruce Creek|Samsula-Spruce Creek CDP
+12|63425|San Carlos Park|San Carlos Park CDP
+12|63435|San Castle|San Castle CDP
+12|64325|Sarasota Springs|Sarasota Springs CDP
+12|64525|Sawgrass|Sawgrass CDP
+12|64547|Schall Circle|Schall Circle CDP
+12|64925|Seffner|Seffner CDP
+12|65100|Seminole Manor|Seminole Manor CDP
+12|65200|Seville|Seville CDP
+12|65385|Shady Hills|Shady Hills CDP
+12|65525|Sharpes|Sharpes CDP
+12|66000|Siesta Key|Siesta Key CDP
+12|66062|Silver Lake|Silver Lake CDP
+12|66175|Silver Springs Shores|Silver Springs Shores CDP
+12|66425|Sky Lake|Sky Lake CDP
+12|66875|Solana|Solana CDP
+12|66975|Sorrento|Sorrento CDP
+12|67163|South Apopka|South Apopka CDP
+12|67192|South Beach|South Beach CDP
+12|67258|South Bradenton|South Bradenton CDP
+12|67266|South Brooksville|South Brooksville CDP
+12|67270|Southchase|Southchase CDP
+12|67355|Southeast Arcadia|Southeast Arcadia CDP
+12|67425|Southgate|Southgate CDP
+12|67450|South Gate Ridge|South Gate Ridge CDP
+12|67462|South Highpoint|South Highpoint CDP
+12|67575|South Miami Heights|South Miami Heights CDP
+12|67725|South Patrick Shores|South Patrick Shores CDP
+12|67887|South Sarasota|South Sarasota CDP
+12|68100|South Venice|South Venice CDP
+12|68350|Spring Hill|Spring Hill CDP
+12|68365|Springhill|Springhill CDP
+12|68375|Spring Lake|Spring Lake CDP
+12|68435|Spring Ridge|Spring Ridge CDP
+12|68487|Stacey Street|Stacey Street CDP
+12|68625|Steinhatchee|Steinhatchee CDP
+12|68800|Stock Island|Stock Island CDP
+12|68950|Sugarmill Woods|Sugarmill Woods CDP
+12|69025|Sumatra|Sumatra CDP
+12|69250|Sun City Center|Sun City Center CDP
+12|69275|Suncoast Estates|Suncoast Estates CDP
+12|69812|Sunset|Sunset CDP
+12|70525|Taft|Taft CDP
+12|70700|Tamiami|Tamiami CDP
+12|71075|Tangelo Park|Tangelo Park CDP
+12|71100|Tangerine|Tangerine CDP
+12|71250|Tavernier|Tavernier CDP
+12|71300|Taylor Creek|Taylor Creek CDP
+12|71564|The Acreage|The Acreage CDP
+12|71567|The Crossings|The Crossings CDP
+12|71569|The Hammocks|The Hammocks CDP
+12|71580|The Meadows|The Meadows CDP
+12|71625|The Villages|The Villages CDP
+12|71725|Thonotosassa|Thonotosassa CDP
+12|71741|Three Lakes|Three Lakes CDP
+12|71758|Three Oaks|Three Oaks CDP
+12|71800|Tice|Tice CDP
+12|71825|Tierra Verde|Tierra Verde CDP
+12|71842|Tiger Point|Tiger Point CDP
+12|71850|Tildenville|Tildenville CDP
+12|71867|Timber Pines|Timber Pines CDP
+12|72145|Town 'n' Country|Town 'n' Country CDP
+12|72425|Trilby|Trilby CDP
+12|72442|Trinity|Trinity CDP
+12|72875|Tyndall AFB|Tyndall AFB CDP
+12|73075|Union Park|Union Park CDP
+12|73163|University|University CDP
+12|73172|University|University CDP
+12|73287|University Park|University Park CDP
+12|73312|Upper Grand Lagoon|Upper Grand Lagoon CDP
+12|73700|Valrico|Valrico CDP
+12|73725|Vamo|Vamo CDP
+12|73950|Venice Gardens|Venice Gardens CDP
+12|74200|Vero Beach South|Vero Beach South CDP
+12|74235|Verona Walk|Verona Walk CDP
+12|74368|Viera East|Viera East CDP
+12|74370|Viera West|Viera West CDP
+12|74498|Villano Beach|Villano Beach CDP
+12|74512|Villas|Villas CDP
+12|74562|Vineyards|Vineyards CDP
+12|74625|Wabasso|Wabasso CDP
+12|74635|Wabasso Beach|Wabasso Beach CDP
+12|74700|Wacissa|Wacissa CDP
+12|74775|Wahneta|Wahneta CDP
+12|74975|Wallace|Wallace CDP
+12|75175|Warm Mineral Springs|Warm Mineral Springs CDP
+12|75200|Warrington|Warrington CDP
+12|75225|Washington Park|Washington Park CDP
+12|75275|Watergate|Watergate CDP
+12|75300|Watertown|Watertown CDP
+12|75425|Waukeenah|Waukeenah CDP
+12|75475|Waverly|Waverly CDP
+12|75612|Wedgefield|Wedgefield CDP
+12|75641|Weeki Wachee Gardens|Weeki Wachee Gardens CDP
+12|75725|Wekiwa Springs|Wekiwa Springs CDP
+12|75875|Wesley Chapel|Wesley Chapel CDP
+12|76050|West Bradenton|West Bradenton CDP
+12|76062|Westchase|Westchase CDP
+12|76075|Westchester|Westchester CDP
+12|76087|West DeLand|West DeLand CDP
+12|76290|Westgate|Westgate CDP
+12|76481|West Lealman|West Lealman CDP
+12|76487|West Little River|West Little River CDP
+12|76675|West Pensacola|West Pensacola CDP
+12|76700|West Perrine|West Perrine CDP
+12|76740|West Samoset|West Samoset CDP
+12|76937|West Vero Corridor|West Vero Corridor CDP
+12|76950|Westview|Westview CDP
+12|77075|Westwood Lakes|Westwood Lakes CDP
+12|77137|Whiskey Creek|Whiskey Creek CDP
+12|77275|White City|White City CDP
+12|77467|Whitfield|Whitfield CDP
+12|77470|Whitfield|Whitfield CDP
+12|77735|Williamsburg|Williamsburg CDP
+12|77837|Williston Highlands|Williston Highlands CDP
+12|77862|Willow Oak|Willow Oak CDP
+12|78025|Wimauma|Wimauma CDP
+12|78110|Windsor|Windsor CDP
+12|78225|Winter Beach|Winter Beach CDP
+12|78340|Wiscon|Wiscon CDP
+12|78500|Woodlawn Beach|Woodlawn Beach CDP
+12|78700|Woodville|Woodville CDP
+12|78740|World Golf Village|World Golf Village CDP
+12|78800|Wright|Wright CDP
+12|78900|Yalaha|Yalaha CDP
+12|78975|Yeehaw Junction|Yeehaw Junction CDP
+12|79175|Yulee|Yulee CDP
+12|79200|Zellwood|Zellwood CDP
+12|79231|Zephyrhills North|Zephyrhills North CDP
+12|79237|Zephyrhills South|Zephyrhills South CDP
+12|79243|Zephyrhills West|Zephyrhills West CDP

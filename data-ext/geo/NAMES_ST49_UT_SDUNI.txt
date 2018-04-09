@@ -1,0 +1,42 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+49|00030|Alpine School District|Alpine School District
+49|00060|Beaver School District|Beaver School District
+49|00090|Box Elder School District|Box Elder School District
+49|00120|Cache School District|Cache School District
+49|00142|Canyons School District|Canyons School District
+49|00150|Carbon School District|Carbon School District
+49|00180|Daggett School District|Daggett School District
+49|00210|Davis School District|Davis School District
+49|00240|Duchesne School District|Duchesne School District
+49|00270|Emery School District|Emery School District
+49|00300|Garfield School District|Garfield School District
+49|00330|Grand School District|Grand School District
+49|00360|Granite School District|Granite School District
+49|00390|Iron School District|Iron School District
+49|00420|Jordan School District|Jordan School District
+49|00450|Juab School District|Juab School District
+49|00480|Kane School District|Kane School District
+49|00510|Logan School District|Logan School District
+49|00540|Millard School District|Millard School District
+49|00570|Morgan School District|Morgan School District
+49|00600|Murray School District|Murray School District
+49|00630|Nebo School District|Nebo School District
+49|00660|North Sanpete School District|North Sanpete School District
+49|00690|North Summit School District|North Summit School District
+49|00720|Ogden School District|Ogden School District
+49|00750|Park City School District|Park City School District
+49|00780|Piute School District|Piute School District
+49|00810|Provo School District|Provo School District
+49|00840|Rich School District|Rich School District
+49|00870|Salt Lake City School District|Salt Lake City School District
+49|00900|San Juan School District|San Juan School District
+49|00930|Sevier School District|Sevier School District
+49|00960|South Sanpete School District|South Sanpete School District
+49|00990|South Summit School District|South Summit School District
+49|01020|Tintic School District|Tintic School District
+49|01050|Tooele School District|Tooele School District
+49|01080|Uintah School District|Uintah School District
+49|01110|Wasatch School District|Wasatch School District
+49|01140|Washington School District|Washington School District
+49|01170|Wayne School District|Wayne School District
+49|01200|Weber School District|Weber School District

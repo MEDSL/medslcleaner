@@ -1,0 +1,960 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+29|00244|Adrian|Adrian city
+29|00262|Advance|Advance city
+29|00298|Agency|Agency village
+29|00424|Airport Drive|Airport Drive village
+29|00496|Alba|Alba city
+29|00514|Albany|Albany city
+29|00568|Aldrich|Aldrich village
+29|00604|Alexandria|Alexandria city
+29|00712|Allendale|Allendale village
+29|00748|Allenville|Allenville village
+29|00802|Alma|Alma city
+29|00910|Altamont|Altamont village
+29|00928|Altenburg|Altenburg city
+29|00964|Alton|Alton city
+29|01018|Amazonia|Amazonia village
+29|01054|Amity|Amity town
+29|01072|Amoret|Amoret city
+29|01090|Amsterdam|Amsterdam city
+29|01198|Anderson|Anderson city
+29|01252|Annada|Annada village
+29|01270|Annapolis|Annapolis city
+29|01288|Anniston|Anniston town
+29|01522|Appleton City|Appleton City city
+29|01576|Arbela|Arbela town
+29|01630|Arbyrd|Arbyrd city
+29|01648|Arcadia|Arcadia city
+29|01702|Archie|Archie city
+29|01720|Arcola|Arcola village
+29|01828|Argyle|Argyle town
+29|01864|Arkoe|Arkoe town
+29|01954|Armstrong|Armstrong city
+29|01972|Arnold|Arnold city
+29|02034|Arrow Point|Arrow Point village
+29|02044|Arrow Rock|Arrow Rock town
+29|02098|Asbury|Asbury city
+29|02152|Ashburn|Ashburn town
+29|02188|Ash Grove|Ash Grove city
+29|02242|Ashland|Ashland city
+29|02422|Atlanta|Atlanta city
+29|02512|Augusta|Augusta town
+29|02530|Aullville|Aullville village
+29|02548|Aurora|Aurora city
+29|02638|Auxvasse|Auxvasse city
+29|02674|Ava|Ava city
+29|02746|Avilla|Avilla town
+29|02800|Avondale|Avondale city
+29|02962|Bagnell|Bagnell town
+29|03034|Baker|Baker village
+29|03052|Bakersfield|Bakersfield village
+29|03124|Baldwin Park|Baldwin Park village
+29|03160|Ballwin|Ballwin city
+29|03322|Baring|Baring city
+29|03340|Barnard|Barnard city
+29|03376|Barnett|Barnett city
+29|03556|Bates City|Bates City city
+29|03592|Battlefield|Battlefield city
+29|04114|Bella Villa|Bella Villa city
+29|04132|Bell City|Bell City city
+29|04150|Belle|Belle city
+29|04222|Bellefontaine Neighbors|Bellefontaine Neighbors city
+29|04240|Bellerive|Bellerive village
+29|04330|Bellflower|Bellflower city
+29|04348|Bel-Nor|Bel-Nor village
+29|04366|Bel-Ridge|Bel-Ridge village
+29|04384|Belton|Belton city
+29|04798|Benton|Benton city
+29|04834|Benton City|Benton City village
+29|04888|Berger|Berger city
+29|04906|Berkeley|Berkeley city
+29|04960|Bernie|Bernie city
+29|04996|Bertrand|Bertrand city
+29|05068|Bethany|Bethany city
+29|05104|Bethel|Bethel village
+29|05248|Beverly Hills|Beverly Hills city
+29|05266|Bevier|Bevier city
+29|05464|Bigelow|Bigelow village
+29|05495|Big Lake|Big Lake village
+29|05626|Billings|Billings city
+29|05734|Birch Tree|Birch Tree city
+29|05824|Birmingham|Birmingham village
+29|05878|Bismarck|Bismarck city
+29|05950|Blackburn|Blackburn city
+29|06004|Black Jack|Black Jack city
+29|06148|Blackwater|Blackwater city
+29|06238|Blairstown|Blairstown city
+29|06256|Bland|Bland city
+29|06346|Blodgett|Blodgett village
+29|06382|Bloomfield|Bloomfield city
+29|06454|Bloomsdale|Bloomsdale city
+29|06526|Blue Eye|Blue Eye town
+29|06652|Blue Springs|Blue Springs city
+29|06742|Blythedale|Blythedale village
+29|06832|Bogard|Bogard city
+29|06922|Bolckow|Bolckow city
+29|06976|Bolivar|Bolivar city
+29|07102|Bonne Terre|Bonne Terre city
+29|07318|Boonville|Boonville city
+29|07426|Bosworth|Bosworth city
+29|07534|Bourbon|Bourbon city
+29|07660|Bowling Green|Bowling Green city
+29|07876|Bragg City|Bragg City town
+29|07948|Brandsville|Brandsville city
+29|07966|Branson|Branson city
+29|07989|Branson West|Branson West city
+29|08002|Brashear|Brashear city
+29|08038|Braymer|Braymer city
+29|08128|Breckenridge|Breckenridge city
+29|08164|Breckenridge Hills|Breckenridge Hills city
+29|08236|Brentwood|Brentwood city
+29|08398|Bridgeton|Bridgeton city
+29|08470|Brimson|Brimson village
+29|08614|Bronaugh|Bronaugh city
+29|08650|Brookfield|Brookfield city
+29|08776|Brooklyn Heights|Brooklyn Heights town
+29|08884|Browning|Browning city
+29|08902|Brownington|Brownington town
+29|08974|Brumley|Brumley town
+29|09046|Brunswick|Brunswick city
+29|09388|Bucklin|Bucklin city
+29|09424|Buckner|Buckner city
+29|09514|Buffalo|Buffalo city
+29|09642|Bull Creek|Bull Creek village
+29|09658|Bunceton|Bunceton city
+29|09694|Bunker|Bunker city
+29|09802|Burgess|Burgess town
+29|09838|Burlington Junction|Burlington Junction city
+29|10054|Butler|Butler city
+29|10144|Butterfield|Butterfield village
+29|10240|Byrnes Mill|Byrnes Mill city
+29|10288|Cabool|Cabool city
+29|10342|Cainsville|Cainsville city
+29|10360|Cairo|Cairo village
+29|10432|Caledonia|Caledonia village
+29|10450|Calhoun|Calhoun city
+29|10468|California|California city
+29|10486|Callao|Callao city
+29|10612|Calverton Park|Calverton Park village
+29|10738|Camden|Camden city
+29|10792|Camden Point|Camden Point city
+29|10810|Camdenton|Camdenton city
+29|10828|Cameron|Cameron city
+29|10864|Campbell|Campbell city
+29|11026|Canalou|Canalou city
+29|11134|Canton|Canton city
+29|11242|Cape Girardeau|Cape Girardeau city
+29|11350|Cardwell|Cardwell city
+29|11368|Carl Junction|Carl Junction city
+29|11566|Carrollton|Carrollton city
+29|11638|Carterville|Carterville city
+29|11656|Carthage|Carthage city
+29|11692|Caruthersville|Caruthersville city
+29|11728|Carytown|Carytown city
+29|11890|Cassville|Cassville city
+29|12052|Catron|Catron town
+29|12079|Cave|Cave town
+29|12376|Cedar Hill Lakes|Cedar Hill Lakes village
+29|12592|Center|Center city
+29|12664|Centertown|Centertown town
+29|12682|Centerview|Centerview city
+29|12718|Centerville|Centerville city
+29|12898|Centralia|Centralia city
+29|12988|Chaffee|Chaffee city
+29|13006|Chain of Rocks|Chain of Rocks village
+29|13015|Chain-O-Lakes|Chain-O-Lakes village
+29|13060|Chamois|Chamois city
+29|13078|Champ|Champ village
+29|13330|Charlack|Charlack city
+29|13366|Charleston|Charleston city
+29|13600|Chesterfield|Chesterfield city
+29|13654|Chilhowee|Chilhowee town
+29|13690|Chillicothe|Chillicothe city
+29|13852|Chula|Chula city
+29|13978|Clarence|Clarence city
+29|14068|Clark|Clark city
+29|14140|Clarksburg|Clarksburg city
+29|14158|Clarksdale|Clarksdale city
+29|14176|Clarkson Valley|Clarkson Valley city
+29|14194|Clarksville|Clarksville city
+29|14212|Clarkton|Clarkton city
+29|14554|Claycomo|Claycomo village
+29|14572|Clayton|Clayton city
+29|14662|Clearmont|Clearmont city
+29|14770|Cleveland|Cleveland city
+29|14788|Clever|Clever city
+29|14806|Cliff Village|Cliff Village village
+29|14896|Clifton Hill|Clifton Hill city
+29|14914|Climax Springs|Climax Springs village
+29|14986|Clinton|Clinton city
+29|15130|Clyde|Clyde village
+29|15220|Cobalt|Cobalt village
+29|15274|Coffey|Coffey city
+29|15436|Cole Camp|Cole Camp city
+29|15562|Collins|Collins village
+29|15670|Columbia|Columbia city
+29|15760|Commerce|Commerce village
+29|15922|Conception Junction|Conception Junction town
+29|16102|Concordia|Concordia city
+29|16115|Coney Island|Coney Island village
+29|16192|Conway|Conway city
+29|16228|Cool Valley|Cool Valley city
+29|16336|Cooter|Cooter city
+29|16408|Corder|Corder city
+29|16462|Corning|Corning town
+29|16588|Cosby|Cosby village
+29|16678|Cottleville|Cottleville city
+29|16802|Country Club|Country Club village
+29|16822|Country Club Hills|Country Club Hills city
+29|16876|Country Life Acres|Country Life Acres village
+29|16984|Cowgill|Cowgill city
+29|17056|Craig|Craig city
+29|17074|Crane|Crane city
+29|17164|Creighton|Creighton city
+29|17218|Crestwood|Crestwood city
+29|17272|Creve Coeur|Creve Coeur city
+29|17344|Crocker|Crocker city
+29|17524|Cross Timbers|Cross Timbers city
+29|17632|Crystal City|Crystal City city
+29|17650|Crystal Lake Park|Crystal Lake Park city
+29|17660|Crystal Lakes|Crystal Lakes city
+29|17668|Cuba|Cuba city
+29|17902|Curryville|Curryville city
+29|17992|Dadeville|Dadeville village
+29|18118|Dalton|Dalton town
+29|18253|Dardenne Prairie|Dardenne Prairie city
+29|18316|Darlington|Darlington village
+29|18658|Dearborn|Dearborn city
+29|18730|Deepwater|Deepwater city
+29|18802|Deerfield|Deerfield village
+29|18946|De Kalb|De Kalb town
+29|19018|Dellwood|Dellwood city
+29|19072|Delta|Delta city
+29|19090|Dennis Acres|Dennis Acres village
+29|19162|Denver|Denver village
+29|19198|Des Arc|Des Arc village
+29|19216|Desloge|Desloge city
+29|19252|De Soto|De Soto city
+29|19270|Des Peres|Des Peres city
+29|19378|De Witt|De Witt city
+29|19396|Dexter|Dexter city
+29|19432|Diamond|Diamond town
+29|19486|Diehlstadt|Diehlstadt village
+29|19504|Diggins|Diggins village
+29|19630|Dixon|Dixon city
+29|19792|Doniphan|Doniphan city
+29|19828|Doolittle|Doolittle city
+29|19918|Dover|Dover town
+29|19990|Downing|Downing city
+29|20134|Drexel|Drexel city
+29|20296|Dudley|Dudley city
+29|20314|Duenweg|Duenweg city
+29|20512|Duquesne|Duquesne village
+29|20566|Dutchtown|Dutchtown village
+29|20674|Eagleville|Eagleville town
+29|20980|East Lynne|East Lynne city
+29|21034|Easton|Easton city
+29|21052|East Prairie|East Prairie city
+29|21214|Edgar Springs|Edgar Springs city
+29|21250|Edgerton|Edgerton city
+29|21322|Edina|Edina city
+29|21376|Edmundson|Edmundson city
+29|21484|Eldon|Eldon city
+29|21502|El Dorado Springs|El Dorado Springs city
+29|21844|Ellington|Ellington city
+29|21898|Ellisville|Ellisville city
+29|21916|Ellsinore|Ellsinore city
+29|21988|Elmer|Elmer city
+29|22006|Elmira|Elmira village
+29|22024|Elmo|Elmo city
+29|22114|Elsberry|Elsberry city
+29|22250|Emerald Beach|Emerald Beach village
+29|22276|Eminence|Eminence city
+29|22312|Emma|Emma city
+29|22474|Eolia|Eolia village
+29|22600|Essex|Essex city
+29|22672|Ethel|Ethel town
+29|22834|Eureka|Eureka city
+29|22951|Evergreen|Evergreen village
+29|22996|Everton|Everton city
+29|23032|Ewing|Ewing city
+29|23077|Excelsior Estates|Excelsior Estates village
+29|23086|Excelsior Springs|Excelsior Springs city
+29|23122|Exeter|Exeter city
+29|23266|Fairfax|Fairfax city
+29|23338|Fair Grove|Fair Grove city
+29|23428|Fair Play|Fair Play city
+29|23518|Fairview|Fairview town
+29|23662|Farber|Farber city
+29|23698|Farley|Farley village
+29|23752|Farmington|Farmington city
+29|23842|Fayette|Fayette city
+29|23950|Fenton|Fenton city
+29|23986|Ferguson|Ferguson city
+29|24058|Ferrelview|Ferrelview village
+29|24094|Festus|Festus city
+29|24120|Fidelity|Fidelity town
+29|24184|Fillmore|Fillmore city
+29|24328|Fisk|Fisk city
+29|24562|Fleming|Fleming city
+29|24580|Flemington|Flemington village
+29|24688|Flint Hill|Flint Hill city
+29|24706|Flordell Hills|Flordell Hills city
+29|24760|Florida|Florida village
+29|24778|Florissant|Florissant city
+29|24886|Foley|Foley city
+29|25012|Fordland|Fordland city
+29|25066|Forest City|Forest City city
+29|25120|Foristell|Foristell city
+29|25192|Forsyth|Forsyth city
+29|25228|Fortescue|Fortescue town
+29|25372|Foster|Foster village
+29|25411|Fountain N' Lakes|Fountain N' Lakes village
+29|25552|Frankford|Frankford city
+29|25624|Franklin|Franklin city
+29|25768|Fredericktown|Fredericktown city
+29|25822|Freeburg|Freeburg village
+29|25894|Freeman|Freeman city
+29|25912|Freistatt|Freistatt village
+29|25957|Fremont Hills|Fremont Hills city
+29|26092|Frohna|Frohna city
+29|26110|Frontenac|Frontenac city
+29|26182|Fulton|Fulton city
+29|26218|Gainesville|Gainesville city
+29|26254|Galena|Galena city
+29|26308|Gallatin|Gallatin city
+29|26362|Galt|Galt city
+29|26434|Garden City|Garden City city
+29|26578|Gasconade|Gasconade city
+29|26776|Gentry|Gentry village
+29|26866|Gerald|Gerald city
+29|26902|Gerster|Gerster town
+29|26920|Gibbs|Gibbs village
+29|26974|Gideon|Gideon city
+29|27028|Gilliam|Gilliam city
+29|27064|Gilman City|Gilman City city
+29|27100|Ginger Blue|Ginger Blue village
+29|27190|Gladstone|Gladstone city
+29|27208|Glasgow|Glasgow city
+29|27262|Glenaire|Glenaire city
+29|27280|Glen Allen|Glen Allen town
+29|27334|Glendale|Glendale city
+29|27370|Glen Echo Park|Glen Echo Park village
+29|27514|Glenwood|Glenwood village
+29|27676|Golden City|Golden City city
+29|27874|Goodman|Goodman town
+29|27900|Goodnight|Goodnight village
+29|27928|Gordonville|Gordonville village
+29|28000|Goss|Goss town
+29|28036|Gower|Gower city
+29|28072|Graham|Graham town
+29|28090|Grain Valley|Grain Valley city
+29|28108|Granby|Granby city
+29|28170|Grand Falls Plaza|Grand Falls Plaza town
+29|28180|Grandin|Grandin city
+29|28198|Grand Pass|Grand Pass village
+29|28324|Grandview|Grandview city
+29|28360|Granger|Granger village
+29|28594|Grant City|Grant City town
+29|28630|Grantwood Village|Grantwood Village town
+29|28828|Gravois Mills|Gravois Mills town
+29|29116|Greencastle|Greencastle city
+29|29134|Green City|Green City city
+29|29152|Greendale|Greendale city
+29|29206|Greenfield|Greenfield city
+29|29324|Green Park|Green Park city
+29|29332|Green Ridge|Green Ridge city
+29|29422|Greentop|Greentop city
+29|29476|Greenville|Greenville city
+29|29494|Greenwood|Greenwood city
+29|29692|Guilford|Guilford town
+29|29764|Gunn City|Gunn City village
+29|29908|Hale|Hale city
+29|29962|Halfway|Halfway village
+29|29998|Hallsville|Hallsville city
+29|30016|Halltown|Halltown village
+29|30034|Hamilton|Hamilton city
+29|30196|Hanley Hills|Hanley Hills village
+29|30214|Hannibal|Hannibal city
+29|30322|Hardin|Hardin city
+29|30466|Harris|Harris town
+29|30484|Harrisburg|Harrisburg town
+29|30610|Harrisonville|Harrisonville city
+29|30718|Hartsburg|Hartsburg town
+29|30754|Hartville|Hartville city
+29|30862|Harwood|Harwood village
+29|31024|Hawk Point|Hawk Point city
+29|31132|Hayti|Hayti city
+29|31168|Hayti Heights|Hayti Heights city
+29|31204|Haywood City|Haywood City village
+29|31276|Hazelwood|Hazelwood city
+29|31654|Henrietta|Henrietta city
+29|31708|Herculaneum|Herculaneum city
+29|31762|Hermann|Hermann city
+29|31780|Hermitage|Hermitage city
+29|31924|Higbee|Higbee city
+29|31960|Higginsville|Higginsville city
+29|31996|High Hill|High Hill city
+29|32068|Highlandville|Highlandville city
+29|32248|Hillsboro|Hillsboro city
+29|32266|Hillsdale|Hillsdale village
+29|32410|Hoberg|Hoberg village
+29|32536|Holcomb|Holcomb city
+29|32572|Holden|Holden city
+29|32590|Holland|Holland town
+29|32626|Holliday|Holliday village
+29|32662|Hollister|Hollister city
+29|32752|Holt|Holt city
+29|32770|Holts Summit|Holts Summit city
+29|32806|Homestead|Homestead village
+29|32824|Homestown|Homestown city
+29|33004|Hopkins|Hopkins city
+29|33076|Hornersville|Hornersville city
+29|33238|Houston|Houston city
+29|33256|Houstonia|Houstonia city
+29|33292|Houston Lake|Houston Lake city
+29|33364|Howardville|Howardville city
+29|33652|Hughesville|Hughesville village
+29|33706|Humansville|Humansville city
+29|33724|Hume|Hume town
+29|33742|Humphreys|Humphreys village
+29|33760|Hunnewell|Hunnewell city
+29|33850|Huntleigh|Huntleigh city
+29|33868|Huntsdale|Huntsdale town
+29|33886|Huntsville|Huntsville city
+29|33904|Hurdland|Hurdland city
+29|33922|Hurley|Hurley city
+29|34210|Iatan|Iatan village
+29|34228|Iberia|Iberia city
+29|35000|Independence|Independence city
+29|35186|Indian Point|Indian Point village
+29|35240|Innsbrook|Innsbrook village
+29|35306|Ionia|Ionia town
+29|35324|Irena|Irena village
+29|35396|Irondale|Irondale city
+29|35450|Iron Mountain Lake|Iron Mountain Lake city
+29|35468|Ironton|Ironton city
+29|35648|Jackson|Jackson city
+29|36224|Jacksonville|Jacksonville village
+29|36314|Jameson|Jameson town
+29|36332|Jamesport|Jamesport city
+29|36368|Jamestown|Jamestown town
+29|36512|Jasper|Jasper city
+29|37000|Jefferson City|Jefferson City city
+29|37178|Jennings|Jennings city
+29|37214|Jerico Springs|Jerico Springs village
+29|37574|Jonesburg|Jonesburg city
+29|37592|Joplin|Joplin city
+29|37700|Josephville|Josephville village
+29|37736|Junction City|Junction City village
+29|37790|Kahoka|Kahoka city
+29|38000|Kansas City|Kansas City city
+29|38072|Kearney|Kearney city
+29|38216|Kelso|Kelso village
+29|38306|Kennett|Kennett city
+29|38468|Keytesville|Keytesville city
+29|38522|Kidder|Kidder city
+29|38612|Kimberling City|Kimberling City city
+29|38684|Kimmswick|Kimmswick city
+29|38774|King City|King City city
+29|38792|Kingdom City|Kingdom City village
+29|38846|Kingston|Kingston city
+29|38918|Kingsville|Kingsville city
+29|38972|Kinloch|Kinloch city
+29|39008|Kirbyville|Kirbyville village
+29|39026|Kirksville|Kirksville city
+29|39044|Kirkwood|Kirkwood city
+29|39188|Knob Noster|Knob Noster city
+29|39278|Knox City|Knox City city
+29|39440|Koshkonong|Koshkonong town
+29|39512|La Belle|La Belle city
+29|39566|Laclede|Laclede city
+29|39602|Laddonia|Laddonia city
+29|39638|La Due|La Due village
+29|39656|Ladue|Ladue city
+29|39764|La Grange|La Grange city
+29|39845|Lake Annette|Lake Annette city
+29|39952|Lake Lafayette|Lake Lafayette city
+29|39980|Lake Lotawana|Lake Lotawana city
+29|39990|Lake Mykee Town|Lake Mykee Town village
+29|40034|Lake Ozark|Lake Ozark city
+29|40043|Lake St. Louis|Lake St. Louis city
+29|40088|Lakeshire|Lakeshire city
+29|40142|Lakeside|Lakeside city
+29|40196|Lake Tapawingo|Lake Tapawingo city
+29|40214|Lake Tekakwitha|Lake Tekakwitha village
+29|40322|Lake Waukomis|Lake Waukomis city
+29|40340|Lake Winnebago|Lake Winnebago city
+29|40376|Lamar|Lamar city
+29|40430|Lamar Heights|Lamar Heights city
+29|40448|Lambert|Lambert village
+29|40520|La Monte|La Monte city
+29|40592|Lanagan|Lanagan town
+29|40610|Lancaster|Lancaster city
+29|40682|La Plata|La Plata city
+29|40736|Laredo|Laredo city
+29|40790|La Russell|La Russell city
+29|40826|Lathrop|Lathrop city
+29|40916|Laurie|Laurie city
+29|40988|Lawson|Lawson city
+29|41024|Leadington|Leadington city
+29|41078|Leadwood|Leadwood city
+29|41114|Leasburg|Leasburg village
+29|41132|Leawood|Leawood village
+29|41168|Lebanon|Lebanon city
+29|41348|Lee's Summit|Lee's Summit city
+29|41402|Leeton|Leeton city
+29|41546|Leonard|Leonard village
+29|41690|Leslie|Leslie village
+29|41762|Levasy|Levasy city
+29|41834|Lewis and Clark Village|Lewis and Clark Village town
+29|41852|Lewistown|Lewistown town
+29|41870|Lexington|Lexington city
+29|41906|Liberal|Liberal city
+29|42032|Liberty|Liberty city
+29|42464|Licking|Licking city
+29|42536|Lilbourn|Lilbourn city
+29|42608|Lincoln|Lincoln city
+29|43238|Linn|Linn city
+29|43274|Linn Creek|Linn Creek city
+29|43292|Linneus|Linneus city
+29|43346|Lithium|Lithium village
+29|43454|Livonia|Livonia village
+29|43468|Loch Lloyd|Loch Lloyd village
+29|43472|Lock Springs|Lock Springs village
+29|43490|Lockwood|Lockwood city
+29|43652|Lohman|Lohman city
+29|43672|Loma Linda|Loma Linda town
+29|43760|Lone Jack|Lone Jack city
+29|43940|Longtown|Longtown town
+29|44156|Louisburg|Louisburg village
+29|44174|Louisiana|Louisiana city
+29|44282|Lowry City|Lowry City city
+29|44372|Lucerne|Lucerne village
+29|44390|Ludlow|Ludlow town
+29|44498|Lupus|Lupus town
+29|44516|Luray|Luray village
+29|44768|McBaine|McBaine town
+29|44829|McCord Bend|McCord Bend village
+29|45020|McFall|McFall city
+29|45110|Mackenzie|Mackenzie village
+29|45200|McKittrick|McKittrick town
+29|45218|Macks Creek|Macks Creek city
+29|45326|Macon|Macon city
+29|45470|Madison|Madison city
+29|45596|Maitland|Maitland city
+29|45614|Malden|Malden city
+29|45632|Malta Bend|Malta Bend town
+29|45668|Manchester|Manchester city
+29|45740|Mansfield|Mansfield city
+29|45830|Maplewood|Maplewood city
+29|45848|Marble Hill|Marble Hill city
+29|45866|Marceline|Marceline city
+29|46172|Marionville|Marionville city
+29|46208|Marlborough|Marlborough village
+29|46244|Marquand|Marquand city
+29|46316|Marshall|Marshall city
+29|46388|Marshfield|Marshfield city
+29|46406|Marston|Marston city
+29|46424|Marthasville|Marthasville city
+29|46460|Martinsburg|Martinsburg town
+29|46586|Maryland Heights|Maryland Heights city
+29|46640|Maryville|Maryville city
+29|46730|Matthews|Matthews city
+29|46946|Maysville|Maysville city
+29|46964|Mayview|Mayview city
+29|47036|Meadville|Meadville city
+29|47270|Memphis|Memphis city
+29|47288|Mendon|Mendon city
+29|47486|Mercer|Mercer town
+29|47520|Merriam Woods|Merriam Woods village
+29|47540|Merwin|Merwin village
+29|47594|Meta|Meta city
+29|47612|Metz|Metz town
+29|47648|Mexico|Mexico city
+29|47684|Miami|Miami city
+29|47900|Middletown|Middletown town
+29|48062|Milan|Milan city
+29|48098|Milford|Milford village
+29|48134|Millard|Millard village
+29|48242|Miller|Miller city
+29|48386|Mill Spring|Mill Spring village
+29|48476|Milo|Milo village
+29|48566|Mindenmines|Mindenmines city
+29|48656|Miner|Miner city
+29|48710|Mineral Point|Mineral Point town
+29|48880|Miramiguoa Park|Miramiguoa Park village
+29|48980|Missouri City|Missouri City city
+29|49034|Moberly|Moberly city
+29|49070|Mokane|Mokane city
+29|49088|Moline Acres|Moline Acres city
+29|49196|Monett|Monett city
+29|49394|Monroe City|Monroe City city
+29|49574|Montgomery City|Montgomery City city
+29|49592|Monticello|Monticello village
+29|49664|Montrose|Montrose city
+29|49790|Mooresville|Mooresville village
+29|49898|Morehouse|Morehouse city
+29|49988|Morley|Morley city
+29|50060|Morrison|Morrison city
+29|50078|Morrisville|Morrisville town
+29|50168|Mosby|Mosby city
+29|50204|Moscow Mills|Moscow Mills city
+29|50312|Mound City|Mound City city
+29|50330|Moundville|Moundville town
+29|50402|Mountain Grove|Mountain Grove city
+29|50438|Mountain View|Mountain View city
+29|50510|Mount Leonard|Mount Leonard town
+29|50528|Mount Moriah|Mount Moriah town
+29|50672|Mount Vernon|Mount Vernon city
+29|51140|Napoleon|Napoleon city
+29|51302|Naylor|Naylor city
+29|51356|Neck City|Neck City city
+29|51446|Neelyville|Neelyville city
+29|51500|Nelson|Nelson city
+29|51572|Neosho|Neosho city
+29|51644|Nevada|Nevada city
+29|51662|Newark|Newark village
+29|51680|New Bloomfield|New Bloomfield city
+29|51716|Newburg|Newburg city
+29|51734|New Cambria|New Cambria city
+29|51770|New Florence|New Florence city
+29|51824|New Franklin|New Franklin city
+29|51860|New Hampton|New Hampton city
+29|51914|New Haven|New Haven city
+29|52058|New London|New London city
+29|52076|New Madrid|New Madrid city
+29|52148|New Melle|New Melle city
+29|52292|Newtonia|Newtonia town
+29|52328|Newtown|Newtown town
+29|52418|Niangua|Niangua city
+29|52616|Nixa|Nixa city
+29|52742|Noel|Noel city
+29|52760|Norborne|Norborne city
+29|52796|Normandy|Normandy city
+29|53102|North Kansas City|North Kansas City city
+29|53138|North Lilbourn|North Lilbourn village
+29|53174|Northmoor|Northmoor city
+29|53408|Northwoods|Northwoods city
+29|53454|Norwood|Norwood city
+29|53462|Norwood Court|Norwood Court town
+29|53516|Novelty|Novelty village
+29|53534|Novinger|Novinger city
+29|53624|Oak Grove|Oak Grove city
+29|53650|Oak Grove Village|Oak Grove Village village
+29|53750|Oakland|Oakland city
+29|53786|Oak Ridge|Oak Ridge town
+29|53804|Oaks|Oaks village
+29|53858|Oakview|Oakview village
+29|53894|Oakwood|Oakwood village
+29|53948|Oakwood Park|Oakwood Park village
+29|54038|Odessa|Odessa city
+29|54074|O'Fallon|O'Fallon city
+29|54200|Old Appleton|Old Appleton town
+29|54416|Old Monroe|Old Monroe city
+29|54560|Olean|Olean town
+29|54650|Olivette|Olivette city
+29|54686|Olympian Village|Olympian Village city
+29|54758|Oran|Oran city
+29|54848|Oregon|Oregon city
+29|54920|Oronogo|Oronogo city
+29|54938|Orrick|Orrick city
+29|55244|Osage Beach|Osage Beach city
+29|55352|Osborn|Osborn city
+29|55388|Osceola|Osceola city
+29|55424|Osgood|Osgood village
+29|55478|Otterville|Otterville city
+29|55550|Overland|Overland city
+29|55640|Owensville|Owensville city
+29|55766|Ozark|Ozark city
+29|55910|Pacific|Pacific city
+29|55964|Pagedale|Pagedale city
+29|56036|Palmyra|Palmyra city
+29|56144|Paris|Paris city
+29|56226|Parkdale|Parkdale village
+29|56272|Park Hills|Park Hills city
+29|56288|Parkville|Parkville city
+29|56306|Parkway|Parkway village
+29|56342|Parma|Parma city
+29|56360|Parnell|Parnell city
+29|56396|Pasadena Hills|Pasadena Hills city
+29|56414|Pasadena Park|Pasadena Park village
+29|56432|Pascola|Pascola village
+29|56468|Passaic|Passaic town
+29|56558|Pattonsburg|Pattonsburg city
+29|56612|Paynesville|Paynesville village
+29|56620|Peaceful Village|Peaceful Village village
+29|56756|Peculiar|Peculiar city
+29|56882|Pendleton|Pendleton village
+29|56900|Penermon|Penermon village
+29|57080|Perry|Perry city
+29|57116|Perryville|Perryville city
+29|57278|Pevely|Pevely city
+29|57368|Phillipsburg|Phillipsburg village
+29|57404|Pickering|Pickering town
+29|57422|Piedmont|Piedmont city
+29|57494|Pierce City|Pierce City city
+29|57512|Pierpont|Pierpont village
+29|57602|Pilot Grove|Pilot Grove city
+29|57656|Pilot Knob|Pilot Knob city
+29|57800|Pine Lawn|Pine Lawn city
+29|57818|Pineville|Pineville city
+29|57926|Pinhook|Pinhook village
+29|58088|Plato|Plato village
+29|58178|Platte City|Platte City city
+29|58196|Platte Woods|Platte Woods city
+29|58250|Plattsburg|Plattsburg city
+29|58394|Pleasant Hill|Pleasant Hill city
+29|58448|Pleasant Hope|Pleasant Hope city
+29|58520|Pleasant Valley|Pleasant Valley city
+29|58628|Pocahontas|Pocahontas town
+29|58898|Pollock|Pollock village
+29|58916|Polo|Polo city
+29|59096|Poplar Bluff|Poplar Bluff city
+29|59150|Portage Des Sioux|Portage Des Sioux city
+29|59186|Portageville|Portageville city
+29|59330|Potosi|Potosi city
+29|59420|Powersville|Powersville village
+29|59726|Prairie Home|Prairie Home city
+29|59816|Prathersville|Prathersville village
+29|59870|Preston|Preston village
+29|59942|Princeton|Princeton city
+29|60140|Purcell|Purcell city
+29|60158|Purdin|Purdin city
+29|60176|Purdy|Purdy city
+29|60284|Puxico|Puxico city
+29|60356|Queen City|Queen City city
+29|60410|Quitman|Quitman town
+29|60428|Qulin|Qulin city
+29|60590|Randolph|Randolph village
+29|60716|Ravenwood|Ravenwood town
+29|60734|Raymondville|Raymondville town
+29|60752|Raymore|Raymore city
+29|60788|Raytown|Raytown city
+29|60824|Rayville|Rayville village
+29|60842|Rea|Rea city
+29|60986|Redings Mill|Redings Mill village
+29|61094|Reeds|Reeds town
+29|61112|Reeds Spring|Reeds Spring city
+29|61166|Renick|Renick village
+29|61184|Rensselaer|Rensselaer village
+29|61238|Republic|Republic city
+29|61292|Revere|Revere town
+29|61328|Rhineland|Rhineland town
+29|61364|Richards|Richards town
+29|61418|Rich Hill|Rich Hill city
+29|61562|Richland|Richland city
+29|61670|Richmond|Richmond city
+29|61706|Richmond Heights|Richmond Heights city
+29|61886|Ridgely|Ridgely village
+29|61904|Ridgeway|Ridgeway city
+29|61994|Risco|Risco city
+29|62030|Ritchey|Ritchey town
+29|62056|River Bend|River Bend village
+29|62156|Riverside|Riverside city
+29|62192|Riverview|Riverview village
+29|62210|Riverview Estates|Riverview Estates village
+29|62228|Rives|Rives town
+29|62498|Rocheport|Rocheport city
+29|62570|Rockaway Beach|Rockaway Beach city
+29|62660|Rock Hill|Rock Hill city
+29|62696|Rock Port|Rock Port city
+29|62786|Rockville|Rockville city
+29|62894|Rogersville|Rogersville city
+29|62912|Rolla|Rolla city
+29|63074|Roscoe|Roscoe village
+29|63110|Rosebud|Rosebud city
+29|63200|Rosendale|Rosendale city
+29|63236|Rothville|Rothville village
+29|63560|Rush Hill|Rush Hill village
+29|63596|Rushville|Rushville town
+29|63704|Russellville|Russellville city
+29|63776|Rutledge|Rutledge town
+29|63857|Saddlebrooke|Saddlebrooke village
+29|63902|Saginaw|Saginaw village
+29|63956|St. Ann|St. Ann city
+29|64082|St. Charles|St. Charles city
+29|64136|St. Clair|St. Clair city
+29|64172|St. Cloud|St. Cloud village
+29|64180|Ste. Genevieve|Ste. Genevieve city
+29|64190|St. Elizabeth|St. Elizabeth village
+29|64370|St. George|St. George city
+29|64424|St. James|St. James city
+29|64478|St. John|St. John city
+29|64550|St. Joseph|St. Joseph city
+29|65000|St. Louis|St. Louis city
+29|65018|St. Martins|St. Martins city
+29|65034|St. Mary|St. Mary city
+29|65108|St. Paul|St. Paul city
+29|65126|St. Peters|St. Peters city
+29|65144|St. Robert|St. Robert city
+29|65162|St. Thomas|St. Thomas town
+29|65234|Salem|Salem city
+29|65450|Salisbury|Salisbury city
+29|65990|Sarcoxie|Sarcoxie city
+29|66044|Savannah|Savannah city
+29|66134|Schell City|Schell City city
+29|66337|Scotsdale|Scotsdale town
+29|66368|Scott City|Scott City city
+29|66440|Sedalia|Sedalia city
+29|66476|Sedgewickville|Sedgewickville village
+29|66530|Seligman|Seligman city
+29|66638|Senath|Senath city
+29|66674|Seneca|Seneca city
+29|66800|Seymour|Seymour city
+29|67178|Shelbina|Shelbina city
+29|67196|Shelbyville|Shelbyville city
+29|67214|Sheldon|Sheldon city
+29|67358|Sheridan|Sheridan town
+29|67628|Shoal Creek Drive|Shoal Creek Drive village
+29|67632|Shoal Creek Estates|Shoal Creek Estates village
+29|67700|Shrewsbury|Shrewsbury city
+29|67718|Sibley|Sibley village
+29|67790|Sikeston|Sikeston city
+29|67808|Silex|Silex village
+29|67880|Silver Creek|Silver Creek village
+29|68132|Skidmore|Skidmore city
+29|68204|Slater|Slater city
+29|68384|Smithton|Smithton city
+29|68420|Smithville|Smithville city
+29|68852|South Gifford|South Gifford village
+29|68870|South Gorin|South Gorin town
+29|68888|South Greenfield|South Greenfield village
+29|68942|South Lineville|South Lineville town
+29|69230|Southwest City|Southwest City town
+29|69302|Sparta|Sparta city
+29|69464|Spickard|Spickard city
+29|70000|Springfield|Springfield city
+29|70270|Stanberry|Stanberry city
+29|70414|Stark City|Stark City town
+29|70558|Steele|Steele city
+29|70576|Steelville|Steelville city
+29|70648|Stella|Stella town
+29|70738|Stewartsville|Stewartsville city
+29|70828|Stockton|Stockton city
+29|70954|Stotesbury|Stotesbury town
+29|70990|Stotts City|Stotts City city
+29|71008|Stoutland|Stoutland city
+29|71026|Stoutsville|Stoutsville village
+29|71044|Stover|Stover city
+29|71062|Strafford|Strafford city
+29|71098|Strasburg|Strasburg city
+29|71224|Sturgeon|Sturgeon city
+29|71368|Sugar Creek|Sugar Creek city
+29|71440|Sullivan|Sullivan city
+29|71512|Summersville|Summersville city
+29|71620|Sumner|Sumner town
+29|71728|Sunrise Beach|Sunrise Beach village
+29|71746|Sunset Hills|Sunset Hills city
+29|71890|Sweet Springs|Sweet Springs city
+29|72034|Sycamore Hills|Sycamore Hills village
+29|72106|Syracuse|Syracuse city
+29|72196|Tallapoosa|Tallapoosa city
+29|72232|Taneyville|Taneyville village
+29|72304|Taos|Taos city
+29|72340|Tarkio|Tarkio city
+29|72376|Tarrants|Tarrants village
+29|72826|Thayer|Thayer city
+29|72898|Theodosia|Theodosia village
+29|73127|Three Creeks|Three Creeks village
+29|73240|Tightwad|Tightwad village
+29|73330|Tina|Tina village
+29|73348|Tindall|Tindall town
+29|73420|Tipton|Tipton city
+29|73618|Town and Country|Town and Country city
+29|73690|Tracy|Tracy city
+29|73816|Trenton|Trenton city
+29|73852|Trimble|Trimble city
+29|73870|Triplett|Triplett city
+29|73942|Troy|Troy city
+29|73978|Truesdale|Truesdale city
+29|74014|Truxton|Truxton village
+29|74176|Turney|Turney village
+29|74194|Tuscumbia|Tuscumbia town
+29|74284|Twin Oaks|Twin Oaks village
+29|74473|Umber View Heights|Umber View Heights village
+29|74626|Union|Union city
+29|75130|Union Star|Union Star town
+29|75166|Unionville|Unionville city
+29|75202|Unity Village|Unity Village village
+29|75220|University City|University City city
+29|75238|Uplands Park|Uplands Park village
+29|75310|Urbana|Urbana city
+29|75346|Urich|Urich city
+29|75364|Utica|Utica village
+29|75472|Valley Park|Valley Park city
+29|75580|Van Buren|Van Buren town
+29|75688|Vandalia|Vandalia city
+29|75706|Vandiver|Vandiver village
+29|75724|Vanduser|Vanduser village
+29|75796|Velda City|Velda City city
+29|75814|Velda Village Hills|Velda Village Hills village
+29|75886|Verona|Verona town
+29|75922|Versailles|Versailles city
+29|76012|Viburnum|Viburnum city
+29|76102|Vienna|Vienna city
+29|76157|Village of Four Seasons|Village of Four Seasons village
+29|76246|Vinita Park|Vinita Park city
+29|76264|Vinita Terrace|Vinita Terrace village
+29|76390|Vista|Vista village
+29|76444|Waco|Waco city
+29|76660|Walker|Walker city
+29|76840|Walnut Grove|Walnut Grove city
+29|76966|Wardell|Wardell town
+29|77002|Wardsville|Wardsville village
+29|77092|Warrensburg|Warrensburg city
+29|77128|Warrenton|Warrenton city
+29|77146|Warsaw|Warsaw city
+29|77182|Warson Woods|Warson Woods city
+29|77200|Washburn|Washburn city
+29|77416|Washington|Washington city
+29|77848|Watson|Watson village
+29|77866|Waverly|Waverly city
+29|77920|Wayland|Wayland city
+29|77992|Waynesville|Waynesville city
+29|78028|Weatherby|Weatherby town
+29|78046|Weatherby Lake|Weatherby Lake city
+29|78064|Weaubleau|Weaubleau city
+29|78118|Webb City|Webb City city
+29|78154|Webster Groves|Webster Groves city
+29|78314|Weldon Spring|Weldon Spring city
+29|78334|Weldon Spring Heights|Weldon Spring Heights town
+29|78352|Wellington|Wellington city
+29|78370|Wellston|Wellston city
+29|78406|Wellsville|Wellsville city
+29|78424|Wentworth|Wentworth village
+29|78442|Wentzville|Wentzville city
+29|78514|West Alton|West Alton city
+29|78622|Westboro|Westboro city
+29|78838|West Line|West Line village
+29|78856|Weston|Weston city
+29|78910|Westphalia|Westphalia city
+29|78928|West Plains|West Plains city
+29|79000|West Sullivan|West Sullivan town
+29|79054|Westwood|Westwood village
+29|79090|Wheatland|Wheatland city
+29|79126|Wheaton|Wheaton city
+29|79180|Wheeling|Wheeling city
+29|79558|Whiteside|Whiteside village
+29|79612|Whitewater|Whitewater town
+29|79756|Wilbur Park|Wilbur Park village
+29|79820|Wildwood|Wildwood city
+29|79882|Willard|Willard city
+29|80026|Williamsville|Williamsville city
+29|80098|Willow Springs|Willow Springs city
+29|80260|Wilson City|Wilson City village
+29|80314|Winchester|Winchester city
+29|80350|Windsor|Windsor city
+29|80380|Windsor Place|Windsor Place village
+29|80422|Winfield|Winfield city
+29|80512|Winona|Winona city
+29|80548|Winston|Winston village
+29|80767|Wood Heights|Wood Heights city
+29|80962|Woodson Terrace|Woodson Terrace city
+29|81016|Wooldridge|Wooldridge village
+29|81070|Worth|Worth village
+29|81106|Worthington|Worthington village
+29|81124|Wright City|Wright City city
+29|81142|Wyaconda|Wyaconda city
+29|81178|Wyatt|Wyatt city
+29|81430|Zalma|Zalma village

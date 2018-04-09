@@ -1,0 +1,549 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+06|00006|Ross Valley Elementary School District|Ross Valley Elementary School District
+06|00012|Twin Ridges Elementary School District|Twin Ridges Elementary School District
+06|01680|Ackerman Elementary School District|Ackerman Elementary School District
+06|01710|Adelanto Elementary School District|Adelanto Elementary School District
+06|01890|Alexander Valley Union Elementary School District|Alexander Valley Union Elementary School District
+06|01950|Alisal Union Elementary School District|Alisal Union Elementary School District
+06|01980|Allensworth Elementary School District|Allensworth Elementary School District
+06|02100|Alpine Union Elementary School District|Alpine Union Elementary School District
+06|02160|Alta Loma Elementary School District|Alta Loma Elementary School District
+06|02220|Alta Vista Elementary School District|Alta Vista Elementary School District
+06|02250|Alta-Dutch Flat Union Elementary School District|Alta-Dutch Flat Union Elementary School District
+06|02310|Alum Rock Union Elementary School District|Alum Rock Union Elementary School District
+06|02360|Alview-Dairyland Union Elementary School District|Alview-Dairyland Union Elementary School District
+06|02370|Alvina Elementary School District|Alvina Elementary School District
+06|02550|American Union Elementary School District|American Union Elementary School District
+06|02610|Anaheim Elementary School District|Anaheim Elementary School District
+06|02760|Antelope Elementary School District|Antelope Elementary School District
+06|03000|Arcata Elementary School District|Arcata Elementary School District
+06|03060|Arcohe Union Elementary School District|Arcohe Union Elementary School District
+06|03090|Arena Union Elementary School District|Arena Union Elementary School District
+06|03180|Armona Union Elementary School District|Armona Union Elementary School District
+06|03270|Arvin Union Elementary School District|Arvin Union Elementary School District
+06|03420|Atwater Elementary School District|Atwater Elementary School District
+06|03480|Auburn Union Elementary School District|Auburn Union Elementary School District
+06|03630|Bakersfield City Elementary School District|Bakersfield City Elementary School District
+06|03720|Ballard Elementary School District|Ballard Elementary School District
+06|03750|Ballico-Cressey Elementary School District|Ballico-Cressey Elementary School District
+06|03780|Bangor Union Elementary School District|Bangor Union Elementary School District
+06|03870|Banta Elementary School District|Banta Elementary School District
+06|04080|Bass Lake Joint Union Elementary School District|Bass Lake Joint Union Elementary School District
+06|04200|Bayshore Elementary School District|Bayshore Elementary School District
+06|04260|Beardsley Elementary School District|Beardsley Elementary School District
+06|04350|Bella Vista Elementary School District|Bella Vista Elementary School District
+06|04380|Bellevue Union Elementary School District|Bellevue Union Elementary School District
+06|04500|Belleview Elementary School District|Belleview Elementary School District
+06|04530|Belmont-Redwood Shores Elementary School District|Belmont-Redwood Shores Elementary School District
+06|04560|Belridge Elementary School District|Belridge Elementary School District
+06|04590|Bend Elementary School District|Bend Elementary School District
+06|04650|Bennett Valley Union Elementary School District|Bennett Valley Union Elementary School District
+06|04800|Berryessa Union Elementary School District|Berryessa Union Elementary School District
+06|04860|Big Creek Elementary School District|Big Creek Elementary School District
+06|04890|Big Lagoon Union Elementary School District|Big Lagoon Union Elementary School District
+06|04980|Big Springs Union Elementary School District|Big Springs Union Elementary School District
+06|05130|Bishop Union Elementary School District|Bishop Union Elementary School District
+06|05190|Bitterwater-Tully Union Elementary School District|Bitterwater-Tully Union Elementary School District
+06|05220|Black Butte Union Elementary School District|Black Butte Union Elementary School District
+06|05250|Blake Elementary School District|Blake Elementary School District
+06|05280|Blochman Union Elementary School District|Blochman Union Elementary School District
+06|05400|Blue Lake Union Elementary School District|Blue Lake Union Elementary School District
+06|05490|Bogus Elementary School District|Bogus Elementary School District
+06|05520|Bolinas-Stinson Union Elementary School District|Bolinas-Stinson Union Elementary School District
+06|05580|Santa Maria-Bonita Elementary School District|Santa Maria-Bonita Elementary School District
+06|05640|Bonny Doon Union Elementary School District|Bonny Doon Union Elementary School District
+06|05670|Bonsall Union Elementary School District|Bonsall Union Elementary School District
+06|05730|Bradley Union Elementary School District|Bradley Union Elementary School District
+06|05790|Brawley Elementary School District|Brawley Elementary School District
+06|05910|Brentwood Union Elementary School District|Brentwood Union Elementary School District
+06|06000|Bridgeville Elementary School District|Bridgeville Elementary School District
+06|06030|Briggs Elementary School District|Briggs Elementary School District
+06|06060|Brisbane Elementary School District|Brisbane Elementary School District
+06|06090|Brittan Elementary School District|Brittan Elementary School District
+06|06100|Browns Elementary School District|Browns Elementary School District
+06|06270|Buckeye Union Elementary School District|Buckeye Union Elementary School District
+06|06330|Buellton Union Elementary School District|Buellton Union Elementary School District
+06|06360|Buena Park Elementary School District|Buena Park Elementary School District
+06|06390|Panama-Buena Vista Union Elementary School District|Panama-Buena Vista Union Elementary School District
+06|06420|Buena Vista Elementary School District|Buena Vista Elementary School District
+06|06480|Burlingame Elementary School District|Burlingame Elementary School District
+06|06510|Burnt Ranch Elementary School District|Burnt Ranch Elementary School District
+06|06540|Burrel Union Elementary School District|Burrel Union Elementary School District
+06|06570|Burton Elementary School District|Burton Elementary School District
+06|06690|Butteville Union Elementary School District|Butteville Union Elementary School District
+06|06720|Buttonwillow Union Elementary School District|Buttonwillow Union Elementary School District
+06|06750|Byron Union Elementary School District|Byron Union Elementary School District
+06|06810|Cajon Valley Union Elementary School District|Cajon Valley Union Elementary School District
+06|06960|Caliente Union Elementary School District|Caliente Union Elementary School District
+06|07140|Cambrian Elementary School District|Cambrian Elementary School District
+06|07170|Camino Union Elementary School District|Camino Union Elementary School District
+06|07200|Campbell Union Elementary School District|Campbell Union Elementary School District
+06|07260|Camptonville Elementary School District|Camptonville Elementary School District
+06|07350|Canyon Elementary School District|Canyon Elementary School District
+06|07410|Capay Joint Union Elementary School District|Capay Joint Union Elementary School District
+06|07470|Cardiff Elementary School District|Cardiff Elementary School District
+06|07680|Cascade Union Elementary School District|Cascade Union Elementary School District
+06|07740|Castaic Union Elementary School District|Castaic Union Elementary School District
+06|07770|Castle Rock Union Elementary School District|Castle Rock Union Elementary School District
+06|07840|Cayucos Elementary School District|Cayucos Elementary School District
+06|07950|Central Elementary School District|Central Elementary School District
+06|07980|Central Union Elementary School District|Central Union Elementary School District
+06|08070|Centralia Elementary School District|Centralia Elementary School District
+06|08250|Chatom Union Elementary School District|Chatom Union Elementary School District
+06|08340|Chicago Park Elementary School District|Chicago Park Elementary School District
+06|08520|Chowchilla Elementary School District|Chowchilla Elementary School District
+06|08580|Chualar Union Elementary School District|Chualar Union Elementary School District
+06|08610|Chula Vista Elementary School District|Chula Vista Elementary School District
+06|08640|Cienega Union Elementary School District|Cienega Union Elementary School District
+06|08700|Cinnabar Elementary School District|Cinnabar Elementary School District
+06|08730|Citrus South Tule Elementary School District|Citrus South Tule Elementary School District
+06|08850|Clay Joint Elementary School District|Clay Joint Elementary School District
+06|08880|Clear Creek Elementary School District|Clear Creek Elementary School District
+06|09240|Coffee Creek Elementary School District|Coffee Creek Elementary School District
+06|09270|Cold Spring Elementary School District|Cold Spring Elementary School District
+06|09300|Colfax Elementary School District|Colfax Elementary School District
+06|09330|College Elementary School District|College Elementary School District
+06|09450|Columbia Elementary School District|Columbia Elementary School District
+06|09480|Columbia Union Elementary School District|Columbia Union Elementary School District
+06|09510|Columbine Elementary School District|Columbine Elementary School District
+06|09780|Corning Union Elementary School District|Corning Union Elementary School District
+06|09990|Cottonwood Union Elementary School District|Cottonwood Union Elementary School District
+06|10080|Cox Bar Elementary School District|Cox Bar Elementary School District
+06|10230|Cuddeback Union Elementary School District|Cuddeback Union Elementary School District
+06|10290|Cupertino Union Elementary School District|Cupertino Union Elementary School District
+06|10320|Curtis Creek Elementary School District|Curtis Creek Elementary School District
+06|10380|Cutten Elementary School District|Cutten Elementary School District
+06|10440|Cypress Elementary School District|Cypress Elementary School District
+06|10710|Dehesa Elementary School District|Dehesa Elementary School District
+06|10740|Del Mar Union Elementary School District|Del Mar Union Elementary School District
+06|10890|Delano Union Elementary School District|Delano Union Elementary School District
+06|10980|Delphic Elementary School District|Delphic Elementary School District
+06|11130|Di Giorgio Elementary School District|Di Giorgio Elementary School District
+06|11220|Dixie Elementary School District|Dixie Elementary School District
+06|11430|Douglas City Elementary School District|Douglas City Elementary School District
+06|11490|Dry Creek Joint Elementary School District|Dry Creek Joint Elementary School District
+06|11550|Ducor Union Elementary School District|Ducor Union Elementary School District
+06|11610|Dunham Elementary School District|Dunham Elementary School District
+06|11670|Dunsmuir Elementary School District|Dunsmuir Elementary School District
+06|11760|Earlimart Elementary School District|Earlimart Elementary School District
+06|11850|East Whittier City Elementary School District|East Whittier City Elementary School District
+06|11910|Eastside Union Elementary School District|Eastside Union Elementary School District
+06|11940|Edison Elementary School District|Edison Elementary School District
+06|12030|El Centro Elementary School District|El Centro Elementary School District
+06|12090|El Monte City Elementary School District|El Monte City Elementary School District
+06|12150|El Nido Elementary School District|El Nido Elementary School District
+06|12360|Elk Hills Elementary School District|Elk Hills Elementary School District
+06|12420|Elkins Elementary School District|Elkins Elementary School District
+06|12600|Elverta Joint Elementary School District|Elverta Joint Elementary School District
+06|12690|Empire Union Elementary School District|Empire Union Elementary School District
+06|12750|Encinitas Union Elementary School District|Encinitas Union Elementary School District
+06|12810|Enterprise Elementary School District|Enterprise Elementary School District
+06|12880|Escondido Union Elementary School District|Escondido Union Elementary School District
+06|12960|Etiwanda Elementary School District|Etiwanda Elementary School District
+06|13080|Eureka Union Elementary School District|Eureka Union Elementary School District
+06|13140|Evergreen Elementary School District|Evergreen Elementary School District
+06|13170|Evergreen Union Elementary School District|Evergreen Union Elementary School District
+06|13200|Exeter Union Elementary School District|Exeter Union Elementary School District
+06|13290|Fairfax Elementary School District|Fairfax Elementary School District
+06|13500|Fallbrook Union Elementary School District|Fallbrook Union Elementary School District
+06|13710|Feather Falls Union Elementary School District|Feather Falls Union Elementary School District
+06|13740|Fieldbrook Elementary School District|Fieldbrook Elementary School District
+06|13860|Flournoy Union Elementary School District|Flournoy Union Elementary School District
+06|13980|Foresthill Union Elementary School District|Foresthill Union Elementary School District
+06|14010|Forestville Union Elementary School District|Forestville Union Elementary School District
+06|14040|Forks of Salmon Elementary School District|Forks of Salmon Elementary School District
+06|14130|Fort Ross Elementary School District|Fort Ross Elementary School District
+06|14160|Fortuna Union Elementary School District|Fortuna Union Elementary School District
+06|14220|Fountain Valley Elementary School District|Fountain Valley Elementary School District
+06|14340|Franklin Elementary School District|Franklin Elementary School District
+06|14370|Franklin-McKinley Elementary School District|Franklin-McKinley Elementary School District
+06|14490|French Gulch-Whiskeytown Elementary School District|French Gulch-Whiskeytown Elementary School District
+06|14520|Freshwater Elementary School District|Freshwater Elementary School District
+06|14580|West Fresno Elementary School District|West Fresno Elementary School District
+06|14700|Fruitvale Elementary School District|Fruitvale Elementary School District
+06|14730|Fullerton Elementary School District|Fullerton Elementary School District
+06|14790|Galt Joint Union Elementary School District|Galt Joint Union Elementary School District
+06|14910|Garfield Elementary School District|Garfield Elementary School District
+06|14940|Garvey Elementary School District|Garvey Elementary School District
+06|14970|Gazelle Union Elementary School District|Gazelle Union Elementary School District
+06|15000|General Shafter Elementary School District|General Shafter Elementary School District
+06|15090|Gerber Union Elementary School District|Gerber Union Elementary School District
+06|15390|Gold Oak Union Elementary School District|Gold Oak Union Elementary School District
+06|15450|Gold Trail Union Elementary School District|Gold Trail Union Elementary School District
+06|15480|Golden Feather Union Elementary School District|Golden Feather Union Elementary School District
+06|15510|Goleta Union Elementary School District|Goleta Union Elementary School District
+06|15600|Gorman Elementary School District|Gorman Elementary School District
+06|15690|Grant Elementary School District|Grant Elementary School District
+06|15780|Grass Valley Elementary School District|Grass Valley Elementary School District
+06|15810|Gratton Elementary School District|Gratton Elementary School District
+06|15840|Gravenstein Union Elementary School District|Gravenstein Union Elementary School District
+06|15870|Graves Elementary School District|Graves Elementary School District
+06|15990|Green Point Elementary School District|Green Point Elementary School District
+06|16050|Greenfield Union Elementary School District|Greenfield Union Elementary School District
+06|16080|Greenfield Union Elementary School District|Greenfield Union Elementary School District
+06|16110|Grenada Elementary School District|Grenada Elementary School District
+06|16260|Guadalupe Union Elementary School District|Guadalupe Union Elementary School District
+06|16300|Cucamonga Elementary School District|Cucamonga Elementary School District
+06|16320|Guerneville Elementary School District|Guerneville Elementary School District
+06|16410|Hamilton Union Elementary School District|Hamilton Union Elementary School District
+06|16470|Hanford Elementary School District|Hanford Elementary School District
+06|16530|Happy Camp Union Elementary School District|Happy Camp Union Elementary School District
+06|16560|Happy Valley Elementary School District|Happy Valley Elementary School District
+06|16570|Happy Valley Union Elementary School District|Happy Valley Union Elementary School District
+06|16620|Harmony Union Elementary School District|Harmony Union Elementary School District
+06|16650|Hart-Ransom Union Elementary School District|Hart-Ransom Union Elementary School District
+06|16680|Hawthorne Elementary School District|Hawthorne Elementary School District
+06|16830|Heber Elementary School District|Heber Elementary School District
+06|16860|Helendale Elementary School District|Helendale Elementary School District
+06|17040|Hermosa Beach City Elementary School District|Hermosa Beach City Elementary School District
+06|17160|Hickman Elementary School District|Hickman Elementary School District
+06|17190|Hillsborough City Elementary School District|Hillsborough City Elementary School District
+06|17340|Hollister School District|Hollister School District
+06|17490|Hope Elementary School District|Hope Elementary School District
+06|17520|Hope Elementary School District|Hope Elementary School District
+06|17580|Horicon Elementary School District|Horicon Elementary School District
+06|17620|Hornbrook Elementary School District|Hornbrook Elementary School District
+06|17640|Hot Springs Elementary School District|Hot Springs Elementary School District
+06|17760|Howell Mountain Elementary School District|Howell Mountain Elementary School District
+06|17850|Hueneme Elementary School District|Hueneme Elementary School District
+06|17880|Hughes-Elizabeth Lakes Union Elementary School District|Hughes-Elizabeth Lakes Union Elementary School District
+06|18030|Huntington Beach City Elementary School District|Huntington Beach City Elementary School District
+06|18120|Hydesville Elementary School District|Hydesville Elementary School District
+06|18160|Igo, Ono, Platina Union Elementary School District|Igo, Ono, Platina Union Elementary School District
+06|18240|Indian Diggings Elementary School District|Indian Diggings Elementary School District
+06|18270|Indian Springs Elementary School District|Indian Springs Elementary School District
+06|18510|Island Union Elementary School District|Island Union Elementary School District
+06|18660|Jacoby Creek Elementary School District|Jacoby Creek Elementary School District
+06|18690|Jamestown Elementary School District|Jamestown Elementary School District
+06|18730|Jamul-Dulzura Union Elementary School District|Jamul-Dulzura Union Elementary School District
+06|18780|Janesville Union Elementary School District|Janesville Union Elementary School District
+06|18810|Jefferson Elementary School District|Jefferson Elementary School District
+06|18840|Jefferson Elementary School District|Jefferson Elementary School District
+06|18870|Jefferson Elementary School District|Jefferson Elementary School District
+06|19050|Johnstonville Elementary School District|Johnstonville Elementary School District
+06|19140|Julian Union Elementary School District|Julian Union Elementary School District
+06|19170|Junction City Elementary School District|Junction City Elementary School District
+06|19200|Junction Elementary School District|Junction Elementary School District
+06|19230|Junction Elementary School District|Junction Elementary School District
+06|19380|Kentfield Elementary School District|Kentfield Elementary School District
+06|19410|Kenwood Elementary School District|Kenwood Elementary School District
+06|19440|Keppel Union Elementary School District|Keppel Union Elementary School District
+06|19590|Kernville Union Elementary School District|Kernville Union Elementary School District
+06|19620|Keyes Union Elementary School District|Keyes Union Elementary School District
+06|19680|King City Union Elementary School District|King City Union Elementary School District
+06|19740|Kings River Union Elementary School District|Kings River Union Elementary School District
+06|19770|Kings River-Hardwick Union Elementary School District|Kings River-Hardwick Union Elementary School District
+06|19800|Kingsburg Joint Union Elementary School District|Kingsburg Joint Union Elementary School District
+06|19860|Kirkwood Elementary School District|Kirkwood Elementary School District
+06|19890|Kit Carson Union Elementary School District|Kit Carson Union Elementary School District
+06|19920|Klamath River Union Elementary School District|Klamath River Union Elementary School District
+06|19980|Kneeland Elementary School District|Kneeland Elementary School District
+06|20010|Knights Ferry Elementary School District|Knights Ferry Elementary School District
+06|20040|Knightsen Elementary School District|Knightsen Elementary School District
+06|20160|La Grange Elementary School District|La Grange Elementary School District
+06|20190|La Habra City Elementary School District|La Habra City Elementary School District
+06|20250|La Mesa-Spring Valley School District|La Mesa-Spring Valley School District
+06|20310|Lafayette Elementary School District|Lafayette Elementary School District
+06|20430|Laguna Joint Elementary School District|Laguna Joint Elementary School District
+06|20460|Laguna Salada Union Elementary School District|Laguna Salada Union Elementary School District
+06|20490|Lagunita Elementary School District|Lagunita Elementary School District
+06|20520|Lagunitas Elementary School District|Lagunitas Elementary School District
+06|20610|Lake Elementary School District|Lake Elementary School District
+06|20700|Lakeside Joint Elementary School District|Lakeside Joint Elementary School District
+06|20730|Lakeside Union Elementary School District|Lakeside Union Elementary School District
+06|20760|Lakeside Union Elementary School District|Lakeside Union Elementary School District
+06|20790|Lakeside Union Elementary School District|Lakeside Union Elementary School District
+06|20820|Lammersville Elementary School District|Lammersville Elementary School District
+06|20850|Lamont Elementary School District|Lamont Elementary School District
+06|20880|Lancaster Elementary School District|Lancaster Elementary School District
+06|20910|Larkspur Elementary School District|Larkspur Elementary School District
+06|21090|Lassen View Union Elementary School District|Lassen View Union Elementary School District
+06|21180|Latrobe Elementary School District|Latrobe Elementary School District
+06|21210|Lawndale Elementary School District|Lawndale Elementary School District
+06|21240|Le Grand Union Elementary School District|Le Grand Union Elementary School District
+06|21330|Lemon Grove Elementary School District|Lemon Grove Elementary School District
+06|21360|Lemoore Union Elementary School District|Lemoore Union Elementary School District
+06|21420|Lennox Elementary School District|Lennox Elementary School District
+06|21450|Richland-Lerdo Union Elementary School District|Richland-Lerdo Union Elementary School District
+06|21480|Lewiston Elementary School District|Lewiston Elementary School District
+06|21540|Liberty Elementary School District|Liberty Elementary School District
+06|21570|Liberty Elementary School District|Liberty Elementary School District
+06|21660|Lincoln Elementary School District|Lincoln Elementary School District
+06|21900|Linns Valley-Poso Flat Union School District|Linns Valley-Poso Flat Union School District
+06|21930|Little Lake City Elementary School District|Little Lake City Elementary School District
+06|21960|Little Shasta Elementary School District|Little Shasta Elementary School District
+06|21990|Live Oak Elementary School District|Live Oak Elementary School District
+06|22170|Livingston Union Elementary School District|Livingston Union Elementary School District
+06|22320|Loleta Union Elementary School District|Loleta Union Elementary School District
+06|22350|Loma Prieta Joint Union Elementary School District|Loma Prieta Joint Union Elementary School District
+06|22380|Las Lomitas Elementary School District|Las Lomitas Elementary School District
+06|22560|Loomis Union Elementary School District|Loomis Union Elementary School District
+06|22620|Los Alamos Elementary School District|Los Alamos Elementary School District
+06|22650|Los Altos Elementary School District|Los Altos Elementary School District
+06|22830|Los Gatos Union Elementary School District|Los Gatos Union Elementary School District
+06|22890|Los Nietos Elementary School District|Los Nietos Elementary School District
+06|22920|Los Olivos Elementary School District|Los Olivos Elementary School District
+06|22950|Lost Hills Union Elementary School District|Lost Hills Union Elementary School District
+06|23010|Lowell Joint Elementary School District|Lowell Joint Elementary School District
+06|23040|Lucerne Elementary School District|Lucerne Elementary School District
+06|23130|Luther Burbank Elementary School District|Luther Burbank Elementary School District
+06|23430|Magnolia Elementary School District|Magnolia Elementary School District
+06|23460|Magnolia Union Elementary School District|Magnolia Union Elementary School District
+06|23550|Manchester Union Elementary School District|Manchester Union Elementary School District
+06|23670|Manton Joint Union Elementary School District|Manton Joint Union Elementary School District
+06|23700|Manzanita Elementary School District|Manzanita Elementary School District
+06|23730|Maple Creek Elementary School District|Maple Creek Elementary School District
+06|23760|Maple Elementary School District|Maple Elementary School District
+06|23800|Marcum-Illinois Union Elementary School District|Marcum-Illinois Union Elementary School District
+06|23970|Mark Twain Union Elementary School District|Mark Twain Union Elementary School District
+06|24000|Mark West Union Elementary School District|Mark West Union Elementary School District
+06|24180|McCabe Union Elementary School District|McCabe Union Elementary School District
+06|24210|McCloud Union Elementary School District|McCloud Union Elementary School District
+06|24300|McKinleyville Union Elementary School District|McKinleyville Union Elementary School District
+06|24330|McKittrick Elementary School District|McKittrick Elementary School District
+06|24360|McSwain Union Elementary School District|McSwain Union Elementary School District
+06|24390|Meadows Union Elementary School District|Meadows Union Elementary School District
+06|24540|Menifee Union Elementary School District|Menifee Union Elementary School District
+06|24570|Menlo Park City Elementary School District|Menlo Park City Elementary School District
+06|24600|Merced City Elementary School District|Merced City Elementary School District
+06|24630|Merced River Union Elementary School District|Merced River Union Elementary School District
+06|24690|Meridian Elementary School District|Meridian Elementary School District
+06|24720|Mesa Union Elementary School District|Mesa Union Elementary School District
+06|24780|Midway Elementary School District|Midway Elementary School District
+06|24870|Mill Valley Elementary School District|Mill Valley Elementary School District
+06|24900|Millbrae Elementary School District|Millbrae Elementary School District
+06|24930|Millville Elementary School District|Millville Elementary School District
+06|25020|Mineral Elementary School District|Mineral Elementary School District
+06|25110|Mission Union Elementary School District|Mission Union Elementary School District
+06|25130|Modesto City Elementary School District|Modesto City Elementary School District
+06|25290|Monroe Elementary School District|Monroe Elementary School District
+06|25350|Monson-Sultana Joint Union Elementary School District|Monson-Sultana Joint Union Elementary School District
+06|25380|Montague Elementary School District|Montague Elementary School District
+06|25410|Monte Rio Union Elementary School District|Monte Rio Union Elementary School District
+06|25500|Montecito Union Elementary School District|Montecito Union Elementary School District
+06|25650|Montgomery Elementary School District|Montgomery Elementary School District
+06|25740|Moraga Elementary School District|Moraga Elementary School District
+06|25770|Moreland Elementary School District|Moreland Elementary School District
+06|25980|Mother Lode Union Elementary School District|Mother Lode Union Elementary School District
+06|26040|Mount Shasta Union Elementary School District|Mount Shasta Union Elementary School District
+06|26070|Mountain Elementary School District|Mountain Elementary School District
+06|26130|Mountain House Elementary School District|Mountain House Elementary School District
+06|26190|Mountain View Elementary School District|Mountain View Elementary School District
+06|26220|Mountain View Elementary School District|Mountain View Elementary School District
+06|26280|Mountain View Whisman Elementary School District|Mountain View Whisman Elementary School District
+06|26340|Mount Baldy Joint Elementary School District|Mount Baldy Joint Elementary School District
+06|26400|Mount Pleasant Elementary School District|Mount Pleasant Elementary School District
+06|26430|Mulberry Elementary School District|Mulberry Elementary School District
+06|26460|Mupu Elementary School District|Mupu Elementary School District
+06|26670|National Elementary School District|National Elementary School District
+06|26820|Nevada City Elementary School District|Nevada City Elementary School District
+06|26970|New Hope Elementary School District|New Hope Elementary School District
+06|27030|New Jerusalem Elementary School District|New Jerusalem Elementary School District
+06|27040|Mountain Union Elementary School District|Mountain Union Elementary School District
+06|27120|Newcastle Elementary School District|Newcastle Elementary School District
+06|27180|Newhall Elementary School District|Newhall Elementary School District
+06|27300|Nicasio Elementary School District|Nicasio Elementary School District
+06|27450|Norris Elementary School District|Norris Elementary School District
+06|27480|North County Joint Union Elementary School District|North County Joint Union Elementary School District
+06|27510|North Cow Creek Elementary School District|North Cow Creek Elementary School District
+06|27750|Nuestro Elementary School District|Nuestro Elementary School District
+06|27780|Nuview Union Elementary School District|Nuview Union Elementary School District
+06|27810|Oak Grove Elementary School District|Oak Grove Elementary School District
+06|27840|Oak Grove Union Elementary School District|Oak Grove Union Elementary School District
+06|27870|Oak Run Elementary School District|Oak Run Elementary School District
+06|27900|Oak Valley Union Elementary School District|Oak Valley Union Elementary School District
+06|27930|Oak View Union Elementary School District|Oak View Union Elementary School District
+06|28080|Oakley Union Elementary School District|Oakley Union Elementary School District
+06|28140|Ocean View Elementary School District|Ocean View Elementary School District
+06|28170|Ocean View Elementary School District|Ocean View Elementary School District
+06|28320|Old Adobe Union Elementary School District|Old Adobe Union Elementary School District
+06|28470|Ontario-Montclair Elementary School District|Ontario-Montclair Elementary School District
+06|28500|Ophir Elementary School District|Ophir Elementary School District
+06|28530|Orange Center Elementary School District|Orange Center Elementary School District
+06|28680|Orchard Elementary School District|Orchard Elementary School District
+06|28710|Orcutt Union Elementary School District|Orcutt Union Elementary School District
+06|28830|Orick Elementary School District|Orick Elementary School District
+06|28860|Orinda Union Elementary School District|Orinda Union Elementary School District
+06|28950|Oro Grande Elementary School District|Oro Grande Elementary School District
+06|29100|Oroville City Elementary School District|Oroville City Elementary School District
+06|29160|Outside Creek Elementary School District|Outside Creek Elementary School District
+06|29220|Oxnard Elementary School District|Oxnard Elementary School District
+06|29280|Pacheco Union Elementary School District|Pacheco Union Elementary School District
+06|29340|Pacific Elementary School District|Pacific Elementary School District
+06|29400|Pacific Union Elementary School District|Pacific Union Elementary School District
+06|29430|Pacific Union Elementary School District|Pacific Union Elementary School District
+06|29540|Palermo Union Elementary School District|Palermo Union Elementary School District
+06|29580|Palmdale Elementary School District|Palmdale Elementary School District
+06|29670|Palo Verde Union Elementary School District|Palo Verde Union Elementary School District
+06|29770|Panoche Elementary School District|Panoche Elementary School District
+06|29790|Paradise Elementary School District|Paradise Elementary School District
+06|30090|Peninsula Union Elementary School District|Peninsula Union Elementary School District
+06|30180|Perris Elementary School District|Perris Elementary School District
+06|30230|Petaluma City Elementary School District|Petaluma City Elementary School District
+06|30390|Pine Ridge Elementary School District|Pine Ridge Elementary School District
+06|30450|Piner-Olivet Union Elementary School District|Piner-Olivet Union Elementary School District
+06|30480|Pioneer Union Elementary School District|Pioneer Union Elementary School District
+06|30510|Pioneer Union Elementary School District|Pioneer Union Elementary School District
+06|30520|Pioneer Union Elementary School District|Pioneer Union Elementary School District
+06|30630|Pixley Union Elementary School District|Pixley Union Elementary School District
+06|30720|Placer Hills Union Elementary School District|Placer Hills Union Elementary School District
+06|30780|Placerville Union Elementary School District|Placerville Union Elementary School District
+06|30810|Plainsburg Union Elementary School District|Plainsburg Union Elementary School District
+06|30840|Planada Elementary School District|Planada Elementary School District
+06|30870|Plaza Elementary School District|Plaza Elementary School District
+06|30900|Pleasant Grove Joint Union Elementary School District|Pleasant Grove Joint Union Elementary School District
+06|30930|Pleasant Ridge Union Elementary School District|Pleasant Ridge Union Elementary School District
+06|30960|Pleasant Valley Elementary School District|Pleasant Valley Elementary School District
+06|30990|Pleasant Valley Elementary School District|Pleasant Valley Elementary School District
+06|31020|Pleasant Valley Joint Union Elementary School District|Pleasant Valley Joint Union Elementary School District
+06|31050|Pleasant View Elementary School District|Pleasant View Elementary School District
+06|31140|Plum Valley Elementary School District|Plum Valley Elementary School District
+06|31180|Plumas Elementary School District|Plumas Elementary School District
+06|31290|Pollock Pines Elementary School District|Pollock Pines Elementary School District
+06|31350|Pond Union Elementary School District|Pond Union Elementary School District
+06|31380|Pope Valley Union Elementary School District|Pope Valley Union Elementary School District
+06|31470|Portola Valley Elementary School District|Portola Valley Elementary School District
+06|31680|Raisin City Elementary School District|Raisin City Elementary School District
+06|31740|Rancho Santa Fe Elementary School District|Rancho Santa Fe Elementary School District
+06|31830|Ravendale-Termo Elementary School District|Ravendale-Termo Elementary School District
+06|31860|Ravenswood City Elementary School District|Ravenswood City Elementary School District
+06|31920|Raymond-Knowles Union Elementary School District|Raymond-Knowles Union Elementary School District
+06|31950|Ready Springs Union Elementary School District|Ready Springs Union Elementary School District
+06|31980|Red Bluff Union Elementary School District|Red Bluff Union Elementary School District
+06|32040|Redding Elementary School District|Redding Elementary School District
+06|32130|Redwood City Elementary School District|Redwood City Elementary School District
+06|32160|Reed Union Elementary School District|Reed Union Elementary School District
+06|32250|Reeds Creek Elementary School District|Reeds Creek Elementary School District
+06|32310|Rescue Union Elementary School District|Rescue Union Elementary School District
+06|32340|Kashia Elementary School District|Kashia Elementary School District
+06|32400|Richfield Elementary School District|Richfield Elementary School District
+06|32430|Richgrove Elementary School District|Richgrove Elementary School District
+06|32520|Richmond Elementary School District|Richmond Elementary School District
+06|32640|Rincon Valley Union Elementary School District|Rincon Valley Union Elementary School District
+06|32710|Rio Bravo-Greeley Union Elementary School District|Rio Bravo-Greeley Union Elementary School District
+06|32730|Rio Dell Elementary School District|Rio Dell Elementary School District
+06|32760|Rio Elementary School District|Rio Elementary School District
+06|33210|Roberts Ferry Union Elementary School District|Roberts Ferry Union Elementary School District
+06|33240|Robla Elementary School District|Robla Elementary School District
+06|33270|Rockford Elementary School District|Rockford Elementary School District
+06|33330|Rohnerville Elementary School District|Rohnerville Elementary School District
+06|33390|Romoland Elementary School District|Romoland Elementary School District
+06|33480|Rosedale Union Elementary School District|Rosedale Union Elementary School District
+06|33510|Roseland Elementary School District|Roseland Elementary School District
+06|33570|Rosemead Elementary School District|Rosemead Elementary School District
+06|33600|Roseville City Elementary School District|Roseville City Elementary School District
+06|33660|Ross Elementary School District|Ross Elementary School District
+06|33690|Round Valley Joint Elementary School District|Round Valley Joint Elementary School District
+06|33900|Salida Union Elementary School District|Salida Union Elementary School District
+06|33930|Salinas City Elementary School District|Salinas City Elementary School District
+06|34050|San Antonio Union Elementary School District|San Antonio Union Elementary School District
+06|34080|San Ardo Union Elementary School District|San Ardo Union Elementary School District
+06|34230|San Bruno Park Elementary School District|San Bruno Park Elementary School District
+06|34290|San Carlos Elementary School District|San Carlos Elementary School District
+06|34770|San Lucas Union Elementary School District|San Lucas Union Elementary School District
+06|34920|San Mateo-Foster City Elementary School District|San Mateo-Foster City Elementary School District
+06|35010|San Miguel Joint Union Elementary School District|San Miguel Joint Union Elementary School District
+06|35040|San Pasqual Union Elementary School District|San Pasqual Union Elementary School District
+06|35090|San Rafael City Elementary School District|San Rafael City Elementary School District
+06|35220|San Ysidro Elementary School District|San Ysidro Elementary School District
+06|35360|Santa Barbara Elementary School District|Santa Barbara Elementary School District
+06|35490|Santa Clara Elementary School District|Santa Clara Elementary School District
+06|35590|Santa Cruz City Elementary School District|Santa Cruz City Elementary School District
+06|35730|Santa Paula Elementary School District|Santa Paula Elementary School District
+06|35790|Santa Rita Union Elementary School District|Santa Rita Union Elementary School District
+06|35810|Santa Rosa Elementary School District|Santa Rosa Elementary School District
+06|35880|Santee Elementary School District|Santee Elementary School District
+06|35910|Saratoga Union Elementary School District|Saratoga Union Elementary School District
+06|35940|Saucelito Elementary School District|Saucelito Elementary School District
+06|35970|Saugus Union Elementary School District|Saugus Union Elementary School District
+06|36000|Sausalito Elementary School District|Sausalito Elementary School District
+06|36030|Savanna Elementary School District|Savanna Elementary School District
+06|36100|Scotia Union Elementary School District|Scotia Union Elementary School District
+06|36180|Sebastopol Union Elementary School District|Sebastopol Union Elementary School District
+06|36210|Seeley Union Elementary School District|Seeley Union Elementary School District
+06|36240|Seiad Elementary School District|Seiad Elementary School District
+06|36330|Semitropic Elementary School District|Semitropic Elementary School District
+06|36360|Sequoia Union Elementary School District|Sequoia Union Elementary School District
+06|36420|Shaffer Union Elementary School District|Shaffer Union Elementary School District
+06|36570|Shasta Union Elementary School District|Shasta Union Elementary School District
+06|36660|Shiloh Elementary School District|Shiloh Elementary School District
+06|36810|Silver Fork Elementary School District|Silver Fork Elementary School District
+06|36960|Snelling-Merced Falls Union Elementary School District|Snelling-Merced Falls Union Elementary School District
+06|36990|Solana Beach Elementary School District|Solana Beach Elementary School District
+06|37110|Solvang Elementary School District|Solvang Elementary School District
+06|37140|Somis Union Elementary School District|Somis Union Elementary School District
+06|37230|Sonora Elementary School District|Sonora Elementary School District
+06|37290|Soquel Elementary School District|Soquel Elementary School District
+06|37320|Soulsbyville Elementary School District|Soulsbyville Elementary School District
+06|37350|South Bay Union Elementary School District|South Bay Union Elementary School District
+06|37380|South Bay Union Elementary School District|South Bay Union Elementary School District
+06|37470|South Fork Union Elementary School District|South Fork Union Elementary School District
+06|37560|South Whittier Elementary School District|South Whittier Elementary School District
+06|37650|Southside Elementary School District|Southside Elementary School District
+06|37680|Spencer Valley Elementary School District|Spencer Valley Elementary School District
+06|37710|Spreckels Union Elementary School District|Spreckels Union Elementary School District
+06|37770|Springville Union Elementary School District|Springville Union Elementary School District
+06|37890|Standard Elementary School District|Standard Elementary School District
+06|37950|Stanislaus Union Elementary School District|Stanislaus Union Elementary School District
+06|38040|Stone Corral Elementary School District|Stone Corral Elementary School District
+06|38130|Strathmore Union Elementary School District|Strathmore Union Elementary School District
+06|38220|Sulphur Springs Union Elementary School District|Sulphur Springs Union Elementary School District
+06|38250|Summerville Elementary School District|Summerville Elementary School District
+06|38340|Sundale Union Elementary School District|Sundale Union Elementary School District
+06|38430|Sunnyside Union Elementary School District|Sunnyside Union Elementary School District
+06|38460|Sunnyvale Elementary School District|Sunnyvale Elementary School District
+06|38550|Susanville Elementary School District|Susanville Elementary School District
+06|38670|Sylvan Union Elementary School District|Sylvan Union Elementary School District
+06|38700|Taft City Elementary School District|Taft City Elementary School District
+06|39060|Terra Bella Union Elementary School District|Terra Bella Union Elementary School District
+06|39180|Thermalito Union Elementary School District|Thermalito Union Elementary School District
+06|39210|Three Rivers Union Elementary School District|Three Rivers Union Elementary School District
+06|39300|Tipton Elementary School District|Tipton Elementary School District
+06|39600|Traver Joint Elementary School District|Traver Joint Elementary School District
+06|39690|Tres Pinos Union Elementary School District|Tres Pinos Union Elementary School District
+06|39720|Trinidad Union Elementary School District|Trinidad Union Elementary School District
+06|39750|Trinity Center Elementary School District|Trinity Center Elementary School District
+06|39870|Tulare City Elementary School District|Tulare City Elementary School District
+06|40200|Twain Harte-Long Barn Union Elementary School District|Twain Harte-Long Barn Union Elementary School District
+06|40230|Twin Hills Union Elementary School District|Twin Hills Union Elementary School District
+06|40260|Two Rock Union Elementary School District|Two Rock Union Elementary School District
+06|40320|Union Elementary School District|Union Elementary School District
+06|40380|Union Hill Elementary School District|Union Hill Elementary School District
+06|40410|Union Joint Elementary School District|Union Joint Elementary School District
+06|40470|Upper Lake Union Elementary School District|Upper Lake Union Elementary School District
+06|40650|Valle Lindo Elementary School District|Valle Lindo Elementary School District
+06|40680|Vallecito Union Elementary School District|Vallecito Union Elementary School District
+06|40710|Vallecitos Elementary School District|Vallecitos Elementary School District
+06|40800|Valley Home Joint Elementary School District|Valley Home Joint Elementary School District
+06|41040|Victor Elementary School District|Victor Elementary School District
+06|41130|Vineland Elementary School District|Vineland Elementary School District
+06|41220|Vista del Mar Union Elementary School District|Vista del Mar Union Elementary School District
+06|41250|Walnut Creek Elementary School District|Walnut Creek Elementary School District
+06|41400|Wasco Union Elementary School District|Wasco Union Elementary School District
+06|41460|Washington Colony Elementary School District|Washington Colony Elementary School District
+06|41610|Washington Union Elementary School District|Washington Union Elementary School District
+06|41790|Waugh Elementary School District|Waugh Elementary School District
+06|41820|Waukena Joint Union Elementary School District|Waukena Joint Union Elementary School District
+06|41880|Weaver Union Elementary School District|Weaver Union Elementary School District
+06|41980|Weed Union Elementary School District|Weed Union Elementary School District
+06|42060|West Park Elementary School District|West Park Elementary School District
+06|42120|Westside Union Elementary School District|Westside Union Elementary School District
+06|42150|Westminster Elementary School District|Westminster Elementary School District
+06|42180|Westmorland Union Elementary School District|Westmorland Union Elementary School District
+06|42210|Westside Elementary School District|Westside Elementary School District
+06|42270|West Side Union Elementary School District|West Side Union Elementary School District
+06|42330|Wheatland Elementary School District|Wheatland Elementary School District
+06|42420|Whitmore Union Elementary School District|Whitmore Union Elementary School District
+06|42450|Whittier City Elementary School District|Whittier City Elementary School District
+06|42600|Willow Creek Elementary School District|Willow Creek Elementary School District
+06|42630|Willow Grove Union Elementary School District|Willow Grove Union Elementary School District
+06|42750|Wilmar Union Elementary School District|Wilmar Union Elementary School District
+06|42810|Wilsona Elementary School District|Wilsona Elementary School District
+06|42900|Winship Elementary School District|Winship Elementary School District
+06|42960|Winton Elementary School District|Winton Elementary School District
+06|42990|Wiseburn Elementary School District|Wiseburn Elementary School District
+06|43020|Woodlake Union Elementary School District|Woodlake Union Elementary School District
+06|43140|Woodside Elementary School District|Woodside Elementary School District
+06|43170|Woodville Elementary School District|Woodville Elementary School District
+06|43200|Wright Elementary School District|Wright Elementary School District
+06|43380|Yreka Union Elementary School District|Yreka Union Elementary School District

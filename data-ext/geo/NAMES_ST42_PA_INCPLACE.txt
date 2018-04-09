@@ -1,0 +1,1016 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+42|00116|Abbottstown|Abbottstown borough
+42|00332|Adamsburg|Adamsburg borough
+42|00364|Adamstown|Adamstown borough
+42|00396|Addison|Addison borough
+42|00540|Akron|Akron borough
+42|00572|Alba|Alba borough
+42|00628|Albion|Albion borough
+42|00660|Alburtis|Alburtis borough
+42|00676|Aldan|Aldan borough
+42|00756|Alexandria|Alexandria borough
+42|00820|Aliquippa|Aliquippa city
+42|00988|Allenport|Allenport borough
+42|02000|Allentown|Allentown city
+42|02184|Altoona|Altoona city
+42|02264|Ambler|Ambler borough
+42|02288|Ambridge|Ambridge borough
+42|02720|Apollo|Apollo borough
+42|02752|Applewold|Applewold borough
+42|02832|Archbald|Archbald borough
+42|02928|Arendtsville|Arendtsville borough
+42|03032|Armagh|Armagh borough
+42|03088|Arnold|Arnold city
+42|03120|Arona|Arona borough
+42|03264|Ashland|Ashland borough
+42|03272|Ashley|Ashley borough
+42|03296|Ashville|Ashville borough
+42|03320|Aspinwall|Aspinwall borough
+42|03384|Atglen|Atglen borough
+42|03392|Athens|Athens borough
+42|03480|Atwood|Atwood borough
+42|03488|Auburn|Auburn borough
+42|03576|Austin|Austin borough
+42|03608|Avalon|Avalon borough
+42|03632|Avis|Avis borough
+42|03640|Avoca|Avoca borough
+42|03656|Avondale|Avondale borough
+42|03688|Avonmore|Avonmore borough
+42|03736|Baden|Baden borough
+42|03928|Baldwin|Baldwin borough
+42|03984|Bally|Bally borough
+42|04032|Bangor|Bangor borough
+42|04136|Barkeyville|Barkeyville borough
+42|04432|Bath|Bath borough
+42|04568|Beallsville|Beallsville borough
+42|04599|Bear Creek Village|Bear Creek Village borough
+42|04608|Bear Lake|Bear Lake borough
+42|04688|Beaver|Beaver borough
+42|04792|Beaver Falls|Beaver Falls city
+42|04816|Beaver Meadows|Beaver Meadows borough
+42|04848|Beavertown|Beavertown borough
+42|04896|Bechtelsville|Bechtelsville borough
+42|04944|Bedford|Bedford borough
+42|04984|Beech Creek|Beech Creek borough
+42|05216|Bell Acres|Bell Acres borough
+42|05256|Bellefonte|Bellefonte borough
+42|05288|Belle Vernon|Belle Vernon borough
+42|05312|Bellevue|Bellevue borough
+42|05384|Bellwood|Bellwood borough
+42|05504|Ben Avon|Ben Avon borough
+42|05520|Ben Avon Heights|Ben Avon Heights borough
+42|05536|Bendersville|Bendersville borough
+42|05648|Benson|Benson borough
+42|05672|Bentleyville|Bentleyville borough
+42|05680|Benton|Benton borough
+42|05776|Berlin|Berlin borough
+42|05848|Bernville|Bernville borough
+42|05856|Berrysburg|Berrysburg borough
+42|05888|Berwick|Berwick borough
+42|05936|Bessemer|Bessemer borough
+42|05976|Bethany|Bethany borough
+42|06064|Bethel Park|Bethel Park municipality
+42|06088|Bethlehem|Bethlehem city
+42|06240|Big Beaver|Big Beaver borough
+42|06296|Biglerville|Biglerville borough
+42|06344|Big Run|Big Run borough
+42|06504|Birdsboro|Birdsboro borough
+42|06560|Birmingham|Birmingham borough
+42|06824|Blain|Blain borough
+42|06904|Blairsville|Blairsville borough
+42|06928|Blakely|Blakely borough
+42|07000|Blawnox|Blawnox borough
+42|07040|Bloomfield|Bloomfield borough
+42|07120|Blooming Valley|Blooming Valley borough
+42|07128|Bloomsburg|Bloomsburg town
+42|07160|Blossburg|Blossburg borough
+42|07480|Bolivar|Bolivar borough
+42|07560|Bonneauville|Bonneauville borough
+42|07712|Boswell|Boswell borough
+42|07880|Bowmanstown|Bowmanstown borough
+42|07960|Boyertown|Boyertown borough
+42|07976|Brackenridge|Brackenridge borough
+42|07992|Braddock|Braddock borough
+42|08008|Braddock Hills|Braddock Hills borough
+42|08040|Bradford|Bradford city
+42|08064|Bradford Woods|Bradford Woods borough
+42|08416|Brentwood|Brentwood borough
+42|08472|Briar Creek|Briar Creek borough
+42|08568|Bridgeport|Bridgeport borough
+42|08624|Bridgeville|Bridgeville borough
+42|08632|Bridgewater|Bridgewater borough
+42|08744|Brisbin|Brisbin borough
+42|08760|Bristol|Bristol borough
+42|08896|Broad Top City|Broad Top City borough
+42|08960|Brockway|Brockway borough
+42|09080|Brookhaven|Brookhaven borough
+42|09224|Brookville|Brookville borough
+42|09400|Brownstown|Brownstown borough
+42|09432|Brownsville|Brownsville borough
+42|09528|Bruin|Bruin borough
+42|09696|Bryn Athyn|Bryn Athyn borough
+42|10224|Burgettstown|Burgettstown borough
+42|10240|Burlington|Burlington borough
+42|10256|Burnham|Burnham borough
+42|10280|Burnside|Burnside borough
+42|10464|Butler|Butler city
+42|10768|California|California borough
+42|10792|Callensburg|Callensburg borough
+42|10800|Callery|Callery borough
+42|10808|Callimont|Callimont borough
+42|10912|Cambridge Springs|Cambridge Springs borough
+42|11000|Camp Hill|Camp Hill borough
+42|11152|Canonsburg|Canonsburg borough
+42|11160|Canton|Canton borough
+42|11232|Carbondale|Carbondale city
+42|11272|Carlisle|Carlisle borough
+42|11328|Carmichaels|Carmichaels borough
+42|11336|Carnegie|Carnegie borough
+42|11456|Carrolltown|Carrolltown borough
+42|11472|Carroll Valley|Carroll Valley borough
+42|11616|Cassandra|Cassandra borough
+42|11624|Casselman|Casselman borough
+42|11632|Cassville|Cassville borough
+42|11680|Castle Shannon|Castle Shannon borough
+42|11720|Catasauqua|Catasauqua borough
+42|11736|Catawissa|Catawissa borough
+42|12104|Centerport|Centerport borough
+42|12184|Centerville|Centerville borough
+42|12224|Centerville|Centerville borough
+42|12296|Central City|Central City borough
+42|12312|Centralia|Centralia borough
+42|12376|Centre Hall|Centre Hall borough
+42|12496|Chalfant|Chalfant borough
+42|12504|Chalfont|Chalfont borough
+42|12536|Chambersburg|Chambersburg borough
+42|12656|Chapman|Chapman borough
+42|12704|Charleroi|Charleroi borough
+42|13120|Cherry Tree|Cherry Tree borough
+42|13152|Cherry Valley|Cherry Valley borough
+42|13208|Chester|Chester city
+42|13232|Chester Heights|Chester Heights borough
+42|13240|Chester Hill|Chester Hill borough
+42|13384|Chest Springs|Chest Springs borough
+42|13392|Cheswick|Cheswick borough
+42|13440|Chicora|Chicora borough
+42|13512|Christiana|Christiana borough
+42|13608|Churchill|Churchill borough
+42|13704|Clairton|Clairton city
+42|13776|Clarendon|Clarendon borough
+42|13800|Clarion|Clarion borough
+42|13832|Clark|Clark borough
+42|13864|Clarks Green|Clarks Green borough
+42|13880|Clarks Summit|Clarks Summit borough
+42|13896|Clarksville|Clarksville borough
+42|14000|Claysville|Claysville borough
+42|14064|Clearfield|Clearfield borough
+42|14160|Cleona|Cleona borough
+42|14264|Clifton Heights|Clifton Heights borough
+42|14376|Clintonville|Clintonville borough
+42|14520|Clymer|Clymer borough
+42|14568|Coal Center|Coal Center borough
+42|14584|Coaldale|Coaldale borough
+42|14600|Coaldale|Coaldale borough
+42|14640|Coalmont|Coalmont borough
+42|14656|Coalport|Coalport borough
+42|14712|Coatesville|Coatesville city
+42|14800|Cochranton|Cochranton borough
+42|14896|Cokeburg|Cokeburg borough
+42|15192|Collegeville|Collegeville borough
+42|15232|Collingdale|Collingdale borough
+42|15384|Columbia|Columbia borough
+42|15432|Colwyn|Colwyn borough
+42|15680|Confluence|Confluence borough
+42|15744|Conneaut Lake|Conneaut Lake borough
+42|15760|Conneautville|Conneautville borough
+42|15776|Connellsville|Connellsville city
+42|15808|Connoquenessing|Connoquenessing borough
+42|15848|Conshohocken|Conshohocken borough
+42|15872|Conway|Conway borough
+42|15888|Conyngham|Conyngham borough
+42|16056|Coopersburg|Coopersburg borough
+42|16080|Cooperstown|Cooperstown borough
+42|16128|Coplay|Coplay borough
+42|16144|Coraopolis|Coraopolis borough
+42|16256|Cornwall|Cornwall borough
+42|16296|Corry|Corry city
+42|16304|Corsica|Corsica borough
+42|16448|Coudersport|Coudersport borough
+42|16568|Courtdale|Courtdale borough
+42|16848|Crafton|Crafton borough
+42|16960|Cranesville|Cranesville borough
+42|17024|Creekside|Creekside borough
+42|17136|Cresson|Cresson borough
+42|17152|Cressona|Cressona borough
+42|17416|Cross Roads|Cross Roads borough
+42|17840|Curwensville|Curwensville borough
+42|17976|Daisytown|Daisytown borough
+42|18000|Dale|Dale borough
+42|18048|Dallas|Dallas borough
+42|18072|Dallastown|Dallastown borough
+42|18088|Dalton|Dalton borough
+42|18136|Danville|Danville borough
+42|18152|Darby|Darby borough
+42|18192|Darlington|Darlington borough
+42|18272|Dauphin|Dauphin borough
+42|18360|Dawson|Dawson borough
+42|18400|Dayton|Dayton borough
+42|18496|Deemston|Deemston borough
+42|18576|Deer Lake|Deer Lake borough
+42|18736|Delaware Water Gap|Delaware Water Gap borough
+42|18768|Delmont|Delmont borough
+42|18800|Delta|Delta borough
+42|18888|Denver|Denver borough
+42|18960|Derry|Derry borough
+42|19160|Dickson City|Dickson City borough
+42|19208|Dillsburg|Dillsburg borough
+42|19472|Donegal|Donegal borough
+42|19536|Donora|Donora borough
+42|19576|Dormont|Dormont borough
+42|19696|Dover|Dover borough
+42|19752|Downingtown|Downingtown borough
+42|19784|Doylestown|Doylestown borough
+42|19856|Dravosburg|Dravosburg borough
+42|19976|Driftwood|Driftwood borough
+42|20104|Dublin|Dublin borough
+42|20136|DuBois|DuBois city
+42|20144|Duboistown|Duboistown borough
+42|20152|Dudley|Dudley borough
+42|20216|Dunbar|Dunbar borough
+42|20240|Duncannon|Duncannon borough
+42|20248|Duncansville|Duncansville borough
+42|20328|Dunlevy|Dunlevy borough
+42|20352|Dunmore|Dunmore borough
+42|20424|Dupont|Dupont borough
+42|20432|Duquesne|Duquesne city
+42|20512|Duryea|Duryea borough
+42|20528|Dushore|Dushore borough
+42|20648|Eagles Mere|Eagles Mere borough
+42|20776|East Bangor|East Bangor borough
+42|20792|East Berlin|East Berlin borough
+42|20840|East Brady|East Brady borough
+42|20904|East Butler|East Butler borough
+42|20992|East Conemaugh|East Conemaugh borough
+42|21200|East Greenville|East Greenville borough
+42|21384|East Lansdowne|East Lansdowne borough
+42|21444|East McKeesport|East McKeesport borough
+42|21648|Easton|Easton city
+42|21688|East Petersburg|East Petersburg borough
+42|21712|East Pittsburgh|East Pittsburgh borough
+42|21728|East Prospect|East Prospect borough
+42|21752|East Rochester|East Rochester borough
+42|21816|East Side|East Side borough
+42|21872|East Stroudsburg|East Stroudsburg borough
+42|21968|Eastvale|Eastvale borough
+42|21976|East Vandergrift|East Vandergrift borough
+42|22016|East Washington|East Washington borough
+42|22128|Eau Claire|Eau Claire borough
+42|22144|Ebensburg|Ebensburg borough
+42|22264|Economy|Economy borough
+42|22296|Eddystone|Eddystone borough
+42|22520|Edgewood|Edgewood borough
+42|22576|Edgeworth|Edgeworth borough
+42|22608|Edinboro|Edinboro borough
+42|22672|Edwardsville|Edwardsville borough
+42|22712|Ehrenfeld|Ehrenfeld borough
+42|22800|Elco|Elco borough
+42|22832|Elderton|Elderton borough
+42|22888|Eldred|Eldred borough
+42|22960|Elgin|Elgin borough
+42|22992|Elizabeth|Elizabeth borough
+42|23016|Elizabethtown|Elizabethtown borough
+42|23024|Elizabethville|Elizabethville borough
+42|23152|Elkland|Elkland borough
+42|23280|Ellport|Ellport borough
+42|23296|Ellsworth|Ellsworth borough
+42|23304|Ellwood City|Ellwood City borough
+42|23440|Elverson|Elverson borough
+42|23568|Emlenton|Emlenton borough
+42|23584|Emmaus|Emmaus borough
+42|23600|Emporium|Emporium borough
+42|23616|Emsworth|Emsworth borough
+42|23768|Enon Valley|Enon Valley borough
+42|23832|Ephrata|Ephrata borough
+42|24000|Erie|Erie city
+42|24040|Ernest|Ernest borough
+42|24160|Etna|Etna borough
+42|24248|Evans City|Evans City borough
+42|24304|Everett|Everett borough
+42|24336|Everson|Everson borough
+42|24392|Exeter|Exeter borough
+42|24432|Export|Export borough
+42|24488|Factoryville|Factoryville borough
+42|24536|Fairchance|Fairchance borough
+42|24560|Fairfield|Fairfield borough
+42|24832|Fairview|Fairview borough
+42|25136|Falls Creek|Falls Creek borough
+42|25152|Fallston|Fallston borough
+42|25360|Farrell|Farrell city
+42|25416|Fawn Grove|Fawn Grove borough
+42|25456|Fayette City|Fayette City borough
+42|25584|Felton|Felton borough
+42|25680|Ferndale|Ferndale borough
+42|25944|Finleyville|Finleyville borough
+42|26280|Fleetwood|Fleetwood borough
+42|26296|Flemington|Flemington borough
+42|26408|Folcroft|Folcroft borough
+42|26512|Ford City|Ford City borough
+42|26520|Ford Cliff|Ford Cliff borough
+42|26560|Forest City|Forest City borough
+42|26592|Forest Hills|Forest Hills borough
+42|26760|Forksville|Forksville borough
+42|26880|Forty Fort|Forty Fort borough
+42|27008|Fountain Hill|Fountain Hill borough
+42|27112|Foxburg|Foxburg borough
+42|27120|Fox Chapel|Fox Chapel borough
+42|27232|Frackville|Frackville borough
+42|27312|Frankfort Springs|Frankfort Springs borough
+42|27360|Franklin|Franklin borough
+42|27456|Franklin|Franklin city
+42|27552|Franklin Park|Franklin Park borough
+42|27576|Franklintown|Franklintown borough
+42|27688|Fredonia|Fredonia borough
+42|27696|Freeburg|Freeburg borough
+42|27712|Freedom|Freedom borough
+42|27744|Freeland|Freeland borough
+42|27760|Freemansburg|Freemansburg borough
+42|27784|Freeport|Freeport borough
+42|27968|Friendsville|Friendsville borough
+42|28280|Galeton|Galeton borough
+42|28328|Gallitzin|Gallitzin borough
+42|28520|Garrett|Garrett borough
+42|28720|Geistown|Geistown borough
+42|28824|Georgetown|Georgetown borough
+42|28960|Gettysburg|Gettysburg borough
+42|29088|Gilberton|Gilberton borough
+42|29232|Girard|Girard borough
+42|29264|Girardville|Girardville borough
+42|29392|Glasgow|Glasgow borough
+42|29432|Glassport|Glassport borough
+42|29512|Glen Campbell|Glen Campbell borough
+42|29568|Glendon|Glendon borough
+42|29592|Glenfield|Glenfield borough
+42|29632|Glen Hope|Glen Hope borough
+42|29720|Glenolden|Glenolden borough
+42|29732|Glen Osborne|Glen Osborne borough
+42|29760|Glen Rock|Glen Rock borough
+42|30016|Goldsboro|Goldsboro borough
+42|30128|Gordon|Gordon borough
+42|30280|Grampian|Grampian borough
+42|30600|Gratz|Gratz borough
+42|30728|Great Bend|Great Bend borough
+42|30896|Greencastle|Greencastle borough
+42|31082|Green Hills|Green Hills borough
+42|31088|Green Lane|Green Lane borough
+42|31192|Greensboro|Greensboro borough
+42|31200|Greensburg|Greensburg city
+42|31256|Green Tree|Green Tree borough
+42|31328|Greenville|Greenville borough
+42|31656|Grove City|Grove City borough
+42|32032|Halifax|Halifax borough
+42|32056|Hallam|Hallam borough
+42|32080|Hallstead|Hallstead borough
+42|32120|Hamburg|Hamburg borough
+42|32448|Hanover|Hanover borough
+42|32688|Harmony|Harmony borough
+42|32800|Harrisburg|Harrisburg city
+42|32896|Harrisville|Harrisville borough
+42|32936|Hartleton|Hartleton borough
+42|33000|Harveys Lake|Harveys Lake borough
+42|33080|Hastings|Hastings borough
+42|33088|Hatboro|Hatboro borough
+42|33112|Hatfield|Hatfield borough
+42|33200|Hawley|Hawley borough
+42|33216|Hawthorn|Hawthorn borough
+42|33312|Haysville|Haysville borough
+42|33408|Hazleton|Hazleton city
+42|33592|Heidelberg|Heidelberg borough
+42|33744|Hellertown|Hellertown borough
+42|34064|Hermitage|Hermitage city
+42|34080|Herndon|Herndon borough
+42|34664|Highspire|Highspire borough
+42|35224|Hollidaysburg|Hollidaysburg borough
+42|35408|Homer City|Homer City borough
+42|35424|Homestead|Homestead borough
+42|35488|Homewood|Homewood borough
+42|35520|Honesdale|Honesdale borough
+42|35528|Honey Brook|Honey Brook borough
+42|35576|Hookstown|Hookstown borough
+42|35608|Hooversville|Hooversville borough
+42|35624|Hop Bottom|Hop Bottom borough
+42|35648|Hopewell|Hopewell borough
+42|35896|Houston|Houston borough
+42|35928|Houtzdale|Houtzdale borough
+42|35960|Howard|Howard borough
+42|36152|Hughestown|Hughestown borough
+42|36160|Hughesville|Hughesville borough
+42|36192|Hulmeville|Hulmeville borough
+42|36232|Hummelstown|Hummelstown borough
+42|36288|Hunker|Hunker borough
+42|36368|Huntingdon|Huntingdon borough
+42|36592|Hyde Park|Hyde Park borough
+42|36616|Hydetown|Hydetown borough
+42|36640|Hyndman|Hyndman borough
+42|36816|Indiana|Indiana borough
+42|36888|Indian Lake|Indian Lake borough
+42|36944|Industry|Industry borough
+42|37000|Ingram|Ingram borough
+42|37192|Irvona|Irvona borough
+42|37208|Irwin|Irwin borough
+42|37304|Ivyland|Ivyland borough
+42|37496|Jackson Center|Jackson Center borough
+42|37640|Jacobus|Jacobus borough
+42|37696|Jamestown|Jamestown borough
+42|37784|Jeannette|Jeannette city
+42|37792|Jeddo|Jeddo borough
+42|37880|Jefferson|Jefferson borough
+42|37944|Jefferson|Jefferson borough
+42|37955|Jefferson Hills|Jefferson Hills borough
+42|38000|Jenkintown|Jenkintown borough
+42|38048|Jennerstown|Jennerstown borough
+42|38096|Jermyn|Jermyn borough
+42|38128|Jersey Shore|Jersey Shore borough
+42|38160|Jessup|Jessup borough
+42|38200|Jim Thorpe|Jim Thorpe borough
+42|38248|Johnsonburg|Johnsonburg borough
+42|38288|Johnstown|Johnstown city
+42|38400|Jonestown|Jonestown borough
+42|38640|Juniata Terrace|Juniata Terrace borough
+42|38688|Kane|Kane borough
+42|38768|Karns City|Karns City borough
+42|39256|Kenhorst|Kenhorst borough
+42|39352|Kennett Square|Kennett Square borough
+42|39784|Kingston|Kingston borough
+42|40016|Kistler|Kistler borough
+42|40040|Kittanning|Kittanning borough
+42|40272|Knox|Knox borough
+42|40360|Knoxville|Knoxville borough
+42|40400|Koppel|Koppel borough
+42|40584|Kulpmont|Kulpmont borough
+42|40656|Kutztown|Kutztown borough
+42|40744|Laceyville|Laceyville borough
+42|40848|Laflin|Laflin borough
+42|40960|Lake City|Lake City borough
+42|41216|Lancaster|Lancaster city
+42|41264|Landingville|Landingville borough
+42|41272|Landisburg|Landisburg borough
+42|41336|Lanesboro|Lanesboro borough
+42|41392|Langhorne|Langhorne borough
+42|41416|Langhorne Manor|Langhorne Manor borough
+42|41432|Lansdale|Lansdale borough
+42|41440|Lansdowne|Lansdowne borough
+42|41464|Lansford|Lansford borough
+42|41512|Laporte|Laporte borough
+42|41608|Larksville|Larksville borough
+42|41680|Latrobe|Latrobe city
+42|41768|Laureldale|Laureldale borough
+42|41834|Laurel Mountain|Laurel Mountain borough
+42|41848|Laurel Run|Laurel Run borough
+42|42016|Lawrenceville|Lawrenceville borough
+42|42168|Lebanon|Lebanon city
+42|42280|Leechburg|Leechburg borough
+42|42352|Leesport|Leesport borough
+42|42392|Leetsdale|Leetsdale borough
+42|42472|Lehighton|Lehighton borough
+42|42648|Lemoyne|Lemoyne borough
+42|42688|Lenhartsville|Lenhartsville borough
+42|42824|Le Raysville|Le Raysville borough
+42|42968|Lewisberry|Lewisberry borough
+42|42976|Lewisburg|Lewisburg borough
+42|42984|Lewis Run|Lewis Run borough
+42|43000|Lewistown|Lewistown borough
+42|43064|Liberty|Liberty borough
+42|43128|Liberty|Liberty borough
+42|43232|Ligonier|Ligonier borough
+42|43248|Lilly|Lilly borough
+42|43408|Lincoln|Lincoln borough
+42|43656|Linesville|Linesville borough
+42|43816|Lititz|Lititz borough
+42|43928|Little Meadows|Little Meadows borough
+42|43944|Littlestown|Littlestown borough
+42|43968|Liverpool|Liverpool borough
+42|44128|Lock Haven|Lock Haven city
+42|44400|Loganton|Loganton borough
+42|44416|Loganville|Loganville borough
+42|44512|Long Branch|Long Branch borough
+42|44664|Lorain|Lorain borough
+42|44704|Loretto|Loretto borough
+42|44864|Lower Burrell|Lower Burrell city
+42|45448|Lumber City|Lumber City borough
+42|45568|Luzerne|Luzerne borough
+42|45592|Lykens|Lykens borough
+42|45752|Lyons|Lyons borough
+42|45824|McAdoo|McAdoo borough
+42|45992|McClure|McClure borough
+42|46000|McConnellsburg|McConnellsburg borough
+42|46072|McDonald|McDonald borough
+42|46120|McEwensville|McEwensville borough
+42|46216|McKean|McKean borough
+42|46256|McKeesport|McKeesport city
+42|46264|McKees Rocks|McKees Rocks borough
+42|46376|McSherrystown|McSherrystown borough
+42|46392|Macungie|Macungie borough
+42|46400|McVeytown|McVeytown borough
+42|46488|Madison|Madison borough
+42|46568|Mahaffey|Mahaffey borough
+42|46592|Mahanoy City|Mahanoy City borough
+42|46792|Malvern|Malvern borough
+42|46864|Manchester|Manchester borough
+42|46888|Manheim|Manheim borough
+42|46944|Manns Choice|Manns Choice borough
+42|47000|Manor|Manor borough
+42|47064|Manorville|Manorville borough
+42|47080|Mansfield|Mansfield borough
+42|47248|Mapleton|Mapleton borough
+42|47344|Marcus Hook|Marcus Hook borough
+42|47400|Marianna|Marianna borough
+42|47424|Marietta|Marietta borough
+42|47472|Marion Center|Marion Center borough
+42|47480|Marion Heights|Marion Heights borough
+42|47544|Marklesburg|Marklesburg borough
+42|47560|Markleysburg|Markleysburg borough
+42|47672|Mars|Mars borough
+42|47872|Martinsburg|Martinsburg borough
+42|47968|Marysville|Marysville borough
+42|48000|Masontown|Masontown borough
+42|48048|Matamoras|Matamoras borough
+42|48176|Mayfield|Mayfield borough
+42|48360|Meadville|Meadville city
+42|48376|Mechanicsburg|Mechanicsburg borough
+42|48448|Mechanicsville|Mechanicsville borough
+42|48480|Media|Media borough
+42|48696|Mercer|Mercer borough
+42|48704|Mercersburg|Mercersburg borough
+42|48856|Meshoppen|Meshoppen borough
+42|48912|Meyersdale|Meyersdale borough
+42|48960|Middleburg|Middleburg borough
+42|49048|Middleport|Middleport borough
+42|49128|Middletown|Middletown borough
+42|49184|Midland|Midland borough
+42|49240|Midway|Midway borough
+42|49272|Mifflin|Mifflin borough
+42|49288|Mifflinburg|Mifflinburg borough
+42|49304|Mifflintown|Mifflintown borough
+42|49368|Milesburg|Milesburg borough
+42|49400|Milford|Milford borough
+42|49504|Millbourne|Millbourne borough
+42|49552|Mill Creek|Mill Creek borough
+42|49680|Millersburg|Millersburg borough
+42|49720|Millerstown|Millerstown borough
+42|49728|Millersville|Millersville borough
+42|49760|Mill Hall|Mill Hall borough
+42|49768|Millheim|Millheim borough
+42|49920|Millvale|Millvale borough
+42|49936|Mill Village|Mill Village borough
+42|49944|Millville|Millville borough
+42|50016|Milton|Milton borough
+42|50088|Minersville|Minersville borough
+42|50232|Modena|Modena borough
+42|50272|Mohnton|Mohnton borough
+42|50320|Monaca|Monaca borough
+42|50344|Monessen|Monessen city
+42|50408|Monongahela|Monongahela city
+42|50432|Monroe|Monroe borough
+42|50528|Monroeville|Monroeville municipality
+42|50544|Mont Alto|Mont Alto borough
+42|50632|Montgomery|Montgomery borough
+42|50720|Montoursville|Montoursville borough
+42|50736|Montrose|Montrose borough
+42|50880|Moosic|Moosic borough
+42|51144|Morrisville|Morrisville borough
+42|51176|Morton|Morton borough
+42|51208|Moscow|Moscow borough
+42|51488|Mount Carbon|Mount Carbon borough
+42|51496|Mount Carmel|Mount Carmel borough
+42|51568|Mount Gretna|Mount Gretna borough
+42|51592|Mount Holly Springs|Mount Holly Springs borough
+42|51632|Mount Jewett|Mount Jewett borough
+42|51656|Mount Joy|Mount Joy borough
+42|51744|Mount Oliver|Mount Oliver borough
+42|51760|Mount Penn|Mount Penn borough
+42|51880|Mount Pleasant|Mount Pleasant borough
+42|51912|Mount Pocono|Mount Pocono borough
+42|51984|Mount Union|Mount Union borough
+42|52016|Mountville|Mountville borough
+42|52056|Mount Wolf|Mount Wolf borough
+42|52264|Muncy|Muncy borough
+42|52320|Munhall|Munhall borough
+42|52432|Murrysville|Murrysville municipality
+42|52488|Myerstown|Myerstown borough
+42|52584|Nanticoke|Nanticoke city
+42|52616|Nanty-Glo|Nanty-Glo borough
+42|52664|Narberth|Narberth borough
+42|52808|Nazareth|Nazareth borough
+42|52984|Nescopeck|Nescopeck borough
+42|53088|Nesquehoning|Nesquehoning borough
+42|53152|New Albany|New Albany borough
+42|53160|New Alexandria|New Alexandria borough
+42|53168|New Baltimore|New Baltimore borough
+42|53184|New Beaver|New Beaver borough
+42|53200|New Berlin|New Berlin borough
+42|53248|New Bethlehem|New Bethlehem borough
+42|53288|New Brighton|New Brighton borough
+42|53296|New Britain|New Britain borough
+42|53320|New Buffalo|New Buffalo borough
+42|53336|Newburg|Newburg borough
+42|53344|Newburg|Newburg borough
+42|53368|New Castle|New Castle city
+42|53416|New Centerville|New Centerville borough
+42|53448|New Columbus|New Columbus borough
+42|53464|New Cumberland|New Cumberland borough
+42|53496|New Eagle|New Eagle borough
+42|53504|Newell|Newell borough
+42|53544|New Florence|New Florence borough
+42|53568|New Freedom|New Freedom borough
+42|53592|New Galilee|New Galilee borough
+42|53696|New Holland|New Holland borough
+42|53712|New Hope|New Hope borough
+42|53736|New Kensington|New Kensington city
+42|53768|New Lebanon|New Lebanon borough
+42|53880|New Milford|New Milford borough
+42|53916|New Morgan|New Morgan borough
+42|53920|New Oxford|New Oxford borough
+42|53928|New Paris|New Paris borough
+42|53944|New Philadelphia|New Philadelphia borough
+42|53968|Newport|Newport borough
+42|54016|New Ringgold|New Ringgold borough
+42|54024|Newry|Newry borough
+42|54056|New Salem|New Salem borough
+42|54104|New Stanton|New Stanton borough
+42|54160|Newton Hamilton|Newton Hamilton borough
+42|54184|Newtown|Newtown borough
+42|54320|Newville|Newville borough
+42|54344|New Washington|New Washington borough
+42|54352|New Wilmington|New Wilmington borough
+42|54400|Nicholson|Nicholson borough
+42|54656|Norristown|Norristown borough
+42|54696|Northampton|Northampton borough
+42|54728|North Apollo|North Apollo borough
+42|54776|North Belle Vernon|North Belle Vernon borough
+42|54816|North Braddock|North Braddock borough
+42|54872|North Catasauqua|North Catasauqua borough
+42|54888|North Charleroi|North Charleroi borough
+42|54952|North East|North East borough
+42|55000|Northern Cambria|Northern Cambria borough
+42|55136|North Irwin|North Irwin borough
+42|55456|Northumberland|Northumberland borough
+42|55512|North Wales|North Wales borough
+42|55608|North York|North York borough
+42|55664|Norwood|Norwood borough
+42|55752|Nuangola|Nuangola borough
+42|55840|Oakdale|Oakdale borough
+42|56008|Oakland|Oakland borough
+42|56088|Oakmont|Oakmont borough
+42|56408|Ohiopyle|Ohiopyle borough
+42|56432|Ohioville|Ohioville borough
+42|56456|Oil City|Oil City city
+42|56496|Oklahoma|Oklahoma borough
+42|56576|Old Forge|Old Forge borough
+42|56792|Olyphant|Olyphant borough
+42|56912|Orangeville|Orangeville borough
+42|56928|Orbisonia|Orbisonia borough
+42|57112|Orrstown|Orrstown borough
+42|57184|Orwigsburg|Orwigsburg borough
+42|57232|Osceola Mills|Osceola Mills borough
+42|57280|Oswayo|Oswayo borough
+42|57480|Oxford|Oxford borough
+42|57544|Paint|Paint borough
+42|57696|Palmerton|Palmerton borough
+42|57720|Palmyra|Palmyra borough
+42|57752|Palo Alto|Palo Alto borough
+42|57976|Parker|Parker city
+42|58032|Parkesburg|Parkesburg borough
+42|58176|Parkside|Parkside borough
+42|58304|Parryville|Parryville borough
+42|58384|Patterson Heights|Patterson Heights borough
+42|58432|Patton|Patton borough
+42|58504|Paxtang|Paxtang borough
+42|58696|Pen Argyl|Pen Argyl borough
+42|58712|Penbrook|Penbrook borough
+42|58872|Penn|Penn borough
+42|58936|Penndel|Penndel borough
+42|59054|Penn Lake Park|Penn Lake Park borough
+42|59120|Pennsburg|Pennsburg borough
+42|59152|Pennsbury Village|Pennsbury Village borough
+42|59384|Perkasie|Perkasie borough
+42|59520|Perryopolis|Perryopolis borough
+42|59616|Petersburg|Petersburg borough
+42|59672|Petrolia|Petrolia borough
+42|60000|Philadelphia|Philadelphia city
+42|60008|Philipsburg|Philipsburg borough
+42|60120|Phoenixville|Phoenixville borough
+42|60136|Picture Rocks|Picture Rocks borough
+42|60264|Pillow|Pillow borough
+42|60456|Pine Grove|Pine Grove borough
+42|60712|Pitcairn|Pitcairn borough
+42|61000|Pittsburgh|Pittsburgh city
+42|61048|Pittston|Pittston city
+42|61168|Platea|Platea borough
+42|61328|Pleasant Hills|Pleasant Hills borough
+42|61496|Pleasantville|Pleasantville borough
+42|61512|Pleasantville|Pleasantville borough
+42|61536|Plum|Plum borough
+42|61632|Plumville|Plumville borough
+42|61648|Plymouth|Plymouth borough
+42|61864|Point Marion|Point Marion borough
+42|61936|Polk|Polk borough
+42|62048|Portage|Portage borough
+42|62088|Port Allegany|Port Allegany borough
+42|62128|Port Carbon|Port Carbon borough
+42|62136|Port Clinton|Port Clinton borough
+42|62224|Portersville|Portersville borough
+42|62264|Portland|Portland borough
+42|62280|Port Matilda|Port Matilda borough
+42|62304|Port Royal|Port Royal borough
+42|62320|Port Vue|Port Vue borough
+42|62416|Pottstown|Pottstown borough
+42|62432|Pottsville|Pottsville city
+42|62712|Pringle|Pringle borough
+42|62744|Prompton|Prompton borough
+42|62752|Prospect|Prospect borough
+42|62792|Prospect Park|Prospect Park borough
+42|62920|Punxsutawney|Punxsutawney borough
+42|63048|Quakertown|Quakertown borough
+42|63064|Quarryville|Quarryville borough
+42|63288|Railroad|Railroad borough
+42|63312|Rainsburg|Rainsburg borough
+42|63360|Ramey|Ramey borough
+42|63408|Rankin|Rankin borough
+42|63624|Reading|Reading city
+42|63808|Red Hill|Red Hill borough
+42|63840|Red Lion|Red Lion borough
+42|64200|Renovo|Renovo borough
+42|64376|Reynoldsville|Reynoldsville borough
+42|64432|Rices Landing|Rices Landing borough
+42|64560|Richland|Richland borough
+42|64584|Richlandtown|Richlandtown borough
+42|64784|Ridgway|Ridgway borough
+42|64832|Ridley Park|Ridley Park borough
+42|64856|Riegelsville|Riegelsville borough
+42|64904|Rimersburg|Rimersburg borough
+42|65000|Ringtown|Ringtown borough
+42|65112|Riverside|Riverside borough
+42|65256|Roaring Spring|Roaring Spring borough
+42|65336|Robesonia|Robesonia borough
+42|65392|Rochester|Rochester borough
+42|65496|Rockhill|Rockhill borough
+42|65568|Rockledge|Rockledge borough
+42|65736|Rockwood|Rockwood borough
+42|65944|Rome|Rome borough
+42|66016|Roscoe|Roscoe borough
+42|66168|Roseto|Roseto borough
+42|66192|Rose Valley|Rose Valley borough
+42|66232|Roseville|Roseville borough
+42|66320|Rosslyn Farms|Rosslyn Farms borough
+42|66440|Rouseville|Rouseville borough
+42|66560|Royalton|Royalton borough
+42|66576|Royersford|Royersford borough
+42|66720|Rural Valley|Rural Valley borough
+42|66928|Rutledge|Rutledge borough
+42|67120|Saegertown|Saegertown borough
+42|67224|St. Clair|St. Clair borough
+42|67256|St. Clairsville|St. Clairsville borough
+42|67304|St. Lawrence|St. Lawrence borough
+42|67344|St. Marys|St. Marys city
+42|67384|St. Petersburg|St. Petersburg borough
+42|67584|Salisbury|Salisbury borough
+42|67616|Salladasburg|Salladasburg borough
+42|67632|Saltillo|Saltillo borough
+42|67648|Saltsburg|Saltsburg borough
+42|67848|Sandy Lake|Sandy Lake borough
+42|67920|Sankertown|Sankertown borough
+42|68056|Saxonburg|Saxonburg borough
+42|68072|Saxton|Saxton borough
+42|68096|Sayre|Sayre borough
+42|68104|Scalp Level|Scalp Level borough
+42|68152|Schellsburg|Schellsburg borough
+42|68312|Schuylkill Haven|Schuylkill Haven borough
+42|68328|Schwenksville|Schwenksville borough
+42|68432|Scottdale|Scottdale borough
+42|69000|Scranton|Scranton city
+42|69216|Selinsgrove|Selinsgrove borough
+42|69248|Sellersville|Sellersville borough
+42|69309|Seven Fields|Seven Fields borough
+42|69336|Seven Springs|Seven Springs borough
+42|69360|Seven Valleys|Seven Valleys borough
+42|69368|Seward|Seward borough
+42|69376|Sewickley|Sewickley borough
+42|69400|Sewickley Heights|Sewickley Heights borough
+42|69416|Sewickley Hills|Sewickley Hills borough
+42|69456|Shade Gap|Shade Gap borough
+42|69600|Shamokin|Shamokin city
+42|69616|Shamokin Dam|Shamokin Dam borough
+42|69680|Shanksville|Shanksville borough
+42|69720|Sharon|Sharon city
+42|69752|Sharon Hill|Sharon Hill borough
+42|69776|Sharpsburg|Sharpsburg borough
+42|69800|Sharpsville|Sharpsville borough
+42|69936|Sheakleyville|Sheakleyville borough
+42|70040|Shelocta|Shelocta borough
+42|70056|Shenandoah|Shenandoah borough
+42|70224|Shickshinny|Shickshinny borough
+42|70248|Shillington|Shillington borough
+42|70304|Shinglehouse|Shinglehouse borough
+42|70352|Shippensburg|Shippensburg borough
+42|70368|Shippenville|Shippenville borough
+42|70376|Shippingport|Shippingport borough
+42|70384|Shiremanstown|Shiremanstown borough
+42|70408|Shirleysburg|Shirleysburg borough
+42|70464|Shoemakersville|Shoemakersville borough
+42|70568|Shrewsbury|Shrewsbury borough
+42|70744|Silverdale|Silverdale borough
+42|70880|Sinking Spring|Sinking Spring borough
+42|71144|Slatington|Slatington borough
+42|71176|Sligo|Sligo borough
+42|71184|Slippery Rock|Slippery Rock borough
+42|71248|Smethport|Smethport borough
+42|71256|Smicksburg|Smicksburg borough
+42|71320|Smithfield|Smithfield borough
+42|71424|Smithton|Smithton borough
+42|71600|Snow Shoe|Snow Shoe borough
+42|71620|S.N.P.J.|S.N.P.J. borough
+42|71688|Snydertown|Snydertown borough
+42|71776|Somerset|Somerset borough
+42|71856|Souderton|Souderton borough
+42|71976|South Bethlehem|South Bethlehem borough
+42|72072|South Coatesville|South Coatesville borough
+42|72080|South Connellsville|South Connellsville borough
+42|72168|South Fork|South Fork borough
+42|72192|South Greensburg|South Greensburg borough
+42|72216|South Heights|South Heights borough
+42|72344|Southmont|Southmont borough
+42|72376|South New Castle|South New Castle borough
+42|72448|South Renovo|South Renovo borough
+42|72592|South Waverly|South Waverly borough
+42|72616|Southwest Greensburg|Southwest Greensburg borough
+42|72648|South Williamsport|South Williamsport borough
+42|72704|Spartansburg|Spartansburg borough
+42|72736|Speers|Speers borough
+42|72872|Springboro|Springboro borough
+42|72920|Spring City|Spring City borough
+42|72960|Springdale|Springdale borough
+42|73192|Spring Grove|Spring Grove borough
+42|73784|Starrucca|Starrucca borough
+42|73808|State College|State College borough
+42|73888|Steelton|Steelton borough
+42|74104|Stewartstown|Stewartstown borough
+42|74184|Stillwater|Stillwater borough
+42|74224|Stockdale|Stockdale borough
+42|74232|Stockertown|Stockertown borough
+42|74288|Stoneboro|Stoneboro borough
+42|74672|Stoystown|Stoystown borough
+42|74712|Strasburg|Strasburg borough
+42|74728|Strattanville|Strattanville borough
+42|74744|Strausstown|Strausstown borough
+42|74888|Stroudsburg|Stroudsburg borough
+42|75000|Sugarcreek|Sugarcreek borough
+42|75024|Sugar Grove|Sugar Grove borough
+42|75072|Sugar Notch|Sugar Notch borough
+42|75136|Summerhill|Summerhill borough
+42|75168|Summerville|Summerville borough
+42|75248|Summit Hill|Summit Hill borough
+42|75304|Sunbury|Sunbury city
+42|75568|Susquehanna Depot|Susquehanna Depot borough
+42|75584|Sutersville|Sutersville borough
+42|75648|Swarthmore|Swarthmore borough
+42|75816|Swissvale|Swissvale borough
+42|75832|Swoyersville|Swoyersville borough
+42|75888|Sykesville|Sykesville borough
+42|75944|Sylvania|Sylvania borough
+42|76032|Tamaqua|Tamaqua borough
+42|76104|Tarentum|Tarentum borough
+42|76144|Tatamy|Tatamy borough
+42|76184|Taylor|Taylor borough
+42|76304|Telford|Telford borough
+42|76400|Terre Hill|Terre Hill borough
+42|76496|Thompson|Thompson borough
+42|76536|Thompsontown|Thompsontown borough
+42|76560|Thornburg|Thornburg borough
+42|76632|Three Springs|Three Springs borough
+42|76648|Throop|Throop borough
+42|76696|Tidioute|Tidioute borough
+42|76744|Timblin|Timblin borough
+42|76808|Tioga|Tioga borough
+42|76848|Tionesta|Tionesta borough
+42|76904|Titusville|Titusville city
+42|77104|Topton|Topton borough
+42|77168|Towanda|Towanda borough
+42|77184|Tower City|Tower City borough
+42|77232|Townville|Townville borough
+42|77272|Trafford|Trafford borough
+42|77288|Trainer|Trainer borough
+42|77304|Trappe|Trappe borough
+42|77392|Tremont|Tremont borough
+42|77568|Troutville|Troutville borough
+42|77584|Troy|Troy borough
+42|77704|Trumbauersville|Trumbauersville borough
+42|77744|Tullytown|Tullytown borough
+42|77784|Tunkhannock|Tunkhannock borough
+42|77808|Tunnelhill|Tunnelhill borough
+42|77832|Turbotville|Turbotville borough
+42|77912|Turtle Creek|Turtle Creek borough
+42|78008|Twilight|Twilight borough
+42|78168|Tyrone|Tyrone borough
+42|78240|Ulysses|Ulysses borough
+42|78448|Union City|Union City borough
+42|78456|Union Dale|Union Dale borough
+42|78528|Uniontown|Uniontown city
+42|78616|Unionville|Unionville borough
+42|78712|Upland|Upland borough
+42|79424|Ursina|Ursina borough
+42|79472|Utica|Utica borough
+42|79504|Valencia|Valencia borough
+42|79644|Valley-Hi|Valley-Hi borough
+42|79768|Vanderbilt|Vanderbilt borough
+42|79776|Vandergrift|Vandergrift borough
+42|79792|Vandling|Vandling borough
+42|79912|Venango|Venango borough
+42|80032|Verona|Verona borough
+42|80040|Versailles|Versailles borough
+42|80288|Vintondale|Vintondale borough
+42|80368|Volant|Volant borough
+42|80600|Wall|Wall borough
+42|80640|Wallaceton|Wallaceton borough
+42|80800|Walnutport|Walnutport borough
+42|80880|Wampum|Wampum borough
+42|81000|Warren|Warren city
+42|81080|Warrior Run|Warrior Run borough
+42|81328|Washington|Washington city
+42|81424|Washingtonville|Washingtonville borough
+42|81456|Waterford|Waterford borough
+42|81616|Watsontown|Watsontown borough
+42|81648|Wattsburg|Wattsburg borough
+42|81712|Waymart|Waymart borough
+42|81824|Waynesboro|Waynesboro borough
+42|81832|Waynesburg|Waynesburg borough
+42|81856|Weatherly|Weatherly borough
+42|82080|Weissport|Weissport borough
+42|82128|Wellersburg|Wellersburg borough
+42|82160|Wellsboro|Wellsboro borough
+42|82200|Wellsville|Wellsville borough
+42|82296|Wernersville|Wernersville borough
+42|82344|Wesleyville|Wesleyville borough
+42|82616|West Brownsville|West Brownsville borough
+42|82704|West Chester|West Chester borough
+42|82736|West Conshohocken|West Conshohocken borough
+42|82832|West Easton|West Easton borough
+42|82848|West Elizabeth|West Elizabeth borough
+42|82968|Westfield|Westfield borough
+42|83104|West Grove|West Grove borough
+42|83136|West Hazleton|West Hazleton borough
+42|83200|West Homestead|West Homestead borough
+42|83248|West Kittanning|West Kittanning borough
+42|83328|West Leechburg|West Leechburg borough
+42|83376|West Liberty|West Liberty borough
+42|83472|West Mayfield|West Mayfield borough
+42|83496|West Middlesex|West Middlesex borough
+42|83504|West Middletown|West Middletown borough
+42|83512|West Mifflin|West Mifflin borough
+42|83584|Westmont|Westmont borough
+42|83680|West Newton|West Newton borough
+42|83736|Westover|Westover borough
+42|83856|West Pittston|West Pittston borough
+42|83928|West Reading|West Reading borough
+42|84064|West Sunbury|West Sunbury borough
+42|84144|West View|West View borough
+42|84272|West Wyoming|West Wyoming borough
+42|84288|West York|West York borough
+42|84376|Wheatland|Wheatland borough
+42|84440|Whitaker|Whitaker borough
+42|84512|Whitehall|Whitehall borough
+42|84552|White Haven|White Haven borough
+42|84704|White Oak|White Oak borough
+42|85152|Wilkes-Barre|Wilkes-Barre city
+42|85188|Wilkinsburg|Wilkinsburg borough
+42|85272|Williamsburg|Williamsburg borough
+42|85312|Williamsport|Williamsport city
+42|85320|Williamstown|Williamstown borough
+42|85496|Wilmerding|Wilmerding borough
+42|85528|Wilmore|Wilmore borough
+42|85592|Wilson|Wilson borough
+42|85632|Windber|Windber borough
+42|85664|Wind Gap|Wind Gap borough
+42|85728|Windsor|Windsor borough
+42|85872|Winterstown|Winterstown borough
+42|86056|Womelsdorf|Womelsdorf borough
+42|86128|Woodbury|Woodbury borough
+42|86160|Woodcock|Woodcock borough
+42|86528|Wormleysburg|Wormleysburg borough
+42|86560|Worthington|Worthington borough
+42|86568|Worthville|Worthville borough
+42|86640|Wrightsville|Wrightsville borough
+42|86656|Wyalusing|Wyalusing borough
+42|86856|Wyoming|Wyoming borough
+42|86880|Wyomissing|Wyomissing borough
+42|86920|Yardley|Yardley borough
+42|86952|Yatesville|Yatesville borough
+42|86968|Yeadon|Yeadon borough
+42|87040|Yoe|Yoe borough
+42|87048|York|York city
+42|87064|Yorkana|Yorkana borough
+42|87080|York Haven|York Haven borough
+42|87136|York Springs|York Springs borough
+42|87208|Youngstown|Youngstown borough
+42|87224|Youngsville|Youngsville borough
+42|87232|Youngwood|Youngwood borough
+42|87272|Zelienople|Zelienople borough

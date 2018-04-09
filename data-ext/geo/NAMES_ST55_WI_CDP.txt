@@ -1,0 +1,180 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+55|00150|Abrams|Abrams CDP
+55|01100|Allenton|Allenton CDP
+55|01650|Amberg|Amberg CDP
+55|01950|Angelica|Angelica CDP
+55|02600|Argonne|Argonne CDP
+55|02700|Arkansaw|Arkansaw CDP
+55|02725|Arkdale|Arkdale CDP
+55|03175|Ashippun|Ashippun CDP
+55|04150|Babcock|Babcock CDP
+55|04300|Baileys Harbor|Baileys Harbor CDP
+55|04525|Bancroft|Bancroft CDP
+55|04925|Barronett|Barronett CDP
+55|07532|Birch Hill|Birch Hill CDP
+55|08560|Bluffview|Bluffview CDP
+55|08625|Bohners Lake|Bohners Lake CDP
+55|08925|Boulder Junction|Boulder Junction CDP
+55|09465|Brice Prairie|Brice Prairie CDP
+55|10425|Browns Lake|Browns Lake CDP
+55|10550|Brule|Brule CDP
+55|11250|Burnett|Burnett CDP
+55|11500|Butte des Morts|Butte des Morts CDP
+55|11650|Cable|Cable CDP
+55|12400|Camp Lake|Camp Lake CDP
+55|12675|Caroline|Caroline CDP
+55|13150|Cataract|Cataract CDP
+55|13880|Chain O' Lakes|Chain O' Lakes CDP
+55|14175|Chelsea|Chelsea CDP
+55|14440|Chief Lake|Chief Lake CDP
+55|14450|Chili|Chili CDP
+55|14850|Clam Lake|Clam Lake CDP
+55|16350|Collins|Collins CDP
+55|16575|Como|Como CDP
+55|17150|Cornucopia|Cornucopia CDP
+55|18500|Dale|Dale CDP
+55|18625|Dalton|Dalton CDP
+55|18650|Danbury|Danbury CDP
+55|19500|Delavan Lake|Delavan Lake CDP
+55|19600|Delwood|Delwood CDP
+55|20125|Diamond Bluff|Diamond Bluff CDP
+55|20167|Diaperville|Diaperville CDP
+55|20275|Dodge|Dodge CDP
+55|20725|Downsville|Downsville CDP
+55|20875|Drummond|Drummond CDP
+55|20975|Dunbar|Dunbar CDP
+55|21375|Dyckesville|Dyckesville CDP
+55|21525|Eagle Lake|Eagle Lake CDP
+55|22700|Edmund|Edmund CDP
+55|23025|Elcho|Elcho CDP
+55|23475|Ellison Bay|Ellison Bay CDP
+55|23900|Emerald|Emerald CDP
+55|24475|Eureka|Eureka CDP
+55|26175|Florence|Florence CDP
+55|26575|Forest Junction|Forest Junction CDP
+55|27412|Franks Field|Franks Field CDP
+55|27875|French Island|French Island CDP
+55|28925|Gibbsville|Gibbsville CDP
+55|29500|Glen Haven|Glen Haven CDP
+55|29675|Glidden|Glidden CDP
+55|29750|Goodman|Goodman CDP
+55|29900|Gordon|Gordon CDP
+55|29950|Gotham|Gotham CDP
+55|30100|Grand Marsh|Grand Marsh CDP
+55|30150|Grand View|Grand View CDP
+55|31075|Greenbush|Greenbush CDP
+55|31375|Greenleaf|Greenleaf CDP
+55|31475|Green Valley|Green Valley CDP
+55|31975|Hager City|Hager City CDP
+55|32550|Hanover|Hanover CDP
+55|33150|Hatfield|Hatfield CDP
+55|33675|Hebron|Hebron CDP
+55|33825|Helenville|Helenville CDP
+55|33975|Herbster|Herbster CDP
+55|35000|Hingham|Hingham CDP
+55|35225|Holcombe|Holcombe CDP
+55|35900|Houlton|Houlton CDP
+55|36400|Humbird|Humbird CDP
+55|37125|Iron Belt|Iron Belt CDP
+55|37175|Iron River|Iron River CDP
+55|37575|Ixonia|Ixonia CDP
+55|38225|Jim Falls|Jim Falls CDP
+55|38600|Juda|Juda CDP
+55|38625|Jump River|Jump River CDP
+55|39250|Keshena|Keshena CDP
+55|39550|Kieler|Kieler CDP
+55|39700|King|King CDP
+55|40125|Knowlton|Knowlton CDP
+55|40450|Krakow|Krakow CDP
+55|40675|Lac du Flambeau|Lac du Flambeau CDP
+55|41160|Lake Arrowhead|Lake Arrowhead CDP
+55|41210|Lake Camelot|Lake Camelot CDP
+55|41560|Lake Ivanhoe|Lake Ivanhoe CDP
+55|41583|Lake Koshkonong|Lake Koshkonong CDP
+55|41645|Lake Lorraine|Lake Lorraine CDP
+55|41765|Lake Ripley|Lake Ripley CDP
+55|41770|Lake Shangrila|Lake Shangrila CDP
+55|41772|Lake Sherwood|Lake Sherwood CDP
+55|41875|Lake Tomahawk|Lake Tomahawk CDP
+55|41975|Lake Wazeecha|Lake Wazeecha CDP
+55|42012|Lake Wisconsin|Lake Wisconsin CDP
+55|42025|Lake Wissota|Lake Wissota CDP
+55|42050|Lakewood|Lakewood CDP
+55|42475|Laona|Laona CDP
+55|42805|Lauderdale Lakes|Lauderdale Lakes CDP
+55|43025|Lebanon|Lebanon CDP
+55|43207|Legend Lake|Legend Lake CDP
+55|43575|Leopolis|Leopolis CDP
+55|43725|Lewis|Lewis CDP
+55|43985|Lily Lake|Lily Lake CDP
+55|45220|Little Round Lake|Little Round Lake CDP
+55|45225|Little Sturgeon|Little Sturgeon CDP
+55|45600|Long Lake|Long Lake CDP
+55|49175|Marengo|Marengo CDP
+55|51175|Mercer|Mercer CDP
+55|51617|Middle Village|Middle Village CDP
+55|52025|Millston|Millston CDP
+55|53200|Minocqua|Minocqua CDP
+55|53500|Mole Lake|Mole Lake CDP
+55|54625|Mountain|Mountain CDP
+55|55650|Navarino|Navarino CDP
+55|56050|Neopit|Neopit CDP
+55|56250|Newald|Newald CDP
+55|57008|New Odanah|New Odanah CDP
+55|57050|New Post|New Post CDP
+55|58375|Northport|Northport CDP
+55|59450|Odanah|Odanah CDP
+55|59500|Ogema|Ogema CDP
+55|59650|Okauchee Lake|Okauchee Lake CDP
+55|60950|Packwaukee|Packwaukee CDP
+55|61675|Pella|Pella CDP
+55|61725|Pell Lake|Pell Lake CDP
+55|61750|Pembine|Pembine CDP
+55|61800|Pence|Pence CDP
+55|62975|Pine River|Pine River CDP
+55|63925|Polonia|Polonia CDP
+55|64500|Port Wing|Port Wing CDP
+55|64550|Post Lake|Post Lake CDP
+55|64700|Potter Lake|Potter Lake CDP
+55|64825|Powers Lake|Powers Lake CDP
+55|64950|Poy Sippi|Poy Sippi CDP
+55|65725|Pulcifer|Pulcifer CDP
+55|67050|Reserve|Reserve CDP
+55|67320|Rib Mountain|Rib Mountain CDP
+55|69300|Rome|Rome CDP
+55|70815|St. Joseph|St. Joseph CDP
+55|71050|St. Peter|St. Peter CDP
+55|71585|Sandy Hook|Sandy Hook CDP
+55|71850|Saxon|Saxon CDP
+55|71950|Sayner|Sayner CDP
+55|72650|Sextonville|Sextonville CDP
+55|72670|Seymour|Seymour CDP
+55|74500|Sobieski|Sobieski CDP
+55|75975|Springfield|Springfield CDP
+55|77625|Stone Lake|Stone Lake CDP
+55|78425|Summit Lake|Summit Lake CDP
+55|78980|Tainter Lake|Tainter Lake CDP
+55|79100|Taycheedah|Taycheedah CDP
+55|79600|Thornton|Thornton CDP
+55|79675|Three Lakes|Three Lakes CDP
+55|79740|Tichigan|Tichigan CDP
+55|79900|Tilleda|Tilleda CDP
+55|80300|Townsend|Townsend CDP
+55|80425|Trego|Trego CDP
+55|81025|Tunnel City|Tunnel City CDP
+55|81090|Turtle Lake|Turtle Lake CDP
+55|81150|Tustin|Tustin CDP
+55|82450|Van Dyne|Van Dyne CDP
+55|83000|Wabeno|Wabeno CDP
+55|84150|Waubeka|Waubeka CDP
+55|84200|Waukau|Waukau CDP
+55|84300|Waumandee|Waumandee CDP
+55|85425|Westboro|Westboro CDP
+55|87000|Whittlesey|Whittlesey CDP
+55|87325|Wilmot|Wilmot CDP
+55|87625|Winchester|Winchester CDP
+55|87675|Wind Lake|Wind Lake CDP
+55|87725|Windsor|Windsor CDP
+55|88675|Woodford|Woodford CDP
+55|88925|Woodruff|Woodruff CDP
+55|89760|Zoar|Zoar CDP

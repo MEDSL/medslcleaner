@@ -1,0 +1,305 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+22|00100|Abbeville|Abbeville city
+22|00240|Abita Springs|Abita Springs town
+22|00415|Addis|Addis town
+22|00835|Albany|Albany village
+22|00975|Alexandria|Alexandria city
+22|01885|Amite City|Amite City town
+22|01920|Anacoco|Anacoco village
+22|02165|Angie|Angie village
+22|02655|Arcadia|Arcadia town
+22|03110|Arnaudville|Arnaudville town
+22|03145|Ashland|Ashland village
+22|03320|Athens|Athens village
+22|03390|Atlanta|Atlanta village
+22|03985|Baker|Baker city
+22|04020|Baldwin|Baldwin town
+22|04055|Ball|Ball town
+22|04580|Basile|Basile town
+22|04615|Baskin|Baskin village
+22|04685|Bastrop|Bastrop city
+22|05000|Baton Rouge|Baton Rouge city
+22|05945|Belcher|Belcher village
+22|06925|Benton|Benton town
+22|07030|Bernice|Bernice town
+22|07100|Berwick|Berwick town
+22|07205|Bienville|Bienville village
+22|07730|Blanchard|Blanchard town
+22|08150|Bogalusa|Bogalusa city
+22|08535|Bonita|Bonita village
+22|08920|Bossier City|Bossier City city
+22|09165|Boyce|Boyce town
+22|09340|Breaux Bridge|Breaux Bridge city
+22|10075|Broussard|Broussard city
+22|10600|Brusly|Brusly town
+22|10705|Bryceland|Bryceland village
+22|10950|Bunkie|Bunkie city
+22|11930|Calvin|Calvin village
+22|12280|Campti|Campti town
+22|12420|Cankton|Cankton village
+22|12665|Carencro|Carencro city
+22|13260|Castor|Castor village
+22|13960|Central|Central city
+22|14450|Chataignier|Chataignier village
+22|14485|Chatham|Chatham town
+22|14660|Cheneyville|Cheneyville town
+22|15290|Choudrant|Choudrant village
+22|15465|Church Point|Church Point town
+22|15745|Clarence|Clarence village
+22|15780|Clarks|Clarks village
+22|15850|Clayton|Clayton town
+22|15990|Clinton|Clinton town
+22|16375|Colfax|Colfax town
+22|16655|Collinston|Collinston village
+22|16830|Columbia|Columbia town
+22|17215|Converse|Converse village
+22|17880|Cottonport|Cottonport town
+22|17915|Cotton Valley|Cotton Valley town
+22|18055|Coushatta|Coushatta town
+22|18125|Covington|Covington city
+22|18295|Creola|Creola village
+22|18650|Crowley|Crowley city
+22|18790|Cullen|Cullen town
+22|20155|Delcambre|Delcambre town
+22|20190|Delhi|Delhi town
+22|20330|Delta|Delta village
+22|20435|Denham Springs|Denham Springs city
+22|20575|DeQuincy|DeQuincy city
+22|20610|DeRidder|DeRidder city
+22|21135|Dixie Inn|Dixie Inn village
+22|21170|Dodson|Dodson village
+22|21240|Donaldsonville|Donaldsonville city
+22|21450|Downsville|Downsville village
+22|21590|Doyline|Doyline village
+22|21765|Dry Prong|Dry Prong village
+22|21800|Dubach|Dubach town
+22|21835|Dubberly|Dubberly village
+22|22255|Duson|Duson town
+22|22465|East Hodge|East Hodge village
+22|22850|Edgefield|Edgefield village
+22|23235|Elizabeth|Elizabeth town
+22|23620|Elton|Elton town
+22|24145|Epps|Epps village
+22|24180|Erath|Erath town
+22|24215|Eros|Eros town
+22|24460|Estherwood|Estherwood village
+22|24565|Eunice|Eunice city
+22|24775|Evergreen|Evergreen town
+22|25160|Farmerville|Farmerville town
+22|25335|Fenton|Fenton village
+22|25440|Ferriday|Ferriday town
+22|25615|Fisher|Fisher village
+22|25860|Florien|Florien village
+22|26140|Folsom|Folsom village
+22|26280|Fordoche|Fordoche town
+22|26350|Forest|Forest village
+22|26420|Forest Hill|Forest Hill village
+22|27155|Franklin|Franklin city
+22|27190|Franklinton|Franklinton town
+22|27435|French Settlement|French Settlement village
+22|28660|Georgetown|Georgetown village
+22|28835|Gibsland|Gibsland town
+22|28940|Gilbert|Gilbert village
+22|29010|Gilliam|Gilliam village
+22|29220|Glenmora|Glenmora town
+22|29640|Golden Meadow|Golden Meadow town
+22|29745|Goldonna|Goldonna village
+22|29850|Gonzales|Gonzales city
+22|30515|Grambling|Grambling city
+22|30550|Gramercy|Gramercy town
+22|30690|Grand Cane|Grand Cane village
+22|30760|Grand Coteau|Grand Coteau town
+22|30830|Grand Isle|Grand Isle town
+22|31250|Grayson|Grayson village
+22|31565|Greensburg|Greensburg town
+22|31705|Greenwood|Greenwood town
+22|31915|Gretna|Gretna city
+22|32020|Grosse Tete|Grosse Tete village
+22|32055|Gueydan|Gueydan town
+22|32650|Hall Summit|Hall Summit village
+22|32755|Hammond|Hammond city
+22|32930|Harahan|Harahan city
+22|33210|Harrisonburg|Harrisonburg village
+22|33420|Haughton|Haughton town
+22|33525|Haynesville|Haynesville town
+22|33735|Heflin|Heflin village
+22|33875|Henderson|Henderson town
+22|34015|Hessmer|Hessmer village
+22|35100|Hodge|Hodge village
+22|35870|Homer|Homer town
+22|36045|Hornbeck|Hornbeck town
+22|36150|Hosston|Hosston village
+22|36255|Houma|Houma city
+22|36885|Ida|Ida village
+22|37025|Independence|Independence town
+22|37410|Iota|Iota town
+22|37445|Iowa|Iowa town
+22|37830|Jackson|Jackson town
+22|37935|Jamestown|Jamestown village
+22|38075|Jeanerette|Jeanerette city
+22|38092|Jean Lafitte|Jean Lafitte town
+22|38285|Jena|Jena town
+22|38355|Jennings|Jennings city
+22|38670|Jonesboro|Jonesboro town
+22|38775|Jonesville|Jonesville town
+22|38985|Junction City|Junction City village
+22|39055|Kaplan|Kaplan city
+22|39085|Keachi|Keachi town
+22|39475|Kenner|Kenner city
+22|39545|Kentwood|Kentwood town
+22|39650|Kilbourne|Kilbourne village
+22|39685|Killian|Killian town
+22|39755|Kinder|Kinder town
+22|40280|Krotz Springs|Krotz Springs town
+22|40735|Lafayette|Lafayette city
+22|41050|Lake Arthur|Lake Arthur town
+22|41155|Lake Charles|Lake Charles city
+22|41400|Lake Providence|Lake Providence town
+22|42800|Lecompte|Lecompte town
+22|43010|Leesville|Leesville city
+22|43395|Leonville|Leonville town
+22|43920|Lillie|Lillie village
+22|44235|Lisbon|Lisbon village
+22|44655|Livingston|Livingston town
+22|44690|Livonia|Livonia town
+22|44900|Lockport|Lockport town
+22|45040|Logansport|Logansport town
+22|45460|Longstreet|Longstreet village
+22|45670|Loreauville|Loreauville village
+22|46370|Lucky|Lucky village
+22|46720|Lutcher|Lutcher town
+22|47315|McNary|McNary village
+22|47560|Madisonville|Madisonville town
+22|48085|Mamou|Mamou town
+22|48225|Mandeville|Mandeville city
+22|48260|Mangham|Mangham town
+22|48365|Mansfield|Mansfield city
+22|48400|Mansura|Mansura town
+22|48470|Many|Many town
+22|48610|Maringouin|Maringouin town
+22|48645|Marion|Marion town
+22|48750|Marksville|Marksville city
+22|48925|Martin|Martin village
+22|49240|Maurice|Maurice village
+22|49730|Melville|Melville town
+22|49870|Mermentau|Mermentau village
+22|49905|Mer Rouge|Mer Rouge village
+22|50010|Merryville|Merryville town
+22|50885|Minden|Minden city
+22|51410|Monroe|Monroe city
+22|51620|Montgomery|Montgomery town
+22|51690|Montpelier|Montpelier village
+22|51830|Mooringsport|Mooringsport town
+22|51970|Moreauville|Moreauville village
+22|52040|Morgan City|Morgan City city
+22|52075|Morganza|Morganza village
+22|52320|Morse|Morse village
+22|52565|Mound|Mound village
+22|52740|Mount Lebanon|Mount Lebanon town
+22|53370|Napoleonville|Napoleonville village
+22|53510|Natchez|Natchez village
+22|53545|Natchitoches|Natchitoches city
+22|53930|Newellton|Newellton town
+22|54035|New Iberia|New Iberia city
+22|54175|New Llano|New Llano town
+22|55000|New Orleans|New Orleans city
+22|55105|New Roads|New Roads city
+22|55420|Noble|Noble village
+22|55910|North Hodge|North Hodge village
+22|56295|Norwood|Norwood village
+22|56540|Oakdale|Oakdale city
+22|56820|Oak Grove|Oak Grove town
+22|57205|Oak Ridge|Oak Ridge village
+22|57450|Oberlin|Oberlin town
+22|57590|Oil City|Oil City town
+22|57905|Olla|Olla town
+22|58045|Opelousas|Opelousas city
+22|58780|Palmetto|Palmetto village
+22|59165|Parks|Parks village
+22|59340|Patterson|Patterson city
+22|59445|Pearl River|Pearl River town
+22|60495|Pine Prairie|Pine Prairie village
+22|60530|Pineville|Pineville city
+22|60565|Pioneer|Pioneer village
+22|60670|Plain Dealing|Plain Dealing town
+22|60880|Plaquemine|Plaquemine city
+22|60985|Plaucheville|Plaucheville village
+22|61055|Pleasant Hill|Pleasant Hill village
+22|61580|Pollock|Pollock town
+22|61615|Ponchatoula|Ponchatoula city
+22|61790|Port Allen|Port Allen city
+22|61825|Port Barre|Port Barre town
+22|62105|Port Vincent|Port Vincent village
+22|62245|Powhatan|Powhatan village
+22|62770|Provencal|Provencal village
+22|63120|Quitman|Quitman village
+22|63645|Rayne|Rayne city
+22|63680|Rayville|Rayville town
+22|64100|Reeves|Reeves village
+22|64590|Richmond|Richmond village
+22|64660|Richwood|Richwood town
+22|64765|Ridgecrest|Ridgecrest town
+22|64905|Ringgold|Ringgold town
+22|65325|Robeline|Robeline village
+22|65710|Rodessa|Rodessa village
+22|66060|Rosedale|Rosedale village
+22|66165|Roseland|Roseland town
+22|66200|Rosepine|Rosepine town
+22|66655|Ruston|Ruston city
+22|67215|St. Francisville|St. Francisville town
+22|67250|St. Gabriel|St. Gabriel city
+22|67495|St. Joseph|St. Joseph town
+22|67600|St. Martinville|St. Martinville city
+22|67880|Saline|Saline village
+22|68125|Sarepta|Sarepta town
+22|68475|Scott|Scott city
+22|69455|Shongaloo|Shongaloo village
+22|70000|Shreveport|Shreveport city
+22|70175|Sibley|Sibley town
+22|70245|Sicily Island|Sicily Island village
+22|70385|Sikes|Sikes village
+22|70525|Simmesport|Simmesport town
+22|70595|Simpson|Simpson village
+22|70630|Simsboro|Simsboro village
+22|70770|Slaughter|Slaughter town
+22|70805|Slidell|Slidell city
+22|71225|Sorrento|Sorrento town
+22|71820|South Mansfield|South Mansfield village
+22|72170|Spearsville|Spearsville village
+22|72415|Springfield|Springfield town
+22|72485|Springhill|Springhill city
+22|72800|Stanley|Stanley village
+22|73255|Sterlington|Sterlington town
+22|73395|Stonewall|Stonewall town
+22|73640|Sulphur|Sulphur city
+22|73955|Sun|Sun village
+22|74060|Sunset|Sunset town
+22|74690|Tallulah|Tallulah city
+22|74760|Tangipahoa|Tangipahoa village
+22|75425|Thibodaux|Thibodaux city
+22|75670|Tickfaw|Tickfaw village
+22|76615|Tullos|Tullos town
+22|76685|Turkey Creek|Turkey Creek village
+22|77490|Urania|Urania town
+22|77910|Varnado|Varnado village
+22|78470|Vidalia|Vidalia town
+22|78540|Vienna|Vienna town
+22|78715|Ville Platte|Ville Platte city
+22|78820|Vinton|Vinton town
+22|78890|Vivian|Vivian town
+22|79240|Walker|Walker town
+22|79870|Washington|Washington town
+22|79940|Waterproof|Waterproof town
+22|80430|Welsh|Welsh town
+22|80815|Westlake|Westlake city
+22|80955|West Monroe|West Monroe city
+22|81165|Westwego|Westwego city
+22|81375|White Castle|White Castle town
+22|82215|Wilson|Wilson village
+22|82460|Winnfield|Winnfield city
+22|82495|Winnsboro|Winnsboro city
+22|82565|Wisner|Wisner town
+22|83125|Woodworth|Woodworth town
+22|83335|Youngsville|Youngsville city
+22|83405|Zachary|Zachary city
+22|83685|Zwolle|Zwolle town

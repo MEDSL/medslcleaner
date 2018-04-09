@@ -1,0 +1,192 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+25|00135|Abington|Abington CDP
+25|00530|Acushnet Center|Acushnet Center CDP
+25|00590|Adams|Adams CDP
+25|01360|Amherst Center|Amherst Center CDP
+25|01430|Andover|Andover CDP
+25|01640|Arlington|Arlington CDP
+25|02515|Athol|Athol CDP
+25|03040|Ayer|Ayer CDP
+25|03355|Baldwinville|Baldwinville CDP
+25|03705|Barre|Barre CDP
+25|04790|Belchertown|Belchertown CDP
+25|04965|Bellingham|Bellingham CDP
+25|05105|Belmont|Belmont CDP
+25|06050|Blandford|Blandford CDP
+25|06170|Bliss Corner|Bliss Corner CDP
+25|07140|Bourne|Bourne CDP
+25|07385|Boxford|Boxford CDP
+25|07945|Brewster|Brewster CDP
+25|08050|Bridgewater|Bridgewater CDP
+25|09070|Brookfield|Brookfield CDP
+25|09210|Brookline|Brookline CDP
+25|09875|Burlington|Burlington CDP
+25|10015|Buzzards Bay|Buzzards Bay CDP
+25|12960|Chatham|Chatham CDP
+25|13310|Cheshire|Cheshire CDP
+25|13450|Chester|Chester CDP
+25|14430|Clinton|Clinton CDP
+25|14570|Cochituate|Cochituate CDP
+25|15340|Cordaville|Cordaville CDP
+25|16285|Danvers|Danvers CDP
+25|16530|Dedham|Dedham CDP
+25|16635|Deerfield|Deerfield CDP
+25|16740|Dennis|Dennis CDP
+25|16810|Dennis Port|Dennis Port CDP
+25|16840|Devens|Devens CDP
+25|17370|Dover|Dover CDP
+25|17860|Duxbury|Duxbury CDP
+25|18595|East Brookfield|East Brookfield CDP
+25|18840|East Dennis|East Dennis CDP
+25|18875|East Douglas|East Douglas CDP
+25|18980|East Falmouth|East Falmouth CDP
+25|19400|East Harwich|East Harwich CDP
+25|20310|East Pepperell|East Pepperell CDP
+25|20380|East Sandwich|East Sandwich CDP
+25|21815|Essex|Essex CDP
+25|23070|Falmouth|Falmouth CDP
+25|23840|Fiskdale|Fiskdale CDP
+25|24190|Forestdale|Forestdale CDP
+25|24855|Foxborough|Foxborough CDP
+25|24960|Framingham|Framingham CDP
+25|26500|Granby|Granby CDP
+25|26780|Great Barrington|Great Barrington CDP
+25|27147|Green Harbor-Cedar Crest|Green Harbor-Cedar Crest CDP
+25|27445|Groton|Groton CDP
+25|28460|Hanson|Hanson CDP
+25|29055|Harwich Center|Harwich Center CDP
+25|29090|Harwich Port|Harwich Port CDP
+25|29230|Hatfield|Hatfield CDP
+25|30175|Hingham|Hingham CDP
+25|30420|Holbrook|Holbrook CDP
+25|30630|Holland|Holland CDP
+25|30980|Hopedale|Hopedale CDP
+25|31050|Hopkinton|Hopkinton CDP
+25|31295|Housatonic|Housatonic CDP
+25|31575|Hudson|Hudson CDP
+25|31680|Hull|Hull CDP
+25|31750|Huntington|Huntington CDP
+25|32275|Ipswich|Ipswich CDP
+25|33185|Kingston|Kingston CDP
+25|34620|Lee|Lee CDP
+25|34935|Lenox|Lenox CDP
+25|35250|Lexington|Lexington CDP
+25|36020|Littleton Common|Littleton Common CDP
+25|36335|Longmeadow|Longmeadow CDP
+25|37385|Lunenburg|Lunenburg CDP
+25|37595|Lynnfield|Lynnfield CDP
+25|37735|Madaket|Madaket CDP
+25|38230|Mansfield Center|Mansfield Center CDP
+25|38435|Marblehead|Marblehead CDP
+25|38575|Marion Center|Marion Center CDP
+25|38820|Marshfield|Marshfield CDP
+25|38960|Marshfield Hills|Marshfield Hills CDP
+25|39152|Mashpee Neck|Mashpee Neck CDP
+25|39485|Mattapoisett Center|Mattapoisett Center CDP
+25|39660|Maynard|Maynard CDP
+25|39730|Medfield|Medfield CDP
+25|40885|Middleborough Center|Middleborough Center CDP
+25|41200|Milford|Milford CDP
+25|41410|Millers Falls|Millers Falls CDP
+25|41532|Millis-Clicquot|Millis-Clicquot CDP
+25|41725|Milton|Milton CDP
+25|41960|Monomoscoy Island|Monomoscoy Island CDP
+25|42180|Monson Center|Monson Center CDP
+25|42670|Monument Beach|Monument Beach CDP
+25|43615|Nahant|Nahant CDP
+25|43755|Nantucket|Nantucket CDP
+25|44140|Needham|Needham CDP
+25|45500|New Seabury|New Seabury CDP
+25|46295|North Amherst|North Amherst CDP
+25|46785|Northborough|Northborough CDP
+25|47100|North Brookfield|North Brookfield CDP
+25|47590|North Eastham|North Eastham CDP
+25|47730|North Falmouth|North Falmouth CDP
+25|47800|Northfield|Northfield CDP
+25|48220|North Lakeville|North Lakeville CDP
+25|48710|North Pembroke|North Pembroke CDP
+25|48780|North Plymouth|North Plymouth CDP
+25|49165|North Scituate|North Scituate CDP
+25|49200|North Seekonk|North Seekonk CDP
+25|49700|Northwest Harwich|Northwest Harwich CDP
+25|49710|North Westport|North Westport CDP
+25|50005|Norton Center|Norton Center CDP
+25|50285|Norwood|Norwood CDP
+25|50862|Ocean Bluff-Brant Rock|Ocean Bluff-Brant Rock CDP
+25|50880|Ocean Grove|Ocean Grove CDP
+25|51160|Onset|Onset CDP
+25|51230|Orange|Orange CDP
+25|51405|Orleans|Orleans CDP
+25|51790|Oxford|Oxford CDP
+25|52770|Pepperell|Pepperell CDP
+25|53085|Petersham|Petersham CDP
+25|53680|Pinehurst|Pinehurst CDP
+25|54275|Plymouth|Plymouth CDP
+25|54450|Pocasset|Pocasset CDP
+25|55070|Popponesset|Popponesset CDP
+25|55090|Popponesset Island|Popponesset Island CDP
+25|55535|Provincetown|Provincetown CDP
+25|55990|Randolph|Randolph CDP
+25|56095|Raynham Center|Raynham Center CDP
+25|56165|Reading|Reading CDP
+25|57845|Rockport|Rockport CDP
+25|58370|Rowley|Rowley CDP
+25|58615|Russell|Russell CDP
+25|58790|Rutland|Rutland CDP
+25|58965|Sagamore|Sagamore CDP
+25|59210|Salisbury|Salisbury CDP
+25|59700|Sandwich|Sandwich CDP
+25|60050|Saugus|Saugus CDP
+25|60295|Scituate|Scituate CDP
+25|60505|Seabrook|Seabrook CDP
+25|60627|Seconsett Island|Seconsett Island CDP
+25|60820|Sharon|Sharon CDP
+25|61205|Shelburne Falls|Shelburne Falls CDP
+25|61555|Shirley|Shirley CDP
+25|61940|Siasconset|Siasconset CDP
+25|62300|Smith Mills|Smith Mills CDP
+25|62465|Somerset|Somerset CDP
+25|62675|South Amherst|South Amherst CDP
+25|62780|South Ashburnham|South Ashburnham CDP
+25|63620|South Deerfield|South Deerfield CDP
+25|63655|South Dennis|South Dennis CDP
+25|63690|South Duxbury|South Duxbury CDP
+25|63840|Southfield|Southfield CDP
+25|64460|South Lancaster|South Lancaster CDP
+25|66035|South Yarmouth|South Yarmouth CDP
+25|66070|Spencer|Spencer CDP
+25|67700|Stoneham|Stoneham CDP
+25|68120|Sturbridge|Sturbridge CDP
+25|68680|Swampscott|Swampscott CDP
+25|69205|Teaticket|Teaticket CDP
+25|69585|The Pinehills|The Pinehills CDP
+25|70115|Topsfield|Topsfield CDP
+25|70325|Townsend|Townsend CDP
+25|70815|Turners Falls|Turners Falls CDP
+25|71445|Upton|Upton CDP
+25|71970|Vineyard Haven|Vineyard Haven CDP
+25|72250|Wakefield|Wakefield CDP
+25|72460|Walpole|Walpole CDP
+25|72845|Ware|Ware CDP
+25|73020|Wareham Center|Wareham Center CDP
+25|73055|Warren|Warren CDP
+25|73930|Webster|Webster CDP
+25|74210|Wellesley|Wellesley CDP
+25|75050|Westborough|Westborough CDP
+25|75365|West Brookfield|West Brookfield CDP
+25|75505|West Chatham|West Chatham CDP
+25|75680|West Concord|West Concord CDP
+25|75820|West Dennis|West Dennis CDP
+25|75960|West Falmouth|West Falmouth CDP
+25|78410|West Wareham|West Wareham CDP
+25|78795|West Yarmouth|West Yarmouth CDP
+25|78850|Weweantic|Weweantic CDP
+25|79390|White Island Shores|White Island Shores CDP
+25|79495|Whitinsville|Whitinsville CDP
+25|79705|Wilbraham|Wilbraham CDP
+25|79950|Williamstown|Williamstown CDP
+25|80195|Wilmington|Wilmington CDP
+25|80370|Winchendon|Winchendon CDP
+25|80545|Winchester|Winchester CDP
+25|81245|Woods Hole|Woods Hole CDP
+25|82595|Yarmouth Port|Yarmouth Port CDP

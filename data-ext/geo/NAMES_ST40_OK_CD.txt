@@ -1,0 +1,6 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+40|01|1|Congressional District 1
+40|02|2|Congressional District 2
+40|03|3|Congressional District 3
+40|04|4|Congressional District 4
+40|05|5|Congressional District 5

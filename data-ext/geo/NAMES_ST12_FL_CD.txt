@@ -1,0 +1,26 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+12|01|1|Congressional District 1
+12|02|2|Congressional District 2
+12|03|3|Congressional District 3
+12|04|4|Congressional District 4
+12|05|5|Congressional District 5
+12|06|6|Congressional District 6
+12|07|7|Congressional District 7
+12|08|8|Congressional District 8
+12|09|9|Congressional District 9
+12|10|10|Congressional District 10
+12|11|11|Congressional District 11
+12|12|12|Congressional District 12
+12|13|13|Congressional District 13
+12|14|14|Congressional District 14
+12|15|15|Congressional District 15
+12|16|16|Congressional District 16
+12|17|17|Congressional District 17
+12|18|18|Congressional District 18
+12|19|19|Congressional District 19
+12|20|20|Congressional District 20
+12|21|21|Congressional District 21
+12|22|22|Congressional District 22
+12|23|23|Congressional District 23
+12|24|24|Congressional District 24
+12|25|25|Congressional District 25

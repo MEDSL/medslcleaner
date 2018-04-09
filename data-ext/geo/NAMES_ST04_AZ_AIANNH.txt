@@ -1,0 +1,22 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+04|0695|Cocopah|Cocopah Reservation
+04|0735|Colorado River|Colorado River Indian Reservation
+04|1140|Fort Apache|Fort Apache Reservation
+04|1220|Fort McDowell Yavapai Nation|Fort McDowell Yavapai Nation Reservation
+04|1235|Fort Mojave|Fort Mojave Reservation and Off-Reservation Trust Land
+04|1280|Fort Yuma|Fort Yuma Indian Reservation
+04|1310|Gila River|Gila River Indian Reservation
+04|1440|Havasupai|Havasupai Reservation
+04|1505|Hopi|Hopi Reservation and Off-Reservation Trust Land
+04|1545|Hualapai|Hualapai Indian Reservation and Off-Reservation Trust Land
+04|1720|Kaibab|Kaibab Indian Reservation
+04|2130|Maricopa (Ak Chin)|Maricopa (Ak Chin) Indian Reservation
+04|2430|Navajo Nation|Navajo Nation Reservation and Off-Reservation Trust Land
+04|2680|Pascua Pueblo Yaqui|Pascua Pueblo Yaqui Reservation
+04|3340|Salt River|Salt River Reservation
+04|3355|San Carlos|San Carlos Reservation
+04|4200|Tohono O'odham Nation|Tohono O'odham Nation Reservation and Off-Reservation Trust Land
+04|4235|Tonto Apache|Tonto Apache Reservation
+04|4708|Yavapai-Apache Nation|Yavapai-Apache Nation Reservation
+04|4710|Yavapai-Prescott|Yavapai-Prescott Reservation
+04|4785|Zuni|Zuni Reservation and Off-Reservation Trust Land

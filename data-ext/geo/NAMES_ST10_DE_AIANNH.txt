@@ -1,0 +1,3 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+10|9800|Lenape Indian Tribe of Delaware|Lenape Indian Tribe of Delaware SDTSA
+10|9830|Nanticoke Indian Tribe|Nanticoke Indian Tribe SDTSA

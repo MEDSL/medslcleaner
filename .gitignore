@@ -1,0 +1,10 @@
+*.tar.gz
+medslcleaner.Rcheck
+.DS_Store
+.Rproj*
+README.html
+readme-cache
+src/*.o
+src/*.so
+.Rproj.user
+medslcleaner.Rproj

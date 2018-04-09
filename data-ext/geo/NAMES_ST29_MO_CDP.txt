@@ -1,0 +1,74 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+29|00280|Affton|Affton CDP
+29|02260|Ashley|Ashley CDP
+29|03394|Barnhart|Barnhart CDP
+29|04525|Bennett Springs|Bennett Springs CDP
+29|05320|Biehle|Biehle CDP
+29|05608|Big Spring|Big Spring CDP
+29|06247|Blanchard|Blanchard CDP
+29|08272|Brewer|Brewer CDP
+29|11908|Castle Point|Castle Point CDP
+29|12358|Cedar Hill|Cedar Hill CDP
+29|13474|Cherokee Pass|Cherokee Pass CDP
+29|13582|Chesapeake|Chesapeake CDP
+29|15886|Conception|Conception CDP
+29|16030|Concord|Concord CDP
+29|18190|Danville|Danville CDP
+29|18496|Dawn|Dawn CDP
+29|18910|Defiance|Defiance CDP
+29|19684|Doe Run|Doe Run CDP
+29|20656|Eagle Rock|Eagle Rock CDP
+29|21340|Edinburg|Edinburg CDP
+29|23050|Excello|Excello CDP
+29|23248|Fairdealing|Fairdealing CDP
+29|25264|Fort Leonard Wood|Fort Leonard Wood CDP
+29|25516|Frankclay|Frankclay CDP
+29|25948|Fremont|Fremont CDP
+29|27226|Glasgow Village|Glasgow Village CDP
+29|27658|Golden|Golden CDP
+29|28860|Grayhawk|Grayhawk CDP
+29|28864|Grayridge|Grayridge CDP
+29|28918|Gray Summit|Gray Summit CDP
+29|30772|Hartwell|Hartwell CDP
+29|30844|Harviell|Harviell CDP
+29|31186|Hayward|Hayward CDP
+29|32140|High Ridge|High Ridge CDP
+29|33040|Horine|Horine CDP
+29|33778|Hunter|Hunter CDP
+29|34354|Imperial|Imperial CDP
+29|35486|Irwin|Irwin CDP
+29|39080|Kissee Mills|Kissee Mills CDP
+29|39503|LaBarque Creek|LaBarque Creek CDP
+29|40304|Lake Viking|Lake Viking CDP
+29|40880|La Tour|La Tour CDP
+29|41417|Leisure Lake|Leisure Lake CDP
+29|41438|Lemay|Lemay CDP
+29|47180|Mehlville|Mehlville CDP
+29|48602|Mine La Motte|Mine La Motte CDP
+29|49610|Montier|Montier CDP
+29|50834|Murphy|Murphy CDP
+29|53876|Oakville|Oakville CDP
+29|54352|Old Jamestown|Old Jamestown CDP
+29|55694|Oxly|Oxly CDP
+29|55892|Ozora|Ozora CDP
+29|57332|Phelps City|Phelps City CDP
+29|58574|Plevna|Plevna CDP
+29|58934|Pomona|Pomona CDP
+29|59060|Pontiac|Pontiac CDP
+29|60644|Ravanna|Ravanna CDP
+29|64154|St. Clement|St. Clement CDP
+29|64244|St. Francisville|St. Francisville CDP
+29|65954|Sappington|Sappington CDP
+29|67232|Shell Knob|Shell Knob CDP
+29|68762|South Fork|South Fork CDP
+29|69266|Spanish Lake|Spanish Lake CDP
+29|69518|Spokane|Spokane CDP
+29|71628|Sundown|Sundown CDP
+29|72780|Terre du Lac|Terre du Lac CDP
+29|73006|Thomasville|Thomasville CDP
+29|76192|Villa Ridge|Villa Ridge CDP
+29|77794|Wasola|Wasola CDP
+29|78226|Weingarten|Weingarten CDP
+29|79432|Whiteman AFB|Whiteman AFB CDP
+29|80440|Winigan|Winigan CDP
+29|81088|Wortham|Wortham CDP

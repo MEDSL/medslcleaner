@@ -1,0 +1,84 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+33|00980|Alton|Alton CDP
+33|01220|Amherst|Amherst CDP
+33|01620|Antrim|Antrim CDP
+33|01940|Ashland|Ashland CDP
+33|03620|Bartlett|Bartlett CDP
+33|04660|Belmont|Belmont CDP
+33|04820|Bennington|Bennington CDP
+33|05380|Bethlehem|Bethlehem CDP
+33|06020|Blodgett Landing|Blodgett Landing CDP
+33|06900|Bradford|Bradford CDP
+33|07620|Bristol|Bristol CDP
+33|08900|Canaan|Canaan CDP
+33|10820|Center Ossipee|Center Ossipee CDP
+33|10900|Center Sandwich|Center Sandwich CDP
+33|11300|Charlestown|Charlestown CDP
+33|13700|Colebrook|Colebrook CDP
+33|14340|Contoocook|Contoocook CDP
+33|14580|Conway|Conway CDP
+33|17860|Derry|Derry CDP
+33|19620|Durham|Durham CDP
+33|21780|East Merrimack|East Merrimack CDP
+33|24260|Enfield|Enfield CDP
+33|24580|Epping|Epping CDP
+33|25300|Exeter|Exeter CDP
+33|25940|Farmington|Farmington CDP
+33|29780|Goffstown|Goffstown CDP
+33|30180|Gorham|Gorham CDP
+33|31860|Greenville|Greenville CDP
+33|32260|Groveton|Groveton CDP
+33|32980|Hampton|Hampton CDP
+33|33140|Hampton Beach|Hampton Beach CDP
+33|33620|Hancock|Hancock CDP
+33|33780|Hanover|Hanover CDP
+33|35460|Henniker|Henniker CDP
+33|36020|Hillsborough|Hillsborough CDP
+33|36580|Hinsdale|Hinsdale CDP
+33|37220|Hooksett|Hooksett CDP
+33|37860|Hudson|Hudson CDP
+33|38420|Jaffrey|Jaffrey CDP
+33|40340|Lancaster|Lancaster CDP
+33|41780|Lincoln|Lincoln CDP
+33|41940|Lisbon|Lisbon CDP
+33|42500|Littleton|Littleton CDP
+33|43140|Londonderry|Londonderry CDP
+33|43300|Loudon|Loudon CDP
+33|45380|Marlborough|Marlborough CDP
+33|46980|Melvin Village|Melvin Village CDP
+33|47060|Meredith|Meredith CDP
+33|47940|Milford|Milford CDP
+33|48580|Milton|Milton CDP
+33|48740|Milton Mills|Milton Mills CDP
+33|49600|Mountain Lakes|Mountain Lakes CDP
+33|51300|Newfields|Newfields CDP
+33|51460|New Hampton|New Hampton CDP
+33|52020|New London|New London CDP
+33|52260|Newmarket|Newmarket CDP
+33|52500|Newport|Newport CDP
+33|53860|North Conway|North Conway CDP
+33|56420|North Walpole|North Walpole CDP
+33|57220|North Woodstock|North Woodstock CDP
+33|60500|Peterborough|Peterborough CDP
+33|61220|Pinardville|Pinardville CDP
+33|61860|Pittsfield|Pittsfield CDP
+33|62260|Plainfield|Plainfield CDP
+33|62580|Plymouth|Plymouth CDP
+33|63940|Raymond|Raymond CDP
+33|67460|Sanbornville|Sanbornville CDP
+33|68340|Seabrook Beach|Seabrook Beach CDP
+33|71220|South Hooksett|South Hooksett CDP
+33|74780|Suissevale|Suissevale CDP
+33|75140|Suncook|Suncook CDP
+33|77100|Tilton Northfield|Tilton Northfield CDP
+33|77300|Troy|Troy CDP
+33|77780|Union|Union CDP
+33|78340|Walpole|Walpole CDP
+33|78500|Warner|Warner CDP
+33|83620|West Stewartstown|West Stewartstown CDP
+33|83700|West Swanzey|West Swanzey CDP
+33|84340|Whitefield|Whitefield CDP
+33|85140|Wilton|Wilton CDP
+33|85460|Winchester|Winchester CDP
+33|86340|Wolfeboro|Wolfeboro CDP
+33|87140|Woodsville|Woodsville CDP

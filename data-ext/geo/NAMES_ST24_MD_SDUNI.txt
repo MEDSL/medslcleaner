@@ -1,0 +1,25 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+24|00030|Allegany County Public Schools|Allegany County Public Schools
+24|00060|Anne Arundel County Public Schools|Anne Arundel County Public Schools
+24|00090|Baltimore City Public Schools|Baltimore City Public Schools
+24|00120|Baltimore County Public Schools|Baltimore County Public Schools
+24|00150|Calvert County Public Schools|Calvert County Public Schools
+24|00180|Caroline County Public Schools|Caroline County Public Schools
+24|00210|Carroll County Public Schools|Carroll County Public Schools
+24|00240|Cecil County Public Schools|Cecil County Public Schools
+24|00270|Charles County Public Schools|Charles County Public Schools
+24|00300|Dorchester County Public Schools|Dorchester County Public Schools
+24|00330|Frederick County Public Schools|Frederick County Public Schools
+24|00360|Garrett County Public Schools|Garrett County Public Schools
+24|00390|Harford County Public Schools|Harford County Public Schools
+24|00420|Howard County Public Schools|Howard County Public Schools
+24|00450|Kent County Public Schools|Kent County Public Schools
+24|00480|Montgomery County Public Schools|Montgomery County Public Schools
+24|00510|Prince George's County Public Schools|Prince George's County Public Schools
+24|00540|Queen Annes County Public Schools|Queen Annes County Public Schools
+24|00570|Somerset County Public Schools|Somerset County Public Schools
+24|00600|St. Marys County Public Schools|St. Marys County Public Schools
+24|00630|Talbot County Public Schools|Talbot County Public Schools
+24|00660|Washington County Public Schools|Washington County Public Schools
+24|00690|Wicomico County Public Schools|Wicomico County Public Schools
+24|00720|Worcester County Public Schools|Worcester County Public Schools

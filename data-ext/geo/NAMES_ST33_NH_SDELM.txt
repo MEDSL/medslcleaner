@@ -1,0 +1,89 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+33|01380|Allenstown School District|Allenstown School District
+33|01440|Alton School District|Alton School District
+33|01470|Amherst School District|Amherst School District
+33|01500|Andover School District|Andover School District
+33|01560|Ashland School District|Ashland School District
+33|01590|Auburn School District|Auburn School District
+33|01620|Barnstead School District|Barnstead School District
+33|01650|Barrington School District|Barrington School District
+33|01680|Bartlett School District|Bartlett School District
+33|01710|Bath School District|Bath School District
+33|01740|Bedford School District|Bedford School District
+33|01890|Bethlehem School District|Bethlehem School District
+33|02010|Brentwood School District|Brentwood School District
+33|02070|Brookline School District|Brookline School District
+33|02100|Campton School District|Campton School District
+33|02130|Candia School District|Candia School District
+33|02250|Chester School District|Chester School District
+33|02280|Chesterfield School District|Chesterfield School District
+33|02310|Chichester School District|Chichester School District
+33|02520|Cornish School District|Cornish School District
+33|02550|Croydon School District|Croydon School District
+33|02580|Deerfield School District|Deerfield School District
+33|02610|Derry School District|Derry School District
+33|02760|Dunbarton School District|Dunbarton School District
+33|02790|East Kingston School District|East Kingston School District
+33|02910|Epsom School District|Epsom School District
+33|02940|Errol School District|Errol School District
+33|02970|Exeter School District|Exeter School District
+33|03120|Freedom School District|Freedom School District
+33|03210|Gilmanton School District|Gilmanton School District
+33|03276|Mason School District|Mason School District
+33|03300|Goshen-Lempster Cooperative School District|Goshen-Lempster Cooperative School District
+33|03360|Grantham School District|Grantham School District
+33|03420|Greenland School District|Greenland School District
+33|03510|Hampton School District|Hampton School District
+33|03540|Hampton Falls School District|Hampton Falls School District
+33|03600|Hanover School District|Hanover School District
+33|03630|Harrisville School District|Harrisville School District
+33|03690|Henniker School District|Henniker School District
+33|03720|Hill School District|Hill School District
+33|03810|Holderness School District|Holderness School District
+33|03840|Hollis School District|Hollis School District
+33|03870|Hooksett School District|Hooksett School District
+33|03990|Jackson School District|Jackson School District
+33|04080|Kensington School District|Kensington School District
+33|04150|Lafayette Regional School District|Lafayette Regional School District
+33|04170|Landaff School District|Landaff School District
+33|04500|Lyme School District|Lyme School District
+33|04530|Lyndeborough School District|Lyndeborough School District
+33|04560|Madison School District|Madison School District
+33|04620|Marlborough School District|Marlborough School District
+33|04650|Marlow School District|Marlow School District
+33|04800|Milan School District|Milan School District
+33|04920|Monroe School District|Monroe School District
+33|04950|Mont Vernon School District|Mont Vernon School District
+33|05010|Nelson School District|Nelson School District
+33|05040|New Boston School District|New Boston School District
+33|05070|New Castle School District|New Castle School District
+33|05190|Newfields School District|Newfields School District
+33|05250|Newington School District|Newington School District
+33|05370|North Hampton School District|North Hampton School District
+33|05430|Northwood School District|Northwood School District
+33|05460|Nottingham School District|Nottingham School District
+33|05670|Piermont School District|Piermont School District
+33|05760|Plainfield School District|Plainfield School District
+33|05790|Plymouth School District|Plymouth School District
+33|05970|Rollinsford School District|Rollinsford School District
+33|06000|Rumney School District|Rumney School District
+33|06030|Rye School District|Rye School District
+33|06150|Seabrook School District|Seabrook School District
+33|06270|South Hampton School District|South Hampton School District
+33|06330|Stark School District|Stark School District
+33|06360|Stewartstown School District|Stewartstown School District
+33|06390|Stoddard School District|Stoddard School District
+33|06420|Strafford School District|Strafford School District
+33|06480|Stratham School District|Stratham School District
+33|06600|Tamworth School District|Tamworth School District
+33|06660|Thornton School District|Thornton School District
+33|06750|Unity School District|Unity School District
+33|06780|Wakefield School District|Wakefield School District
+33|06870|Warren School District|Warren School District
+33|06900|Washington School District|Washington School District
+33|06910|Waterville Valley School District|Waterville Valley School District
+33|06930|Weare School District|Weare School District
+33|06990|Wentworth School District|Wentworth School District
+33|07020|Westmoreland School District|Westmoreland School District
+33|07110|Wilton School District|Wilton School District
+33|07140|Winchester School District|Winchester School District

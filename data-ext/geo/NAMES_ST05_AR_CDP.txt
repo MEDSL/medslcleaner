@@ -1,0 +1,40 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+05|03010|Avilla|Avilla CDP
+05|12790|Center Ridge|Center Ridge CDP
+05|13420|Cherokee City|Cherokee City CDP
+05|14860|College Station|College Station CDP
+05|18340|Dennard|Dennard CDP
+05|20470|East End|East End CDP
+05|26710|Gibson|Gibson CDP
+05|29320|Hagarville|Hagarville CDP
+05|31390|Hensley|Hensley CDP
+05|32535|Hiwasse|Hiwasse CDP
+05|32650|Holiday Island|Holiday Island CDP
+05|33482|Hot Springs Village|Hot Springs Village CDP
+05|37060|Kirby|Kirby CDP
+05|37930|Lake Hamilton|Lake Hamilton CDP
+05|38540|Landmark|Landmark CDP
+05|41555|Lost Bridge Village|Lost Bridge Village CDP
+05|42350|McAlmont|McAlmont CDP
+05|44810|Maysville|Maysville CDP
+05|45530|Midway|Midway CDP
+05|48680|Natural Steps|Natural Steps CDP
+05|49070|New Blaine|New Blaine CDP
+05|49220|New Edinburg|New Edinburg CDP
+05|50240|North Crossett|North Crossett CDP
+05|55610|Piney|Piney CDP
+05|57125|Prairie Creek|Prairie Creek CDP
+05|58400|Reader|Reader CDP
+05|60110|Rockwell|Rockwell CDP
+05|60470|Roland|Roland CDP
+05|61730|Rye|Rye CDP
+05|62210|Salem|Salem CDP
+05|62900|Scott|Scott CDP
+05|66800|Staves|Staves CDP
+05|67790|Sulphur Springs|Sulphur Springs CDP
+05|68330|Sweet Home|Sweet Home CDP
+05|70310|Tumbling Shoals|Tumbling Shoals CDP
+05|74270|West Crossett|West Crossett CDP
+05|76690|Woodlawn|Woodlawn CDP
+05|76730|Woodson|Woodson CDP
+05|77203|Yarborough Landing|Yarborough Landing CDP

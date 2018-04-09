@@ -1,0 +1,90 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+35|00001|Vaughn Municipal Schools|Vaughn Municipal Schools
+35|00010|Rio Rancho Public Schools|Rio Rancho Public Schools
+35|00030|Alamogordo Public Schools|Alamogordo Public Schools
+35|00060|Albuquerque Public Schools|Albuquerque Public Schools
+35|00090|Animas Public Schools|Animas Public Schools
+35|00120|Artesia Public Schools|Artesia Public Schools
+35|00150|Aztec Municipal Schools|Aztec Municipal Schools
+35|00180|Belen Consolidated Schools|Belen Consolidated Schools
+35|00210|Bernalillo Public Schools|Bernalillo Public Schools
+35|00240|Bloomfield Municipal Schools|Bloomfield Municipal Schools
+35|00270|Capitan Municipal Schools|Capitan Municipal Schools
+35|00300|Carlsbad Municipal Schools|Carlsbad Municipal Schools
+35|00330|Carrizozo Municipal Schools|Carrizozo Municipal Schools
+35|00390|Central Consolidated Schools|Central Consolidated Schools
+35|00420|Chama Valley Independent Schools|Chama Valley Independent Schools
+35|00480|Cimarron Public Schools|Cimarron Public Schools
+35|00510|Clayton Public Schools|Clayton Public Schools
+35|00540|Cloudcroft Municipal Schools|Cloudcroft Municipal Schools
+35|00570|Clovis Municipal Schools|Clovis Municipal Schools
+35|00600|Cobre Consolidated Schools|Cobre Consolidated Schools
+35|00630|Corona Municipal Schools|Corona Municipal Schools
+35|00660|Cuba Independent Schools|Cuba Independent Schools
+35|00690|Deming Public Schools|Deming Public Schools
+35|00720|Des Moines Municipal Schools|Des Moines Municipal Schools
+35|00750|Dexter Consolidated Schools|Dexter Consolidated Schools
+35|00790|Dora Consolidated Schools|Dora Consolidated Schools
+35|00810|Dulce Independent Schools|Dulce Independent Schools
+35|00840|Elida Municipal Schools|Elida Municipal Schools
+35|00900|Española Municipal Schools|Española Municipal Schools
+35|00930|Estancia Municipal Schools|Estancia Municipal Schools
+35|00960|Eunice Municipal Schools|Eunice Municipal Schools
+35|00990|Farmington Municipal Schools|Farmington Municipal Schools
+35|01020|Floyd Municipal Schools|Floyd Municipal Schools
+35|01050|Fort Sumner Municipal Schools|Fort Sumner Municipal Schools
+35|01080|Gadsden Independent Schools|Gadsden Independent Schools
+35|01110|Gallup-Mckinley County Schools|Gallup-Mckinley County Schools
+35|01140|Grady Municipal Schools|Grady Municipal Schools
+35|01170|Grants-Cibola County Schools|Grants-Cibola County Schools
+35|01200|Hagerman Municipal Schools|Hagerman Municipal Schools
+35|01230|Hatch Valley Municipal Schools|Hatch Valley Municipal Schools
+35|01260|Hobbs Municipal Schools|Hobbs Municipal Schools
+35|01290|Hondo Valley Public Schools|Hondo Valley Public Schools
+35|01320|House Municipal Schools|House Municipal Schools
+35|01350|Jal Public Schools|Jal Public Schools
+35|01380|Jemez Mountain Public Schools|Jemez Mountain Public Schools
+35|01410|Jemez Valley Public Schools|Jemez Valley Public Schools
+35|01470|Lake Arthur Municipal Schools|Lake Arthur Municipal Schools
+35|01500|Las Cruces Public Schools|Las Cruces Public Schools
+35|01530|Las Vegas City Public Schools|Las Vegas City Public Schools
+35|01560|West Las Vegas Public Schools|West Las Vegas Public Schools
+35|01590|Logan Municipal Schools|Logan Municipal Schools
+35|01620|Lordsburg Municipal Schools|Lordsburg Municipal Schools
+35|01650|Los Alamos Public Schools|Los Alamos Public Schools
+35|01680|Los Lunas Public Schools|Los Lunas Public Schools
+35|01710|Loving Municipal Schools|Loving Municipal Schools
+35|01740|Lovington Public Schools|Lovington Public Schools
+35|01770|Magdalena Municipal Schools|Magdalena Municipal Schools
+35|01800|Maxwell Municipal Schools|Maxwell Municipal Schools
+35|01830|Melrose Public Schools|Melrose Public Schools
+35|01860|Mora Independent Schools|Mora Independent Schools
+35|01890|Moriarty Municipal Schools|Moriarty Municipal Schools
+35|01920|Mosquero Municipal Schools|Mosquero Municipal Schools
+35|01950|Mountainair Public Schools|Mountainair Public Schools
+35|01980|Mesa Vista Consolidated Schools|Mesa Vista Consolidated Schools
+35|02010|Pecos Independent Schools|Pecos Independent Schools
+35|02040|Peñasco Independent Schools|Peñasco Independent Schools
+35|02070|Pojoaque Valley Public Schools|Pojoaque Valley Public Schools
+35|02100|Portales Municipal Schools|Portales Municipal Schools
+35|02130|Quemado Independent Schools|Quemado Independent Schools
+35|02160|Questa Independent Schools|Questa Independent Schools
+35|02190|Raton Public Schools|Raton Public Schools
+35|02220|Reserve Independent Schools|Reserve Independent Schools
+35|02250|Roswell Independent Schools|Roswell Independent Schools
+35|02280|Roy Municipal Schools|Roy Municipal Schools
+35|02310|Ruidoso Municipal Schools|Ruidoso Municipal Schools
+35|02340|San Jon Municipal Schools|San Jon Municipal Schools
+35|02370|Santa Fe Public Schools|Santa Fe Public Schools
+35|02400|Santa Rosa Consolidated Schools|Santa Rosa Consolidated Schools
+35|02430|Silver City Consolidated Schools|Silver City Consolidated Schools
+35|02460|Socorro Consolidated Schools|Socorro Consolidated Schools
+35|02490|Springer Municipal Schools|Springer Municipal Schools
+35|02520|Taos Municipal Schools|Taos Municipal Schools
+35|02550|Tatum Municipal Schools|Tatum Municipal Schools
+35|02580|Texico Municipal Schools|Texico Municipal Schools
+35|02610|Truth or Consequences Schools|Truth or Consequences Schools
+35|02640|Tucumcari Public Schools|Tucumcari Public Schools
+35|02670|Tularosa Municipal Schools|Tularosa Municipal Schools
+35|02730|Wagon Mound Public Schools|Wagon Mound Public Schools
+35|02800|Zuni Public Schools|Zuni Public Schools

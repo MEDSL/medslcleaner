@@ -1,0 +1,80 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+46|00520|Agency Village|Agency Village CDP
+46|00900|Allen|Allen CDP
+46|01450|Anderson|Anderson CDP
+46|01740|Antelope|Antelope CDP
+46|02530|Ashland Heights|Ashland Heights CDP
+46|02860|Aurora Center|Aurora Center CDP
+46|03900|Bath|Bath CDP
+46|03960|Bath Corner|Bath Corner CDP
+46|05580|Bijou Hills|Bijou Hills CDP
+46|05780|Blackhawk|Blackhawk CDP
+46|06120|Blucksberg Mountain|Blucksberg Mountain CDP
+46|07040|Brant Lake|Brant Lake CDP
+46|08460|Bullhead|Bullhead CDP
+46|11660|Chester|Chester CDP
+46|13355|Colonial Pine Hills|Colonial Pine Hills CDP
+46|13840|Corn Creek|Corn Creek CDP
+46|14320|Cow Creek|Cow Creek CDP
+46|14660|Crocker|Crocker CDP
+46|15250|Dakota Dunes|Dakota Dunes CDP
+46|21340|Fedora|Fedora CDP
+46|21380|Ferney|Ferney CDP
+46|22100|Forestburg|Forestburg CDP
+46|22340|Fort Thompson|Fort Thompson CDP
+46|23421|Gann Valley|Gann Valley CDP
+46|24775|Goodwill|Goodwill CDP
+46|25900|Green Grass|Green Grass CDP
+46|26035|Green Valley|Green Valley CDP
+46|26660|Hamill|Hamill CDP
+46|27300|Harrison|Harrison CDP
+46|32820|Johnson Siding|Johnson Siding CDP
+46|33380|Kaylor|Kaylor CDP
+46|33900|Kidder|Kidder CDP
+46|34460|Kyle|Kyle CDP
+46|35430|Lake Madison|Lake Madison CDP
+46|35480|Lake Poinsett|Lake Poinsett CDP
+46|35940|La Plant|La Plant CDP
+46|37900|Little Eagle|Little Eagle CDP
+46|38760|Long Hollow|Long Hollow CDP
+46|39020|Loomis|Loomis CDP
+46|39180|Lower Brule|Lower Brule CDP
+46|40550|Manderson-White Horse Creek|Manderson-White Horse Creek CDP
+46|40580|Mansfield|Mansfield CDP
+46|41180|Marty|Marty CDP
+46|41680|Meadow View Addition|Meadow View Addition CDP
+46|42620|Milltown|Milltown CDP
+46|43780|Morningside|Morningside CDP
+46|44940|New Holland|New Holland CDP
+46|45420|Norris|Norris CDP
+46|45548|North Eagle Butte|North Eagle Butte CDP
+46|45715|North Spearfish|North Spearfish CDP
+46|46540|Oglala|Oglala CDP
+46|46620|Okaton|Okaton CDP
+46|46660|Okreek|Okreek CDP
+46|46700|Ola|Ola CDP
+46|48500|Parmelee|Parmelee CDP
+46|49640|Pine Lakes Addition|Pine Lakes Addition CDP
+46|49660|Pine Ridge|Pine Ridge CDP
+46|51340|Porcupine|Porcupine CDP
+46|51660|Prairie City|Prairie City CDP
+46|53007|Rapid Valley|Rapid Valley CDP
+46|54145|Renner Corner|Renner Corner CDP
+46|54750|Richland|Richland CDP
+46|55940|Rosebud|Rosebud CDP
+46|56820|Running Water|Running Water CDP
+46|57060|St. Charles|St. Charles CDP
+46|57260|St. Onge|St. Onge CDP
+46|58590|Shindler|Shindler CDP
+46|59700|Soldier Creek|Soldier Creek CDP
+46|60500|Spring Creek|Spring Creek CDP
+46|61940|Storla|Storla CDP
+46|64840|Two Strike|Two Strike CDP
+46|65900|Vale|Vale CDP
+46|67620|Vivian|Vivian CDP
+46|68580|Wanblee|Wanblee CDP
+46|69420|Waverly|Waverly CDP
+46|71140|Whitehorse|Whitehorse CDP
+46|71150|White Horse|White Horse CDP
+46|72100|Winfred|Winfred CDP
+46|72900|Wounded Knee|Wounded Knee CDP

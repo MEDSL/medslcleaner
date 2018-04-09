@@ -1,0 +1,8 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+01|01|1|Congressional District 1
+01|02|2|Congressional District 2
+01|03|3|Congressional District 3
+01|04|4|Congressional District 4
+01|05|5|Congressional District 5
+01|06|6|Congressional District 6
+01|07|7|Congressional District 7

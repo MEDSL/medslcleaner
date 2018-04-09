@@ -1,0 +1,90 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+13|06884|Belvedere Park|Belvedere Park CDP
+13|09272|Bonanza|Bonanza CDP
+13|09852|Boykin|Boykin CDP
+13|12484|Calvary|Calvary CDP
+13|12834|Candler-McAfee|Candler-McAfee CDP
+13|12960|Canoochee|Canoochee CDP
+13|14472|Cedar Springs|Cedar Springs CDP
+13|15585|Chattanooga Valley|Chattanooga Valley CDP
+13|15844|Cherry Log|Cherry Log CDP
+13|17580|Coleman|Coleman CDP
+13|19280|Conley|Conley CDP
+13|19830|Country Club Estates|Country Club Estates CDP
+13|20550|Crooked Creek|Crooked Creek CDP
+13|22080|Deenwood|Deenwood CDP
+13|22724|Dewy Rose|Dewy Rose CDP
+13|23200|Dock Junction|Dock Junction CDP
+13|24264|Druid Hills|Druid Hills CDP
+13|24876|Dutch Island|Dutch Island CDP
+13|24964|Eagle Grove|Eagle Grove CDP
+13|25440|East Griffin|East Griffin CDP
+13|25692|East Newnan|East Newnan CDP
+13|27512|Empire|Empire CDP
+13|27736|Epworth|Epworth CDP
+13|28044|Evans|Evans CDP
+13|28296|Experiment|Experiment CDP
+13|28520|Fair Oaks|Fair Oaks CDP
+13|28632|Fairview|Fairview CDP
+13|31068|Fort Stewart|Fort Stewart CDP
+13|32482|Georgetown|Georgetown CDP
+13|35240|Gresham Park|Gresham Park CDP
+13|35814|Gumlog|Gumlog CDP
+13|36416|Hannahs Mill|Hannahs Mill CDP
+13|36668|Hardwick|Hardwick CDP
+13|37910|Henderson|Henderson CDP
+13|38105|Heron Bay|Heron Bay CDP
+13|38866|Hilltop|Hilltop CDP
+13|40196|Howard|Howard CDP
+13|41036|Indian Springs|Indian Springs CDP
+13|41347|Irondale|Irondale CDP
+13|41484|Isle of Hope|Isle of Hope CDP
+13|43580|Kings Bay Base|Kings Bay Base CDP
+13|44060|Knoxville|Knoxville CDP
+13|44900|Lakeview|Lakeview CDP
+13|44956|Lakeview Estates|Lakeview Estates CDP
+13|46524|Lincoln Park|Lincoln Park CDP
+13|46580|Lindale|Lindale CDP
+13|46832|Lithia Springs|Lithia Springs CDP
+13|48288|Mableton|Mableton CDP
+13|50036|Martinez|Martinez CDP
+13|50176|Matthews|Matthews CDP
+13|50820|Mendes|Mendes CDP
+13|51744|Mineral Bluff|Mineral Bluff CDP
+13|52332|Montgomery|Montgomery CDP
+13|52556|Moody AFB|Moody AFB CDP
+13|53186|Mountain Park|Mountain Park CDP
+13|55944|Norristown|Norristown CDP
+13|56000|North Atlanta|North Atlanta CDP
+13|56112|North Decatur|North Decatur CDP
+13|56168|North Druid Hills|North Druid Hills CDP
+13|59080|Panthersville|Panthersville CDP
+13|60312|Perkins|Perkins CDP
+13|60508|Phillipsburg|Phillipsburg CDP
+13|63084|Putney|Putney CDP
+13|63588|Raoul|Raoul CDP
+13|63952|Redan|Redan CDP
+13|64288|Reed Creek|Reed Creek CDP
+13|65968|Robins AFB|Robins AFB CDP
+13|66220|Rockingham|Rockingham CDP
+13|67676|Russell|Russell CDP
+13|68040|St. Simons|St. Simons CDP
+13|68129|Salem|Salem CDP
+13|68805|Satilla|Satilla CDP
+13|68880|Sautee Nacoochee|Sautee Nacoochee CDP
+13|69392|Scottdale|Scottdale CDP
+13|69728|Seville|Seville CDP
+13|69868|Shannon|Shannon CDP
+13|71184|Skidaway Island|Skidaway Island CDP
+13|73200|Statenville|Statenville CDP
+13|74628|Sunnyside|Sunnyside CDP
+13|74768|Sunset Village|Sunset Village CDP
+13|75239|Talahi Island|Talahi Island CDP
+13|75580|Tate City|Tate City CDP
+13|76112|The Rock|The Rock CDP
+13|77652|Tucker|Tucker CDP
+13|78464|Unionville|Unionville CDP
+13|79612|Vinings|Vinings CDP
+13|82636|Whitemarsh Island|Whitemarsh Island CDP
+13|83168|Wilmington Island|Wilmington Island CDP
+13|84832|Yonah|Yonah CDP

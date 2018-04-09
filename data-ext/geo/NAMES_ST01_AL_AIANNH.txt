@@ -1,0 +1,9 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+01|2865|Poarch Creek|Poarch Creek Reservation and Off-Reservation Trust Land
+01|9240|MOWA Choctaw|MOWA Choctaw (state) Reservation
+01|9550|Cher-O-Creek|Cher-O-Creek SDTSA
+01|9560|Cherokee Tribe of Northeast Alabama|Cherokee Tribe of Northeast Alabama SDTSA
+01|9680|Echota Cherokee|Echota Cherokee SDTSA
+01|9820|MaChis Lower Creek|MaChis Lower Creek SDTSA
+01|9880|Star Muskogee Creek|Star Muskogee Creek SDTSA
+01|9950|United Cherokee Ani-Yun-Wiya Nation|United Cherokee Ani-Yun-Wiya Nation SDTSA

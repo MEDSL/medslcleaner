@@ -1,0 +1,3 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+08|3925|Southern Ute|Southern Ute Reservation
+08|4470|Ute Mountain|Ute Mountain Reservation and Off-Reservation Trust Land

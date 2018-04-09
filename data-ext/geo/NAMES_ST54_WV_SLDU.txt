@@ -1,0 +1,17 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+54|001|1|State Senate District 1
+54|002|2|State Senate District 2
+54|003|3|State Senate District 3
+54|004|4|State Senate District 4
+54|005|5|State Senate District 5
+54|006|6|State Senate District 6
+54|007|7|State Senate District 7
+54|009|9|State Senate District 9
+54|010|10|State Senate District 10
+54|011|11|State Senate District 11
+54|012|12|State Senate District 12
+54|013|13|State Senate District 13
+54|014|14|State Senate District 14
+54|015|15|State Senate District 15
+54|016|16|State Senate District 16
+54|817|817|State Senate District 817

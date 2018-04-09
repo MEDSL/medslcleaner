@@ -1,0 +1,158 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+24|00125|Aberdeen|Aberdeen city
+24|00225|Accident|Accident town
+24|01600|Annapolis|Annapolis city
+24|04000|Baltimore|Baltimore city
+24|04250|Barclay|Barclay town
+24|04475|Barnesville|Barnesville town
+24|04625|Barton|Barton town
+24|05550|Bel Air|Bel Air town
+24|06800|Berlin|Berlin town
+24|06925|Berwyn Heights|Berwyn Heights town
+24|07200|Betterton|Betterton town
+24|07850|Bladensburg|Bladensburg town
+24|08625|Boonsboro|Boonsboro town
+24|08775|Bowie|Bowie city
+24|09500|Brentwood|Brentwood town
+24|10225|Brookeville|Brookeville town
+24|10575|Brookview|Brookview town
+24|10900|Brunswick|Brunswick city
+24|11400|Burkittsville|Burkittsville town
+24|12400|Cambridge|Cambridge city
+24|13000|Capitol Heights|Capitol Heights town
+24|14325|Cecilton|Cecilton town
+24|14950|Centreville|Centreville town
+24|15400|Charlestown|Charlestown town
+24|15925|Chesapeake Beach|Chesapeake Beach town
+24|15950|Chesapeake City|Chesapeake City town
+24|16225|Chestertown|Chestertown town
+24|16550|Cheverly|Cheverly town
+24|16620|Chevy Chase|Chevy Chase town
+24|16720|Chevy Chase Section Five|Chevy Chase Section Five village
+24|16730|Chevy Chase Section Three|Chevy Chase Section Three village
+24|16775|Chevy Chase View|Chevy Chase View town
+24|16787|Chevy Chase Village|Chevy Chase Village town
+24|17050|Church Creek|Church Creek town
+24|17100|Church Hill|Church Hill town
+24|17600|Clear Spring|Clear Spring town
+24|18750|College Park|College Park city
+24|18850|Colmar Manor|Colmar Manor town
+24|20050|Cottage City|Cottage City town
+24|20775|Crisfield|Crisfield city
+24|21325|Cumberland|Cumberland city
+24|22275|Deer Park|Deer Park town
+24|22600|Delmar|Delmar town
+24|22725|Denton|Denton town
+24|23025|District Heights|District Heights city
+24|24200|Eagle Harbor|Eagle Harbor town
+24|24450|East New Market|East New Market town
+24|24475|Easton|Easton town
+24|25425|Edmonston|Edmonston town
+24|25600|Eldorado|Eldorado town
+24|25800|Elkton|Elkton town
+24|26200|Emmitsburg|Emmitsburg town
+24|27400|Fairmount Heights|Fairmount Heights town
+24|27900|Federalsburg|Federalsburg town
+24|28725|Forest Heights|Forest Heights town
+24|30325|Frederick|Frederick city
+24|30850|Friendsville|Friendsville town
+24|30900|Frostburg|Frostburg city
+24|30950|Fruitland|Fruitland city
+24|31100|Funkstown|Funkstown town
+24|31175|Gaithersburg|Gaithersburg city
+24|31225|Galena|Galena town
+24|31250|Galestown|Galestown town
+24|31525|Garrett Park|Garrett Park town
+24|32500|Glenarden|Glenarden city
+24|32900|Glen Echo|Glen Echo town
+24|33950|Goldsboro|Goldsboro town
+24|34525|Grantsville|Grantsville town
+24|34775|Greenbelt|Greenbelt city
+24|35200|Greensboro|Greensboro town
+24|36075|Hagerstown|Hagerstown city
+24|36500|Hampstead|Hampstead town
+24|36600|Hancock|Hancock town
+24|37600|Havre de Grace|Havre de Grace city
+24|37875|Hebron|Hebron town
+24|37925|Henderson|Henderson town
+24|38500|Highland Beach|Highland Beach town
+24|39175|Hillsboro|Hillsboro town
+24|41125|Hurlock|Hurlock town
+24|41250|Hyattsville|Hyattsville city
+24|41500|Indian Head|Indian Head town
+24|43100|Keedysville|Keedysville town
+24|43500|Kensington|Kensington town
+24|44450|Kitzmiller|Kitzmiller town
+24|45400|Landover Hills|Landover Hills town
+24|45750|La Plata|La Plata town
+24|45900|Laurel|Laurel city
+24|46250|Laytonsville|Laytonsville town
+24|46475|Leonardtown|Leonardtown town
+24|47525|Loch Lynn Heights|Loch Lynn Heights town
+24|47875|Lonaconing|Lonaconing town
+24|48775|Luke|Luke town
+24|49950|Manchester|Manchester town
+24|50525|Mardela Springs|Mardela Springs town
+24|50965|Martin's Additions|Martin's Additions village
+24|51025|Marydel|Marydel town
+24|52425|Middletown|Middletown town
+24|52475|Midland|Midland town
+24|52825|Millington|Millington town
+24|53625|Morningside|Morningside town
+24|53800|Mountain Lake Park|Mountain Lake Park town
+24|53875|Mount Airy|Mount Airy town
+24|54275|Mount Rainier|Mount Rainier city
+24|54875|Myersville|Myersville town
+24|55400|New Carrollton|New Carrollton city
+24|55650|New Market|New Market town
+24|55925|New Windsor|New Windsor town
+24|56300|North Beach|North Beach town
+24|56375|North Brentwood|North Brentwood town
+24|56400|North Chevy Chase|North Chevy Chase village
+24|56450|North East|North East town
+24|57650|Oakland|Oakland town
+24|58225|Ocean City|Ocean City town
+24|59450|Oxford|Oxford town
+24|61150|Perryville|Perryville town
+24|62025|Pittsville|Pittsville town
+24|62475|Pocomoke City|Pocomoke City city
+24|62850|Poolesville|Poolesville town
+24|63075|Port Deposit|Port Deposit town
+24|63225|Port Tobacco Village|Port Tobacco Village town
+24|63825|Preston|Preston town
+24|64000|Princess Anne|Princess Anne town
+24|64500|Queen Anne|Queen Anne town
+24|64600|Queenstown|Queenstown town
+24|66000|Ridgely|Ridgely town
+24|66275|Rising Sun|Rising Sun town
+24|66635|Riverdale Park|Riverdale Park town
+24|67400|Rock Hall|Rock Hall town
+24|67675|Rockville|Rockville city
+24|68600|Rosemont|Rosemont village
+24|69825|St. Michaels|St. Michaels town
+24|69925|Salisbury|Salisbury city
+24|70850|Seat Pleasant|Seat Pleasant city
+24|70900|Secretary|Secretary town
+24|71600|Sharpsburg|Sharpsburg town
+24|71650|Sharptown|Sharptown town
+24|72900|Smithsburg|Smithsburg town
+24|73075|Snow Hill|Snow Hill town
+24|73350|Somerset|Somerset town
+24|75650|Sudlersville|Sudlersville town
+24|76550|Sykesville|Sykesville town
+24|76650|Takoma Park|Takoma Park city
+24|76725|Taneytown|Taneytown city
+24|77200|Templeville|Templeville town
+24|77825|Thurmont|Thurmont town
+24|78575|Trappe|Trappe town
+24|79350|Union Bridge|Union Bridge town
+24|79675|University Park|University Park town
+24|79875|Upper Marlboro|Upper Marlboro town
+24|80600|Vienna|Vienna town
+24|81275|Walkersville|Walkersville town
+24|81675|Washington Grove|Washington Grove town
+24|82750|Westernport|Westernport town
+24|83100|Westminster|Westminster city
+24|84950|Willards|Willards town
+24|85100|Williamsport|Williamsport town
+24|86750|Woodsboro|Woodsboro town

@@ -1,0 +1,45 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+38|03740|Auburn|Auburn CDP
+38|05220|Barton|Barton CDP
+38|05740|Belcourt|Belcourt CDP
+38|07620|Blanchard|Blanchard CDP
+38|09830|Brooktree Park|Brooktree Park CDP
+38|11500|Caledonia|Caledonia CDP
+38|12020|Cannon Ball|Cannon Ball CDP
+38|17620|Dahlen|Dahlen CDP
+38|18820|De Lamere|De Lamere CDP
+38|19060|Denhoff|Denhoff CDP
+38|20500|Driscoll|Driscoll CDP
+38|21520|East Dunseith|East Dunseith CDP
+38|21580|East Fairview|East Fairview CDP
+38|24020|Embden|Embden CDP
+38|24380|Englevale|Englevale CDP
+38|24620|Erie|Erie CDP
+38|27700|Fort Totten|Fort Totten CDP
+38|27950|Four Bears Village|Four Bears Village CDP
+38|27980|Foxholm|Foxholm CDP
+38|32140|Grand Forks AFB|Grand Forks AFB CDP
+38|33050|Green Acres|Green Acres CDP
+38|35500|Harmon|Harmon CDP
+38|36980|Heil|Heil CDP
+38|37020|Heimdal|Heimdal CDP
+38|40740|Jessie|Jessie CDP
+38|45220|Larson|Larson CDP
+38|47540|Logan|Logan CDP
+38|49540|McLeod|McLeod CDP
+38|49980|Mandaree|Mandaree CDP
+38|50220|Manning|Manning CDP
+38|52180|Menoken|Menoken CDP
+38|53420|Minot AFB|Minot AFB CDP
+38|55500|Nash|Nash CDP
+38|59820|Orrin|Orrin CDP
+38|63700|Porcupine|Porcupine CDP
+38|65100|Raleigh|Raleigh CDP
+38|69300|Ruthville|Ruthville CDP
+38|71700|Selz|Selz CDP
+38|72250|Shell Valley|Shell Valley CDP
+38|74660|Spiritwood|Spiritwood CDP
+38|77260|Sutton|Sutton CDP
+38|85180|Wheatland|Wheatland CDP
+38|85660|White Shield|White Shield CDP
+38|88020|Ypsilanti|Ypsilanti CDP

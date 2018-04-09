@@ -1,0 +1,246 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+49|00540|Alpine|Alpine city
+49|00650|Alta|Alta town
+49|00760|Altamont|Altamont town
+49|00870|Alton|Alton town
+49|01090|Amalga|Amalga town
+49|01310|American Fork|American Fork city
+49|01750|Annabella|Annabella town
+49|01860|Antimony|Antimony town
+49|01905|Apple Valley|Apple Valley town
+49|02740|Aurora|Aurora city
+49|03345|Ballard|Ballard town
+49|03950|Bear River City|Bear River City city
+49|04060|Beaver|Beaver city
+49|05490|Bicknell|Bicknell town
+49|05534|Big Water|Big Water town
+49|06370|Blanding|Blanding city
+49|06810|Bluffdale|Bluffdale city
+49|07470|Boulder|Boulder town
+49|07690|Bountiful|Bountiful city
+49|08020|Brian Head|Brian Head town
+49|08460|Brigham City|Brigham City city
+49|08787|Bryce Canyon City|Bryce Canyon City town
+49|10330|Cannonville|Cannonville town
+49|10660|Castle Dale|Castle Dale city
+49|11000|Castle Valley|Castle Valley town
+49|11320|Cedar City|Cedar City city
+49|11430|Cedar Fort|Cedar Fort town
+49|11440|Cedar Hills|Cedar Hills city
+49|11870|Centerfield|Centerfield town
+49|11980|Centerville|Centerville city
+49|12260|Central Valley|Central Valley town
+49|12420|Charleston|Charleston town
+49|12970|Circleville|Circleville town
+49|13190|Clarkston|Clarkston town
+49|13300|Clawson|Clawson town
+49|13850|Clearfield|Clearfield city
+49|14070|Cleveland|Cleveland town
+49|14290|Clinton|Clinton city
+49|14840|Coalville|Coalville city
+49|15830|Corinne|Corinne city
+49|15940|Cornish|Cornish town
+49|16270|Cottonwood Heights|Cottonwood Heights city
+49|18140|Daniel|Daniel town
+49|18910|Delta|Delta city
+49|19680|Deweyville|Deweyville town
+49|20120|Draper|Draper city
+49|20340|Duchesne|Duchesne city
+49|20810|Eagle Mountain|Eagle Mountain city
+49|20890|East Carbon|East Carbon city
+49|22370|Elk Ridge|Elk Ridge city
+49|22540|Elmo|Elmo town
+49|22650|Elsinore|Elsinore town
+49|22760|Elwood|Elwood town
+49|22870|Emery|Emery town
+49|23200|Enoch|Enoch city
+49|23420|Enterprise|Enterprise city
+49|23530|Ephraim|Ephraim city
+49|23750|Escalante|Escalante city
+49|24080|Eureka|Eureka city
+49|24410|Fairfield|Fairfield town
+49|24630|Fairview|Fairview city
+49|24740|Farmington|Farmington city
+49|24850|Farr West|Farr West city
+49|25070|Fayette|Fayette town
+49|25180|Ferron|Ferron city
+49|25290|Fielding|Fielding town
+49|25510|Fillmore|Fillmore city
+49|26720|Fountain Green|Fountain Green city
+49|26940|Francis|Francis town
+49|27490|Fruit Heights|Fruit Heights city
+49|27930|Garden City|Garden City town
+49|28150|Garland|Garland city
+49|28810|Genola|Genola town
+49|29360|Glendale|Glendale town
+49|29580|Glenwood|Glenwood town
+49|30130|Goshen|Goshen town
+49|31120|Grantsville|Grantsville city
+49|31670|Green River|Green River city
+49|32660|Gunnison|Gunnison city
+49|33100|Hanksville|Hanksville town
+49|33540|Harrisville|Harrisville city
+49|33760|Hatch|Hatch town
+49|34200|Heber|Heber city
+49|34530|Helper|Helper city
+49|34640|Henefer|Henefer town
+49|34750|Henrieville|Henrieville town
+49|34970|Herriman|Herriman city
+49|35120|Hideout|Hideout town
+49|35190|Highland|Highland city
+49|35300|Hildale|Hildale city
+49|35740|Hinckley|Hinckley town
+49|35960|Holden|Holden town
+49|36070|Holladay|Holladay city
+49|36290|Honeyville|Honeyville city
+49|36400|Hooper|Hooper city
+49|36620|Howell|Howell town
+49|36950|Huntington|Huntington city
+49|37060|Huntsville|Huntsville town
+49|37170|Hurricane|Hurricane city
+49|37390|Hyde Park|Hyde Park city
+49|37500|Hyrum|Hyrum city
+49|37690|Independence|Independence town
+49|38710|Ivins|Ivins city
+49|39370|Joseph|Joseph town
+49|39590|Junction|Junction town
+49|39810|Kamas|Kamas city
+49|39920|Kanab|Kanab city
+49|40030|Kanarraville|Kanarraville town
+49|40250|Kanosh|Kanosh town
+49|40360|Kaysville|Kaysville city
+49|41350|Kingston|Kingston town
+49|41680|Koosharem|Koosharem town
+49|42560|Laketown|Laketown town
+49|43440|La Verkin|La Verkin city
+49|43660|Layton|Layton city
+49|43880|Leamington|Leamington town
+49|44100|Leeds|Leeds town
+49|44320|Lehi|Lehi city
+49|44650|Levan|Levan town
+49|44760|Lewiston|Lewiston city
+49|45090|Lindon|Lindon city
+49|45530|Loa|Loa town
+49|45860|Logan|Logan city
+49|46410|Lyman|Lyman town
+49|46740|Lynndyl|Lynndyl town
+49|47620|Manila|Manila town
+49|47730|Manti|Manti city
+49|47840|Mantua|Mantua town
+49|47950|Mapleton|Mapleton city
+49|48300|Marriott-Slaterville|Marriott-Slaterville city
+49|48610|Marysvale|Marysvale town
+49|48720|Mayfield|Mayfield town
+49|48830|Meadow|Meadow town
+49|49160|Mendon|Mendon city
+49|49710|Midvale|Midvale city
+49|49820|Midway|Midway city
+49|50040|Milford|Milford city
+49|50370|Millville|Millville city
+49|50590|Minersville|Minersville town
+49|50700|Moab|Moab city
+49|51140|Mona|Mona city
+49|51360|Monroe|Monroe city
+49|51580|Monticello|Monticello city
+49|51910|Morgan|Morgan city
+49|52130|Moroni|Moroni city
+49|53010|Mount Pleasant|Mount Pleasant city
+49|53230|Murray|Murray city
+49|53340|Myton|Myton city
+49|53560|Naples|Naples city
+49|54220|Nephi|Nephi city
+49|54440|New Harmony|New Harmony town
+49|54550|Newton|Newton town
+49|54660|Nibley|Nibley city
+49|54990|North Logan|North Logan city
+49|55100|North Ogden|North Ogden city
+49|55210|North Salt Lake|North Salt Lake city
+49|55430|Oak City|Oak City town
+49|55650|Oakley|Oakley city
+49|55980|Ogden|Ogden city
+49|56750|Ophir|Ophir town
+49|56860|Orangeville|Orangeville city
+49|57080|Orderville|Orderville town
+49|57300|Orem|Orem city
+49|57740|Panguitch|Panguitch city
+49|57850|Paradise|Paradise town
+49|57960|Paragonah|Paragonah town
+49|58070|Park City|Park City city
+49|58510|Parowan|Parowan city
+49|58730|Payson|Payson city
+49|59390|Perry|Perry city
+49|60710|Plain City|Plain City city
+49|60930|Pleasant Grove|Pleasant Grove city
+49|61150|Pleasant View|Pleasant View city
+49|61260|Plymouth|Plymouth town
+49|61590|Portage|Portage town
+49|62030|Price|Price city
+49|62360|Providence|Providence city
+49|62470|Provo|Provo city
+49|63020|Randolph|Randolph town
+49|63240|Redmond|Redmond town
+49|63570|Richfield|Richfield city
+49|63680|Richmond|Richmond city
+49|64010|Riverdale|Riverdale city
+49|64120|River Heights|River Heights city
+49|64340|Riverton|Riverton city
+49|64560|Rockville|Rockville town
+49|64590|Rocky Ridge|Rocky Ridge town
+49|64670|Roosevelt|Roosevelt city
+49|65110|Roy|Roy city
+49|65240|Rush Valley|Rush Valley town
+49|65330|St. George|St. George city
+49|65770|Salem|Salem city
+49|65880|Salina|Salina city
+49|67000|Salt Lake City|Salt Lake City city
+49|67440|Sandy|Sandy city
+49|67660|Santa Clara|Santa Clara city
+49|67770|Santaquin|Santaquin city
+49|67825|Saratoga Springs|Saratoga Springs city
+49|67880|Scipio|Scipio town
+49|67990|Scofield|Scofield town
+49|68650|Sigurd|Sigurd town
+49|69640|Smithfield|Smithfield city
+49|69970|Snowville|Snowville town
+49|70850|South Jordan|South Jordan city
+49|70960|South Ogden|South Ogden city
+49|71070|South Salt Lake|South Salt Lake city
+49|71180|South Weber|South Weber city
+49|71290|Spanish Fork|Spanish Fork city
+49|71730|Spring City|Spring City city
+49|71840|Springdale|Springdale town
+49|72280|Springville|Springville city
+49|72940|Sterling|Sterling town
+49|73050|Stockton|Stockton town
+49|74370|Sunnyside|Sunnyside city
+49|74480|Sunset|Sunset city
+49|74810|Syracuse|Syracuse city
+49|74920|Tabiona|Tabiona town
+49|75360|Taylorsville|Taylorsville city
+49|76680|Tooele|Tooele city
+49|76900|Toquerville|Toquerville town
+49|77010|Torrey|Torrey town
+49|77120|Tremonton|Tremonton city
+49|77230|Trenton|Trenton town
+49|77560|Tropic|Tropic town
+49|77890|Uintah|Uintah town
+49|80090|Vernal|Vernal city
+49|80200|Vernon|Vernon town
+49|80420|Vineyard|Vineyard town
+49|80530|Virgin|Virgin town
+49|80860|Wales|Wales town
+49|80970|Wallsburg|Wallsburg town
+49|81960|Washington|Washington city
+49|82070|Washington Terrace|Washington Terrace city
+49|82510|Wellington|Wellington city
+49|82620|Wellsville|Wellsville city
+49|82730|Wendover|Wendover city
+49|82840|West Bountiful|West Bountiful city
+49|82930|West Haven|West Haven city
+49|82950|West Jordan|West Jordan city
+49|83390|West Point|West Point city
+49|83470|West Valley City|West Valley City city
+49|84710|Willard|Willard city
+49|85050|Woodland Hills|Woodland Hills city
+49|85260|Woodruff|Woodruff town
+49|85370|Woods Cross|Woods Cross city

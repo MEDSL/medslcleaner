@@ -1,0 +1,12 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+36|0080|Allegany|Allegany Reservation
+36|0540|Cattaraugus|Cattaraugus Reservation
+36|2535|Oil Springs|Oil Springs Reservation
+36|2555|Oneida Nation|Oneida Nation Reservation
+36|2570|Onondaga Nation|Onondaga Nation Reservation
+36|3320|St. Regis Mohawk|St. Regis Mohawk Reservation
+36|4225|Tonawanda|Tonawanda Reservation
+36|4360|Tuscarora Nation|Tuscarora Nation Reservation
+36|8100|Cayuga Nation|Cayuga Nation TDSA
+36|9300|Poospatuck|Poospatuck (state) Reservation
+36|9370|Shinnecock|Shinnecock (state) Reservation

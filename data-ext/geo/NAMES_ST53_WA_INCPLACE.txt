@@ -1,0 +1,282 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+53|00100|Aberdeen|Aberdeen city
+53|00905|Airway Heights|Airway Heights city
+53|01010|Albion|Albion town
+53|01290|Algona|Algona city
+53|01500|Almira|Almira town
+53|01990|Anacortes|Anacortes city
+53|02585|Arlington|Arlington city
+53|03075|Asotin|Asotin city
+53|03180|Auburn|Auburn city
+53|03736|Bainbridge Island|Bainbridge Island city
+53|04475|Battle Ground|Battle Ground city
+53|04895|Beaux Arts Village|Beaux Arts Village town
+53|05210|Bellevue|Bellevue city
+53|05280|Bellingham|Bellingham city
+53|05560|Benton City|Benton City city
+53|06085|Bingen|Bingen city
+53|06330|Black Diamond|Black Diamond city
+53|06505|Blaine|Blaine city
+53|07170|Bonney Lake|Bonney Lake city
+53|07380|Bothell|Bothell city
+53|07695|Bremerton|Bremerton city
+53|07835|Brewster|Brewster city
+53|07870|Bridgeport|Bridgeport city
+53|07940|Brier|Brier city
+53|08570|Buckley|Buckley city
+53|08605|Bucoda|Bucoda town
+53|08850|Burien|Burien city
+53|08920|Burlington|Burlington city
+53|09480|Camas|Camas city
+53|09970|Carbonado|Carbonado town
+53|10215|Carnation|Carnation city
+53|10495|Cashmere|Cashmere city
+53|10565|Castle Rock|Castle Rock city
+53|10635|Cathlamet|Cathlamet town
+53|11160|Centralia|Centralia city
+53|11475|Chehalis|Chehalis city
+53|11615|Chelan|Chelan city
+53|11825|Cheney|Cheney city
+53|12140|Chewelah|Chewelah city
+53|12630|Clarkston|Clarkston city
+53|12945|Cle Elum|Cle Elum city
+53|13365|Clyde Hill|Clyde Hill city
+53|13785|Colfax|Colfax city
+53|13855|College Place|College Place city
+53|13890|Colton|Colton town
+53|14170|Colville|Colville city
+53|14310|Conconully|Conconully town
+53|14380|Concrete|Concrete town
+53|14485|Connell|Connell city
+53|14870|Cosmopolis|Cosmopolis city
+53|15080|Coulee City|Coulee City town
+53|15115|Coulee Dam|Coulee Dam town
+53|15185|Coupeville|Coupeville town
+53|15290|Covington|Covington city
+53|15710|Creston|Creston town
+53|16340|Cusick|Cusick town
+53|16690|Darrington|Darrington town
+53|16795|Davenport|Davenport city
+53|16970|Dayton|Dayton city
+53|17320|Deer Park|Deer Park city
+53|17635|Des Moines|Des Moines city
+53|18965|DuPont|DuPont city
+53|19035|Duvall|Duvall city
+53|20155|East Wenatchee|East Wenatchee city
+53|20260|Eatonville|Eatonville town
+53|20645|Edgewood|Edgewood city
+53|20750|Edmonds|Edmonds city
+53|21030|Electric City|Electric City city
+53|21240|Ellensburg|Ellensburg city
+53|21450|Elma|Elma city
+53|21485|Elmer City|Elmer City town
+53|21730|Endicott|Endicott town
+53|22010|Entiat|Entiat city
+53|22045|Enumclaw|Enumclaw city
+53|22080|Ephrata|Ephrata city
+53|22640|Everett|Everett city
+53|22745|Everson|Everson city
+53|22990|Fairfield|Fairfield town
+53|23340|Farmington|Farmington town
+53|23515|Federal Way|Federal Way city
+53|23620|Ferndale|Ferndale city
+53|23795|Fife|Fife city
+53|23970|Fircrest|Fircrest city
+53|24810|Forks|Forks city
+53|25615|Friday Harbor|Friday Harbor town
+53|26140|Garfield|Garfield town
+53|26455|George|George city
+53|26735|Gig Harbor|Gig Harbor city
+53|27365|Gold Bar|Gold Bar city
+53|27435|Goldendale|Goldendale city
+53|27855|Grand Coulee|Grand Coulee city
+53|27925|Grandview|Grandview city
+53|27960|Granger|Granger city
+53|27995|Granite Falls|Granite Falls city
+53|29255|Hamilton|Hamilton town
+53|29710|Harrah|Harrah town
+53|29745|Harrington|Harrington city
+53|29920|Hartline|Hartline town
+53|30060|Hatton|Hatton town
+53|32300|Hoquiam|Hoquiam city
+53|32755|Hunts Point|Hunts Point town
+53|33000|Ilwaco|Ilwaco city
+53|33175|Index|Index town
+53|33560|Ione|Ione town
+53|33805|Issaquah|Issaquah city
+53|34575|Kahlotus|Kahlotus city
+53|34645|Kalama|Kalama city
+53|35065|Kelso|Kelso city
+53|35170|Kenmore|Kenmore city
+53|35275|Kennewick|Kennewick city
+53|35415|Kent|Kent city
+53|35485|Kettle Falls|Kettle Falls city
+53|35940|Kirkland|Kirkland city
+53|36045|Kittitas|Kittitas city
+53|36395|Krupp|Krupp town
+53|36710|La Center|La Center city
+53|36745|Lacey|Lacey city
+53|36780|La Conner|La Conner town
+53|36850|LaCrosse|LaCrosse town
+53|37270|Lake Forest Park|Lake Forest Park city
+53|37900|Lake Stevens|Lake Stevens city
+53|38038|Lakewood|Lakewood city
+53|38215|Lamont|Lamont town
+53|38355|Langley|Langley city
+53|38495|Latah|Latah town
+53|38845|Leavenworth|Leavenworth city
+53|39335|Liberty Lake|Liberty Lake city
+53|39510|Lind|Lind town
+53|40070|Long Beach|Long Beach city
+53|40245|Longview|Longview city
+53|40770|Lyman|Lyman town
+53|40805|Lynden|Lynden city
+53|40840|Lynnwood|Lynnwood city
+53|40980|Mabton|Mabton city
+53|41225|McCleary|McCleary city
+53|42275|Malden|Malden town
+53|42800|Mansfield|Mansfield town
+53|43150|Maple Valley|Maple Valley city
+53|43395|Marcus|Marcus town
+53|43955|Marysville|Marysville city
+53|44165|Mattawa|Mattawa town
+53|44690|Medical Lake|Medical Lake city
+53|44725|Medina|Medina city
+53|45005|Mercer Island|Mercer Island city
+53|45180|Mesa|Mesa city
+53|45285|Metaline|Metaline town
+53|45320|Metaline Falls|Metaline Falls town
+53|45865|Mill Creek|Mill Creek city
+53|45985|Millwood|Millwood town
+53|46020|Milton|Milton city
+53|46685|Monroe|Monroe city
+53|46895|Montesano|Montesano city
+53|47175|Morton|Morton city
+53|47245|Moses Lake|Moses Lake city
+53|47315|Mossyrock|Mossyrock city
+53|47490|Mountlake Terrace|Mountlake Terrace city
+53|47560|Mount Vernon|Mount Vernon city
+53|47665|Moxee|Moxee city
+53|47735|Mukilteo|Mukilteo city
+53|47805|Naches|Naches town
+53|47980|Napavine|Napavine city
+53|48540|Nespelem|Nespelem town
+53|48645|Newcastle|Newcastle city
+53|48820|Newport|Newport city
+53|49275|Nooksack|Nooksack city
+53|49415|Normandy Park|Normandy Park city
+53|49485|North Bend|North Bend city
+53|49555|North Bonneville|North Bonneville city
+53|50045|Northport|Northport town
+53|50325|Oakesdale|Oakesdale town
+53|50360|Oak Harbor|Oak Harbor city
+53|50430|Oakville|Oakville city
+53|50570|Ocean Shores|Ocean Shores city
+53|50745|Odessa|Odessa town
+53|50920|Okanogan|Okanogan city
+53|51300|Olympia|Olympia city
+53|51340|Omak|Omak city
+53|51970|Oroville|Oroville city
+53|52005|Orting|Orting city
+53|52215|Othello|Othello city
+53|52495|Pacific|Pacific city
+53|52950|Palouse|Palouse city
+53|53545|Pasco|Pasco city
+53|53720|Pateros|Pateros city
+53|53930|Pe Ell|Pe Ell town
+53|55120|Pomeroy|Pomeroy city
+53|55365|Port Angeles|Port Angeles city
+53|55785|Port Orchard|Port Orchard city
+53|55855|Port Townsend|Port Townsend city
+53|55995|Poulsbo|Poulsbo city
+53|56240|Prescott|Prescott city
+53|56450|Prosser|Prosser city
+53|56625|Pullman|Pullman city
+53|56695|Puyallup|Puyallup city
+53|57115|Quincy|Quincy city
+53|57220|Rainier|Rainier city
+53|57430|Raymond|Raymond city
+53|57465|Reardan|Reardan town
+53|57535|Redmond|Redmond city
+53|57745|Renton|Renton city
+53|57850|Republic|Republic city
+53|58235|Richland|Richland city
+53|58410|Ridgefield|Ridgefield city
+53|58725|Ritzville|Ritzville city
+53|58795|Riverside|Riverside town
+53|59145|Rockford|Rockford town
+53|59180|Rock Island|Rock Island city
+53|59775|Rosalia|Rosalia town
+53|60055|Roslyn|Roslyn city
+53|60160|Roy|Roy city
+53|60230|Royal City|Royal City city
+53|60510|Ruston|Ruston town
+53|60860|St. John|St. John town
+53|61115|Sammamish|Sammamish city
+53|62288|SeaTac|SeaTac city
+53|63000|Seattle|Seattle city
+53|63210|Sedro-Woolley|Sedro-Woolley city
+53|63280|Selah|Selah city
+53|63385|Sequim|Sequim city
+53|63735|Shelton|Shelton city
+53|63960|Shoreline|Shoreline city
+53|64855|Skykomish|Skykomish town
+53|65170|Snohomish|Snohomish city
+53|65205|Snoqualmie|Snoqualmie city
+53|65345|Soap Lake|Soap Lake city
+53|65625|South Bend|South Bend city
+53|65765|South Cle Elum|South Cle Elum town
+53|66045|South Prairie|South Prairie town
+53|66290|Spangle|Spangle city
+53|67000|Spokane|Spokane city
+53|67167|Spokane Valley|Spokane Valley city
+53|67175|Sprague|Sprague city
+53|67210|Springdale|Springdale town
+53|67455|Stanwood|Stanwood city
+53|67490|Starbuck|Starbuck town
+53|67770|Steilacoom|Steilacoom town
+53|67875|Stevenson|Stevenson city
+53|68260|Sultan|Sultan city
+53|68330|Sumas|Sumas city
+53|68435|Sumner|Sumner city
+53|68750|Sunnyside|Sunnyside city
+53|70000|Tacoma|Tacoma city
+53|70560|Tekoa|Tekoa city
+53|70630|Tenino|Tenino city
+53|71400|Tieton|Tieton town
+53|71785|Toledo|Toledo city
+53|71890|Tonasket|Tonasket city
+53|71960|Toppenish|Toppenish city
+53|72625|Tukwila|Tukwila city
+53|72905|Tumwater|Tumwater city
+53|73080|Twisp|Twisp town
+53|73290|Union Gap|Union Gap city
+53|73360|Uniontown|Uniontown town
+53|73465|University Place|University Place city
+53|73780|Vader|Vader city
+53|74060|Vancouver|Vancouver city
+53|75565|Waitsburg|Waitsburg city
+53|75775|Walla Walla|Walla Walla city
+53|76125|Wapato|Wapato city
+53|76160|Warden|Warden city
+53|76405|Washougal|Washougal city
+53|76440|Washtucna|Washtucna town
+53|76510|Waterville|Waterville town
+53|76720|Waverly|Waverly town
+53|77105|Wenatchee|Wenatchee city
+53|77630|Westport|Westport city
+53|77665|West Richland|West Richland city
+53|78330|White Salmon|White Salmon city
+53|78680|Wilbur|Wilbur town
+53|78925|Wilkeson|Wilkeson town
+53|79135|Wilson Creek|Wilson Creek town
+53|79275|Winlock|Winlock city
+53|79380|Winthrop|Winthrop town
+53|79590|Woodinville|Woodinville city
+53|79625|Woodland|Woodland city
+53|79835|Woodway|Woodway city
+53|79975|Yacolt|Yacolt town
+53|80010|Yakima|Yakima city
+53|80150|Yarrow Point|Yarrow Point town
+53|80220|Yelm|Yelm city
+53|80500|Zillah|Zillah city

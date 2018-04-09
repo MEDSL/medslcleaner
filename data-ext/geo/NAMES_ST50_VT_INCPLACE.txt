@@ -1,0 +1,47 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+50|00400|Albany|Albany village
+50|00625|Alburg|Alburg village
+50|03175|Barre|Barre city
+50|03475|Barton|Barton village
+50|04225|Bellows Falls|Bellows Falls village
+50|10675|Burlington|Burlington city
+50|11050|Cabot|Cabot village
+50|11425|Cambridge|Cambridge village
+50|17425|Derby Center|Derby Center village
+50|17500|Derby Line|Derby Line village
+50|24025|Enosburg Falls|Enosburg Falls village
+50|24400|Essex Junction|Essex Junction village
+50|34975|Hyde Park|Hyde Park village
+50|36025|Jacksonville|Jacksonville village
+50|36475|Jeffersonville|Jeffersonville village
+50|36625|Jericho|Jericho village
+50|37000|Johnson|Johnson village
+50|41200|Ludlow|Ludlow village
+50|41950|Lyndonville|Lyndonville village
+50|42700|Manchester|Manchester village
+50|43525|Marshfield|Marshfield village
+50|46000|Montpelier|Montpelier city
+50|46825|Morrisville|Morrisville village
+50|48100|Newbury|Newbury village
+50|48325|Newfane|Newfane village
+50|48850|Newport|Newport city
+50|49075|North Bennington|North Bennington village
+50|50200|Northfield|Northfield village
+50|52075|North Troy|North Troy village
+50|52375|North Westminster|North Westminster village
+50|53125|Old Bennington|Old Bennington village
+50|53575|Orleans|Orleans village
+50|54850|Perkinsville|Perkinsville village
+50|56800|Poultney|Poultney village
+50|61225|Rutland|Rutland city
+50|61675|St. Albans|St. Albans city
+50|62950|Saxtons River|Saxtons River village
+50|66175|South Burlington|South Burlington city
+50|71650|Swanton|Swanton village
+50|74650|Vergennes|Vergennes city
+50|76900|Waterbury|Waterbury village
+50|78025|Wells River|Wells River village
+50|79150|West Burke|West Burke village
+50|81325|Westminster|Westminster village
+50|85150|Winooski|Winooski city
+50|85900|Woodstock|Woodstock village

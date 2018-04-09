@@ -1,0 +1,362 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+04|00730|Aguila|Aguila CDP
+04|00870|Ajo|Ajo CDP
+04|00940|Ak Chin|Ak Chin CDP
+04|01090|Ak-Chin Village|Ak-Chin Village CDP
+04|01170|Alamo Lake|Alamo Lake CDP
+04|01560|Ali Chuk|Ali Chuk CDP
+04|01570|Ali Chukson|Ali Chukson CDP
+04|01620|Ali Molina|Ali Molina CDP
+04|01920|Alpine|Alpine CDP
+04|01990|Amado|Amado CDP
+04|02270|Anegam|Anegam CDP
+04|02410|Antares|Antares CDP
+04|02430|Anthem|Anthem CDP
+04|03320|Arivaca|Arivaca CDP
+04|03380|Arivaca Junction|Arivaca Junction CDP
+04|03530|Arizona City|Arizona City CDP
+04|03915|Arizona Village|Arizona Village CDP
+04|04020|Arlington|Arlington CDP
+04|04440|Ash Fork|Ash Fork CDP
+04|04710|Avenue B and C|Avenue B and C CDP
+04|04880|Avra Valley|Avra Valley CDP
+04|04930|Aztec|Aztec CDP
+04|05140|Bagdad|Bagdad CDP
+04|05450|Bear Flat|Bear Flat CDP
+04|05490|Beaver Dam|Beaver Dam CDP
+04|05495|Beaver Valley|Beaver Valley CDP
+04|05970|Beyerville|Beyerville CDP
+04|06470|Bitter Springs|Bitter Springs CDP
+04|06610|Black Canyon City|Black Canyon City CDP
+04|06820|Blackwater|Blackwater CDP
+04|07025|Bluewater|Bluewater CDP
+04|07310|Bouse|Bouse CDP
+04|07380|Bowie|Bowie CDP
+04|07590|Brenda|Brenda CDP
+04|07915|Bryce|Bryce CDP
+04|08020|Buckshot|Buckshot CDP
+04|08535|Burnside|Burnside CDP
+04|08710|Bylas|Bylas CDP
+04|08920|Cactus Flats|Cactus Flats CDP
+04|08990|Cactus Forest|Cactus Forest CDP
+04|09340|Cameron|Cameron CDP
+04|09580|Campo Bonito|Campo Bonito CDP
+04|09900|Cane Beds|Cane Beds CDP
+04|10040|Canyon Day|Canyon Day CDP
+04|10320|Carrizo|Carrizo CDP
+04|10460|Casa Blanca|Casa Blanca CDP
+04|10670|Casas Adobes|Casas Adobes CDP
+04|11160|Catalina|Catalina CDP
+04|11230|Catalina Foothills|Catalina Foothills CDP
+04|11370|Cedar Creek|Cedar Creek CDP
+04|11500|Centennial Park|Centennial Park CDP
+04|11580|Central|Central CDP
+04|11720|Central Heights-Midland City|Central Heights-Midland City CDP
+04|12150|Charco|Charco CDP
+04|12560|Chiawuli Tak|Chiawuli Tak CDP
+04|12630|Chilchinbito|Chilchinbito CDP
+04|12770|Chinle|Chinle CDP
+04|12910|Chloride|Chloride CDP
+04|13140|Christopher Creek|Christopher Creek CDP
+04|13190|Chuichu|Chuichu CDP
+04|13400|Cibecue|Cibecue CDP
+04|13470|Cibola|Cibola CDP
+04|13540|Cienega Springs|Cienega Springs CDP
+04|13820|Citrus Park|Citrus Park CDP
+04|13850|Clacks Canyon|Clacks Canyon CDP
+04|13960|Claypool|Claypool CDP
+04|14030|Clay Springs|Clay Springs CDP
+04|15080|Comobabi|Comobabi CDP
+04|15150|Concho|Concho CDP
+04|15220|Congress|Congress CDP
+04|15600|Copper Hill|Copper Hill CDP
+04|15765|Cordes Lakes|Cordes Lakes CDP
+04|15850|Cornfields|Cornfields CDP
+04|15920|Cornville|Cornville CDP
+04|16030|Corona de Tucson|Corona de Tucson CDP
+04|16360|Cottonwood|Cottonwood CDP
+04|16830|Cowlic|Cowlic CDP
+04|17460|Crozier|Crozier CDP
+04|17500|Crystal Beach|Crystal Beach CDP
+04|17810|Cutter|Cutter CDP
+04|18160|Dateland|Dateland CDP
+04|18448|Deer Creek|Deer Creek CDP
+04|18490|Del Muerto|Del Muerto CDP
+04|18580|Dennehotso|Dennehotso CDP
+04|18740|Desert Hills|Desert Hills CDP
+04|19280|Dilkon|Dilkon CDP
+04|19630|Dolan Springs|Dolan Springs CDP
+04|19740|Doney Park|Doney Park CDP
+04|19790|Donovan Estates|Donovan Estates CDP
+04|20330|Dragoon|Dragoon CDP
+04|20540|Drexel Heights|Drexel Heights CDP
+04|20560|Dripping Springs|Dripping Springs CDP
+04|20570|Drysdale|Drysdale CDP
+04|20680|Dudleyville|Dudleyville CDP
+04|21310|East Fork|East Fork CDP
+04|21410|East Globe|East Globe CDP
+04|21545|East Verde Estates|East Verde Estates CDP
+04|21800|Ehrenberg|Ehrenberg CDP
+04|21900|El Capitan|El Capitan CDP
+04|21980|Elephant Head|Elephant Head CDP
+04|22080|Elfrida|Elfrida CDP
+04|22150|Elgin|Elgin CDP
+04|22400|El Prado Estates|El Prado Estates CDP
+04|23512|First Mesa|First Mesa CDP
+04|23955|Flowing Springs|Flowing Springs CDP
+04|23960|Flowing Wells|Flowing Wells CDP
+04|24250|Fort Apache|Fort Apache CDP
+04|24460|Fort Defiance|Fort Defiance CDP
+04|24895|Fort Mohave|Fort Mohave CDP
+04|24950|Fort Thomas|Fort Thomas CDP
+04|25030|Fortuna Foothills|Fortuna Foothills CDP
+04|25045|Fort Valley|Fort Valley CDP
+04|25650|Franklin|Franklin CDP
+04|25735|Freedom Acres|Freedom Acres CDP
+04|26070|Gadsden|Gadsden CDP
+04|26210|Ganado|Ganado CDP
+04|26780|Geronimo Estates|Geronimo Estates CDP
+04|27260|Gila Crossing|Gila Crossing CDP
+04|27540|Gisela|Gisela CDP
+04|28120|Gold Canyon|Gold Canyon CDP
+04|28190|Golden Shores|Golden Shores CDP
+04|28195|Golden Valley|Golden Valley CDP
+04|28465|Goodyear Village|Goodyear Village CDP
+04|28981|Grand Canyon Village|Grand Canyon Village CDP
+04|28985|Grand Canyon West|Grand Canyon West CDP
+04|29430|Greasewood|Greasewood CDP
+04|29710|Green Valley|Green Valley CDP
+04|29850|Greer|Greer CDP
+04|30550|Gu Oidak|Gu Oidak CDP
+04|30830|Hackberry|Hackberry CDP
+04|30840|Haigler Creek|Haigler Creek CDP
+04|30850|Haivana Nakya|Haivana Nakya CDP
+04|31182|Hard Rock|Hard Rock CDP
+04|32310|Heber-Overgaard|Heber-Overgaard CDP
+04|33440|Hondah|Hondah CDP
+04|33945|Hotevilla-Bacavi|Hotevilla-Bacavi CDP
+04|33980|Houck|Houck CDP
+04|34700|Hunter Creek|Hunter Creek CDP
+04|34980|Icehouse Canyon|Icehouse Canyon CDP
+04|35310|Indian Wells|Indian Wells CDP
+04|36010|Jakes Corner|Jakes Corner CDP
+04|36150|Jeddito|Jeddito CDP
+04|36430|Joseph City|Joseph City CDP
+04|36475|Kachina Village|Kachina Village CDP
+04|36500|Kaibab|Kaibab CDP
+04|36640|Kaibito|Kaibito CDP
+04|36780|Kaka|Kaka CDP
+04|36920|Katherine|Katherine CDP
+04|36990|Kayenta|Kayenta CDP
+04|37130|Keams Canyon|Keams Canyon CDP
+04|37935|Kino Springs|Kino Springs CDP
+04|38250|Klagetoh|Klagetoh CDP
+04|38530|Kohatk|Kohatk CDP
+04|38600|Kohls Ranch|Kohls Ranch CDP
+04|38655|Komatke|Komatke CDP
+04|38940|Ko Vaya|Ko Vaya CDP
+04|39100|Kykotsmovi Village|Kykotsmovi Village CDP
+04|39720|Lake Montezuma|Lake Montezuma CDP
+04|39790|Lake of the Woods|Lake of the Woods CDP
+04|40160|La Paz Valley|La Paz Valley CDP
+04|40400|Lazy Y U|Lazy Y U CDP
+04|40415|LeChee|LeChee CDP
+04|40630|Leupp|Leupp CDP
+04|41085|Linden|Linden CDP
+04|41470|Littlefield|Littlefield CDP
+04|41540|Littletown|Littletown CDP
+04|42460|Lower Santan Village|Lower Santan Village CDP
+04|42590|Low Mountain|Low Mountain CDP
+04|42660|Lukachukai|Lukachukai CDP
+04|42940|Lupton|Lupton CDP
+04|43150|McConnico|McConnico CDP
+04|43430|McNary|McNary CDP
+04|43570|McNeal|McNeal CDP
+04|43920|Maish Vaya|Maish Vaya CDP
+04|44200|Many Farms|Many Farms CDP
+04|44450|Maricopa Colony|Maricopa Colony CDP
+04|44830|Martinez Lake|Martinez Lake CDP
+04|45180|Mayer|Mayer CDP
+04|45275|Mead Ranch|Mead Ranch CDP
+04|45285|Meadview|Meadview CDP
+04|46005|Mesa del Caballo|Mesa del Caballo CDP
+04|46070|Mescal|Mescal CDP
+04|46087|Mesquite Creek|Mesquite Creek CDP
+04|46840|Miracle Valley|Miracle Valley CDP
+04|47190|Moccasin|Moccasin CDP
+04|47330|Moenkopi|Moenkopi CDP
+04|47400|Mohave Valley|Mohave Valley CDP
+04|47495|Mojave Ranch Estates|Mojave Ranch Estates CDP
+04|47610|Morenci|Morenci CDP
+04|47740|Morristown|Morristown CDP
+04|47820|Mountainaire|Mountainaire CDP
+04|48170|Munds Park|Munds Park CDP
+04|48310|Naco|Naco CDP
+04|49010|Nazlini|Nazlini CDP
+04|49100|Nelson|Nelson CDP
+04|49270|New Kingman-Butler|New Kingman-Butler CDP
+04|49360|New River|New River CDP
+04|49710|Nolic|Nolic CDP
+04|50000|North Fork|North Fork CDP
+04|50340|Nutrioso|Nutrioso CDP
+04|50480|Oak Springs|Oak Springs CDP
+04|50620|Oatman|Oatman CDP
+04|51142|Oljato-Monument Valley|Oljato-Monument Valley CDP
+04|51180|Oracle|Oracle CDP
+04|51465|Orange Grove Mobile Manor|Orange Grove Mobile Manor CDP
+04|51775|Oxbow Estates|Oxbow Estates CDP
+04|51800|Padre Ranchitos|Padre Ranchitos CDP
+04|52230|Palominas|Palominas CDP
+04|53210|Parker Strip|Parker Strip CDP
+04|53350|Parks|Parks CDP
+04|53560|Paulden|Paulden CDP
+04|53770|Peach Springs|Peach Springs CDP
+04|53910|Peeples Valley|Peeples Valley CDP
+04|54190|Peridot|Peridot CDP
+04|55210|Picacho|Picacho CDP
+04|55300|Picture Rocks|Picture Rocks CDP
+04|55575|Pimaco Two|Pimaco Two CDP
+04|55630|Pinal|Pinal CDP
+04|55700|Pine|Pine CDP
+04|55840|Pinedale|Pinedale CDP
+04|55845|Pine Lake|Pine Lake CDP
+04|55880|Pinetop Country Club|Pinetop Country Club CDP
+04|55983|Pinion Pines|Pinion Pines CDP
+04|56120|Pinon|Pinon CDP
+04|56400|Pirtleville|Pirtleville CDP
+04|56470|Pisinemo|Pisinemo CDP
+04|57170|Poston|Poston CDP
+04|58290|Queen Valley|Queen Valley CDP
+04|58620|Rainbow City|Rainbow City CDP
+04|58870|Rancho Mesa Verde|Rancho Mesa Verde CDP
+04|59550|Red Mesa|Red Mesa CDP
+04|59760|Red Rock|Red Rock CDP
+04|59770|Red Rock|Red Rock CDP
+04|59900|Rillito|Rillito CDP
+04|60120|Rincon Valley|Rincon Valley CDP
+04|60180|Rio Rico|Rio Rico CDP
+04|60250|Rio Verde|Rio Verde CDP
+04|60770|Rock House|Rock House CDP
+04|60880|Rock Point|Rock Point CDP
+04|61300|Roosevelt|Roosevelt CDP
+04|61370|Rough Rock|Rough Rock CDP
+04|61440|Round Rock|Round Rock CDP
+04|61448|Round Valley|Round Valley CDP
+04|61690|Rye|Rye CDP
+04|61715|Sacate Village|Sacate Village CDP
+04|61720|Sacaton|Sacaton CDP
+04|61800|Sacaton Flats Village|Sacaton Flats Village CDP
+04|61940|Saddlebrooke|Saddlebrooke CDP
+04|62280|St. David|St. David CDP
+04|62362|St. Johns|St. Johns CDP
+04|62420|St. Michaels|St. Michaels CDP
+04|62700|Salome|Salome CDP
+04|62910|San Carlos|San Carlos CDP
+04|63050|Sanders|Sanders CDP
+04|63260|San Jose|San Jose CDP
+04|63540|San Manuel|San Manuel CDP
+04|63610|San Miguel|San Miguel CDP
+04|63820|San Simon|San Simon CDP
+04|63960|Santa Cruz|Santa Cruz CDP
+04|64210|San Tan Valley|San Tan Valley CDP
+04|64310|Santa Rosa|Santa Rosa CDP
+04|64590|Sawmill|Sawmill CDP
+04|64650|Scenic|Scenic CDP
+04|65167|Seba Dalkai|Seba Dalkai CDP
+04|65280|Second Mesa|Second Mesa CDP
+04|65400|Sehili|Sehili CDP
+04|65420|Seligman|Seligman CDP
+04|65490|Sells|Sells CDP
+04|65780|Seven Mile|Seven Mile CDP
+04|66190|Shongopovi|Shongopovi CDP
+04|66260|Shonto|Shonto CDP
+04|66845|Sierra Vista Southeast|Sierra Vista Southeast CDP
+04|67295|Six Shooter Canyon|Six Shooter Canyon CDP
+04|67920|So-Hi|So-Hi CDP
+04|68010|Solomon|Solomon CDP
+04|68220|Sonoita|Sonoita CDP
+04|68670|South Komelik|South Komelik CDP
+04|69060|Spring Valley|Spring Valley CDP
+04|69130|Stanfield|Stanfield CDP
+04|69585|Steamboat|Steamboat CDP
+04|69872|Stotonic Village|Stotonic Village CDP
+04|70040|Strawberry|Strawberry CDP
+04|70175|Summerhaven|Summerhaven CDP
+04|70240|Summit|Summit CDP
+04|70320|Sun City|Sun City CDP
+04|70355|Sun City West|Sun City West CDP
+04|70460|Sunizona|Sunizona CDP
+04|70530|Sun Lakes|Sun Lakes CDP
+04|71160|Sun Valley|Sun Valley CDP
+04|71220|Sunwest|Sunwest CDP
+04|71230|Supai|Supai CDP
+04|71642|Sweet Water Village|Sweet Water Village CDP
+04|71650|Swift Trail Junction|Swift Trail Junction CDP
+04|71790|Tacna|Tacna CDP
+04|72000|Tanque Verde|Tanque Verde CDP
+04|72280|Tat Momoli|Tat Momoli CDP
+04|72560|Teec Nos Pos|Teec Nos Pos CDP
+04|72630|Tees Toh|Tees Toh CDP
+04|73480|Theba|Theba CDP
+04|73700|Three Points|Three Points CDP
+04|74120|Tolani Lake|Tolani Lake CDP
+04|74470|Tonalea|Tonalea CDP
+04|74540|Tonopah|Tonopah CDP
+04|74610|Tonto Basin|Tonto Basin CDP
+04|74665|Tonto Village|Tonto Village CDP
+04|74680|Topawa|Topawa CDP
+04|74750|Topock|Topock CDP
+04|74820|Top-of-the-World|Top-of-the-World CDP
+04|75310|Toyei|Toyei CDP
+04|75590|Truxton|Truxton CDP
+04|75660|Tsaile|Tsaile CDP
+04|75940|Tubac|Tubac CDP
+04|76010|Tuba City|Tuba City CDP
+04|77035|Tucson Estates|Tucson Estates CDP
+04|77367|Tumacacori-Carmen|Tumacacori-Carmen CDP
+04|77415|Turkey Creek|Turkey Creek CDP
+04|77490|Tusayan|Tusayan CDP
+04|78300|Upper Santan Village|Upper Santan Village CDP
+04|78400|Utting|Utting CDP
+04|78540|Vail|Vail CDP
+04|78680|Vaiva Vo|Vaiva Vo CDP
+04|78760|Valencia West|Valencia West CDP
+04|78820|Valentine|Valentine CDP
+04|78855|Valle|Valle CDP
+04|78865|Valle Vista|Valle Vista CDP
+04|79590|Ventana|Ventana CDP
+04|79830|Verde Village|Verde Village CDP
+04|79870|Vernon|Vernon CDP
+04|79940|Vicksburg|Vicksburg CDP
+04|80095|Village of Oak Creek (Big Park)|Village of Oak Creek (Big Park) CDP
+04|80380|Wagon Wheel|Wagon Wheel CDP
+04|80430|Wahak Hotrontk|Wahak Hotrontk CDP
+04|80790|Wall Lane|Wall Lane CDP
+04|80825|Walnut Creek|Walnut Creek CDP
+04|81175|Washington Park|Washington Park CDP
+04|81490|Wellton Hills|Wellton Hills CDP
+04|81550|Wenden|Wenden CDP
+04|82060|Wet Camp Village|Wet Camp Village CDP
+04|82120|Wheatfields|Wheatfields CDP
+04|82155|Whetstone|Whetstone CDP
+04|82270|Whispering Pines|Whispering Pines CDP
+04|82390|Whitecone|Whitecone CDP
+04|82425|White Hills|White Hills CDP
+04|82450|White Mountain Lake|White Mountain Lake CDP
+04|82530|Whiteriver|Whiteriver CDP
+04|82660|Why|Why CDP
+04|82810|Wide Ruins|Wide Ruins CDP
+04|82880|Wikieup|Wikieup CDP
+04|82950|Wilhoit|Wilhoit CDP
+04|83388|Williamson|Williamson CDP
+04|83475|Willow Canyon|Willow Canyon CDP
+04|83570|Willow Valley|Willow Valley CDP
+04|83720|Window Rock|Window Rock CDP
+04|83960|Winslow West|Winslow West CDP
+04|84000|Wintersburg|Wintersburg CDP
+04|84140|Wittmann|Wittmann CDP
+04|84350|Woodruff|Woodruff CDP
+04|84980|Yarnell|Yarnell CDP
+04|85260|York|York CDP
+04|85330|Young|Young CDP
+04|85470|Yucca|Yucca CDP

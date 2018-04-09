@@ -1,0 +1,136 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+41|01650|Aloha|Aloha CDP
+41|01700|Alpine|Alpine CDP
+41|01800|Alsea|Alsea CDP
+41|01850|Altamont|Altamont CDP
+41|02200|Annex|Annex CDP
+41|04400|Barview|Barview CDP
+41|04925|Bayside Gardens|Bayside Gardens CDP
+41|05200|Beaver|Beaver CDP
+41|05250|Beavercreek|Beavercreek CDP
+41|05700|Bellfountain|Bellfountain CDP
+41|05950|Bethany|Bethany CDP
+41|06400|Biggs Junction|Biggs Junction CDP
+41|06650|Black Butte Ranch|Black Butte Ranch CDP
+41|06950|Blodgett|Blodgett CDP
+41|08600|Brogan|Brogan CDP
+41|08750|Brooks|Brooks CDP
+41|09535|Bull Mountain|Bull Mountain CDP
+41|09600|Bunker Hill|Bunker Hill CDP
+41|10100|Butteville|Butteville CDP
+41|10550|Camp Sherman|Camp Sherman CDP
+41|11050|Cape Meares|Cape Meares CDP
+41|11700|Cascadia|Cascadia CDP
+41|11900|Cayuse|Cayuse CDP
+41|12050|Cedar Hills|Cedar Hills CDP
+41|12150|Cedar Mill|Cedar Mill CDP
+41|12800|Chenoweth|Chenoweth CDP
+41|14200|Cloverdale|Cloverdale CDP
+41|16350|Crabtree|Crabtree CDP
+41|16450|Crane|Crane CDP
+41|16650|Crawfordsville|Crawfordsville CDP
+41|18150|Days Creek|Days Creek CDP
+41|18450|Deer Island|Deer Island CDP
+41|19020|Deschutes River Woods|Deschutes River Woods CDP
+41|19600|Dillard|Dillard CDP
+41|21450|Eagle Crest|Eagle Crest CDP
+41|23550|Eola|Eola CDP
+41|24100|Fair Oaks|Fair Oaks CDP
+41|26165|Foots Creek|Foots Creek CDP
+41|26400|Fort Hill|Fort Hill CDP
+41|26750|Four Corners|Four Corners CDP
+41|27350|Fruitdale|Fruitdale CDP
+41|27825|Garden Home-Whitford|Garden Home-Whitford CDP
+41|27850|Gardiner|Gardiner CDP
+41|29100|Glasgow|Glasgow CDP
+41|29750|Glide|Glide CDP
+41|30165|Gopher Flats|Gopher Flats CDP
+41|30250|Government Camp|Government Camp CDP
+41|30300|Grand Ronde|Grand Ronde CDP
+41|30750|Green|Green CDP
+41|32100|Harbor|Harbor CDP
+41|32400|Harper|Harper CDP
+41|32850|Hayesville|Hayesville CDP
+41|33100|Hebo|Hebo CDP
+41|34650|Holley|Holley CDP
+41|35850|Idaville|Idaville CDP
+41|37200|Jeffers Gardens|Jeffers Gardens CDP
+41|37400|Jennings Lodge|Jennings Lodge CDP
+41|38150|Juntura|Juntura CDP
+41|38900|Kerby|Kerby CDP
+41|39350|Kings Valley|Kings Valley CDP
+41|39566|Kirkpatrick|Kirkpatrick CDP
+41|40050|Labish Village|Labish Village CDP
+41|40150|Lacomb|Lacomb CDP
+41|40950|Langlois|Langlois CDP
+41|42550|Lincoln Beach|Lincoln Beach CDP
+41|43650|Lookingglass|Lookingglass CDP
+41|45900|Marion|Marion CDP
+41|47300|Mehama|Mehama CDP
+41|47350|Melrose|Melrose CDP
+41|47650|Merlin|Merlin CDP
+41|47800|Metzger|Metzger CDP
+41|49000|Mission|Mission CDP
+41|50200|Mount Hood|Mount Hood CDP
+41|50235|Mount Hood Village|Mount Hood Village CDP
+41|50450|Mulino|Mulino CDP
+41|51500|Neahkahnie|Neahkahnie CDP
+41|51950|Nesika Beach|Nesika Beach CDP
+41|52000|Neskowin|Neskowin CDP
+41|52050|Netarts|Netarts CDP
+41|52275|New Hope|New Hope CDP
+41|52400|New Pine Creek|New Pine Creek CDP
+41|53900|Oak Grove|Oak Grove CDP
+41|53988|Oak Hills|Oak Hills CDP
+41|54325|Oatfield|Oatfield CDP
+41|54350|O'Brien|O'Brien CDP
+41|54450|Oceanside|Oceanside CDP
+41|54550|Odell|Odell CDP
+41|56150|Pacific City|Pacific City CDP
+41|56500|Parkdale|Parkdale CDP
+41|57300|Peoria|Peoria CDP
+41|57850|Pine Grove|Pine Grove CDP
+41|57875|Pine Hollow|Pine Hollow CDP
+41|58050|Pistol River|Pistol River CDP
+41|58550|Plush|Plush CDP
+41|60070|Pronghorn|Pronghorn CDP
+41|60100|Prospect|Prospect CDP
+41|60900|Raleigh Hills|Raleigh Hills CDP
+41|61250|Redwood|Redwood CDP
+41|61800|Rickreall|Rickreall CDP
+41|62412|Riverside|Riverside CDP
+41|63010|Rockcreek|Rockcreek CDP
+41|63660|Roseburg North|Roseburg North CDP
+41|63800|Rose Lodge|Rose Lodge CDP
+41|63950|Rowena|Rowena CDP
+41|64150|Ruch|Ruch CDP
+41|66150|Selma|Selma CDP
+41|66385|Seventh Mountain|Seventh Mountain CDP
+41|66900|Shedd|Shedd CDP
+41|67600|Silver Lake|Silver Lake CDP
+41|68875|South Lebanon|South Lebanon CDP
+41|69800|Stafford|Stafford CDP
+41|70870|Summit|Summit CDP
+41|71250|Sunriver|Sunriver CDP
+41|72400|Takilma|Takilma CDP
+41|72800|Terrebonne|Terrebonne CDP
+41|72820|Tetherow|Tetherow CDP
+41|73225|Three Rivers|Three Rivers CDP
+41|74400|Trail|Trail CDP
+41|74650|Tri-City|Tri-City CDP
+41|75050|Tumalo|Tumalo CDP
+41|75185|Tutuilla|Tutuilla CDP
+41|75500|Tygh Valley|Tygh Valley CDP
+41|75600|Umapine|Umapine CDP
+41|78160|Wallowa Lake|Wallowa Lake CDP
+41|78300|Wamic|Wamic CDP
+41|78600|Warm Springs|Warm Springs CDP
+41|78800|Warren|Warren CDP
+41|80025|West Haven-Sylvan|West Haven-Sylvan CDP
+41|80400|Westport|Westport CDP
+41|80750|West Scio|West Scio CDP
+41|80900|West Slope|West Slope CDP
+41|81450|White City|White City CDP
+41|82450|Williams|Williams CDP
+41|82850|Wimer|Wimer CDP
+41|83050|Winchester Bay|Winchester Bay CDP

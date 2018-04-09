@@ -1,0 +1,2 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+56|4610|Wind River|Wind River Reservation and Off-Reservation Trust Land

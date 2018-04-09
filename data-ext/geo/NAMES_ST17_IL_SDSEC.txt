@@ -1,0 +1,105 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+17|01384|Illini West High School District 307|Illini West High School District 307
+17|03780|Anna Jonesboro Community High School District 81|Anna Jonesboro Community High School District 81
+17|03870|Antioch Community High School District 117|Antioch Community High School District 117
+17|04020|Argo Community High School District 217|Argo Community High School District 217
+17|04170|Township High School District 214|Township High School District 214
+17|04230|Armstrong Township High School District 225|Armstrong Township High School District 225
+17|04770|Central Community High School District 71|Central Community High School District 71
+17|05640|Belleville Township High School District 201|Belleville Township High School District 201
+17|05970|Benton Consolidated High School District 103|Benton Consolidated High School District 103
+17|06420|Bloom Township High School District 206|Bloom Township High School District 206
+17|06540|Community High School District 218|Community High School District 218
+17|06960|Bradley-Bourbonnais Consolidated High School District 307|Bradley-Bourbonnais Consolidated High School District 307
+17|07050|Bremen Community High School District 228|Bremen Community High School District 228
+17|08370|Carbondale Community High School District 165|Carbondale Community High School District 165
+17|08400|Consolidated High School District 230|Consolidated High School District 230
+17|09300|Centralia High School District 200|Centralia High School District 200
+17|09780|Chester Non-High School District 122|Chester Non-High School District 122
+17|11370|Community High School District 155|Community High School District 155
+17|12570|Community High School District 99|Community High School District 99
+17|12870|Dwight Township High School District 230|Dwight Township High School District 230
+17|12990|East Alton-Wood River Community High School District 14|East Alton-Wood River Community High School District 14
+17|13230|East Peoria Community High School District 309|East Peoria Community High School District 309
+17|13940|DuPage High School District 88|DuPage High School District 88
+17|14490|Evanston Township High School District 202|Evanston Township High School District 202
+17|14580|Evergreen Park Community High School District 231|Evergreen Park Community High School District 231
+17|15030|Fenton Community High School District 100|Fenton Community High School District 100
+17|15840|Freeburg Community High School District 77|Freeburg Community High School District 77
+17|16260|Gardner-South Wilmington Township High School District|Gardner-South Wilmington Township High School District
+17|16830|Glenbard Township High School District 87|Glenbard Township High School District 87
+17|17340|Grant Community High School District 124|Grant Community High School District 124
+17|17550|Grayslake Community High School District 127|Grayslake Community High School District 127
+17|17901|Flanagan-Cornell District 74 in Cornell|Flanagan-Cornell District 74 in Cornell
+17|17902|Flanagan-Cornell District 74 in Pontiac|Flanagan-Cornell District 74 in Pontiac
+17|17903|Flanagan-Cornell District 74 in Rooks Creek|Flanagan-Cornell District 74 in Rooks Creek
+17|18030|Hall High School District 502|Hall High School District 502
+17|19080|Township High School District 113|Township High School District 113
+17|19320|Hinsdale Township High School District 86|Hinsdale Township High School District 86
+17|19560|Homewood-Flossmoor Community High School District 233|Homewood-Flossmoor Community High School District 233
+17|19620|Hononegah Community High School District 207|Hononegah Community High School District 207
+17|20610|Joliet Township High School District 204|Joliet Township High School District 204
+17|21780|Lake Forest Community High School District 115|Lake Forest Community High School District 115
+17|21840|Lake Park Community High School District 108|Lake Park Community High School District 108
+17|22110|LaSalle-Peru Township High School District 120|LaSalle-Peru Township High School District 120
+17|22500|Lemont Township High School District 210|Lemont Township High School District 210
+17|22740|Leyden Community High School District 212|Leyden Community High School District 212
+17|22830|Libertyville Community High School District 128|Libertyville Community High School District 128
+17|22950|Limestone Community High School District 310|Limestone Community High School District 310
+17|23050|Lincoln Community High School District 404|Lincoln Community High School District 404
+17|23070|Lincoln Way Community High School District 210|Lincoln Way Community High School District 210
+17|23350|Lockport Township High School District 205|Lockport Township High School District 205
+17|23880|Lyons Township High School District 204|Lyons Township High School District 204
+17|24090|Maine Township High School District 207|Maine Township High School District 207
+17|24570|Marengo Community High School District 154|Marengo Community High School District 154
+17|25320|McHenry Community High School District 156|McHenry Community High School District 156
+17|25650|Mendota Township High School District 280|Mendota Township High School District 280
+17|25770|Metamora Township High School District 122|Metamora Township High School District 122
+17|25980|Milford Township High School District 233|Milford Township High School District 233
+17|26180|Fairfield Community High School District 225|Fairfield Community High School District 225
+17|26340|Minooka Community High School District 111|Minooka Community High School District 111
+17|26640|Morris Community High School District 101|Morris Community High School District 101
+17|26880|J. Sterling Morton High School District 201|J. Sterling Morton High School District 201
+17|27360|Mount Vernon Township High School District 201|Mount Vernon Township High School District 201
+17|27570|Mundelein Consolidated High School District 120|Mundelein Consolidated High School District 120
+17|27740|Nashville Community High School District 99|Nashville Community High School District 99
+17|28200|New Trier Township High School District 203|New Trier Township High School District 203
+17|28260|Newark Community High School District 18|Newark Community High School District 18
+17|28530|Niles Township Community High School District 219|Niles Township Community High School District 219
+17|29010|Northfield Township High School District 225|Northfield Township High School District 225
+17|29220|Oak Lawn Community High School District 229|Oak Lawn Community High School District 229
+17|29280|Oak Park and River Forest District 200|Oak Park and River Forest District 200
+17|29610|Odin Community High School District 700|Odin Community High School District 700
+17|29730|Ohio Community High School District 505|Ohio Community High School District 505
+17|29790|O'Fallon Township High School District 203|O'Fallon Township High School District 203
+17|30330|Ottawa Township High School District 140|Ottawa Township High School District 140
+17|30450|Township High School District 211|Township High School District 211
+17|31110|Pekin Community High School District 303|Pekin Community High School District 303
+17|31620|Pinckneyville Community High School District 101|Pinckneyville Community High School District 101
+17|32220|Pontiac Township High School District 90|Pontiac Township High School District 90
+17|32580|Adlai E. Stevenson High School District 125|Adlai E. Stevenson High School District 125
+17|32700|Princeton High School District 500|Princeton High School District 500
+17|32910|Proviso Township High School District 209|Proviso Township High School District 209
+17|33240|Rantoul Township High School District 193|Rantoul Township High School District 193
+17|33270|Reavis Township High School District 220|Reavis Township High School District 220
+17|33420|Rich Township High School District 227|Rich Township High School District 227
+17|33510|Richmond-Burton Community High School District 157|Richmond-Burton Community High School District 157
+17|33720|Ridgewood Community High School District 234|Ridgewood Community High School District 234
+17|34020|Riverside Brookfield Township School District 208|Riverside Brookfield Township School District 208
+17|34290|Rochelle Township High School District 212|Rochelle Township High School District 212
+17|34380|Rock Falls Township High School District 301|Rock Falls Township High School District 301
+17|35190|Salem Community High School District 600|Salem Community High School District 600
+17|35850|Seneca Township High School District 160|Seneca Township High School District 160
+17|37140|St. Anne Community High School District 302|St. Anne Community High School District 302
+17|37410|St. Joseph-Ogden Community High School District 305|St. Joseph-Ogden Community High School District 305
+17|38100|Streator Township High School District 40|Streator Township High School District 40
+17|38940|Thornton Fractional Township High School District 215|Thornton Fractional Township High School District 215
+17|38970|Thornton Township High School District 205|Thornton Township High School District 205
+17|39870|United Township High School District 30|United Township High School District 30
+17|40290|Vienna High School District 133|Vienna High School District 133
+17|40440|Community High School District 94|Community High School District 94
+17|40800|Warren Township High School District 121|Warren Township High School District 121
+17|40980|Washington Community High School District 308|Washington Community High School District 308
+17|41370|Webber Township High School District 204|Webber Township High School District 204
+17|43200|Woodlawn Community High School District 205|Woodlawn Community High School District 205
+17|43890|Zion-Benton Township High School District 126|Zion-Benton Township High School District 126

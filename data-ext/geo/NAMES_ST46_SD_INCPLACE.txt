@@ -1,0 +1,312 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+46|00100|Aberdeen|Aberdeen city
+46|00460|Agar|Agar town
+46|00540|Akaska|Akaska town
+46|00620|Albee|Albee town
+46|00700|Alcester|Alcester city
+46|00820|Alexandria|Alexandria city
+46|01020|Alpena|Alpena town
+46|01140|Altamont|Altamont town
+46|01500|Andover|Andover town
+46|02180|Arlington|Arlington city
+46|02260|Armour|Armour city
+46|02340|Artas|Artas town
+46|02380|Artesian|Artesian town
+46|02540|Ashton|Ashton city
+46|02580|Astoria|Astoria town
+46|02780|Aurora|Aurora town
+46|02900|Avon|Avon city
+46|03060|Badger|Badger town
+46|03380|Baltic|Baltic city
+46|03420|Bancroft|Bancroft town
+46|03860|Batesland|Batesland town
+46|04380|Belle Fourche|Belle Fourche city
+46|04620|Belvidere|Belvidere town
+46|04980|Beresford|Beresford city
+46|05540|Big Stone City|Big Stone City city
+46|05620|Bison|Bison town
+46|06180|Blunt|Blunt city
+46|06220|Bonesteel|Bonesteel city
+46|06540|Bowdle|Bowdle city
+46|06620|Box Elder|Box Elder city
+46|06660|Bradley|Bradley town
+46|06840|Brandon|Brandon city
+46|06940|Brandt|Brandt town
+46|07060|Brentford|Brentford town
+46|07180|Bridgewater|Bridgewater city
+46|07300|Bristol|Bristol city
+46|07380|Britton|Britton city
+46|07420|Broadland|Broadland town
+46|07580|Brookings|Brookings city
+46|07740|Bruce|Bruce city
+46|08060|Bryant|Bryant city
+46|08140|Buffalo|Buffalo town
+46|08340|Buffalo Gap|Buffalo Gap town
+46|08700|Burke|Burke city
+46|08820|Bushnell|Bushnell town
+46|08860|Butler|Butler town
+46|09260|Camp Crook|Camp Crook town
+46|09300|Canistota|Canistota city
+46|09420|Canova|Canova town
+46|09500|Canton|Canton city
+46|10220|Carthage|Carthage city
+46|10500|Castlewood|Castlewood city
+46|10620|Cavour|Cavour town
+46|11060|Centerville|Centerville city
+46|11140|Central City|Central City city
+46|11220|Chamberlain|Chamberlain city
+46|11380|Chancellor|Chancellor town
+46|11500|Chelsea|Chelsea town
+46|12020|Claire City|Claire City town
+46|12100|Claremont|Claremont town
+46|12180|Clark|Clark city
+46|12540|Clear Lake|Clear Lake city
+46|13220|Colman|Colman city
+46|13300|Colome|Colome city
+46|13380|Colton|Colton city
+46|13420|Columbia|Columbia city
+46|13700|Conde|Conde city
+46|13940|Corona|Corona town
+46|13980|Corsica|Corsica city
+46|14220|Cottonwood|Cottonwood town
+46|14580|Cresbard|Cresbard town
+46|14740|Crooks|Crooks city
+46|15140|Custer|Custer city
+46|15300|Dallas|Dallas town
+46|15420|Dante|Dante town
+46|15540|Davis|Davis town
+46|15700|Deadwood|Deadwood city
+46|15980|Dell Rapids|Dell Rapids city
+46|16060|Delmont|Delmont city
+46|16260|De Smet|De Smet city
+46|16620|Dimock|Dimock town
+46|16820|Doland|Doland city
+46|16860|Dolton|Dolton town
+46|17020|Draper|Draper town
+46|17420|Dupree|Dupree city
+46|17620|Eagle Butte|Eagle Butte city
+46|18180|Eden|Eden town
+46|18300|Edgemont|Edgemont city
+46|18460|Egan|Egan city
+46|18620|Elk Point|Elk Point city
+46|18700|Elkton|Elkton city
+46|19420|Emery|Emery city
+46|19860|Erwin|Erwin town
+46|19980|Estelline|Estelline city
+46|20060|Ethan|Ethan town
+46|20180|Eureka|Eureka city
+46|20340|Fairburn|Fairburn town
+46|20380|Fairfax|Fairfax town
+46|20780|Fairview|Fairview town
+46|20980|Faith|Faith city
+46|21060|Farmer|Farmer town
+46|21260|Faulkton|Faulkton city
+46|21540|Flandreau|Flandreau city
+46|21820|Florence|Florence town
+46|22260|Fort Pierre|Fort Pierre city
+46|22580|Frankfort|Frankfort city
+46|22860|Frederick|Frederick town
+46|23020|Freeman|Freeman city
+46|23140|Fruitdale|Fruitdale town
+46|23220|Fulton|Fulton town
+46|23460|Garden City|Garden City town
+46|23820|Garretson|Garretson city
+46|23860|Gary|Gary city
+46|23900|Gayville|Gayville town
+46|23980|Geddes|Geddes city
+46|24260|Gettysburg|Gettysburg city
+46|24620|Glenham|Glenham town
+46|24820|Goodwin|Goodwin town
+46|26180|Gregory|Gregory city
+46|26220|Grenville|Grenville town
+46|26340|Groton|Groton city
+46|27260|Harrisburg|Harrisburg city
+46|27420|Harrold|Harrold town
+46|27540|Hartford|Hartford city
+46|27820|Hayti|Hayti town
+46|27940|Hazel|Hazel town
+46|27980|Hecla|Hecla city
+46|28140|Henry|Henry town
+46|28300|Hermosa|Hermosa town
+46|28340|Herreid|Herreid city
+46|28420|Herrick|Herrick town
+46|28460|Hetland|Hetland town
+46|28980|Highmore|Highmore city
+46|29100|Hill City|Hill City city
+46|29340|Hillsview|Hillsview town
+46|29500|Hitchcock|Hitchcock town
+46|30140|Hosmer|Hosmer city
+46|30220|Hot Springs|Hot Springs city
+46|30300|Hoven|Hoven town
+46|30460|Howard|Howard city
+46|30740|Hudson|Hudson town
+46|30900|Humboldt|Humboldt town
+46|30980|Hurley|Hurley city
+46|31060|Huron|Huron city
+46|31620|Interior|Interior town
+46|31860|Ipswich|Ipswich city
+46|31940|Irene|Irene city
+46|32020|Iroquois|Iroquois city
+46|32140|Isabel|Isabel town
+46|32460|Java|Java town
+46|32700|Jefferson|Jefferson city
+46|33180|Kadoka|Kadoka city
+46|33580|Kennebec|Kennebec town
+46|33820|Keystone|Keystone town
+46|33980|Kimball|Kimball city
+46|34340|Kranzburg|Kranzburg town
+46|34540|La Bolt|La Bolt town
+46|35100|Lake Andes|Lake Andes city
+46|35220|Lake City|Lake City town
+46|35460|Lake Norden|Lake Norden city
+46|35500|Lake Preston|Lake Preston city
+46|35780|Lane|Lane town
+46|35820|Langford|Langford town
+46|36220|Lead|Lead city
+46|36260|Lebanon|Lebanon town
+46|36340|Lemmon|Lemmon city
+46|36380|Lennox|Lennox city
+46|36460|Leola|Leola city
+46|36540|Lesterville|Lesterville town
+46|36620|Letcher|Letcher town
+46|37140|Lily|Lily town
+46|38860|Long Lake|Long Lake town
+46|39260|Lowry|Lowry town
+46|39940|McIntosh|McIntosh city
+46|40020|McLaughlin|McLaughlin city
+46|40220|Madison|Madison city
+46|40860|Marion|Marion city
+46|41100|Martin|Martin city
+46|41220|Marvin|Marvin town
+46|41860|Mellette|Mellette city
+46|41980|Menno|Menno city
+46|42140|Midland|Midland town
+46|42260|Milbank|Milbank city
+46|42460|Miller|Miller city
+46|42940|Mission|Mission city
+46|42980|Mission Hill|Mission Hill town
+46|43100|Mitchell|Mitchell city
+46|43180|Mobridge|Mobridge city
+46|43380|Monroe|Monroe town
+46|43500|Montrose|Montrose city
+46|43860|Morristown|Morristown town
+46|44020|Mound City|Mound City town
+46|44100|Mount Vernon|Mount Vernon city
+46|44260|Murdo|Murdo city
+46|44620|Naples|Naples town
+46|44820|New Effington|New Effington town
+46|44860|Newell|Newell city
+46|45060|New Underwood|New Underwood city
+46|45100|New Witten|New Witten town
+46|45180|Nisland|Nisland town
+46|45700|North Sioux City|North Sioux City city
+46|45740|Northville|Northville town
+46|46060|Nunda|Nunda town
+46|46180|Oacoma|Oacoma town
+46|46500|Oelrichs|Oelrichs town
+46|46780|Oldham|Oldham city
+46|46900|Olivet|Olivet town
+46|46980|Onaka|Onaka town
+46|47180|Onida|Onida city
+46|47460|Orient|Orient town
+46|47660|Ortley|Ortley town
+46|48380|Parker|Parker city
+46|48460|Parkston|Parkston city
+46|48940|Peever|Peever town
+46|49300|Philip|Philip city
+46|49460|Pickstown|Pickstown town
+46|49500|Piedmont|Piedmont city
+46|49540|Pierpont|Pierpont town
+46|49600|Pierre|Pierre city
+46|50020|Plankinton|Plankinton city
+46|50260|Platte|Platte city
+46|51260|Pollock|Pollock town
+46|51820|Presho|Presho city
+46|51940|Pringle|Pringle town
+46|52220|Pukwana|Pukwana town
+46|52500|Quinn|Quinn town
+46|52860|Ramona|Ramona town
+46|52980|Rapid City|Rapid City city
+46|53220|Ravinia|Ravinia town
+46|53260|Raymond|Raymond town
+46|53460|Redfield|Redfield city
+46|53940|Ree Heights|Ree Heights town
+46|54020|Reliance|Reliance town
+46|54220|Revillo|Revillo town
+46|55540|Rockham|Rockham town
+46|55820|Roscoe|Roscoe city
+46|56340|Rosholt|Rosholt town
+46|56380|Roslyn|Roslyn town
+46|56420|Roswell|Roswell town
+46|57140|St. Francis|St. Francis town
+46|57180|St. Lawrence|St. Lawrence town
+46|57340|Salem|Salem city
+46|57940|Scotland|Scotland city
+46|58140|Selby|Selby city
+46|58180|Seneca|Seneca town
+46|58580|Sherman|Sherman town
+46|58900|Sinai|Sinai town
+46|59020|Sioux Falls|Sioux Falls city
+46|59260|Sisseton|Sisseton city
+46|59940|South Shore|South Shore town
+46|60020|Spearfish|Spearfish city
+46|60060|Spencer|Spencer city
+46|60660|Springfield|Springfield city
+46|61700|Stickney|Stickney town
+46|61740|Stockholm|Stockholm town
+46|61980|Strandburg|Strandburg town
+46|62020|Stratford|Stratford town
+46|62100|Sturgis|Sturgis city
+46|62155|Summerset|Summerset city
+46|62220|Summit|Summit town
+46|62820|Tabor|Tabor town
+46|63100|Tea|Tea city
+46|63620|Timber Lake|Timber Lake city
+46|63700|Tolstoy|Tolstoy town
+46|63740|Toronto|Toronto town
+46|63940|Trent|Trent town
+46|64020|Tripp|Tripp city
+46|64300|Tulare|Tulare town
+46|64540|Turton|Turton town
+46|64700|Twin Brooks|Twin Brooks town
+46|64860|Tyndall|Tyndall city
+46|65780|Utica|Utica town
+46|66260|Valley Springs|Valley Springs city
+46|66540|Veblen|Veblen city
+46|66660|Verdon|Verdon town
+46|66700|Vermillion|Vermillion city
+46|67020|Viborg|Viborg city
+46|67220|Vienna|Vienna town
+46|67340|Vilas|Vilas town
+46|67500|Virgil|Virgil town
+46|67700|Volga|Volga city
+46|67780|Volin|Volin town
+46|68020|Wagner|Wagner city
+46|68100|Wakonda|Wakonda town
+46|68380|Wall|Wall town
+46|68420|Wallace|Wallace town
+46|68660|Ward|Ward town
+46|68740|Warner|Warner town
+46|69140|Wasta|Wasta town
+46|69300|Watertown|Watertown city
+46|69340|Waubay|Waubay city
+46|69780|Webster|Webster city
+46|70020|Wentworth|Wentworth village
+46|70140|Wessington|Wessington city
+46|70220|Wessington Springs|Wessington Springs city
+46|70540|Westport|Westport town
+46|70740|Wetonka|Wetonka town
+46|70940|White|White city
+46|71180|White Lake|White Lake city
+46|71340|White River|White River city
+46|71380|White Rock|White Rock town
+46|71580|Whitewood|Whitewood city
+46|71940|Willow Lake|Willow Lake city
+46|71980|Wilmot|Wilmot city
+46|72180|Winner|Winner city
+46|72540|Wolsey|Wolsey town
+46|72620|Wood|Wood town
+46|72700|Woonsocket|Woonsocket city
+46|72820|Worthing|Worthing city
+46|73020|Yale|Yale town
+46|73060|Yankton|Yankton city

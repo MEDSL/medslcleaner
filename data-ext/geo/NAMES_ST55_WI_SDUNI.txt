@@ -1,0 +1,372 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+55|00016|Blair-Taylor School District|Blair-Taylor School District
+55|00017|River Ridge School District|River Ridge School District
+55|00030|Abbotsford School District|Abbotsford School District
+55|00056|Gresham School District|Gresham School District
+55|00058|Chequamegon School District|Chequamegon School District
+55|00060|Adams-Friendship Area School District|Adams-Friendship Area School District
+55|00120|Albany School District|Albany School District
+55|00150|Algoma School District|Algoma School District
+55|00180|Alma School District|Alma School District
+55|00210|Alma Center School District|Alma Center School District
+55|00240|Almond-Bancroft School District|Almond-Bancroft School District
+55|00270|Altoona School District|Altoona School District
+55|00300|Amery School District|Amery School District
+55|00330|Tomorrow River School District|Tomorrow River School District
+55|00360|Antigo School District|Antigo School District
+55|00390|Appleton Area School District|Appleton Area School District
+55|00420|Arcadia School District|Arcadia School District
+55|00450|Argyle School District|Argyle School District
+55|00510|Ashland School District|Ashland School District
+55|00540|Ashwaubenon School District|Ashwaubenon School District
+55|00570|Athens School District|Athens School District
+55|00600|Auburndale School District|Auburndale School District
+55|00630|Augusta School District|Augusta School District
+55|00720|Baldwin-Woodville Area School District|Baldwin-Woodville Area School District
+55|00750|Unity School District|Unity School District
+55|00780|Bangor School District|Bangor School District
+55|00810|Baraboo School District|Baraboo School District
+55|00840|Barneveld School District|Barneveld School District
+55|00870|Barron Area School District|Barron Area School District
+55|00900|Bayfield School District|Bayfield School District
+55|00960|Beaver Dam School District|Beaver Dam School District
+55|00990|Belleville School District|Belleville School District
+55|01020|Belmont Community School District|Belmont Community School District
+55|01050|Beloit School District|Beloit School District
+55|01080|Beloit Turner School District|Beloit Turner School District
+55|01110|Benton School District|Benton School District
+55|01140|Berlin Area School District|Berlin Area School District
+55|01170|Birchwood School District|Birchwood School District
+55|01230|Wisconsin Heights School District|Wisconsin Heights School District
+55|01260|Black River Falls School District|Black River Falls School District
+55|01310|Pecatonica Area School District|Pecatonica Area School District
+55|01350|Bloomer School District|Bloomer School District
+55|01470|Bonduel School District|Bonduel School District
+55|01500|Boscobel Area School District|Boscobel Area School District
+55|01560|Bowler School District|Bowler School District
+55|01590|Boyceville Community School District|Boyceville Community School District
+55|01680|Brillion School District|Brillion School District
+55|01740|Brodhead School District|Brodhead School District
+55|01770|Elmbrook School District|Elmbrook School District
+55|01800|Brown Deer School District|Brown Deer School District
+55|01830|Bruce School District|Bruce School District
+55|01890|Burlington Area School District|Burlington Area School District
+55|01920|Butternut School District|Butternut School District
+55|02040|Cadott Community School District|Cadott Community School District
+55|02070|Cambria-Friesland School District|Cambria-Friesland School District
+55|02100|Cambridge School District|Cambridge School District
+55|02130|Cameron School District|Cameron School District
+55|02160|Campbellsport School District|Campbellsport School District
+55|02340|Cashton School District|Cashton School District
+55|02400|Cassville School District|Cassville School District
+55|02430|Cedar Grove-Belgium Area School District|Cedar Grove-Belgium Area School District
+55|02460|Cedarburg School District|Cedarburg School District
+55|02490|Chetek School District|Chetek School District
+55|02520|Chilton School District|Chilton School District
+55|02550|Chippewa Falls Area School District|Chippewa Falls Area School District
+55|02580|Clayton School District|Clayton School District
+55|02610|Clear Lake School District|Clear Lake School District
+55|02640|Clinton Community School District|Clinton Community School District
+55|02670|Clintonville School District|Clintonville School District
+55|02700|Cochrane-Fountain City School District|Cochrane-Fountain City School District
+55|02730|Colby School District|Colby School District
+55|02760|Coleman School District|Coleman School District
+55|02790|Colfax School District|Colfax School District
+55|02820|Columbus School District|Columbus School District
+55|02880|Cornell School District|Cornell School District
+55|02910|Crandon School District|Crandon School District
+55|02970|Crivitz School District|Crivitz School District
+55|03030|Cuba City School District|Cuba City School District
+55|03060|Cudahy School District|Cudahy School District
+55|03090|Cumberland School District|Cumberland School District
+55|03150|Darlington Community School District|Darlington Community School District
+55|03180|DeForest Area School District|DeForest Area School District
+55|03210|De Pere Unified School District|De Pere Unified School District
+55|03240|De Soto Area School District|De Soto Area School District
+55|03270|Deerfield Community School District|Deerfield Community School District
+55|03510|Kettle Moraine School District|Kettle Moraine School District
+55|03640|Delavan-Darien School District|Delavan-Darien School District
+55|03660|Denmark School District|Denmark School District
+55|03690|Dodgeville School District|Dodgeville School District
+55|03810|Drummond Area School District|Drummond Area School District
+55|03840|Durand School District|Durand School District
+55|03860|Northland Pines School District|Northland Pines School District
+55|04020|East Troy Community School District|East Troy Community School District
+55|04050|Eau Claire Area School District|Eau Claire Area School District
+55|04080|Edgar School District|Edgar School District
+55|04110|Edgerton School District|Edgerton School District
+55|04170|Elcho School District|Elcho School District
+55|04200|Eleva-Strum School District|Eleva-Strum School District
+55|04230|Elk Mound Area School District|Elk Mound Area School District
+55|04260|Elkhart Lake-Glenbeulah School District|Elkhart Lake-Glenbeulah School District
+55|04290|Elkhorn Area School District|Elkhorn Area School District
+55|04320|Ellsworth Community School District|Ellsworth Community School District
+55|04350|Elmwood School District|Elmwood School District
+55|04380|Royall School District|Royall School District
+55|04440|Evansville Community School District|Evansville Community School District
+55|04500|Fall Creek School District|Fall Creek School District
+55|04530|Fall River School District|Fall River School District
+55|04590|Fennimore Community School District|Fennimore Community School District
+55|04650|Florence School District|Florence School District
+55|04680|Fond du Lac School District|Fond du Lac School District
+55|04740|Fort Atkinson School District|Fort Atkinson School District
+55|04830|Franklin Public School District|Franklin Public School District
+55|04860|Frederic School District|Frederic School District
+55|04890|Northern Ozaukee School District|Northern Ozaukee School District
+55|04920|Freedom Area School District|Freedom Area School District
+55|04960|Galesville-Ettrick-Trempealeau School District|Galesville-Ettrick-Trempealeau School District
+55|04980|North Crawford School District|North Crawford School District
+55|05160|Germantown School District|Germantown School District
+55|05220|Gibraltar Area School District|Gibraltar Area School District
+55|05250|Gillett School District|Gillett School District
+55|05280|Gilman School District|Gilman School District
+55|05370|Gilmanton School District|Gilmanton School District
+55|05520|Glenwood City School District|Glenwood City School District
+55|05580|Goodman-Armstrong School District|Goodman-Armstrong School District
+55|05610|Grafton School District|Grafton School District
+55|05640|Granton Area School District|Granton Area School District
+55|05670|Grantsburg School District|Grantsburg School District
+55|05730|Black Hawk School District|Black Hawk School District
+55|05820|Green Bay Area School District|Green Bay Area School District
+55|05880|Green Lake School District|Green Lake School District
+55|05910|Greendale School District|Greendale School District
+55|05940|Greenfield School District|Greenfield School District
+55|05970|Greenwood School District|Greenwood School District
+55|06000|Whitnall School District|Whitnall School District
+55|06030|Hamilton School District|Hamilton School District
+55|06060|St. Croix Central School District|St. Croix Central School District
+55|06270|Hayward Community School District|Hayward Community School District
+55|06300|Southwestern Wisconsin School District|Southwestern Wisconsin School District
+55|06420|Highland School District|Highland School District
+55|06450|Hilbert School District|Hilbert School District
+55|06480|Hillsboro School District|Hillsboro School District
+55|06540|Holmen School District|Holmen School District
+55|06570|Horicon School District|Horicon School District
+55|06600|Hortonville School District|Hortonville School District
+55|06630|Howard-Suamico School District|Howard-Suamico School District
+55|06660|Howards Grove School District|Howards Grove School District
+55|06690|Hudson School District|Hudson School District
+55|06750|Hurley School District|Hurley School District
+55|06780|Hustisford School District|Hustisford School District
+55|06810|Independence School District|Independence School District
+55|06840|Iola-Scandinavia School District|Iola-Scandinavia School District
+55|06870|Iowa-Grant School District|Iowa-Grant School District
+55|06960|Ithaca School District|Ithaca School District
+55|07020|Janesville School District|Janesville School District
+55|07050|Jefferson School District|Jefferson School District
+55|07170|Johnson Creek School District|Johnson Creek School District
+55|07230|Juda School District|Juda School District
+55|07260|Dodgeland School District|Dodgeland School District
+55|07290|Kaukauna Area School District|Kaukauna Area School District
+55|07320|Kenosha School District|Kenosha School District
+55|07380|Kewaskum School District|Kewaskum School District
+55|07410|Kewaunee School District|Kewaunee School District
+55|07440|Kiel Area School District|Kiel Area School District
+55|07470|Kimberly Area School District|Kimberly Area School District
+55|07500|Kohler School District|Kohler School District
+55|07530|La Crosse School District|La Crosse School District
+55|07560|La Farge School District|La Farge School District
+55|07590|Ladysmith-Hawkins School District|Ladysmith-Hawkins School District
+55|07680|Lake Holcombe School District|Lake Holcombe School District
+55|07710|Lake Mills Area School District|Lake Mills Area School District
+55|07770|Lancaster Community School District|Lancaster Community School District
+55|07830|Laona School District|Laona School District
+55|07860|Lena School District|Lena School District
+55|08160|Little Chute Area School District|Little Chute Area School District
+55|08190|Lodi School District|Lodi School District
+55|08220|Lomira School District|Lomira School District
+55|08250|Loyal School District|Loyal School District
+55|08280|Luck School District|Luck School District
+55|08340|Luxemburg-Casco School District|Luxemburg-Casco School District
+55|08520|Madison Metropolitan School District|Madison Metropolitan School District
+55|08550|Manawa School District|Manawa School District
+55|08610|Manitowoc School District|Manitowoc School District
+55|08640|Maple School District|Maple School District
+55|08670|Marathon City School District|Marathon City School District
+55|08700|Marinette School District|Marinette School District
+55|08730|Marion School District|Marion School District
+55|08760|Markesan School District|Markesan School District
+55|08790|Marshall School District|Marshall School District
+55|08820|Marshfield School District|Marshfield School District
+55|08850|Mauston School District|Mauston School District
+55|08880|Mayville School District|Mayville School District
+55|08910|McFarland School District|McFarland School District
+55|08940|Medford Area School District|Medford Area School District
+55|08970|Mellen School District|Mellen School District
+55|09000|Melrose-Mindoro School District|Melrose-Mindoro School District
+55|09030|Menasha School District|Menasha School District
+55|09060|Menomonee Falls School District|Menomonee Falls School District
+55|09070|Menominee Indian School District|Menominee Indian School District
+55|09090|Menomonie Area School District|Menomonie Area School District
+55|09130|Mequon-Thiensville School District|Mequon-Thiensville School District
+55|09150|Mercer School District|Mercer School District
+55|09210|Merrill Area School District|Merrill Area School District
+55|09510|Middleton-Cross Plains School District|Middleton-Cross Plains School District
+55|09570|Milton School District|Milton School District
+55|09600|Milwaukee School District|Milwaukee School District
+55|09660|Mineral Point School District|Mineral Point School District
+55|09720|Northwood School District|Northwood School District
+55|09750|Mishicot School District|Mishicot School District
+55|09780|Mondovi School District|Mondovi School District
+55|09810|Monona Grove School District|Monona Grove School District
+55|09840|Monroe School District|Monroe School District
+55|09870|Montello School District|Montello School District
+55|09900|Monticello School District|Monticello School District
+55|09960|Mosinee School District|Mosinee School District
+55|09990|Mount Horeb Area School District|Mount Horeb Area School District
+55|10060|Mukwonago School District|Mukwonago School District
+55|10140|Riverdale School District|Riverdale School District
+55|10170|Muskego-Norway School District|Muskego-Norway School District
+55|10230|Necedah Area School District|Necedah Area School District
+55|10320|Neenah School District|Neenah School District
+55|10350|Neillsville School District|Neillsville School District
+55|10380|Nekoosa School District|Nekoosa School District
+55|10440|New Auburn School District|New Auburn School District
+55|10470|New Berlin School District|New Berlin School District
+55|10500|New Glarus School District|New Glarus School District
+55|10530|New Holstein School District|New Holstein School District
+55|10560|New Lisbon School District|New Lisbon School District
+55|10590|New London School District|New London School District
+55|10620|New Richmond School District|New Richmond School District
+55|10680|Niagara School District|Niagara School District
+55|10710|Norris School District|Norris School District
+55|10740|North Fond du Lac School District|North Fond du Lac School District
+55|10770|Norwalk-Ontario-Wilton School District|Norwalk-Ontario-Wilton School District
+55|10830|Oak Creek-Franklin School District|Oak Creek-Franklin School District
+55|10860|Oakfield School District|Oakfield School District
+55|10890|Oconomowoc Area School District|Oconomowoc Area School District
+55|10920|Oconto School District|Oconto School District
+55|10950|Oconto Falls School District|Oconto Falls School District
+55|10980|Omro School District|Omro School District
+55|11010|Onalaska School District|Onalaska School District
+55|11070|Oostburg School District|Oostburg School District
+55|11100|Oregon School District|Oregon School District
+55|11130|Parkview School District|Parkview School District
+55|11160|Osceola School District|Osceola School District
+55|11190|Oshkosh Area School District|Oshkosh Area School District
+55|11220|Osseo-Fairchild School District|Osseo-Fairchild School District
+55|11310|Owen-Withee School District|Owen-Withee School District
+55|11350|Palmyra-Eagle Area School District|Palmyra-Eagle Area School District
+55|11370|Pardeeville Area School District|Pardeeville Area School District
+55|11550|Beecher-Dunbar-Pembine School District|Beecher-Dunbar-Pembine School District
+55|11580|Pepin Area School District|Pepin Area School District
+55|11610|Peshtigo School District|Peshtigo School District
+55|11640|Pewaukee School District|Pewaukee School District
+55|11710|Phelps School District|Phelps School District
+55|11730|Phillips School District|Phillips School District
+55|11790|Pittsville School District|Pittsville School District
+55|11820|Tri-County Area School District|Tri-County Area School District
+55|11850|Platteville School District|Platteville School District
+55|11880|Plum City School District|Plum City School District
+55|11940|Plymouth School District|Plymouth School District
+55|11970|Port Edwards School District|Port Edwards School District
+55|12000|Port Washington-Saukville School District|Port Washington-Saukville School District
+55|12030|South Shore School District|South Shore School District
+55|12060|Portage Community School District|Portage Community School District
+55|12090|Potosi School District|Potosi School District
+55|12120|Poynette School District|Poynette School District
+55|12150|Prairie du Chien Area School District|Prairie du Chien Area School District
+55|12180|Prairie Farm School District|Prairie Farm School District
+55|12210|Prentice School District|Prentice School District
+55|12240|Prescott School District|Prescott School District
+55|12300|Princeton School District|Princeton School District
+55|12330|Pulaski Community School District|Pulaski Community School District
+55|12360|Racine School District|Racine School District
+55|12420|Randolph School District|Randolph School District
+55|12450|Random Lake School District|Random Lake School District
+55|12540|Kickapoo Area School District|Kickapoo Area School District
+55|12660|Reedsburg School District|Reedsburg School District
+55|12690|Reedsville School District|Reedsville School District
+55|12720|Rhinelander School District|Rhinelander School District
+55|12780|Rib Lake School District|Rib Lake School District
+55|12810|Rice Lake Area School District|Rice Lake Area School District
+55|12960|Richland School District|Richland School District
+55|12990|Rio Community School District|Rio Community School District
+55|13020|Ripon Area School District|Ripon Area School District
+55|13050|River Falls School District|River Falls School District
+55|13100|Rosendale-Brandon School District|Rosendale-Brandon School District
+55|13140|Rosholt School District|Rosholt School District
+55|13170|D.C. Everest Area School District|D.C. Everest Area School District
+55|13230|St. Croix Falls School District|St. Croix Falls School District
+55|13260|St. Francis School District|St. Francis School District
+55|13410|Sauk Prairie School District|Sauk Prairie School District
+55|13470|Seneca School District|Seneca School District
+55|13500|Sevastopol School District|Sevastopol School District
+55|13530|Seymour Community School District|Seymour Community School District
+55|13620|Shawano School District|Shawano School District
+55|13650|Sheboygan Area School District|Sheboygan Area School District
+55|13680|Sheboygan Falls School District|Sheboygan Falls School District
+55|13710|Shell Lake School District|Shell Lake School District
+55|13770|Shiocton School District|Shiocton School District
+55|13800|Shorewood School District|Shorewood School District
+55|13830|Shullsburg School District|Shullsburg School District
+55|13890|Siren School District|Siren School District
+55|13950|Slinger School District|Slinger School District
+55|13980|Solon Springs School District|Solon Springs School District
+55|14010|Somerset School District|Somerset School District
+55|14040|South Milwaukee School District|South Milwaukee School District
+55|14130|Southern Door County School District|Southern Door County School District
+55|14160|Sparta Area School District|Sparta Area School District
+55|14190|Spencer School District|Spencer School District
+55|14220|Spooner Area School District|Spooner Area School District
+55|14250|River Valley School District|River Valley School District
+55|14340|Spring Valley School District|Spring Valley School District
+55|14430|Stanley-Boyd Area School District|Stanley-Boyd Area School District
+55|14490|Stevens Point Area School District|Stevens Point Area School District
+55|14520|Stockbridge School District|Stockbridge School District
+55|14550|Stoughton Area School District|Stoughton Area School District
+55|14580|Stratford School District|Stratford School District
+55|14610|Sturgeon Bay School District|Sturgeon Bay School District
+55|14640|Sun Prairie Area School District|Sun Prairie Area School District
+55|14670|Superior School District|Superior School District
+55|14700|Suring School District|Suring School District
+55|14820|Thorp School District|Thorp School District
+55|14850|Three Lakes School District|Three Lakes School District
+55|14880|Tigerton School District|Tigerton School District
+55|14910|Tomah Area School District|Tomah Area School District
+55|14940|Tomahawk School District|Tomahawk School District
+55|14970|Flambeau School District|Flambeau School District
+55|15060|Turtle Lake School District|Turtle Lake School District
+55|15120|Two Rivers School District|Two Rivers School District
+55|15210|Valders Area School District|Valders Area School District
+55|15330|Verona Area School District|Verona Area School District
+55|15360|Viroqua Area School District|Viroqua Area School District
+55|15390|Wabeno Area School District|Wabeno Area School District
+55|15540|Washburn School District|Washburn School District
+55|15570|Washington School District|Washington School District
+55|15720|Waterloo School District|Waterloo School District
+55|15750|Watertown School District|Watertown School District
+55|15780|Waukesha School District|Waukesha School District
+55|15810|Waunakee Community School District|Waunakee Community School District
+55|15840|Waupaca School District|Waupaca School District
+55|15870|Waupun School District|Waupun School District
+55|15900|Wausau School District|Wausau School District
+55|15930|Wausaukee School District|Wausaukee School District
+55|15960|Wautoma Area School District|Wautoma Area School District
+55|15990|Wauwatosa School District|Wauwatosa School District
+55|16020|Wauzeka-Steuben School District|Wauzeka-Steuben School District
+55|16230|Webster School District|Webster School District
+55|16260|West Allis School District|West Allis School District
+55|16290|West Bend School District|West Bend School District
+55|16320|West De Pere School District|West De Pere School District
+55|16350|West Salem School District|West Salem School District
+55|16410|Westby Area School District|Westby Area School District
+55|16440|Westfield School District|Westfield School District
+55|16470|Weston School District|Weston School District
+55|16500|Weyauwega-Fremont School District|Weyauwega-Fremont School District
+55|16530|Weyerhaeuser Area School District|Weyerhaeuser Area School District
+55|16590|White Lake School District|White Lake School District
+55|16620|Whitefish Bay School District|Whitefish Bay School District
+55|16650|Whitehall School District|Whitehall School District
+55|16680|Whitewater School District|Whitewater School District
+55|16710|Wild Rose School District|Wild Rose School District
+55|16740|Williams Bay School District|Williams Bay School District
+55|16830|Winneconne Community School District|Winneconne Community School District
+55|16860|Winter School District|Winter School District
+55|17040|Wisconsin Dells School District|Wisconsin Dells School District
+55|17070|Wisconsin Rapids School District|Wisconsin Rapids School District
+55|17100|Wittenberg-Birnamwood School District|Wittenberg-Birnamwood School District
+55|17130|Wonewoc-Union Center School District|Wonewoc-Union Center School District
+55|17190|Wrightstown Community School District|Wrightstown Community School District
+55|99997|School District Not Defined|School District Not Defined
+55|99998|School District Not Defined (Water)|School District Not Defined (Water)

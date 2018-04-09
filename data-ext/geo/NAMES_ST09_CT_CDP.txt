@@ -1,0 +1,113 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+09|02550|Baltic|Baltic CDP
+09|04790|Bethel|Bethel CDP
+09|04945|Bethlehem Village|Bethlehem Village CDP
+09|06050|Blue Hills|Blue Hills CDP
+09|07345|Branford Center|Branford Center CDP
+09|08770|Broad Brook|Broad Brook CDP
+09|09120|Brooklyn|Brooklyn CDP
+09|10660|Byram|Byram CDP
+09|10870|Canaan|Canaan CDP
+09|11990|Cannondale|Cannondale CDP
+09|12370|Canton Valley|Canton Valley CDP
+09|14200|Cheshire Village|Cheshire Village CDP
+09|14370|Chester Center|Chester Center CDP
+09|15420|Clinton|Clinton CDP
+09|15840|Colchester|Colchester CDP
+09|16120|Collinsville|Collinsville CDP
+09|16960|Conning Towers Nautilus Park|Conning Towers Nautilus Park CDP
+09|17520|Cos Cob|Cos Cob CDP
+09|17835|Coventry Lake|Coventry Lake CDP
+09|18220|Crystal Lake|Crystal Lake CDP
+09|18920|Darien|Darien CDP
+09|19200|Deep River Center|Deep River Center CDP
+09|20740|Durham|Durham CDP
+09|21160|East Brooklyn|East Brooklyn CDP
+09|22420|East Hampton|East Hampton CDP
+09|22700|East Hartford|East Hartford CDP
+09|22980|East Haven|East Haven CDP
+09|26370|Essex Village|Essex Village CDP
+09|27390|Falls Village|Falls Village CDP
+09|30190|Gales Ferry|Gales Ferry CDP
+09|30540|Georgetown|Georgetown CDP
+09|31270|Glastonbury Center|Glastonbury Center CDP
+09|31520|Glenville|Glenville CDP
+09|33690|Greenwich|Greenwich CDP
+09|35020|Guilford Center|Guilford Center CDP
+09|37770|Hazardville|Hazardville CDP
+09|37930|Heritage Village|Heritage Village CDP
+09|38050|Higganum|Higganum CDP
+09|40150|Kensington|Kensington CDP
+09|41410|Lake Pocotopaug|Lake Pocotopaug CDP
+09|41830|Lakeville|Lakeville CDP
+09|43790|Long Hill|Long Hill CDP
+09|44630|Madison Center|Madison Center CDP
+09|44690|Manchester|Manchester CDP
+09|45120|Mansfield Center|Mansfield Center CDP
+09|45595|Mashantucket|Mashantucket CDP
+09|49110|Moodus|Moodus CDP
+09|49180|Moosup|Moosup CDP
+09|49810|Mystic|Mystic CDP
+09|51420|New Hartford Center|New Hartford Center CDP
+09|52210|Newington|Newington CDP
+09|52560|New Milford|New Milford CDP
+09|52770|New Preston|New Preston CDP
+09|53120|Niantic|Niantic CDP
+09|53260|Noank|Noank CDP
+09|53400|Norfolk|Norfolk CDP
+09|54660|North Granby|North Granby CDP
+09|54730|North Grosvenor Dale|North Grosvenor Dale CDP
+09|54940|North Haven|North Haven CDP
+09|55725|Northwest Harwinton|Northwest Harwinton CDP
+09|56690|Oakville|Oakville CDP
+09|56900|Old Greenwich|Old Greenwich CDP
+09|57180|Old Mystic|Old Mystic CDP
+09|57390|Old Saybrook Center|Old Saybrook Center CDP
+09|57670|Orange|Orange CDP
+09|58520|Oxoboxo River|Oxoboxo River CDP
+09|59140|Pawcatuck|Pawcatuck CDP
+09|59210|Pemberwick|Pemberwick CDP
+09|60090|Plainfield Village|Plainfield Village CDP
+09|61730|Poquonock Bridge|Poquonock Bridge CDP
+09|61870|Portland|Portland CDP
+09|62640|Putnam|Putnam CDP
+09|63270|Quinebaug|Quinebaug CDP
+09|63900|Ridgefield|Ridgefield CDP
+09|64530|Riverside|Riverside CDP
+09|65230|Rockville|Rockville CDP
+09|66455|Salmon Brook|Salmon Brook CDP
+09|67050|Saybrook Manor|Saybrook Manor CDP
+09|67890|Sharon|Sharon CDP
+09|68450|Sherwood Manor|Sherwood Manor CDP
+09|69010|Simsbury Center|Simsbury Center CDP
+09|69150|Somers|Somers CDP
+09|69990|South Coventry|South Coventry CDP
+09|71040|Southport|Southport CDP
+09|71250|South Windham|South Windham CDP
+09|71460|Southwood Acres|Southwood Acres CDP
+09|71530|South Woodstock|South Woodstock CDP
+09|72300|Stafford Springs|Stafford Springs CDP
+09|73980|Storrs|Storrs CDP
+09|74260|Stratford|Stratford CDP
+09|74655|Suffield Depot|Suffield Depot CDP
+09|75100|Tariffville|Tariffville CDP
+09|75200|Terramuggus|Terramuggus CDP
+09|75240|Terryville|Terryville CDP
+09|75660|Thomaston|Thomaston CDP
+09|75940|Thompsonville|Thompsonville CDP
+09|77270|Trumbull|Trumbull CDP
+09|78880|Wallingford Center|Wallingford Center CDP
+09|80210|Waterford|Waterford CDP
+09|80420|Watertown|Watertown CDP
+09|80630|Wauregan|Wauregan CDP
+09|80770|Weatogue|Weatogue CDP
+09|81750|Westbrook Center|Westbrook Center CDP
+09|82660|West Hartford|West Hartford CDP
+09|83570|Westport|Westport CDP
+09|83990|West Simsbury|West Simsbury CDP
+09|84970|Wethersfield|Wethersfield CDP
+09|85810|Willimantic|Willimantic CDP
+09|86380|Wilton Center|Wilton Center CDP
+09|87140|Windsor Locks|Windsor Locks CDP
+09|87350|Winsted|Winsted CDP
+09|87980|Woodbury Center|Woodbury Center CDP

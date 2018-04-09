@@ -1,0 +1,16 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+04|00082|Colorado River Union High School District|Colorado River Union High School District
+04|00450|Agua Fria Union High School District|Agua Fria Union High School District
+04|00720|Antelope Union High School District|Antelope Union High School District
+04|01160|Bicentennial Union High School District|Bicentennial Union High School District
+04|01410|Buckeye Union High School District|Buckeye Union High School District
+04|01740|Casa Grande Union High School District|Casa Grande Union High School District
+04|03450|Glendale Union High School District|Glendale Union High School District
+04|05070|Mingus Union High School District|Mingus Union High School District
+04|06030|Patagonia Union High School District|Patagonia Union High School District
+04|06330|Phoenix Union High School District|Phoenix Union High School District
+04|07530|Santa Cruz Valley Union High School District|Santa Cruz Valley Union High School District
+04|08340|Tempe Union High School District|Tempe Union High School District
+04|08520|Tolleson Union High School District|Tolleson Union High School District
+04|08910|Valley Union High School District|Valley Union High School District
+04|09630|Yuma Union High School District|Yuma Union High School District

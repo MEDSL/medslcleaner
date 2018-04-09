@@ -1,0 +1,380 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+17|00009|Pinckneyville School District 50|Pinckneyville School District 50
+17|00010|Beach Park Community Consolidated School District 3|Beach Park Community Consolidated School District 3
+17|00065|Saunemin Community Consolidated School District 438|Saunemin Community Consolidated School District 438
+17|00077|Marengo-Union Elementary Consolidated District 165|Marengo-Union Elementary Consolidated District 165
+17|00103|New Holland-Middletown Elementary School District 88|New Holland-Middletown Elementary School District 88
+17|00112|Streator Elementary School District 44|Streator Elementary School District 44
+17|00119|North Shore School District 112|North Shore School District 112
+17|00222|Nippersink School District 2|Nippersink School District 2
+17|00330|Prairieview-Ogden Community Consolidated School District 197|Prairieview-Ogden Community Consolidated School District 197
+17|03150|Addison School District 4|Addison School District 4
+17|03210|Akin Community Consolidated School District 91|Akin Community Consolidated School District 91
+17|03270|Albers School District 63|Albers School District 63
+17|03420|Allen Township Community Consolidated School District 65|Allen Township Community Consolidated School District 65
+17|03480|Alsip-Hazelgreen-Oaklawn School District 126|Alsip-Hazelgreen-Oaklawn School District 126
+17|03750|Anna Community Consolidated School District 37|Anna Community Consolidated School District 37
+17|03840|Antioch Community Consolidated School District 34|Antioch Community Consolidated School District 34
+17|03900|Aptakisic-Tripp Community Consolidated School District|Aptakisic-Tripp Community Consolidated School District
+17|03930|Arbor Park School District 145|Arbor Park School District 145
+17|04050|Summit School District 104|Summit School District 104
+17|04140|Arlington Heights School District 25|Arlington Heights School District 25
+17|04200|Armstrong-Ellis Consolidated School District 61|Armstrong-Ellis Consolidated School District 61
+17|04340|Ashley Community Consolidated School District 15|Ashley Community Consolidated School District 15
+17|04560|Atwood Heights School District 125|Atwood Heights School District 125
+17|04740|Aviston School District 21|Aviston School District 21
+17|04800|Avoca School District 37|Avoca School District 37
+17|04950|Bannockburn School District 106|Bannockburn School District 106
+17|05160|Bartelso School District 57|Bartelso School District 57
+17|05190|Bartonville School District 66|Bartonville School District 66
+17|05466|Marseilles Elementary School District 150|Marseilles Elementary School District 150
+17|05570|Opdyke-Belle Rive Community Consolidated School District 5|Opdyke-Belle Rive Community Consolidated School District 5
+17|05580|Belle Valley School District 119|Belle Valley School District 119
+17|05610|Belleville School District 118|Belleville School District 118
+17|05760|Bellwood School District 88|Bellwood School District 88
+17|05880|Benjamin School District 25|Benjamin School District 25
+17|05910|Bensenville School District 2|Bensenville School District 2
+17|05950|Benton Community Consolidated School District 47|Benton Community Consolidated School District 47
+17|06000|Berkeley School District 87|Berkeley School District 87
+17|06060|Berwyn North School District 98|Berwyn North School District 98
+17|06090|Berwyn South School District 100|Berwyn South School District 100
+17|06180|Bethel School District 82|Bethel School District 82
+17|06270|Big Hollow School District 38|Big Hollow School District 38
+17|06450|Bloomingdale School District 13|Bloomingdale School District 13
+17|06510|Cook County School District 130|Cook County School District 130
+17|06630|Bluford Community Consolidated School District 114|Bluford Community Consolidated School District 114
+17|06750|Bourbonnais School District 53|Bourbonnais School District 53
+17|06840|Braceville School District 75|Braceville School District 75
+17|06930|Bradley School District 61|Bradley School District 61
+17|07010|Breese School District 12|Breese School District 12
+17|07170|Indian Springs School District 109|Indian Springs School District 109
+17|07290|Lemont-Bromberek Combined School District 113A|Lemont-Bromberek Combined School District 113A
+17|07320|Brookfield School District 95|Brookfield School District 95
+17|07740|Buncombe Consolidated School District 43|Buncombe Consolidated School District 43
+17|07860|Burnham School District 154-5|Burnham School District 154-5
+17|07980|Butler School District 53|Butler School District 53
+17|08100|Lincoln Elementary School District 156|Lincoln Elementary School District 156
+17|08130|Calumet Public School District 132|Calumet Public School District 132
+17|08310|Carbon Cliff-Barstow School District 36|Carbon Cliff-Barstow School District 36
+17|08340|Carbondale Elementary School District 95|Carbondale Elementary School District 95
+17|08680|Carthage Elementary School District 317|Carthage Elementary School District 317
+17|08730|Cary Community Consolidated School District 26|Cary Community Consolidated School District 26
+17|08790|Cass School District 63|Cass School District 63
+17|08970|Center Cass School District 66|Center Cass School District 66
+17|09150|Central School District 51|Central School District 51
+17|09170|Central School District 104|Central School District 104
+17|09180|Central City School District 133|Central City School District 133
+17|09210|Lockport School District 91|Lockport School District 91
+17|09270|Centralia School District 135|Centralia School District 135
+17|09510|Chaney-Monge School District 88|Chaney-Monge School District 88
+17|09540|Channahon School District 17|Channahon School District 17
+17|09720|Cherry School District 92|Cherry School District 92
+17|09850|Chester-East Lincoln Community Csd 61|Chester-East Lincoln Community Csd 61
+17|09960|Chicago Heights School District 170|Chicago Heights School District 170
+17|09990|Chicago Ridge School District 127-5|Chicago Ridge School District 127-5
+17|10200|Cicero School District 99|Cicero School District 99
+17|10380|Skokie School District 73-5|Skokie School District 73-5
+17|10470|Community Consolidated School District 93|Community Consolidated School District 93
+17|10690|Colona School District 190|Colona School District 190
+17|10860|Cornell Community Consolidated School District 426|Cornell Community Consolidated School District 426
+17|10950|Ford Heights School District 169|Ford Heights School District 169
+17|11010|Country Club Hills School District 160|Country Club Hills School District 160
+17|11220|Creston Community Consolidated School District 161|Creston Community Consolidated School District 161
+17|11290|Creve Coeur School District 76|Creve Coeur School District 76
+17|11350|Crystal Lake Community Consolidated School District 47|Crystal Lake Community Consolidated School District 47
+17|11520|Cypress School District 64|Cypress School District 64
+17|11670|Dallas Elementary School District 327|Dallas Elementary School District 327
+17|11700|Dalzell School District 98|Dalzell School District 98
+17|11730|Damiansville School District 62|Damiansville School District 62
+17|11910|Deer Park Community Consolidated School District 82|Deer Park Community Consolidated School District 82
+17|11980|Deerfield School District 109|Deerfield School District 109
+17|12120|Des Plaines Community Consolidated School District 62|Des Plaines Community Consolidated School District 62
+17|12150|De Soto Consolidated School District 86|De Soto Consolidated School District 86
+17|12210|Diamond Lake School District 76|Diamond Lake School District 76
+17|12270|Dimmick Community Consolidated School District 175|Dimmick Community Consolidated School District 175
+17|12390|Dodds Community Consolidated School District 7|Dodds Community Consolidated School District 7
+17|12420|Dolton School District 149|Dolton School District 149
+17|12450|Dolton School District 148|Dolton School District 148
+17|12540|Downers Grove Grade School District 58|Downers Grove Grade School District 58
+17|12840|Dwight Common School District 232|Dwight Common School District 232
+17|12960|East Alton School District 13|East Alton School District 13
+17|13020|East Coloma School District 12|East Coloma School District 12
+17|13140|East Maine School District 63|East Maine School District 63
+17|13170|East Moline School District 37|East Moline School District 37
+17|13240|East Peoria School District 86|East Peoria School District 86
+17|13260|East Prairie School District 73|East Prairie School District 73
+17|13440|Lindop School District 92|Lindop School District 92
+17|13770|Community Consolidated School District 59|Community Consolidated School District 59
+17|14160|Elwood Community Consolidated School District 203|Elwood Community Consolidated School District 203
+17|14220|Harmony Emge School District 175|Harmony Emge School District 175
+17|14250|Emmons School District 33|Emmons School District 33
+17|14410|Eswood Community Consolidated District 269|Eswood Community Consolidated District 269
+17|14460|Evanston Community Consolidated School District 65|Evanston Community Consolidated School District 65
+17|14550|Evergreen Park Elementary School District 124|Evergreen Park Elementary School District 124
+17|14640|Ewing Northern Community Consolidated District 115|Ewing Northern Community Consolidated District 115
+17|14710|Fairfield Public School District 112|Fairfield Public School District 112
+17|14760|Fairmont School District 89|Fairmont School District 89
+17|14820|Skokie-Fairview School District 72|Skokie-Fairview School District 72
+17|14940|Farrington Community Consolidated School District 99|Farrington Community Consolidated School District 99
+17|15090|Field Community Consolidated School District 3|Field Community Consolidated School District 3
+17|15420|Flossmoor School District 161|Flossmoor School District 161
+17|15450|Forest Park School District 91|Forest Park School District 91
+17|15480|Forest Ridge School District 142|Forest Ridge School District 142
+17|15630|Fox Lake Grade School District 114|Fox Lake Grade School District 114
+17|15660|Fox River Grove Consolidated School District 3|Fox River Grove Consolidated School District 3
+17|15700|Frankfort Community Consolidated School District 157C|Frankfort Community Consolidated School District 157C
+17|15780|Franklin Park School District 84|Franklin Park School District 84
+17|15820|Freeburg Community Consolidated School District 70|Freeburg Community Consolidated School District 70
+17|15930|Fremont School District 79|Fremont School District 79
+17|16230|Gardner Community Consolidated School District 72C|Gardner Community Consolidated School District 72C
+17|16290|Gavin School District 37|Gavin School District 37
+17|16320|Geff Community Consolidated School District 14|Geff Community Consolidated School District 14
+17|16530|Germantown School District 60|Germantown School District 60
+17|16560|Germantown Hills School District 69|Germantown Hills School District 69
+17|16590|Giant City Community Consolidated School District 130|Giant City Community Consolidated School District 130
+17|16650|Gifford Community Consolidated School District 188|Gifford Community Consolidated School District 188
+17|16800|Glen Ellyn School District 41|Glen Ellyn School District 41
+17|16860|Glencoe School District 35|Glencoe School District 35
+17|16920|Glenview Community Consolidated School District 34|Glenview Community Consolidated School District 34
+17|16950|Brookwood School District 167|Brookwood School District 167
+17|17040|Woodridge School District 68|Woodridge School District 68
+17|17160|Gower School District 62|Gower School District 62
+17|17190|Grand Prairie Community Consolidated School District 6|Grand Prairie Community Consolidated School District 6
+17|17220|Grand Ridge Community Consolidated School District 95|Grand Ridge Community Consolidated School District 95
+17|17310|Grant Community Consolidated School District 110|Grant Community Consolidated School District 110
+17|17490|Grass Lake School District 36|Grass Lake School District 36
+17|17520|Grayslake Consolidated Community School District 46|Grayslake Consolidated Community School District 46
+17|17800|Gurnee School District 56|Gurnee School District 56
+17|17850|Northbrook Elementary School District 27|Northbrook Elementary School District 27
+17|18090|Hampton School District 29|Hampton School District 29
+17|18360|Harrison School District 36|Harrison School District 36
+17|18450|Harvey School District 152|Harvey School District 152
+17|18480|West Harvey-Dixmoor Public School District 147|West Harvey-Dixmoor Public School District 147
+17|18570|Hawthorn Community Consolidated School District 73|Hawthorn Community Consolidated School District 73
+17|18600|Hazel Crest School District 152-5|Hazel Crest School District 152-5
+17|18960|High Mount School District 116|High Mount School District 116
+17|19110|LaGrange Highlands School District 106|LaGrange Highlands School District 106
+17|19230|Hillside School District 93|Hillside School District 93
+17|19290|Hinsdale Community Consolidated School District 181|Hinsdale Community Consolidated School District 181
+17|19420|Hollis Consolidated School District 328|Hollis Consolidated School District 328
+17|19500|Homer Community Consolidated School District 33C|Homer Community Consolidated School District 33C
+17|19530|Homewood School District 153|Homewood School District 153
+17|19680|Hoover-Schrum Memorial School District 157|Hoover-Schrum Memorial School District 157
+17|19740|Hoyleton Consolidated School District 29|Hoyleton Consolidated School District 29
+17|20010|Ina Community Consolidated School District 8|Ina Community Consolidated School District 8
+17|20190|Irvington County Community Unit School District 11|Irvington County Community Unit School District 11
+17|20220|Itasca School District 10|Itasca School District 10
+17|20250|Iuka Community Consolidated School District 7|Iuka Community Consolidated School District 7
+17|20370|Jasper Community Consolidated School District 17|Jasper Community Consolidated School District 17
+17|20580|Joliet Public School District 86|Joliet Public School District 86
+17|20640|Jonesboro Community Consolidated School District 43|Jonesboro Community Consolidated School District 43
+17|20880|Keeneyville School District 20|Keeneyville School District 20
+17|20910|Kell Consolidated School District 2|Kell Consolidated School District 2
+17|20970|Kenilworth School District 38|Kenilworth School District 38
+17|21030|Kildeer Countryside Community Consolidated School District 96|Kildeer Countryside Community Consolidated School District 96
+17|21130|Kings Consolidated School District 144|Kings Consolidated School District 144
+17|21180|Kinnikinnick Community Consolidated School District 131|Kinnikinnick Community Consolidated School District 131
+17|21270|Kirby School District 140|Kirby School District 140
+17|21420|Komarek School District 94|Komarek School District 94
+17|21450|Darien School District 61|Darien School District 61
+17|21510|Ladd Community Consolidated School District 94|Ladd Community Consolidated School District 94
+17|21600|LaGrange School District 102|LaGrange School District 102
+17|21630|LaGrange School District 105|LaGrange School District 105
+17|21690|La Harpe Community School District 347|La Harpe Community School District 347
+17|21720|Lake Bluff Elementary School District 65|Lake Bluff Elementary School District 65
+17|21750|Lake Forest School District 67|Lake Forest School District 67
+17|21870|Lake Villa Community Consolidated School District 41|Lake Villa Community Consolidated School District 41
+17|22020|Lansing School District 158|Lansing School District 158
+17|22050|Laraway Community Consolidated School District 70C|Laraway Community Consolidated School District 70C
+17|22080|LaSalle Elementary School District 122|LaSalle Elementary School District 122
+17|22380|Leepertown Community Consolidated School District 175|Leepertown Community Consolidated School District 175
+17|22800|Libertyville School District 70|Libertyville School District 70
+17|22860|Lick Creek Community Consolidated School District 16|Lick Creek Community Consolidated School District 16
+17|22920|Limestone Walters Community Consolidated School District 316|Limestone Walters Community Consolidated School District 316
+17|22980|Lincoln Elementary School District 27|Lincoln Elementary School District 27
+17|23090|Lincolnshire-Prairieview School District 103|Lincolnshire-Prairieview School District 103
+17|23100|Lincolnwood School District 74|Lincolnwood School District 74
+17|23160|Lisbon Community Consolidated School District 90|Lisbon Community Consolidated School District 90
+17|23460|Lombard School District 44|Lombard School District 44
+17|23700|Ludlow Community Consolidated School District 142|Ludlow Community Consolidated School District 142
+17|23730|Will County School District 92|Will County School District 92
+17|23850|Lyons School District 103|Lyons School District 103
+17|24000|Maercker School District 60|Maercker School District 60
+17|24120|Malden Community Consolidated School District 84|Malden Community Consolidated School District 84
+17|24270|Manhattan School District 114|Manhattan School District 114
+17|24330|Mannheim School District 83|Mannheim School District 83
+17|24420|Northbrook/Glenview School District 30|Northbrook/Glenview School District 30
+17|24720|Prairie-Hills Elementary School District 144|Prairie-Hills Elementary School District 144
+17|24780|Marquardt School District 15|Marquardt School District 15
+17|25020|Matteson Elementary School District 162|Matteson Elementary School District 162
+17|25110|Maywood-Melrose Park-Broadview School District 89|Maywood-Melrose Park-Broadview School District 89
+17|25190|Mazon-Verona-Kinsman Elementary School District 2C|Mazon-Verona-Kinsman Elementary School District 2C
+17|25260|McClellan Community Consolidated School District 12|McClellan Community Consolidated School District 12
+17|25290|McHenry Community Consolidated School District 15|McHenry Community Consolidated School District 15
+17|25500|Medinah School District 11|Medinah School District 11
+17|25620|Mendota Community Consolidated School District 289|Mendota Community Consolidated School District 289
+17|25740|Metamora Community Consolidated School District 1|Metamora Community Consolidated School District 1
+17|25920|Midlothian School District 143|Midlothian School District 143
+17|25950|Milford Community Consolidated School District 280|Milford Community Consolidated School District 280
+17|26100|Millburn Community Consolidated School District 24|Millburn Community Consolidated School District 24
+17|26190|Millstadt Consolidated Community School District 160|Millstadt Consolidated Community School District 160
+17|26250|Miller Township Community Consolidated School District|Miller Township Community Consolidated School District
+17|26310|Minooka Community Consolidated School District 201|Minooka Community Consolidated School District 201
+17|26370|Mokena School District 159|Mokena School District 159
+17|26490|Monroe School District 70|Monroe School District 70
+17|26590|Montmorency Community Consolidated School District 145|Montmorency Community Consolidated School District 145
+17|26610|Morris School District 54|Morris School District 54
+17|26820|Golf Elementary School District 67|Golf Elementary School District 67
+17|26850|Morton Grove School District 70|Morton Grove School District 70
+17|27210|Mount Prospect School District 57|Mount Prospect School District 57
+17|27340|Mount Vernon School District 80|Mount Vernon School District 80
+17|27540|Mundelein Elementary School District 75|Mundelein Elementary School District 75
+17|27720|Nashville Consolidated Community School District 49|Nashville Consolidated Community School District 49
+17|27810|Nelson Public School District 8|Nelson Public School District 8
+17|27930|Nettle Creek Community Consolidated School District 24C|Nettle Creek Community Consolidated School District 24C
+17|28110|New Hope Community Consolidated School District 6|New Hope Community Consolidated School District 6
+17|28140|New Lenox School District 122|New Lenox School District 122
+17|28160|New Simpson Hill Consolidated District 32|New Simpson Hill Consolidated District 32
+17|28270|Newark Community Consolidated School District 66|Newark Community Consolidated School District 66
+17|28500|Niles Elementary School District 71|Niles Elementary School District 71
+17|28650|Norridge School District 80|Norridge School District 80
+17|28890|North Palos School District 117|North Palos School District 117
+17|28920|North Pekin-Marquette Heights School District 102|North Pekin-Marquette Heights School District 102
+17|28980|Northbrook School District 28|Northbrook School District 28
+17|29040|Norwood Elementary School District 63|Norwood Elementary School District 63
+17|29100|Oak Grove School District 68|Oak Grove School District 68
+17|29130|Oak Grove School District 68|Oak Grove School District 68
+17|29190|Oak Lawn-Hometown School District 123|Oak Lawn-Hometown School District 123
+17|29250|Oak Park Elementary School District 97|Oak Park Elementary School District 97
+17|29310|Oakdale Community Consolidated School District 1|Oakdale Community Consolidated School District 1
+17|29520|Odell Community Consolidated School District 435|Odell Community Consolidated School District 435
+17|29580|Odin School District 122|Odin School District 122
+17|29670|Oglesby Elementary School District 125|Oglesby Elementary School District 125
+17|29700|Ohio Community Consolidated School District 17|Ohio Community Consolidated School District 17
+17|29760|O'Fallon Community Consolidated School District 90|O'Fallon Community Consolidated School District 90
+17|30220|Orland School District 135|Orland School District 135
+17|30300|Ottawa Elementary School District 141|Ottawa Elementary School District 141
+17|30420|Palatine Community Consolidated School District 15|Palatine Community Consolidated School District 15
+17|30510|Community Consolidated School District 180|Community Consolidated School District 180
+17|30570|Palos Heights School District 128|Palos Heights School District 128
+17|30600|Palos Community Consolidated School District 118|Palos Community Consolidated School District 118
+17|30810|Park Forest School District 163|Park Forest School District 163
+17|30840|Park Ridge Consolidated Community School District 64|Park Ridge Consolidated Community School District 64
+17|30900|General George Patton School District 133|General George Patton School District 133
+17|31080|Pekin Public School District108|Pekin Public School District108
+17|31140|Pembroke Consolidated Community School District 259|Pembroke Consolidated Community School District 259
+17|31200|Pennoyer School District 79|Pennoyer School District 79
+17|31380|Peru Elementary School District 124|Peru Elementary School District 124
+17|31560|Community Consolidated School District 204|Community Consolidated School District 204
+17|31860|Pleasant Hill School District 69|Pleasant Hill School District 69
+17|31950|Pleasant Valley School District 62|Pleasant Valley School District 62
+17|32040|Pleasantdale School District 107|Pleasantdale School District 107
+17|32090|Potomac Community Unit School District 10|Potomac Community Unit School District 10
+17|32160|Pontiac Community Consolidated School District 429|Pontiac Community Consolidated School District 429
+17|32190|Pontiac-William Holliday School District 105|Pontiac-William Holliday School District 105
+17|32370|Posen-Robbins Elementary School District 143-5|Posen-Robbins Elementary School District 143-5
+17|32490|Prairie du Rocher Community Consolidated School District 134|Prairie du Rocher Community Consolidated School District 134
+17|32520|Prairie Grove Community School District 46|Prairie Grove Community School District 46
+17|32550|Prairie Hill Community Consolidated School District 133|Prairie Hill Community Consolidated School District 133
+17|32670|Princeton Elementary School District 115|Princeton Elementary School District 115
+17|32850|Prospect Heights School District 23|Prospect Heights School District 23
+17|32970|Queen Bee School District 16|Queen Bee School District 16
+17|33030|Raccoon Consolidated School District 1|Raccoon Consolidated School District 1
+17|33120|Rankin Community School District 98|Rankin Community School District 98
+17|33210|Rantoul City School District 137|Rantoul City School District 137
+17|33390|Rhodes School District 84-5|Rhodes School District 84-5
+17|33450|Richland School District 88A|Richland School District 88A
+17|33690|Ridgeland School District 122|Ridgeland School District 122
+17|33750|Riley Community Consolidated School District 18|Riley Community Consolidated School District 18
+17|33810|River Forest School District 90|River Forest School District 90
+17|33840|River Grove School District 85-5|River Grove School District 85-5
+17|33870|River Trails School District 26|River Trails School District 26
+17|33900|Riverdale School District 14|Riverdale School District 14
+17|33990|Riverside School District 96|Riverside School District 96
+17|34110|Riverview Consolidated Community School District 2|Riverview Consolidated Community School District 2
+17|34170|Robein School District 85|Robein School District 85
+17|34260|Rochelle Community Consolidated District 231|Rochelle Community Consolidated District 231
+17|34350|Rock Falls Elementary School District 13|Rock Falls Elementary School District 13
+17|34470|Rockdale School District 84|Rockdale School District 84
+17|34540|Rockton School District 140|Rockton School District 140
+17|34590|Rome Community Consolidated School District 2|Rome Community Consolidated School District 2
+17|34620|Rondout School District 72|Rondout School District 72
+17|34650|Rooks Creek Community Consolidated School District 425|Rooks Creek Community Consolidated School District 425
+17|34710|Roselle School District 12|Roselle School District 12
+17|34740|Schaumburg Community Consolidated School District 54|Schaumburg Community Consolidated School District 54
+17|34770|Rosemont Elementary School District 78|Rosemont Elementary School District 78
+17|35100|Rutland Community Consolidated School District 230|Rutland Community Consolidated School District 230
+17|35160|Salem School District 111|Salem School District 111
+17|35220|Salt Creek School District 48|Salt Creek School District 48
+17|35340|Sandridge School District 172|Sandridge School District 172
+17|35400|Saratoga Community Consolidated School District 60C|Saratoga Community Consolidated School District 60C
+17|35460|Community Consolidated School District 168|Community Consolidated School District 168
+17|35640|Schiller Park School District 81|Schiller Park School District 81
+17|35770|Selmaville Community Consolidated School District 10|Selmaville Community Consolidated School District 10
+17|35820|Seneca Community Consolidated School District 170|Seneca Community Consolidated School District 170
+17|36210|Shiloh Village School District 85|Shiloh Village School District 85
+17|36240|Shirland Community Consolidated School District 134|Shirland Community Consolidated School District 134
+17|36300|Elementary School District 159|Elementary School District 159
+17|36330|Signal Hill School District 181|Signal Hill School District 181
+17|36360|Silvis School District 34|Silvis School District 34
+17|36450|Skokie School District 68|Skokie School District 68
+17|36480|Skokie School District 69|Skokie School District 69
+17|36510|Smithton Community Consolidated School District 130|Smithton Community Consolidated School District 130
+17|36720|South Holland School District 150|South Holland School District 150
+17|36750|South Holland School District 151|South Holland School District 151
+17|36780|South Pekin School District 137|South Pekin School District 137
+17|36810|Burbank School District 111|Burbank School District 111
+17|36840|South Wilmington Consolidated School District 74|South Wilmington Consolidated School District 74
+17|37020|Spring Lake Community Consolidated School District 606|Spring Lake Community Consolidated School District 606
+17|37050|Spring Valley Community Consolidated School District 99|Spring Valley Community Consolidated School District 99
+17|37120|St. Anne Consolidated Community School District 256|St. Anne Consolidated Community School District 256
+17|37320|St. George Community Consolidated School District 258|St. George Community Consolidated School District 258
+17|37380|St. Joseph Community Consolidated School District 169|St. Joseph Community Consolidated School District 169
+17|37440|St. Libory Consolidated School District 30|St. Libory Consolidated School District 30
+17|37470|St. Rose School District 14-15|St. Rose School District 14-15
+17|37680|Steger School District 194|Steger School District 194
+17|37800|Steward Elementary School District 220|Steward Elementary School District 220
+17|37860|Central Stickney School District 110|Central Stickney School District 110
+17|38190|Summersville School District 79|Summersville School District 79
+17|38220|Summit Hill School District 161|Summit Hill School District 161
+17|38370|Sunnybrook School District 171|Sunnybrook School District 171
+17|38400|Sunset Ridge School District 29|Sunset Ridge School District 29
+17|38520|Taft School District 90|Taft School District 90
+17|38550|Tamaroa School District 5|Tamaroa School District 5
+17|38790|Thomasboro Community Consolidated School District 130|Thomasboro Community Consolidated School District 130
+17|38910|Thornton School District 154|Thornton School District 154
+17|39030|Community Consolidated School District 146|Community Consolidated School District 146
+17|39180|Tonica Community Consolidated School District 79|Tonica Community Consolidated School District 79
+17|39510|Troy Community Consolidated School District 30C|Troy Community Consolidated School District 30C
+17|39660|Union School District 81|Union School District 81
+17|39780|Union Ridge School District 86|Union Ridge School District 86
+17|39930|Unity Point Community Consolidated School District 140|Unity Point Community Consolidated School District 140
+17|40260|Vienna School District 55|Vienna School District 55
+17|40350|Villa Park School District 45|Villa Park School District 45
+17|40500|Glen Ellyn Community Consolidated School District 89|Glen Ellyn Community Consolidated School District 89
+17|40530|Wallace Community Consolidated School District 195|Wallace Community Consolidated School District 195
+17|40620|Waltham Community Consolidated School District 185|Waltham Community Consolidated School District 185
+17|40680|North Wamac School District 186|North Wamac School District 186
+17|41010|District 50 Schools|District 50 Schools
+17|41040|Washington School District 52|Washington School District 52
+17|41520|Calumet City School District 155|Calumet City School District 155
+17|41550|West Chicago School District 33|West Chicago School District 33
+17|41600|West Lincoln-Broadwell Elementary School District 92|West Lincoln-Broadwell Elementary School District 92
+17|41700|West Northfield School District 31|West Northfield School District 31
+17|41790|Westchester School District 92-5|Westchester School District 92-5
+17|41820|Western Springs School District 101|Western Springs School District 101
+17|42210|Wheeling Community Consolidated School District 21|Wheeling Community Consolidated School District 21
+17|42300|Whiteside School District 115|Whiteside School District 115
+17|42510|Willow Grove School District 46|Willow Grove School District 46
+17|42570|Willow Springs School District 108|Willow Springs School District 108
+17|42600|Wilmette School District 39|Wilmette School District 39
+17|42720|Winfield School District 34|Winfield School District 34
+17|42840|Winnetka School District 36|Winnetka School District 36
+17|42900|Winthrop Harbor School District 1|Winthrop Harbor School District 1
+17|42960|Wolf Branch School District 113|Wolf Branch School District 113
+17|43020|Wood Dale School District 7|Wood Dale School District 7
+17|43050|Wood River-Hartford Elementary School District 15|Wood River-Hartford Elementary School District 15
+17|43110|Woodland Community Consolidated School District 50|Woodland Community Consolidated School District 50
+17|43170|Woodlawn Community Consolidated School District 4|Woodlawn Community Consolidated School District 4
+17|43380|Worth School District 127|Worth School District 127
+17|43860|Zion Elementary School District 6|Zion Elementary School District 6

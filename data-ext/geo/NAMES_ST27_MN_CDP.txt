@@ -1,0 +1,53 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+27|01558|Angle Inlet|Angle Inlet CDP
+27|02260|Arnold|Arnold CDP
+27|03214|Baker|Baker CDP
+27|03376|Ball Club|Ball Club CDP
+27|04348|Beaulieu|Beaulieu CDP
+27|05744|Big Lake|Big Lake CDP
+27|17882|Ebro|Ebro CDP
+27|18440|Elbow Lake|Elbow Lake CDP
+27|19718|Esko|Esko CDP
+27|20276|Fairhaven|Fairhaven CDP
+27|21104|Finland|Finland CDP
+27|21190|Fish Lake|Fish Lake CDP
+27|22904|Frontenac|Frontenac CDP
+27|23084|Garden City|Garden City CDP
+27|30014|Homer|Homer CDP
+27|30950|Inger|Inger CDP
+27|34370|Lake George|Lake George CDP
+27|35558|Lansing|Lansing CDP
+27|36548|Leota|Leota CDP
+27|37656|Little Rock|Little Rock CDP
+27|38546|Lutsen|Lutsen CDP
+27|39394|Mahnomen|Mahnomen CDP
+27|39446|Mahtowa|Mahtowa CDP
+27|40814|Martin Lake|Martin Lake CDP
+27|41804|Merrifield|Merrifield CDP
+27|42010|Midway|Midway CDP
+27|45052|Naytahwaush|Naytahwaush CDP
+27|45268|Nett Lake|Nett Lake CDP
+27|47923|Oakport|Oakport CDP
+27|48760|Osage|Osage CDP
+27|51028|Pine Bend|Pine Bend CDP
+27|51234|Pine Point|Pine Point CDP
+27|51892|Ponemah|Ponemah CDP
+27|53386|Redby|Redby CDP
+27|53458|Red Lake|Red Lake CDP
+27|54056|Rice Lake|Rice Lake CDP
+27|54596|Riverland|Riverland CDP
+27|55366|Ronneby|Ronneby CDP
+27|56212|Roy Lake|Roy Lake CDP
+27|59116|Searles|Searles CDP
+27|60322|Silver Creek|Silver Creek CDP
+27|61204|Soudan|Soudan CDP
+27|61308|South End|South End CDP
+27|62356|Stanchfield|Stanchfield CDP
+27|64543|The Lakes|The Lakes CDP
+27|64547|The Ranch|The Ranch CDP
+27|65927|Twin Lakes|Twin Lakes CDP
+27|67180|Vineland|Vineland CDP
+27|68260|Warsaw|Warsaw CDP
+27|69690|West Roy Lake|West Roy Lake CDP
+27|69880|Whipholt|Whipholt CDP
+27|70006|White Earth|White Earth CDP

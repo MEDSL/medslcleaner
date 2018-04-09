@@ -1,0 +1,83 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+33|00035|Gorham Randolph Shelburne Cooperative School District|Gorham Randolph Shelburne Cooperative School District
+33|00616|Milton School District|Milton School District
+33|01350|Albany School District|Albany School District
+33|01830|Benton School District|Benton School District
+33|01860|Berlin School District|Berlin School District
+33|01950|Bow School District|Bow School District
+33|02200|Chatham School District|Chatham School District
+33|02340|Claremont School District|Claremont School District
+33|02370|Clarksville School District|Clarksville School District
+33|02400|Colebrook School District|Colebrook School District
+33|02430|Columbia School District|Columbia School District
+33|02460|Concord School District|Concord School District
+33|02480|Contoocook Valley School District|Contoocook Valley School District
+33|02490|Conway School District|Conway School District
+33|02510|Coos County School District|Coos County School District
+33|02640|Dover School District|Dover School District
+33|02730|Dummer School District|Dummer School District
+33|02850|Eaton School District|Eaton School District
+33|02870|Ellsworth School District|Ellsworth School District
+33|02880|Epping School District|Epping School District
+33|02990|Fall Mountain Regional School District|Fall Mountain Regional School District
+33|03000|Farmington School District|Farmington School District
+33|03090|Franklin School District|Franklin School District
+33|03150|Fremont School District|Fremont School District
+33|03180|Gilford School District|Gilford School District
+33|03240|Goffstown School District|Goffstown School District
+33|03275|Surry School District|Surry School District
+33|03330|Governor Wentworth Regional School District|Governor Wentworth Regional School District
+33|03480|Hampstead School District|Hampstead School District
+33|03640|Hart's Location School District|Hart's Location School District
+33|03660|Haverhill Cooperative School District|Haverhill Cooperative School District
+33|03750|Hillsboro-Deering Cooperative School District|Hillsboro-Deering Cooperative School District
+33|03780|Hinsdale School District|Hinsdale School District
+33|03900|Hopkinton School District|Hopkinton School District
+33|03930|Hudson School District|Hudson School District
+33|03960|Inter-Lakes School District|Inter-Lakes School District
+33|04030|Jaffrey-Rindge Cooperative School District|Jaffrey-Rindge Cooperative School District
+33|04040|Kearsarge Regional School District|Kearsarge Regional School District
+33|04050|Keene School District|Keene School District
+33|04140|Laconia School District|Laconia School District
+33|04230|Lebanon School District|Lebanon School District
+33|04260|Lincoln-Woodstock School District|Lincoln-Woodstock School District
+33|04290|Lisbon Regional School District|Lisbon Regional School District
+33|04350|Litchfield School District|Litchfield School District
+33|04380|Littleton School District|Littleton School District
+33|04410|Londonderry School District|Londonderry School District
+33|04590|Manchester School District|Manchester School District
+33|04670|Mascenic Regional School District|Mascenic Regional School District
+33|04680|Mascoma Valley Regional School District|Mascoma Valley Regional School District
+33|04740|Merrimack School District|Merrimack School District
+33|04760|Merrimack Valley School District|Merrimack Valley School District
+33|04770|Middleton School District|Middleton School District
+33|04830|Milford School District|Milford School District
+33|04890|Monadnock Regional School District|Monadnock Regional School District
+33|04960|Moultonborough School District|Moultonborough School District
+33|04980|Nashua School District|Nashua School District
+33|05220|Newfound Area School District|Newfound Area School District
+33|05280|Newmarket School District|Newmarket School District
+33|05310|Newport School District|Newport School District
+33|05400|Northumberland School District|Northumberland School District
+33|05520|Oyster River Cooperative School District|Oyster River Cooperative School District
+33|05550|Pelham School District|Pelham School District
+33|05580|Pembroke School District|Pembroke School District
+33|05700|Pittsburg School District|Pittsburg School District
+33|05730|Pittsfield School District|Pittsfield School District
+33|05820|Portsmouth School District|Portsmouth School District
+33|05880|Raymond School District|Raymond School District
+33|05940|Rochester School District|Rochester School District
+33|06060|Salem School District|Salem School District
+33|06080|Sanborn Regional School District|Sanborn Regional School District
+33|06180|Shaker Regional School District|Shaker Regional School District
+33|06240|Somersworth School District|Somersworth School District
+33|06450|Stratford School District|Stratford School District
+33|06540|Sunapee School District|Sunapee School District
+33|06720|Timberlane Regional School District|Timberlane Regional School District
+33|07050|White Mountain Regional School District|White Mountain Regional School District
+33|07170|Windham School District|Windham School District
+33|07200|Windsor School District|Windsor School District
+33|07300|Winnisquam Regional School District|Winnisquam Regional School District
+33|33009|Rivendell Interstate School District|Rivendell Interstate School District
+33|99997|School District Not Defined|School District Not Defined
+33|99998|School District Not Defined (Water)|School District Not Defined (Water)

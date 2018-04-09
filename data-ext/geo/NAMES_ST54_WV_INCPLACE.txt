@@ -1,0 +1,233 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+54|00364|Addison (Webster Springs)|Addison (Webster Springs) town
+54|00748|Albright|Albright town
+54|00772|Alderson|Alderson town
+54|01780|Anawalt|Anawalt town
+54|01900|Anmoore|Anmoore town
+54|01996|Ansted|Ansted town
+54|03292|Athens|Athens town
+54|03364|Auburn|Auburn town
+54|04204|Bancroft|Bancroft town
+54|04276|Barboursville|Barboursville village
+54|04612|Barrackville|Barrackville town
+54|04876|Bath (Berkeley Springs)|Bath (Berkeley Springs) town
+54|04924|Bayard|Bayard town
+54|05332|Beckley|Beckley city
+54|05452|Beech Bottom|Beech Bottom village
+54|05788|Belington|Belington town
+54|05836|Belle|Belle town
+54|06004|Belmont|Belmont city
+54|06340|Benwood|Benwood city
+54|06844|Bethany|Bethany town
+54|06940|Bethlehem|Bethlehem village
+54|06988|Beverly|Beverly town
+54|08092|Blacksville|Blacksville town
+54|08524|Bluefield|Bluefield city
+54|08932|Bolivar|Bolivar town
+54|09700|Bradshaw|Bradshaw town
+54|09796|Bramwell|Bramwell town
+54|09844|Brandonville|Brandonville town
+54|10180|Bridgeport|Bridgeport city
+54|10852|Bruceton Mills|Bruceton Mills town
+54|11188|Buckhannon|Buckhannon city
+54|11284|Buffalo|Buffalo town
+54|11716|Burnsville|Burnsville town
+54|12124|Cairo|Cairo town
+54|12436|Camden-on-Gauley|Camden-on-Gauley town
+54|12484|Cameron|Cameron city
+54|13108|Capon Bridge|Capon Bridge town
+54|13525|Carpendale|Carpendale town
+54|13924|Cedar Grove|Cedar Grove town
+54|14308|Ceredo|Ceredo city
+54|14524|Chapmanville|Chapmanville town
+54|14600|Charleston|Charleston city
+54|14610|Charles Town|Charles Town city
+54|15028|Chesapeake|Chesapeake town
+54|15076|Chester|Chester city
+54|15628|Clarksburg|Clarksburg city
+54|15676|Clay|Clay town
+54|15916|Clearview|Clearview village
+54|16012|Clendenin|Clendenin town
+54|18412|Cowen|Cowen town
+54|20212|Danville|Danville town
+54|20428|Davis|Davis town
+54|20500|Davy|Davy town
+54|20980|Delbarton|Delbarton town
+54|22564|Dunbar|Dunbar city
+54|22852|Durbin|Durbin town
+54|23092|East Bank|East Bank town
+54|24292|Eleanor|Eleanor town
+54|24364|Elizabeth|Elizabeth town
+54|24484|Elk Garden|Elk Garden town
+54|24580|Elkins|Elkins city
+54|24844|Ellenboro|Ellenboro town
+54|26452|Fairmont|Fairmont city
+54|26524|Fairview|Fairview town
+54|26692|Falling Spring|Falling Spring town
+54|26932|Farmington|Farmington town
+54|27028|Fayetteville|Fayetteville town
+54|27868|Flatwoods|Flatwoods town
+54|27940|Flemington|Flemington town
+54|28204|Follansbee|Follansbee city
+54|28516|Fort Gay|Fort Gay town
+54|29044|Franklin|Franklin town
+54|29404|Friendly|Friendly town
+54|30196|Gary|Gary city
+54|30220|Gassaway|Gassaway town
+54|30364|Gauley Bridge|Gauley Bridge town
+54|30772|Gilbert|Gilbert town
+54|31324|Glasgow|Glasgow town
+54|31492|Glen Dale|Glen Dale city
+54|32044|Glenville|Glenville town
+54|32716|Grafton|Grafton city
+54|32884|Grantsville|Grantsville town
+54|32908|Grant Town|Grant Town town
+54|32932|Granville|Granville town
+54|34492|Hambleton|Hambleton town
+54|34516|Hamlin|Hamlin town
+54|34756|Handley|Handley town
+54|35092|Harman|Harman town
+54|35284|Harpers Ferry|Harpers Ferry town
+54|35428|Harrisville|Harrisville town
+54|35500|Hartford City|Hartford City town
+54|36220|Hedgesville|Hedgesville town
+54|36436|Henderson|Henderson town
+54|36460|Hendricks|Hendricks town
+54|37372|Hillsboro|Hillsboro town
+54|37636|Hinton|Hinton city
+54|39340|Hundred|Hundred town
+54|39460|Huntington|Huntington city
+54|39532|Hurricane|Hurricane city
+54|39628|Huttonsville|Huttonsville town
+54|39652|Iaeger|Iaeger town
+54|40828|Jane Lew|Jane Lew town
+54|42244|Junior|Junior town
+54|43180|Kenova|Kenova city
+54|43300|Kermit|Kermit town
+54|43492|Keyser|Keyser city
+54|43516|Keystone|Keystone city
+54|43780|Kimball|Kimball town
+54|44044|Kingwood|Kingwood city
+54|46300|Leon|Leon town
+54|46468|Lester|Lester town
+54|46636|Lewisburg|Lewisburg city
+54|48148|Logan|Logan city
+54|48748|Lost Creek|Lost Creek town
+54|49252|Lumberport|Lumberport town
+54|49492|Mabscott|Mabscott town
+54|50260|McMechen|McMechen city
+54|50524|Madison|Madison city
+54|50932|Man|Man town
+54|51100|Mannington|Mannington city
+54|51676|Marlinton|Marlinton town
+54|51724|Marmet|Marmet city
+54|52060|Martinsburg|Martinsburg city
+54|52180|Mason|Mason town
+54|52228|Masontown|Masontown town
+54|52324|Matewan|Matewan town
+54|52420|Matoaka|Matoaka town
+54|52780|Meadow Bridge|Meadow Bridge town
+54|53572|Middlebourne|Middlebourne town
+54|54100|Mill Creek|Mill Creek town
+54|54484|Milton|Milton town
+54|54892|Mitchell Heights|Mitchell Heights town
+54|55276|Monongah|Monongah town
+54|55468|Montgomery|Montgomery city
+54|55540|Montrose|Montrose town
+54|55588|Moorefield|Moorefield town
+54|55756|Morgantown|Morgantown city
+54|56020|Moundsville|Moundsville city
+54|56404|Mount Hope|Mount Hope city
+54|57148|Mullens|Mullens city
+54|58300|Newburg|Newburg town
+54|58372|New Cumberland|New Cumberland city
+54|58564|New Haven|New Haven town
+54|58684|New Martinsville|New Martinsville city
+54|59068|Nitro|Nitro city
+54|59428|Northfork|Northfork town
+54|59458|North Hills|North Hills town
+54|59836|Nutter Fort|Nutter Fort town
+54|60028|Oak Hill|Oak Hill city
+54|60196|Oakvale|Oakvale town
+54|60364|Oceana|Oceana town
+54|61636|Paden City|Paden City city
+54|62140|Parkersburg|Parkersburg city
+54|62284|Parsons|Parsons city
+54|62332|Paw Paw|Paw Paw town
+54|62356|Pax|Pax town
+54|62764|Pennsboro|Pennsboro city
+54|62956|Petersburg|Petersburg city
+54|63052|Peterstown|Peterstown town
+54|63292|Philippi|Philippi city
+54|63604|Piedmont|Piedmont town
+54|63892|Pine Grove|Pine Grove town
+54|63940|Pineville|Pineville town
+54|64228|Pleasant Valley|Pleasant Valley city
+54|64516|Poca|Poca town
+54|64708|Point Pleasant|Point Pleasant city
+54|65356|Pratt|Pratt town
+54|65692|Princeton|Princeton city
+54|65956|Pullman|Pullman town
+54|66412|Quinwood|Quinwood town
+54|66652|Rainelle|Rainelle town
+54|66988|Ranson|Ranson corporation
+54|67108|Ravenswood|Ravenswood city
+54|67636|Reedsville|Reedsville town
+54|67660|Reedy|Reedy town
+54|67996|Rhodell|Rhodell town
+54|68116|Richwood|Richwood city
+54|68260|Ridgeley|Ridgeley town
+54|68596|Ripley|Ripley city
+54|68908|Rivesville|Rivesville town
+54|70084|Romney|Romney city
+54|70156|Ronceverte|Ronceverte city
+54|70588|Rowlesburg|Rowlesburg town
+54|70828|Rupert|Rupert town
+54|71212|St. Albans|St. Albans city
+54|71356|St. Marys|St. Marys city
+54|71380|Salem|Salem city
+54|71620|Sand Fork|Sand Fork town
+54|73468|Shepherdstown|Shepherdstown town
+54|73636|Shinnston|Shinnston city
+54|74380|Sistersville|Sistersville city
+54|74740|Smithers|Smithers city
+54|74788|Smithfield|Smithfield town
+54|75172|Sophia|Sophia town
+54|75292|South Charleston|South Charleston city
+54|75820|Spencer|Spencer city
+54|76516|Star City|Star City town
+54|77188|Stonewood|Stonewood city
+54|77980|Summersville|Summersville town
+54|78580|Sutton|Sutton town
+54|78964|Sylvester|Sylvester town
+54|79708|Terra Alta|Terra Alta town
+54|80020|Thomas|Thomas city
+54|80284|Thurmond|Thurmond town
+54|80932|Triadelphia|Triadelphia town
+54|81268|Tunnelton|Tunnelton town
+54|81940|Union|Union town
+54|82732|Valley Grove|Valley Grove village
+54|83500|Vienna|Vienna city
+54|84484|War|War city
+54|84580|Wardensville|Wardensville town
+54|84940|Wayne|Wayne town
+54|85156|Weirton|Weirton city
+54|85228|Welch|Welch city
+54|85324|Wellsburg|Wellsburg city
+54|85804|West Hamlin|West Hamlin town
+54|85876|West Liberty|West Liberty town
+54|85900|West Logan|West Logan town
+54|85924|West Milford|West Milford town
+54|85972|Weston|Weston city
+54|85996|Westover|Westover city
+54|86116|West Union|West Union town
+54|86452|Wheeling|Wheeling city
+54|86620|White Hall|White Hall town
+54|86812|White Sulphur Springs|White Sulphur Springs city
+54|86836|Whitesville|Whitesville town
+54|87508|Williamson|Williamson city
+54|87556|Williamstown|Williamstown city
+54|87892|Windsor Heights|Windsor Heights village
+54|87988|Winfield|Winfield town
+54|88324|Womelsdorf (Coalton)|Womelsdorf (Coalton) town
+54|88708|Worthington|Worthington town

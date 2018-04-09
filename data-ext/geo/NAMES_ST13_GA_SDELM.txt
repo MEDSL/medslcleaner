@@ -1,0 +1,2 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+13|00002|Fort Benning Schools|Fort Benning Schools

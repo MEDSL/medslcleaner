@@ -1,0 +1,170 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+54|00196|Accoville|Accoville CDP
+54|01396|Alum Creek|Alum Creek CDP
+54|01660|Amherstdale|Amherstdale CDP
+54|02188|Apple Grove|Apple Grove CDP
+54|03460|Aurora|Aurora CDP
+54|04732|Bartley|Bartley CDP
+54|04780|Bartow|Bartow CDP
+54|05068|Beards Fork|Beards Fork CDP
+54|05260|Beaver|Beaver CDP
+54|06052|Belva|Belva CDP
+54|06436|Bergoo|Bergoo CDP
+54|06748|Berwind|Berwind CDP
+54|07204|Big Chimney|Big Chimney CDP
+54|07228|Big Creek|Big Creek CDP
+54|07516|Big Sandy|Big Sandy CDP
+54|07756|Birch River|Birch River CDP
+54|08308|Blennerhassett|Blennerhassett CDP
+54|08764|Bluewell|Bluewell CDP
+54|08836|Boaz|Boaz CDP
+54|08956|Bolt|Bolt CDP
+54|09100|Boomer|Boomer CDP
+54|09364|Bowden|Bowden CDP
+54|09676|Bradley|Bradley CDP
+54|09868|Brandywine|Brandywine CDP
+54|09964|Brenton|Brenton CDP
+54|10420|Brookhaven|Brookhaven CDP
+54|10876|Bruno|Bruno CDP
+54|10948|Brush Fork|Brush Fork CDP
+54|11212|Bud|Bud CDP
+54|11620|Burlington|Burlington CDP
+54|13468|Carolina|Carolina CDP
+54|13684|Cass|Cass CDP
+54|13756|Cassville|Cassville CDP
+54|14212|Century|Century CDP
+54|14630|Charlton Heights|Charlton Heights CDP
+54|14692|Chattaroy|Chattaroy CDP
+54|14716|Chauncey|Chauncey CDP
+54|14775|Cheat Lake|Cheat Lake CDP
+54|14812|Chelyan|Chelyan CDP
+54|16516|Coal City|Coal City CDP
+54|16612|Coal Fork|Coal Fork CDP
+54|17380|Comfort|Comfort CDP
+54|17836|Corinne|Corinne CDP
+54|18388|Covel|Covel CDP
+54|18508|Crab Orchard|Crab Orchard CDP
+54|18604|Craigsville|Craigsville CDP
+54|19108|Cross Lanes|Cross Lanes CDP
+54|19300|Crum|Crum CDP
+54|19324|Crumpler|Crumpler CDP
+54|19492|Cucumber|Cucumber CDP
+54|19516|Culloden|Culloden CDP
+54|19948|Dailey|Dailey CDP
+54|20164|Daniels|Daniels CDP
+54|20764|Deep Water|Deep Water CDP
+54|21316|Despard|Despard CDP
+54|21628|Dixie|Dixie CDP
+54|23140|East Dailey|East Dailey CDP
+54|23644|Eccles|Eccles CDP
+54|24748|Elkview|Elkview CDP
+54|25516|Enterprise|Enterprise CDP
+54|26428|Fairlea|Fairlea CDP
+54|26716|Falling Waters|Falling Waters CDP
+54|26812|Falls View|Falls View CDP
+54|27196|Fenwick|Fenwick CDP
+54|28444|Fort Ashby|Fort Ashby CDP
+54|28948|Frank|Frank CDP
+54|29716|Gallipolis Ferry|Gallipolis Ferry CDP
+54|29740|Galloway|Galloway CDP
+54|30724|Ghent|Ghent CDP
+54|30777|Gilbert Creek|Gilbert Creek CDP
+54|31732|Glen Ferris|Glen Ferris CDP
+54|31756|Glen Fork|Glen Fork CDP
+54|31876|Glen Jean|Glen Jean CDP
+54|32068|Glen White|Glen White CDP
+54|33100|Great Cacapon|Great Cacapon CDP
+54|33124|Green Bank|Green Bank CDP
+54|33436|Green Spring|Green Spring CDP
+54|33580|Greenview|Greenview CDP
+54|34180|Gypsy|Gypsy CDP
+54|35596|Harts|Harts CDP
+54|36292|Helen|Helen CDP
+54|36340|Helvetia|Helvetia CDP
+54|36484|Henlawson|Henlawson CDP
+54|36628|Hepzibah|Hepzibah CDP
+54|37036|Hico|Hico CDP
+54|37444|Hilltop|Hilltop CDP
+54|37948|Holden|Holden CDP
+54|38260|Hometown|Hometown CDP
+54|38476|Hooverson Heights|Hooverson Heights CDP
+54|39412|Huntersville|Huntersville CDP
+54|39676|Idamay|Idamay CDP
+54|40204|Inwood|Inwood CDP
+54|40444|Itmann|Itmann CDP
+54|40636|Jacksonburg|Jacksonburg CDP
+54|41010|Jefferson|Jefferson CDP
+54|42292|Justice|Justice CDP
+54|43828|Kimberly|Kimberly CDP
+54|43852|Kincaid|Kincaid CDP
+54|44188|Kistler|Kistler CDP
+54|44548|Kopperston|Kopperston CDP
+54|45292|Lashmeet|Lashmeet CDP
+54|45580|Lavalette|Lavalette CDP
+54|46420|Lesage|Lesage CDP
+54|47788|Littleton|Littleton CDP
+54|49156|Lubeck|Lubeck CDP
+54|49564|MacArthur|MacArthur CDP
+54|49732|McConnell|McConnell CDP
+54|50860|Mallory|Mallory CDP
+54|52372|Matheny|Matheny CDP
+54|52588|Maybeury|Maybeury CDP
+54|53692|Middleway|Middleway CDP
+54|54508|Minden|Minden CDP
+54|54580|Mineralwells|Mineralwells CDP
+54|55132|Monaville|Monaville CDP
+54|55372|Montcalm|Montcalm CDP
+54|56212|Mount Carbon|Mount Carbon CDP
+54|56342|Mount Gay-Shamrock|Mount Gay-Shamrock CDP
+54|57916|Neibert|Neibert CDP
+54|58180|Nettie|Nettie CDP
+54|58420|Newell|Newell CDP
+54|58756|New Richmond|New Richmond CDP
+54|60628|Omar|Omar CDP
+54|61660|Page|Page CDP
+54|61684|Pageton|Pageton CDP
+54|62488|Pea Ridge|Pea Ridge CDP
+54|62788|Pentress|Pentress CDP
+54|63484|Pickens|Pickens CDP
+54|63772|Pinch|Pinch CDP
+54|63988|Piney View|Piney View CDP
+54|65284|Powellton|Powellton CDP
+54|65596|Prichard|Prichard CDP
+54|65668|Prince|Prince CDP
+54|65836|Prosperity|Prosperity CDP
+54|66460|Rachel|Rachel CDP
+54|66484|Racine|Racine CDP
+54|66892|Rand|Rand CDP
+54|67228|Raysal|Raysal CDP
+54|67252|Reader|Reader CDP
+54|67396|Red Jacket|Red Jacket CDP
+54|69100|Robinette|Robinette CDP
+54|69844|Roderfield|Roderfield CDP
+54|70468|Rossmore|Rossmore CDP
+54|71476|Salt Rock|Salt Rock CDP
+54|72004|Sarah Ann|Sarah Ann CDP
+54|72292|Scarbro|Scarbro CDP
+54|73108|Shady Spring|Shady Spring CDP
+54|73252|Shannondale|Shannondale CDP
+54|73444|Shenandoah Junction|Shenandoah Junction CDP
+54|73876|Shrewsbury|Shrewsbury CDP
+54|74356|Sissonville|Sissonville CDP
+54|75796|Spelter|Spelter CDP
+54|76084|Springfield|Springfield CDP
+54|76444|Stanaford|Stanaford CDP
+54|76996|Stollings|Stollings CDP
+54|78796|Switzer|Switzer CDP
+54|79545|Teays Valley|Teays Valley CDP
+54|80476|Tioga|Tioga CDP
+54|81484|Twilight|Twilight CDP
+54|82180|Upper Falls|Upper Falls CDP
+54|82564|Valley Bend|Valley Bend CDP
+54|82756|Valley Head|Valley Head CDP
+54|82852|Van|Van CDP
+54|83332|Verdunville|Verdunville CDP
+54|83764|Vivian|Vivian CDP
+54|84724|Washington|Washington CDP
+54|84916|Waverly|Waverly CDP
+54|86932|Whitmer|Whitmer CDP
+54|87316|Wiley Ford|Wiley Ford CDP
+54|88276|Wolf Summit|Wolf Summit CDP

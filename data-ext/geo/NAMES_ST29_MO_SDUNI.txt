@@ -1,0 +1,449 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+29|00001|Maries County R-II School District|Maries County R-II School District
+29|00002|South Harrison School District|South Harrison School District
+29|00003|Portageville School District|Portageville School District
+29|00004|New Madrid County R-I School District|New Madrid County R-I School District
+29|01000|Columbia Public Schools|Columbia Public Schools
+29|02850|Adrian County R-III School District|Adrian County R-III School District
+29|02880|Advance R-IV School District|Advance R-IV School District
+29|02910|Affton School District|Affton School District
+29|02970|Albany R-III School District|Albany R-III School District
+29|03000|Santa Fe R-X School District|Santa Fe R-X School District
+29|03060|Alton R-IV School District|Alton R-IV School District
+29|03120|Appleton City R-II School District|Appleton City R-II School District
+29|03150|Arcadia Valley R-II School District|Arcadia Valley R-II School District
+29|03200|Cass County R-V School District|Cass County R-V School District
+29|03270|Ash Grove R-IV School District|Ash Grove R-IV School District
+29|03480|Atlanta C-3 Schools|Atlanta C-3 Schools
+29|04020|Aurora R-8 School District|Aurora R-8 School District
+29|04050|Ava R-I School District|Ava R-I School District
+29|04140|Bakersfield R-IV School District|Bakersfield R-IV School District
+29|04170|Ballard R-II School District|Ballard R-II School District
+29|04500|Bayless School District|Bayless School District
+29|04530|Bell City R-II School District|Bell City R-II School District
+29|04620|Belton 124 School District|Belton 124 School District
+29|04890|Scott County R-IV School District|Scott County R-IV School District
+29|04950|Bernie School District|Bernie School District
+29|04980|Bevier C-4 School District|Bevier C-4 School District
+29|05070|Billings R-IV School District|Billings R-IV School District
+29|05130|Bismarck R-V School District|Bismarck R-V School District
+29|05250|Bloomfield School District|Bloomfield School District
+29|05280|Blue Eye School District|Blue Eye School District
+29|05310|Blue Springs R-IV School District|Blue Springs R-IV School District
+29|05370|Bolivar R-I School District|Bolivar R-I School District
+29|05430|North St. Francis County R-I School District|North St. Francis County R-I School District
+29|05580|Boonville School District|Boonville School District
+29|05610|Bosworth R-V School District|Bosworth R-V School District
+29|05640|Crawford County R-I School District|Crawford County R-I School District
+29|05660|Bowling Green R-I School District|Bowling Green R-I School District
+29|05700|Bradleyville R-I School District|Bradleyville R-I School District
+29|05730|Delta C-7 School District|Delta C-7 School District
+29|05760|Branson R-IV School District|Branson R-IV School District
+29|05790|Adair County R-II School District|Adair County R-II School District
+29|05820|Braymer C-4 School District|Braymer C-4 School District
+29|05850|Breckenridge R-I School District|Breckenridge R-I School District
+29|05880|Brentwood School District|Brentwood School District
+29|05910|Bronaugh R-VII School District|Bronaugh R-VII School District
+29|05940|Brookfield R-III School District|Brookfield R-III School District
+29|06000|Linn County R-I School District|Linn County R-I School District
+29|06030|Brunswick R-II School District|Brunswick R-II School District
+29|06090|Bucklin R-II School District|Bucklin R-II School District
+29|06120|Dallas County R-I School District|Dallas County R-I School District
+29|06150|Cooper County C-4 School District|Cooper County C-4 School District
+29|06170|Bunker R-III School District|Bunker R-III School District
+29|06360|Butler R-V School District|Butler R-V School District
+29|06430|Cabool School District|Cabool School District
+29|06450|Cainsville R-I School District|Cainsville R-I School District
+29|06480|Calhoun R-VIII School District|Calhoun R-VIII School District
+29|06510|Moniteau County R-I School District|Moniteau County R-I School District
+29|06990|Camdenton R-III School District|Camdenton R-III School District
+29|07020|Cameron R-I School District|Cameron R-I School District
+29|07050|Campbell R-II School District|Campbell R-II School District
+29|07080|Canton School District|Canton School District
+29|07120|Cape Girardeau 63 School District|Cape Girardeau 63 School District
+29|07350|Carl Junction R-I School District|Carl Junction R-I School District
+29|07380|Carrollton R-VII School District|Carrollton R-VII School District
+29|07460|Carthage R-IX School District|Carthage R-IX School District
+29|07470|Caruthersville School District|Caruthersville School District
+29|08170|Cassville R-IV School District|Cassville R-IV School District
+29|08250|Center 58 School District|Center 58 School District
+29|08320|Johnson County R-VII School District|Johnson County R-VII School District
+29|08370|Fort Zumwalt R-II School District|Fort Zumwalt R-II School District
+29|08400|Centralia R-VI School District|Centralia R-VI School District
+29|08430|Chadwick R-I School District|Chadwick R-I School District
+29|08460|Scott County R-II School District|Scott County R-II School District
+29|08490|Osage County R-I School District|Osage County R-I School District
+29|08670|Charleston R-I School District|Charleston R-I School District
+29|08730|Chilhowee R-IV School District|Chilhowee R-IV School District
+29|08760|Chillicothe R-II School District|Chillicothe R-II School District
+29|09120|Clarkton C-4 School District|Clarkton C-4 School District
+29|09720|Clayton School District|Clayton School District
+29|09750|Clearwater R-I School District|Clearwater R-I School District
+29|09780|Clever R-V School District|Clever R-V School District
+29|09810|Climax Springs R-IV School District|Climax Springs R-IV School District
+29|09860|Clinton School District|Clinton School District
+29|09900|Cole Camp R-I School District|Cole Camp R-I School District
+29|09930|Cole County R-II School District|Cole County R-II School District
+29|10020|Community R-VI School District|Community R-VI School District
+29|10080|Concordia School District|Concordia School District
+29|10110|Laclede County R-I School District|Laclede County R-I School District
+29|10140|Cooter R-IV School District|Cooter R-IV School District
+29|10200|Couch R-I School District|Couch R-I School District
+29|10260|Craig R-III School District|Craig R-III School District
+29|10290|Crane R-III School District|Crane R-III School District
+29|10320|Sherwood Cass R-VIII School District|Sherwood Cass R-VIII School District
+29|10350|Crocker School District|Crocker School District
+29|10380|Crystal City 47 School District|Crystal City 47 School District
+29|10410|Crawford County R-2 School District|Crawford County R-2 School District
+29|10440|Dadeville R-II School District|Dadeville R-II School District
+29|10500|De Soto School District|De Soto School District
+29|10520|Lakeland R-III School District|Lakeland R-III School District
+29|10590|Buchanan County R-IV School District|Buchanan County R-IV School District
+29|10620|Delta R-V School District|Delta R-V School District
+29|10770|Dexter R-XI School District|Dexter R-XI School District
+29|10800|Diamond R-IV School District|Diamond R-IV School District
+29|10830|Dixon R-I School District|Dixon R-I School District
+29|10920|Doniphan R-I School District|Doniphan R-I School District
+29|10950|Dora R-III School District|Dora R-III School District
+29|11070|Drexel R-IV School District|Drexel R-IV School District
+29|11100|East Carter County R-II School District|East Carter County R-II School District
+29|11220|East Prairie R-II School District|East Prairie R-II School District
+29|11250|East Buchanan County C-1 School District|East Buchanan County C-1 School District
+29|11280|Knox County R-I School District|Knox County R-I School District
+29|11310|El Dorado Springs R-II School District|El Dorado Springs R-II School District
+29|11340|Eldon R-I School District|Eldon R-I School District
+29|11400|Elsberry R-II School District|Elsberry R-II School District
+29|11450|Eminence R-I School District|Eminence R-I School District
+29|11550|Cole County R-V School District|Cole County R-V School District
+29|11580|Everton R-III School District|Everton R-III School District
+29|11650|Excelsior Springs 40 School District|Excelsior Springs 40 School District
+29|11670|Exeter R-VI School District|Exeter R-VI School District
+29|11700|Fair Grove R-10 School District|Fair Grove R-10 School District
+29|11730|Fair Play R-II School District|Fair Play R-II School District
+29|11760|Fairfax R-III School District|Fairfax R-III School District
+29|11910|Farmington R-7 School District|Farmington R-7 School District
+29|11940|Mid-Buchanan County R-V School District|Mid-Buchanan County R-V School District
+29|11990|Fayette R-III School District|Fayette R-III School District
+29|12010|Ferguson-Florissant School District|Ferguson-Florissant School District
+29|12030|Festus R-6 School District|Festus R-6 School District
+29|12180|Fordland R-III School District|Fordland R-III School District
+29|12240|Forsyth R-III School District|Forsyth R-III School District
+29|12290|Fort Osage R-I School District|Fort Osage R-I School District
+29|12300|Fox C-6 School District|Fox C-6 School District
+29|12540|Fredericktown R-I School District|Fredericktown R-I School District
+29|12550|Fulton School District|Fulton School District
+29|12600|Gainesville R-V School District|Gainesville R-V School District
+29|12630|Galena R-II School District|Galena R-II School District
+29|12660|Gallatin R-V School District|Gallatin R-V School District
+29|12690|Grundy County R-V School District|Grundy County R-V School District
+29|12780|Gideon School District|Gideon School District
+29|12870|Gilman City R-IV School District|Gilman City R-IV School District
+29|12900|Howard County R-II School District|Howard County R-II School District
+29|12930|Golden City School District|Golden City School District
+29|13080|Grain Valley R-V School District|Grain Valley R-V School District
+29|13140|Grandview C-4 School District|Grandview C-4 School District
+29|13170|Grandview R-II School District|Grandview R-II School District
+29|13230|Green City R-I School District|Green City R-I School District
+29|13290|Green Ridge R-VIII School District|Green Ridge R-VIII School District
+29|13320|Greenfield R-IV School District|Greenfield R-IV School District
+29|13380|Greenville R-II School District|Greenville R-II School District
+29|13500|Hale R-I School District|Hale R-I School District
+29|13530|Halfway R-III School District|Halfway R-III School District
+29|13560|Boone County R-IV School District|Boone County R-IV School District
+29|13590|Hamilton R-II School District|Hamilton R-II School District
+29|13620|Hancock Place School District|Hancock Place School District
+29|13650|Hannibal School District|Hannibal School District
+29|13680|Hardin-Central C-2 School District|Hardin-Central C-2 School District
+29|13710|Harrisburg R-VIII School District|Harrisburg R-VIII School District
+29|13760|Harrisonville R-IX School District|Harrisonville R-IX School District
+29|13770|Hartville R-II School District|Hartville R-II School District
+29|13800|Hayti R-II School District|Hayti R-II School District
+29|13830|Hazelwood School District|Hazelwood School District
+29|14250|Dunklin R-V School District|Dunklin R-V School District
+29|14280|Gasconade County R-I School District|Gasconade County R-I School District
+29|14310|Hermitage R-IV School District|Hermitage R-IV School District
+29|14320|Hickory County R-I School District|Hickory County R-I School District
+29|14340|Hickman Mills C-1 School District|Hickman Mills C-1 School District
+29|14370|Higbee R-VIII School District|Higbee R-VIII School District
+29|14400|Lafayette County C-1 School District|Lafayette County C-1 School District
+29|14430|Hillsboro R-III School District|Hillsboro R-III School District
+29|14460|Holcomb R-III School District|Holcomb R-III School District
+29|14490|Holden R-III School District|Holden R-III School District
+29|14550|Hollister R-V School District|Hollister R-V School District
+29|14840|Houston R-I School District|Houston R-I School District
+29|15270|Pettis County R-V School District|Pettis County R-V School District
+29|15300|Humansville R-IV School District|Humansville R-IV School District
+29|15330|Hume R-VIII School District|Hume R-VIII School District
+29|15390|Hurley R-I School District|Hurley R-I School District
+29|15420|Iberia R-V School District|Iberia R-V School District
+29|15450|Scott City R-I School District|Scott City R-I School District
+29|15480|Independence Public Schools|Independence Public Schools
+29|15510|Iron County C-4 School District|Iron County C-4 School District
+29|15600|Jackson R-II School District|Jackson R-II School District
+29|15630|North Daviess R-III School District|North Daviess R-III School District
+29|15660|Moniteau County C-1 School District|Moniteau County C-1 School District
+29|16140|Jasper County R-V School District|Jasper County R-V School District
+29|16190|Jefferson City Public Schools|Jefferson City Public Schools
+29|16200|Jefferson C-123 School District|Jefferson C-123 School District
+29|16290|Jennings School District|Jennings School District
+29|16350|Joplin R-VIII School District|Joplin R-VIII School District
+29|16380|Clark County R-I School District|Clark County R-I School District
+29|16400|Kansas City School District|Kansas City School District
+29|16450|Kearney R-I School District|Kearney R-I School District
+29|16500|Kennett 39 School District|Kennett 39 School District
+29|16530|Keytesville R-III School District|Keytesville R-III School District
+29|16590|King City R-I School District|King City R-I School District
+29|16660|Kingsville R-I School District|Kingsville R-I School District
+29|16740|Kirksville R-III School District|Kirksville R-III School District
+29|16770|Kirkwood School District|Kirkwood School District
+29|16830|Knob Noster R-VIII School District|Knob Noster R-VIII School District
+29|16860|Oregon-Howell R-III School District|Oregon-Howell R-III School District
+29|16920|La Monte R-IV School District|La Monte R-IV School District
+29|16950|La Plata R-II School District|La Plata R-II School District
+29|17820|Ladue School District|Ladue School District
+29|17850|Lamar R-I School District|Lamar R-I School District
+29|17880|Laquey R-V School District|Laquey R-V School District
+29|17970|Lathrop R-II School District|Lathrop R-II School District
+29|18220|Lawson R-XIV School District|Lawson R-XIV School District
+29|18240|West St. Francis County R-IV School District|West St. Francis County R-IV School District
+29|18270|Lebanon School District|Lebanon School District
+29|18300|Lee's Summit R-7 School District|Lee's Summit R-7 School District
+29|18360|Leeton R-X School District|Leeton R-X School District
+29|18420|Leopold R-III School District|Leopold R-III School District
+29|18450|Lesterville R-IV School District|Lesterville R-IV School District
+29|18460|Lewis County C-1 School District|Lewis County C-1 School District
+29|18480|Lexington R-V School District|Lexington R-V School District
+29|18510|Liberal R-II School District|Liberal R-II School District
+29|18540|Liberty Schools|Liberty Schools
+29|18600|Licking School District|Licking School District
+29|18670|Lincoln R-II School District|Lincoln R-II School District
+29|18690|Lindbergh R-VIII School District|Lindbergh R-VIII School District
+29|19080|Osage County R-II School District|Osage County R-II School District
+29|19140|Lockwood R-I School District|Lockwood R-I School District
+29|19170|Greene County R-VIII School District|Greene County R-VIII School District
+29|19230|Lone Jack C-6 School District|Lone Jack C-6 School District
+29|19260|Louisiana R-II School District|Louisiana R-II School District
+29|19350|Woodland R-IV School District|Woodland R-IV School District
+29|19380|Macks Creek R-V School District|Macks Creek R-V School District
+29|19410|Macon County R-I School District|Macon County R-I School District
+29|19840|Madison C-3 School District|Madison C-3 School District
+29|19890|Malden R-I School District|Malden R-I School District
+29|19920|Malta Bend R-V School District|Malta Bend R-V School District
+29|19980|Mansfield R-IV School District|Mansfield R-IV School District
+29|20010|Maplewood-Richmond Heights School District|Maplewood-Richmond Heights School District
+29|20050|Marceline R-V School District|Marceline R-V School District
+29|20160|Marion County Early R-V School District|Marion County Early R-V School District
+29|20280|Marion County R-II School District|Marion County R-II School District
+29|20310|Marionville R-IX School District|Marionville R-IX School District
+29|20370|Marquand-Zion School District|Marquand-Zion School District
+29|20410|Marshall School District|Marshall School District
+29|20430|Marshfield R-I School District|Marshfield R-I School District
+29|20490|Maryville R-II Schools|Maryville R-II Schools
+29|20550|Maysville R-I School District|Maysville R-I School District
+29|20610|McDonald County R-I School District|McDonald County R-I School District
+29|20640|Meadville R-IV School District|Meadville R-IV School District
+29|20670|Mehlville School District|Mehlville School District
+29|20700|Scotland County R-I School District|Scotland County R-I School District
+29|20750|North Mercer County R-III School District|North Mercer County R-III School District
+29|20810|Mexico 59 School District|Mexico 59 School District
+29|20820|Miami R-I School District|Miami R-I School District
+29|20940|Milan C-2 School District|Milan C-2 School District
+29|21000|Miller R-II School District|Miller R-II School District
+29|21100|Moberly School District|Moberly School District
+29|21120|Monett R-I School District|Monett R-I School District
+29|21210|Monroe City R-I School District|Monroe City R-I School District
+29|21330|Montgomery County R-II School District|Montgomery County R-II School District
+29|21360|Montrose R-XIV School District|Montrose R-XIV School District
+29|21420|Scott County Central Schools|Scott County Central Schools
+29|21480|Holt County R-II School District|Holt County R-II School District
+29|21510|Mountain Grove R-III School District|Mountain Grove R-III School District
+29|21540|Mountain View-Birch Tree R-III School District|Mountain View-Birch Tree R-III School District
+29|21600|Mount Vernon R-V School District|Mount Vernon R-V School District
+29|21660|Northeast Nodaway County R-V School District|Northeast Nodaway County R-V School District
+29|21690|North Nodaway County R-VI School District|North Nodaway County R-VI School District
+29|21720|Naylor R-II School District|Naylor R-II School District
+29|21750|Neelyville R-IV School District|Neelyville R-IV School District
+29|21810|Neosho R-5 School District|Neosho R-5 School District
+29|21840|Nevada R-V School District|Nevada R-V School District
+29|21875|New Bloomfield R-III School District|New Bloomfield R-III School District
+29|21880|Macon County R-IV School District|Macon County R-IV School District
+29|21940|New Franklin R-I School District|New Franklin R-I School District
+29|21960|New Haven School District|New Haven School District
+29|22140|Newburg R-II School District|Newburg R-II School District
+29|22470|Newtown-Harris R-III School District|Newtown-Harris R-III School District
+29|22500|Niangua R-V School District|Niangua R-V School District
+29|22530|Nixa School District|Nixa School District
+29|22560|Nodaway-Holt R-VII School District|Nodaway-Holt R-VII School District
+29|22620|Norborne R-VIII School District|Norborne R-VIII School District
+29|22650|Normandy School District|Normandy School District
+29|22710|North Andrew County R-VI School District|North Andrew County R-VI School District
+29|22740|North Callaway R-I School District|North Callaway R-I School District
+29|22770|North Harrison R-III School District|North Harrison R-III School District
+29|22800|North Kansas City School District|North Kansas City School District
+29|22830|North Platte County R-I School District|North Platte County R-I School District
+29|22860|Northeast Randolph County R-IV School District|Northeast Randolph County R-IV School District
+29|22890|Northwest R-I School District|Northwest R-I School District
+29|22920|Northwestern R-I School District|Northwestern R-I School District
+29|22950|Norwood R-I School District|Norwood R-I School District
+29|22980|Adair County R-I School District|Adair County R-I School District
+29|23010|Oak Grove R-VI School District|Oak Grove R-VI School District
+29|23070|Oak Ridge R-VI School District|Oak Ridge R-VI School District
+29|23100|Odessa R-VII School District|Odessa R-VII School District
+29|23130|Oran R-III School District|Oran R-III School District
+29|23160|St. Charles County R-V School District|St. Charles County R-V School District
+29|23190|South Holt County R-I School District|South Holt County R-I School District
+29|23220|Orrick R-XI School District|Orrick R-XI School District
+29|23250|Osborn R-O School District|Osborn R-O School District
+29|23270|Osceola School District|Osceola School District
+29|23310|Otterville R-VI School District|Otterville R-VI School District
+29|23340|Gasconade County R-II School District|Gasconade County R-II School District
+29|23400|Lutie R-VI School District|Lutie R-VI School District
+29|23430|Ozark R-VI School District|Ozark R-VI School District
+29|23460|Meramec Valley R-III School District|Meramec Valley R-III School District
+29|23490|Palmyra R-I School District|Palmyra R-I School District
+29|23530|Paris R-II School District|Paris R-II School District
+29|23550|Park Hill School District|Park Hill School District
+29|23580|Parkway School District|Parkway School District
+29|23640|Meadow Heights R-II School District|Meadow Heights R-II School District
+29|23670|Pattonsburg R-II School District|Pattonsburg R-II School District
+29|23700|Pattonville School District|Pattonville School District
+29|23730|Raymore-Peculiar R-II School District|Raymore-Peculiar R-II School District
+29|23760|North Pemiscot County R-I School District|North Pemiscot County R-I School District
+29|24530|Perry County 32 School District|Perry County 32 School District
+29|25110|Pierce City R-VI School District|Pierce City R-VI School District
+29|25140|Pike County R-III School District|Pike County R-III School District
+29|25170|Pilot Grove C-4 School District|Pilot Grove C-4 School District
+29|25210|Plato R-V School District|Plato R-V School District
+29|25230|Platte County R-III School District|Platte County R-III School District
+29|25290|Clinton County R-III School District|Clinton County R-III School District
+29|25330|Pleasant Hill R-III School District|Pleasant Hill R-III School District
+29|25350|Pleasant Hope R-VI School District|Pleasant Hope R-VI School District
+29|25410|Polo R-VII School District|Polo R-VII School District
+29|25450|Poplar Bluff R-I School District|Poplar Bluff R-I School District
+29|25500|Potosi R-III School District|Potosi R-III School District
+29|25530|Prairie Home R-V School District|Prairie Home R-V School District
+29|25590|Princeton R-V School District|Princeton R-V School District
+29|25620|Purdy R-II School District|Purdy R-II School District
+29|25640|Putnam County R-I School District|Putnam County R-I School District
+29|25650|Puxico R-VIII School District|Puxico R-VIII School District
+29|25710|Ralls County R-II School District|Ralls County R-II School District
+29|26070|Raytown C-2 School District|Raytown C-2 School District
+29|26160|Reeds Spring R-IV School District|Reeds Spring R-IV School District
+29|26220|Republic School District|Republic School District
+29|26260|Revere C-3 School District|Revere C-3 School District
+29|26310|Rich Hill R-IV School District|Rich Hill R-IV School District
+29|26400|Richland R-I School District|Richland R-I School District
+29|26430|Pulaski County R-IV School District|Pulaski County R-IV School District
+29|26480|Richmond R-XVI School District|Richmond R-XVI School District
+29|26490|Ridgeway R-V School District|Ridgeway R-V School District
+29|26610|Risco R-II School District|Risco R-II School District
+29|26640|Ritenour School District|Ritenour School District
+29|26670|Riverview Gardens School District|Riverview Gardens School District
+29|26790|Rock Port R-II School District|Rock Port R-II School District
+29|26850|Rockwood School District|Rockwood School District
+29|26890|Rolla 31 School District|Rolla 31 School District
+29|26970|Cole County R-I School District|Cole County R-I School District
+29|27060|St. Joseph School District|St. Joseph School District
+29|27090|Salem R-80 School District|Salem R-80 School District
+29|27520|Salisbury R-IV School District|Salisbury R-IV School District
+29|27540|Sarcoxie R-II School District|Sarcoxie R-II School District
+29|27570|Savannah R-III School District|Savannah R-III School District
+29|27600|Northeast Vernon County R-I School District|Northeast Vernon County R-I School District
+29|27630|School of The Osage R-II School District|School of The Osage R-II School District
+29|27660|Schuyler County R-I School District|Schuyler County R-I School District
+29|27830|Sedalia 200 School District|Sedalia 200 School District
+29|27870|Senath-Hornersville C-8 School District|Senath-Hornersville C-8 School District
+29|27900|Seneca R-VII School District|Seneca R-VII School District
+29|27930|Seymour R-II School District|Seymour R-II School District
+29|28110|Shelby County R-IV School District|Shelby County R-IV School District
+29|28140|Shelby County C-1 School District|Shelby County C-1 School District
+29|28170|Sheldon R-VIII School District|Sheldon R-VIII School District
+29|28260|Sikeston School District|Sikeston School District
+29|28290|Silex R-I School District|Silex R-I School District
+29|28360|Slater School District|Slater School District
+29|28380|Smithton R-VI School District|Smithton R-VI School District
+29|28410|Smithville School District|Smithville School District
+29|28430|South Callaway R-II Schools|South Callaway R-II Schools
+29|28470|South Iron County R-I School District|South Iron County R-I School District
+29|28500|South Nodaway County R-IV School District|South Nodaway County R-IV School District
+29|28530|South Pemiscot Schools|South Pemiscot Schools
+29|28560|Southern Boone County R-I School District|Southern Boone County R-I School District
+29|28590|Southern Reynolds County R-IV School District|Southern Reynolds County R-IV School District
+29|28620|Southland School District|Southland School District
+29|28680|Southwest Livingston County R-I School District|Southwest Livingston County R-I School District
+29|28710|Southwest R-V School District|Southwest R-V School District
+29|28740|Sparta R-III School District|Sparta R-III School District
+29|28800|Spokane R-VII School District|Spokane R-VII School District
+29|28860|Springfield School District|Springfield School District
+29|28920|St. Charles R-VI School District|St. Charles R-VI School District
+29|28950|Francis Howell School District|Francis Howell School District
+29|29100|St. Clair R-XIII School District|St. Clair R-XIII School District
+29|29130|St. Elizabeth R-IV School District|St. Elizabeth R-IV School District
+29|29170|Central R-III School District|Central R-III School District
+29|29250|St. James R-I School District|St. James R-I School District
+29|29280|St. Louis City School District|St. Louis City School District
+29|29340|Gentry County R-II School District|Gentry County R-II School District
+29|29370|Ste. Genevieve County R-II School District|Ste. Genevieve County R-II School District
+29|29430|Steelville School District|Steelville School District
+29|29470|Stet R-XV School District|Stet R-XV School District
+29|29490|Stewartsville C-2 School District|Stewartsville C-2 School District
+29|29520|Stockton R-I School District|Stockton R-I School District
+29|29580|Camden County R-II School District|Camden County R-II School District
+29|29610|Morgan County R-I School District|Morgan County R-I School District
+29|29640|Strafford R-VI School District|Strafford R-VI School District
+29|29700|Sturgeon R-V School District|Sturgeon R-V School District
+29|29760|Sullivan School District|Sullivan School District
+29|29810|Summersville R-II School District|Summersville R-II School District
+29|29880|Sweet Springs R-VII School District|Sweet Springs R-VII School District
+29|29940|Tarkio R-I School District|Tarkio R-I School District
+29|30270|Thayer R-II School District|Thayer R-II School District
+29|30300|Tina-Avalon R-II School District|Tina-Avalon R-II School District
+29|30330|Moniteau County R-VI School District|Moniteau County R-VI School District
+29|30360|Trenton R-IX School District|Trenton R-IX School District
+29|30390|Tri-County R-VII School District|Tri-County R-VII School District
+29|30420|East Newton County R-VI School District|East Newton County R-VI School District
+29|30450|Troy R-III School District|Troy R-III School District
+29|30510|Miller County R-III School District|Miller County R-III School District
+29|30520|Twin Rivers R-X School District|Twin Rivers R-X School District
+29|30570|Union R-XI School District|Union R-XI School District
+29|30600|Union Star R-II School District|Union Star R-II School District
+29|30660|University City School District|University City School District
+29|30690|Valley Park School District|Valley Park School District
+29|30720|Valley R-VI School District|Valley R-VI School District
+29|30750|Van Buren R-I School District|Van Buren R-I School District
+29|30780|Van-Far School District|Van-Far School District
+29|30810|Verona R-VII School District|Verona R-VII School District
+29|30840|Morgan County R-II School District|Morgan County R-II School District
+29|30870|Maries County R-I School District|Maries County R-I School District
+29|30900|West Nodaway County R-I School District|West Nodaway County R-I School District
+29|30990|Walnut Grove R-V School District|Walnut Grove R-V School District
+29|31020|Warrensburg R-VI School District|Warrensburg R-VI School District
+29|31050|Warren County R-III School District|Warren County R-III School District
+29|31070|Warsaw R-IX School District|Warsaw R-IX School District
+29|31110|Washington School District|Washington School District
+29|31140|Kingston K-14 School District|Kingston K-14 School District
+29|31440|Waynesville R-VI Schools|Waynesville R-VI Schools
+29|31460|Weaubleau R-III School District|Weaubleau R-III School District
+29|31500|Webb City R-VII School District|Webb City R-VII School District
+29|31530|Webster Groves School District|Webster Groves School District
+29|31560|Wellington-Napoleon R-IX School District|Wellington-Napoleon R-IX School District
+29|31590|Wellston School District|Wellston School District
+29|31620|Wellsville-Middletown R-I School District|Wellsville-Middletown R-I School District
+29|31650|Wentzville R-IV School District|Wentzville R-IV School District
+29|31680|West Plains R-VII School District|West Plains R-VII School District
+29|31710|West Platte County R-II School District|West Platte County R-II School District
+29|31800|Midway School District|Midway School District
+29|31830|Osage County R-III School District|Osage County R-III School District
+29|31860|Westran R-I School District|Westran R-I School District
+29|31920|Wheatland R-II School District|Wheatland R-II School District
+29|31950|Wheaton R-III School District|Wheaton R-III School District
+29|32010|Willard School District|Willard School District
+29|32070|Willow Springs R-IV School District|Willow Springs R-IV School District
+29|32100|Windsor C-1 School District|Windsor C-1 School District
+29|32110|Henry County R-I School District|Henry County R-I School District
+29|32190|Winfield School District|Winfield School District
+29|32220|Winona R-III School District|Winona R-III School District
+29|32250|Winston R-VI School District|Winston R-VI School District
+29|32300|Worth County R-III School District|Worth County R-III School District
+29|32310|Wright City R-II School District|Wright City R-II School District
+29|32490|Zalma R-V School District|Zalma R-V School District

@@ -1,0 +1,105 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+04|00004|Clarkdale-Jerome Elementary District|Clarkdale-Jerome Elementary District
+04|00005|Salome Consolidated Elementary District|Salome Consolidated Elementary District
+04|00022|Vernon Elementary District|Vernon Elementary District
+04|00480|Aguila Elementary District|Aguila Elementary District
+04|00600|Alhambra Elementary District|Alhambra Elementary District
+04|00630|Alpine Elementary District|Alpine Elementary District
+04|00750|Apache Elementary District|Apache Elementary District
+04|00840|Arlington Elementary District|Arlington Elementary District
+04|00870|Ash Creek Elementary District|Ash Creek Elementary District
+04|00960|Avondale Elementary District|Avondale Elementary District
+04|01050|Balsz Elementary District|Balsz Elementary District
+04|01080|Beaver Creek Elementary District|Beaver Creek Elementary District
+04|01230|Blue Elementary District|Blue Elementary District
+04|01260|Bonita Elementary District|Bonita Elementary District
+04|01290|Bouse Elementary District|Bouse Elementary District
+04|01380|Buckeye Elementary District|Buckeye Elementary District
+04|01500|Bullhead City School District|Bullhead City School District
+04|01650|Canon Elementary District|Canon Elementary District
+04|01680|Cartwright Elementary District|Cartwright Elementary District
+04|01710|Casa Grande Elementary District|Casa Grande Elementary District
+04|01920|Chevelon Butte School District|Chevelon Butte School District
+04|02130|Cochise Elementary District|Cochise Elementary District
+04|02190|Concho Elementary District|Concho Elementary District
+04|02220|Congress Elementary District|Congress Elementary District
+04|02250|Continental Elementary District|Continental Elementary District
+04|02370|Cottonwood-Oak Creek Elementary District|Cottonwood-Oak Creek Elementary District
+04|02400|Crane Elementary District|Crane Elementary District
+04|02430|Creighton Elementary District|Creighton Elementary District
+04|02460|Crown King Elementary District|Crown King Elementary District
+04|02490|Double Adobe Elementary District|Double Adobe Elementary District
+04|02710|Eagle Elementary District|Eagle Elementary District
+04|02760|Elfrida Elementary District|Elfrida Elementary District
+04|02790|Eloy Elementary District|Eloy Elementary District
+04|02820|Empire Elementary District|Empire Elementary District
+04|03060|Fowler Elementary District|Fowler Elementary District
+04|03240|Gadsden Elementary District|Gadsden Elementary District
+04|03420|Glendale Elementary District|Glendale Elementary District
+04|03660|Hackberry School District|Hackberry School District
+04|03900|Hyder Elementary District|Hyder Elementary District
+04|03960|Isaac Elementary District|Isaac Elementary District
+04|04170|Kirkland Elementary District|Kirkland Elementary District
+04|04200|Klondyke Elementary District|Klondyke Elementary District
+04|04230|Kyrene Elementary District|Kyrene Elementary District
+04|04290|Laveen Elementary District|Laveen Elementary District
+04|04320|Liberty Elementary District|Liberty Elementary District
+04|04380|Litchfield Elementary District|Litchfield Elementary District
+04|04440|Littleton Elementary District|Littleton Elementary District
+04|04500|Madison Elementary District|Madison Elementary District
+04|04530|Maine Consolidated School District|Maine Consolidated School District
+04|04770|Altar Valley Elementary District|Altar Valley Elementary District
+04|04860|McNary Elementary District|McNary Elementary District
+04|04920|McNeal Elementary District|McNeal Elementary District
+04|05100|Mobile Elementary District|Mobile Elementary District
+04|05190|Mohave Valley Elementary District|Mohave Valley Elementary District
+04|05220|Mohawk Valley Elementary District|Mohawk Valley Elementary District
+04|05340|Morristown Elementary District|Morristown Elementary District
+04|05400|Murphy Elementary District|Murphy Elementary District
+04|05430|Naco Elementary District|Naco Elementary District
+04|05640|Oracle Elementary District|Oracle Elementary District
+04|05670|Osborn Elementary District|Osborn Elementary District
+04|05730|Owens-Whitney Elementary District|Owens-Whitney Elementary District
+04|05760|Tonto Basin Elementary District|Tonto Basin Elementary District
+04|05850|Palo Verde Elementary District|Palo Verde Elementary District
+04|05880|Palominas Elementary District|Palominas Elementary District
+04|06000|Patagonia Elementary District|Patagonia Elementary District
+04|06150|Pearce Elementary District|Pearce Elementary District
+04|06210|Pendergast Elementary District|Pendergast Elementary District
+04|06300|Phoenix Elementary District|Phoenix Elementary District
+04|06360|Picacho Elementary District|Picacho Elementary District
+04|06510|Pine Strawberry Elementary District|Pine Strawberry Elementary District
+04|06630|Pomerene Elementary District|Pomerene Elementary District
+04|06780|Quartzsite Elementary District|Quartzsite Elementary District
+04|06900|Red Rock Elementary District|Red Rock Elementary District
+04|06930|Redington Elementary District|Redington Elementary District
+04|07020|Riverside Elementary District|Riverside Elementary District
+04|07080|Roosevelt Elementary District|Roosevelt Elementary District
+04|07140|Rucker Elementary District|Rucker Elementary District
+04|07200|Sacaton Elementary District|Sacaton Elementary District
+04|07380|San Fernando Elementary District|San Fernando Elementary District
+04|07500|Santa Cruz Elementary District|Santa Cruz Elementary District
+04|07680|Sentinel Elementary District|Sentinel Elementary District
+04|07770|Skull Valley Elementary District|Skull Valley Elementary District
+04|07860|Solomon Elementary District|Solomon Elementary District
+04|07890|Somerton Elementary District|Somerton Elementary District
+04|07920|Sonoita Elementary District|Sonoita Elementary District
+04|08130|Stanfield Elementary District|Stanfield Elementary District
+04|08310|Tempe School District|Tempe School District
+04|08430|Paloma School District|Paloma School District
+04|08460|Hillside Elementary District|Hillside Elementary District
+04|08490|Tolleson Elementary District|Tolleson Elementary District
+04|08550|Toltec Elementary District|Toltec Elementary District
+04|08640|Topock Elementary District|Topock Elementary District
+04|08820|Union Elementary District|Union Elementary District
+04|08880|Valentine Elementary District|Valentine Elementary District
+04|09030|Walnut Grove Elementary District|Walnut Grove Elementary District
+04|09060|Washington Elementary District|Washington Elementary District
+04|09090|Wellton Elementary District|Wellton Elementary District
+04|09120|Wenden Elementary District|Wenden Elementary District
+04|09360|Williamson Valley Elementary School District|Williamson Valley Elementary School District
+04|09390|Wilson Elementary District|Wilson Elementary District
+04|09510|Yarnell Elementary District|Yarnell Elementary District
+04|09540|Young Elementary School District|Young Elementary School District
+04|09570|Yucca Elementary District|Yucca Elementary District
+04|09600|Yuma Elementary District|Yuma Elementary District

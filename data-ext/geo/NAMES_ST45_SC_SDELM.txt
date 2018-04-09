@@ -1,0 +1,3 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+45|00005|Fort Jackson Schools|Fort Jackson Schools
+45|00006|Beaufort Marine Corps Air Station School District|Beaufort Marine Corps Air Station School District

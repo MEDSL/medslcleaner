@@ -1,0 +1,105 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+56|00680|Albany|Albany CDP
+56|01115|Alcova|Alcova CDP
+56|01888|Alpine Northeast|Alpine Northeast CDP
+56|01936|Alpine Northwest|Alpine Northwest CDP
+56|01985|Alta|Alta CDP
+56|02877|Antelope Hills|Antelope Hills CDP
+56|02900|Antelope Valley-Crestview|Antelope Valley-Crestview CDP
+56|03000|Arapahoe|Arapahoe CDP
+56|03245|Arlington|Arlington CDP
+56|03652|Arrowhead Springs|Arrowhead Springs CDP
+56|03725|Arvada|Arvada CDP
+56|04015|Atlantic City|Atlantic City CDP
+56|04160|Auburn|Auburn CDP
+56|06045|Bedford|Bedford CDP
+56|06407|Bessemer Bend|Bessemer Bend CDP
+56|06480|Beulah|Beulah CDP
+56|06770|Big Horn|Big Horn CDP
+56|08365|Bondurant|Bondurant CDP
+56|09235|Boulder|Boulder CDP
+56|09307|Boulder Flats|Boulder Flats CDP
+56|10175|Brookhurst|Brookhurst CDP
+56|12860|Carpenter|Carpenter CDP
+56|13005|Carter|Carter CDP
+56|13222|Casper Mountain|Casper Mountain CDP
+56|13440|Centennial|Centennial CDP
+56|14097|Chugcreek|Chugcreek CDP
+56|15400|Clearview Acres|Clearview Acres CDP
+56|17210|Cora|Cora CDP
+56|18225|Crowheart|Crowheart CDP
+56|18950|Daniel|Daniel CDP
+56|23010|Eden|Eden CDP
+56|25185|Esterbrook|Esterbrook CDP
+56|25330|Ethete|Ethete CDP
+56|25475|Etna|Etna CDP
+56|25910|Fairview|Fairview CDP
+56|26055|Farson|Farson CDP
+56|27650|Fontenelle|Fontenelle CDP
+56|27940|Fort Bridger|Fort Bridger CDP
+56|28665|Fort Washakie|Fort Washakie CDP
+56|29300|Fox Farm-College|Fox Farm-College CDP
+56|29390|Fox Park|Fox Park CDP
+56|30115|Freedom|Freedom CDP
+56|30985|Garland|Garland CDP
+56|34030|Grover|Grover CDP
+56|35552|Hartrandt|Hartrandt CDP
+56|36060|Hawk Springs|Hawk Springs CDP
+56|37510|Hillsdale|Hillsdale CDP
+56|37727|Hill View Heights|Hill View Heights CDP
+56|37945|Hoback|Hoback CDP
+56|38307|Homa Hills|Homa Hills CDP
+56|39250|Huntley|Huntley CDP
+56|39395|Hyattville|Hyattville CDP
+56|40265|James Town|James Town CDP
+56|40555|Jeffrey City|Jeffrey City CDP
+56|40945|Johnstown|Johnstown CDP
+56|41860|Kelly|Kelly CDP
+56|44252|Lakeview North|Lakeview North CDP
+56|44615|Lance Creek|Lance Creek CDP
+56|46935|Little America|Little America CDP
+56|47370|Lonetree|Lonetree CDP
+56|48240|Lucerne|Lucerne CDP
+56|49400|McKinnon|McKinnon CDP
+56|49775|Mammoth|Mammoth CDP
+56|51285|Meadow Acres|Meadow Acres CDP
+56|54402|Moose Wilson Road|Moose Wilson Road CDP
+56|55200|Mountain View|Mountain View CDP
+56|56520|Nordic|Nordic CDP
+56|56700|North Rock Springs|North Rock Springs CDP
+56|57375|Oakley|Oakley CDP
+56|58100|Orin|Orin CDP
+56|58680|Osage|Osage CDP
+56|58970|Osmond|Osmond CDP
+56|59332|Owl Creek|Owl Creek CDP
+56|59985|Parkman|Parkman CDP
+56|62305|Powder River|Powder River CDP
+56|62812|Purple Sage|Purple Sage CDP
+56|63100|Rafter J Ranch|Rafter J Ranch CDP
+56|63465|Ralston|Ralston CDP
+56|63800|Ranchettes|Ranchettes CDP
+56|64400|Red Butte|Red Butte CDP
+56|65060|Reliance|Reliance CDP
+56|66655|Robertson|Robertson CDP
+56|67670|Ryan Park|Ryan Park CDP
+56|69700|Shell|Shell CDP
+56|71295|Slater|Slater CDP
+56|71350|Sleepy Hollow|Sleepy Hollow CDP
+56|71440|Smoot|Smoot CDP
+56|71800|South Greeley|South Greeley CDP
+56|71947|South Park|South Park CDP
+56|73615|Story|Story CDP
+56|75355|Table Rock|Table Rock CDP
+56|75572|Taylor|Taylor CDP
+56|75935|Teton Village|Teton Village CDP
+56|78400|Turnerville|Turnerville CDP
+56|79270|Urie|Urie CDP
+56|80285|Veteran|Veteran CDP
+56|80575|Vista West|Vista West CDP
+56|81640|Warren AFB|Warren AFB CDP
+56|81703|Washam|Washam CDP
+56|82967|Westview Circle|Westview Circle CDP
+56|83100|Whiting|Whiting CDP
+56|83765|Wilson|Wilson CDP
+56|84852|Woods Landing-Jelm|Woods Landing-Jelm CDP
+56|86737|Y-O Ranch|Y-O Ranch CDP

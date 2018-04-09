@@ -1,0 +1,2166 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+25|001|2158|Barnstable Precinct 1|Barnstable Precinct 1
+25|001|2159|Barnstable Precinct 2|Barnstable Precinct 2
+25|001|2160|Barnstable Precinct 3|Barnstable Precinct 3
+25|001|2161|Barnstable Precinct 4|Barnstable Precinct 4
+25|001|2162|Barnstable Precinct 5|Barnstable Precinct 5
+25|001|2163|Barnstable Precinct 6|Barnstable Precinct 6
+25|001|2164|Barnstable Precinct 7|Barnstable Precinct 7
+25|001|2165|Barnstable Precinct 8|Barnstable Precinct 8
+25|001|2166|Barnstable Precinct 9|Barnstable Precinct 9
+25|001|2167|Barnstable Precinct 10|Barnstable Precinct 10
+25|001|2168|Barnstable Precinct 11|Barnstable Precinct 11
+25|001|2169|Barnstable Precinct 12|Barnstable Precinct 12
+25|001|2170|Barnstable Precinct 13|Barnstable Precinct 13
+25|001|2171|Bourne Precinct 1|Bourne Precinct 1
+25|001|2172|Bourne Precinct 2|Bourne Precinct 2
+25|001|2173|Bourne Precinct 3|Bourne Precinct 3
+25|001|2174|Bourne Precinct 4|Bourne Precinct 4
+25|001|2175|Bourne Precinct 5|Bourne Precinct 5
+25|001|2176|Bourne Precinct 6|Bourne Precinct 6
+25|001|2177|Brewster Precinct 1|Brewster Precinct 1
+25|001|2178|Brewster Precinct 2|Brewster Precinct 2
+25|001|2179|Brewster Precinct 3|Brewster Precinct 3
+25|001|2180|Chatham Precinct 1|Chatham Precinct 1
+25|001|2181|Chatham Precinct 2|Chatham Precinct 2
+25|001|2182|Dennis Precinct 1|Dennis Precinct 1
+25|001|2183|Dennis Precinct 2|Dennis Precinct 2
+25|001|2184|Dennis Precinct 3|Dennis Precinct 3
+25|001|2185|Dennis Precinct 4|Dennis Precinct 4
+25|001|2186|Dennis Precinct 5|Dennis Precinct 5
+25|001|2187|Eastham Precinct 1|Eastham Precinct 1
+25|001|2188|Falmouth Precinct 1|Falmouth Precinct 1
+25|001|2189|Falmouth Precinct 2|Falmouth Precinct 2
+25|001|2190|Falmouth Precinct 3|Falmouth Precinct 3
+25|001|2191|Falmouth Precinct 4|Falmouth Precinct 4
+25|001|2192|Falmouth Precinct 5|Falmouth Precinct 5
+25|001|2193|Falmouth Precinct 6|Falmouth Precinct 6
+25|001|2194|Falmouth Precinct 7|Falmouth Precinct 7
+25|001|2195|Falmouth Precinct 8|Falmouth Precinct 8
+25|001|2196|Falmouth Precinct 9|Falmouth Precinct 9
+25|001|2197|Harwich Precinct 1|Harwich Precinct 1
+25|001|2198|Harwich Precinct 2|Harwich Precinct 2
+25|001|2199|Harwich Precinct 3|Harwich Precinct 3
+25|001|2200|Harwich Precinct 4|Harwich Precinct 4
+25|001|2201|Mashpee Precinct 1|Mashpee Precinct 1
+25|001|2202|Mashpee Precinct 2|Mashpee Precinct 2
+25|001|2203|Mashpee Precinct 3|Mashpee Precinct 3
+25|001|2204|Mashpee Precinct 4|Mashpee Precinct 4
+25|001|2205|Mashpee Precinct 5|Mashpee Precinct 5
+25|001|2206|Orleans Precinct 1|Orleans Precinct 1
+25|001|2207|Orleans Precinct 2|Orleans Precinct 2
+25|001|2208|Provincetown Precinct 1|Provincetown Precinct 1
+25|001|2209|Sandwich Precinct 1|Sandwich Precinct 1
+25|001|2210|Sandwich Precinct 2|Sandwich Precinct 2
+25|001|2211|Sandwich Precinct 3|Sandwich Precinct 3
+25|001|2212|Sandwich Precinct 4|Sandwich Precinct 4
+25|001|2213|Sandwich Precinct 5|Sandwich Precinct 5
+25|001|2214|Sandwich Precinct 6|Sandwich Precinct 6
+25|001|2215|Sandwich Precinct 7|Sandwich Precinct 7
+25|001|2216|Truro Precinct 1|Truro Precinct 1
+25|001|2217|Wellfleet Precinct 1|Wellfleet Precinct 1
+25|001|2218|Yarmouth Precinct 1|Yarmouth Precinct 1
+25|001|2219|Yarmouth Precinct 2|Yarmouth Precinct 2
+25|001|2220|Yarmouth Precinct 3|Yarmouth Precinct 3
+25|001|2221|Yarmouth Precinct 4|Yarmouth Precinct 4
+25|001|2222|Yarmouth Precinct 5|Yarmouth Precinct 5
+25|001|2223|Yarmouth Precinct 6|Yarmouth Precinct 6
+25|001|2224|Yarmouth Precinct 7|Yarmouth Precinct 7
+25|001|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+25|003|2225|Adams Precinct 1|Adams Precinct 1
+25|003|2226|Adams Precinct 2|Adams Precinct 2
+25|003|2227|Adams Precinct 3|Adams Precinct 3
+25|003|2228|Adams Precinct 4|Adams Precinct 4
+25|003|2229|Adams Precinct 5|Adams Precinct 5
+25|003|2230|Alford Precinct 1|Alford Precinct 1
+25|003|2231|Becket Precinct 1|Becket Precinct 1
+25|003|2232|Cheshire Precinct 1|Cheshire Precinct 1
+25|003|2233|Clarksburg Precinct 1|Clarksburg Precinct 1
+25|003|2234|Dalton Precinct 1|Dalton Precinct 1
+25|003|2235|Dalton Precinct 2|Dalton Precinct 2
+25|003|2236|Egremont Precinct 1|Egremont Precinct 1
+25|003|2237|Florida Precinct 1|Florida Precinct 1
+25|003|2238|Great Barrington Precinct A|Great Barrington Precinct A
+25|003|2239|Great Barrington Precinct B|Great Barrington Precinct B
+25|003|2240|Great Barrington Precinct C|Great Barrington Precinct C
+25|003|2241|Great Barrington Precinct D|Great Barrington Precinct D
+25|003|2242|Hancock Precinct 1|Hancock Precinct 1
+25|003|2243|Hinsdale Precinct 1|Hinsdale Precinct 1
+25|003|2244|Lanesborough Precinct 1|Lanesborough Precinct 1
+25|003|2245|Lee Precinct 1|Lee Precinct 1
+25|003|2246|Lee Precinct 2|Lee Precinct 2
+25|003|2247|Lee Precinct 3|Lee Precinct 3
+25|003|2248|Lee Precinct 4|Lee Precinct 4
+25|003|2249|Lee Precinct 5|Lee Precinct 5
+25|003|2250|Lee Precinct 6|Lee Precinct 6
+25|003|2251|Lenox Precinct 1|Lenox Precinct 1
+25|003|2252|Monterey Precinct 1|Monterey Precinct 1
+25|003|2253|Mount Washington Precinct 1|Mount Washington Precinct 1
+25|003|2254|New Ashford Precinct 1|New Ashford Precinct 1
+25|003|2255|New Marlborough Precinct 1|New Marlborough Precinct 1
+25|003|2256|North Adams Ward 1 Precinct 1|North Adams Ward 1 Precinct 1
+25|003|2257|North Adams Ward 1 Precinct 2|North Adams Ward 1 Precinct 2
+25|003|2258|North Adams Ward 1 Precinct 3|North Adams Ward 1 Precinct 3
+25|003|2259|North Adams Ward 1 Precinct 4|North Adams Ward 1 Precinct 4
+25|003|2260|North Adams Ward 1 Precinct 5|North Adams Ward 1 Precinct 5
+25|003|2261|Otis Precinct 1|Otis Precinct 1
+25|003|2262|Peru Precinct 1|Peru Precinct 1
+25|003|2263|Pittsfield Ward 1 Precinct A|Pittsfield Ward 1 Precinct A
+25|003|2264|Pittsfield Ward 1 Precinct B|Pittsfield Ward 1 Precinct B
+25|003|2265|Pittsfield Ward 2 Precinct A|Pittsfield Ward 2 Precinct A
+25|003|2266|Pittsfield Ward 2 Precinct B|Pittsfield Ward 2 Precinct B
+25|003|2267|Pittsfield Ward 3 Precinct A|Pittsfield Ward 3 Precinct A
+25|003|2268|Pittsfield Ward 3 Precinct B|Pittsfield Ward 3 Precinct B
+25|003|2269|Pittsfield Ward 4 Precinct A|Pittsfield Ward 4 Precinct A
+25|003|2270|Pittsfield Ward 4 Precinct B|Pittsfield Ward 4 Precinct B
+25|003|2271|Pittsfield Ward 5 Precinct A|Pittsfield Ward 5 Precinct A
+25|003|2272|Pittsfield Ward 5 Precinct B|Pittsfield Ward 5 Precinct B
+25|003|2273|Pittsfield Ward 6 Precinct A|Pittsfield Ward 6 Precinct A
+25|003|2274|Pittsfield Ward 6 Precinct B|Pittsfield Ward 6 Precinct B
+25|003|2275|Pittsfield Ward 7 Precinct A|Pittsfield Ward 7 Precinct A
+25|003|2276|Pittsfield Ward 7 Precinct B|Pittsfield Ward 7 Precinct B
+25|003|2277|Richmond Precinct 1|Richmond Precinct 1
+25|003|2278|Sandisfield Precinct 1|Sandisfield Precinct 1
+25|003|2279|Savoy Precinct 1|Savoy Precinct 1
+25|003|2280|Sheffield Precinct 1|Sheffield Precinct 1
+25|003|2281|Stockbridge Precinct 1|Stockbridge Precinct 1
+25|003|2282|Tyringham Precinct 1|Tyringham Precinct 1
+25|003|2283|Washington Precinct 1|Washington Precinct 1
+25|003|2284|West Stockbridge Precinct 1|West Stockbridge Precinct 1
+25|003|2285|Williamstown Precinct 1|Williamstown Precinct 1
+25|003|2286|Williamstown Precinct 2|Williamstown Precinct 2
+25|003|2287|Williamstown Precinct 3|Williamstown Precinct 3
+25|003|2288|Windsor Precinct 1|Windsor Precinct 1
+25|005|2289|Acushnet Precinct 1|Acushnet Precinct 1
+25|005|2290|Acushnet Precinct 2|Acushnet Precinct 2
+25|005|2291|Acushnet Precinct 3|Acushnet Precinct 3
+25|005|2292|Attleboro Ward 1 Precinct A|Attleboro Ward 1 Precinct A
+25|005|2293|Attleboro Ward 1 Precinct B|Attleboro Ward 1 Precinct B
+25|005|2294|Attleboro Ward 2 Precinct A|Attleboro Ward 2 Precinct A
+25|005|2295|Attleboro Ward 2 Precinct B|Attleboro Ward 2 Precinct B
+25|005|2296|Attleboro Ward 3 Precinct A|Attleboro Ward 3 Precinct A
+25|005|2297|Attleboro Ward 3 Precinct B|Attleboro Ward 3 Precinct B
+25|005|2298|Attleboro Ward 4 Precinct A|Attleboro Ward 4 Precinct A
+25|005|2299|Attleboro Ward 4 Precinct B|Attleboro Ward 4 Precinct B
+25|005|2300|Attleboro Ward 5 Precinct A|Attleboro Ward 5 Precinct A
+25|005|2301|Attleboro Ward 5 Precinct B|Attleboro Ward 5 Precinct B
+25|005|2302|Attleboro Ward 6 Precinct A|Attleboro Ward 6 Precinct A
+25|005|2303|Attleboro Ward 6 Precinct B|Attleboro Ward 6 Precinct B
+25|005|2304|Berkley Precinct 1|Berkley Precinct 1
+25|005|2305|Dartmouth Precinct 1|Dartmouth Precinct 1
+25|005|2306|Dartmouth Precinct 2|Dartmouth Precinct 2
+25|005|2307|Dartmouth Precinct 3|Dartmouth Precinct 3
+25|005|2308|Dartmouth Precinct 4|Dartmouth Precinct 4
+25|005|2309|Dartmouth Precinct 5|Dartmouth Precinct 5
+25|005|2310|Dartmouth Precinct 6|Dartmouth Precinct 6
+25|005|2311|Dartmouth Precinct 7|Dartmouth Precinct 7
+25|005|2312|Dartmouth Precinct 8|Dartmouth Precinct 8
+25|005|2313|Dartmouth Precinct 9|Dartmouth Precinct 9
+25|005|2314|Dartmouth Precinct 10|Dartmouth Precinct 10
+25|005|2315|Dighton Precinct 1|Dighton Precinct 1
+25|005|2316|Easton Precinct 1|Easton Precinct 1
+25|005|2317|Easton Precinct 2|Easton Precinct 2
+25|005|2318|Easton Precinct 3|Easton Precinct 3
+25|005|2319|Easton Precinct 4|Easton Precinct 4
+25|005|2320|Easton Precinct 5|Easton Precinct 5
+25|005|2321|Easton Precinct 6|Easton Precinct 6
+25|005|2322|Fairhaven Precinct 1|Fairhaven Precinct 1
+25|005|2323|Fairhaven Precinct 2|Fairhaven Precinct 2
+25|005|2324|Fairhaven Precinct 3|Fairhaven Precinct 3
+25|005|2325|Fairhaven Precinct 4|Fairhaven Precinct 4
+25|005|2326|Fairhaven Precinct 5|Fairhaven Precinct 5
+25|005|2327|Fairhaven Precinct 6|Fairhaven Precinct 6
+25|005|2328|Fall River Ward 1 Precinct A|Fall River Ward 1 Precinct A
+25|005|2329|Fall River Ward 1 Precinct B|Fall River Ward 1 Precinct B
+25|005|2330|Fall River Ward 1 Precinct C|Fall River Ward 1 Precinct C
+25|005|2331|Fall River Ward 1 Precinct D|Fall River Ward 1 Precinct D
+25|005|2332|Fall River Ward 2 Precinct A|Fall River Ward 2 Precinct A
+25|005|2333|Fall River Ward 2 Precinct B|Fall River Ward 2 Precinct B
+25|005|2334|Fall River Ward 2 Precinct C|Fall River Ward 2 Precinct C
+25|005|2335|Fall River Ward 3 Precinct A|Fall River Ward 3 Precinct A
+25|005|2336|Fall River Ward 3 Precinct B|Fall River Ward 3 Precinct B
+25|005|2337|Fall River Ward 3 Precinct C|Fall River Ward 3 Precinct C
+25|005|2338|Fall River Ward 4 Precinct A|Fall River Ward 4 Precinct A
+25|005|2339|Fall River Ward 4 Precinct B|Fall River Ward 4 Precinct B
+25|005|2340|Fall River Ward 4 Precinct C|Fall River Ward 4 Precinct C
+25|005|2341|Fall River Ward 5 Precinct A|Fall River Ward 5 Precinct A
+25|005|2342|Fall River Ward 5 Precinct B|Fall River Ward 5 Precinct B
+25|005|2343|Fall River Ward 5 Precinct C|Fall River Ward 5 Precinct C
+25|005|2344|Fall River Ward 6 Precinct A|Fall River Ward 6 Precinct A
+25|005|2345|Fall River Ward 6 Precinct B|Fall River Ward 6 Precinct B
+25|005|2346|Fall River Ward 6 Precinct C|Fall River Ward 6 Precinct C
+25|005|2347|Fall River Ward 7 Precinct A|Fall River Ward 7 Precinct A
+25|005|2348|Fall River Ward 7 Precinct B|Fall River Ward 7 Precinct B
+25|005|2349|Fall River Ward 7 Precinct C|Fall River Ward 7 Precinct C
+25|005|2350|Fall River Ward 7 Precinct D|Fall River Ward 7 Precinct D
+25|005|2351|Fall River Ward 8 Precinct A|Fall River Ward 8 Precinct A
+25|005|2352|Fall River Ward 8 Precinct B|Fall River Ward 8 Precinct B
+25|005|2353|Fall River Ward 8 Precinct C|Fall River Ward 8 Precinct C
+25|005|2354|Fall River Ward 8 Precinct D|Fall River Ward 8 Precinct D
+25|005|2355|Fall River Ward 9 Precinct A|Fall River Ward 9 Precinct A
+25|005|2356|Fall River Ward 9 Precinct B|Fall River Ward 9 Precinct B
+25|005|2357|Fall River Ward 9 Precinct C|Fall River Ward 9 Precinct C
+25|005|2358|Freetown Precinct 1|Freetown Precinct 1
+25|005|2359|Freetown Precinct 2|Freetown Precinct 2
+25|005|2360|Freetown Precinct 3|Freetown Precinct 3
+25|005|2361|Mansfield Precinct 1|Mansfield Precinct 1
+25|005|2362|Mansfield Precinct 2|Mansfield Precinct 2
+25|005|2363|Mansfield Precinct 3|Mansfield Precinct 3
+25|005|2364|Mansfield Precinct 4|Mansfield Precinct 4
+25|005|2365|Mansfield Precinct 5|Mansfield Precinct 5
+25|005|2366|Mansfield Precinct 6|Mansfield Precinct 6
+25|005|2367|New Bedford Ward 1 Precinct A|New Bedford Ward 1 Precinct A
+25|005|2368|New Bedford Ward 1 Precinct B|New Bedford Ward 1 Precinct B
+25|005|2369|New Bedford Ward 1 Precinct C|New Bedford Ward 1 Precinct C
+25|005|2370|New Bedford Ward 1 Precinct D|New Bedford Ward 1 Precinct D
+25|005|2371|New Bedford Ward 1 Precinct E|New Bedford Ward 1 Precinct E
+25|005|2372|New Bedford Ward 1 Precinct F|New Bedford Ward 1 Precinct F
+25|005|2373|New Bedford Ward 1 Precinct G|New Bedford Ward 1 Precinct G
+25|005|2374|New Bedford Ward 2 Precinct A|New Bedford Ward 2 Precinct A
+25|005|2375|New Bedford Ward 2 Precinct B|New Bedford Ward 2 Precinct B
+25|005|2376|New Bedford Ward 2 Precinct C|New Bedford Ward 2 Precinct C
+25|005|2377|New Bedford Ward 2 Precinct D|New Bedford Ward 2 Precinct D
+25|005|2378|New Bedford Ward 2 Precinct E|New Bedford Ward 2 Precinct E
+25|005|2379|New Bedford Ward 2 Precinct F|New Bedford Ward 2 Precinct F
+25|005|2380|New Bedford Ward 2 Precinct G|New Bedford Ward 2 Precinct G
+25|005|2381|New Bedford Ward 3 Precinct A|New Bedford Ward 3 Precinct A
+25|005|2382|New Bedford Ward 3 Precinct B|New Bedford Ward 3 Precinct B
+25|005|2383|New Bedford Ward 3 Precinct C|New Bedford Ward 3 Precinct C
+25|005|2384|New Bedford Ward 3 Precinct D|New Bedford Ward 3 Precinct D
+25|005|2385|New Bedford Ward 3 Precinct E|New Bedford Ward 3 Precinct E
+25|005|2386|New Bedford Ward 3 Precinct F|New Bedford Ward 3 Precinct F
+25|005|2387|New Bedford Ward 3 Precinct G|New Bedford Ward 3 Precinct G
+25|005|2388|New Bedford Ward 4 Precinct A|New Bedford Ward 4 Precinct A
+25|005|2389|New Bedford Ward 4 Precinct B|New Bedford Ward 4 Precinct B
+25|005|2390|New Bedford Ward 4 Precinct C|New Bedford Ward 4 Precinct C
+25|005|2391|New Bedford Ward 4 Precinct D|New Bedford Ward 4 Precinct D
+25|005|2392|New Bedford Ward 4 Precinct E|New Bedford Ward 4 Precinct E
+25|005|2393|New Bedford Ward 4 Precinct F|New Bedford Ward 4 Precinct F
+25|005|2394|New Bedford Ward 4 Precinct G|New Bedford Ward 4 Precinct G
+25|005|2395|New Bedford Ward 5 Precinct A|New Bedford Ward 5 Precinct A
+25|005|2396|New Bedford Ward 5 Precinct B|New Bedford Ward 5 Precinct B
+25|005|2397|New Bedford Ward 5 Precinct C|New Bedford Ward 5 Precinct C
+25|005|2398|New Bedford Ward 5 Precinct D|New Bedford Ward 5 Precinct D
+25|005|2399|New Bedford Ward 5 Precinct E|New Bedford Ward 5 Precinct E
+25|005|2400|New Bedford Ward 5 Precinct F|New Bedford Ward 5 Precinct F
+25|005|2401|New Bedford Ward 5 Precinct G|New Bedford Ward 5 Precinct G
+25|005|2402|New Bedford Ward 6 Precinct A|New Bedford Ward 6 Precinct A
+25|005|2403|New Bedford Ward 6 Precinct B|New Bedford Ward 6 Precinct B
+25|005|2404|New Bedford Ward 6 Precinct C|New Bedford Ward 6 Precinct C
+25|005|2405|New Bedford Ward 6 Precinct D|New Bedford Ward 6 Precinct D
+25|005|2406|New Bedford Ward 6 Precinct E|New Bedford Ward 6 Precinct E
+25|005|2407|New Bedford Ward 6 Precinct F|New Bedford Ward 6 Precinct F
+25|005|2408|New Bedford Ward 6 Precinct G|New Bedford Ward 6 Precinct G
+25|005|2409|North Attleborough Precinct 1|North Attleborough Precinct 1
+25|005|2410|North Attleborough Precinct 2|North Attleborough Precinct 2
+25|005|2411|North Attleborough Precinct 3|North Attleborough Precinct 3
+25|005|2412|North Attleborough Precinct 4|North Attleborough Precinct 4
+25|005|2413|North Attleborough Precinct 5|North Attleborough Precinct 5
+25|005|2414|North Attleborough Precinct 6|North Attleborough Precinct 6
+25|005|2415|North Attleborough Precinct 7|North Attleborough Precinct 7
+25|005|2416|North Attleborough Precinct 8|North Attleborough Precinct 8
+25|005|2417|North Attleborough Precinct 9|North Attleborough Precinct 9
+25|005|2418|Norton Precinct 1|Norton Precinct 1
+25|005|2419|Norton Precinct 2|Norton Precinct 2
+25|005|2420|Norton Precinct 3|Norton Precinct 3
+25|005|2421|Norton Precinct 4|Norton Precinct 4
+25|005|2422|Norton Precinct 5|Norton Precinct 5
+25|005|2423|Raynham Precinct 1|Raynham Precinct 1
+25|005|2424|Raynham Precinct 2|Raynham Precinct 2
+25|005|2425|Raynham Precinct 3|Raynham Precinct 3
+25|005|2426|Rehoboth Precinct 1|Rehoboth Precinct 1
+25|005|2427|Rehoboth Precinct 2|Rehoboth Precinct 2
+25|005|2428|Rehoboth Precinct 3|Rehoboth Precinct 3
+25|005|2429|Seekonk Precinct 1|Seekonk Precinct 1
+25|005|2430|Seekonk Precinct 2|Seekonk Precinct 2
+25|005|2431|Seekonk Precinct 3|Seekonk Precinct 3
+25|005|2432|Seekonk Precinct 4|Seekonk Precinct 4
+25|005|2433|Somerset Precinct 1|Somerset Precinct 1
+25|005|2434|Somerset Precinct 2|Somerset Precinct 2
+25|005|2435|Somerset Precinct 3|Somerset Precinct 3
+25|005|2436|Somerset Precinct 4|Somerset Precinct 4
+25|005|2437|Somerset Precinct 5|Somerset Precinct 5
+25|005|2438|Swansea Precinct 1|Swansea Precinct 1
+25|005|2439|Swansea Precinct 2|Swansea Precinct 2
+25|005|2440|Swansea Precinct 3|Swansea Precinct 3
+25|005|2441|Swansea Precinct 4|Swansea Precinct 4
+25|005|2442|Swansea Precinct 5|Swansea Precinct 5
+25|005|2443|Taunton Ward 1 Precinct A|Taunton Ward 1 Precinct A
+25|005|2444|Taunton Ward 1 Precinct B|Taunton Ward 1 Precinct B
+25|005|2445|Taunton Ward 2 Precinct A|Taunton Ward 2 Precinct A
+25|005|2446|Taunton Ward 2 Precinct B|Taunton Ward 2 Precinct B
+25|005|2447|Taunton Ward 3 Precinct A|Taunton Ward 3 Precinct A
+25|005|2448|Taunton Ward 3 Precinct B|Taunton Ward 3 Precinct B
+25|005|2449|Taunton Ward 4 Precinct A|Taunton Ward 4 Precinct A
+25|005|2450|Taunton Ward 4 Precinct B|Taunton Ward 4 Precinct B
+25|005|2451|Taunton Ward 5 Precinct A|Taunton Ward 5 Precinct A
+25|005|2452|Taunton Ward 5 Precinct B|Taunton Ward 5 Precinct B
+25|005|2453|Taunton Ward 6 Precinct A|Taunton Ward 6 Precinct A
+25|005|2454|Taunton Ward 6 Precinct B|Taunton Ward 6 Precinct B
+25|005|2455|Taunton Ward 7 Precinct A|Taunton Ward 7 Precinct A
+25|005|2456|Taunton Ward 7 Precinct B|Taunton Ward 7 Precinct B
+25|005|2457|Taunton Ward 8 Precinct A|Taunton Ward 8 Precinct A
+25|005|2458|Taunton Ward 8 Precinct B|Taunton Ward 8 Precinct B
+25|005|2459|Westport Precinct A|Westport Precinct A
+25|005|2460|Westport Precinct B|Westport Precinct B
+25|005|2461|Westport Precinct C|Westport Precinct C
+25|005|2462|Westport Precinct D|Westport Precinct D
+25|005|2463|Westport Precinct E|Westport Precinct E
+25|005|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+25|007|2464|Aquinnah Precinct 1|Aquinnah Precinct 1
+25|007|2465|Chilmark Precinct 1|Chilmark Precinct 1
+25|007|2466|Edgartown Precinct 1|Edgartown Precinct 1
+25|007|2467|Gosnold Precinct 1|Gosnold Precinct 1
+25|007|2468|Oak Bluffs Precinct 1|Oak Bluffs Precinct 1
+25|007|2469|Tisbury Precinct 1|Tisbury Precinct 1
+25|007|2470|West Tisbury Precinct 1|West Tisbury Precinct 1
+25|007|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+25|009|2471|Amesbury Precinct 1|Amesbury Precinct 1
+25|009|2472|Amesbury Precinct 2|Amesbury Precinct 2
+25|009|2473|Amesbury Precinct 3|Amesbury Precinct 3
+25|009|2474|Amesbury Precinct 4|Amesbury Precinct 4
+25|009|2475|Amesbury Precinct 5|Amesbury Precinct 5
+25|009|2476|Amesbury Precinct 6|Amesbury Precinct 6
+25|009|2477|Andover Precinct 1|Andover Precinct 1
+25|009|2478|Andover Precinct 2|Andover Precinct 2
+25|009|2479|Andover Precinct 3|Andover Precinct 3
+25|009|2480|Andover Precinct 4|Andover Precinct 4
+25|009|2481|Andover Precinct 5|Andover Precinct 5
+25|009|2482|Andover Precinct 6|Andover Precinct 6
+25|009|2483|Andover Precinct 7|Andover Precinct 7
+25|009|2484|Andover Precinct 8|Andover Precinct 8
+25|009|2485|Andover Precinct 9|Andover Precinct 9
+25|009|2486|Beverly Ward 1 Precinct 1|Beverly Ward 1 Precinct 1
+25|009|2487|Beverly Ward 1 Precinct 2|Beverly Ward 1 Precinct 2
+25|009|2488|Beverly Ward 2 Precinct 1|Beverly Ward 2 Precinct 1
+25|009|2489|Beverly Ward 2 Precinct 2|Beverly Ward 2 Precinct 2
+25|009|2490|Beverly Ward 3 Precinct 1|Beverly Ward 3 Precinct 1
+25|009|2491|Beverly Ward 3 Precinct 2|Beverly Ward 3 Precinct 2
+25|009|2492|Beverly Ward 4 Precinct 1|Beverly Ward 4 Precinct 1
+25|009|2493|Beverly Ward 4 Precinct 2|Beverly Ward 4 Precinct 2
+25|009|2494|Beverly Ward 5 Precinct 1|Beverly Ward 5 Precinct 1
+25|009|2495|Beverly Ward 5 Precinct 2|Beverly Ward 5 Precinct 2
+25|009|2496|Beverly Ward 6 Precinct 1|Beverly Ward 6 Precinct 1
+25|009|2497|Beverly Ward 6 Precinct 2|Beverly Ward 6 Precinct 2
+25|009|2498|Boxford Precinct 1|Boxford Precinct 1
+25|009|2499|Boxford Precinct 2|Boxford Precinct 2
+25|009|2500|Boxford Precinct 3|Boxford Precinct 3
+25|009|2501|Danvers Precinct 1|Danvers Precinct 1
+25|009|2502|Danvers Precinct 2|Danvers Precinct 2
+25|009|2503|Danvers Precinct 3|Danvers Precinct 3
+25|009|2504|Danvers Precinct 4|Danvers Precinct 4
+25|009|2505|Danvers Precinct 5|Danvers Precinct 5
+25|009|2506|Danvers Precinct 6|Danvers Precinct 6
+25|009|2507|Danvers Precinct 7|Danvers Precinct 7
+25|009|2508|Danvers Precinct 8|Danvers Precinct 8
+25|009|2509|Essex Precinct 1|Essex Precinct 1
+25|009|2510|Georgetown Precinct 1|Georgetown Precinct 1
+25|009|2511|Georgetown Precinct 2|Georgetown Precinct 2
+25|009|2512|Gloucester Ward 1 Precinct 1|Gloucester Ward 1 Precinct 1
+25|009|2513|Gloucester Ward 1 Precinct 2|Gloucester Ward 1 Precinct 2
+25|009|2514|Gloucester Ward 2 Precinct 1|Gloucester Ward 2 Precinct 1
+25|009|2515|Gloucester Ward 2 Precinct 2|Gloucester Ward 2 Precinct 2
+25|009|2516|Gloucester Ward 3 Precinct 1|Gloucester Ward 3 Precinct 1
+25|009|2517|Gloucester Ward 3 Precinct 2|Gloucester Ward 3 Precinct 2
+25|009|2518|Gloucester Ward 4 Precinct 1|Gloucester Ward 4 Precinct 1
+25|009|2519|Gloucester Ward 4 Precinct 2|Gloucester Ward 4 Precinct 2
+25|009|2520|Gloucester Ward 5 Precinct 1|Gloucester Ward 5 Precinct 1
+25|009|2521|Gloucester Ward 5 Precinct 2|Gloucester Ward 5 Precinct 2
+25|009|2522|Groveland Precinct 1|Groveland Precinct 1
+25|009|2523|Hamilton Precinct 1|Hamilton Precinct 1
+25|009|2524|Hamilton Precinct 2|Hamilton Precinct 2
+25|009|2525|Hamilton Precinct 3|Hamilton Precinct 3
+25|009|2526|Haverhill Ward 1 Precinct 1|Haverhill Ward 1 Precinct 1
+25|009|2527|Haverhill Ward 1 Precinct 2|Haverhill Ward 1 Precinct 2
+25|009|2528|Haverhill Ward 1 Precinct 3|Haverhill Ward 1 Precinct 3
+25|009|2529|Haverhill Ward 2 Precinct 1|Haverhill Ward 2 Precinct 1
+25|009|2530|Haverhill Ward 2 Precinct 2|Haverhill Ward 2 Precinct 2
+25|009|2531|Haverhill Ward 2 Precinct 3|Haverhill Ward 2 Precinct 3
+25|009|2532|Haverhill Ward 3 Precinct 1|Haverhill Ward 3 Precinct 1
+25|009|2533|Haverhill Ward 3 Precinct 2|Haverhill Ward 3 Precinct 2
+25|009|2534|Haverhill Ward 3 Precinct 3|Haverhill Ward 3 Precinct 3
+25|009|2535|Haverhill Ward 4 Precinct 1|Haverhill Ward 4 Precinct 1
+25|009|2536|Haverhill Ward 4 Precinct 2|Haverhill Ward 4 Precinct 2
+25|009|2537|Haverhill Ward 4 Precinct 3|Haverhill Ward 4 Precinct 3
+25|009|2538|Haverhill Ward 5 Precinct 1|Haverhill Ward 5 Precinct 1
+25|009|2539|Haverhill Ward 5 Precinct 2|Haverhill Ward 5 Precinct 2
+25|009|2540|Haverhill Ward 5 Precinct 3|Haverhill Ward 5 Precinct 3
+25|009|2541|Haverhill Ward 6 Precinct 1|Haverhill Ward 6 Precinct 1
+25|009|2542|Haverhill Ward 6 Precinct 2|Haverhill Ward 6 Precinct 2
+25|009|2543|Haverhill Ward 6 Precinct 3|Haverhill Ward 6 Precinct 3
+25|009|2544|Haverhill Ward 7 Precinct 1|Haverhill Ward 7 Precinct 1
+25|009|2545|Haverhill Ward 7 Precinct 2|Haverhill Ward 7 Precinct 2
+25|009|2546|Haverhill Ward 7 Precinct 3|Haverhill Ward 7 Precinct 3
+25|009|2547|Ipswich Precinct 1|Ipswich Precinct 1
+25|009|2548|Ipswich Precinct 2|Ipswich Precinct 2
+25|009|2549|Ipswich Precinct 3|Ipswich Precinct 3
+25|009|2550|Ipswich Precinct 4|Ipswich Precinct 4
+25|009|2551|Lawrence Ward A Precinct 1|Lawrence Ward A Precinct 1
+25|009|2552|Lawrence Ward B Precinct 1|Lawrence Ward B Precinct 1
+25|009|2553|Lawrence Ward C Precinct 1|Lawrence Ward C Precinct 1
+25|009|2554|Lawrence Ward D Precinct 1|Lawrence Ward D Precinct 1
+25|009|2555|Lawrence Ward E Precinct 1|Lawrence Ward E Precinct 1
+25|009|2556|Lawrence Ward F Precinct 1|Lawrence Ward F Precinct 1
+25|009|2557|Lawrence Ward A Precinct 2|Lawrence Ward A Precinct 2
+25|009|2558|Lawrence Ward B Precinct 2|Lawrence Ward B Precinct 2
+25|009|2559|Lawrence Ward C Precinct 2|Lawrence Ward C Precinct 2
+25|009|2560|Lawrence Ward D Precinct 2|Lawrence Ward D Precinct 2
+25|009|2561|Lawrence Ward E Precinct 2|Lawrence Ward E Precinct 2
+25|009|2562|Lawrence Ward F Precinct 2|Lawrence Ward F Precinct 2
+25|009|2563|Lawrence Ward A Precinct 3|Lawrence Ward A Precinct 3
+25|009|2564|Lawrence Ward B Precinct 3|Lawrence Ward B Precinct 3
+25|009|2565|Lawrence Ward C Precinct 3|Lawrence Ward C Precinct 3
+25|009|2566|Lawrence Ward D Precinct 3|Lawrence Ward D Precinct 3
+25|009|2567|Lawrence Ward E Precinct 3|Lawrence Ward E Precinct 3
+25|009|2568|Lawrence Ward F Precinct 3|Lawrence Ward F Precinct 3
+25|009|2569|Lawrence Ward A Precinct 4|Lawrence Ward A Precinct 4
+25|009|2570|Lawrence Ward B Precinct 4|Lawrence Ward B Precinct 4
+25|009|2571|Lawrence Ward C Precinct 4|Lawrence Ward C Precinct 4
+25|009|2572|Lawrence Ward D Precinct 4|Lawrence Ward D Precinct 4
+25|009|2573|Lawrence Ward E Precinct 4|Lawrence Ward E Precinct 4
+25|009|2574|Lawrence Ward F Precinct 4|Lawrence Ward F Precinct 4
+25|009|2575|Lynn Ward 1 Precinct 1|Lynn Ward 1 Precinct 1
+25|009|2576|Lynn Ward 1 Precinct 2|Lynn Ward 1 Precinct 2
+25|009|2577|Lynn Ward 1 Precinct 3|Lynn Ward 1 Precinct 3
+25|009|2578|Lynn Ward 1 Precinct 4|Lynn Ward 1 Precinct 4
+25|009|2579|Lynn Ward 2 Precinct 1|Lynn Ward 2 Precinct 1
+25|009|2580|Lynn Ward 2 Precinct 2|Lynn Ward 2 Precinct 2
+25|009|2581|Lynn Ward 2 Precinct 3|Lynn Ward 2 Precinct 3
+25|009|2582|Lynn Ward 2 Precinct 4|Lynn Ward 2 Precinct 4
+25|009|2583|Lynn Ward 3 Precinct 1|Lynn Ward 3 Precinct 1
+25|009|2584|Lynn Ward 3 Precinct 2|Lynn Ward 3 Precinct 2
+25|009|2585|Lynn Ward 3 Precinct 3|Lynn Ward 3 Precinct 3
+25|009|2586|Lynn Ward 3 Precinct 4|Lynn Ward 3 Precinct 4
+25|009|2587|Lynn Ward 4 Precinct 1|Lynn Ward 4 Precinct 1
+25|009|2588|Lynn Ward 4 Precinct 2|Lynn Ward 4 Precinct 2
+25|009|2589|Lynn Ward 4 Precinct 3|Lynn Ward 4 Precinct 3
+25|009|2590|Lynn Ward 4 Precinct 4|Lynn Ward 4 Precinct 4
+25|009|2591|Lynn Ward 5 Precinct 1|Lynn Ward 5 Precinct 1
+25|009|2592|Lynn Ward 5 Precinct 2|Lynn Ward 5 Precinct 2
+25|009|2593|Lynn Ward 5 Precinct 3|Lynn Ward 5 Precinct 3
+25|009|2594|Lynn Ward 5 Precinct 4|Lynn Ward 5 Precinct 4
+25|009|2595|Lynn Ward 6 Precinct 1|Lynn Ward 6 Precinct 1
+25|009|2596|Lynn Ward 6 Precinct 2|Lynn Ward 6 Precinct 2
+25|009|2597|Lynn Ward 6 Precinct 3|Lynn Ward 6 Precinct 3
+25|009|2598|Lynn Ward 6 Precinct 4|Lynn Ward 6 Precinct 4
+25|009|2599|Lynn Ward 7 Precinct 1|Lynn Ward 7 Precinct 1
+25|009|2600|Lynn Ward 7 Precinct 2|Lynn Ward 7 Precinct 2
+25|009|2601|Lynn Ward 7 Precinct 3|Lynn Ward 7 Precinct 3
+25|009|2602|Lynn Ward 7 Precinct 4|Lynn Ward 7 Precinct 4
+25|009|2603|Lynnfield Precinct 1|Lynnfield Precinct 1
+25|009|2604|Lynnfield Precinct 2|Lynnfield Precinct 2
+25|009|2605|Lynnfield Precinct 3|Lynnfield Precinct 3
+25|009|2606|Lynnfield Precinct 4|Lynnfield Precinct 4
+25|009|2607|Manchester-by-the-Sea Precinct 1|Manchester-by-the-Sea Precinct 1
+25|009|2608|Marblehead Precinct 1|Marblehead Precinct 1
+25|009|2609|Marblehead Precinct 2|Marblehead Precinct 2
+25|009|2610|Marblehead Precinct 3|Marblehead Precinct 3
+25|009|2611|Marblehead Precinct 4|Marblehead Precinct 4
+25|009|2612|Marblehead Precinct 5|Marblehead Precinct 5
+25|009|2613|Marblehead Precinct 6|Marblehead Precinct 6
+25|009|2614|Marblehead Precinct 7|Marblehead Precinct 7
+25|009|2615|Merrimac Precinct 1|Merrimac Precinct 1
+25|009|2616|Methuen Precinct 1|Methuen Precinct 1
+25|009|2617|Methuen Precinct 2|Methuen Precinct 2
+25|009|2618|Methuen Precinct 3|Methuen Precinct 3
+25|009|2619|Methuen Precinct 4|Methuen Precinct 4
+25|009|2620|Methuen Precinct 5|Methuen Precinct 5
+25|009|2621|Methuen Precinct 6|Methuen Precinct 6
+25|009|2622|Methuen Precinct 7|Methuen Precinct 7
+25|009|2623|Methuen Precinct 8|Methuen Precinct 8
+25|009|2624|Methuen Precinct 9|Methuen Precinct 9
+25|009|2625|Methuen Precinct 10|Methuen Precinct 10
+25|009|2626|Methuen Precinct 11|Methuen Precinct 11
+25|009|2627|Methuen Precinct 12|Methuen Precinct 12
+25|009|2628|Middleton Precinct 1|Middleton Precinct 1
+25|009|2629|Middleton Precinct 2|Middleton Precinct 2
+25|009|2630|Nahant Precinct 1|Nahant Precinct 1
+25|009|2631|Newbury Precinct 1|Newbury Precinct 1
+25|009|2632|Newbury Precinct 2|Newbury Precinct 2
+25|009|2633|Newburyport Ward 1 Precinct 1|Newburyport Ward 1 Precinct 1
+25|009|2634|Newburyport Ward 2 Precinct 1|Newburyport Ward 2 Precinct 1
+25|009|2635|Newburyport Ward 3 Precinct 1|Newburyport Ward 3 Precinct 1
+25|009|2636|Newburyport Ward 4 Precinct 1|Newburyport Ward 4 Precinct 1
+25|009|2637|Newburyport Ward 5 Precinct 1|Newburyport Ward 5 Precinct 1
+25|009|2638|Newburyport Ward 6 Precinct 1|Newburyport Ward 6 Precinct 1
+25|009|2639|North Andover Precinct 1|North Andover Precinct 1
+25|009|2640|North Andover Precinct 2|North Andover Precinct 2
+25|009|2641|North Andover Precinct 3|North Andover Precinct 3
+25|009|2642|North Andover Precinct 4|North Andover Precinct 4
+25|009|2643|North Andover Precinct 5|North Andover Precinct 5
+25|009|2644|North Andover Precinct 6|North Andover Precinct 6
+25|009|2645|North Andover Precinct 7|North Andover Precinct 7
+25|009|2646|North Andover Precinct 8|North Andover Precinct 8
+25|009|2647|Peabody Ward 1 Precinct 1|Peabody Ward 1 Precinct 1
+25|009|2648|Peabody Ward 1 Precinct 2|Peabody Ward 1 Precinct 2
+25|009|2649|Peabody Ward 1 Precinct 3|Peabody Ward 1 Precinct 3
+25|009|2650|Peabody Ward 2 Precinct 1|Peabody Ward 2 Precinct 1
+25|009|2651|Peabody Ward 2 Precinct 2|Peabody Ward 2 Precinct 2
+25|009|2652|Peabody Ward 2 Precinct 3|Peabody Ward 2 Precinct 3
+25|009|2653|Peabody Ward 3 Precinct 1|Peabody Ward 3 Precinct 1
+25|009|2654|Peabody Ward 3 Precinct 2|Peabody Ward 3 Precinct 2
+25|009|2655|Peabody Ward 3 Precinct 3|Peabody Ward 3 Precinct 3
+25|009|2656|Peabody Ward 4 Precinct 1|Peabody Ward 4 Precinct 1
+25|009|2657|Peabody Ward 4 Precinct 2|Peabody Ward 4 Precinct 2
+25|009|2658|Peabody Ward 4 Precinct 3|Peabody Ward 4 Precinct 3
+25|009|2659|Peabody Ward 5 Precinct 1|Peabody Ward 5 Precinct 1
+25|009|2660|Peabody Ward 5 Precinct 2|Peabody Ward 5 Precinct 2
+25|009|2661|Peabody Ward 5 Precinct 3|Peabody Ward 5 Precinct 3
+25|009|2662|Peabody Ward 6 Precinct 1|Peabody Ward 6 Precinct 1
+25|009|2663|Peabody Ward 6 Precinct 2|Peabody Ward 6 Precinct 2
+25|009|2664|Peabody Ward 6 Precinct 3|Peabody Ward 6 Precinct 3
+25|009|2665|Rockport Precinct 1|Rockport Precinct 1
+25|009|2666|Rockport Precinct 2|Rockport Precinct 2
+25|009|2667|Rockport Precinct 3|Rockport Precinct 3
+25|009|2668|Rowley Precinct 1|Rowley Precinct 1
+25|009|2669|Salem Ward 1 Precinct 1|Salem Ward 1 Precinct 1
+25|009|2670|Salem Ward 1 Precinct 2|Salem Ward 1 Precinct 2
+25|009|2671|Salem Ward 2 Precinct 1|Salem Ward 2 Precinct 1
+25|009|2672|Salem Ward 2 Precinct 2|Salem Ward 2 Precinct 2
+25|009|2673|Salem Ward 3 Precinct 1|Salem Ward 3 Precinct 1
+25|009|2674|Salem Ward 3 Precinct 2|Salem Ward 3 Precinct 2
+25|009|2675|Salem Ward 4 Precinct 1|Salem Ward 4 Precinct 1
+25|009|2676|Salem Ward 4 Precinct 2|Salem Ward 4 Precinct 2
+25|009|2677|Salem Ward 5 Precinct 1|Salem Ward 5 Precinct 1
+25|009|2678|Salem Ward 5 Precinct 2|Salem Ward 5 Precinct 2
+25|009|2679|Salem Ward 6 Precinct 1|Salem Ward 6 Precinct 1
+25|009|2680|Salem Ward 6 Precinct 2|Salem Ward 6 Precinct 2
+25|009|2681|Salem Ward 7 Precinct 1|Salem Ward 7 Precinct 1
+25|009|2682|Salem Ward 7 Precinct 2|Salem Ward 7 Precinct 2
+25|009|2683|Salisbury Precinct 1|Salisbury Precinct 1
+25|009|2684|Salisbury Precinct 2|Salisbury Precinct 2
+25|009|2685|Saugus Precinct 1|Saugus Precinct 1
+25|009|2686|Saugus Precinct 2|Saugus Precinct 2
+25|009|2687|Saugus Precinct 3|Saugus Precinct 3
+25|009|2688|Saugus Precinct 4|Saugus Precinct 4
+25|009|2689|Saugus Precinct 5|Saugus Precinct 5
+25|009|2690|Saugus Precinct 6|Saugus Precinct 6
+25|009|2691|Saugus Precinct 7|Saugus Precinct 7
+25|009|2692|Saugus Precinct 8|Saugus Precinct 8
+25|009|2693|Saugus Precinct 9|Saugus Precinct 9
+25|009|2694|Saugus Precinct 10|Saugus Precinct 10
+25|009|2695|Swampscott Precinct 1|Swampscott Precinct 1
+25|009|2696|Swampscott Precinct 2|Swampscott Precinct 2
+25|009|2697|Swampscott Precinct 3|Swampscott Precinct 3
+25|009|2698|Swampscott Precinct 4|Swampscott Precinct 4
+25|009|2699|Swampscott Precinct 5|Swampscott Precinct 5
+25|009|2700|Swampscott Precinct 6|Swampscott Precinct 6
+25|009|2701|Topsfield Precinct 1|Topsfield Precinct 1
+25|009|2702|Wenham Precinct 1|Wenham Precinct 1
+25|009|2703|West Newbury Precinct 1|West Newbury Precinct 1
+25|009|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+25|011|2704|Ashfield Precinct 1|Ashfield Precinct 1
+25|011|2705|Bernardston Precinct 1|Bernardston Precinct 1
+25|011|2706|Buckland Precinct 1|Buckland Precinct 1
+25|011|2707|Charlemont Precinct 1|Charlemont Precinct 1
+25|011|2708|Colrain Precinct 1|Colrain Precinct 1
+25|011|2709|Conway Precinct 1|Conway Precinct 1
+25|011|2710|Deerfield Precinct 1|Deerfield Precinct 1
+25|011|2711|Erving Precinct 1|Erving Precinct 1
+25|011|2712|Gill Precinct 1|Gill Precinct 1
+25|011|2713|Greenfield Precinct 1|Greenfield Precinct 1
+25|011|2714|Greenfield Precinct 2|Greenfield Precinct 2
+25|011|2715|Greenfield Precinct 3|Greenfield Precinct 3
+25|011|2716|Greenfield Precinct 4|Greenfield Precinct 4
+25|011|2717|Greenfield Precinct 5|Greenfield Precinct 5
+25|011|2718|Greenfield Precinct 6|Greenfield Precinct 6
+25|011|2719|Greenfield Precinct 7|Greenfield Precinct 7
+25|011|2720|Greenfield Precinct 8|Greenfield Precinct 8
+25|011|2721|Greenfield Precinct 9|Greenfield Precinct 9
+25|011|2722|Hawley Precinct 1|Hawley Precinct 1
+25|011|2723|Heath Precinct 1|Heath Precinct 1
+25|011|2724|Leverett Precinct 1|Leverett Precinct 1
+25|011|2725|Leyden Precinct 1|Leyden Precinct 1
+25|011|2726|Monroe Precinct 1|Monroe Precinct 1
+25|011|2727|Montague Precinct 1|Montague Precinct 1
+25|011|2728|Montague Precinct 2|Montague Precinct 2
+25|011|2729|Montague Precinct 3|Montague Precinct 3
+25|011|2730|Montague Precinct 4|Montague Precinct 4
+25|011|2731|Montague Precinct 5|Montague Precinct 5
+25|011|2732|Montague Precinct 6|Montague Precinct 6
+25|011|2733|New Salem Precinct 1|New Salem Precinct 1
+25|011|2734|Northfield Precinct 1|Northfield Precinct 1
+25|011|2735|Orange Precinct 1|Orange Precinct 1
+25|011|2736|Orange Precinct 2|Orange Precinct 2
+25|011|2737|Rowe Precinct 1|Rowe Precinct 1
+25|011|2738|Shelburne Precinct 1|Shelburne Precinct 1
+25|011|2739|Shutesbury Precinct 1|Shutesbury Precinct 1
+25|011|2740|Sunderland Precinct 1|Sunderland Precinct 1
+25|011|2741|Warwick Precinct 1|Warwick Precinct 1
+25|011|2742|Wendell Precinct 1|Wendell Precinct 1
+25|011|2743|Whately Precinct 1|Whately Precinct 1
+25|013|2744|Agawam Precinct 1|Agawam Precinct 1
+25|013|2745|Agawam Precinct 2|Agawam Precinct 2
+25|013|2746|Agawam Precinct 3|Agawam Precinct 3
+25|013|2747|Agawam Precinct 4|Agawam Precinct 4
+25|013|2748|Agawam Precinct 5|Agawam Precinct 5
+25|013|2749|Agawam Precinct 6|Agawam Precinct 6
+25|013|2750|Agawam Precinct 7|Agawam Precinct 7
+25|013|2751|Agawam Precinct 8|Agawam Precinct 8
+25|013|2752|Blandford Precinct 1|Blandford Precinct 1
+25|013|2753|Brimfield Precinct 1|Brimfield Precinct 1
+25|013|2754|Chester Precinct 1|Chester Precinct 1
+25|013|2755|Chicopee Ward 1 Precinct A|Chicopee Ward 1 Precinct A
+25|013|2756|Chicopee Ward 1 Precinct B|Chicopee Ward 1 Precinct B
+25|013|2757|Chicopee Ward 2 Precinct A|Chicopee Ward 2 Precinct A
+25|013|2758|Chicopee Ward 2 Precinct B|Chicopee Ward 2 Precinct B
+25|013|2759|Chicopee Ward 2 Precinct C|Chicopee Ward 2 Precinct C
+25|013|2760|Chicopee Ward 2 Precinct D|Chicopee Ward 2 Precinct D
+25|013|2761|Chicopee Ward 3 Precinct A|Chicopee Ward 3 Precinct A
+25|013|2762|Chicopee Ward 3 Precinct B|Chicopee Ward 3 Precinct B
+25|013|2763|Chicopee Ward 3 Precinct C|Chicopee Ward 3 Precinct C
+25|013|2764|Chicopee Ward 4 Precinct A|Chicopee Ward 4 Precinct A
+25|013|2765|Chicopee Ward 4 Precinct B|Chicopee Ward 4 Precinct B
+25|013|2766|Chicopee Ward 4 Precinct C|Chicopee Ward 4 Precinct C
+25|013|2767|Chicopee Ward 5 Precinct A|Chicopee Ward 5 Precinct A
+25|013|2768|Chicopee Ward 5 Precinct B|Chicopee Ward 5 Precinct B
+25|013|2769|Chicopee Ward 6 Precinct A|Chicopee Ward 6 Precinct A
+25|013|2770|Chicopee Ward 6 Precinct B|Chicopee Ward 6 Precinct B
+25|013|2771|Chicopee Ward 7 Precinct A|Chicopee Ward 7 Precinct A
+25|013|2772|Chicopee Ward 7 Precinct B|Chicopee Ward 7 Precinct B
+25|013|2773|Chicopee Ward 8 Precinct A|Chicopee Ward 8 Precinct A
+25|013|2774|Chicopee Ward 8 Precinct B|Chicopee Ward 8 Precinct B
+25|013|2775|Chicopee Ward 9 Precinct A|Chicopee Ward 9 Precinct A
+25|013|2776|Chicopee Ward 9 Precinct B|Chicopee Ward 9 Precinct B
+25|013|2777|East Longmeadow Precinct 1|East Longmeadow Precinct 1
+25|013|2778|East Longmeadow Precinct 2|East Longmeadow Precinct 2
+25|013|2779|East Longmeadow Precinct 3|East Longmeadow Precinct 3
+25|013|2780|East Longmeadow Precinct 4|East Longmeadow Precinct 4
+25|013|2781|Granville Precinct 1|Granville Precinct 1
+25|013|2782|Hampden Precinct 1|Hampden Precinct 1
+25|013|2783|Holland Precinct 1|Holland Precinct 1
+25|013|2784|Holyoke Ward 1 Precinct A|Holyoke Ward 1 Precinct A
+25|013|2785|Holyoke Ward 1 Precinct B|Holyoke Ward 1 Precinct B
+25|013|2786|Holyoke Ward 2 Precinct A|Holyoke Ward 2 Precinct A
+25|013|2787|Holyoke Ward 2 Precinct B|Holyoke Ward 2 Precinct B
+25|013|2788|Holyoke Ward 3 Precinct A|Holyoke Ward 3 Precinct A
+25|013|2789|Holyoke Ward 3 Precinct B|Holyoke Ward 3 Precinct B
+25|013|2790|Holyoke Ward 4 Precinct A|Holyoke Ward 4 Precinct A
+25|013|2791|Holyoke Ward 4 Precinct B|Holyoke Ward 4 Precinct B
+25|013|2792|Holyoke Ward 5 Precinct A|Holyoke Ward 5 Precinct A
+25|013|2793|Holyoke Ward 5 Precinct B|Holyoke Ward 5 Precinct B
+25|013|2794|Holyoke Ward 6 Precinct A|Holyoke Ward 6 Precinct A
+25|013|2795|Holyoke Ward 6 Precinct B|Holyoke Ward 6 Precinct B
+25|013|2796|Holyoke Ward 7 Precinct A|Holyoke Ward 7 Precinct A
+25|013|2797|Holyoke Ward 7 Precinct B|Holyoke Ward 7 Precinct B
+25|013|2798|Longmeadow Precinct A|Longmeadow Precinct A
+25|013|2799|Longmeadow Precinct B|Longmeadow Precinct B
+25|013|2800|Longmeadow Precinct C|Longmeadow Precinct C
+25|013|2801|Longmeadow Precinct D|Longmeadow Precinct D
+25|013|2802|Longmeadow Precinct E|Longmeadow Precinct E
+25|013|2803|Ludlow Precinct 1|Ludlow Precinct 1
+25|013|2804|Ludlow Precinct 2|Ludlow Precinct 2
+25|013|2805|Ludlow Precinct 3|Ludlow Precinct 3
+25|013|2806|Ludlow Precinct 4|Ludlow Precinct 4
+25|013|2807|Ludlow Precinct 5|Ludlow Precinct 5
+25|013|2808|Ludlow Precinct 6|Ludlow Precinct 6
+25|013|2809|Monson Precinct A|Monson Precinct A
+25|013|2810|Monson Precinct B|Monson Precinct B
+25|013|2811|Monson Precinct C|Monson Precinct C
+25|013|2812|Montgomery Precinct 1|Montgomery Precinct 1
+25|013|2813|Palmer Precinct 1|Palmer Precinct 1
+25|013|2814|Palmer Precinct 2|Palmer Precinct 2
+25|013|2815|Palmer Precinct 3|Palmer Precinct 3
+25|013|2816|Palmer Precinct 4|Palmer Precinct 4
+25|013|2817|Russell Precinct 1|Russell Precinct 1
+25|013|2818|Southwick Precinct 1|Southwick Precinct 1
+25|013|2819|Southwick Precinct 2|Southwick Precinct 2
+25|013|2820|Southwick Precinct 3|Southwick Precinct 3
+25|013|2821|Springfield Ward 1 Precinct A|Springfield Ward 1 Precinct A
+25|013|2822|Springfield Ward 1 Precinct B|Springfield Ward 1 Precinct B
+25|013|2823|Springfield Ward 1 Precinct C|Springfield Ward 1 Precinct C
+25|013|2824|Springfield Ward 1 Precinct D|Springfield Ward 1 Precinct D
+25|013|2825|Springfield Ward 1 Precinct E|Springfield Ward 1 Precinct E
+25|013|2826|Springfield Ward 1 Precinct F|Springfield Ward 1 Precinct F
+25|013|2827|Springfield Ward 1 Precinct G|Springfield Ward 1 Precinct G
+25|013|2828|Springfield Ward 1 Precinct H|Springfield Ward 1 Precinct H
+25|013|2829|Springfield Ward 2 Precinct A|Springfield Ward 2 Precinct A
+25|013|2830|Springfield Ward 2 Precinct B|Springfield Ward 2 Precinct B
+25|013|2831|Springfield Ward 2 Precinct C|Springfield Ward 2 Precinct C
+25|013|2832|Springfield Ward 2 Precinct D|Springfield Ward 2 Precinct D
+25|013|2833|Springfield Ward 2 Precinct E|Springfield Ward 2 Precinct E
+25|013|2834|Springfield Ward 2 Precinct F|Springfield Ward 2 Precinct F
+25|013|2835|Springfield Ward 2 Precinct G|Springfield Ward 2 Precinct G
+25|013|2836|Springfield Ward 2 Precinct H|Springfield Ward 2 Precinct H
+25|013|2837|Springfield Ward 3 Precinct A|Springfield Ward 3 Precinct A
+25|013|2838|Springfield Ward 3 Precinct B|Springfield Ward 3 Precinct B
+25|013|2839|Springfield Ward 3 Precinct C|Springfield Ward 3 Precinct C
+25|013|2840|Springfield Ward 3 Precinct D|Springfield Ward 3 Precinct D
+25|013|2841|Springfield Ward 3 Precinct E|Springfield Ward 3 Precinct E
+25|013|2842|Springfield Ward 3 Precinct F|Springfield Ward 3 Precinct F
+25|013|2843|Springfield Ward 3 Precinct G|Springfield Ward 3 Precinct G
+25|013|2844|Springfield Ward 3 Precinct H|Springfield Ward 3 Precinct H
+25|013|2845|Springfield Ward 4 Precinct A|Springfield Ward 4 Precinct A
+25|013|2846|Springfield Ward 4 Precinct B|Springfield Ward 4 Precinct B
+25|013|2847|Springfield Ward 4 Precinct C|Springfield Ward 4 Precinct C
+25|013|2848|Springfield Ward 4 Precinct D|Springfield Ward 4 Precinct D
+25|013|2849|Springfield Ward 4 Precinct E|Springfield Ward 4 Precinct E
+25|013|2850|Springfield Ward 4 Precinct F|Springfield Ward 4 Precinct F
+25|013|2851|Springfield Ward 4 Precinct G|Springfield Ward 4 Precinct G
+25|013|2852|Springfield Ward 4 Precinct H|Springfield Ward 4 Precinct H
+25|013|2853|Springfield Ward 5 Precinct A|Springfield Ward 5 Precinct A
+25|013|2854|Springfield Ward 5 Precinct B|Springfield Ward 5 Precinct B
+25|013|2855|Springfield Ward 5 Precinct C|Springfield Ward 5 Precinct C
+25|013|2856|Springfield Ward 5 Precinct D|Springfield Ward 5 Precinct D
+25|013|2857|Springfield Ward 5 Precinct E|Springfield Ward 5 Precinct E
+25|013|2858|Springfield Ward 5 Precinct F|Springfield Ward 5 Precinct F
+25|013|2859|Springfield Ward 5 Precinct G|Springfield Ward 5 Precinct G
+25|013|2860|Springfield Ward 5 Precinct H|Springfield Ward 5 Precinct H
+25|013|2861|Springfield Ward 6 Precinct A|Springfield Ward 6 Precinct A
+25|013|2862|Springfield Ward 6 Precinct B|Springfield Ward 6 Precinct B
+25|013|2863|Springfield Ward 6 Precinct C|Springfield Ward 6 Precinct C
+25|013|2864|Springfield Ward 6 Precinct D|Springfield Ward 6 Precinct D
+25|013|2865|Springfield Ward 6 Precinct E|Springfield Ward 6 Precinct E
+25|013|2866|Springfield Ward 6 Precinct F|Springfield Ward 6 Precinct F
+25|013|2867|Springfield Ward 6 Precinct G|Springfield Ward 6 Precinct G
+25|013|2868|Springfield Ward 6 Precinct H|Springfield Ward 6 Precinct H
+25|013|2869|Springfield Ward 7 Precinct A|Springfield Ward 7 Precinct A
+25|013|2870|Springfield Ward 7 Precinct B|Springfield Ward 7 Precinct B
+25|013|2871|Springfield Ward 7 Precinct C|Springfield Ward 7 Precinct C
+25|013|2872|Springfield Ward 7 Precinct D|Springfield Ward 7 Precinct D
+25|013|2873|Springfield Ward 7 Precinct E|Springfield Ward 7 Precinct E
+25|013|2874|Springfield Ward 7 Precinct F|Springfield Ward 7 Precinct F
+25|013|2875|Springfield Ward 7 Precinct G|Springfield Ward 7 Precinct G
+25|013|2876|Springfield Ward 7 Precinct H|Springfield Ward 7 Precinct H
+25|013|2877|Springfield Ward 8 Precinct A|Springfield Ward 8 Precinct A
+25|013|2878|Springfield Ward 8 Precinct B|Springfield Ward 8 Precinct B
+25|013|2879|Springfield Ward 8 Precinct C|Springfield Ward 8 Precinct C
+25|013|2880|Springfield Ward 8 Precinct D|Springfield Ward 8 Precinct D
+25|013|2881|Springfield Ward 8 Precinct E|Springfield Ward 8 Precinct E
+25|013|2882|Springfield Ward 8 Precinct F|Springfield Ward 8 Precinct F
+25|013|2883|Springfield Ward 8 Precinct G|Springfield Ward 8 Precinct G
+25|013|2884|Springfield Ward 8 Precinct H|Springfield Ward 8 Precinct H
+25|013|2885|Tolland Precinct 1|Tolland Precinct 1
+25|013|2886|Wales Precinct 1|Wales Precinct 1
+25|013|2887|West Springfield Precinct 1|West Springfield Precinct 1
+25|013|2888|West Springfield Precinct 2|West Springfield Precinct 2
+25|013|2889|West Springfield Precinct 3|West Springfield Precinct 3
+25|013|2890|West Springfield Precinct 4|West Springfield Precinct 4
+25|013|2891|West Springfield Precinct 5|West Springfield Precinct 5
+25|013|2892|West Springfield Precinct 6|West Springfield Precinct 6
+25|013|2893|West Springfield Precinct 7|West Springfield Precinct 7
+25|013|2894|West Springfield Precinct 8|West Springfield Precinct 8
+25|013|2895|Westfield Ward 1 Precinct A|Westfield Ward 1 Precinct A
+25|013|2896|Westfield Ward 1 Precinct B|Westfield Ward 1 Precinct B
+25|013|2897|Westfield Ward 2 Precinct A|Westfield Ward 2 Precinct A
+25|013|2898|Westfield Ward 2 Precinct B|Westfield Ward 2 Precinct B
+25|013|2899|Westfield Ward 3 Precinct A|Westfield Ward 3 Precinct A
+25|013|2900|Westfield Ward 3 Precinct B|Westfield Ward 3 Precinct B
+25|013|2901|Westfield Ward 4 Precinct A|Westfield Ward 4 Precinct A
+25|013|2902|Westfield Ward 4 Precinct B|Westfield Ward 4 Precinct B
+25|013|2903|Westfield Ward 5 Precinct A|Westfield Ward 5 Precinct A
+25|013|2904|Westfield Ward 5 Precinct B|Westfield Ward 5 Precinct B
+25|013|2905|Westfield Ward 6 Precinct A|Westfield Ward 6 Precinct A
+25|013|2906|Westfield Ward 6 Precinct B|Westfield Ward 6 Precinct B
+25|013|2907|Wilbraham Precinct A|Wilbraham Precinct A
+25|013|2908|Wilbraham Precinct B|Wilbraham Precinct B
+25|013|2909|Wilbraham Precinct C|Wilbraham Precinct C
+25|013|2910|Wilbraham Precinct D|Wilbraham Precinct D
+25|015|2911|Amherst Precinct 1|Amherst Precinct 1
+25|015|2912|Amherst Precinct 2|Amherst Precinct 2
+25|015|2913|Amherst Precinct 3|Amherst Precinct 3
+25|015|2914|Amherst Precinct 4|Amherst Precinct 4
+25|015|2915|Amherst Precinct 5|Amherst Precinct 5
+25|015|2916|Amherst Precinct 6|Amherst Precinct 6
+25|015|2917|Amherst Precinct 7|Amherst Precinct 7
+25|015|2918|Amherst Precinct 8|Amherst Precinct 8
+25|015|2919|Amherst Precinct 9|Amherst Precinct 9
+25|015|2920|Amherst Precinct 10|Amherst Precinct 10
+25|015|2921|Belchertown Precinct A|Belchertown Precinct A
+25|015|2922|Belchertown Precinct B|Belchertown Precinct B
+25|015|2923|Belchertown Precinct C|Belchertown Precinct C
+25|015|2924|Belchertown Precinct D|Belchertown Precinct D
+25|015|2925|Chesterfield Precinct 1|Chesterfield Precinct 1
+25|015|2926|Cummington Precinct 1|Cummington Precinct 1
+25|015|2927|Easthampton Precinct 1|Easthampton Precinct 1
+25|015|2928|Easthampton Precinct 2|Easthampton Precinct 2
+25|015|2929|Easthampton Precinct 3|Easthampton Precinct 3
+25|015|2930|Easthampton Precinct 4|Easthampton Precinct 4
+25|015|2931|Easthampton Precinct 5|Easthampton Precinct 5
+25|015|2932|Goshen Precinct 1|Goshen Precinct 1
+25|015|2933|Granby Precinct 1|Granby Precinct 1
+25|015|2934|Hadley Precinct 1|Hadley Precinct 1
+25|015|2935|Hatfield Precinct 1|Hatfield Precinct 1
+25|015|2936|Huntington Precinct 1|Huntington Precinct 1
+25|015|2937|Middlefield Precinct 1|Middlefield Precinct 1
+25|015|2938|Northampton Ward 1 Precinct A|Northampton Ward 1 Precinct A
+25|015|2939|Northampton Ward 1 Precinct B|Northampton Ward 1 Precinct B
+25|015|2940|Northampton Ward 2 Precinct A|Northampton Ward 2 Precinct A
+25|015|2941|Northampton Ward 2 Precinct B|Northampton Ward 2 Precinct B
+25|015|2942|Northampton Ward 3 Precinct A|Northampton Ward 3 Precinct A
+25|015|2943|Northampton Ward 3 Precinct B|Northampton Ward 3 Precinct B
+25|015|2944|Northampton Ward 4 Precinct A|Northampton Ward 4 Precinct A
+25|015|2945|Northampton Ward 4 Precinct B|Northampton Ward 4 Precinct B
+25|015|2946|Northampton Ward 5 Precinct A|Northampton Ward 5 Precinct A
+25|015|2947|Northampton Ward 5 Precinct B|Northampton Ward 5 Precinct B
+25|015|2948|Northampton Ward 6 Precinct A|Northampton Ward 6 Precinct A
+25|015|2949|Northampton Ward 6 Precinct B|Northampton Ward 6 Precinct B
+25|015|2950|Northampton Ward 7 Precinct A|Northampton Ward 7 Precinct A
+25|015|2951|Northampton Ward 7 Precinct B|Northampton Ward 7 Precinct B
+25|015|2952|Pelham Precinct 1|Pelham Precinct 1
+25|015|2953|Plainfield Precinct 1|Plainfield Precinct 1
+25|015|2954|South Hadley Precinct A|South Hadley Precinct A
+25|015|2955|South Hadley Precinct B|South Hadley Precinct B
+25|015|2956|South Hadley Precinct C|South Hadley Precinct C
+25|015|2957|South Hadley Precinct D|South Hadley Precinct D
+25|015|2958|South Hadley Precinct E|South Hadley Precinct E
+25|015|2959|Southampton Precinct 1|Southampton Precinct 1
+25|015|2960|Ware Precinct A|Ware Precinct A
+25|015|2961|Ware Precinct B|Ware Precinct B
+25|015|2962|Ware Precinct C|Ware Precinct C
+25|015|2963|Ware Precinct ZZZ|Ware Precinct ZZZ
+25|015|2964|Westhampton Precinct 1|Westhampton Precinct 1
+25|015|2965|Williamsburg Precinct 1|Williamsburg Precinct 1
+25|015|2966|Worthington Precinct 1|Worthington Precinct 1
+25|017|2967|Acton Precinct 1|Acton Precinct 1
+25|017|2968|Acton Precinct 2|Acton Precinct 2
+25|017|2969|Acton Precinct 3|Acton Precinct 3
+25|017|2970|Acton Precinct 4|Acton Precinct 4
+25|017|2971|Acton Precinct 5|Acton Precinct 5
+25|017|2972|Acton Precinct 6|Acton Precinct 6
+25|017|2973|Arlington Precinct 1|Arlington Precinct 1
+25|017|2974|Arlington Precinct 2|Arlington Precinct 2
+25|017|2975|Arlington Precinct 3|Arlington Precinct 3
+25|017|2976|Arlington Precinct 4|Arlington Precinct 4
+25|017|2977|Arlington Precinct 5|Arlington Precinct 5
+25|017|2978|Arlington Precinct 6|Arlington Precinct 6
+25|017|2979|Arlington Precinct 7|Arlington Precinct 7
+25|017|2980|Arlington Precinct 8|Arlington Precinct 8
+25|017|2981|Arlington Precinct 9|Arlington Precinct 9
+25|017|2982|Arlington Precinct 10|Arlington Precinct 10
+25|017|2983|Arlington Precinct 11|Arlington Precinct 11
+25|017|2984|Arlington Precinct 12|Arlington Precinct 12
+25|017|2985|Arlington Precinct 13|Arlington Precinct 13
+25|017|2986|Arlington Precinct 14|Arlington Precinct 14
+25|017|2987|Arlington Precinct 15|Arlington Precinct 15
+25|017|2988|Arlington Precinct 16|Arlington Precinct 16
+25|017|2989|Arlington Precinct 17|Arlington Precinct 17
+25|017|2990|Arlington Precinct 18|Arlington Precinct 18
+25|017|2991|Arlington Precinct 19|Arlington Precinct 19
+25|017|2992|Arlington Precinct 20|Arlington Precinct 20
+25|017|2993|Arlington Precinct 21|Arlington Precinct 21
+25|017|2994|Ashby Precinct 1|Ashby Precinct 1
+25|017|2995|Ashland Precinct 1|Ashland Precinct 1
+25|017|2996|Ashland Precinct 2|Ashland Precinct 2
+25|017|2997|Ashland Precinct 3|Ashland Precinct 3
+25|017|2998|Ashland Precinct 4|Ashland Precinct 4
+25|017|2999|Ayer Precinct 1|Ayer Precinct 1
+25|017|3000|Ayer Precinct 2|Ayer Precinct 2
+25|017|3001|Bedford Precinct 1|Bedford Precinct 1
+25|017|3002|Bedford Precinct 2|Bedford Precinct 2
+25|017|3003|Bedford Precinct 3|Bedford Precinct 3
+25|017|3004|Bedford Precinct 4|Bedford Precinct 4
+25|017|3005|Belmont Precinct 1|Belmont Precinct 1
+25|017|3006|Belmont Precinct 2|Belmont Precinct 2
+25|017|3007|Belmont Precinct 3|Belmont Precinct 3
+25|017|3008|Belmont Precinct 4|Belmont Precinct 4
+25|017|3009|Belmont Precinct 5|Belmont Precinct 5
+25|017|3010|Belmont Precinct 6|Belmont Precinct 6
+25|017|3011|Belmont Precinct 7|Belmont Precinct 7
+25|017|3012|Belmont Precinct 8|Belmont Precinct 8
+25|017|3013|Billerica Precinct 1|Billerica Precinct 1
+25|017|3014|Billerica Precinct 2|Billerica Precinct 2
+25|017|3015|Billerica Precinct 3|Billerica Precinct 3
+25|017|3016|Billerica Precinct 4|Billerica Precinct 4
+25|017|3017|Billerica Precinct 5|Billerica Precinct 5
+25|017|3018|Billerica Precinct 6|Billerica Precinct 6
+25|017|3019|Billerica Precinct 7|Billerica Precinct 7
+25|017|3020|Billerica Precinct 8|Billerica Precinct 8
+25|017|3021|Billerica Precinct 9|Billerica Precinct 9
+25|017|3022|Billerica Precinct 10|Billerica Precinct 10
+25|017|3023|Billerica Precinct 11|Billerica Precinct 11
+25|017|3024|Boxborough Precinct 1|Boxborough Precinct 1
+25|017|3025|Burlington Precinct 1|Burlington Precinct 1
+25|017|3026|Burlington Precinct 2|Burlington Precinct 2
+25|017|3027|Burlington Precinct 3|Burlington Precinct 3
+25|017|3028|Burlington Precinct 4|Burlington Precinct 4
+25|017|3029|Burlington Precinct 5|Burlington Precinct 5
+25|017|3030|Burlington Precinct 6|Burlington Precinct 6
+25|017|3031|Cambridge Ward 1 Precinct 1|Cambridge Ward 1 Precinct 1
+25|017|3032|Cambridge Ward 1 Precinct 2|Cambridge Ward 1 Precinct 2
+25|017|3033|Cambridge Ward 1 Precinct 3|Cambridge Ward 1 Precinct 3
+25|017|3034|Cambridge Ward 2 Precinct 1|Cambridge Ward 2 Precinct 1
+25|017|3035|Cambridge Ward 2 Precinct 2|Cambridge Ward 2 Precinct 2
+25|017|3036|Cambridge Ward 2 Precinct 3|Cambridge Ward 2 Precinct 3
+25|017|3037|Cambridge Ward 3 Precinct 1|Cambridge Ward 3 Precinct 1
+25|017|3038|Cambridge Ward 3 Precinct 2|Cambridge Ward 3 Precinct 2
+25|017|3039|Cambridge Ward 3 Precinct 3|Cambridge Ward 3 Precinct 3
+25|017|3040|Cambridge Ward 4 Precinct 1|Cambridge Ward 4 Precinct 1
+25|017|3041|Cambridge Ward 4 Precinct 2|Cambridge Ward 4 Precinct 2
+25|017|3042|Cambridge Ward 4 Precinct 3|Cambridge Ward 4 Precinct 3
+25|017|3043|Cambridge Ward 5 Precinct 1|Cambridge Ward 5 Precinct 1
+25|017|3044|Cambridge Ward 5 Precinct 2|Cambridge Ward 5 Precinct 2
+25|017|3045|Cambridge Ward 5 Precinct 3|Cambridge Ward 5 Precinct 3
+25|017|3046|Cambridge Ward 6 Precinct 1|Cambridge Ward 6 Precinct 1
+25|017|3047|Cambridge Ward 6 Precinct 2|Cambridge Ward 6 Precinct 2
+25|017|3048|Cambridge Ward 6 Precinct 3|Cambridge Ward 6 Precinct 3
+25|017|3049|Cambridge Ward 7 Precinct 1|Cambridge Ward 7 Precinct 1
+25|017|3050|Cambridge Ward 7 Precinct 2|Cambridge Ward 7 Precinct 2
+25|017|3051|Cambridge Ward 7 Precinct 3|Cambridge Ward 7 Precinct 3
+25|017|3052|Cambridge Ward 8 Precinct 1|Cambridge Ward 8 Precinct 1
+25|017|3053|Cambridge Ward 8 Precinct 2|Cambridge Ward 8 Precinct 2
+25|017|3054|Cambridge Ward 8 Precinct 3|Cambridge Ward 8 Precinct 3
+25|017|3055|Cambridge Ward 9 Precinct 1|Cambridge Ward 9 Precinct 1
+25|017|3056|Cambridge Ward 9 Precinct 2|Cambridge Ward 9 Precinct 2
+25|017|3057|Cambridge Ward 9 Precinct 3|Cambridge Ward 9 Precinct 3
+25|017|3058|Cambridge Ward 10 Precinct 1|Cambridge Ward 10 Precinct 1
+25|017|3059|Cambridge Ward 10 Precinct 2|Cambridge Ward 10 Precinct 2
+25|017|3060|Cambridge Ward 10 Precinct 3|Cambridge Ward 10 Precinct 3
+25|017|3061|Cambridge Ward 11 Precinct 1|Cambridge Ward 11 Precinct 1
+25|017|3062|Cambridge Ward 11 Precinct 2|Cambridge Ward 11 Precinct 2
+25|017|3063|Cambridge Ward 11 Precinct 3|Cambridge Ward 11 Precinct 3
+25|017|3064|Carlisle Precinct 1|Carlisle Precinct 1
+25|017|3065|Chelmsford Precinct 1|Chelmsford Precinct 1
+25|017|3066|Chelmsford Precinct 2|Chelmsford Precinct 2
+25|017|3067|Chelmsford Precinct 3|Chelmsford Precinct 3
+25|017|3068|Chelmsford Precinct 4|Chelmsford Precinct 4
+25|017|3069|Chelmsford Precinct 5|Chelmsford Precinct 5
+25|017|3070|Chelmsford Precinct 6|Chelmsford Precinct 6
+25|017|3071|Chelmsford Precinct 7|Chelmsford Precinct 7
+25|017|3072|Chelmsford Precinct 8|Chelmsford Precinct 8
+25|017|3073|Chelmsford Precinct 9|Chelmsford Precinct 9
+25|017|3074|Concord Precinct 1|Concord Precinct 1
+25|017|3075|Concord Precinct 2|Concord Precinct 2
+25|017|3076|Concord Precinct 3|Concord Precinct 3
+25|017|3077|Concord Precinct 4|Concord Precinct 4
+25|017|3078|Concord Precinct 5|Concord Precinct 5
+25|017|3079|Dracut Precinct 1|Dracut Precinct 1
+25|017|3080|Dracut Precinct 2|Dracut Precinct 2
+25|017|3081|Dracut Precinct 3|Dracut Precinct 3
+25|017|3082|Dracut Precinct 4|Dracut Precinct 4
+25|017|3083|Dracut Precinct 5|Dracut Precinct 5
+25|017|3084|Dracut Precinct 6|Dracut Precinct 6
+25|017|3085|Dracut Precinct 7|Dracut Precinct 7
+25|017|3086|Dracut Precinct 8|Dracut Precinct 8
+25|017|3087|Dracut Precinct 9|Dracut Precinct 9
+25|017|3088|Dunstable Precinct 1|Dunstable Precinct 1
+25|017|3089|Everett Ward 1 Precinct 1|Everett Ward 1 Precinct 1
+25|017|3090|Everett Ward 1 Precinct 2|Everett Ward 1 Precinct 2
+25|017|3091|Everett Ward 1 Precinct 3|Everett Ward 1 Precinct 3
+25|017|3092|Everett Ward 2 Precinct 1|Everett Ward 2 Precinct 1
+25|017|3093|Everett Ward 2 Precinct 2|Everett Ward 2 Precinct 2
+25|017|3094|Everett Ward 2 Precinct 3|Everett Ward 2 Precinct 3
+25|017|3095|Everett Ward 3 Precinct 1|Everett Ward 3 Precinct 1
+25|017|3096|Everett Ward 3 Precinct 2|Everett Ward 3 Precinct 2
+25|017|3097|Everett Ward 3 Precinct 3|Everett Ward 3 Precinct 3
+25|017|3098|Everett Ward 4 Precinct 1|Everett Ward 4 Precinct 1
+25|017|3099|Everett Ward 4 Precinct 2|Everett Ward 4 Precinct 2
+25|017|3100|Everett Ward 4 Precinct 3|Everett Ward 4 Precinct 3
+25|017|3101|Everett Ward 5 Precinct 1|Everett Ward 5 Precinct 1
+25|017|3102|Everett Ward 5 Precinct 2|Everett Ward 5 Precinct 2
+25|017|3103|Everett Ward 5 Precinct 3|Everett Ward 5 Precinct 3
+25|017|3104|Everett Ward 6 Precinct 1|Everett Ward 6 Precinct 1
+25|017|3105|Everett Ward 6 Precinct 2|Everett Ward 6 Precinct 2
+25|017|3106|Everett Ward 6 Precinct 3|Everett Ward 6 Precinct 3
+25|017|3107|Framingham Precinct 1|Framingham Precinct 1
+25|017|3108|Framingham Precinct 2|Framingham Precinct 2
+25|017|3109|Framingham Precinct 3|Framingham Precinct 3
+25|017|3110|Framingham Precinct 4|Framingham Precinct 4
+25|017|3111|Framingham Precinct 5|Framingham Precinct 5
+25|017|3112|Framingham Precinct 6|Framingham Precinct 6
+25|017|3113|Framingham Precinct 7|Framingham Precinct 7
+25|017|3114|Framingham Precinct 8|Framingham Precinct 8
+25|017|3115|Framingham Precinct 9|Framingham Precinct 9
+25|017|3116|Framingham Precinct 10|Framingham Precinct 10
+25|017|3117|Framingham Precinct 11|Framingham Precinct 11
+25|017|3118|Framingham Precinct 12|Framingham Precinct 12
+25|017|3119|Framingham Precinct 13|Framingham Precinct 13
+25|017|3120|Framingham Precinct 14|Framingham Precinct 14
+25|017|3121|Framingham Precinct 15|Framingham Precinct 15
+25|017|3122|Framingham Precinct 16|Framingham Precinct 16
+25|017|3123|Framingham Precinct 17|Framingham Precinct 17
+25|017|3124|Framingham Precinct 18|Framingham Precinct 18
+25|017|3125|Groton Precinct 1|Groton Precinct 1
+25|017|3126|Groton Precinct 2|Groton Precinct 2
+25|017|3127|Groton Precinct 3|Groton Precinct 3
+25|017|3128|Holliston Precinct 1|Holliston Precinct 1
+25|017|3129|Holliston Precinct 2|Holliston Precinct 2
+25|017|3130|Holliston Precinct 3|Holliston Precinct 3
+25|017|3131|Holliston Precinct 4|Holliston Precinct 4
+25|017|3132|Hopkinton Precinct 1|Hopkinton Precinct 1
+25|017|3133|Hopkinton Precinct 2|Hopkinton Precinct 2
+25|017|3134|Hopkinton Precinct 3|Hopkinton Precinct 3
+25|017|3135|Hopkinton Precinct 4|Hopkinton Precinct 4
+25|017|3136|Hudson Precinct 1|Hudson Precinct 1
+25|017|3137|Hudson Precinct 2|Hudson Precinct 2
+25|017|3138|Hudson Precinct 3|Hudson Precinct 3
+25|017|3139|Hudson Precinct 4|Hudson Precinct 4
+25|017|3140|Hudson Precinct 5|Hudson Precinct 5
+25|017|3141|Hudson Precinct 6|Hudson Precinct 6
+25|017|3142|Hudson Precinct 7|Hudson Precinct 7
+25|017|3143|Lexington Precinct 1|Lexington Precinct 1
+25|017|3144|Lexington Precinct 2|Lexington Precinct 2
+25|017|3145|Lexington Precinct 3|Lexington Precinct 3
+25|017|3146|Lexington Precinct 4|Lexington Precinct 4
+25|017|3147|Lexington Precinct 5|Lexington Precinct 5
+25|017|3148|Lexington Precinct 6|Lexington Precinct 6
+25|017|3149|Lexington Precinct 7|Lexington Precinct 7
+25|017|3150|Lexington Precinct 8|Lexington Precinct 8
+25|017|3151|Lexington Precinct 9|Lexington Precinct 9
+25|017|3152|Lincoln Precinct 1|Lincoln Precinct 1
+25|017|3153|Lincoln Precinct 2|Lincoln Precinct 2
+25|017|3154|Lincoln Precinct 3|Lincoln Precinct 3
+25|017|3155|Littleton Precinct 1|Littleton Precinct 1
+25|017|3156|Littleton Precinct 2|Littleton Precinct 2
+25|017|3157|Littleton Precinct 3|Littleton Precinct 3
+25|017|3158|Lowell Ward 1 Precinct 1|Lowell Ward 1 Precinct 1
+25|017|3159|Lowell Ward 1 Precinct 2|Lowell Ward 1 Precinct 2
+25|017|3160|Lowell Ward 1 Precinct 3|Lowell Ward 1 Precinct 3
+25|017|3161|Lowell Ward 2 Precinct 1|Lowell Ward 2 Precinct 1
+25|017|3162|Lowell Ward 2 Precinct 2|Lowell Ward 2 Precinct 2
+25|017|3163|Lowell Ward 2 Precinct 3|Lowell Ward 2 Precinct 3
+25|017|3164|Lowell Ward 3 Precinct 1|Lowell Ward 3 Precinct 1
+25|017|3165|Lowell Ward 3 Precinct 2|Lowell Ward 3 Precinct 2
+25|017|3166|Lowell Ward 3 Precinct 3|Lowell Ward 3 Precinct 3
+25|017|3167|Lowell Ward 4 Precinct 1|Lowell Ward 4 Precinct 1
+25|017|3168|Lowell Ward 4 Precinct 2|Lowell Ward 4 Precinct 2
+25|017|3169|Lowell Ward 4 Precinct 3|Lowell Ward 4 Precinct 3
+25|017|3170|Lowell Ward 5 Precinct 1|Lowell Ward 5 Precinct 1
+25|017|3171|Lowell Ward 5 Precinct 2|Lowell Ward 5 Precinct 2
+25|017|3172|Lowell Ward 5 Precinct 3|Lowell Ward 5 Precinct 3
+25|017|3173|Lowell Ward 6 Precinct 1|Lowell Ward 6 Precinct 1
+25|017|3174|Lowell Ward 6 Precinct 2|Lowell Ward 6 Precinct 2
+25|017|3175|Lowell Ward 6 Precinct 3|Lowell Ward 6 Precinct 3
+25|017|3176|Lowell Ward 7 Precinct 1|Lowell Ward 7 Precinct 1
+25|017|3177|Lowell Ward 7 Precinct 2|Lowell Ward 7 Precinct 2
+25|017|3178|Lowell Ward 7 Precinct 3|Lowell Ward 7 Precinct 3
+25|017|3179|Lowell Ward 8 Precinct 1|Lowell Ward 8 Precinct 1
+25|017|3180|Lowell Ward 8 Precinct 2|Lowell Ward 8 Precinct 2
+25|017|3181|Lowell Ward 8 Precinct 3|Lowell Ward 8 Precinct 3
+25|017|3182|Lowell Ward 9 Precinct 1|Lowell Ward 9 Precinct 1
+25|017|3183|Lowell Ward 9 Precinct 2|Lowell Ward 9 Precinct 2
+25|017|3184|Lowell Ward 9 Precinct 3|Lowell Ward 9 Precinct 3
+25|017|3185|Lowell Ward 10 Precinct 1|Lowell Ward 10 Precinct 1
+25|017|3186|Lowell Ward 10 Precinct 2|Lowell Ward 10 Precinct 2
+25|017|3187|Lowell Ward 10 Precinct 3|Lowell Ward 10 Precinct 3
+25|017|3188|Lowell Ward 11 Precinct 1|Lowell Ward 11 Precinct 1
+25|017|3189|Lowell Ward 11 Precinct 2|Lowell Ward 11 Precinct 2
+25|017|3190|Lowell Ward 11 Precinct 3|Lowell Ward 11 Precinct 3
+25|017|3191|Malden Ward 1 Precinct 1|Malden Ward 1 Precinct 1
+25|017|3192|Malden Ward 1 Precinct 2|Malden Ward 1 Precinct 2
+25|017|3193|Malden Ward 2 Precinct 1|Malden Ward 2 Precinct 1
+25|017|3194|Malden Ward 2 Precinct 2|Malden Ward 2 Precinct 2
+25|017|3195|Malden Ward 3 Precinct 1|Malden Ward 3 Precinct 1
+25|017|3196|Malden Ward 3 Precinct 2|Malden Ward 3 Precinct 2
+25|017|3197|Malden Ward 4 Precinct 1|Malden Ward 4 Precinct 1
+25|017|3198|Malden Ward 4 Precinct 2|Malden Ward 4 Precinct 2
+25|017|3199|Malden Ward 5 Precinct 1|Malden Ward 5 Precinct 1
+25|017|3200|Malden Ward 5 Precinct 2|Malden Ward 5 Precinct 2
+25|017|3201|Malden Ward 6 Precinct 1|Malden Ward 6 Precinct 1
+25|017|3202|Malden Ward 6 Precinct 2|Malden Ward 6 Precinct 2
+25|017|3203|Malden Ward 7 Precinct 1|Malden Ward 7 Precinct 1
+25|017|3204|Malden Ward 7 Precinct 2|Malden Ward 7 Precinct 2
+25|017|3205|Malden Ward 8 Precinct 1|Malden Ward 8 Precinct 1
+25|017|3206|Malden Ward 8 Precinct 2|Malden Ward 8 Precinct 2
+25|017|3207|Marlborough Ward 1 Precinct 1|Marlborough Ward 1 Precinct 1
+25|017|3208|Marlborough Ward 1 Precinct 2|Marlborough Ward 1 Precinct 2
+25|017|3209|Marlborough Ward 2 Precinct 1|Marlborough Ward 2 Precinct 1
+25|017|3210|Marlborough Ward 2 Precinct 2|Marlborough Ward 2 Precinct 2
+25|017|3211|Marlborough Ward 3 Precinct 1|Marlborough Ward 3 Precinct 1
+25|017|3212|Marlborough Ward 3 Precinct 2|Marlborough Ward 3 Precinct 2
+25|017|3213|Marlborough Ward 4 Precinct 1|Marlborough Ward 4 Precinct 1
+25|017|3214|Marlborough Ward 4 Precinct 2|Marlborough Ward 4 Precinct 2
+25|017|3215|Marlborough Ward 5 Precinct 1|Marlborough Ward 5 Precinct 1
+25|017|3216|Marlborough Ward 5 Precinct 2|Marlborough Ward 5 Precinct 2
+25|017|3217|Marlborough Ward 6 Precinct 1|Marlborough Ward 6 Precinct 1
+25|017|3218|Marlborough Ward 6 Precinct 2|Marlborough Ward 6 Precinct 2
+25|017|3219|Marlborough Ward 7 Precinct 1|Marlborough Ward 7 Precinct 1
+25|017|3220|Marlborough Ward 7 Precinct 2|Marlborough Ward 7 Precinct 2
+25|017|3221|Maynard Precinct 1|Maynard Precinct 1
+25|017|3222|Maynard Precinct 2|Maynard Precinct 2
+25|017|3223|Maynard Precinct 3|Maynard Precinct 3
+25|017|3224|Maynard Precinct 4|Maynard Precinct 4
+25|017|3225|Medford Ward 1 Precinct 1|Medford Ward 1 Precinct 1
+25|017|3226|Medford Ward 1 Precinct 2|Medford Ward 1 Precinct 2
+25|017|3227|Medford Ward 2 Precinct 1|Medford Ward 2 Precinct 1
+25|017|3228|Medford Ward 2 Precinct 2|Medford Ward 2 Precinct 2
+25|017|3229|Medford Ward 3 Precinct 1|Medford Ward 3 Precinct 1
+25|017|3230|Medford Ward 3 Precinct 2|Medford Ward 3 Precinct 2
+25|017|3231|Medford Ward 4 Precinct 1|Medford Ward 4 Precinct 1
+25|017|3232|Medford Ward 4 Precinct 2|Medford Ward 4 Precinct 2
+25|017|3233|Medford Ward 5 Precinct 1|Medford Ward 5 Precinct 1
+25|017|3234|Medford Ward 5 Precinct 2|Medford Ward 5 Precinct 2
+25|017|3235|Medford Ward 6 Precinct 1|Medford Ward 6 Precinct 1
+25|017|3236|Medford Ward 6 Precinct 2|Medford Ward 6 Precinct 2
+25|017|3237|Medford Ward 7 Precinct 1|Medford Ward 7 Precinct 1
+25|017|3238|Medford Ward 7 Precinct 2|Medford Ward 7 Precinct 2
+25|017|3239|Medford Ward 8 Precinct 1|Medford Ward 8 Precinct 1
+25|017|3240|Medford Ward 8 Precinct 2|Medford Ward 8 Precinct 2
+25|017|3241|Melrose Ward 1 Precinct 1|Melrose Ward 1 Precinct 1
+25|017|3242|Melrose Ward 1 Precinct 2|Melrose Ward 1 Precinct 2
+25|017|3243|Melrose Ward 2 Precinct 1|Melrose Ward 2 Precinct 1
+25|017|3244|Melrose Ward 2 Precinct 2|Melrose Ward 2 Precinct 2
+25|017|3245|Melrose Ward 3 Precinct 1|Melrose Ward 3 Precinct 1
+25|017|3246|Melrose Ward 3 Precinct 2|Melrose Ward 3 Precinct 2
+25|017|3247|Melrose Ward 4 Precinct 1|Melrose Ward 4 Precinct 1
+25|017|3248|Melrose Ward 4 Precinct 2|Melrose Ward 4 Precinct 2
+25|017|3249|Melrose Ward 5 Precinct 1|Melrose Ward 5 Precinct 1
+25|017|3250|Melrose Ward 5 Precinct 2|Melrose Ward 5 Precinct 2
+25|017|3251|Melrose Ward 6 Precinct 1|Melrose Ward 6 Precinct 1
+25|017|3252|Melrose Ward 6 Precinct 2|Melrose Ward 6 Precinct 2
+25|017|3253|Melrose Ward 7 Precinct 1|Melrose Ward 7 Precinct 1
+25|017|3254|Melrose Ward 7 Precinct 2|Melrose Ward 7 Precinct 2
+25|017|3255|Natick Precinct 1|Natick Precinct 1
+25|017|3256|Natick Precinct 2|Natick Precinct 2
+25|017|3257|Natick Precinct 3|Natick Precinct 3
+25|017|3258|Natick Precinct 4|Natick Precinct 4
+25|017|3259|Natick Precinct 5|Natick Precinct 5
+25|017|3260|Natick Precinct 6|Natick Precinct 6
+25|017|3261|Natick Precinct 7|Natick Precinct 7
+25|017|3262|Natick Precinct 8|Natick Precinct 8
+25|017|3263|Natick Precinct 9|Natick Precinct 9
+25|017|3264|Natick Precinct 10|Natick Precinct 10
+25|017|3265|Newton Ward 1 Precinct 1|Newton Ward 1 Precinct 1
+25|017|3266|Newton Ward 1 Precinct 2|Newton Ward 1 Precinct 2
+25|017|3267|Newton Ward 1 Precinct 3|Newton Ward 1 Precinct 3
+25|017|3268|Newton Ward 1 Precinct 4|Newton Ward 1 Precinct 4
+25|017|3269|Newton Ward 2 Precinct 1|Newton Ward 2 Precinct 1
+25|017|3270|Newton Ward 2 Precinct 2|Newton Ward 2 Precinct 2
+25|017|3271|Newton Ward 2 Precinct 3|Newton Ward 2 Precinct 3
+25|017|3272|Newton Ward 3 Precinct 1|Newton Ward 3 Precinct 1
+25|017|3273|Newton Ward 3 Precinct 2|Newton Ward 3 Precinct 2
+25|017|3274|Newton Ward 3 Precinct 3|Newton Ward 3 Precinct 3
+25|017|3275|Newton Ward 3 Precinct 4|Newton Ward 3 Precinct 4
+25|017|3276|Newton Ward 4 Precinct 1|Newton Ward 4 Precinct 1
+25|017|3277|Newton Ward 4 Precinct 2|Newton Ward 4 Precinct 2
+25|017|3278|Newton Ward 4 Precinct 3|Newton Ward 4 Precinct 3
+25|017|3279|Newton Ward 4 Precinct 4|Newton Ward 4 Precinct 4
+25|017|3280|Newton Ward 5 Precinct 1|Newton Ward 5 Precinct 1
+25|017|3281|Newton Ward 5 Precinct 2|Newton Ward 5 Precinct 2
+25|017|3282|Newton Ward 5 Precinct 3|Newton Ward 5 Precinct 3
+25|017|3283|Newton Ward 5 Precinct 4|Newton Ward 5 Precinct 4
+25|017|3284|Newton Ward 6 Precinct 1|Newton Ward 6 Precinct 1
+25|017|3285|Newton Ward 6 Precinct 2|Newton Ward 6 Precinct 2
+25|017|3286|Newton Ward 6 Precinct 3|Newton Ward 6 Precinct 3
+25|017|3287|Newton Ward 6 Precinct 4|Newton Ward 6 Precinct 4
+25|017|3288|Newton Ward 7 Precinct 1|Newton Ward 7 Precinct 1
+25|017|3289|Newton Ward 7 Precinct 2|Newton Ward 7 Precinct 2
+25|017|3290|Newton Ward 7 Precinct 3|Newton Ward 7 Precinct 3
+25|017|3291|Newton Ward 7 Precinct 4|Newton Ward 7 Precinct 4
+25|017|3292|Newton Ward 8 Precinct 1|Newton Ward 8 Precinct 1
+25|017|3293|Newton Ward 8 Precinct 2|Newton Ward 8 Precinct 2
+25|017|3294|Newton Ward 8 Precinct 3|Newton Ward 8 Precinct 3
+25|017|3295|Newton Ward 8 Precinct 4|Newton Ward 8 Precinct 4
+25|017|3296|North Reading Precinct 1|North Reading Precinct 1
+25|017|3297|North Reading Precinct 2|North Reading Precinct 2
+25|017|3298|North Reading Precinct 3|North Reading Precinct 3
+25|017|3299|North Reading Precinct 4|North Reading Precinct 4
+25|017|3300|Pepperell Precinct 1|Pepperell Precinct 1
+25|017|3301|Pepperell Precinct 2|Pepperell Precinct 2
+25|017|3302|Pepperell Precinct 3|Pepperell Precinct 3
+25|017|3303|Reading Precinct 1|Reading Precinct 1
+25|017|3304|Reading Precinct 2|Reading Precinct 2
+25|017|3305|Reading Precinct 3|Reading Precinct 3
+25|017|3306|Reading Precinct 4|Reading Precinct 4
+25|017|3307|Reading Precinct 5|Reading Precinct 5
+25|017|3308|Reading Precinct 6|Reading Precinct 6
+25|017|3309|Reading Precinct 7|Reading Precinct 7
+25|017|3310|Reading Precinct 8|Reading Precinct 8
+25|017|3311|Sherborn Precinct 1|Sherborn Precinct 1
+25|017|3312|Shirley Precinct 2|Shirley Precinct 2
+25|017|3313|Somerville Ward 1 Precinct 1|Somerville Ward 1 Precinct 1
+25|017|3314|Somerville Ward 1 Precinct 2|Somerville Ward 1 Precinct 2
+25|017|3315|Somerville Ward 1 Precinct 3|Somerville Ward 1 Precinct 3
+25|017|3316|Somerville Ward 2 Precinct 1|Somerville Ward 2 Precinct 1
+25|017|3317|Somerville Ward 2 Precinct 2|Somerville Ward 2 Precinct 2
+25|017|3318|Somerville Ward 2 Precinct 3|Somerville Ward 2 Precinct 3
+25|017|3319|Somerville Ward 3 Precinct 1|Somerville Ward 3 Precinct 1
+25|017|3320|Somerville Ward 3 Precinct 2|Somerville Ward 3 Precinct 2
+25|017|3321|Somerville Ward 3 Precinct 3|Somerville Ward 3 Precinct 3
+25|017|3322|Somerville Ward 4 Precinct 1|Somerville Ward 4 Precinct 1
+25|017|3323|Somerville Ward 4 Precinct 2|Somerville Ward 4 Precinct 2
+25|017|3324|Somerville Ward 4 Precinct 3|Somerville Ward 4 Precinct 3
+25|017|3325|Somerville Ward 5 Precinct 1|Somerville Ward 5 Precinct 1
+25|017|3326|Somerville Ward 5 Precinct 2|Somerville Ward 5 Precinct 2
+25|017|3327|Somerville Ward 5 Precinct 3|Somerville Ward 5 Precinct 3
+25|017|3328|Somerville Ward 6 Precinct 1|Somerville Ward 6 Precinct 1
+25|017|3329|Somerville Ward 6 Precinct 2|Somerville Ward 6 Precinct 2
+25|017|3330|Somerville Ward 6 Precinct 3|Somerville Ward 6 Precinct 3
+25|017|3331|Somerville Ward 7 Precinct 1|Somerville Ward 7 Precinct 1
+25|017|3332|Somerville Ward 7 Precinct 2|Somerville Ward 7 Precinct 2
+25|017|3333|Somerville Ward 7 Precinct 3|Somerville Ward 7 Precinct 3
+25|017|3334|Stoneham Precinct 1|Stoneham Precinct 1
+25|017|3335|Stoneham Precinct 2|Stoneham Precinct 2
+25|017|3336|Stoneham Precinct 3|Stoneham Precinct 3
+25|017|3337|Stoneham Precinct 4|Stoneham Precinct 4
+25|017|3338|Stoneham Precinct 5|Stoneham Precinct 5
+25|017|3339|Stoneham Precinct 6|Stoneham Precinct 6
+25|017|3340|Stoneham Precinct 7|Stoneham Precinct 7
+25|017|3341|Stow Precinct 1|Stow Precinct 1
+25|017|3342|Sudbury Precinct 1|Sudbury Precinct 1
+25|017|3343|Sudbury Precinct 2|Sudbury Precinct 2
+25|017|3344|Sudbury Precinct 3|Sudbury Precinct 3
+25|017|3345|Sudbury Precinct 4|Sudbury Precinct 4
+25|017|3346|Sudbury Precinct 5|Sudbury Precinct 5
+25|017|3347|Tewksbury Precinct 1|Tewksbury Precinct 1
+25|017|3348|Tewksbury Precinct 1A|Tewksbury Precinct 1A
+25|017|3349|Tewksbury Precinct 2|Tewksbury Precinct 2
+25|017|3350|Tewksbury Precinct 2A|Tewksbury Precinct 2A
+25|017|3351|Tewksbury Precinct 3|Tewksbury Precinct 3
+25|017|3352|Tewksbury Precinct 3A|Tewksbury Precinct 3A
+25|017|3353|Tewksbury Precinct 4|Tewksbury Precinct 4
+25|017|3354|Tewksbury Precinct 4A|Tewksbury Precinct 4A
+25|017|3355|Townsend Precinct 1|Townsend Precinct 1
+25|017|3356|Townsend Precinct 2|Townsend Precinct 2
+25|017|3357|Townsend Precinct 3|Townsend Precinct 3
+25|017|3358|Tyngsborough Precinct 1|Tyngsborough Precinct 1
+25|017|3359|Tyngsborough Precinct 2|Tyngsborough Precinct 2
+25|017|3360|Tyngsborough Precinct 3|Tyngsborough Precinct 3
+25|017|3361|Tyngsborough Precinct 4|Tyngsborough Precinct 4
+25|017|3362|Wakefield Precinct 1|Wakefield Precinct 1
+25|017|3363|Wakefield Precinct 2|Wakefield Precinct 2
+25|017|3364|Wakefield Precinct 3|Wakefield Precinct 3
+25|017|3365|Wakefield Precinct 4|Wakefield Precinct 4
+25|017|3366|Wakefield Precinct 5|Wakefield Precinct 5
+25|017|3367|Wakefield Precinct 6|Wakefield Precinct 6
+25|017|3368|Wakefield Precinct 7|Wakefield Precinct 7
+25|017|3369|Waltham Ward 1 Precinct 1|Waltham Ward 1 Precinct 1
+25|017|3370|Waltham Ward 1 Precinct 2|Waltham Ward 1 Precinct 2
+25|017|3371|Waltham Ward 2 Precinct 1|Waltham Ward 2 Precinct 1
+25|017|3372|Waltham Ward 2 Precinct 2|Waltham Ward 2 Precinct 2
+25|017|3373|Waltham Ward 3 Precinct 1|Waltham Ward 3 Precinct 1
+25|017|3374|Waltham Ward 3 Precinct 2|Waltham Ward 3 Precinct 2
+25|017|3375|Waltham Ward 4 Precinct 1|Waltham Ward 4 Precinct 1
+25|017|3376|Waltham Ward 4 Precinct 2|Waltham Ward 4 Precinct 2
+25|017|3377|Waltham Ward 5 Precinct 1|Waltham Ward 5 Precinct 1
+25|017|3378|Waltham Ward 5 Precinct 2|Waltham Ward 5 Precinct 2
+25|017|3379|Waltham Ward 6 Precinct 1|Waltham Ward 6 Precinct 1
+25|017|3380|Waltham Ward 6 Precinct 2|Waltham Ward 6 Precinct 2
+25|017|3381|Waltham Ward 7 Precinct 1|Waltham Ward 7 Precinct 1
+25|017|3382|Waltham Ward 7 Precinct 2|Waltham Ward 7 Precinct 2
+25|017|3383|Waltham Ward 8 Precinct 1|Waltham Ward 8 Precinct 1
+25|017|3384|Waltham Ward 8 Precinct 2|Waltham Ward 8 Precinct 2
+25|017|3385|Waltham Ward 9 Precinct 1|Waltham Ward 9 Precinct 1
+25|017|3386|Waltham Ward 9 Precinct 2|Waltham Ward 9 Precinct 2
+25|017|3387|Watertown Precinct 1|Watertown Precinct 1
+25|017|3388|Watertown Precinct 2|Watertown Precinct 2
+25|017|3389|Watertown Precinct 3|Watertown Precinct 3
+25|017|3390|Watertown Precinct 4|Watertown Precinct 4
+25|017|3391|Watertown Precinct 5|Watertown Precinct 5
+25|017|3392|Watertown Precinct 6|Watertown Precinct 6
+25|017|3393|Watertown Precinct 7|Watertown Precinct 7
+25|017|3394|Watertown Precinct 8|Watertown Precinct 8
+25|017|3395|Watertown Precinct 9|Watertown Precinct 9
+25|017|3396|Watertown Precinct 10|Watertown Precinct 10
+25|017|3397|Watertown Precinct 11|Watertown Precinct 11
+25|017|3398|Watertown Precinct 12|Watertown Precinct 12
+25|017|3399|Wayland Precinct 1|Wayland Precinct 1
+25|017|3400|Wayland Precinct 2|Wayland Precinct 2
+25|017|3401|Wayland Precinct 3|Wayland Precinct 3
+25|017|3402|Wayland Precinct 4|Wayland Precinct 4
+25|017|3403|Westford Precinct 1|Westford Precinct 1
+25|017|3404|Westford Precinct 2|Westford Precinct 2
+25|017|3405|Westford Precinct 3|Westford Precinct 3
+25|017|3406|Westford Precinct 4|Westford Precinct 4
+25|017|3407|Westford Precinct 5|Westford Precinct 5
+25|017|3408|Westford Precinct 6|Westford Precinct 6
+25|017|3409|Weston Precinct 1|Weston Precinct 1
+25|017|3410|Weston Precinct 2|Weston Precinct 2
+25|017|3411|Weston Precinct 3|Weston Precinct 3
+25|017|3412|Weston Precinct 4|Weston Precinct 4
+25|017|3413|Wilmington Precinct 1|Wilmington Precinct 1
+25|017|3414|Wilmington Precinct 2|Wilmington Precinct 2
+25|017|3415|Wilmington Precinct 3|Wilmington Precinct 3
+25|017|3416|Wilmington Precinct 4|Wilmington Precinct 4
+25|017|3417|Wilmington Precinct 5|Wilmington Precinct 5
+25|017|3418|Wilmington Precinct 6|Wilmington Precinct 6
+25|017|3419|Winchester Precinct 1|Winchester Precinct 1
+25|017|3420|Winchester Precinct 2|Winchester Precinct 2
+25|017|3421|Winchester Precinct 3|Winchester Precinct 3
+25|017|3422|Winchester Precinct 4|Winchester Precinct 4
+25|017|3423|Winchester Precinct 5|Winchester Precinct 5
+25|017|3424|Winchester Precinct 6|Winchester Precinct 6
+25|017|3425|Winchester Precinct 7|Winchester Precinct 7
+25|017|3426|Winchester Precinct 8|Winchester Precinct 8
+25|017|3427|Woburn Ward 1 Precinct 1|Woburn Ward 1 Precinct 1
+25|017|3428|Woburn Ward 1 Precinct 2|Woburn Ward 1 Precinct 2
+25|017|3429|Woburn Ward 2 Precinct 1|Woburn Ward 2 Precinct 1
+25|017|3430|Woburn Ward 2 Precinct 2|Woburn Ward 2 Precinct 2
+25|017|3431|Woburn Ward 3 Precinct 1|Woburn Ward 3 Precinct 1
+25|017|3432|Woburn Ward 3 Precinct 2|Woburn Ward 3 Precinct 2
+25|017|3433|Woburn Ward 4 Precinct 1|Woburn Ward 4 Precinct 1
+25|017|3434|Woburn Ward 4 Precinct 2|Woburn Ward 4 Precinct 2
+25|017|3435|Woburn Ward 5 Precinct 1|Woburn Ward 5 Precinct 1
+25|017|3436|Woburn Ward 5 Precinct 2|Woburn Ward 5 Precinct 2
+25|017|3437|Woburn Ward 6 Precinct 1|Woburn Ward 6 Precinct 1
+25|017|3438|Woburn Ward 6 Precinct 2|Woburn Ward 6 Precinct 2
+25|017|3439|Woburn Ward 7 Precinct 1|Woburn Ward 7 Precinct 1
+25|017|3440|Woburn Ward 7 Precinct 2|Woburn Ward 7 Precinct 2
+25|019|3441|Nantucket Precinct 1|Nantucket Precinct 1
+25|019|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+25|021|3442|Avon Precinct 1|Avon Precinct 1
+25|021|3443|Bellingham Precinct 1|Bellingham Precinct 1
+25|021|3444|Bellingham Precinct 2|Bellingham Precinct 2
+25|021|3445|Bellingham Precinct 3|Bellingham Precinct 3
+25|021|3446|Bellingham Precinct 4|Bellingham Precinct 4
+25|021|3447|Bellingham Precinct 5|Bellingham Precinct 5
+25|021|3448|Braintree Precinct 1|Braintree Precinct 1
+25|021|3449|Braintree Precinct 2|Braintree Precinct 2
+25|021|3450|Braintree Precinct 3|Braintree Precinct 3
+25|021|3451|Braintree Precinct 4|Braintree Precinct 4
+25|021|3452|Braintree Precinct 5|Braintree Precinct 5
+25|021|3453|Braintree Precinct 6|Braintree Precinct 6
+25|021|3454|Braintree Precinct 7|Braintree Precinct 7
+25|021|3455|Braintree Precinct 8|Braintree Precinct 8
+25|021|3456|Braintree Precinct 9|Braintree Precinct 9
+25|021|3457|Braintree Precinct 10|Braintree Precinct 10
+25|021|3458|Braintree Precinct 11|Braintree Precinct 11
+25|021|3459|Braintree Precinct 12|Braintree Precinct 12
+25|021|3460|Brookline Precinct 1|Brookline Precinct 1
+25|021|3461|Brookline Precinct 2|Brookline Precinct 2
+25|021|3462|Brookline Precinct 3|Brookline Precinct 3
+25|021|3463|Brookline Precinct 4|Brookline Precinct 4
+25|021|3464|Brookline Precinct 5|Brookline Precinct 5
+25|021|3465|Brookline Precinct 6|Brookline Precinct 6
+25|021|3466|Brookline Precinct 7|Brookline Precinct 7
+25|021|3467|Brookline Precinct 8|Brookline Precinct 8
+25|021|3468|Brookline Precinct 9|Brookline Precinct 9
+25|021|3469|Brookline Precinct 10|Brookline Precinct 10
+25|021|3470|Brookline Precinct 11|Brookline Precinct 11
+25|021|3471|Brookline Precinct 12|Brookline Precinct 12
+25|021|3472|Brookline Precinct 13|Brookline Precinct 13
+25|021|3473|Brookline Precinct 14|Brookline Precinct 14
+25|021|3474|Brookline Precinct 15|Brookline Precinct 15
+25|021|3475|Brookline Precinct 16|Brookline Precinct 16
+25|021|3476|Canton Precinct 1|Canton Precinct 1
+25|021|3477|Canton Precinct 2|Canton Precinct 2
+25|021|3478|Canton Precinct 3|Canton Precinct 3
+25|021|3479|Canton Precinct 4|Canton Precinct 4
+25|021|3480|Canton Precinct 5|Canton Precinct 5
+25|021|3481|Canton Precinct 6|Canton Precinct 6
+25|021|3482|Cohasset Precinct 1|Cohasset Precinct 1
+25|021|3483|Cohasset Precinct 2|Cohasset Precinct 2
+25|021|3484|Dedham Precinct 1|Dedham Precinct 1
+25|021|3485|Dedham Precinct 2|Dedham Precinct 2
+25|021|3486|Dedham Precinct 3|Dedham Precinct 3
+25|021|3487|Dedham Precinct 4|Dedham Precinct 4
+25|021|3488|Dedham Precinct 5|Dedham Precinct 5
+25|021|3489|Dedham Precinct 6|Dedham Precinct 6
+25|021|3490|Dedham Precinct 7|Dedham Precinct 7
+25|021|3491|Dover Precinct 1|Dover Precinct 1
+25|021|3492|Foxborough Precinct 1|Foxborough Precinct 1
+25|021|3493|Foxborough Precinct 2|Foxborough Precinct 2
+25|021|3494|Foxborough Precinct 3|Foxborough Precinct 3
+25|021|3495|Foxborough Precinct 4|Foxborough Precinct 4
+25|021|3496|Foxborough Precinct 5|Foxborough Precinct 5
+25|021|3497|Franklin Precinct 1|Franklin Precinct 1
+25|021|3498|Franklin Precinct 2|Franklin Precinct 2
+25|021|3499|Franklin Precinct 3|Franklin Precinct 3
+25|021|3500|Franklin Precinct 4|Franklin Precinct 4
+25|021|3501|Franklin Precinct 5|Franklin Precinct 5
+25|021|3502|Franklin Precinct 6|Franklin Precinct 6
+25|021|3503|Franklin Precinct 7|Franklin Precinct 7
+25|021|3504|Franklin Precinct 8|Franklin Precinct 8
+25|021|3505|Holbrook Precinct 1|Holbrook Precinct 1
+25|021|3506|Holbrook Precinct 2|Holbrook Precinct 2
+25|021|3507|Holbrook Precinct 3|Holbrook Precinct 3
+25|021|3508|Holbrook Precinct 4|Holbrook Precinct 4
+25|021|3509|Medfield Precinct 1|Medfield Precinct 1
+25|021|3510|Medfield Precinct 2|Medfield Precinct 2
+25|021|3511|Medfield Precinct 3|Medfield Precinct 3
+25|021|3512|Medfield Precinct 4|Medfield Precinct 4
+25|021|3513|Medway Precinct 1|Medway Precinct 1
+25|021|3514|Medway Precinct 2|Medway Precinct 2
+25|021|3515|Medway Precinct 3|Medway Precinct 3
+25|021|3516|Medway Precinct 4|Medway Precinct 4
+25|021|3517|Millis Precinct 1|Millis Precinct 1
+25|021|3518|Millis Precinct 2|Millis Precinct 2
+25|021|3519|Millis Precinct 3|Millis Precinct 3
+25|021|3520|Milton Precinct 1|Milton Precinct 1
+25|021|3521|Milton Precinct 2|Milton Precinct 2
+25|021|3522|Milton Precinct 3|Milton Precinct 3
+25|021|3523|Milton Precinct 4|Milton Precinct 4
+25|021|3524|Milton Precinct 5|Milton Precinct 5
+25|021|3525|Milton Precinct 6|Milton Precinct 6
+25|021|3526|Milton Precinct 7|Milton Precinct 7
+25|021|3527|Milton Precinct 8|Milton Precinct 8
+25|021|3528|Milton Precinct 9|Milton Precinct 9
+25|021|3529|Milton Precinct 10|Milton Precinct 10
+25|021|3530|Milton Precinct 11|Milton Precinct 11
+25|021|3531|Needham Precinct A|Needham Precinct A
+25|021|3532|Needham Precinct B|Needham Precinct B
+25|021|3533|Needham Precinct C|Needham Precinct C
+25|021|3534|Needham Precinct D|Needham Precinct D
+25|021|3535|Needham Precinct E|Needham Precinct E
+25|021|3536|Needham Precinct F|Needham Precinct F
+25|021|3537|Needham Precinct G|Needham Precinct G
+25|021|3538|Needham Precinct H|Needham Precinct H
+25|021|3539|Needham Precinct I|Needham Precinct I
+25|021|3540|Needham Precinct J|Needham Precinct J
+25|021|3541|Norfolk Precinct 1|Norfolk Precinct 1
+25|021|3542|Norfolk Precinct 2|Norfolk Precinct 2
+25|021|3543|Norfolk Precinct 3|Norfolk Precinct 3
+25|021|3544|Norfolk Precinct 4|Norfolk Precinct 4
+25|021|3545|Norwood Precinct 1|Norwood Precinct 1
+25|021|3546|Norwood Precinct 2|Norwood Precinct 2
+25|021|3547|Norwood Precinct 3|Norwood Precinct 3
+25|021|3548|Norwood Precinct 4|Norwood Precinct 4
+25|021|3549|Norwood Precinct 5|Norwood Precinct 5
+25|021|3550|Norwood Precinct 6|Norwood Precinct 6
+25|021|3551|Norwood Precinct 7|Norwood Precinct 7
+25|021|3552|Norwood Precinct 8|Norwood Precinct 8
+25|021|3553|Norwood Precinct 9|Norwood Precinct 9
+25|021|3554|Plainville Precinct 1|Plainville Precinct 1
+25|021|3555|Plainville Precinct 2|Plainville Precinct 2
+25|021|3556|Quincy Ward 1 Precinct 1|Quincy Ward 1 Precinct 1
+25|021|3557|Quincy Ward 1 Precinct 2|Quincy Ward 1 Precinct 2
+25|021|3558|Quincy Ward 1 Precinct 3|Quincy Ward 1 Precinct 3
+25|021|3559|Quincy Ward 1 Precinct 4|Quincy Ward 1 Precinct 4
+25|021|3560|Quincy Ward 1 Precinct 5|Quincy Ward 1 Precinct 5
+25|021|3561|Quincy Ward 2 Precinct 1|Quincy Ward 2 Precinct 1
+25|021|3562|Quincy Ward 2 Precinct 2|Quincy Ward 2 Precinct 2
+25|021|3563|Quincy Ward 2 Precinct 3|Quincy Ward 2 Precinct 3
+25|021|3564|Quincy Ward 2 Precinct 4|Quincy Ward 2 Precinct 4
+25|021|3565|Quincy Ward 2 Precinct 5|Quincy Ward 2 Precinct 5
+25|021|3566|Quincy Ward 3 Precinct 1|Quincy Ward 3 Precinct 1
+25|021|3567|Quincy Ward 3 Precinct 2|Quincy Ward 3 Precinct 2
+25|021|3568|Quincy Ward 3 Precinct 3|Quincy Ward 3 Precinct 3
+25|021|3569|Quincy Ward 3 Precinct 4|Quincy Ward 3 Precinct 4
+25|021|3570|Quincy Ward 3 Precinct 5|Quincy Ward 3 Precinct 5
+25|021|3571|Quincy Ward 4 Precinct 1|Quincy Ward 4 Precinct 1
+25|021|3572|Quincy Ward 4 Precinct 2|Quincy Ward 4 Precinct 2
+25|021|3573|Quincy Ward 4 Precinct 3|Quincy Ward 4 Precinct 3
+25|021|3574|Quincy Ward 4 Precinct 4|Quincy Ward 4 Precinct 4
+25|021|3575|Quincy Ward 4 Precinct 5|Quincy Ward 4 Precinct 5
+25|021|3576|Quincy Ward 5 Precinct 1|Quincy Ward 5 Precinct 1
+25|021|3577|Quincy Ward 5 Precinct 2|Quincy Ward 5 Precinct 2
+25|021|3578|Quincy Ward 5 Precinct 3|Quincy Ward 5 Precinct 3
+25|021|3579|Quincy Ward 5 Precinct 4|Quincy Ward 5 Precinct 4
+25|021|3580|Quincy Ward 5 Precinct 5|Quincy Ward 5 Precinct 5
+25|021|3581|Quincy Ward 6 Precinct 1|Quincy Ward 6 Precinct 1
+25|021|3582|Quincy Ward 6 Precinct 2|Quincy Ward 6 Precinct 2
+25|021|3583|Quincy Ward 6 Precinct 3|Quincy Ward 6 Precinct 3
+25|021|3584|Quincy Ward 6 Precinct 4|Quincy Ward 6 Precinct 4
+25|021|3585|Quincy Ward 6 Precinct 5|Quincy Ward 6 Precinct 5
+25|021|3586|Randolph Precinct 1|Randolph Precinct 1
+25|021|3587|Randolph Precinct 2|Randolph Precinct 2
+25|021|3588|Randolph Precinct 3|Randolph Precinct 3
+25|021|3589|Randolph Precinct 4|Randolph Precinct 4
+25|021|3590|Randolph Precinct 5|Randolph Precinct 5
+25|021|3591|Randolph Precinct 6|Randolph Precinct 6
+25|021|3592|Randolph Precinct 7|Randolph Precinct 7
+25|021|3593|Randolph Precinct 8|Randolph Precinct 8
+25|021|3594|Sharon Precinct 1|Sharon Precinct 1
+25|021|3595|Sharon Precinct 2|Sharon Precinct 2
+25|021|3596|Sharon Precinct 3|Sharon Precinct 3
+25|021|3597|Sharon Precinct 4|Sharon Precinct 4
+25|021|3598|Sharon Precinct 5|Sharon Precinct 5
+25|021|3599|Stoughton Precinct 1|Stoughton Precinct 1
+25|021|3600|Stoughton Precinct 2|Stoughton Precinct 2
+25|021|3601|Stoughton Precinct 3|Stoughton Precinct 3
+25|021|3602|Stoughton Precinct 4|Stoughton Precinct 4
+25|021|3603|Stoughton Precinct 5|Stoughton Precinct 5
+25|021|3604|Stoughton Precinct 6|Stoughton Precinct 6
+25|021|3605|Stoughton Precinct 7|Stoughton Precinct 7
+25|021|3606|Stoughton Precinct 8|Stoughton Precinct 8
+25|021|3607|Walpole Precinct 1|Walpole Precinct 1
+25|021|3608|Walpole Precinct 2|Walpole Precinct 2
+25|021|3609|Walpole Precinct 3|Walpole Precinct 3
+25|021|3610|Walpole Precinct 4|Walpole Precinct 4
+25|021|3611|Walpole Precinct 5|Walpole Precinct 5
+25|021|3612|Walpole Precinct 6|Walpole Precinct 6
+25|021|3613|Walpole Precinct 7|Walpole Precinct 7
+25|021|3614|Walpole Precinct 8|Walpole Precinct 8
+25|021|3615|Wellesley Precinct A|Wellesley Precinct A
+25|021|3616|Wellesley Precinct B|Wellesley Precinct B
+25|021|3617|Wellesley Precinct C|Wellesley Precinct C
+25|021|3618|Wellesley Precinct D|Wellesley Precinct D
+25|021|3619|Wellesley Precinct E|Wellesley Precinct E
+25|021|3620|Wellesley Precinct F|Wellesley Precinct F
+25|021|3621|Wellesley Precinct G|Wellesley Precinct G
+25|021|3622|Westwood Precinct 1|Westwood Precinct 1
+25|021|3623|Westwood Precinct 2|Westwood Precinct 2
+25|021|3624|Westwood Precinct 3|Westwood Precinct 3
+25|021|3625|Westwood Precinct 4|Westwood Precinct 4
+25|021|3626|Weymouth Precinct 1|Weymouth Precinct 1
+25|021|3627|Weymouth Precinct 2|Weymouth Precinct 2
+25|021|3628|Weymouth Precinct 3|Weymouth Precinct 3
+25|021|3629|Weymouth Precinct 4|Weymouth Precinct 4
+25|021|3630|Weymouth Precinct 5|Weymouth Precinct 5
+25|021|3631|Weymouth Precinct 6|Weymouth Precinct 6
+25|021|3632|Weymouth Precinct 7|Weymouth Precinct 7
+25|021|3633|Weymouth Precinct 8|Weymouth Precinct 8
+25|021|3634|Weymouth Precinct 9|Weymouth Precinct 9
+25|021|3635|Weymouth Precinct 10|Weymouth Precinct 10
+25|021|3636|Weymouth Precinct 11|Weymouth Precinct 11
+25|021|3637|Weymouth Precinct 12|Weymouth Precinct 12
+25|021|3638|Weymouth Precinct 13|Weymouth Precinct 13
+25|021|3639|Weymouth Precinct 14|Weymouth Precinct 14
+25|021|3640|Weymouth Precinct 15|Weymouth Precinct 15
+25|021|3641|Weymouth Precinct 16|Weymouth Precinct 16
+25|021|3642|Weymouth Precinct 17|Weymouth Precinct 17
+25|021|3643|Weymouth Precinct 18|Weymouth Precinct 18
+25|021|3644|Wrentham Precinct 1|Wrentham Precinct 1
+25|021|3645|Wrentham Precinct 2|Wrentham Precinct 2
+25|021|3646|Wrentham Precinct 3|Wrentham Precinct 3
+25|021|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+25|023|3647|Abington Precinct 1|Abington Precinct 1
+25|023|3648|Abington Precinct 2|Abington Precinct 2
+25|023|3649|Abington Precinct 3|Abington Precinct 3
+25|023|3650|Abington Precinct 4|Abington Precinct 4
+25|023|3651|Bridgewater Precinct 1|Bridgewater Precinct 1
+25|023|3652|Bridgewater Precinct 2|Bridgewater Precinct 2
+25|023|3653|Bridgewater Precinct 3|Bridgewater Precinct 3
+25|023|3654|Bridgewater Precinct 4|Bridgewater Precinct 4
+25|023|3655|Bridgewater Precinct 5|Bridgewater Precinct 5
+25|023|3656|Bridgewater Precinct 6|Bridgewater Precinct 6
+25|023|3657|Bridgewater Precinct 7|Bridgewater Precinct 7
+25|023|3658|Brockton Ward 1 Precinct A|Brockton Ward 1 Precinct A
+25|023|3659|Brockton Ward 1 Precinct B|Brockton Ward 1 Precinct B
+25|023|3660|Brockton Ward 1 Precinct C|Brockton Ward 1 Precinct C
+25|023|3661|Brockton Ward 1 Precinct D|Brockton Ward 1 Precinct D
+25|023|3662|Brockton Ward 2 Precinct A|Brockton Ward 2 Precinct A
+25|023|3663|Brockton Ward 2 Precinct B|Brockton Ward 2 Precinct B
+25|023|3664|Brockton Ward 2 Precinct C|Brockton Ward 2 Precinct C
+25|023|3665|Brockton Ward 2 Precinct D|Brockton Ward 2 Precinct D
+25|023|3666|Brockton Ward 3 Precinct A|Brockton Ward 3 Precinct A
+25|023|3667|Brockton Ward 3 Precinct B|Brockton Ward 3 Precinct B
+25|023|3668|Brockton Ward 3 Precinct C|Brockton Ward 3 Precinct C
+25|023|3669|Brockton Ward 3 Precinct D|Brockton Ward 3 Precinct D
+25|023|3670|Brockton Ward 4 Precinct A|Brockton Ward 4 Precinct A
+25|023|3671|Brockton Ward 4 Precinct B|Brockton Ward 4 Precinct B
+25|023|3672|Brockton Ward 4 Precinct C|Brockton Ward 4 Precinct C
+25|023|3673|Brockton Ward 4 Precinct D|Brockton Ward 4 Precinct D
+25|023|3674|Brockton Ward 5 Precinct A|Brockton Ward 5 Precinct A
+25|023|3675|Brockton Ward 5 Precinct B|Brockton Ward 5 Precinct B
+25|023|3676|Brockton Ward 5 Precinct C|Brockton Ward 5 Precinct C
+25|023|3677|Brockton Ward 5 Precinct D|Brockton Ward 5 Precinct D
+25|023|3678|Brockton Ward 6 Precinct A|Brockton Ward 6 Precinct A
+25|023|3679|Brockton Ward 6 Precinct B|Brockton Ward 6 Precinct B
+25|023|3680|Brockton Ward 6 Precinct C|Brockton Ward 6 Precinct C
+25|023|3681|Brockton Ward 6 Precinct D|Brockton Ward 6 Precinct D
+25|023|3682|Brockton Ward 7 Precinct A|Brockton Ward 7 Precinct A
+25|023|3683|Brockton Ward 7 Precinct B|Brockton Ward 7 Precinct B
+25|023|3684|Brockton Ward 7 Precinct C|Brockton Ward 7 Precinct C
+25|023|3685|Brockton Ward 7 Precinct D|Brockton Ward 7 Precinct D
+25|023|3686|Carver Precinct 1|Carver Precinct 1
+25|023|3687|Carver Precinct 2|Carver Precinct 2
+25|023|3688|Carver Precinct 3|Carver Precinct 3
+25|023|3689|Duxbury Precinct 1|Duxbury Precinct 1
+25|023|3690|Duxbury Precinct 2|Duxbury Precinct 2
+25|023|3691|Duxbury Precinct 3|Duxbury Precinct 3
+25|023|3692|Duxbury Precinct 4|Duxbury Precinct 4
+25|023|3693|Duxbury Precinct 5|Duxbury Precinct 5
+25|023|3694|Duxbury Precinct 6|Duxbury Precinct 6
+25|023|3695|East Bridgewater Precinct 1|East Bridgewater Precinct 1
+25|023|3696|East Bridgewater Precinct 2|East Bridgewater Precinct 2
+25|023|3697|East Bridgewater Precinct 3|East Bridgewater Precinct 3
+25|023|3698|East Bridgewater Precinct 4|East Bridgewater Precinct 4
+25|023|3699|Halifax Precinct 1|Halifax Precinct 1
+25|023|3700|Halifax Precinct 2|Halifax Precinct 2
+25|023|3701|Hanover Precinct 1|Hanover Precinct 1
+25|023|3702|Hanover Precinct 2|Hanover Precinct 2
+25|023|3703|Hanover Precinct 3|Hanover Precinct 3
+25|023|3704|Hanover Precinct 4|Hanover Precinct 4
+25|023|3705|Hanson Precinct 1|Hanson Precinct 1
+25|023|3706|Hanson Precinct 2|Hanson Precinct 2
+25|023|3707|Hanson Precinct 3|Hanson Precinct 3
+25|023|3708|Hingham Precinct 1|Hingham Precinct 1
+25|023|3709|Hingham Precinct 2|Hingham Precinct 2
+25|023|3710|Hingham Precinct 3|Hingham Precinct 3
+25|023|3711|Hingham Precinct 4|Hingham Precinct 4
+25|023|3712|Hingham Precinct 5|Hingham Precinct 5
+25|023|3713|Hingham Precinct 6|Hingham Precinct 6
+25|023|3714|Hull Precinct 1|Hull Precinct 1
+25|023|3715|Hull Precinct 2|Hull Precinct 2
+25|023|3716|Hull Precinct 3|Hull Precinct 3
+25|023|3717|Kingston Precinct 1|Kingston Precinct 1
+25|023|3718|Kingston Precinct 2|Kingston Precinct 2
+25|023|3719|Kingston Precinct 3|Kingston Precinct 3
+25|023|3720|Kingston Precinct 4|Kingston Precinct 4
+25|023|3721|Lakeville Precinct 1|Lakeville Precinct 1
+25|023|3722|Lakeville Precinct 2|Lakeville Precinct 2
+25|023|3723|Lakeville Precinct 3|Lakeville Precinct 3
+25|023|3724|Marion Precinct 1|Marion Precinct 1
+25|023|3725|Marshfield Precinct 1|Marshfield Precinct 1
+25|023|3726|Marshfield Precinct 2|Marshfield Precinct 2
+25|023|3727|Marshfield Precinct 3|Marshfield Precinct 3
+25|023|3728|Marshfield Precinct 4|Marshfield Precinct 4
+25|023|3729|Marshfield Precinct 5|Marshfield Precinct 5
+25|023|3730|Marshfield Precinct 6|Marshfield Precinct 6
+25|023|3731|Marshfield Precinct 7|Marshfield Precinct 7
+25|023|3732|Mattapoisett Precinct 1|Mattapoisett Precinct 1
+25|023|3733|Mattapoisett Precinct 2|Mattapoisett Precinct 2
+25|023|3734|Middleborough Precinct 1|Middleborough Precinct 1
+25|023|3735|Middleborough Precinct 2|Middleborough Precinct 2
+25|023|3736|Middleborough Precinct 3|Middleborough Precinct 3
+25|023|3737|Middleborough Precinct 4|Middleborough Precinct 4
+25|023|3738|Middleborough Precinct 5|Middleborough Precinct 5
+25|023|3739|Middleborough Precinct 6|Middleborough Precinct 6
+25|023|3740|Norwell Precinct 1|Norwell Precinct 1
+25|023|3741|Norwell Precinct 2|Norwell Precinct 2
+25|023|3742|Norwell Precinct 3|Norwell Precinct 3
+25|023|3743|Pembroke Precinct 1|Pembroke Precinct 1
+25|023|3744|Pembroke Precinct 2|Pembroke Precinct 2
+25|023|3745|Pembroke Precinct 3|Pembroke Precinct 3
+25|023|3746|Pembroke Precinct 4|Pembroke Precinct 4
+25|023|3747|Pembroke Precinct 5|Pembroke Precinct 5
+25|023|3748|Plymouth Precinct 1|Plymouth Precinct 1
+25|023|3749|Plymouth Precinct 2|Plymouth Precinct 2
+25|023|3750|Plymouth Precinct 3|Plymouth Precinct 3
+25|023|3751|Plymouth Precinct 4|Plymouth Precinct 4
+25|023|3752|Plymouth Precinct 5|Plymouth Precinct 5
+25|023|3753|Plymouth Precinct 6|Plymouth Precinct 6
+25|023|3754|Plymouth Precinct 7|Plymouth Precinct 7
+25|023|3755|Plymouth Precinct 8|Plymouth Precinct 8
+25|023|3756|Plymouth Precinct 9|Plymouth Precinct 9
+25|023|3757|Plymouth Precinct 10|Plymouth Precinct 10
+25|023|3758|Plymouth Precinct 11|Plymouth Precinct 11
+25|023|3759|Plymouth Precinct 12|Plymouth Precinct 12
+25|023|3760|Plymouth Precinct 13|Plymouth Precinct 13
+25|023|3761|Plymouth Precinct 14|Plymouth Precinct 14
+25|023|3762|Plympton Precinct 1|Plympton Precinct 1
+25|023|3763|Rochester Precinct 1|Rochester Precinct 1
+25|023|3764|Rockland Precinct 1|Rockland Precinct 1
+25|023|3765|Rockland Precinct 2|Rockland Precinct 2
+25|023|3766|Rockland Precinct 3|Rockland Precinct 3
+25|023|3767|Rockland Precinct 4|Rockland Precinct 4
+25|023|3768|Rockland Precinct 5|Rockland Precinct 5
+25|023|3769|Rockland Precinct 6|Rockland Precinct 6
+25|023|3770|Scituate Precinct 1|Scituate Precinct 1
+25|023|3771|Scituate Precinct 2|Scituate Precinct 2
+25|023|3772|Scituate Precinct 3|Scituate Precinct 3
+25|023|3773|Scituate Precinct 4|Scituate Precinct 4
+25|023|3774|Scituate Precinct 5|Scituate Precinct 5
+25|023|3775|Scituate Precinct 6|Scituate Precinct 6
+25|023|3776|Wareham Precinct 1|Wareham Precinct 1
+25|023|3777|Wareham Precinct 2|Wareham Precinct 2
+25|023|3778|Wareham Precinct 3|Wareham Precinct 3
+25|023|3779|Wareham Precinct 4|Wareham Precinct 4
+25|023|3780|Wareham Precinct 5|Wareham Precinct 5
+25|023|3781|Wareham Precinct 6|Wareham Precinct 6
+25|023|3782|West Bridgewater Precinct 1|West Bridgewater Precinct 1
+25|023|3783|West Bridgewater Precinct 2|West Bridgewater Precinct 2
+25|023|3784|Whitman Precinct 1|Whitman Precinct 1
+25|023|3785|Whitman Precinct 2|Whitman Precinct 2
+25|023|3786|Whitman Precinct 3|Whitman Precinct 3
+25|023|3787|Whitman Precinct 4|Whitman Precinct 4
+25|023|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+25|025|0005|Boston Ward 1 Precinct 1|Boston Ward 1 Precinct 1
+25|025|0010|Boston Ward 1 Precinct 2|Boston Ward 1 Precinct 2
+25|025|0015|Boston Ward 1 Precinct 3|Boston Ward 1 Precinct 3
+25|025|0020|Boston Ward 1 Precinct 4|Boston Ward 1 Precinct 4
+25|025|0025|Boston Ward 1 Precinct 5|Boston Ward 1 Precinct 5
+25|025|0030|Boston Ward 1 Precinct 6|Boston Ward 1 Precinct 6
+25|025|0035|Boston Ward 1 Precinct 7|Boston Ward 1 Precinct 7
+25|025|0040|Boston Ward 1 Precinct 8|Boston Ward 1 Precinct 8
+25|025|0045|Boston Ward 1 Precinct 9|Boston Ward 1 Precinct 9
+25|025|0050|Boston Ward 1 Precinct 10|Boston Ward 1 Precinct 10
+25|025|0055|Boston Ward 1 Precinct 11|Boston Ward 1 Precinct 11
+25|025|0060|Boston Ward 1 Precinct 12|Boston Ward 1 Precinct 12
+25|025|0065|Boston Ward 1 Precinct 13|Boston Ward 1 Precinct 13
+25|025|0070|Boston Ward 1 Precinct 14|Boston Ward 1 Precinct 14
+25|025|0075|Boston Ward 2 Precinct 1|Boston Ward 2 Precinct 1
+25|025|0080|Boston Ward 2 Precinct 2|Boston Ward 2 Precinct 2
+25|025|0085|Boston Ward 2 Precinct 3|Boston Ward 2 Precinct 3
+25|025|0090|Boston Ward 2 Precinct 4|Boston Ward 2 Precinct 4
+25|025|0095|Boston Ward 2 Precinct 5|Boston Ward 2 Precinct 5
+25|025|0100|Boston Ward 2 Precinct 6|Boston Ward 2 Precinct 6
+25|025|0105|Boston Ward 2 Precinct 7|Boston Ward 2 Precinct 7
+25|025|0110|Boston Ward 3 Precinct 1|Boston Ward 3 Precinct 1
+25|025|0115|Boston Ward 3 Precinct 2|Boston Ward 3 Precinct 2
+25|025|0120|Boston Ward 3 Precinct 3|Boston Ward 3 Precinct 3
+25|025|0125|Boston Ward 3 Precinct 4|Boston Ward 3 Precinct 4
+25|025|0130|Boston Ward 3 Precinct 5|Boston Ward 3 Precinct 5
+25|025|0135|Boston Ward 3 Precinct 6|Boston Ward 3 Precinct 6
+25|025|0140|Boston Ward 3 Precinct 7|Boston Ward 3 Precinct 7
+25|025|0145|Boston Ward 3 Precinct 8|Boston Ward 3 Precinct 8
+25|025|0150|Boston Ward 4 Precinct 1|Boston Ward 4 Precinct 1
+25|025|0155|Boston Ward 4 Precinct 2|Boston Ward 4 Precinct 2
+25|025|0160|Boston Ward 4 Precinct 3|Boston Ward 4 Precinct 3
+25|025|0165|Boston Ward 4 Precinct 4|Boston Ward 4 Precinct 4
+25|025|0170|Boston Ward 4 Precinct 5|Boston Ward 4 Precinct 5
+25|025|0175|Boston Ward 4 Precinct 6|Boston Ward 4 Precinct 6
+25|025|0180|Boston Ward 4 Precinct 7|Boston Ward 4 Precinct 7
+25|025|0185|Boston Ward 4 Precinct 8|Boston Ward 4 Precinct 8
+25|025|0190|Boston Ward 4 Precinct 9|Boston Ward 4 Precinct 9
+25|025|0195|Boston Ward 4 Precinct 10|Boston Ward 4 Precinct 10
+25|025|0200|Boston Ward 5 Precinct 1|Boston Ward 5 Precinct 1
+25|025|0205|Boston Ward 5 Precinct 2|Boston Ward 5 Precinct 2
+25|025|0210|Boston Ward 5 Precinct 3|Boston Ward 5 Precinct 3
+25|025|0215|Boston Ward 5 Precinct 4|Boston Ward 5 Precinct 4
+25|025|0220|Boston Ward 5 Precinct 5|Boston Ward 5 Precinct 5
+25|025|0225|Boston Ward 5 Precinct 6|Boston Ward 5 Precinct 6
+25|025|0230|Boston Ward 5 Precinct 7|Boston Ward 5 Precinct 7
+25|025|0235|Boston Ward 5 Precinct 8|Boston Ward 5 Precinct 8
+25|025|0240|Boston Ward 5 Precinct 9|Boston Ward 5 Precinct 9
+25|025|0245|Boston Ward 5 Precinct 10|Boston Ward 5 Precinct 10
+25|025|0250|Boston Ward 5 Precinct 11|Boston Ward 5 Precinct 11
+25|025|0251|Boston Ward 6 Precinct 1|Boston Ward 6 Precinct 1
+25|025|0255|Boston Ward 6 Precinct 2|Boston Ward 6 Precinct 2
+25|025|0260|Boston Ward 6 Precinct 3|Boston Ward 6 Precinct 3
+25|025|0265|Boston Ward 6 Precinct 4|Boston Ward 6 Precinct 4
+25|025|0270|Boston Ward 6 Precinct 5|Boston Ward 6 Precinct 5
+25|025|0275|Boston Ward 6 Precinct 6|Boston Ward 6 Precinct 6
+25|025|0280|Boston Ward 6 Precinct 7|Boston Ward 6 Precinct 7
+25|025|0285|Boston Ward 6 Precinct 8|Boston Ward 6 Precinct 8
+25|025|0290|Boston Ward 6 Precinct 9|Boston Ward 6 Precinct 9
+25|025|0295|Boston Ward 7 Precinct 1|Boston Ward 7 Precinct 1
+25|025|0300|Boston Ward 7 Precinct 2|Boston Ward 7 Precinct 2
+25|025|0305|Boston Ward 7 Precinct 3|Boston Ward 7 Precinct 3
+25|025|0310|Boston Ward 7 Precinct 4|Boston Ward 7 Precinct 4
+25|025|0315|Boston Ward 7 Precinct 5|Boston Ward 7 Precinct 5
+25|025|0320|Boston Ward 7 Precinct 6|Boston Ward 7 Precinct 6
+25|025|0325|Boston Ward 7 Precinct 7|Boston Ward 7 Precinct 7
+25|025|0330|Boston Ward 7 Precinct 8|Boston Ward 7 Precinct 8
+25|025|0335|Boston Ward 7 Precinct 9|Boston Ward 7 Precinct 9
+25|025|0340|Boston Ward 7 Precinct 10|Boston Ward 7 Precinct 10
+25|025|0345|Boston Ward 8 Precinct 1|Boston Ward 8 Precinct 1
+25|025|0350|Boston Ward 8 Precinct 2|Boston Ward 8 Precinct 2
+25|025|0355|Boston Ward 8 Precinct 3|Boston Ward 8 Precinct 3
+25|025|0360|Boston Ward 8 Precinct 4|Boston Ward 8 Precinct 4
+25|025|0365|Boston Ward 8 Precinct 5|Boston Ward 8 Precinct 5
+25|025|0370|Boston Ward 8 Precinct 6|Boston Ward 8 Precinct 6
+25|025|0375|Boston Ward 8 Precinct 7|Boston Ward 8 Precinct 7
+25|025|0380|Boston Ward 9 Precinct 1|Boston Ward 9 Precinct 1
+25|025|0385|Boston Ward 9 Precinct 2|Boston Ward 9 Precinct 2
+25|025|0390|Boston Ward 9 Precinct 3|Boston Ward 9 Precinct 3
+25|025|0395|Boston Ward 9 Precinct 4|Boston Ward 9 Precinct 4
+25|025|0400|Boston Ward 9 Precinct 5|Boston Ward 9 Precinct 5
+25|025|0405|Boston Ward 10 Precinct 1|Boston Ward 10 Precinct 1
+25|025|0410|Boston Ward 10 Precinct 2|Boston Ward 10 Precinct 2
+25|025|0415|Boston Ward 10 Precinct 3|Boston Ward 10 Precinct 3
+25|025|0420|Boston Ward 10 Precinct 4|Boston Ward 10 Precinct 4
+25|025|0425|Boston Ward 10 Precinct 5|Boston Ward 10 Precinct 5
+25|025|0430|Boston Ward 10 Precinct 6|Boston Ward 10 Precinct 6
+25|025|0435|Boston Ward 10 Precinct 7|Boston Ward 10 Precinct 7
+25|025|0440|Boston Ward 10 Precinct 8|Boston Ward 10 Precinct 8
+25|025|0445|Boston Ward 10 Precinct 9|Boston Ward 10 Precinct 9
+25|025|0450|Boston Ward 11 Precinct 1|Boston Ward 11 Precinct 1
+25|025|0455|Boston Ward 11 Precinct 2|Boston Ward 11 Precinct 2
+25|025|0460|Boston Ward 11 Precinct 3|Boston Ward 11 Precinct 3
+25|025|0465|Boston Ward 11 Precinct 4|Boston Ward 11 Precinct 4
+25|025|0470|Boston Ward 11 Precinct 5|Boston Ward 11 Precinct 5
+25|025|0475|Boston Ward 11 Precinct 6|Boston Ward 11 Precinct 6
+25|025|0480|Boston Ward 11 Precinct 7|Boston Ward 11 Precinct 7
+25|025|0485|Boston Ward 11 Precinct 8|Boston Ward 11 Precinct 8
+25|025|0490|Boston Ward 11 Precinct 9|Boston Ward 11 Precinct 9
+25|025|0495|Boston Ward 11 Precinct 10|Boston Ward 11 Precinct 10
+25|025|0500|Boston Ward 12 Precinct 1|Boston Ward 12 Precinct 1
+25|025|0505|Boston Ward 12 Precinct 2|Boston Ward 12 Precinct 2
+25|025|0510|Boston Ward 12 Precinct 3|Boston Ward 12 Precinct 3
+25|025|0515|Boston Ward 12 Precinct 4|Boston Ward 12 Precinct 4
+25|025|0520|Boston Ward 12 Precinct 5|Boston Ward 12 Precinct 5
+25|025|0525|Boston Ward 12 Precinct 6|Boston Ward 12 Precinct 6
+25|025|0530|Boston Ward 12 Precinct 7|Boston Ward 12 Precinct 7
+25|025|0535|Boston Ward 12 Precinct 8|Boston Ward 12 Precinct 8
+25|025|0540|Boston Ward 12 Precinct 9|Boston Ward 12 Precinct 9
+25|025|0545|Boston Ward 13 Precinct 1|Boston Ward 13 Precinct 1
+25|025|0550|Boston Ward 13 Precinct 2|Boston Ward 13 Precinct 2
+25|025|0555|Boston Ward 13 Precinct 3|Boston Ward 13 Precinct 3
+25|025|0560|Boston Ward 13 Precinct 4|Boston Ward 13 Precinct 4
+25|025|0565|Boston Ward 13 Precinct 5|Boston Ward 13 Precinct 5
+25|025|0570|Boston Ward 13 Precinct 6|Boston Ward 13 Precinct 6
+25|025|0575|Boston Ward 13 Precinct 7|Boston Ward 13 Precinct 7
+25|025|0580|Boston Ward 13 Precinct 8|Boston Ward 13 Precinct 8
+25|025|0585|Boston Ward 13 Precinct 9|Boston Ward 13 Precinct 9
+25|025|0590|Boston Ward 13 Precinct 10|Boston Ward 13 Precinct 10
+25|025|0595|Boston Ward 14 Precinct 1|Boston Ward 14 Precinct 1
+25|025|0600|Boston Ward 14 Precinct 2|Boston Ward 14 Precinct 2
+25|025|0605|Boston Ward 14 Precinct 3|Boston Ward 14 Precinct 3
+25|025|0610|Boston Ward 14 Precinct 4|Boston Ward 14 Precinct 4
+25|025|0615|Boston Ward 14 Precinct 5|Boston Ward 14 Precinct 5
+25|025|0620|Boston Ward 14 Precinct 6|Boston Ward 14 Precinct 6
+25|025|0625|Boston Ward 14 Precinct 7|Boston Ward 14 Precinct 7
+25|025|0630|Boston Ward 14 Precinct 8|Boston Ward 14 Precinct 8
+25|025|0635|Boston Ward 14 Precinct 9|Boston Ward 14 Precinct 9
+25|025|0640|Boston Ward 14 Precinct 10|Boston Ward 14 Precinct 10
+25|025|0645|Boston Ward 14 Precinct 11|Boston Ward 14 Precinct 11
+25|025|0650|Boston Ward 14 Precinct 12|Boston Ward 14 Precinct 12
+25|025|0655|Boston Ward 14 Precinct 13|Boston Ward 14 Precinct 13
+25|025|0660|Boston Ward 14 Precinct 14|Boston Ward 14 Precinct 14
+25|025|0665|Boston Ward 15 Precinct 1|Boston Ward 15 Precinct 1
+25|025|0670|Boston Ward 15 Precinct 2|Boston Ward 15 Precinct 2
+25|025|0675|Boston Ward 15 Precinct 3|Boston Ward 15 Precinct 3
+25|025|0680|Boston Ward 15 Precinct 4|Boston Ward 15 Precinct 4
+25|025|0685|Boston Ward 15 Precinct 5|Boston Ward 15 Precinct 5
+25|025|0690|Boston Ward 15 Precinct 6|Boston Ward 15 Precinct 6
+25|025|0695|Boston Ward 15 Precinct 7|Boston Ward 15 Precinct 7
+25|025|0700|Boston Ward 15 Precinct 8|Boston Ward 15 Precinct 8
+25|025|0705|Boston Ward 15 Precinct 9|Boston Ward 15 Precinct 9
+25|025|0710|Boston Ward 16 Precinct 1|Boston Ward 16 Precinct 1
+25|025|0715|Boston Ward 16 Precinct 2|Boston Ward 16 Precinct 2
+25|025|0720|Boston Ward 16 Precinct 3|Boston Ward 16 Precinct 3
+25|025|0725|Boston Ward 16 Precinct 4|Boston Ward 16 Precinct 4
+25|025|0730|Boston Ward 16 Precinct 5|Boston Ward 16 Precinct 5
+25|025|0735|Boston Ward 16 Precinct 6|Boston Ward 16 Precinct 6
+25|025|0740|Boston Ward 16 Precinct 7|Boston Ward 16 Precinct 7
+25|025|0745|Boston Ward 16 Precinct 8|Boston Ward 16 Precinct 8
+25|025|0750|Boston Ward 16 Precinct 9|Boston Ward 16 Precinct 9
+25|025|0755|Boston Ward 16 Precinct 10|Boston Ward 16 Precinct 10
+25|025|0760|Boston Ward 16 Precinct 11|Boston Ward 16 Precinct 11
+25|025|0765|Boston Ward 16 Precinct 12|Boston Ward 16 Precinct 12
+25|025|0770|Boston Ward 17 Precinct 1|Boston Ward 17 Precinct 1
+25|025|0775|Boston Ward 17 Precinct 2|Boston Ward 17 Precinct 2
+25|025|0780|Boston Ward 17 Precinct 3|Boston Ward 17 Precinct 3
+25|025|0785|Boston Ward 17 Precinct 4|Boston Ward 17 Precinct 4
+25|025|0790|Boston Ward 17 Precinct 5|Boston Ward 17 Precinct 5
+25|025|0795|Boston Ward 17 Precinct 6|Boston Ward 17 Precinct 6
+25|025|0800|Boston Ward 17 Precinct 7|Boston Ward 17 Precinct 7
+25|025|0805|Boston Ward 17 Precinct 8|Boston Ward 17 Precinct 8
+25|025|0810|Boston Ward 17 Precinct 9|Boston Ward 17 Precinct 9
+25|025|0815|Boston Ward 17 Precinct 10|Boston Ward 17 Precinct 10
+25|025|0820|Boston Ward 17 Precinct 11|Boston Ward 17 Precinct 11
+25|025|0825|Boston Ward 17 Precinct 12|Boston Ward 17 Precinct 12
+25|025|0830|Boston Ward 17 Precinct 13|Boston Ward 17 Precinct 13
+25|025|0835|Boston Ward 17 Precinct 14|Boston Ward 17 Precinct 14
+25|025|0840|Boston Ward 18 Precinct 1|Boston Ward 18 Precinct 1
+25|025|0845|Boston Ward 18 Precinct 2|Boston Ward 18 Precinct 2
+25|025|0850|Boston Ward 18 Precinct 3|Boston Ward 18 Precinct 3
+25|025|0855|Boston Ward 18 Precinct 4|Boston Ward 18 Precinct 4
+25|025|0860|Boston Ward 18 Precinct 5|Boston Ward 18 Precinct 5
+25|025|0865|Boston Ward 18 Precinct 6|Boston Ward 18 Precinct 6
+25|025|0870|Boston Ward 18 Precinct 7|Boston Ward 18 Precinct 7
+25|025|0875|Boston Ward 18 Precinct 8|Boston Ward 18 Precinct 8
+25|025|0880|Boston Ward 18 Precinct 9|Boston Ward 18 Precinct 9
+25|025|0885|Boston Ward 18 Precinct 10|Boston Ward 18 Precinct 10
+25|025|0890|Boston Ward 18 Precinct 11|Boston Ward 18 Precinct 11
+25|025|0895|Boston Ward 18 Precinct 12|Boston Ward 18 Precinct 12
+25|025|0900|Boston Ward 18 Precinct 13|Boston Ward 18 Precinct 13
+25|025|0905|Boston Ward 18 Precinct 14|Boston Ward 18 Precinct 14
+25|025|0910|Boston Ward 18 Precinct 15|Boston Ward 18 Precinct 15
+25|025|0915|Boston Ward 18 Precinct 16|Boston Ward 18 Precinct 16
+25|025|0920|Boston Ward 18 Precinct 17|Boston Ward 18 Precinct 17
+25|025|0925|Boston Ward 18 Precinct 18|Boston Ward 18 Precinct 18
+25|025|0930|Boston Ward 18 Precinct 19|Boston Ward 18 Precinct 19
+25|025|0935|Boston Ward 18 Precinct 20|Boston Ward 18 Precinct 20
+25|025|0940|Boston Ward 18 Precinct 21|Boston Ward 18 Precinct 21
+25|025|0945|Boston Ward 18 Precinct 22|Boston Ward 18 Precinct 22
+25|025|0950|Boston Ward 18 Precinct 23|Boston Ward 18 Precinct 23
+25|025|0955|Boston Ward 19 Precinct 1|Boston Ward 19 Precinct 1
+25|025|0960|Boston Ward 19 Precinct 2|Boston Ward 19 Precinct 2
+25|025|0965|Boston Ward 19 Precinct 3|Boston Ward 19 Precinct 3
+25|025|0970|Boston Ward 19 Precinct 4|Boston Ward 19 Precinct 4
+25|025|0975|Boston Ward 19 Precinct 5|Boston Ward 19 Precinct 5
+25|025|0980|Boston Ward 19 Precinct 6|Boston Ward 19 Precinct 6
+25|025|0985|Boston Ward 19 Precinct 7|Boston Ward 19 Precinct 7
+25|025|0990|Boston Ward 19 Precinct 8|Boston Ward 19 Precinct 8
+25|025|0995|Boston Ward 19 Precinct 9|Boston Ward 19 Precinct 9
+25|025|1000|Boston Ward 19 Precinct 10|Boston Ward 19 Precinct 10
+25|025|1005|Boston Ward 19 Precinct 11|Boston Ward 19 Precinct 11
+25|025|1010|Boston Ward 19 Precinct 12|Boston Ward 19 Precinct 12
+25|025|1015|Boston Ward 19 Precinct 13|Boston Ward 19 Precinct 13
+25|025|1020|Boston Ward 20 Precinct 1|Boston Ward 20 Precinct 1
+25|025|1025|Boston Ward 20 Precinct 2|Boston Ward 20 Precinct 2
+25|025|1030|Boston Ward 20 Precinct 3|Boston Ward 20 Precinct 3
+25|025|1035|Boston Ward 20 Precinct 4|Boston Ward 20 Precinct 4
+25|025|1040|Boston Ward 20 Precinct 5|Boston Ward 20 Precinct 5
+25|025|1045|Boston Ward 20 Precinct 6|Boston Ward 20 Precinct 6
+25|025|1050|Boston Ward 20 Precinct 7|Boston Ward 20 Precinct 7
+25|025|1055|Boston Ward 20 Precinct 8|Boston Ward 20 Precinct 8
+25|025|1060|Boston Ward 20 Precinct 9|Boston Ward 20 Precinct 9
+25|025|1065|Boston Ward 20 Precinct 10|Boston Ward 20 Precinct 10
+25|025|1070|Boston Ward 20 Precinct 11|Boston Ward 20 Precinct 11
+25|025|1075|Boston Ward 20 Precinct 12|Boston Ward 20 Precinct 12
+25|025|1080|Boston Ward 20 Precinct 13|Boston Ward 20 Precinct 13
+25|025|1085|Boston Ward 20 Precinct 14|Boston Ward 20 Precinct 14
+25|025|1090|Boston Ward 20 Precinct 15|Boston Ward 20 Precinct 15
+25|025|1095|Boston Ward 20 Precinct 16|Boston Ward 20 Precinct 16
+25|025|1100|Boston Ward 20 Precinct 17|Boston Ward 20 Precinct 17
+25|025|1105|Boston Ward 20 Precinct 18|Boston Ward 20 Precinct 18
+25|025|1110|Boston Ward 20 Precinct 19|Boston Ward 20 Precinct 19
+25|025|1115|Boston Ward 20 Precinct 20|Boston Ward 20 Precinct 20
+25|025|1120|Boston Ward 21 Precinct 1|Boston Ward 21 Precinct 1
+25|025|1125|Boston Ward 21 Precinct 2|Boston Ward 21 Precinct 2
+25|025|1130|Boston Ward 21 Precinct 3|Boston Ward 21 Precinct 3
+25|025|1135|Boston Ward 21 Precinct 4|Boston Ward 21 Precinct 4
+25|025|1140|Boston Ward 21 Precinct 5|Boston Ward 21 Precinct 5
+25|025|1145|Boston Ward 21 Precinct 6|Boston Ward 21 Precinct 6
+25|025|1150|Boston Ward 21 Precinct 7|Boston Ward 21 Precinct 7
+25|025|1155|Boston Ward 21 Precinct 8|Boston Ward 21 Precinct 8
+25|025|1160|Boston Ward 21 Precinct 9|Boston Ward 21 Precinct 9
+25|025|1165|Boston Ward 21 Precinct 10|Boston Ward 21 Precinct 10
+25|025|1170|Boston Ward 21 Precinct 11|Boston Ward 21 Precinct 11
+25|025|1175|Boston Ward 21 Precinct 12|Boston Ward 21 Precinct 12
+25|025|1180|Boston Ward 21 Precinct 13|Boston Ward 21 Precinct 13
+25|025|1185|Boston Ward 21 Precinct 14|Boston Ward 21 Precinct 14
+25|025|1190|Boston Ward 21 Precinct 15|Boston Ward 21 Precinct 15
+25|025|1195|Boston Ward 21 Precinct 16|Boston Ward 21 Precinct 16
+25|025|1200|Boston Ward 22 Precinct 1|Boston Ward 22 Precinct 1
+25|025|1205|Boston Ward 22 Precinct 2|Boston Ward 22 Precinct 2
+25|025|1210|Boston Ward 22 Precinct 3|Boston Ward 22 Precinct 3
+25|025|1215|Boston Ward 22 Precinct 4|Boston Ward 22 Precinct 4
+25|025|1220|Boston Ward 22 Precinct 5|Boston Ward 22 Precinct 5
+25|025|1225|Boston Ward 22 Precinct 6|Boston Ward 22 Precinct 6
+25|025|1230|Boston Ward 22 Precinct 7|Boston Ward 22 Precinct 7
+25|025|1235|Boston Ward 22 Precinct 8|Boston Ward 22 Precinct 8
+25|025|1240|Boston Ward 22 Precinct 9|Boston Ward 22 Precinct 9
+25|025|1245|Boston Ward 22 Precinct 10|Boston Ward 22 Precinct 10
+25|025|1250|Boston Ward 22 Precinct 11|Boston Ward 22 Precinct 11
+25|025|1255|Boston Ward 22 Precinct 12|Boston Ward 22 Precinct 12
+25|025|1260|Boston Ward 22 Precinct 13|Boston Ward 22 Precinct 13
+25|025|1430|Boston Ward 1 Precinct 15|Boston Ward 1 Precinct 15
+25|025|1885|Chelsea Ward 1 Precinct 1|Chelsea Ward 1 Precinct 1
+25|025|1886|Chelsea Ward 1 Precinct 2|Chelsea Ward 1 Precinct 2
+25|025|1887|Chelsea Ward 1 Precinct 3|Chelsea Ward 1 Precinct 3
+25|025|1888|Chelsea Ward 1 Precinct 4|Chelsea Ward 1 Precinct 4
+25|025|1889|Chelsea Ward 2 Precinct 1|Chelsea Ward 2 Precinct 1
+25|025|1890|Chelsea Ward 2 Precinct 2|Chelsea Ward 2 Precinct 2
+25|025|1891|Chelsea Ward 2 Precinct 3|Chelsea Ward 2 Precinct 3
+25|025|1892|Chelsea Ward 2 Precinct 4|Chelsea Ward 2 Precinct 4
+25|025|1893|Chelsea Ward 3 Precinct 1|Chelsea Ward 3 Precinct 1
+25|025|1894|Chelsea Ward 3 Precinct 2|Chelsea Ward 3 Precinct 2
+25|025|1895|Chelsea Ward 3 Precinct 3|Chelsea Ward 3 Precinct 3
+25|025|1896|Chelsea Ward 3 Precinct 4|Chelsea Ward 3 Precinct 4
+25|025|1897|Chelsea Ward 4 Precinct 1|Chelsea Ward 4 Precinct 1
+25|025|1898|Chelsea Ward 4 Precinct 2|Chelsea Ward 4 Precinct 2
+25|025|1899|Chelsea Ward 4 Precinct 3|Chelsea Ward 4 Precinct 3
+25|025|1900|Chelsea Ward 4 Precinct 4|Chelsea Ward 4 Precinct 4
+25|025|1901|Revere Ward 1 Precinct 1|Revere Ward 1 Precinct 1
+25|025|1902|Revere Ward 1 Precinct 2|Revere Ward 1 Precinct 2
+25|025|1903|Revere Ward 1 Precinct 3|Revere Ward 1 Precinct 3
+25|025|1904|Revere Ward 2 Precinct 1|Revere Ward 2 Precinct 1
+25|025|1905|Revere Ward 2 Precinct 2|Revere Ward 2 Precinct 2
+25|025|1906|Revere Ward 2 Precinct 3|Revere Ward 2 Precinct 3
+25|025|1907|Revere Ward 3 Precinct 1|Revere Ward 3 Precinct 1
+25|025|1908|Revere Ward 3 Precinct 2|Revere Ward 3 Precinct 2
+25|025|1909|Revere Ward 3 Precinct 3|Revere Ward 3 Precinct 3
+25|025|1910|Revere Ward 4 Precinct 1|Revere Ward 4 Precinct 1
+25|025|1911|Revere Ward 4 Precinct 2|Revere Ward 4 Precinct 2
+25|025|1912|Revere Ward 4 Precinct 3|Revere Ward 4 Precinct 3
+25|025|1913|Revere Ward 5 Precinct 1|Revere Ward 5 Precinct 1
+25|025|1914|Revere Ward 5 Precinct 2|Revere Ward 5 Precinct 2
+25|025|1915|Revere Ward 5 Precinct 3|Revere Ward 5 Precinct 3
+25|025|1916|Revere Ward 6 Precinct 1|Revere Ward 6 Precinct 1
+25|025|1917|Revere Ward 6 Precinct 2|Revere Ward 6 Precinct 2
+25|025|1918|Revere Ward 6 Precinct 3|Revere Ward 6 Precinct 3
+25|025|1919|Winthrop Precinct 1|Winthrop Precinct 1
+25|025|1920|Winthrop Precinct 2|Winthrop Precinct 2
+25|025|1921|Winthrop Precinct 3|Winthrop Precinct 3
+25|025|1922|Winthrop Precinct 4|Winthrop Precinct 4
+25|025|1923|Winthrop Precinct 5|Winthrop Precinct 5
+25|025|1924|Winthrop Precinct 6|Winthrop Precinct 6
+25|025|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+25|027|1925|Ashburnham Precinct 1|Ashburnham Precinct 1
+25|027|1926|Athol Precinct 1|Athol Precinct 1
+25|027|1927|Athol Precinct 2|Athol Precinct 2
+25|027|1928|Athol Precinct 3|Athol Precinct 3
+25|027|1929|Auburn Precinct 1|Auburn Precinct 1
+25|027|1930|Auburn Precinct 2|Auburn Precinct 2
+25|027|1931|Auburn Precinct 3|Auburn Precinct 3
+25|027|1932|Auburn Precinct 4|Auburn Precinct 4
+25|027|1933|Auburn Precinct 5|Auburn Precinct 5
+25|027|1934|Barre Precinct 1|Barre Precinct 1
+25|027|1935|Barre Precinct 2|Barre Precinct 2
+25|027|1936|Berlin Precinct 1|Berlin Precinct 1
+25|027|1937|Blackstone Precinct 1|Blackstone Precinct 1
+25|027|1938|Blackstone Precinct 2|Blackstone Precinct 2
+25|027|1939|Blackstone Precinct 3|Blackstone Precinct 3
+25|027|1940|Bolton Precinct 1|Bolton Precinct 1
+25|027|1941|Boylston Precinct 1|Boylston Precinct 1
+25|027|1942|Brookfield Precinct 1|Brookfield Precinct 1
+25|027|1943|Charlton Precinct 1|Charlton Precinct 1
+25|027|1944|Charlton Precinct 2|Charlton Precinct 2
+25|027|1945|Charlton Precinct 3|Charlton Precinct 3
+25|027|1946|Clinton Precinct 1|Clinton Precinct 1
+25|027|1947|Clinton Precinct 2|Clinton Precinct 2
+25|027|1948|Clinton Precinct 3|Clinton Precinct 3
+25|027|1949|Clinton Precinct 4|Clinton Precinct 4
+25|027|1950|Douglas Precinct 1|Douglas Precinct 1
+25|027|1951|Douglas Precinct 2|Douglas Precinct 2
+25|027|1952|Dudley Precinct 1|Dudley Precinct 1
+25|027|1953|Dudley Precinct 2|Dudley Precinct 2
+25|027|1954|Dudley Precinct 3|Dudley Precinct 3
+25|027|1955|Dudley Precinct 4|Dudley Precinct 4
+25|027|1956|East Brookfield Precinct 1|East Brookfield Precinct 1
+25|027|1957|Fitchburg Ward 1 Precinct A|Fitchburg Ward 1 Precinct A
+25|027|1958|Fitchburg Ward 1 Precinct B|Fitchburg Ward 1 Precinct B
+25|027|1959|Fitchburg Ward 2 Precinct A|Fitchburg Ward 2 Precinct A
+25|027|1960|Fitchburg Ward 2 Precinct B|Fitchburg Ward 2 Precinct B
+25|027|1961|Fitchburg Ward 3 Precinct A|Fitchburg Ward 3 Precinct A
+25|027|1962|Fitchburg Ward 3 Precinct B|Fitchburg Ward 3 Precinct B
+25|027|1963|Fitchburg Ward 4 Precinct A|Fitchburg Ward 4 Precinct A
+25|027|1964|Fitchburg Ward 4 Precinct B|Fitchburg Ward 4 Precinct B
+25|027|1965|Fitchburg Ward 5 Precinct A|Fitchburg Ward 5 Precinct A
+25|027|1966|Fitchburg Ward 5 Precinct B|Fitchburg Ward 5 Precinct B
+25|027|1967|Fitchburg Ward 6 Precinct A|Fitchburg Ward 6 Precinct A
+25|027|1968|Fitchburg Ward 6 Precinct B|Fitchburg Ward 6 Precinct B
+25|027|1969|Gardner Ward 1 Precinct A|Gardner Ward 1 Precinct A
+25|027|1970|Gardner Ward 1 Precinct B|Gardner Ward 1 Precinct B
+25|027|1971|Gardner Ward 1 Precinct C|Gardner Ward 1 Precinct C
+25|027|1972|Gardner Ward 2 Precinct A|Gardner Ward 2 Precinct A
+25|027|1973|Gardner Ward 2 Precinct B|Gardner Ward 2 Precinct B
+25|027|1974|Gardner Ward 3 Precinct A|Gardner Ward 3 Precinct A
+25|027|1975|Gardner Ward 3 Precinct B|Gardner Ward 3 Precinct B
+25|027|1976|Gardner Ward 4 Precinct A|Gardner Ward 4 Precinct A
+25|027|1977|Gardner Ward 4 Precinct B|Gardner Ward 4 Precinct B
+25|027|1978|Gardner Ward 5 Precinct A|Gardner Ward 5 Precinct A
+25|027|1979|Gardner Ward 5 Precinct B|Gardner Ward 5 Precinct B
+25|027|1980|Grafton Precinct 1|Grafton Precinct 1
+25|027|1981|Grafton Precinct 2|Grafton Precinct 2
+25|027|1982|Grafton Precinct 3|Grafton Precinct 3
+25|027|1983|Grafton Precinct 4|Grafton Precinct 4
+25|027|1984|Hardwick Precinct 1|Hardwick Precinct 1
+25|027|1985|Harvard Precinct 1|Harvard Precinct 1
+25|027|1986|Holden Precinct 1|Holden Precinct 1
+25|027|1987|Holden Precinct 2|Holden Precinct 2
+25|027|1988|Holden Precinct 3|Holden Precinct 3
+25|027|1989|Holden Precinct 4|Holden Precinct 4
+25|027|1990|Holden Precinct 5|Holden Precinct 5
+25|027|1991|Hopedale Precinct 1|Hopedale Precinct 1
+25|027|1992|Hubbardston Precinct 1|Hubbardston Precinct 1
+25|027|1993|Lancaster Precinct 1|Lancaster Precinct 1
+25|027|1994|Lancaster Precinct 2|Lancaster Precinct 2
+25|027|1995|Leicester Precinct 1|Leicester Precinct 1
+25|027|1996|Leicester Precinct 2|Leicester Precinct 2
+25|027|1997|Leicester Precinct 3|Leicester Precinct 3
+25|027|1998|Leicester Precinct 4|Leicester Precinct 4
+25|027|1999|Leominster Ward 1 Precinct A|Leominster Ward 1 Precinct A
+25|027|2000|Leominster Ward 1 Precinct B|Leominster Ward 1 Precinct B
+25|027|2001|Leominster Ward 1 Precinct C|Leominster Ward 1 Precinct C
+25|027|2002|Leominster Ward 2 Precinct A|Leominster Ward 2 Precinct A
+25|027|2003|Leominster Ward 2 Precinct B|Leominster Ward 2 Precinct B
+25|027|2004|Leominster Ward 2 Precinct C|Leominster Ward 2 Precinct C
+25|027|2005|Leominster Ward 3 Precinct A|Leominster Ward 3 Precinct A
+25|027|2006|Leominster Ward 3 Precinct B|Leominster Ward 3 Precinct B
+25|027|2007|Leominster Ward 3 Precinct C|Leominster Ward 3 Precinct C
+25|027|2008|Leominster Ward 4 Precinct A|Leominster Ward 4 Precinct A
+25|027|2009|Leominster Ward 4 Precinct B|Leominster Ward 4 Precinct B
+25|027|2010|Leominster Ward 4 Precinct C|Leominster Ward 4 Precinct C
+25|027|2011|Leominster Ward 5 Precinct A|Leominster Ward 5 Precinct A
+25|027|2012|Leominster Ward 5 Precinct B|Leominster Ward 5 Precinct B
+25|027|2013|Leominster Ward 5 Precinct C|Leominster Ward 5 Precinct C
+25|027|2014|Lunenburg Precinct A|Lunenburg Precinct A
+25|027|2015|Lunenburg Precinct B|Lunenburg Precinct B
+25|027|2016|Lunenburg Precinct C|Lunenburg Precinct C
+25|027|2017|Lunenburg Precinct D|Lunenburg Precinct D
+25|027|2018|Mendon Precinct 1|Mendon Precinct 1
+25|027|2019|Milford Precinct 1|Milford Precinct 1
+25|027|2020|Milford Precinct 2|Milford Precinct 2
+25|027|2021|Milford Precinct 3|Milford Precinct 3
+25|027|2022|Milford Precinct 4|Milford Precinct 4
+25|027|2023|Milford Precinct 5|Milford Precinct 5
+25|027|2024|Milford Precinct 6|Milford Precinct 6
+25|027|2025|Milford Precinct 7|Milford Precinct 7
+25|027|2026|Millbury Precinct 1|Millbury Precinct 1
+25|027|2027|Millbury Precinct 2|Millbury Precinct 2
+25|027|2028|Millbury Precinct 3|Millbury Precinct 3
+25|027|2029|Millbury Precinct 4|Millbury Precinct 4
+25|027|2030|Millville Precinct 1|Millville Precinct 1
+25|027|2031|New Braintree Precinct 1|New Braintree Precinct 1
+25|027|2032|North Brookfield Precinct 1|North Brookfield Precinct 1
+25|027|2033|Northborough Precinct 1|Northborough Precinct 1
+25|027|2034|Northborough Precinct 2|Northborough Precinct 2
+25|027|2035|Northborough Precinct 3|Northborough Precinct 3
+25|027|2036|Northborough Precinct 4|Northborough Precinct 4
+25|027|2037|Northbridge Precinct 1|Northbridge Precinct 1
+25|027|2038|Northbridge Precinct 2|Northbridge Precinct 2
+25|027|2039|Northbridge Precinct 3|Northbridge Precinct 3
+25|027|2040|Northbridge Precinct 4|Northbridge Precinct 4
+25|027|2041|Oakham Precinct 1|Oakham Precinct 1
+25|027|2042|Oxford Precinct 1|Oxford Precinct 1
+25|027|2043|Oxford Precinct 2|Oxford Precinct 2
+25|027|2044|Oxford Precinct 3|Oxford Precinct 3
+25|027|2045|Oxford Precinct 4|Oxford Precinct 4
+25|027|2046|Paxton Precinct 1|Paxton Precinct 1
+25|027|2047|Petersham Precinct 1|Petersham Precinct 1
+25|027|2048|Phillipston Precinct 1|Phillipston Precinct 1
+25|027|2049|Princeton Precinct 1|Princeton Precinct 1
+25|027|2050|Royalston Precinct 1|Royalston Precinct 1
+25|027|2051|Royalston Precinct 2|Royalston Precinct 2
+25|027|2052|Rutland Precinct 1|Rutland Precinct 1
+25|027|2053|Rutland Precinct 2|Rutland Precinct 2
+25|027|2054|Shrewsbury Precinct 1|Shrewsbury Precinct 1
+25|027|2055|Shrewsbury Precinct 2|Shrewsbury Precinct 2
+25|027|2056|Shrewsbury Precinct 3|Shrewsbury Precinct 3
+25|027|2057|Shrewsbury Precinct 4|Shrewsbury Precinct 4
+25|027|2058|Shrewsbury Precinct 5|Shrewsbury Precinct 5
+25|027|2059|Shrewsbury Precinct 6|Shrewsbury Precinct 6
+25|027|2060|Shrewsbury Precinct 7|Shrewsbury Precinct 7
+25|027|2061|Shrewsbury Precinct 8|Shrewsbury Precinct 8
+25|027|2062|Shrewsbury Precinct 9|Shrewsbury Precinct 9
+25|027|2063|Southborough Precinct 1|Southborough Precinct 1
+25|027|2064|Southborough Precinct 2|Southborough Precinct 2
+25|027|2065|Southborough Precinct 3|Southborough Precinct 3
+25|027|2066|Southbridge Precinct 1|Southbridge Precinct 1
+25|027|2067|Southbridge Precinct 2|Southbridge Precinct 2
+25|027|2068|Southbridge Precinct 3|Southbridge Precinct 3
+25|027|2069|Southbridge Precinct 4|Southbridge Precinct 4
+25|027|2070|Southbridge Precinct 5|Southbridge Precinct 5
+25|027|2071|Spencer Precinct 1|Spencer Precinct 1
+25|027|2072|Spencer Precinct 2|Spencer Precinct 2
+25|027|2073|Spencer Precinct 3|Spencer Precinct 3
+25|027|2074|Spencer Precinct 4|Spencer Precinct 4
+25|027|2075|Sterling Precinct 1|Sterling Precinct 1
+25|027|2076|Sterling Precinct 2|Sterling Precinct 2
+25|027|2077|Sturbridge Precinct 1|Sturbridge Precinct 1
+25|027|2078|Sturbridge Precinct 2|Sturbridge Precinct 2
+25|027|2079|Sutton Precinct 1|Sutton Precinct 1
+25|027|2080|Sutton Precinct 2|Sutton Precinct 2
+25|027|2081|Sutton Precinct 3|Sutton Precinct 3
+25|027|2082|Templeton Precinct 1|Templeton Precinct 1
+25|027|2083|Templeton Precinct 2|Templeton Precinct 2
+25|027|2084|Upton Precinct 1|Upton Precinct 1
+25|027|2085|Uxbridge Precinct 1|Uxbridge Precinct 1
+25|027|2086|Uxbridge Precinct 2|Uxbridge Precinct 2
+25|027|2087|Uxbridge Precinct 3|Uxbridge Precinct 3
+25|027|2088|Uxbridge Precinct 4|Uxbridge Precinct 4
+25|027|2089|Warren Precinct A|Warren Precinct A
+25|027|2090|Webster Precinct 1|Webster Precinct 1
+25|027|2091|Webster Precinct 2|Webster Precinct 2
+25|027|2092|Webster Precinct 3|Webster Precinct 3
+25|027|2093|Webster Precinct 4|Webster Precinct 4
+25|027|2094|Webster Precinct 5|Webster Precinct 5
+25|027|2095|West Boylston Precinct 1|West Boylston Precinct 1
+25|027|2096|West Boylston Precinct 2|West Boylston Precinct 2
+25|027|2097|West Brookfield Precinct 1|West Brookfield Precinct 1
+25|027|2098|Westborough Precinct 1|Westborough Precinct 1
+25|027|2099|Westborough Precinct 2|Westborough Precinct 2
+25|027|2100|Westborough Precinct 3|Westborough Precinct 3
+25|027|2101|Westborough Precinct 4|Westborough Precinct 4
+25|027|2102|Westborough Precinct 5|Westborough Precinct 5
+25|027|2103|Westminster Precinct 1|Westminster Precinct 1
+25|027|2104|Westminster Precinct 2|Westminster Precinct 2
+25|027|2105|Winchendon Precinct 1|Winchendon Precinct 1
+25|027|2106|Winchendon Precinct 2|Winchendon Precinct 2
+25|027|2107|Winchendon Precinct 3|Winchendon Precinct 3
+25|027|2108|Worcester Ward 1 Precinct 1|Worcester Ward 1 Precinct 1
+25|027|2109|Worcester Ward 1 Precinct 2|Worcester Ward 1 Precinct 2
+25|027|2110|Worcester Ward 1 Precinct 3|Worcester Ward 1 Precinct 3
+25|027|2111|Worcester Ward 1 Precinct 4|Worcester Ward 1 Precinct 4
+25|027|2112|Worcester Ward 1 Precinct 5|Worcester Ward 1 Precinct 5
+25|027|2113|Worcester Ward 2 Precinct 1|Worcester Ward 2 Precinct 1
+25|027|2114|Worcester Ward 2 Precinct 2|Worcester Ward 2 Precinct 2
+25|027|2115|Worcester Ward 2 Precinct 3|Worcester Ward 2 Precinct 3
+25|027|2116|Worcester Ward 2 Precinct 4|Worcester Ward 2 Precinct 4
+25|027|2117|Worcester Ward 2 Precinct 5|Worcester Ward 2 Precinct 5
+25|027|2118|Worcester Ward 3 Precinct 1|Worcester Ward 3 Precinct 1
+25|027|2119|Worcester Ward 3 Precinct 2|Worcester Ward 3 Precinct 2
+25|027|2120|Worcester Ward 3 Precinct 3|Worcester Ward 3 Precinct 3
+25|027|2121|Worcester Ward 3 Precinct 4|Worcester Ward 3 Precinct 4
+25|027|2122|Worcester Ward 3 Precinct 5|Worcester Ward 3 Precinct 5
+25|027|2123|Worcester Ward 4 Precinct 1|Worcester Ward 4 Precinct 1
+25|027|2124|Worcester Ward 4 Precinct 2|Worcester Ward 4 Precinct 2
+25|027|2125|Worcester Ward 4 Precinct 3|Worcester Ward 4 Precinct 3
+25|027|2126|Worcester Ward 4 Precinct 4|Worcester Ward 4 Precinct 4
+25|027|2127|Worcester Ward 4 Precinct 5|Worcester Ward 4 Precinct 5
+25|027|2128|Worcester Ward 5 Precinct 1|Worcester Ward 5 Precinct 1
+25|027|2129|Worcester Ward 5 Precinct 2|Worcester Ward 5 Precinct 2
+25|027|2130|Worcester Ward 5 Precinct 3|Worcester Ward 5 Precinct 3
+25|027|2131|Worcester Ward 5 Precinct 4|Worcester Ward 5 Precinct 4
+25|027|2132|Worcester Ward 5 Precinct 5|Worcester Ward 5 Precinct 5
+25|027|2133|Worcester Ward 6 Precinct 1|Worcester Ward 6 Precinct 1
+25|027|2134|Worcester Ward 6 Precinct 2|Worcester Ward 6 Precinct 2
+25|027|2135|Worcester Ward 6 Precinct 3|Worcester Ward 6 Precinct 3
+25|027|2136|Worcester Ward 6 Precinct 4|Worcester Ward 6 Precinct 4
+25|027|2137|Worcester Ward 6 Precinct 5|Worcester Ward 6 Precinct 5
+25|027|2138|Worcester Ward 7 Precinct 1|Worcester Ward 7 Precinct 1
+25|027|2139|Worcester Ward 7 Precinct 2|Worcester Ward 7 Precinct 2
+25|027|2140|Worcester Ward 7 Precinct 3|Worcester Ward 7 Precinct 3
+25|027|2141|Worcester Ward 7 Precinct 4|Worcester Ward 7 Precinct 4
+25|027|2142|Worcester Ward 7 Precinct 5|Worcester Ward 7 Precinct 5
+25|027|2143|Worcester Ward 8 Precinct 1|Worcester Ward 8 Precinct 1
+25|027|2144|Worcester Ward 8 Precinct 2|Worcester Ward 8 Precinct 2
+25|027|2145|Worcester Ward 8 Precinct 3|Worcester Ward 8 Precinct 3
+25|027|2146|Worcester Ward 8 Precinct 4|Worcester Ward 8 Precinct 4
+25|027|2147|Worcester Ward 8 Precinct 5|Worcester Ward 8 Precinct 5
+25|027|2148|Worcester Ward 9 Precinct 1|Worcester Ward 9 Precinct 1
+25|027|2149|Worcester Ward 9 Precinct 2|Worcester Ward 9 Precinct 2
+25|027|2150|Worcester Ward 9 Precinct 3|Worcester Ward 9 Precinct 3
+25|027|2151|Worcester Ward 9 Precinct 4|Worcester Ward 9 Precinct 4
+25|027|2152|Worcester Ward 9 Precinct 5|Worcester Ward 9 Precinct 5
+25|027|2153|Worcester Ward 10 Precinct 1|Worcester Ward 10 Precinct 1
+25|027|2154|Worcester Ward 10 Precinct 2|Worcester Ward 10 Precinct 2
+25|027|2155|Worcester Ward 10 Precinct 3|Worcester Ward 10 Precinct 3
+25|027|2156|Worcester Ward 10 Precinct 4|Worcester Ward 10 Precinct 4
+25|027|2157|Worcester Ward 10 Precinct 5|Worcester Ward 10 Precinct 5

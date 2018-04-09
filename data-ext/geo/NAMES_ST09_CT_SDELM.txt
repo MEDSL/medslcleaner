@@ -1,0 +1,45 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+09|00030|Andover School District|Andover School District
+09|00090|Ashford School District|Ashford School District
+09|00150|Barkhamsted School District|Barkhamsted School District
+09|00240|Bethany School District|Bethany School District
+09|00390|Bozrah School District|Bozrah School District
+09|00570|Brooklyn School District|Brooklyn School District
+09|00630|Canaan School District|Canaan School District
+09|00660|Canterbury School District|Canterbury School District
+09|00720|Chaplin School District|Chaplin School District
+09|00780|Chester School District|Chester School District
+09|00870|Colebrook School District|Colebrook School District
+09|00900|Columbia School District|Columbia School District
+09|00930|Cornwall School District|Cornwall School District
+09|01080|Deep River School District|Deep River School District
+09|01380|Eastford School District|Eastford School District
+09|01410|Easton School District|Easton School District
+09|01500|Essex School District|Essex School District
+09|01590|Franklin School District|Franklin School District
+09|01890|Hampton School District|Hampton School District
+09|01950|Hartland School District|Hartland School District
+09|02010|Hebron School District|Hebron School District
+09|02040|Kent School District|Kent School District
+09|02190|Lisbon School District|Lisbon School District
+09|02340|Mansfield School District|Mansfield School District
+09|02370|Marlborough School District|Marlborough School District
+09|02760|New Hartford School District|New Hartford School District
+09|02940|Norfolk School District|Norfolk School District
+09|03000|North Canaan School District|North Canaan School District
+09|03210|Orange School District|Orange School District
+09|03360|Pomfret School District|Pomfret School District
+09|03420|Preston School District|Preston School District
+09|03510|Redding School District|Redding School District
+09|03900|Salem School District|Salem School District
+09|03930|Salisbury School District|Salisbury School District
+09|03960|Scotland School District|Scotland School District
+09|04020|Sharon School District|Sharon School District
+09|04080|Sherman School District|Sherman School District
+09|04260|Sprague School District|Sprague School District
+09|04350|Sterling School District|Sterling School District
+09|04650|Union School District|Union School District
+09|04710|Voluntown School District|Voluntown School District
+09|05100|Willington School District|Willington School District
+09|05310|Woodbridge School District|Woodbridge School District
+09|05370|Woodstock School District|Woodstock School District

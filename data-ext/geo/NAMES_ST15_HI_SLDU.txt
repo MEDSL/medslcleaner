@@ -1,0 +1,27 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+15|001|1|State Senate District 1
+15|002|2|State Senate District 2
+15|003|3|State Senate District 3
+15|004|4|State Senate District 4
+15|005|5|State Senate District 5
+15|006|6|State Senate District 6
+15|007|7|State Senate District 7
+15|008|8|State Senate District 8
+15|009|9|State Senate District 9
+15|010|10|State Senate District 10
+15|011|11|State Senate District 11
+15|012|12|State Senate District 12
+15|013|13|State Senate District 13
+15|014|14|State Senate District 14
+15|015|15|State Senate District 15
+15|016|16|State Senate District 16
+15|017|17|State Senate District 17
+15|018|18|State Senate District 18
+15|019|19|State Senate District 19
+15|020|20|State Senate District 20
+15|021|21|State Senate District 21
+15|022|22|State Senate District 22
+15|023|23|State Senate District 23
+15|024|24|State Senate District 24
+15|025|25|State Senate District 25
+15|ZZZ|State Senate Districts not defined|State Senate Districts not defined

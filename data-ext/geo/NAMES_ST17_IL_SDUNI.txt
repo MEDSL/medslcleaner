@@ -1,0 +1,390 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+17|00001|River Ridge Community Unit School District 210|River Ridge Community Unit School District 210
+17|00002|Casey-Westfield Community Unit School District 4C|Casey-Westfield Community Unit School District 4C
+17|00003|Blue Ridge Community Unit School District 18|Blue Ridge Community Unit School District 18
+17|00004|Norris City-Omaha-Enfield Community Unit School District 3|Norris City-Omaha-Enfield Community Unit School District 3
+17|00005|Prairie Central Community Unit School District 8|Prairie Central Community Unit School District 8
+17|00007|Eastland Community Unit School District 308|Eastland Community Unit School District 308
+17|00014|Goreville Community Unit School District 1|Goreville Community Unit School District 1
+17|00015|Joppa-Maple Grove Unit District 38|Joppa-Maple Grove Unit District 38
+17|00041|Gibson City-Melvin-Sibley Community Unit School District 5|Gibson City-Melvin-Sibley Community Unit School District 5
+17|00044|Farmington Central Community Unit School District 265|Farmington Central Community Unit School District 265
+17|00045|Gallatin Community Unit School District 7|Gallatin Community Unit School District 7
+17|00092|Georgetown-Ridge Farm Consolidated Unit School District 4|Georgetown-Ridge Farm Consolidated Unit School District 4
+17|00102|Brussels Community Unit School District 42|Brussels Community Unit School District 42
+17|00105|A-C Central Community Unit School District 262|A-C Central Community Unit School District 262
+17|00106|Heritage Community Unit School District 8|Heritage Community Unit School District 8
+17|00109|Ridgeview Community Unit School District 19|Ridgeview Community Unit School District 19
+17|00110|North Chicago School District 187|North Chicago School District 187
+17|00113|Illini Central Community Unit School District 189|Illini Central Community Unit School District 189
+17|00114|South Central Community Unit School District 401|South Central Community Unit School District 401
+17|00115|Henry-Senachwine Consolidated Unit School District 5|Henry-Senachwine Consolidated Unit School District 5
+17|00120|Lostant Community Unit School District 425|Lostant Community Unit School District 425
+17|00122|Shiloh Community Unit School District 1|Shiloh Community Unit School District 1
+17|00123|Meridian Community Unit School District 15|Meridian Community Unit School District 15
+17|00125|Bureau Valley Community Unit School District 340|Bureau Valley Community Unit School District 340
+17|00126|Midland Community Unit School District 7|Midland Community Unit School District 7
+17|00130|West Carroll Community Unit School District 314|West Carroll Community Unit School District 314
+17|00153|Lewistown Community Unit School District 97|Lewistown Community Unit School District 97
+17|00176|Cowden-Herrick Community Unit School District 3A|Cowden-Herrick Community Unit School District 3A
+17|00217|Christopher Community Unit School District 99|Christopher Community Unit School District 99
+17|00223|Okaw Valley Community Unit School District 302|Okaw Valley Community Unit School District 302
+17|00314|West Prairie Community Unit School District 103|West Prairie Community Unit School District 103
+17|00319|West Central Community Unit School District 235|West Central Community Unit School District 235
+17|00320|Monmouth-Roseville Community Unit School District 238|Monmouth-Roseville Community Unit School District 238
+17|00321|United Community School District 304|United Community School District 304
+17|00323|Crescent Iroquois Community Unit School District 249|Crescent Iroquois Community Unit School District 249
+17|00324|Sangamon Valley Community Unit School District 9|Sangamon Valley Community Unit School District 9
+17|00326|El Paso-Gridley Community Unit School District 11|El Paso-Gridley Community Unit School District 11
+17|00332|Schuyler-Industry Community Unit School District 5|Schuyler-Industry Community Unit School District 5
+17|01382|Thompsonville Community Unit School District 174|Thompsonville Community Unit School District 174
+17|01387|Western Community Unit School District 12|Western Community Unit School District 12
+17|01390|Flanagan-Cornell District 74|Flanagan-Cornell District 74
+17|01395|Mercer County School District 404|Mercer County School District 404
+17|03090|Abingdon Community Unit School District 217|Abingdon Community Unit School District 217
+17|03300|Alden-Hebron School District 19|Alden-Hebron School District 19
+17|03450|Allendale Community Consolidated School District 17|Allendale Community Consolidated School District 17
+17|03510|Altamont Community Unit School District 10|Altamont Community Unit School District 10
+17|03600|Alton Community Unit School District 11|Alton Community Unit School District 11
+17|03660|Alwood Community Unit School District 225|Alwood Community Unit School District 225
+17|03690|Amboy Community Unit School District 272|Amboy Community Unit School District 272
+17|03810|Annawan Community Unit School District 226|Annawan Community Unit School District 226
+17|03960|Arcola Consolidated Unit School District 306|Arcola Consolidated Unit School District 306
+17|03990|Argenta-Oreana Community Unit School District 1|Argenta-Oreana Community Unit School District 1
+17|04260|Arthur Community Unit School District 305|Arthur Community Unit School District 305
+17|04380|Ashton Community Unit School District 275|Ashton Community Unit School District 275
+17|04440|Astoria Community Unit School District 1|Astoria Community Unit School District 1
+17|04470|Athens Community Unit School District 213|Athens Community Unit School District 213
+17|04590|Atwood-Hammond Community Unit School District 39|Atwood-Hammond Community Unit School District 39
+17|04620|Auburn Community Unit School District 10|Auburn Community Unit School District 10
+17|04680|Aurora East Unit School District 131|Aurora East Unit School District 131
+17|04710|Aurora West Unit School District 129|Aurora West Unit School District 129
+17|04830|Avon Community Unit School District 176|Avon Community Unit School District 176
+17|04920|Ball-Chatham Community Unit School District 5|Ball-Chatham Community Unit School District 5
+17|05050|Barrington Community Unit School District 220|Barrington Community Unit School District 220
+17|05220|Batavia Unit School District 101|Batavia Unit School District 101
+17|05310|Beardstown Community Unit School District 15|Beardstown Community Unit School District 15
+17|05430|Beecher Community Unit School District 200U|Beecher Community Unit School District 200U
+17|05460|Beecher City Community Unit School District 20|Beecher City Community Unit School District 20
+17|05790|Belvidere Consolidated Unit School District 100|Belvidere Consolidated Unit School District 100
+17|05820|Bement Community Unit School District 5|Bement Community Unit School District 5
+17|06120|Bethalto Consolidated Unit School District 8|Bethalto Consolidated Unit School District 8
+17|06390|Bismarck-Henning Consolidated Unit School District|Bismarck-Henning Consolidated Unit School District
+17|06480|Bloomington School District 87|Bloomington School District 87
+17|06600|Scott-Morgan Consolidated Unit School District 2|Scott-Morgan Consolidated Unit School District 2
+17|06880|Bradford Community Unit School District 1|Bradford Community Unit School District 1
+17|07200|Brimfield Community Unit School District 309|Brimfield Community Unit School District 309
+17|07440|Brownstown Community Unit School District 201|Brownstown Community Unit School District 201
+17|07650|Paxton-Buckley-Loda Community Unit School District 10|Paxton-Buckley-Loda Community Unit School District 10
+17|07770|Bunker Hill Community Unit School District 8|Bunker Hill Community Unit School District 8
+17|07830|Central Community Unit School District 301|Central Community Unit School District 301
+17|07950|Bushnell-Prairie City Community Unit School District 170|Bushnell-Prairie City Community Unit School District 170
+17|08010|Byron Community Unit School District 226|Byron Community Unit School District 226
+17|08040|Cahokia Community Unit School District 187|Cahokia Community Unit School District 187
+17|08070|Cairo Community Unit School District 1|Cairo Community Unit School District 1
+17|08160|Cambridge Community Unit School District 227|Cambridge Community Unit School District 227
+17|08220|Camp Point Community Unit School District 3|Camp Point Community Unit School District 3
+17|08250|Trico Community Unit School District 176|Trico Community Unit School District 176
+17|08280|Canton Union School District 66|Canton Union School District 66
+17|08430|Carlinville Community Unit School District 1|Carlinville Community Unit School District 1
+17|08460|Carlyle Community Unit School District 1|Carlyle Community Unit School District 1
+17|08500|Carmi-White County Community Unit School District 5|Carmi-White County Community Unit School District 5
+17|08550|Community Unit School District 300|Community Unit School District 300
+17|08580|Carrier Mills-Stonefort Community Unit School District|Carrier Mills-Stonefort Community Unit School District
+17|08610|Carrollton Community Unit School District 1|Carrollton Community Unit School District 1
+17|08640|Carterville Community Unit School District 5|Carterville Community Unit School District 5
+17|09100|Central A & M Community Unit School District 21|Central A & M Community Unit School District 21
+17|09330|Cerro Gordo Community Unit School District 100|Cerro Gordo Community Unit School District 100
+17|09400|Chadwick-Milledgeville Community Unit School District 399|Chadwick-Milledgeville Community Unit School District 399
+17|09420|Champaign Community Unit School District 4|Champaign Community Unit School District 4
+17|09600|Charleston Community Unit School District 1|Charleston Community Unit School District 1
+17|09810|Chester Community Unit School District 139|Chester Community Unit School District 139
+17|09930|Chicago Public School District 299|Chicago Public School District 299
+17|10240|North Wayne Community Unit School District 200|North Wayne Community Unit School District 200
+17|10290|Cissna Park Community Unit School District 6|Cissna Park Community Unit School District 6
+17|10340|Clay City Community Unit District 10|Clay City Community Unit District 10
+17|10410|Central Community Unit School District 4|Central Community Unit School District 4
+17|10440|Clinton Community Unit School District 15|Clinton Community Unit School District 15
+17|10530|Coal City Community Unit School District 1|Coal City Community Unit School District 1
+17|10570|Cobden School Unit District 17|Cobden School Unit District 17
+17|10650|Collinsville Community Unit School District 10|Collinsville Community Unit School District 10
+17|10740|Columbia Community Unit School District 4|Columbia Community Unit School District 4
+17|10760|Catlin Community Unit School District 5|Catlin Community Unit School District 5
+17|10790|Hamilton County Community Unit School District 10|Hamilton County Community Unit School District 10
+17|10800|Oakwood Community Unit School District 76|Oakwood Community Unit School District 76
+17|10820|Westville Community Unit School District 2|Westville Community Unit School District 2
+17|10830|Triopia Community Unit School District 27|Triopia Community Unit School District 27
+17|10980|Coulterville Unit School District 1|Coulterville Unit School District 1
+17|11100|Crab Orchard Community Unit School District 3|Crab Orchard Community Unit School District 3
+17|11250|Crete-Monee Community Unit School District 201-U|Crete-Monee Community Unit School District 201-U
+17|11400|Fulton County Community Unit School District 3|Fulton County Community Unit School District 3
+17|11610|Dakota Community Unit School District 201|Dakota Community Unit School District 201
+17|11790|Danville Community Consolidated School District 118|Danville Community Consolidated School District 118
+17|11850|Decatur School District 61|Decatur School District 61
+17|11880|Deer Creek-Mackinaw Community Unit School District 701|Deer Creek-Mackinaw Community Unit School District 701
+17|12000|DeKalb Community Unit School District 428|DeKalb Community Unit School District 428
+17|12030|DeLand-Weldon Community Unit School District 57|DeLand-Weldon Community Unit School District 57
+17|12060|Delavan Community Unit School District 703|Delavan Community Unit School District 703
+17|12090|Depue Community Unit School District 103|Depue Community Unit School District 103
+17|12240|Dieterich Community Unit School District 30|Dieterich Community Unit School District 30
+17|12330|Dixon Unit School District 170|Dixon Unit School District 170
+17|12480|Dongola School Unit District 66|Dongola School Unit District 66
+17|12510|Donovan Community Unit School District 3|Donovan Community Unit School District 3
+17|12700|Dunlap Community Unit School District 323|Dunlap Community Unit School District 323
+17|12720|Dupo Community Unit School District 196|Dupo Community Unit School District 196
+17|12760|Du Quoin Community Unit School District 300|Du Quoin Community Unit School District 300
+17|12810|Durand Community Unit School District 322|Durand Community Unit School District 322
+17|12930|Earlville Community Unit School District 9|Earlville Community Unit School District 9
+17|13050|East Dubuque Community Unit School District 119|East Dubuque Community Unit School District 119
+17|13290|East Richland Community Unit School District 1|East Richland Community Unit School District 1
+17|13320|East St. Louis School District 189|East St. Louis School District 189
+17|13370|Edgar County Community Unit District 6|Edgar County Community Unit District 6
+17|13410|Edinburg Community Unit School District 4|Edinburg Community Unit School District 4
+17|13500|Edwards County Community Unit School District 1|Edwards County Community Unit School District 1
+17|13530|Edwardsville Community Unit School District 7|Edwardsville Community Unit School District 7
+17|13560|Effingham Community Unit School District 40|Effingham Community Unit School District 40
+17|13590|Egyptian Community Unit School District 5|Egyptian Community Unit School District 5
+17|13660|Eldorado Community Unit School District 4|Eldorado Community Unit School District 4
+17|13710|School District U-46|School District U-46
+17|13860|Elverado Community Unit School District 196|Elverado Community Unit School District 196
+17|13920|Tri-Valley Community Unit School District 3|Tri-Valley Community Unit School District 3
+17|13970|Elmhurst School District 205|Elmhurst School District 205
+17|14050|Elmwood Community Unit School District 322|Elmwood Community Unit School District 322
+17|14100|Elmwood Park Community Unit School District 401|Elmwood Park Community Unit School District 401
+17|14350|Erie Community Unit School District 1|Erie Community Unit School District 1
+17|14430|Eureka Community Unit District 140|Eureka Community Unit District 140
+17|15100|Fieldcrest Community Unit School District 6|Fieldcrest Community Unit School District 6
+17|15180|Fisher Community Unit School District 1|Fisher Community Unit School District 1
+17|15400|Flora Community Unit School District 35|Flora Community Unit School District 35
+17|15490|Forrestville Valley Community Unit School District 221|Forrestville Valley Community Unit School District 221
+17|15750|Franklin Community Unit School District 1|Franklin Community Unit School District 1
+17|15880|Community Unit School District 2|Community Unit School District 2
+17|15900|Freeport School District 145|Freeport School District 145
+17|16020|Galatia Community Unit School District 1|Galatia Community Unit School District 1
+17|16050|Galena Unit School District 120|Galena Unit School District 120
+17|16080|Galesburg Community Unit School District 205|Galesburg Community Unit School District 205
+17|16140|Galva Community Unit School District 224|Galva Community Unit School District 224
+17|16350|Geneseo Community Unit School District 228|Geneseo Community Unit School District 228
+17|16380|Geneva Community Unit School District 304|Geneva Community Unit School District 304
+17|16410|Genoa-Kingston Community Unit School District 424|Genoa-Kingston Community Unit School District 424
+17|16680|Gillespie Community Unit School District 7|Gillespie Community Unit School District 7
+17|16740|Girard Community Unit School District 3|Girard Community Unit School District 3
+17|17280|Granite City Community Unit School District 9|Granite City Community Unit School District 9
+17|17370|Grant Park Community Unit School District 6|Grant Park Community Unit School District 6
+17|17580|Grayville Community Unit School District 1|Grayville Community Unit School District 1
+17|17670|Greenfield Community Unit School District 10|Greenfield Community Unit School District 10
+17|17700|Greenview Community Unit School District 200|Greenview Community Unit School District 200
+17|17730|Bond County Community Unit School District 2|Bond County Community Unit School District 2
+17|17790|Griggsville-Perry Community Unit School District 4|Griggsville-Perry Community Unit School District 4
+17|18060|Hamilton Community Consolidated School District 328|Hamilton Community Consolidated School District 328
+17|18180|Calhoun Community Unit School District 40|Calhoun Community Unit School District 40
+17|18200|Hardin County Community Unit School District 1|Hardin County Community Unit School District 1
+17|18240|Harlem Unit School District 122|Harlem Unit School District 122
+17|18270|Harrisburg Community Unit School District 3|Harrisburg Community Unit School District 3
+17|18390|Hartsburg-Emden Community Unit School District 21|Hartsburg-Emden Community Unit School District 21
+17|18420|Harvard Community Unit School District 50|Harvard Community Unit School District 50
+17|18510|Havana Community Unit School District 126|Havana Community Unit School District 126
+17|18810|Herrin Community Unit School District 4|Herrin Community Unit School District 4
+17|18840|Herscher Community Unit School District 2|Herscher Community Unit School District 2
+17|18870|Heyworth Community Unit School District 4|Heyworth Community Unit School District 4
+17|18990|Highland Community Unit School District 5|Highland Community Unit School District 5
+17|19200|Hillsboro Community Unit School District 3|Hillsboro Community Unit School District 3
+17|19260|Hinckley-Big Rock Community Unit School District 429|Hinckley-Big Rock Community Unit School District 429
+17|19660|Hoopeston Area Community Unit School District 11|Hoopeston Area Community Unit School District 11
+17|19830|Huntley Consolidated School District 158|Huntley Consolidated School District 158
+17|19920|Hutsonville Community Unit School District 1|Hutsonville Community Unit School District 1
+17|19960|Illini Bluffs Community Unit School District 327|Illini Bluffs Community Unit School District 327
+17|19970|Illinois Valley Central Unit School District 321|Illinois Valley Central Unit School District 321
+17|20170|Iroquois County Community Unit School District 9|Iroquois County Community Unit School District 9
+17|20180|Iroquois West Community Unit School District 10|Iroquois West Community Unit School District 10
+17|20280|Jacksonville School District 117|Jacksonville School District 117
+17|20350|Jamaica Community Unit School District 12|Jamaica Community Unit School District 12
+17|20380|Jasper County Community Unit School District 1|Jasper County Community Unit School District 1
+17|20430|Jersey Community Unit School District 100|Jersey Community Unit School District 100
+17|20490|Johnsburg Community Unit School District 12|Johnsburg Community Unit School District 12
+17|20550|Johnston City Community Unit School District 1|Johnston City Community Unit School District 1
+17|20760|Kankakee School District 111|Kankakee School District 111
+17|20790|Kansas Community Unit School District 3|Kansas Community Unit School District 3
+17|21000|Kewanee Community Unit School District 229|Kewanee Community Unit School District 229
+17|21300|Hiawatha Community Unit School District 426|Hiawatha Community Unit School District 426
+17|21390|Knoxville Community Unit School District 202|Knoxville Community Unit School District 202
+17|21680|La Moille Community Unit School District 303|La Moille Community Unit School District 303
+17|21900|Lake Zurich Community Unit School District 95|Lake Zurich Community Unit School District 95
+17|22130|Red Hill Community Unit School District 10|Red Hill Community Unit School District 10
+17|22150|Lawrence County Community Unit District 20|Lawrence County Community Unit District 20
+17|22300|Lebanon Community Unit School District 9|Lebanon Community Unit School District 9
+17|22350|Lee Center Community Unit School District 271|Lee Center Community Unit School District 271
+17|22530|Lena-Winslow Community Unit School District 202|Lena-Winslow Community Unit School District 202
+17|22620|Le Roy Community Unit School District 2|Le Roy Community Unit School District 2
+17|22710|Lexington Community Unit School District 7|Lexington Community Unit School District 7
+17|22770|Liberty Community Unit School District 2|Liberty Community Unit School District 2
+17|22870|Leland Community Unit School District 1|Leland Community Unit School District 1
+17|23200|Lisle Community Unit School District 202|Lisle Community Unit School District 202
+17|23250|Litchfield Community Unit School District 12|Litchfield Community Unit School District 12
+17|23640|Brooklyn Community Unit School District 188|Brooklyn Community Unit School District 188
+17|23670|Lovington Community Unit School District 303|Lovington Community Unit School District 303
+17|23920|Macomb Community Unit School District 185|Macomb Community Unit School District 185
+17|23970|Madison Community Unit School District 12|Madison Community Unit School District 12
+17|24060|Mahomet-Seymour Community Unit School District 3|Mahomet-Seymour Community Unit School District 3
+17|24390|Manteno Community Unit School District 5|Manteno Community Unit School District 5
+17|24480|Kaneland Community Unit School District 302|Kaneland Community Unit School District 302
+17|24600|Marion Community Unit School District 2|Marion Community Unit School District 2
+17|24650|Marissa Community Unit School District 40|Marissa Community Unit School District 40
+17|24750|Maroa-Forsyth Community Unit School District 2|Maroa-Forsyth Community Unit School District 2
+17|24870|Marshall Community Unit School District 2C|Marshall Community Unit School District 2C
+17|24900|Martinsville Community Unit School District 3C|Martinsville Community Unit School District 3C
+17|24940|Mascoutah Community Unit School District 19|Mascoutah Community Unit School District 19
+17|25000|Massac Unit School District 1|Massac Unit School District 1
+17|25050|Mattoon Community Unit School District 2|Mattoon Community Unit School District 2
+17|25590|Community Unit School District 4|Community Unit School District 4
+17|25680|Meredosia-Chambersburg Community Unit School District 11|Meredosia-Chambersburg Community Unit School District 11
+17|25690|Meridian Community Unit School District 223|Meridian Community Unit School District 223
+17|26400|Moline Unit School District 40|Moline Unit School District 40
+17|26430|Momence Community Unit School District 1|Momence Community Unit School District 1
+17|26550|Monticello Community Unit School District 25|Monticello Community Unit School District 25
+17|26710|Morrison Community Unit School District 6|Morrison Community Unit School District 6
+17|26760|Morrisonville Community Unit School District 1|Morrisonville Community Unit School District 1
+17|26800|Morton Community Unit School District 709|Morton Community Unit School District 709
+17|26970|Meridian Community Unit School District 101|Meridian Community Unit School District 101
+17|27180|Mount Olive Community Unit School District 5|Mount Olive Community Unit School District 5
+17|27290|Mount Pulaski Community Unit District 23|Mount Pulaski Community Unit District 23
+17|27300|Brown County Community Unit School District 1|Brown County Community Unit School District 1
+17|27390|Mount Zion Community Unit School District 3|Mount Zion Community Unit School District 3
+17|27450|Mulberry Grove Community Unit School District 1|Mulberry Grove Community Unit School District 1
+17|27610|Murphysboro Community Unit School District 186|Murphysboro Community Unit School District 186
+17|27710|Naperville Community Unit District 203|Naperville Community Unit District 203
+17|27780|Nauvoo-Colusa Community Unit School District 325|Nauvoo-Colusa Community Unit School District 325
+17|27840|Neoga Community Unit School District 3|Neoga Community Unit School District 3
+17|27910|Neponset Community Consolidated District 307|Neponset Community Consolidated District 307
+17|27960|New Athens Community Unit School District 60|New Athens Community Unit School District 60
+17|27990|Community Unit School District 16|Community Unit School District 16
+17|28560|Nokomis Community Unit School District 22|Nokomis Community Unit School District 22
+17|28620|McLean County Unit School District 5|McLean County Unit School District 5
+17|28700|North Boone Community Unit School District 200|North Boone Community Unit School District 200
+17|28810|North Clay Community Unit School District 25|North Clay Community Unit School District 25
+17|29340|Oakland Community Unit School District 5|Oakland Community Unit School District 5
+17|29420|Oblong Community Unit School District 4|Oblong Community Unit School District 4
+17|29890|Olympia Community Unit School District 16|Olympia Community Unit School District 16
+17|29940|ROWVA Community Unit School District 208|ROWVA Community Unit School District 208
+17|30060|Orangeville Community Unit School District 203|Orangeville Community Unit School District 203
+17|30160|Oregon Community Unit School District 220|Oregon Community Unit School District 220
+17|30200|Orion Community Unit School District 223|Orion Community Unit School District 223
+17|30270|Oswego Community Unit School District 308|Oswego Community Unit School District 308
+17|30480|Palestine Community Unit School District 3|Palestine Community Unit School District 3
+17|30540|Northwestern Community Unit School District 2|Northwestern Community Unit School District 2
+17|30630|Pana Community Unit School District 8|Pana Community Unit School District 8
+17|30660|Panhandle Community Unit School District 2|Panhandle Community Unit School District 2
+17|30750|Paris-Union School District 95|Paris-Union School District 95
+17|30780|Paris Community Unit School District 4|Paris Community Unit School District 4
+17|30870|Patoka Community Unit School District 100|Patoka Community Unit School District 100
+17|30930|Pawnee Community Unit School District 11|Pawnee Community Unit School District 11
+17|30990|Payson Community Unit School District 1|Payson Community Unit School District 1
+17|31020|Pearl City Community Unit School District 200|Pearl City Community Unit School District 200
+17|31050|Pecatonica Community Unit School District 321|Pecatonica Community Unit School District 321
+17|31230|Peoria School District 150|Peoria School District 150
+17|31270|Peoria Heights Community Unit School District 325|Peoria Heights Community Unit School District 325
+17|31290|Peotone Community Unit School District 207U|Peotone Community Unit School District 207U
+17|31410|Porta Community Unit School District 202|Porta Community Unit School District 202
+17|31500|Southwestern Community Unit School District 9|Southwestern Community Unit School District 9
+17|31710|Pikeland Community Unit School District 10|Pikeland Community Unit School District 10
+17|31740|Plainfield School District 202|Plainfield School District 202
+17|31770|Plano Community Unit School District 88|Plano Community Unit School District 88
+17|31890|Pleasant Hill Community Unit School District 3|Pleasant Hill Community Unit School District 3
+17|31920|Pleasant Plains Community Unit School District 8|Pleasant Plains Community Unit School District 8
+17|32100|Polo Community Unit School District 222|Polo Community Unit School District 222
+17|32280|Pope County Community Unit School District 1|Pope County Community Unit School District 1
+17|32770|Princeville Community Unit School District 326|Princeville Community Unit School District 326
+17|32830|Prophetstown-Lyndon-Tampico Community Unit School District 3|Prophetstown-Lyndon-Tampico Community Unit School District 3
+17|32960|Putnam County Community Unit School District 535|Putnam County Community Unit School District 535
+17|33000|Quincy School District 172|Quincy School District 172
+17|33090|Ramsey Community Unit School District 204|Ramsey Community Unit School District 204
+17|33300|Red Bud Community Unit School District 132|Red Bud Community Unit School District 132
+17|33380|Reed Custer Community Unit School District 255U|Reed Custer Community Unit School District 255U
+17|33930|Riverdale Community Unit School District 100|Riverdale Community Unit School District 100
+17|33950|River Bend Community Unit District 2|River Bend Community Unit District 2
+17|34100|Riverton Community Unit School District 14|Riverton Community Unit School District 14
+17|34140|Roanoke-Benson Community Unit School District 60|Roanoke-Benson Community Unit School District 60
+17|34230|Robinson Community Unit School District 2|Robinson Community Unit School District 2
+17|34320|Rochester Community Unit School District 3A|Rochester Community Unit School District 3A
+17|34410|Rock Island School District 41|Rock Island School District 41
+17|34440|Rockridge Community Unit School District 300|Rockridge Community Unit School District 300
+17|34510|Rockford School District 205|Rockford School District 205
+17|34870|Rossville-Alvin Community Unit School District 7|Rossville-Alvin Community Unit School District 7
+17|34990|Round Lake Community Unit School District 116|Round Lake Community Unit School District 116
+17|35010|Roxana Community Unit School District 1|Roxana Community Unit School District 1
+17|35310|Sandoval Community Unit School District 501|Sandoval Community Unit School District 501
+17|35370|Sandwich Community Unit School District 430|Sandwich Community Unit School District 430
+17|35610|Scales Mound Community Unit School District 211|Scales Mound Community Unit School District 211
+17|35940|Sesser-Valier Community Unit School District 196|Sesser-Valier Community Unit School District 196
+17|35970|Indian Creek Community Unit District 425|Indian Creek Community Unit District 425
+17|36090|Shelbyville Community Unit School District 4|Shelbyville Community Unit School District 4
+17|36180|Sherrard Community Unit School District 200|Sherrard Community Unit School District 200
+17|36570|Somonauk Community Unit School District 432|Somonauk Community Unit School District 432
+17|36600|South Beloit Community Unit School District 320|South Beloit Community Unit School District 320
+17|36610|Southeastern Community Unit School District 337|Southeastern Community Unit School District 337
+17|36640|South Fork School District 14|South Fork School District 14
+17|36900|Sparta Community Unit School District 140|Sparta Community Unit School District 140
+17|36960|Spoon River Valley Community Unit School District 4|Spoon River Valley Community Unit School District 4
+17|37080|Springfield School District 186|Springfield School District 186
+17|37170|St. Charles Community Unit School District 303|St. Charles Community Unit School District 303
+17|37230|St. Elmo Community Unit School District 202|St. Elmo Community Unit School District 202
+17|37350|Triad Community Unit School District 2|Triad Community Unit School District 2
+17|37490|Stark County Community Unit School District 100|Stark County Community Unit School District 100
+17|37590|Staunton Community Unit School District 6|Staunton Community Unit School District 6
+17|37650|Steeleville Community Unit School District 138|Steeleville Community Unit School District 138
+17|37830|Stewardson-Strasburg Community Unit District 5A|Stewardson-Strasburg Community Unit District 5A
+17|37980|Stockton Community Unit School District 206|Stockton Community Unit School District 206
+17|38070|Woodland Community Unit School District 5|Woodland Community Unit School District 5
+17|38130|Sullivan Community Unit School District 300|Sullivan Community Unit School District 300
+17|38460|Sycamore Community Unit School District 427|Sycamore Community Unit School District 427
+17|38490|V.I.T. Community Unit School District 2|V.I.T. Community Unit School District 2
+17|38700|Taylorville Community Unit School District 3|Taylorville Community Unit School District 3
+17|38760|Teutopolis Community Unit School District 50|Teutopolis Community Unit School District 50
+17|39090|Cumberland Community Unit School District 77|Cumberland Community Unit School District 77
+17|39120|Tolono Community Unit School District 7|Tolono Community Unit School District 7
+17|39390|Tremont Community Unit School District 702|Tremont Community Unit School District 702
+17|39420|Wesclin Community Unit School District 3|Wesclin Community Unit School District 3
+17|39450|Tri-City Community Unit School District 1|Tri-City Community Unit School District 1
+17|39480|Tri-Point Community Unit School District 6-J|Tri-Point Community Unit School District 6-J
+17|39600|Tuscola Community Unit School District 301|Tuscola Community Unit School District 301
+17|39630|Century Community Unit School District 100|Century Community Unit School District 100
+17|39960|Urbana School District 116|Urbana School District 116
+17|40070|Valley View Community Unit School District 365U|Valley View Community Unit School District 365U
+17|40080|Valmeyer Community Unit School District 3|Valmeyer Community Unit School District 3
+17|40140|Vandalia Community Unit School District 203|Vandalia Community Unit School District 203
+17|40200|Venice Community Unit School District 3|Venice Community Unit School District 3
+17|40320|Villa Grove Community Unit School District 302|Villa Grove Community Unit School District 302
+17|40380|Virden Community Unit School District 4|Virden Community Unit School District 4
+17|40410|Virginia Community Unit School District 64|Virginia Community Unit School District 64
+17|40470|Wabash Community Unit School District 348|Wabash Community Unit School District 348
+17|40650|Waltonville Community Unit School District 1|Waltonville Community Unit School District 1
+17|40740|Warren Community Unit School District 205|Warren Community Unit School District 205
+17|40830|Warrensburg-Latham Community Unit District 11|Warrensburg-Latham Community Unit District 11
+17|40890|Warsaw Community Unit School District 316|Warsaw Community Unit School District 316
+17|40920|Lowpoint-Washburn Community Unit School District 21|Lowpoint-Washburn Community Unit School District 21
+17|41070|Waterloo Community Unit School District 5|Waterloo Community Unit School District 5
+17|41190|Wauconda Community Unit School District 118|Wauconda Community Unit School District 118
+17|41250|Waukegan Community Unit School District 60|Waukegan Community Unit School District 60
+17|41280|Waverly Community Unit School District 6|Waverly Community Unit School District 6
+17|41360|Wayne City Community Unit School District 100|Wayne City Community Unit School District 100
+17|41580|Frankfort Community Unit School District 168|Frankfort Community Unit School District 168
+17|41690|Indian Prairie Community Unit School District 204|Indian Prairie Community Unit School District 204
+17|41730|West Richland Community Unit School District 2|West Richland Community Unit School District 2
+17|41750|West Washington County Community Unit District 10|West Washington County Community Unit District 10
+17|41980|Westmont Community Unit School District 201|Westmont Community Unit School District 201
+17|42060|Wethersfield Community Unit School District 230|Wethersfield Community Unit School District 230
+17|42180|Community Unit School District 200|Community Unit School District 200
+17|42240|North Greene Unit School District 3|North Greene Unit School District 3
+17|42310|Sterling Community Unit District 5|Sterling Community Unit District 5
+17|42450|Williamsfield Community Unit School District 210|Williamsfield Community Unit School District 210
+17|42480|Williamsville Community Unit School District 15|Williamsville Community Unit School District 15
+17|42630|Wilmington Community Unit School District 209U|Wilmington Community Unit School District 209U
+17|42660|Winchester Community Unit School District 1|Winchester Community Unit School District 1
+17|42690|Windsor Community Unit School District 1|Windsor Community Unit School District 1
+17|42790|Winnebago Community Unit School District 323|Winnebago Community Unit School District 323
+17|42990|Shawnee Community Unit School District 84|Shawnee Community Unit School District 84
+17|43330|Woodstock Community Unit School District 200|Woodstock Community Unit School District 200
+17|43800|Zeigler-Royalton Community Unit School District 188|Zeigler-Royalton Community Unit School District 188
+17|43960|Yorkville Community Unit School District 115|Yorkville Community Unit School District 115
+17|43962|Midwest Central Community Unit School District 191|Midwest Central Community Unit School District 191
+17|99998|School District Not Defined (Water)|School District Not Defined (Water)

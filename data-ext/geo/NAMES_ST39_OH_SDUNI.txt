@@ -1,0 +1,617 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+39|00094|Monroe Local School District|Monroe Local School District
+39|00537|Manchester Local School District|Manchester Local School District
+39|04348|Akron City School District|Akron City School District
+39|04349|Alliance City School District|Alliance City School District
+39|04350|Ashland City School District|Ashland City School District
+39|04351|Ashtabula Area City School District|Ashtabula Area City School District
+39|04352|Athens City School District|Athens City School District
+39|04353|Barberton City School District|Barberton City School District
+39|04354|Bay Village City School District|Bay Village City School District
+39|04355|Beachwood City School District|Beachwood City School District
+39|04357|Bellaire Local School District|Bellaire Local School District
+39|04358|Bellefontaine City School District|Bellefontaine City School District
+39|04359|Bellevue City School District|Bellevue City School District
+39|04360|Berea City School District|Berea City School District
+39|04361|Belpre City School District|Belpre City School District
+39|04362|Bexley City School District|Bexley City School District
+39|04363|Bowling Green City School District|Bowling Green City School District
+39|04364|Brecksville-Broadview Heights City School District|Brecksville-Broadview Heights City School District
+39|04365|Brooklyn City School District|Brooklyn City School District
+39|04366|Brunswick City School District|Brunswick City School District
+39|04367|Bryan City School District|Bryan City School District
+39|04368|Bucyrus City School District|Bucyrus City School District
+39|04369|Cambridge City School District|Cambridge City School District
+39|04370|Campbell City School District|Campbell City School District
+39|04371|Canton City School District|Canton City School District
+39|04373|Centerville City School District|Centerville City School District
+39|04374|Chillicothe City School District|Chillicothe City School District
+39|04375|Cincinnati City School District|Cincinnati City School District
+39|04376|Circleville City School District|Circleville City School District
+39|04377|Claymont City School District|Claymont City School District
+39|04378|Cleveland Municipal School District|Cleveland Municipal School District
+39|04379|Cleveland Heights-University Heights City School District|Cleveland Heights-University Heights City School District
+39|04380|Columbus City School District|Columbus City School District
+39|04381|Conneaut Area City School District|Conneaut Area City School District
+39|04382|Coshocton City School District|Coshocton City School District
+39|04383|Cuyahoga Falls City School District|Cuyahoga Falls City School District
+39|04384|Dayton City School District|Dayton City School District
+39|04385|Deer Park Community City School District|Deer Park Community City School District
+39|04386|Defiance City School District|Defiance City School District
+39|04387|Delaware City School District|Delaware City School District
+39|04388|Delphos City School District|Delphos City School District
+39|04389|Dover City School District|Dover City School District
+39|04390|East Cleveland City School District|East Cleveland City School District
+39|04391|East Liverpool City School District|East Liverpool City School District
+39|04392|East Palestine City School District|East Palestine City School District
+39|04393|Eaton Community City School District|Eaton Community City School District
+39|04394|Elyria City School District|Elyria City School District
+39|04395|Euclid City School District|Euclid City School District
+39|04396|Fairborn City School District|Fairborn City School District
+39|04397|Fairview Park City School District|Fairview Park City School District
+39|04399|Fostoria City School District|Fostoria City School District
+39|04400|Franklin City School District|Franklin City School District
+39|04401|Fremont City School District|Fremont City School District
+39|04402|Galion City School District|Galion City School District
+39|04403|Gallipolis City School District|Gallipolis City School District
+39|04404|Garfield Heights City School District|Garfield Heights City School District
+39|04405|Geneva Area City School District|Geneva Area City School District
+39|04406|Girard City School District|Girard City School District
+39|04407|Grandview Heights City School District|Grandview Heights City School District
+39|04408|Winton Woods City School District|Winton Woods City School District
+39|04409|Greenville City School District|Greenville City School District
+39|04410|Hamilton City School District|Hamilton City School District
+39|04411|Heath City School District|Heath City School District
+39|04412|Hillsboro City School District|Hillsboro City School District
+39|04413|Huron City School District|Huron City School District
+39|04414|Ironton City School District|Ironton City School District
+39|04415|Jackson City School District|Jackson City School District
+39|04416|Kent City School District|Kent City School District
+39|04418|Kettering City School District|Kettering City School District
+39|04419|Lakewood City School District|Lakewood City School District
+39|04420|Lancaster City School District|Lancaster City School District
+39|04421|Lebanon City School District|Lebanon City School District
+39|04422|Lima City School District|Lima City School District
+39|04423|Lockland Local School District|Lockland Local School District
+39|04424|Logan-Hocking Local School District|Logan-Hocking Local School District
+39|04425|London City School District|London City School District
+39|04426|Lorain City School District|Lorain City School District
+39|04427|Loveland City School District|Loveland City School District
+39|04428|Madeira City School District|Madeira City School District
+39|04429|Mansfield City School District|Mansfield City School District
+39|04430|Maple Heights City School District|Maple Heights City School District
+39|04431|Mariemont City School District|Mariemont City School District
+39|04433|Marion City School District|Marion City School District
+39|04434|Martins Ferry City School District|Martins Ferry City School District
+39|04435|Massillon City School District|Massillon City School District
+39|04436|Maumee City School District|Maumee City School District
+39|04437|Mayfield City School District|Mayfield City School District
+39|04438|Medina City School District|Medina City School District
+39|04439|Miamisburg City School District|Miamisburg City School District
+39|04440|Middletown City School District|Middletown City School District
+39|04441|Mount Healthy City School District|Mount Healthy City School District
+39|04443|Napoleon Area City School District|Napoleon Area City School District
+39|04444|Nelsonville-York City School District|Nelsonville-York City School District
+39|04445|Newark City School District|Newark City School District
+39|04446|New Boston Local School District|New Boston Local School District
+39|04447|New Lexington City School District|New Lexington City School District
+39|04448|New Philadelphia City School District|New Philadelphia City School District
+39|04449|Niles City School District|Niles City School District
+39|04450|North Canton City School District|North Canton City School District
+39|04451|North College Hill City School District|North College Hill City School District
+39|04452|North Olmsted City School District|North Olmsted City School District
+39|04453|North Ridgeville City School District|North Ridgeville City School District
+39|04454|North Royalton City School District|North Royalton City School District
+39|04455|Norton City School District|Norton City School District
+39|04456|Norwalk City School District|Norwalk City School District
+39|04457|Norwood City School District|Norwood City School District
+39|04458|Oakwood City School District|Oakwood City School District
+39|04459|Oberlin City School District|Oberlin City School District
+39|04460|Oregon City School District|Oregon City School District
+39|04461|Orrville City School District|Orrville City School District
+39|04463|Parma City School District|Parma City School District
+39|04464|Piqua City School District|Piqua City School District
+39|04465|Port Clinton City School District|Port Clinton City School District
+39|04467|Princeton City School District|Princeton City School District
+39|04468|Ravenna City School District|Ravenna City School District
+39|04469|Reading Community City School District|Reading Community City School District
+39|04470|Rocky River City School District|Rocky River City School District
+39|04471|St. Bernard-Elmwood Place City School District|St. Bernard-Elmwood Place City School District
+39|04472|St. Marys City School District|St. Marys City School District
+39|04474|Sandusky City School District|Sandusky City School District
+39|04475|Shaker Heights City School District|Shaker Heights City School District
+39|04476|Sheffield-Sheffield Lake City School District|Sheffield-Sheffield Lake City School District
+39|04479|South Euclid-Lyndhurst City School District|South Euclid-Lyndhurst City School District
+39|04480|South-Western City School District|South-Western City School District
+39|04481|Springfield City School District|Springfield City School District
+39|04482|Steubenville City School District|Steubenville City School District
+39|04483|Stow-Munroe Falls City School District|Stow-Munroe Falls City School District
+39|04484|Strongsville City School District|Strongsville City School District
+39|04485|Struthers City School District|Struthers City School District
+39|04486|Sycamore Community City School District|Sycamore Community City School District
+39|04487|Sylvania City School District|Sylvania City School District
+39|04488|Tallmadge City School District|Tallmadge City School District
+39|04489|Tiffin City School District|Tiffin City School District
+39|04490|Toledo City School District|Toledo City School District
+39|04491|Toronto City School District|Toronto City School District
+39|04492|Troy City School District|Troy City School District
+39|04493|Upper Arlington City School District|Upper Arlington City School District
+39|04494|Urbana City School District|Urbana City School District
+39|04495|Vandalia-Butler City School District|Vandalia-Butler City School District
+39|04498|Wapakoneta City School District|Wapakoneta City School District
+39|04499|Warren City School District|Warren City School District
+39|04500|Warrensville Heights City School District|Warrensville Heights City School District
+39|04502|Wellston City School District|Wellston City School District
+39|04503|Wellsville Local School District|Wellsville Local School District
+39|04504|Westerville City School District|Westerville City School District
+39|04505|West Carrollton City School District|West Carrollton City School District
+39|04506|Westlake City School District|Westlake City School District
+39|04507|Whitehall City School District|Whitehall City School District
+39|04508|Wickliffe City School District|Wickliffe City School District
+39|04509|Willard City School District|Willard City School District
+39|04510|Willoughby-Eastlake City School District|Willoughby-Eastlake City School District
+39|04511|Wilmington City School District|Wilmington City School District
+39|04513|Worthington City School District|Worthington City School District
+39|04514|Wyoming City School District|Wyoming City School District
+39|04515|Xenia Community City School District|Xenia Community City School District
+39|04516|Youngstown City School District|Youngstown City School District
+39|04517|Zanesville City School District|Zanesville City School District
+39|04518|Ada Exempted Village School District|Ada Exempted Village School District
+39|04519|Amherst Exempted Village School District|Amherst Exempted Village School District
+39|04520|Barnesville Exempted Village School District|Barnesville Exempted Village School District
+39|04521|Bluffton Exempted Village School District|Bluffton Exempted Village School District
+39|04522|Bradford Exempted Village School District|Bradford Exempted Village School District
+39|04523|Bridgeport Exempted Village School District|Bridgeport Exempted Village School District
+39|04524|Harrison Hills City School District|Harrison Hills City School District
+39|04525|Caldwell Exempted Village School District|Caldwell Exempted Village School District
+39|04526|Carey Exempted Village School District|Carey Exempted Village School District
+39|04527|Carrollton Exempted Village School District|Carrollton Exempted Village School District
+39|04528|Chagrin Falls Exempted Village School District|Chagrin Falls Exempted Village School District
+39|04529|Chesapeake Union Exempted Village School District|Chesapeake Union Exempted Village School District
+39|04531|Coldwater Exempted Village School District|Coldwater Exempted Village School District
+39|04532|Columbiana Exempted Village School District|Columbiana Exempted Village School District
+39|04533|Covington Exempted Village School District|Covington Exempted Village School District
+39|04535|Crooksville Exempted Village School District|Crooksville Exempted Village School District
+39|04536|Fairport Harbor Exempted Village School District|Fairport Harbor Exempted Village School District
+39|04537|Georgetown Exempted Village School District|Georgetown Exempted Village School District
+39|04538|Gibsonburg Exempted Village School District|Gibsonburg Exempted Village School District
+39|04539|Granville Exempted Village School District|Granville Exempted Village School District
+39|04540|Greenfield Exempted Village School District|Greenfield Exempted Village School District
+39|04541|Hicksville Exempted Village School District|Hicksville Exempted Village School District
+39|04542|Hubbard Exempted Village School District|Hubbard Exempted Village School District
+39|04543|Indian Hill Exempted Village School District|Indian Hill Exempted Village School District
+39|04545|Lisbon Exempted Village School District|Lisbon Exempted Village School District
+39|04546|Loudonville-Perrysville Exempted Village School District|Loudonville-Perrysville Exempted Village School District
+39|04547|Marysville Exempted Village School District|Marysville Exempted Village School District
+39|04548|Mechanicsburg Exempted Village School District|Mechanicsburg Exempted Village School District
+39|04549|Mentor Exempted Village School District|Mentor Exempted Village School District
+39|04550|Milford Exempted Village School District|Milford Exempted Village School District
+39|04551|Milton-Union Exempted Village School District|Milton-Union Exempted Village School District
+39|04552|Montpelier Exempted Village School District|Montpelier Exempted Village School District
+39|04553|Mount Gilead Exempted Village School District|Mount Gilead Exempted Village School District
+39|04554|Newcomerstown Exempted Village School District|Newcomerstown Exempted Village School District
+39|04555|New Richmond Exempted Village School District|New Richmond Exempted Village School District
+39|04556|Newton Falls Exempted Village School District|Newton Falls Exempted Village School District
+39|04557|Paulding Exempted Village School District|Paulding Exempted Village School District
+39|04558|Perrysburg Exempted Village School District|Perrysburg Exempted Village School District
+39|04560|Rossford Exempted Village School District|Rossford Exempted Village School District
+39|04561|Tipp City Exempted Village School District|Tipp City Exempted Village School District
+39|04563|Versailles Exempted Village School District|Versailles Exempted Village School District
+39|04564|Wauseon Exempted Village School District|Wauseon Exempted Village School District
+39|04565|Wellington Exempted Village School District|Wellington Exempted Village School District
+39|04566|Windham Exempted Village School District|Windham Exempted Village School District
+39|04567|Yellow Springs Exempted Village School District|Yellow Springs Exempted Village School District
+39|04575|Allen East Local School District|Allen East Local School District
+39|04576|Bath Local School District|Bath Local School District
+39|04577|Elida Local School District|Elida Local School District
+39|04578|Perry Local School District|Perry Local School District
+39|04579|Shawnee Local School District|Shawnee Local School District
+39|04580|Spencerville Local School District|Spencerville Local School District
+39|04582|Hillsdale Local School District|Hillsdale Local School District
+39|04583|Mapleton Local School District|Mapleton Local School District
+39|04585|Buckeye Local School District|Buckeye Local School District
+39|04586|Grand Valley Local School District|Grand Valley Local School District
+39|04587|Jefferson Area Local School District|Jefferson Area Local School District
+39|04588|Pymatuning Valley Local School District|Pymatuning Valley Local School District
+39|04590|Alexander Local School District|Alexander Local School District
+39|04591|Federal Hocking Local School District|Federal Hocking Local School District
+39|04592|Trimble Local School District|Trimble Local School District
+39|04594|Minster Local School District|Minster Local School District
+39|04595|New Bremen Local School District|New Bremen Local School District
+39|04596|New Knoxville Local School District|New Knoxville Local School District
+39|04597|Waynesfield-Goshen Local School District|Waynesfield-Goshen Local School District
+39|04599|St. Clairsville-Richland City School District|St. Clairsville-Richland City School District
+39|04600|Shadyside Local School District|Shadyside Local School District
+39|04601|Union Local School District|Union Local School District
+39|04603|Eastern Local School District|Eastern Local School District
+39|04604|Fayetteville-Perry Local School District|Fayetteville-Perry Local School District
+39|04606|Western Brown Local School District|Western Brown Local School District
+39|04607|Ripley-Union-Lewis-Huntington Local School District|Ripley-Union-Lewis-Huntington Local School District
+39|04609|Edgewood City School District|Edgewood City School District
+39|04610|Fairfield City School District|Fairfield City School District
+39|04611|Lakota Local School District|Lakota Local School District
+39|04612|Madison Local School District|Madison Local School District
+39|04613|New Miami Local School District|New Miami Local School District
+39|04614|Ross Local School District|Ross Local School District
+39|04615|Talawanda City School District|Talawanda City School District
+39|04617|Brown Local School District|Brown Local School District
+39|04619|Graham Local School District|Graham Local School District
+39|04620|Triad Local School District|Triad Local School District
+39|04621|West Liberty-Salem Local School District|West Liberty-Salem Local School District
+39|04623|Greenon Local School District|Greenon Local School District
+39|04624|Tecumseh Local School District|Tecumseh Local School District
+39|04625|Northeastern Local School District|Northeastern Local School District
+39|04626|Northwestern Local School District|Northwestern Local School District
+39|04627|Southeastern Local School District|Southeastern Local School District
+39|04628|Clark-Shawnee Local School District|Clark-Shawnee Local School District
+39|04630|Batavia Local School District|Batavia Local School District
+39|04631|Bethel-Tate Local School District|Bethel-Tate Local School District
+39|04632|Clermont Northeastern Local School District|Clermont Northeastern Local School District
+39|04633|Felicity-Franklin Local School District|Felicity-Franklin Local School District
+39|04634|Goshen Local School District|Goshen Local School District
+39|04635|West Clermont Local School District|West Clermont Local School District
+39|04636|Williamsburg Local School District|Williamsburg Local School District
+39|04638|Blanchester Local School District|Blanchester Local School District
+39|04639|Clinton-Massie Local School District|Clinton-Massie Local School District
+39|04640|East Clinton Local School District|East Clinton Local School District
+39|04642|Beaver Local School District|Beaver Local School District
+39|04643|Crestview Local School District|Crestview Local School District
+39|04644|Southern Local School District|Southern Local School District
+39|04645|United Local School District|United Local School District
+39|04647|Ridgewood Local School District|Ridgewood Local School District
+39|04648|River View Local School District|River View Local School District
+39|04650|Buckeye Central Local School District|Buckeye Central Local School District
+39|04651|Colonel Crawford Local School District|Colonel Crawford Local School District
+39|04652|Wynford Local School District|Wynford Local School District
+39|04655|Cuyahoga Heights Local School District|Cuyahoga Heights Local School District
+39|04656|Independence Local School District|Independence Local School District
+39|04657|Olmsted Falls City School District|Olmsted Falls City School District
+39|04659|Richmond Heights Local School District|Richmond Heights Local School District
+39|04660|Solon City School District|Solon City School District
+39|04662|Ansonia Local School District|Ansonia Local School District
+39|04663|Arcanum-Butler Local School District|Arcanum-Butler Local School District
+39|04664|Franklin Monroe Local School District|Franklin Monroe Local School District
+39|04667|Mississinawa Valley Local School District|Mississinawa Valley Local School District
+39|04668|Tri-Village Local School District|Tri-Village Local School District
+39|04670|Ayersville Local School District|Ayersville Local School District
+39|04671|Central Local School District|Central Local School District
+39|04672|Northeastern Local School District|Northeastern Local School District
+39|04674|Big Walnut Local School District|Big Walnut Local School District
+39|04675|Buckeye Valley Local School District|Buckeye Valley Local School District
+39|04676|Olentangy Local School District|Olentangy Local School District
+39|04678|Berlin-Milan Local School District|Berlin-Milan Local School District
+39|04679|Kelleys Island Local School District|Kelleys Island Local School District
+39|04680|Margaretta Local School District|Margaretta Local School District
+39|04681|Perkins Local School District|Perkins Local School District
+39|04682|Vermilion Local School District|Vermilion Local School District
+39|04684|Amanda-Clearcreek Local School District|Amanda-Clearcreek Local School District
+39|04685|Berne Union Local School District|Berne Union Local School District
+39|04686|Bloom-Carroll Local School District|Bloom-Carroll Local School District
+39|04687|Fairfield Union Local School District|Fairfield Union Local School District
+39|04688|Liberty Union-Thurston Local School District|Liberty Union-Thurston Local School District
+39|04689|Pickerington Local School District|Pickerington Local School District
+39|04690|Walnut Township Local School District|Walnut Township Local School District
+39|04694|Canal Winchester Local School District|Canal Winchester Local School District
+39|04695|Hamilton Local School District|Hamilton Local School District
+39|04696|Gahanna-Jefferson City School District|Gahanna-Jefferson City School District
+39|04697|Groveport Madison Local School District|Groveport Madison Local School District
+39|04699|New Albany-Plain Local School District|New Albany-Plain Local School District
+39|04700|Reynoldsburg City School District|Reynoldsburg City School District
+39|04701|Hilliard City School District|Hilliard City School District
+39|04702|Dublin City School District|Dublin City School District
+39|04704|Archbold Area Local School District|Archbold Area Local School District
+39|04705|Evergreen Local School District|Evergreen Local School District
+39|04706|Fayette Local School District|Fayette Local School District
+39|04707|Pettisville Local School District|Pettisville Local School District
+39|04708|Pike-Delta-York Local School District|Pike-Delta-York Local School District
+39|04709|Swanton Local School District|Swanton Local School District
+39|04716|Berkshire Local School District|Berkshire Local School District
+39|04717|Cardinal Local School District|Cardinal Local School District
+39|04718|Chardon Local School District|Chardon Local School District
+39|04719|Kenston Local School District|Kenston Local School District
+39|04720|Ledgemont Local School District|Ledgemont Local School District
+39|04721|Newbury Local School District|Newbury Local School District
+39|04722|West Geauga Local School District|West Geauga Local School District
+39|04724|Beavercreek City School District|Beavercreek City School District
+39|04725|Cedar Cliff Local School District|Cedar Cliff Local School District
+39|04726|Greeneview Local School District|Greeneview Local School District
+39|04727|Sugarcreek Local School District|Sugarcreek Local School District
+39|04730|Rolling Hills Local School District|Rolling Hills Local School District
+39|04733|Finneytown Local School District|Finneytown Local School District
+39|04734|Forest Hills Local School District|Forest Hills Local School District
+39|04736|Northwest Local School District|Northwest Local School District
+39|04737|Oak Hills Local School District|Oak Hills Local School District
+39|04738|Southwest Local School District|Southwest Local School District
+39|04739|Three Rivers Local School District|Three Rivers Local School District
+39|04742|Arlington Local School District|Arlington Local School District
+39|04743|Cory-Rawson Local School District|Cory-Rawson Local School District
+39|04744|Liberty-Benton Local School District|Liberty-Benton Local School District
+39|04745|McComb Local School District|McComb Local School District
+39|04747|Vanlue Local School District|Vanlue Local School District
+39|04749|Hardin Northern Local School District|Hardin Northern Local School District
+39|04750|Ridgemont Local School District|Ridgemont Local School District
+39|04751|Riverdale Local School District|Riverdale Local School District
+39|04752|Upper Scioto Valley Local School District|Upper Scioto Valley Local School District
+39|04754|Conotton Valley Union Local School District|Conotton Valley Union Local School District
+39|04757|Holgate Local School District|Holgate Local School District
+39|04758|Liberty Center Local School District|Liberty Center Local School District
+39|04759|Patrick Henry Local School District|Patrick Henry Local School District
+39|04761|Bright Local School District|Bright Local School District
+39|04762|Fairfield Local School District|Fairfield Local School District
+39|04763|Lynchburg-Clay Local School District|Lynchburg-Clay Local School District
+39|04768|East Holmes Local School District|East Holmes Local School District
+39|04769|West Holmes Local School District|West Holmes Local School District
+39|04771|Monroeville Local School District|Monroeville Local School District
+39|04772|New London Local School District|New London Local School District
+39|04773|South Central Local School District|South Central Local School District
+39|04774|Western Reserve Local School District|Western Reserve Local School District
+39|04776|Oak Hill Union Local School District|Oak Hill Union Local School District
+39|04778|Buckeye Local School District|Buckeye Local School District
+39|04779|Edison Local School District|Edison Local School District
+39|04780|Indian Creek Local School District|Indian Creek Local School District
+39|04782|Centerburg Local School District|Centerburg Local School District
+39|04783|Danville Local School District|Danville Local School District
+39|04785|Fredericktown Local School District|Fredericktown Local School District
+39|04787|Kirtland Local School District|Kirtland Local School District
+39|04788|Madison Local School District|Madison Local School District
+39|04790|Perry Local School District|Perry Local School District
+39|04792|Dawson-Bryant Local School District|Dawson-Bryant Local School District
+39|04793|Fairland Local School District|Fairland Local School District
+39|04794|Rock Hill Local School District|Rock Hill Local School District
+39|04795|South Point Local School District|South Point Local School District
+39|04796|Symmes Valley Local School District|Symmes Valley Local School District
+39|04798|Johnstown-Monroe Local School District|Johnstown-Monroe Local School District
+39|04799|Lakewood Local School District|Lakewood Local School District
+39|04800|Licking Heights Local School District|Licking Heights Local School District
+39|04801|Licking Valley Local School District|Licking Valley Local School District
+39|04802|North Fork Local School District|North Fork Local School District
+39|04803|Northridge Local School District|Northridge Local School District
+39|04804|Southwest Licking Local School District|Southwest Licking Local School District
+39|04807|Benjamin Logan Local School District|Benjamin Logan Local School District
+39|04808|Indian Lake Local School District|Indian Lake Local School District
+39|04809|Riverside Local School District|Riverside Local School District
+39|04811|Avon Local School District|Avon Local School District
+39|04812|Avon Lake City School District|Avon Lake City School District
+39|04813|Clearview Local School District|Clearview Local School District
+39|04814|Columbia Local School District|Columbia Local School District
+39|04815|Firelands Local School District|Firelands Local School District
+39|04816|Keystone Local School District|Keystone Local School District
+39|04817|Midview Local School District|Midview Local School District
+39|04820|Anthony Wayne Local School District|Anthony Wayne Local School District
+39|04821|Ottawa Hills Local School District|Ottawa Hills Local School District
+39|04822|Springfield Local School District|Springfield Local School District
+39|04823|Washington Local School District|Washington Local School District
+39|04825|Jefferson Local School District|Jefferson Local School District
+39|04826|Jonathan Alder Local School District|Jonathan Alder Local School District
+39|04827|Madison-Plains Local School District|Madison-Plains Local School District
+39|04829|Austintown Local School District|Austintown Local School District
+39|04830|Boardman Local School District|Boardman Local School District
+39|04831|Canfield Local School District|Canfield Local School District
+39|04832|Jackson-Milton Local School District|Jackson-Milton Local School District
+39|04833|Lowellville Local School District|Lowellville Local School District
+39|04834|Poland Local School District|Poland Local School District
+39|04835|Sebring Local School District|Sebring Local School District
+39|04836|South Range Local School District|South Range Local School District
+39|04837|Springfield Local School District|Springfield Local School District
+39|04838|West Branch Local School District|West Branch Local School District
+39|04839|Western Reserve Local School District|Western Reserve Local School District
+39|04841|Elgin Local School District|Elgin Local School District
+39|04842|Pleasant Local School District|Pleasant Local School District
+39|04843|Ridgedale Local School District|Ridgedale Local School District
+39|04844|River Valley Local School District|River Valley Local School District
+39|04846|Black River Local School District|Black River Local School District
+39|04847|Buckeye Local School District|Buckeye Local School District
+39|04848|Cloverleaf Local School District|Cloverleaf Local School District
+39|04849|Highland Local School District|Highland Local School District
+39|04851|Eastern Local School District|Eastern Local School District
+39|04852|Meigs Local School District|Meigs Local School District
+39|04853|Southern Local School District|Southern Local School District
+39|04857|Parkway Local School District|Parkway Local School District
+39|04858|St. Henry Consolidated Local School District|St. Henry Consolidated Local School District
+39|04859|Fort Recovery Local School District|Fort Recovery Local School District
+39|04861|Bethel Local School District|Bethel Local School District
+39|04862|Miami East Local School District|Miami East Local School District
+39|04863|Newton Local School District|Newton Local School District
+39|04865|Switzerland of Ohio Local School District|Switzerland of Ohio Local School District
+39|04867|Brookville Local School District|Brookville Local School District
+39|04868|Jefferson Township Local School District|Jefferson Township Local School District
+39|04869|Trotwood-Madison City School District|Trotwood-Madison City School District
+39|04870|Mad River Local School District|Mad River Local School District
+39|04871|New Lebanon Local School District|New Lebanon Local School District
+39|04872|Northmont City School District|Northmont City School District
+39|04873|Northridge Local School District|Northridge Local School District
+39|04874|Valley View Local School District|Valley View Local School District
+39|04875|Huber Heights City School District|Huber Heights City School District
+39|04877|Morgan Local School District|Morgan Local School District
+39|04879|Cardington-Lincoln Local School District|Cardington-Lincoln Local School District
+39|04880|Highland Local School District|Highland Local School District
+39|04881|Northmor Local School District|Northmor Local School District
+39|04883|East Muskingum Local School District|East Muskingum Local School District
+39|04884|Franklin Local School District|Franklin Local School District
+39|04885|Maysville Local School District|Maysville Local School District
+39|04887|Tri-Valley Local School District|Tri-Valley Local School District
+39|04888|West Muskingum Local School District|West Muskingum Local School District
+39|04890|Noble Local School District|Noble Local School District
+39|04892|Benton-Carroll-Salem Local School District|Benton-Carroll-Salem Local School District
+39|04893|Danbury Local School District|Danbury Local School District
+39|04894|Genoa Area Local School District|Genoa Area Local School District
+39|04895|Middle Bass Local School District|Middle Bass Local School District
+39|04896|North Bass Local School District|North Bass Local School District
+39|04897|Put-in-Bay Local School District|Put-in-Bay Local School District
+39|04899|Antwerp Local School District|Antwerp Local School District
+39|04900|Twin Valley Community Local School District|Twin Valley Community Local School District
+39|04903|Wayne Trace Local School District|Wayne Trace Local School District
+39|04905|Northern Local School District|Northern Local School District
+39|04906|Southern Local School District|Southern Local School District
+39|04908|Logan Elm Local School District|Logan Elm Local School District
+39|04909|Teays Valley Local School District|Teays Valley Local School District
+39|04910|Westfall Local School District|Westfall Local School District
+39|04912|Eastern Local School District|Eastern Local School District
+39|04913|Scioto Valley Local School District|Scioto Valley Local School District
+39|04914|Waverly City School District|Waverly City School District
+39|04915|Western Local School District|Western Local School District
+39|04917|Aurora City School District|Aurora City School District
+39|04918|Crestwood Local School District|Crestwood Local School District
+39|04919|Field Local School District|Field Local School District
+39|04920|James A. Garfield Local School District|James A. Garfield Local School District
+39|04921|Rootstown Local School District|Rootstown Local School District
+39|04922|Southeast Local School District|Southeast Local School District
+39|04923|Streetsboro City School District|Streetsboro City School District
+39|04924|Waterloo Local School District|Waterloo Local School District
+39|04926|Tri-County North Local School District|Tri-County North Local School District
+39|04927|National Trail Local School District|National Trail Local School District
+39|04928|Preble Shawnee Local School District|Preble Shawnee Local School District
+39|04931|Columbus Grove Local School District|Columbus Grove Local School District
+39|04932|Continental Local School District|Continental Local School District
+39|04933|Jennings Local School District|Jennings Local School District
+39|04934|Kalida Local School District|Kalida Local School District
+39|04935|Leipsic Local School District|Leipsic Local School District
+39|04936|Miller City-New Cleveland Local School District|Miller City-New Cleveland Local School District
+39|04937|Ottawa-Glandorf Local School District|Ottawa-Glandorf Local School District
+39|04938|Ottoville Local School District|Ottoville Local School District
+39|04939|Pandora-Gilboa Local School District|Pandora-Gilboa Local School District
+39|04941|Clear Fork Valley Local School District|Clear Fork Valley Local School District
+39|04942|Crestview Local School District|Crestview Local School District
+39|04943|Lexington Local School District|Lexington Local School District
+39|04944|Lucas Local School District|Lucas Local School District
+39|04945|Madison Local School District|Madison Local School District
+39|04946|Plymouth-Shiloh Local School District|Plymouth-Shiloh Local School District
+39|04947|Ontario Local School District|Ontario Local School District
+39|04949|Adena Local School District|Adena Local School District
+39|04950|Huntington Local School District|Huntington Local School District
+39|04951|Paint Valley Local School District|Paint Valley Local School District
+39|04952|Southeastern Local School District|Southeastern Local School District
+39|04953|Union-Scioto Local School District|Union-Scioto Local School District
+39|04954|Zane Trace Local School District|Zane Trace Local School District
+39|04956|Lakota Local School District|Lakota Local School District
+39|04957|Woodmore Local School District|Woodmore Local School District
+39|04959|Bloom-Vernon Local School District|Bloom-Vernon Local School District
+39|04961|Green Local School District|Green Local School District
+39|04962|Minford Local School District|Minford Local School District
+39|04963|Northwest Local School District|Northwest Local School District
+39|04964|Valley Local School District|Valley Local School District
+39|04965|Washington-Nile Local School District|Washington-Nile Local School District
+39|04966|Wheelersburg Local School District|Wheelersburg Local School District
+39|04968|Seneca East Local School District|Seneca East Local School District
+39|04969|Bettsville Local School District|Bettsville Local School District
+39|04970|Hopewell-Loudon Local School District|Hopewell-Loudon Local School District
+39|04971|New Riegel Local School District|New Riegel Local School District
+39|04976|Botkins Local School District|Botkins Local School District
+39|04977|Fairlawn Local School District|Fairlawn Local School District
+39|04978|Fort Loramie Local School District|Fort Loramie Local School District
+39|04979|Hardin-Houston Local School District|Hardin-Houston Local School District
+39|04981|Russia Local School District|Russia Local School District
+39|04983|Canton Local School District|Canton Local School District
+39|04984|Fairless Local School District|Fairless Local School District
+39|04985|Jackson Local School District|Jackson Local School District
+39|04986|Lake Local School District|Lake Local School District
+39|04987|Louisville City School District|Louisville City School District
+39|04988|Marlington Local School District|Marlington Local School District
+39|04989|Minerva Local School District|Minerva Local School District
+39|04990|Northwest Local School District|Northwest Local School District
+39|04991|Osnaburg Local School District|Osnaburg Local School District
+39|04992|Perry Local School District|Perry Local School District
+39|04993|Plain Local School District|Plain Local School District
+39|04994|Sandy Valley Local School District|Sandy Valley Local School District
+39|04995|Tuslaw Local School District|Tuslaw Local School District
+39|04997|Woodridge Local School District|Woodridge Local School District
+39|04998|Copley-Fairlawn City School District|Copley-Fairlawn City School District
+39|04999|Coventry Local School District|Coventry Local School District
+39|05000|Manchester Local School District|Manchester Local School District
+39|05001|Green Local School District|Green Local School District
+39|05002|Hudson City School District|Hudson City School District
+39|05003|Mogadore Local School District|Mogadore Local School District
+39|05004|Nordonia Hills City School District|Nordonia Hills City School District
+39|05005|Revere Local School District|Revere Local School District
+39|05006|Springfield Local School District|Springfield Local School District
+39|05007|Twinsburg City School District|Twinsburg City School District
+39|05009|Bloomfield-Mespo Local School District|Bloomfield-Mespo Local School District
+39|05011|Bristol Local School District|Bristol Local School District
+39|05012|Brookfield Local School District|Brookfield Local School District
+39|05013|Champion Local School District|Champion Local School District
+39|05015|Mathews Local School District|Mathews Local School District
+39|05016|Howland Local School District|Howland Local School District
+39|05017|Joseph Badger Local School District|Joseph Badger Local School District
+39|05018|Lakeview Local School District|Lakeview Local School District
+39|05019|Liberty Local School District|Liberty Local School District
+39|05020|Lordstown Local School District|Lordstown Local School District
+39|05021|Maplewood Local School District|Maplewood Local School District
+39|05022|McDonald Local School District|McDonald Local School District
+39|05023|Southington Local School District|Southington Local School District
+39|05024|LaBrae Local School District|LaBrae Local School District
+39|05025|Weathersfield Local School District|Weathersfield Local School District
+39|05027|Garaway Local School District|Garaway Local School District
+39|05028|Indian Valley Local School District|Indian Valley Local School District
+39|05029|Strasburg-Franklin Local School District|Strasburg-Franklin Local School District
+39|05030|Tuscarawas Valley Local School District|Tuscarawas Valley Local School District
+39|05032|Fairbanks Local School District|Fairbanks Local School District
+39|05033|North Union Local School District|North Union Local School District
+39|05035|Crestview Local School District|Crestview Local School District
+39|05039|Vinton County Local School District|Vinton County Local School District
+39|05041|Carlisle Local School District|Carlisle Local School District
+39|05042|Springboro Community City School District|Springboro Community City School District
+39|05043|Kings Local School District|Kings Local School District
+39|05044|Little Miami Local School District|Little Miami Local School District
+39|05045|Mason City School District|Mason City School District
+39|05046|Wayne Local School District|Wayne Local School District
+39|05048|Fort Frye Local School District|Fort Frye Local School District
+39|05049|Frontier Local School District|Frontier Local School District
+39|05051|Wolf Creek Local School District|Wolf Creek Local School District
+39|05053|Chippewa Local School District|Chippewa Local School District
+39|05054|Dalton Local School District|Dalton Local School District
+39|05055|Green Local School District|Green Local School District
+39|05056|North Central Local School District|North Central Local School District
+39|05058|Southeast Local School District|Southeast Local School District
+39|05059|Triway Local School District|Triway Local School District
+39|05061|Edgerton Local School District|Edgerton Local School District
+39|05062|Edon Northwest Local School District|Edon Northwest Local School District
+39|05063|Millcreek-West Unity Local School District|Millcreek-West Unity Local School District
+39|05064|North Central Local School District|North Central Local School District
+39|05065|Stryker Local School District|Stryker Local School District
+39|05067|Eastwood Local School District|Eastwood Local School District
+39|05068|Elmwood Local School District|Elmwood Local School District
+39|05069|Lake Local School District|Lake Local School District
+39|05070|North Baltimore Local School District|North Baltimore Local School District
+39|05071|Northwood Local School District|Northwood Local School District
+39|05072|Otsego Local School District|Otsego Local School District
+39|05074|Mohawk Local School District|Mohawk Local School District
+39|06190|Adams County/Ohio Valley Local School District|Adams County/Ohio Valley Local School District
+39|06496|College Corner Local School District|College Corner Local School District
+39|06568|Gallia County Local School District|Gallia County Local School District
+39|06968|East Guernsey Local School District|East Guernsey Local School District
+39|10000|Findlay City School District|Findlay City School District
+39|10001|Van Buren Local School District|Van Buren Local School District
+39|10002|Arcadia Local School District|Arcadia Local School District
+39|10003|Sidney City School District|Sidney City School District
+39|10004|Anna Local School District|Anna Local School District
+39|10005|Jackson Center Local School District|Jackson Center Local School District
+39|10006|Salem City School District|Salem City School District
+39|10007|Leetonia Exempted Village School District|Leetonia Exempted Village School District
+39|10008|Crestline Exempted Village School District|Crestline Exempted Village School District
+39|10009|Shelby City School District|Shelby City School District
+39|10010|Miami Trace Local School District|Miami Trace Local School District
+39|10011|Washington Court House City School District|Washington Court House City School District
+39|10012|Mount Vernon City School District|Mount Vernon City School District
+39|10013|East Knox Local School District|East Knox Local School District
+39|10014|Riverside Local School District|Riverside Local School District
+39|10015|Painesville City Local School District|Painesville City Local School District
+39|10016|Orange City School District|Orange City School District
+39|10017|Bedford City School District|Bedford City School District
+39|10018|Warren Local School District|Warren Local School District
+39|10019|Marietta City School District|Marietta City School District
+39|10020|Clyde-Green Springs Exempted Village School District|Clyde-Green Springs Exempted Village School District
+39|10021|Old Fort Local School District|Old Fort Local School District
+39|10022|Lincolnview Local School District|Lincolnview Local School District
+39|10023|Van Wert City School District|Van Wert City School District
+39|10024|Upper Sandusky Exempted Village School District|Upper Sandusky Exempted Village School District
+39|10025|Kenton City School District|Kenton City School District
+39|10026|Clay Local School District|Clay Local School District
+39|10027|Portsmouth City School District|Portsmouth City School District
+39|10028|Rittman Exempted Village School District|Rittman Exempted Village School District
+39|10029|Wadsworth City School District|Wadsworth City School District
+39|10030|Celina City School District|Celina City School District
+39|10031|Marion Local School District|Marion Local School District
+39|10032|Wooster City School District|Wooster City School District
+39|10033|Northwestern Local School District|Northwestern Local School District
+39|99997|School District Not Defined|School District Not Defined
+39|99998|School District Not Defined (Water)|School District Not Defined (Water)

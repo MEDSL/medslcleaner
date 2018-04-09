@@ -1,0 +1,2175 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+47|001|0008|Andersonville|Andersonville Voting District
+47|001|0010|Block House Valley|Block House Valley Voting District
+47|001|0012|Briceville|Briceville Voting District
+47|001|0016|Oak Ridge City Hall|Oak Ridge City Hall Voting District
+47|001|0024|Claxton|Claxton Voting District
+47|001|0028|Clinton|Clinton Voting District
+47|001|0032|Clinton High|Clinton High Voting District
+47|001|0036|Clinton Middle School|Clinton Middle School Voting District
+47|001|0040|Dutch Valley|Dutch Valley Voting District
+47|001|0044|Emory Valley|Emory Valley Voting District
+47|001|0048|Fairview|Fairview Voting District
+47|001|0052|Clinch Valley|Clinch Valley Voting District
+47|001|0056|Glenwood|Glenwood Voting District
+47|001|0060|Highland View|Highland View Voting District
+47|001|0064|Lake City|Lake City Voting District
+47|001|0068|Lake City Middle School|Lake City Middle School Voting District
+47|001|0072|Marlow|Marlow Voting District
+47|001|0076|Norris|Norris Voting District
+47|001|0080|North Clinton|North Clinton Voting District
+47|001|0084|Norwood|Norwood Voting District
+47|001|0088|Tri-County|Tri-County Voting District
+47|001|0092|Pine Valley|Pine Valley Voting District
+47|001|0096|Robertsville|Robertsville Voting District
+47|001|0100|Rosedale|Rosedale Voting District
+47|001|0104|South Clinton|South Clinton Voting District
+47|001|0108|West Hills|West Hills Voting District
+47|001|0112|Glen Alpine|Glen Alpine Voting District
+47|001|0114|Hendrix Creek|Hendrix Creek Voting District
+47|001|0116|Woodland|Woodland Voting District
+47|003|0124|203 Airport|203 Airport Voting District
+47|003|0128|403 Bedford Fire Hall|403 Bedford Fire Hall Voting District
+47|003|0132|102 Bell Buckle/Webb School|102 Bell Buckle/Webb School Voting District
+47|003|0144|901 Courthouse|901 Courthouse Voting District
+47|003|0156|701 Deery Eakin School|701 Deery Eakin School Voting District
+47|003|0160|601 East Side School|601 East Side School Voting District
+47|003|0164|502 Flat Creek Community Center|502 Flat Creek Community Center Voting District
+47|003|0168|304 Hall's Mill Community Club|304 Hall's Mill Community Club Voting District
+47|003|0176|202 Longview Community Club|202 Longview Community Club Voting District
+47|003|0180|505 Normandy Fire Hall|505 Normandy Fire Hall Voting District
+47|003|0188|503 Thompson Creek Baptist Church|503 Thompson Creek Baptist Church Voting District
+47|003|0196|301 Rover Baptist Church|301 Rover Baptist Church Voting District
+47|003|0204|902 Southside School|902 Southside School Voting District
+47|003|0208|801 Thomas School|801 Thomas School Voting District
+47|003|0212|303 Unionville New Fire Hall|303 Unionville New Fire Hall Voting District
+47|003|0220|101 Wartrace Gym|101 Wartrace Gym Voting District
+47|003|0224|404 Shiloh Methodist Church|404 Shiloh Methodist Church Voting District
+47|003|0225|402 Liberty School|402 Liberty School Voting District
+47|005|0232|1 Holladay School|1 Holladay School Voting District
+47|005|0252|6 Big Sandy School|6 Big Sandy School Voting District
+47|005|0296|2 Camden High School|2 Camden High School Voting District
+47|005|0304|4 Camden Elementary School|4 Camden Elementary School Voting District
+47|005|0308|3 Benton Co. Courthouse|3 Benton Co. Courthouse Voting District
+47|005|0312|5 Benton Co. Courthouse|5 Benton Co. Courthouse Voting District
+47|007|0316|1-1 Dill|1-1 Dill Voting District
+47|007|0320|1-2 Griffith|1-2 Griffith Voting District
+47|007|0324|1-3 Mt.Crest|1-3 Mt.Crest Voting District
+47|007|0328|5-1 Bellview|5-1 Bellview Voting District
+47|007|0332|5-2 Nine Mile|5-2 Nine Mile Voting District
+47|007|0336|2-1 Cold Springs|2-1 Cold Springs Voting District
+47|007|0340|2-2 Luminary|2-2 Luminary Voting District
+47|007|0344|3-2 Rigsby|3-2 Rigsby Voting District
+47|007|0348|3-1 Brayton|3-1 Brayton Voting District
+47|007|0352|4-1 Pikeville Outside|4-1 Pikeville Outside Voting District
+47|007|0354|4-2 Pikeville Inside|4-2 Pikeville Inside Voting District
+47|007|0356|6-3 Sunnyside|6-3 Sunnyside Voting District
+47|007|0358|6-2 Lusk|6-2 Lusk Voting District
+47|007|0359|6-4 Brayton 6|6-4 Brayton 6 Voting District
+47|007|0360|6-1 Lee Station|6-1 Lee Station Voting District
+47|009|0376|Alcoa 1st Baptist|Alcoa 1st Baptist Voting District
+47|009|0378|Alcoa - Rockford|Alcoa - Rockford Voting District
+47|009|0380|Martin Luther King|Martin Luther King Voting District
+47|009|0384|Big Springs|Big Springs Voting District
+47|009|0388|William Blount Academy|William Blount Academy Voting District
+47|009|0392|Pellissippi|Pellissippi Voting District
+47|009|0394|Pellissippi-Alcoa|Pellissippi-Alcoa Voting District
+47|009|0395|Pellissippi-Maryville|Pellissippi-Maryville Voting District
+47|009|0396|Beech Grove|Beech Grove Voting District
+47|009|0398|Beech Grove-Alcoa|Beech Grove-Alcoa Voting District
+47|009|0400|Chilhowee View|Chilhowee View Voting District
+47|009|0404|Eagleton 8th|Eagleton 8th Voting District
+47|009|0406|Eagleton 20th|Eagleton 20th Voting District
+47|009|0408|Eagleton Cafeteria|Eagleton Cafeteria Voting District
+47|009|0410|Eagleton-Alcoa|Eagleton-Alcoa Voting District
+47|009|0412|Everett|Everett Voting District
+47|009|0416|Fairview-City|Fairview-City Voting District
+47|009|0417|Fairview-County|Fairview-County Voting District
+47|009|0424|Friendsville-County|Friendsville-County Voting District
+47|009|0425|Friendsville-City|Friendsville-City Voting District
+47|009|0428|Happy Valley|Happy Valley Voting District
+47|009|0432|Carpenters|Carpenters Voting District
+47|009|0436|Heritage|Heritage Voting District
+47|009|0440|John Sevier|John Sevier Voting District
+47|009|0444|Lanier|Lanier Voting District
+47|009|0446|Louisville|Louisville Voting District
+47|009|0447|Louisville 8th|Louisville 8th Voting District
+47|009|0448|Maryville College|Maryville College Voting District
+47|009|0452|Maryville High School|Maryville High School Voting District
+47|009|0456|Maryville Middle School|Maryville Middle School Voting District
+47|009|0460|Maryville Municipal-City|Maryville Municipal-City Voting District
+47|009|0461|Maryville Municipal-County|Maryville Municipal-County Voting District
+47|009|0464|Mentor|Mentor Voting District
+47|009|0466|Mentor-Alcoa|Mentor-Alcoa Voting District
+47|009|0468|Middlesettlements|Middlesettlements Voting District
+47|009|0472|Montvale|Montvale Voting District
+47|009|0476|Miser Station|Miser Station Voting District
+47|009|0480|Oak View|Oak View Voting District
+47|009|0488|Porter|Porter Voting District
+47|009|0492|Rockford-County|Rockford-County Voting District
+47|009|0494|Rockford 20th|Rockford 20th Voting District
+47|009|0496|Rockford-City|Rockford-City Voting District
+47|009|0498|Rockford-Alcoa|Rockford-Alcoa Voting District
+47|009|0500|Shooks Gap|Shooks Gap Voting District
+47|009|0504|Townsend-County|Townsend-County Voting District
+47|009|0505|Townsend-City|Townsend-City Voting District
+47|009|0508|Blount County Board of Education-County|Blount County Board of Education-County Voting District
+47|009|0512|Blount County Board of Education-City|Blount County Board of Education-City Voting District
+47|009|0516|Walland|Walland Voting District
+47|009|0519|William Blount-City|William Blount-City Voting District
+47|009|0520|William Blount-County|William Blount-County Voting District
+47|011|0524|101-1 McDonald|101-1 McDonald Voting District
+47|011|0528|102-1 Prospect|102-1 Prospect Voting District
+47|011|0532|103-1 Hopewell|103-1 Hopewell Voting District
+47|011|0536|201-1 E.L. Ross|201-1 E.L. Ross Voting District
+47|011|0544|202-1 Charleston|202-1 Charleston Voting District
+47|011|0556|301-1 Lee University|301-1 Lee University Voting District
+47|011|0564|302-1 Senior Center|302-1 Senior Center Voting District
+47|011|0572|401 Oak Grove|401 Oak Grove Voting District
+47|011|0576|402 Michigan Avenue|402 Michigan Avenue Voting District
+47|011|0580|501-1 T.C. Bower|501-1 T.C. Bower Voting District
+47|011|0584|502-1 Community Serv|502-1 Community Serv Voting District
+47|011|0592|601-1 Valley View|601-1 Valley View Voting District
+47|011|0600|603-1 Waterville|603-1 Waterville Voting District
+47|011|0604|604-1 Black Fox|604-1 Black Fox Voting District
+47|011|0608|602-1 Blue Spring|602-1 Blue Spring Voting District
+47|011|0616|701 Stuart|701 Stuart Voting District
+47|011|0618|702 Cleveland High|702 Cleveland High Voting District
+47|013|0644|Caryville|Caryville Voting District
+47|013|0648|Clinchmore|Clinchmore Voting District
+47|013|0652|College Hill|College Hill Voting District
+47|013|0656|Coolidge|Coolidge Voting District
+47|013|0660|Davis Chapel|Davis Chapel Voting District
+47|013|0668|Demory|Demory Voting District
+47|013|0672|East LaFollette|East LaFollette Voting District
+47|013|0678|Elk Valley|Elk Valley Voting District
+47|013|0680|Firehall|Firehall Voting District
+47|013|0684|Habersham|Habersham Voting District
+47|013|0688|Jacksboro|Jacksboro Voting District
+47|013|0692|Jacksboro Station|Jacksboro Station Voting District
+47|013|0696|Jellico|Jellico Voting District
+47|013|0700|Jr. High|Jr. High Voting District
+47|013|0704|Newcomb|Newcomb Voting District
+47|013|0708|Pinecrest|Pinecrest Voting District
+47|013|0712|Ridgewood|Ridgewood Voting District
+47|013|0720|Valley View|Valley View Voting District
+47|013|0724|Well Springs|Well Springs Voting District
+47|013|0728|West LaFollette|West LaFollette Voting District
+47|013|0732|White Oak|White Oak Voting District
+47|015|0740|Auburntown|Auburntown Voting District
+47|015|0748|4 Eastside|4 Eastside Voting District
+47|015|0752|Gassaway|Gassaway Voting District
+47|015|0756|Pleasant Ridge|Pleasant Ridge Voting District
+47|015|0760|2 Short Mountain|2 Short Mountain Voting District
+47|015|0764|4 Short Mountain|4 Short Mountain Voting District
+47|015|0768|Westside|Westside Voting District
+47|015|0772|Woodbury|Woodbury Voting District
+47|015|0776|Woodland|Woodland Voting District
+47|017|0788|08 Civic Center|08 Civic Center Voting District
+47|017|0792|09 Huntingdon City Hall|09 Huntingdon City Hall Voting District
+47|017|0800|06 Clarksburg|06 Clarksburg Voting District
+47|017|0804|10 Yuma|10 Yuma Voting District
+47|017|0808|11 Buena Vista|11 Buena Vista Voting District
+47|017|0812|12 Bruceton|12 Bruceton Voting District
+47|017|0816|13 Hollow Rock|13 Hollow Rock Voting District
+47|017|0820|14 Vale|14 Vale Voting District
+47|017|0832|01 Lavinia|01 Lavinia Voting District
+47|017|0836|15 Westview|15 Westview Voting District
+47|017|0840|16 Atwood|16 Atwood Voting District
+47|017|0844|17 Senior Citizens|17 Senior Citizens Voting District
+47|017|0848|18 Cannon|18 Cannon Voting District
+47|017|0852|19 Concord|19 Concord Voting District
+47|017|0856|20 Westport|20 Westport Voting District
+47|017|0860|02 Trezevant|02 Trezevant Voting District
+47|017|0864|03 Christmasville|03 Christmasville Voting District
+47|017|0868|21 Bethel College-Waddle Hall|21 Bethel College-Waddle Hall Voting District
+47|017|0872|22 McKenzie City Hall|22 McKenzie City Hall Voting District
+47|017|0876|04 McLemoresville|04 McLemoresville Voting District
+47|017|0880|05 Cedar Grove|05 Cedar Grove Voting District
+47|017|0884|07 Macedonia|07 Macedonia Voting District
+47|019|0892|Central|Central Voting District
+47|019|0896|Court House|Court House Voting District
+47|019|0900|Eastside|Eastside Voting District
+47|019|0904|Elk Mills|Elk Mills Voting District
+47|019|0908|Gap Creek|Gap Creek Voting District
+47|019|0912|Hampton|Hampton Voting District
+47|019|0916|Happy Valley|Happy Valley Voting District
+47|019|0920|Harold McCormick|Harold McCormick Voting District
+47|019|0924|High School|High School Voting District
+47|019|0928|Hunter|Hunter Voting District
+47|019|0932|Keenburg|Keenburg Voting District
+47|019|0936|Little Milligan|Little Milligan Voting District
+47|019|0944|Midway|Midway Voting District
+47|019|0952|Range|Range Voting District
+47|019|0956|Roan Mountain|Roan Mountain Voting District
+47|019|0960|Siam|Siam Voting District
+47|019|0964|Tiger Valley|Tiger Valley Voting District
+47|019|0968|Unaka|Unaka Voting District
+47|019|0972|Valley Forge|Valley Forge Voting District
+47|019|0976|Watauga|Watauga Voting District
+47|019|0980|Westside|Westside Voting District
+47|021|0988|1-1 Cheatham Co. Library - Ashland City|1-1 Cheatham Co. Library - Ashland City Voting District
+47|021|0996|2-2 East Cheatham Elem. School|2-2 East Cheatham Elem. School Voting District
+47|021|1000|3-1 Pleasant View City Hall|3-1 Pleasant View City Hall Voting District
+47|021|1004|4-2 New Hope Community Center|4-2 New Hope Community Center Voting District
+47|021|1008|4-1 West Cheatham Elem. School|4-1 West Cheatham Elem. School Voting District
+47|021|1010|4-3 Sycamore Middle School|4-3 Sycamore Middle School Voting District
+47|021|1012|5-1 Two Rivers Fire Hall|5-1 Two Rivers Fire Hall Voting District
+47|021|1016|5-2 Pegram City Hall|5-2 Pegram City Hall Voting District
+47|021|1020|6-1 Harpeth High School|6-1 Harpeth High School Voting District
+47|023|1032|1-2 Enville|1-2 Enville Voting District
+47|023|1040|1-5 Sweet Lips|1-5 Sweet Lips Voting District
+47|023|1044|1-6 Harmony|1-6 Harmony Voting District
+47|023|1048|2-1 Jacks Creek|2-1 Jacks Creek Voting District
+47|023|1052|2-4 Mifflin|2-4 Mifflin Voting District
+47|023|1068|3-4 Masseyville|3-4 Masseyville Voting District
+47|023|1076|3-6 Deanburg|3-6 Deanburg Voting District
+47|023|1080|3-2 Montezuma|3-2 Montezuma Voting District
+47|023|1084|4 West Chester School|4 West Chester School Voting District
+47|023|1088|5 East Chester School|5 East Chester School Voting District
+47|023|1092|6 Henderson City Hall|6 Henderson City Hall Voting District
+47|025|1104|Arthur|Arthur Voting District
+47|025|1112|Big Spring Union|Big Spring Union Voting District
+47|025|1116|Clairfield|Clairfield Voting District
+47|025|1120|Clouds|Clouds Voting District
+47|025|1124|Cumberland Gap|Cumberland Gap Voting District
+47|025|1128|Gibson Hall|Gibson Hall Voting District
+47|025|1132|Goin|Goin Voting District
+47|025|1136|Harrogate|Harrogate Voting District
+47|025|1140|Howard's Quarter|Howard's Quarter Voting District
+47|025|1144|Liberty|Liberty Voting District
+47|025|1148|Lone Mountain|Lone Mountain Voting District
+47|025|1152|New Tazewell|New Tazewell Voting District
+47|025|1156|Rogers Mill|Rogers Mill Voting District
+47|025|1160|Sandlick|Sandlick Voting District
+47|025|1164|Shawanee|Shawanee Voting District
+47|025|1168|Springdale|Springdale Voting District
+47|025|1172|Tazewell|Tazewell Voting District
+47|025|1176|Vanbebber Springs|Vanbebber Springs Voting District
+47|027|1180|1 Dentons Cross Roads|1 Dentons Cross Roads Voting District
+47|027|1190|2 Hermitage Springs|2 Hermitage Springs Voting District
+47|027|1196|3 Celina|3 Celina Voting District
+47|027|1210|4-1 Maple Grove|4-1 Maple Grove Voting District
+47|027|1212|4-2 Butlers Landing|4-2 Butlers Landing Voting District
+47|027|1220|5-1 Pea Ridge|5-1 Pea Ridge Voting District
+47|027|1224|5-3 Arcot/Beech Bethany|5-3 Arcot/Beech Bethany Voting District
+47|029|1240|Houston Valley|Houston Valley Voting District
+47|029|1244|Bridgeport|Bridgeport Voting District
+47|029|1248|Cocke County High Sch|Cocke County High Sch Voting District
+47|029|1250|Armory|Armory Voting District
+47|029|1252|Centerview|Centerview Voting District
+47|029|1256|Central|Central Voting District
+47|029|1260|Cosby|Cosby Voting District
+47|029|1264|Del Rio|Del Rio Voting District
+47|029|1268|Edgemont|Edgemont Voting District
+47|029|1272|Edwina|Edwina Voting District
+47|029|1276|Forest Hill|Forest Hill Voting District
+47|029|1280|Grassy Fork|Grassy Fork Voting District
+47|029|1288|Long Creek|Long Creek Voting District
+47|029|1292|Newport Grammar School|Newport Grammar School Voting District
+47|029|1296|Northport|Northport Voting District
+47|029|1300|Parrottsville|Parrottsville Voting District
+47|029|1304|Rankin|Rankin Voting District
+47|029|1308|Smoky Mountain|Smoky Mountain Voting District
+47|029|1312|West End|West End Voting District
+47|031|1320|21 Wilson Ave. Church of Christ|21 Wilson Ave. Church of Christ Voting District
+47|031|1324|13-1 Blanton's Chapel Comm Center|13-1 Blanton's Chapel Comm Center Voting District
+47|031|1328|01 Ada Wright Center|01 Ada Wright Center Voting District
+47|031|1330|03 Trinity Baptist Church|03 Trinity Baptist Church Voting District
+47|031|1332|20 CC Senior Center|20 CC Senior Center Voting District
+47|031|1334|04 First Baptist Church|04 First Baptist Church Voting District
+47|031|1336|07 Forrest Mill Church of Christ Activity Center|07 Forrest Mill Church of Christ Activity Center Voting District
+47|031|1338|06 Tennessee Vocational Center|06 Tennessee Vocational Center Voting District
+47|031|1340|18 First Christian Church|18 First Christian Church Voting District
+47|031|1342|09-1 Pocahontas Comm Center|09-1 Pocahontas Comm Center Voting District
+47|031|1344|10-1 Goosepond Comm Center|10-1 Goosepond Comm Center Voting District
+47|031|1346|09-2 Summitville Comm Center|09-2 Summitville Comm Center Voting District
+47|031|1348|14 Hickerson Fire Hall|14 Hickerson Fire Hall Voting District
+47|031|1350|12 North Coffee Elem School|12 North Coffee Elem School Voting District
+47|031|1352|05 Hillsboro Community Center|05 Hillsboro Community Center Voting District
+47|031|1354|13-2 Schmeide/TMT|13-2 Schmeide/TMT Voting District
+47|031|1356|15 Grace Baptist Center|15 Grace Baptist Center Voting District
+47|031|1358|17 HOSC|17 HOSC Voting District
+47|031|1360|16 Lion's Club|16 Lion's Club Voting District
+47|031|1362|11 Fredonia Comm Center|11 Fredonia Comm Center Voting District
+47|031|1364|08 New Union Fire Hall|08 New Union Fire Hall Voting District
+47|031|1368|10-2 Noah Comm Center|10-2 Noah Comm Center Voting District
+47|031|1372|19 CD Stamps Center|19 CD Stamps Center Voting District
+47|031|1376|02 St. Paul United Methodist Church|02 St. Paul United Methodist Church Voting District
+47|033|1384|1|1 Voting District
+47|033|1388|10|10 Voting District
+47|033|1392|11|11 Voting District
+47|033|1396|12|12 Voting District
+47|033|1400|2|2 Voting District
+47|033|1404|3|3 Voting District
+47|033|1408|4|4 Voting District
+47|033|1412|5|5 Voting District
+47|033|1416|6|6 Voting District
+47|033|1420|7|7 Voting District
+47|033|1424|8|8 Voting District
+47|033|1428|9|9 Voting District
+47|035|1436|1 Cornerstone Baptist Church|1 Cornerstone Baptist Church Voting District
+47|035|1444|2 Complex 2|2 Complex 2 Voting District
+47|035|1448|3 Homestead|3 Homestead Voting District
+47|035|1452|3 Dorton|3 Dorton Voting District
+47|035|1456|3 Linary|3 Linary Voting District
+47|035|1460|3 Big Lick|3 Big Lick Voting District
+47|035|1464|4 Tabor|4 Tabor Voting District
+47|035|1470|4 Oak Hill|4 Oak Hill Voting District
+47|035|1474|4 Bakers|4 Bakers Voting District
+47|035|1482|5 Lantana|5 Lantana Voting District
+47|035|1486|5 Vandever|5 Vandever Voting District
+47|035|1490|5 Tansi|5 Tansi Voting District
+47|035|1494|8 Midway|8 Midway Voting District
+47|035|1498|6 Crab Orchard Town Hall|6 Crab Orchard Town Hall Voting District
+47|035|1502|6 Ozone-Pineview|6 Ozone-Pineview Voting District
+47|035|1504|6 Grassy Cove|6 Grassy Cove Voting District
+47|035|1512|7 Rinnie|7 Rinnie Voting District
+47|035|1516|7 Woody|7 Woody Voting District
+47|035|1520|7 Mayland|7 Mayland Voting District
+47|035|1524|8 Pomona|8 Pomona Voting District
+47|035|1528|8 Pleasant Hill|8 Pleasant Hill Voting District
+47|035|1540|9 Fairfield Glade|9 Fairfield Glade Voting District
+47|035|1544|6 Chestnut Hill|6 Chestnut Hill Voting District
+47|037|1556|10-6 Gateway School|10-6 Gateway School Voting District
+47|037|1560|10-2 Walker Creek UMC|10-2 Walker Creek UMC Voting District
+47|037|1572|11-1 Old Hickory Comm. Ctr.|11-1 Old Hickory Comm. Ctr. Voting District
+47|037|1576|10-3 Goodlettsville Comm. Ctr.|10-3 Goodlettsville Comm. Ctr. Voting District
+47|037|1577|11-2 Lakewood City Hall|11-2 Lakewood City Hall Voting District
+47|037|1581|11-3 Andrew Jackson School|11-3 Andrew Jackson School Voting District
+47|037|1584|03-1 Union Hill 1st Baptist Church|03-1 Union Hill 1st Baptist Church Voting District
+47|037|1585|12-1 Hermitage Presby Church|12-1 Hermitage Presby Church Voting District
+47|037|1586|12-2 Ruby Major Elementary|12-2 Ruby Major Elementary Voting District
+47|037|1588|10-1 Luton's UMC|10-1 Luton's UMC Voting District
+47|037|1589|03-2 Joelton Elem School|03-2 Joelton Elem School Voting District
+47|037|1592|10-4 First Baptist Church of Goodlettsville|10-4 First Baptist Church of Goodlettsville Voting District
+47|037|1596|11-4 DuPont-Tyler Middle School|11-4 DuPont-Tyler Middle School Voting District
+47|037|1600|14-1 Hermitage Hills Baptist|14-1 Hermitage Hills Baptist Voting District
+47|037|1602|12-3 Dupont-Tyler Middle School|12-3 Dupont-Tyler Middle School Voting District
+47|037|1604|12-4 Central Pike Church of Christ|12-4 Central Pike Church of Christ Voting District
+47|037|1608|33-1 Eagle Christian Church|33-1 Eagle Christian Church Voting District
+47|037|1612|13-2 Glengarry School|13-2 Glengarry School Voting District
+47|037|1616|13-3 Vultee Firehall|13-3 Vultee Firehall Voting District
+47|037|1618|13-1 Glencliff Presbyterian Church|13-1 Glencliff Presbyterian Church Voting District
+47|037|1620|13-4 Whitworth Baptist Christ Church|13-4 Whitworth Baptist Christ Church Voting District
+47|037|1624|15-5 Vultee Church of Christ|15-5 Vultee Church of Christ Voting District
+47|037|1625|16-3 Vultee Church of Christ|16-3 Vultee Church of Christ Voting District
+47|037|1640|14-5 Hickman School|14-5 Hickman School Voting District
+47|037|1644|14-3 TN School for the Blind|14-3 TN School for the Blind Voting District
+47|037|1648|14-2 Hermitage School|14-2 Hermitage School Voting District
+47|037|1656|15-1 Two Rivers School|15-1 Two Rivers School Voting District
+47|037|1664|15-2 Donelson Heights UMC|15-2 Donelson Heights UMC Voting District
+47|037|1665|15-7 Margaret Allen School|15-7 Margaret Allen School Voting District
+47|037|1668|15-3 Donelson Presbyterian Church|15-3 Donelson Presbyterian Church Voting District
+47|037|1669|15-4 Margaret Allen School|15-4 Margaret Allen School Voting District
+47|037|1672|17-6 Berry Headstart|17-6 Berry Headstart Voting District
+47|037|1676|16-4 Woodbine Cumberland Pres. Church|16-4 Woodbine Cumberland Pres. Church Voting District
+47|037|1680|16-5 Woodbine Baptist Church|16-5 Woodbine Baptist Church Voting District
+47|037|1684|16-2 Polk Ave Firehall #12|16-2 Polk Ave Firehall #12 Voting District
+47|037|1688|19-5 Murrell School|19-5 Murrell School Voting District
+47|037|1692|17-4 Sevier Park Comm. Center|17-4 Sevier Park Comm. Center Voting District
+47|037|1695|17-9 Edgehill Library|17-9 Edgehill Library Voting District
+47|037|1696|17-7 Knowles Senior Center|17-7 Knowles Senior Center Voting District
+47|037|1697|17-8 Napier School|17-8 Napier School Voting District
+47|037|1698|25-2 Boy Scouts of America|25-2 Boy Scouts of America Voting District
+47|037|1700|17-5 Berry Hill City Hall|17-5 Berry Hill City Hall Voting District
+47|037|1701|17-10 Sevier Park Comm Ctr|17-10 Sevier Park Comm Ctr Voting District
+47|037|1704|18-1 Eakin Elementary|18-1 Eakin Elementary Voting District
+47|037|1706|18-3 Eakin Elementary|18-3 Eakin Elementary Voting District
+47|037|1710|18-2 Eakin Elementary|18-2 Eakin Elementary Voting District
+47|037|1714|18-7 Belmont Heights Baptist Church|18-7 Belmont Heights Baptist Church Voting District
+47|037|1716|19-3 Watkins Park Comm Ctr|19-3 Watkins Park Comm Ctr Voting District
+47|037|1720|19-4 Kayne Av Baptist Church|19-4 Kayne Av Baptist Church Voting District
+47|037|1724|17-3 Johnson Middle School|17-3 Johnson Middle School Voting District
+47|037|1725|17-2 Trevecca Towers|17-2 Trevecca Towers Voting District
+47|037|1728|17-1 Napier Comm. Ctr|17-1 Napier Comm. Ctr Voting District
+47|037|1740|01-3 Temple Baptist Church|01-3 Temple Baptist Church Voting District
+47|037|1741|01-6 Cathedral of Praise|01-6 Cathedral of Praise Voting District
+47|037|1742|03-4 Alex Green School|03-4 Alex Green School Voting District
+47|037|1744|01-4 Scottsboro Comm. Ctr.|01-4 Scottsboro Comm. Ctr. Voting District
+47|037|1752|01-1 1st Baptist Church of Joelton|01-1 1st Baptist Church of Joelton Voting District
+47|037|1760|01-2 Greenville UMC|01-2 Greenville UMC Voting District
+47|037|1768|21-2 Nashville Big Picture High School|21-2 Nashville Big Picture High School Voting District
+47|037|1772|21-6 Mc Gruder Center|21-6 Mc Gruder Center Voting District
+47|037|1780|19-1 Buena Vista Elementary School|19-1 Buena Vista Elementary School Voting District
+47|037|1784|19-2 15th Ave Baptist Church|19-2 15th Ave Baptist Church Voting District
+47|037|1788|21-1 Hadley Park Community Center|21-1 Hadley Park Community Center Voting District
+47|037|1794|21-3 Pearl-Cohn High School|21-3 Pearl-Cohn High School Voting District
+47|037|1800|21-5 Centennial Park Art Ctr.|21-5 Centennial Park Art Ctr. Voting District
+47|037|1802|21-4 Centennial Park Art Ctr.|21-4 Centennial Park Art Ctr. Voting District
+47|037|1804|20-3 Union Hall 737|20-3 Union Hall 737 Voting District
+47|037|1808|20-4 Charlotte Park School|20-4 Charlotte Park School Voting District
+47|037|1812|20-2 Union Hall 737|20-2 Union Hall 737 Voting District
+47|037|1820|35-1 Gower School|35-1 Gower School Voting District
+47|037|1822|22-1 Bellevue Comm Ctr|22-1 Bellevue Comm Ctr Voting District
+47|037|1824|22-2 Bellevue Church of Christ|22-2 Bellevue Church of Christ Voting District
+47|037|1826|23-2 West Meade School|23-2 West Meade School Voting District
+47|037|1828|23-1 Brook Hollow Baptist|23-1 Brook Hollow Baptist Voting District
+47|037|1836|24-1 Sylvan Park School|24-1 Sylvan Park School Voting District
+47|037|1840|24-5 McCabe Park Comm Ctr|24-5 McCabe Park Comm Ctr Voting District
+47|037|1841|24-6 West End Middle School|24-6 West End Middle School Voting District
+47|037|1844|24-2 TN Technology Center at Nashville|24-2 TN Technology Center at Nashville Voting District
+47|037|1847|24-4 Park Ave School|24-4 Park Ave School Voting District
+47|037|1852|25-1 West End Middle School|25-1 West End Middle School Voting District
+47|037|1860|18-6 Belmont University (Curb Event Center)|18-6 Belmont University (Curb Event Center) Voting District
+47|037|1870|25-4 Granny White Church of Christ|25-4 Granny White Church of Christ Voting District
+47|037|1885|30-2 Haywood Hills Baptist|30-2 Haywood Hills Baptist Voting District
+47|037|1888|26-3 Norman Binkley School|26-3 Norman Binkley School Voting District
+47|037|1900|16-6 Glencliff High School|16-6 Glencliff High School Voting District
+47|037|1904|26-1 Paragon Mills School|26-1 Paragon Mills School Voting District
+47|037|1908|28-1 Una Baptist Church|28-1 Una Baptist Church Voting District
+47|037|1909|29-1 Priest Lake Presbyterian|29-1 Priest Lake Presbyterian Voting District
+47|037|1910|28-3 Una Baptist Church|28-3 Una Baptist Church Voting District
+47|037|1920|28-5 Apollo Middle School|28-5 Apollo Middle School Voting District
+47|037|1922|28-4 Antioch Church of Christ|28-4 Antioch Church of Christ Voting District
+47|037|1928|29-2 Lakeview School|29-2 Lakeview School Voting District
+47|037|1932|29-3 Hamilton UMC|29-3 Hamilton UMC Voting District
+47|037|1936|33-2 New Antioch High School|33-2 New Antioch High School Voting District
+47|037|1937|33-3 Southeast Library|33-3 Southeast Library Voting District
+47|037|1938|33-4 Hickory Hollow Baptist|33-4 Hickory Hollow Baptist Voting District
+47|037|1940|29-4 Smith Springs Church of Christ|29-4 Smith Springs Church of Christ Voting District
+47|037|1946|02-6 Northwest YMCA|02-6 Northwest YMCA Voting District
+47|037|1947|02-1 Haynes Middle School|02-1 Haynes Middle School Voting District
+47|037|1948|02-2 White's Creek Pk Fire Hall #25|02-2 White's Creek Pk Fire Hall #25 Voting District
+47|037|1949|02-3 Hillhurst Baptist Church|02-3 Hillhurst Baptist Church Voting District
+47|037|1950|02-4 Hillhurst Baptist Church|02-4 Hillhurst Baptist Church Voting District
+47|037|1951|02-5 Looby Comm Ctr|02-5 Looby Comm Ctr Voting District
+47|037|1952|01-5 Bordeaux Library|01-5 Bordeaux Library Voting District
+47|037|1960|30-4 Tusculum Hills Baptist Church|30-4 Tusculum Hills Baptist Church Voting District
+47|037|1962|32-1 Antioch UMC|32-1 Antioch UMC Voting District
+47|037|1964|30-1 Haywood School|30-1 Haywood School Voting District
+47|037|1965|27-1 Church of the Holy Spirit|27-1 Church of the Holy Spirit Voting District
+47|037|1968|30-3 Grace Cole School|30-3 Grace Cole School Voting District
+47|037|1976|31-1 Woodson Chapel Church of Christ|31-1 Woodson Chapel Church of Christ Voting District
+47|037|1980|31-3 Oasis Worship Centre|31-3 Oasis Worship Centre Voting District
+47|037|1984|31-4 Granbery Elementary School|31-4 Granbery Elementary School Voting District
+47|037|1988|32-3 Cane Ridge Comm. Ctr.|32-3 Cane Ridge Comm. Ctr. Voting District
+47|037|1989|32-4 Spirit of Life Church|32-4 Spirit of Life Church Voting District
+47|037|1990|32-5 Antioch Middle School|32-5 Antioch Middle School Voting District
+47|037|1992|32-2 Bell Road Baptist|32-2 Bell Road Baptist Voting District
+47|037|1996|31-2 Woodson Chapel Church of Christ|31-2 Woodson Chapel Church of Christ Voting District
+47|037|2000|26-4 Crievewood Baptist Church|26-4 Crievewood Baptist Church Voting District
+47|037|2001|26-5 Ellington Agricultural Center|26-5 Ellington Agricultural Center Voting District
+47|037|2002|27-2 Ellington Agricultural Center|27-2 Ellington Agricultural Center Voting District
+47|037|2004|27-3 McMurray Middle School|27-3 McMurray Middle School Voting District
+47|037|2008|27-4 Christ Church|27-4 Christ Church Voting District
+47|037|2016|25-5 Hillsboro High School|25-5 Hillsboro High School Voting District
+47|037|2018|25-6 YWCA|25-6 YWCA Voting District
+47|037|2022|34-3 Percy Priest School|34-3 Percy Priest School Voting District
+47|037|2026|34-4 John Trotwood Moore School|34-4 John Trotwood Moore School Voting District
+47|037|2032|34-5 Brentwood Hills Church of Christ|34-5 Brentwood Hills Church of Christ Voting District
+47|037|2035|34-9 Church of the Redeemer|34-9 Church of the Redeemer Voting District
+47|037|2036|34-8 Glendale UMC|34-8 Glendale UMC Voting District
+47|037|2040|23-4 Belle Meade City Hall|23-4 Belle Meade City Hall Voting District
+47|037|2044|34-1 Calvary UMC|34-1 Calvary UMC Voting District
+47|037|2048|23-3 Jewish Community Ctr|23-3 Jewish Community Ctr Voting District
+47|037|2050|24-3 Westminister Presbyterian Church|24-3 Westminister Presbyterian Church Voting District
+47|037|2052|34-2 Hillsboro Presbyterian Church|34-2 Hillsboro Presbyterian Church Voting District
+47|037|2068|35-5 Jewish Comm. Ctr.|35-5 Jewish Comm. Ctr. Voting District
+47|037|2072|22-3 Bellevue Middle School|22-3 Bellevue Middle School Voting District
+47|037|2074|35-3 Harpeth Valley School|35-3 Harpeth Valley School Voting District
+47|037|2075|22-4 Bellevue UMC|22-4 Bellevue UMC Voting District
+47|037|2076|35-4 Bellevue UMC|35-4 Bellevue UMC Voting District
+47|037|2080|35-2 South Harpeth Church of Christ|35-2 South Harpeth Church of Christ Voting District
+47|037|2086|04-1 Madison Station Senior Ctr|04-1 Madison Station Senior Ctr Voting District
+47|037|2088|04-3 Windland Retirement Center|04-3 Windland Retirement Center Voting District
+47|037|2092|03-5 Bellshire Elem. School|03-5 Bellshire Elem. School Voting District
+47|037|2095|03-8 Davidson Academy|03-8 Davidson Academy Voting District
+47|037|2096|10-5 Parkway Baptist Church|10-5 Parkway Baptist Church Voting District
+47|037|2097|03-7 New Brick Church Middle School|03-7 New Brick Church Middle School Voting District
+47|037|2098|34-10 Forest Hills Baptist|34-10 Forest Hills Baptist Voting District
+47|037|2104|03-6 Old Brick Church School|03-6 Old Brick Church School Voting District
+47|037|2112|08-1 Tom Joy School|08-1 Tom Joy School Voting District
+47|037|2116|08-2 Gra-Mar School|08-2 Gra-Mar School Voting District
+47|037|2120|05-1 Kipp Academy|05-1 Kipp Academy Voting District
+47|037|2122|05-3 Eastland Baptist Church|05-3 Eastland Baptist Church Voting District
+47|037|2124|05-2 Cleveland St. Park Comm Ctr|05-2 Cleveland St. Park Comm Ctr Voting District
+47|037|2130|05-4 McFerrin Park Comm. Ctr.|05-4 McFerrin Park Comm. Ctr. Voting District
+47|037|2131|05-5 Ross Elementary School|05-5 Ross Elementary School Voting District
+47|037|2140|06-3 East Park Comm. Center|06-3 East Park Comm. Center Voting District
+47|037|2142|06-1 Martha O'Bryan Center|06-1 Martha O'Bryan Center Voting District
+47|037|2144|06-5 Cora Howe Elem School|06-5 Cora Howe Elem School Voting District
+47|037|2146|6-4 Main Library|6-4 Main Library Voting District
+47|037|2148|06-2 Shelby Comm. Ctr.|06-2 Shelby Comm. Ctr. Voting District
+47|037|2156|07-3 Memorial Lutheran Church|07-3 Memorial Lutheran Church Voting District
+47|037|2164|07-4 Cornelia Fort Air Park|07-4 Cornelia Fort Air Park Voting District
+47|037|2166|07-5 Aldergate UMC|07-5 Aldergate UMC Voting District
+47|037|2172|04-4 Windland Retirement Center|04-4 Windland Retirement Center Voting District
+47|037|2176|08-3 Brush Hill Cumberland Pres.|08-3 Brush Hill Cumberland Pres. Voting District
+47|037|2180|08-4 Dalewood Baptist Church|08-4 Dalewood Baptist Church Voting District
+47|037|2183|07-1 Stratford High School|07-1 Stratford High School Voting District
+47|037|2184|07-2 Dalewood UMC|07-2 Dalewood UMC Voting District
+47|037|2192|09-1 Madison Park Comm. Ctr|09-1 Madison Park Comm. Ctr Voting District
+47|037|2196|04-2 Madison Library|04-2 Madison Library Voting District
+47|037|2197|09-2 Madison Firehall|09-2 Madison Firehall Voting District
+47|037|2200|09-3 Neely's Bend Middle School|09-3 Neely's Bend Middle School Voting District
+47|039|2216|01 Dunbar|01 Dunbar Voting District
+47|039|2224|02 Liberty|02 Liberty Voting District
+47|039|2228|02 Scotts Hill|02 Scotts Hill Voting District
+47|039|2232|03 Decaturville|03 Decaturville Voting District
+47|039|2234|03 Beacon|03 Beacon Voting District
+47|039|2236|04 Decaturville|04 Decaturville Voting District
+47|039|2240|05 Parsons|05 Parsons Voting District
+47|039|2244|06 Parsons|06 Parsons Voting District
+47|039|2248|07 Jeanette|07 Jeanette Voting District
+47|039|2252|07 Perryville|07 Perryville Voting District
+47|039|2256|08 Parsons|08 Parsons Voting District
+47|039|2260|09 Beacon|09 Beacon Voting District
+47|039|2264|09 Hydro|09 Hydro Voting District
+47|041|2272|1-1 Alexandria|1-1 Alexandria Voting District
+47|041|2276|1-2 Temperence Hall|1-2 Temperence Hall Voting District
+47|041|2280|1-3 Edgar Evins State Park|1-3 Edgar Evins State Park Voting District
+47|041|2284|2-1 Liberty|2-1 Liberty Voting District
+47|041|2288|2-2 Dowelltown|2-2 Dowelltown Voting District
+47|041|2289|2-3 Snows Hill|2-3 Snows Hill Voting District
+47|041|2292|3 Middle School|3 Middle School Voting District
+47|041|2300|4-1 Cherry Hill|4-1 Cherry Hill Voting District
+47|041|2304|4-2 Rock Castle|4-2 Rock Castle Voting District
+47|041|2308|4-3 Courthouse|4-3 Courthouse Voting District
+47|041|2312|5-1 Johnson Chapel|5-1 Johnson Chapel Voting District
+47|041|2316|5-2 Elementary School|5-2 Elementary School Voting District
+47|041|2320|6-1 Belk|6-1 Belk Voting District
+47|041|2324|6-2 Keltonburg|6-2 Keltonburg Voting District
+47|041|2328|6-3 Blue Springs|6-3 Blue Springs Voting District
+47|041|2332|7 Church of Christ Annex|7 Church of Christ Annex Voting District
+47|043|2340|12-1 Catfish Kitchen|12-1 Catfish Kitchen Voting District
+47|043|2344|06-1 Burns Town Hall|06-1 Burns Town Hall Voting District
+47|043|2348|01-1 Charlotte CC|01-1 Charlotte CC Voting District
+47|043|2356|11-1 New Hope Baptist Church|11-1 New Hope Baptist Church Voting District
+47|043|2360|03-1 Cumberland Fce Firehall|03-1 Cumberland Fce Firehall Voting District
+47|043|2364|12-2 Eastside C.C.|12-2 Eastside C.C. Voting District
+47|043|2368|02-1 Eno Methodist|02-1 Eno Methodist Voting District
+47|043|2380|10-1 Dickson Middle School|10-1 Dickson Middle School Voting District
+47|043|2384|04-1 Jackson Chapel C.C.|04-1 Jackson Chapel C.C. Voting District
+47|043|2392|08-1 Walnut Street Church|08-1 Walnut Street Church Voting District
+47|043|2396|07-1 Pomona Baptist Church|07-1 Pomona Baptist Church Voting District
+47|043|2400|06-2 Porter C.C.|06-2 Porter C.C. Voting District
+47|043|2408|09-1 Superintendent's Office|09-1 Superintendent's Office Voting District
+47|043|2416|01-2 Sylvia Baptist Church|01-2 Sylvia Baptist Church Voting District
+47|043|2420|02-2 Tennessee City C.C.|02-2 Tennessee City C.C. Voting District
+47|043|2424|03-2 Vanleer Townhall|03-2 Vanleer Townhall Voting District
+47|043|2428|12-3 White Bluff C.C.|12-3 White Bluff C.C. Voting District
+47|043|2432|05-1 William James Middle|05-1 William James Middle Voting District
+47|045|2444|D - Millsfield|D - Millsfield Voting District
+47|045|2448|J-N Dyersburg|J-N Dyersburg Voting District
+47|045|2452|D-Bogota|D-Bogota Voting District
+47|045|2456|A - Bonicord|A - Bonicord Voting District
+47|045|2460|F - Dyer County Central|F - Dyer County Central Voting District
+47|045|2464|I - Community Center|I - Community Center Voting District
+47|045|2468|G - Courthouse|G - Courthouse Voting District
+47|045|2472|E - Finley|E - Finley Voting District
+47|045|2476|A-Fowlkes|A-Fowlkes Voting District
+47|045|2484|I - Hurricane Hill|I - Hurricane Hill Voting District
+47|045|2492|H - E. Dyersburg|H - E. Dyersburg Voting District
+47|045|2496|E - Lenox|E - Lenox Voting District
+47|045|2500|B - Newbern|B - Newbern Voting District
+47|045|2508|C - Roellen|C - Roellen Voting District
+47|045|2516|C-Tatumville|C-Tatumville Voting District
+47|045|2520|C - Trimble|C - Trimble Voting District
+47|047|2533|12 Rossville|12 Rossville Voting District
+47|047|2537|11 Piperton|11 Piperton Voting District
+47|047|2540|13 Macon|13 Macon Voting District
+47|047|2545|16 Moscow|16 Moscow Voting District
+47|047|2549|17 LaGrange|17 LaGrange Voting District
+47|047|2553|14 Williston|14 Williston Voting District
+47|047|2556|15 Parks|15 Parks Voting District
+47|047|2559|07 Gallaway|07 Gallaway Voting District
+47|047|2561|01 Somerville City|01 Somerville City Voting District
+47|047|2564|03 Fayette Corner|03 Fayette Corner Voting District
+47|047|2572|04 Garnett|04 Garnett Voting District
+47|047|2576|05 Longtown|05 Longtown Voting District
+47|047|2581|06 Braden|06 Braden Voting District
+47|047|2588|09 Hickory Withe|09 Hickory Withe Voting District
+47|047|2593|08 Oakland|08 Oakland Voting District
+47|047|2596|02 Warren|02 Warren Voting District
+47|047|2600|10 Elba|10 Elba Voting District
+47|049|2608|Community Center|Community Center Voting District
+47|049|2612|Courthouse|Courthouse Voting District
+47|049|2616|Crossroads|Crossroads Voting District
+47|049|2620|Pall Mall|Pall Mall Voting District
+47|049|2624|West Fentress|West Fentress Voting District
+47|049|2628|York Elementary|York Elementary Voting District
+47|049|2632|Grimsley|Grimsley Voting District
+47|049|2636|Shirley|Shirley Voting District
+47|049|2640|Clarkrange|Clarkrange Voting District
+47|049|2644|Banner Springs|Banner Springs Voting District
+47|049|2648|Pine Haven|Pine Haven Voting District
+47|049|2652|Allardt|Allardt Voting District
+47|049|2656|Armathwaite|Armathwaite Voting District
+47|051|2664|6-1 Alto/Oak Grove|6-1 Alto/Oak Grove Voting District
+47|051|2668|4-1 Belvidere|4-1 Belvidere Voting District
+47|051|2672|3-1 Broadview|3-1 Broadview Voting District
+47|051|2676|6-2 Capitol Hill|6-2 Capitol Hill Voting District
+47|051|2678|6-3 UTSI|6-3 UTSI Voting District
+47|051|2684|2-1 Clark Memorial|2-1 Clark Memorial Voting District
+47|051|2688|1-1 FC Annex|1-1 FC Annex Voting District
+47|051|2692|4-2 Cowan|4-2 Cowan Voting District
+47|051|2696|8-1 Decherd|8-1 Decherd Voting District
+47|051|2700|8-2 Estill Springs|8-2 Estill Springs Voting District
+47|051|2704|3-2 Huntland|3-2 Huntland Voting District
+47|051|2708|5-1 Keith Springs|5-1 Keith Springs Voting District
+47|051|2712|4-3 Liberty|4-3 Liberty Voting District
+47|051|2716|3-3 Old Salem|3-3 Old Salem Voting District
+47|051|2720|5-2 Sewanee|5-2 Sewanee Voting District
+47|051|2724|5-3 Sherwood|5-3 Sherwood Voting District
+47|051|2728|7-2 Winchester Springs & Center Grove|7-2 Winchester Springs & Center Grove Voting District
+47|051|2730|7-1 North Lake|7-1 North Lake Voting District
+47|053|2736|17-32 Bradford|17-32 Bradford Voting District
+47|053|2740|08-14 Brazil Fire Station|08-14 Brazil Fire Station Voting District
+47|053|2748|11-23 Concord|11-23 Concord Voting District
+47|053|2752|19-39 Currie|19-39 Currie Voting District
+47|053|2756|19-38 Dyer|19-38 Dyer Voting District
+47|053|2760|08-15 Spring Hill|08-15 Spring Hill Voting District
+47|053|2764|08-12 Edison Comm Center|08-12 Edison Comm Center Voting District
+47|053|2768|16-19 Fairview|16-19 Fairview Voting District
+47|053|2772|04-8-2 Humboldt Fire Station|04-8-2 Humboldt Fire Station Voting District
+47|053|2776|07-13 Fruitland Fire Station|07-13 Fruitland Fire Station Voting District
+47|053|2780|01-4 Gibson Municipal Bldg|01-4 Gibson Municipal Bldg Voting District
+47|053|2784|02-6-3 Humboldt Church of Christ|02-6-3 Humboldt Church of Christ Voting District
+47|053|2788|18-37 Good Luck|18-37 Good Luck Voting District
+47|053|2796|06-10-5 Humboldt Old Armory|06-10-5 Humboldt Old Armory Voting District
+47|053|2800|01-5 Humboldt Airport|01-5 Humboldt Airport Voting District
+47|053|2804|05-9-1 Lane Chapel CME Church|05-9-1 Lane Chapel CME Church Voting District
+47|053|2812|17-33 Idlewood|17-33 Idlewood Voting District
+47|053|2816|16-18 Kenton|16-18 Kenton Voting District
+47|053|2820|18-34 Laneview|18-34 Laneview Voting District
+47|053|2828|01-1 Medina Civic Center|01-1 Medina Civic Center Voting District
+47|053|2832|14-30 Milan First Assembly of God|14-30 Milan First Assembly of God Voting District
+47|053|2836|12-28 Milan Express Bldg|12-28 Milan Express Bldg Voting District
+47|053|2838|15-31 Milan Municipal Bldg|15-31 Milan Municipal Bldg Voting District
+47|053|2840|13-29 Milan Polk Clark School|13-29 Milan Polk Clark School Voting District
+47|053|2842|11-25 Union Central|11-25 Union Central Voting District
+47|053|2844|11-24 Moore's Chapel|11-24 Moore's Chapel Voting District
+47|053|2856|16-40 Rutherford Fire Station|16-40 Rutherford Fire Station Voting District
+47|053|2860|01-2 Sitka Community Center|01-2 Sitka Community Center Voting District
+47|053|2864|11-27 Skullbone|11-27 Skullbone Voting District
+47|053|2868|01-3 South Gibson|01-3 South Gibson Voting District
+47|053|2872|07-11 Ed Jones Agri Plex|07-11 Ed Jones Agri Plex Voting District
+47|053|2876|10-22 Trenton City Hall|10-22 Trenton City Hall Voting District
+47|053|2880|09-20 Court House|09-20 Court House Voting District
+47|053|2884|03-7-4 Humboldt Bailey Park|03-7-4 Humboldt Bailey Park Voting District
+47|053|2888|11-26 Gann|11-26 Gann Voting District
+47|053|2892|16-17 Yorkville|16-17 Yorkville Voting District
+47|055|2900|6B BMS|6B BMS Voting District
+47|055|2904|2B Airport|2B Airport Voting District
+47|055|2908|1A Ardmore|1A Ardmore Voting District
+47|055|2912|7A GCHS|7A GCHS Voting District
+47|055|2916|1B Prospect|1B Prospect Voting District
+47|055|2920|3A Richland Trace Market|3A Richland Trace Market Voting District
+47|055|2924|3B Campbellsville|3B Campbellsville Voting District
+47|055|2928|4B Odd Fellows Hall|4B Odd Fellows Hall Voting District
+47|055|2932|6A MMC Colonial Hall|6A MMC Colonial Hall Voting District
+47|055|2936|5B Co-Op|5B Co-Op Voting District
+47|055|2940|4A Lynnville|4A Lynnville Voting District
+47|055|2944|2A Minor Hill|2A Minor Hill Voting District
+47|055|2948|7B Rec Center|7B Rec Center Voting District
+47|055|2952|5A TN-Tech|5A TN-Tech Voting District
+47|057|2960|1-1 Rutledge Middle School|1-1 Rutledge Middle School Voting District
+47|057|2964|1-2 Old Central Point School|1-2 Old Central Point School Voting District
+47|057|2968|2-1 Bean Station Ele. School|2-1 Bean Station Ele. School Voting District
+47|057|2972|2-2 Grainger High School|2-2 Grainger High School Voting District
+47|057|2976|3-1 Blaine City Hall|3-1 Blaine City Hall Voting District
+47|057|2980|3-2 Indian Ridge Comm. Blg.|3-2 Indian Ridge Comm. Blg. Voting District
+47|057|2984|4-1 Thorn Hill Comm. Blg.|4-1 Thorn Hill Comm. Blg. Voting District
+47|057|2988|4-2 Washburn Ele. School|4-2 Washburn Ele. School Voting District
+47|057|2992|5-2 Senior Citizens Center|5-2 Senior Citizens Center Voting District
+47|057|2994|5-1 Bean Station Library|5-1 Bean Station Library Voting District
+47|059|3000|10-2 Andrew Johnson|10-2 Andrew Johnson Voting District
+47|059|3004|11 Woodlawn|11 Woodlawn Voting District
+47|059|3008|03 Caney Branch|03 Caney Branch Voting District
+47|059|3012|15 Jockey|15 Jockey Voting District
+47|059|3016|14 Chucky Doak|14 Chucky Doak Voting District
+47|059|3020|10-2 Court House|10-2 Court House Voting District
+47|059|3024|21 Cross Anchor|21 Cross Anchor Voting District
+47|059|3028|09 Debusk|09 Debusk Voting District
+47|059|3032|10-1 East View|10-1 East View Voting District
+47|059|3036|02 Flag Branch|02 Flag Branch Voting District
+47|059|3040|01 Forest Hills|01 Forest Hills Voting District
+47|059|3044|25 Glenwood|25 Glenwood Voting District
+47|059|3048|22 Greystone|22 Greystone Voting District
+47|059|3052|12 Hardins|12 Hardins Voting District
+47|059|3056|10-1 High School|10-1 High School Voting District
+47|059|3060|10-1 Highland Roby|10-1 Highland Roby Voting District
+47|059|3072|04 McDonald|04 McDonald Voting District
+47|059|3076|10-2 Middle School|10-2 Middle School Voting District
+47|059|3080|19 Midway|19 Midway Voting District
+47|059|3084|06 Mohawk|06 Mohawk Voting District
+47|059|3088|23 Mosheim|23 Mosheim Voting District
+47|059|3092|07 Mt. Carmel|07 Mt. Carmel Voting District
+47|059|3096|08 Mt. Pleasant|08 Mt. Pleasant Voting District
+47|059|3100|20 Newmansville|20 Newmansville Voting District
+47|059|3104|05 Orebank|05 Orebank Voting District
+47|059|3108|18 South Greene|18 South Greene Voting District
+47|059|3112|24 Sunnyside|24 Sunnyside Voting District
+47|059|3116|13 Tusculum North|13 Tusculum North Voting District
+47|059|3117|13 Tusculum South|13 Tusculum South Voting District
+47|059|3120|13 Tusculum Corp|13 Tusculum Corp Voting District
+47|059|3124|10-1 Tusculum View|10-1 Tusculum View Voting District
+47|059|3128|16 Lost Mountain|16 Lost Mountain Voting District
+47|059|3129|16 Union Temple|16 Union Temple Voting District
+47|059|3136|17 West Pines|17 West Pines Voting District
+47|061|3144|Hubbard's Cove|Hubbard's Cove Voting District
+47|061|3150|Tarlton|Tarlton Voting District
+47|061|3152|Beersheba|Beersheba Voting District
+47|061|3160|Coalmont|Coalmont Voting District
+47|061|3164|Altamont|Altamont Voting District
+47|061|3166|Central|Central Voting District
+47|061|3168|Gruetli|Gruetli Voting District
+47|061|3176|Monteagle|Monteagle Voting District
+47|061|3178|Cross Roads|Cross Roads Voting District
+47|061|3180|Palmer|Palmer Voting District
+47|061|3184|Pelham|Pelham Voting District
+47|061|3192|Collins|Collins Voting District
+47|061|3200|Tracy|Tracy Voting District
+47|063|3208|10-1 Fish Hatchery|10-1 Fish Hatchery Voting District
+47|063|3212|10-2 Union Heights|10-2 Union Heights Voting District
+47|063|3216|11-1 West High School|11-1 West High School Voting District
+47|063|3220|11-2 Witt School|11-2 Witt School Voting District
+47|063|3224|12-1 Alpha Elementary School|12-1 Alpha Elementary School Voting District
+47|063|3228|13-1 Cedar Hill|13-1 Cedar Hill Voting District
+47|063|3232|14-1 Manley Primary School|14-1 Manley Primary School Voting District
+47|063|3236|1-1 Courthouse|1-1 Courthouse Voting District
+47|063|3240|2-1 Meadowview Middle School|2-1 Meadowview Middle School Voting District
+47|063|3244|3-3 East High School|3-3 East High School Voting District
+47|063|3248|4-1 West High|4-1 West High Voting District
+47|063|3252|5-1 West View|5-1 West View Voting District
+47|063|3256|6-1 Fairview Marguerite|6-1 Fairview Marguerite Voting District
+47|063|3260|7-1 Cherokee Park|7-1 Cherokee Park Voting District
+47|063|3264|8-1 National Guard Armory|8-1 National Guard Armory Voting District
+47|063|3268|9-1 Russellive Primary School|9-1 Russellive Primary School Voting District
+47|063|3272|9-2 Whitesburg School|9-2 Whitesburg School Voting District
+47|065|3284|001 Airport 1|001 Airport 1 Voting District
+47|065|3285|112 Airport 2|112 Airport 2 Voting District
+47|065|3287|154 Airport 4|154 Airport 4 Voting District
+47|065|3288|002 Alton Park|002 Alton Park Voting District
+47|065|3292|003 Amnicola|003 Amnicola Voting District
+47|065|3296|004 Avondale|004 Avondale Voting District
+47|065|3300|005 Bonny Oaks|005 Bonny Oaks Voting District
+47|065|3304|006 Brainerd|006 Brainerd Voting District
+47|065|3308|007 Brainerd Hills|007 Brainerd Hills Voting District
+47|065|3312|008 Bushtown|008 Bushtown Voting District
+47|065|3316|009 Cedar Hill|009 Cedar Hill Voting District
+47|065|3324|011 Clifton Hills 1|011 Clifton Hills 1 Voting District
+47|065|3325|133 Clifton Hills 2|133 Clifton Hills 2 Voting District
+47|065|3328|012 Concord 1|012 Concord 1 Voting District
+47|065|3329|093 Concord 2|093 Concord 2 Voting District
+47|065|3330|141 Concord 3|141 Concord 3 Voting District
+47|065|3332|015 Downtown|015 Downtown Voting District
+47|065|3336|014 Dalewood|014 Dalewood Voting District
+47|065|3340|013 Courthouse|013 Courthouse Voting District
+47|065|3344|016 DuPont|016 DuPont Voting District
+47|065|3348|017 East Brainerd 1|017 East Brainerd 1 Voting District
+47|065|3349|104 East Brainerd 2|104 East Brainerd 2 Voting District
+47|065|3352|018 East Chattanooga 1|018 East Chattanooga 1 Voting District
+47|065|3356|019 East Lake|019 East Lake Voting District
+47|065|3360|020 East Side 1|020 East Side 1 Voting District
+47|065|3361|132 East Side 2|132 East Side 2 Voting District
+47|065|3364|021 Eastdale 1|021 Eastdale 1 Voting District
+47|065|3365|131 Eastdale 2|131 Eastdale 2 Voting District
+47|065|3368|094 Eastgate 1|094 Eastgate 1 Voting District
+47|065|3369|095 Eastgate 2|095 Eastgate 2 Voting District
+47|065|3372|023 Glenwood|023 Glenwood Voting District
+47|065|3376|024 Highland Park|024 Highland Park Voting District
+47|065|3380|025 Hixon 1|025 Hixon 1 Voting District
+47|065|3381|088 Hixson 2|088 Hixson 2 Voting District
+47|065|3382|164 Hixson 4*|164 Hixson 4* Voting District
+47|065|3383|101 Hixson 3|101 Hixson 3 Voting District
+47|065|3384|026 Howard|026 Howard Voting District
+47|065|3388|027 Kingsport|027 Kingsport Voting District
+47|065|3392|028 Lake Hills|028 Lake Hills Voting District
+47|065|3396|029 Lupton City|029 Lupton City Voting District
+47|065|3404|031 Missionary Ridge|031 Missionary Ridge Voting District
+47|065|3408|032 Moccasin Bend|032 Moccasin Bend Voting District
+47|065|3409|117 Mountain Creek 4|117 Mountain Creek 4 Voting District
+47|065|3412|033 Mountain Creek 1|033 Mountain Creek 1 Voting District
+47|065|3413|106 Mountain Creek 2|106 Mountain Creek 2 Voting District
+47|065|3416|034 Murray Hills|034 Murray Hills Voting District
+47|065|3420|035 North Chattanooga 1|035 North Chattanooga 1 Voting District
+47|065|3421|139 North Chattanooga 2|139 North Chattanooga 2 Voting District
+47|065|3424|036 Northgate|036 Northgate Voting District
+47|065|3428|037 Northwoods 1|037 Northwoods 1 Voting District
+47|065|3429|119 Northwoods 3|119 Northwoods 3 Voting District
+47|065|3432|038 Northwoods 2|038 Northwoods 2 Voting District
+47|065|3433|162 Northwoods 4*|162 Northwoods 4* Voting District
+47|065|3434|102 Northwoods 5|102 Northwoods 5 Voting District
+47|065|3440|040 Piney Woods|040 Piney Woods Voting District
+47|065|3444|041 Ridgedale|041 Ridgedale Voting District
+47|065|3448|042 Riverview|042 Riverview Voting District
+47|065|3452|043 St Elmo 1|043 St Elmo 1 Voting District
+47|065|3456|044 Stuart Heights 1|044 Stuart Heights 1 Voting District
+47|065|3458|144 Stuart Heights 2|144 Stuart Heights 2 Voting District
+47|065|3460|045 Sunnyside|045 Sunnyside Voting District
+47|065|3464|046 Tyner 1|046 Tyner 1 Voting District
+47|065|3465|097 Tyner 2|097 Tyner 2 Voting District
+47|065|3467|130 Tyner 4|130 Tyner 4 Voting District
+47|065|3471|161 Lookout Valley 4|161 Lookout Valley 4 Voting District
+47|065|3472|048 Lookout Valley 1|048 Lookout Valley 1 Voting District
+47|065|3473|138 St. Elmo 3|138 St. Elmo 3 Voting District
+47|065|3476|049 Woodmore|049 Woodmore Voting District
+47|065|3480|050 Apison 1|050 Apison 1 Voting District
+47|065|3481|118 Apison 2|118 Apison 2 Voting District
+47|065|3484|051 Birchwood|051 Birchwood Voting District
+47|065|3488|052 Collegedale 1|052 Collegedale 1 Voting District
+47|065|3491|122 Collegedale 2|122 Collegedale 2 Voting District
+47|065|3492|053 East Ridge 1|053 East Ridge 1 Voting District
+47|065|3496|054 East Ridge 2|054 East Ridge 2 Voting District
+47|065|3500|055 East Ridge 3|055 East Ridge 3 Voting District
+47|065|3504|056 East Ridge 4|056 East Ridge 4 Voting District
+47|065|3508|057 East Ridge 5|057 East Ridge 5 Voting District
+47|065|3512|058 Harrison 1|058 Harrison 1 Voting District
+47|065|3516|059 Meadowview|059 Meadowview Voting District
+47|065|3520|060 Ooltewah 1|060 Ooltewah 1 Voting District
+47|065|3522|143 Ooltewah 3*|143 Ooltewah 3* Voting District
+47|065|3524|061 Ridgeside|061 Ridgeside Voting District
+47|065|3528|062 Snowhill|062 Snowhill Voting District
+47|065|3532|063 Summit|063 Summit Voting District
+47|065|3533|166 Summit 2|166 Summit 2 Voting District
+47|065|3536|064 Westview 1|064 Westview 1 Voting District
+47|065|3540|065 Bakewell|065 Bakewell Voting District
+47|065|3544|066 Dallas|066 Dallas Voting District
+47|065|3548|067 Fairmount|067 Fairmount Voting District
+47|065|3552|068 Falling Water 1|068 Falling Water 1 Voting District
+47|065|3553|109 Falling Water 2|109 Falling Water 2 Voting District
+47|065|3556|069 Flat Top Mountain|069 Flat Top Mountain Voting District
+47|065|3560|070 Ganns|070 Ganns Voting District
+47|065|3564|071 Lakesite|071 Lakesite Voting District
+47|065|3568|072 Lookout Mountain 1|072 Lookout Mountain 1 Voting District
+47|065|3569|121 Lookout Mountain 2|121 Lookout Mountain 2 Voting District
+47|065|3572|073 Middle Valley|073 Middle Valley Voting District
+47|065|3576|074 Mowbray|074 Mowbray Voting District
+47|065|3580|075 Pleasant Grove 1|075 Pleasant Grove 1 Voting District
+47|065|3582|103 Pleasant Grove 2|103 Pleasant Grove 2 Voting District
+47|065|3584|076 Red Bank 1|076 Red Bank 1 Voting District
+47|065|3588|077 Red Bank 2|077 Red Bank 2 Voting District
+47|065|3589|125 Red Bank 4|125 Red Bank 4 Voting District
+47|065|3592|078 Red Bank 3|078 Red Bank 3 Voting District
+47|065|3595|127 Red Bank 6|127 Red Bank 6 Voting District
+47|065|3600|080 Sale Creek|080 Sale Creek Voting District
+47|065|3604|081 Signal Mountain East|081 Signal Mountain East Voting District
+47|065|3608|082 Signal Mountain West|082 Signal Mountain West Voting District
+47|065|3612|083 Soddy Daisy 1|083 Soddy Daisy 1 Voting District
+47|065|3614|144 Soddy Daisy 3|144 Soddy Daisy 3 Voting District
+47|065|3616|084 Soddy Daisy 2|084 Soddy Daisy 2 Voting District
+47|065|3618|148 Soddy Daisy 4|148 Soddy Daisy 4 Voting District
+47|065|3619|165 Soddy Daisy 5*|165 Soddy Daisy 5* Voting District
+47|065|3620|085 Valdeau|085 Valdeau Voting District
+47|065|3622|092 Lookout Valley 2|092 Lookout Valley 2 Voting District
+47|065|3624|086 Walden|086 Walden Voting District
+47|065|3629|111 Lookout Valley 3*|111 Lookout Valley 3* Voting District
+47|065|3630|137 St. Elmo 2|137 St. Elmo 2 Voting District
+47|065|3631|160 St Elmo 4|160 St Elmo 4 Voting District
+47|065|3632|089 Ooltewah 2|089 Ooltewah 2 Voting District
+47|065|3636|090 Harrison 2|090 Harrison 2 Voting District
+47|065|3637|098 Harrison 3|098 Harrison 3 Voting District
+47|065|3638|140 Harrison 4|140 Harrison 4 Voting District
+47|065|3640|091 Westview 2|091 Westview 2 Voting District
+47|065|3641|096 Westview 3|096 Westview 3 Voting District
+47|067|3648|1st|1st Voting District
+47|067|3652|2nd|2nd Voting District
+47|067|3656|3rd|3rd Voting District
+47|067|3660|4th|4th Voting District
+47|067|3664|5th|5th Voting District
+47|067|3668|6th|6th Voting District
+47|067|3672|7th|7th Voting District
+47|069|3680|Bolivar|Bolivar Voting District
+47|069|3684|Grand Junction|Grand Junction Voting District
+47|069|3688|Hickory Valley|Hickory Valley Voting District
+47|069|3692|Hornsby|Hornsby Voting District
+47|069|3700|Middleton|Middleton Voting District
+47|069|3704|Campbell Chapel|Campbell Chapel Voting District
+47|069|3708|Lacy|Lacy Voting District
+47|069|3710|Pocahontas|Pocahontas Voting District
+47|069|3712|Saulsbury|Saulsbury Voting District
+47|069|3716|Silerton|Silerton Voting District
+47|069|3720|Toone|Toone Voting District
+47|069|3724|West Bolivar|West Bolivar Voting District
+47|069|3728|Whiteville|Whiteville Voting District
+47|071|3736|1 Armory|1 Armory Voting District
+47|071|3744|10 Fairground|10 Fairground Voting District
+47|071|3752|9 Courthouse|9 Courthouse Voting District
+47|071|3756|6 Cerro Gordo|6 Cerro Gordo Voting District
+47|071|3760|3 Counce|3 Counce Voting District
+47|071|3764|4 Crump|4 Crump Voting District
+47|071|3780|5 Morris Chapel|5 Morris Chapel Voting District
+47|071|3784|2 Nixon|2 Nixon Voting District
+47|071|3788|8 North|8 North Voting District
+47|071|3796|6 Olive Hill|6 Olive Hill Voting District
+47|071|3800|1 Olivet|1 Olivet Voting District
+47|071|3804|6 Rhodes|6 Rhodes Voting District
+47|071|3808|5 Saltillo|5 Saltillo Voting District
+47|071|3812|4 Shiloh|4 Shiloh Voting District
+47|071|3816|3 Southside|3 Southside Voting District
+47|071|3820|2 Walkers|2 Walkers Voting District
+47|071|3824|7 Walnut Grove|7 Walnut Grove Voting District
+47|071|3828|7 Whites|7 Whites Voting District
+47|073|3844|6 Alumwell|6 Alumwell Voting District
+47|073|3849|1 Armory|1 Armory Voting District
+47|073|3852|7 Bulls Gap|7 Bulls Gap Voting District
+47|073|3856|3 Carter's Valley|3 Carter's Valley Voting District
+47|073|3860|7 Cherokee|7 Cherokee Voting District
+47|073|3864|6 Choptack|6 Choptack Voting District
+47|073|3868|2 Church Hill|2 Church Hill Voting District
+47|073|3872|6 Clinch|6 Clinch Voting District
+47|073|3876|4 Dykes|4 Dykes Voting District
+47|073|3880|4 Kepler|4 Kepler Voting District
+47|073|3884|2 McPheeter's Bend|2 McPheeter's Bend Voting District
+47|073|3888|6 Mooresburg|6 Mooresburg Voting District
+47|073|3892|1 Mount Carmel|1 Mount Carmel Voting District
+47|073|3896|5 Rogersville North Inside|5 Rogersville North Inside Voting District
+47|073|3897|4 Rogersville North Outside|4 Rogersville North Outside Voting District
+47|073|3900|5 Rogersville South Inside|5 Rogersville South Inside Voting District
+47|073|3904|5 Rogersville South Outside|5 Rogersville South Outside Voting District
+47|073|3908|7 St. Clair|7 St. Clair Voting District
+47|073|3912|4 Surgoinsville|4 Surgoinsville Voting District
+47|073|3916|4 Upper Beech|4 Upper Beech Voting District
+47|073|3920|3 Wallace|3 Wallace Voting District
+47|073|3924|3 Watterson|3 Watterson Voting District
+47|075|3936|08 Holly Grove|08 Holly Grove Voting District
+47|075|3940|02 Parks & Recreation Dept|02 Parks & Recreation Dept Voting District
+47|075|3948|01 City hall|01 City hall Voting District
+47|075|3954|14 College Hill Cafeteria|14 College Hill Cafeteria Voting District
+47|075|3956|03 Courthouse|03 Courthouse Voting District
+47|075|3960|04 Fire Station # 3|04 Fire Station # 3 Voting District
+47|075|3964|07 Wyatt-Duke National Guard Armory|07 Wyatt-Duke National Guard Armory Voting District
+47|075|3968|05 Forked Deer|05 Forked Deer Voting District
+47|075|3972|12 Koko|12 Koko Voting District
+47|075|3974|11 Douglass|11 Douglass Voting District
+47|075|3983|15 Haywood Junior High|15 Haywood Junior High Voting District
+47|075|3984|13 Stanton City Hall|13 Stanton City Hall Voting District
+47|075|3988|09 Sunny Hill School|09 Sunny Hill School Voting District
+47|075|3992|06 Tibbs|06 Tibbs Voting District
+47|075|3996|10 Union|10 Union Voting District
+47|077|4004|1-1 Bargerton|1-1 Bargerton Voting District
+47|077|4008|1-2 Beaver|1-2 Beaver Voting District
+47|077|4016|3-4 Pin Oak Fire Station #4|3-4 Pin Oak Fire Station #4 Voting District
+47|077|4020|3-1 Christian Chapel|3-1 Christian Chapel Voting District
+47|077|4024|5-1 TN Technology Center|5-1 TN Technology Center Voting District
+47|077|4028|4-1 Civic Center|4-1 Civic Center Voting District
+47|077|4032|3-3 Darden|3-3 Darden Voting District
+47|077|4036|6-1 High School|6-1 High School Voting District
+47|077|4044|7-1 Middleburg|7-1 Middleburg Voting District
+47|077|4052|3-2 Fire Station #10|3-2 Fire Station #10 Voting District
+47|077|4056|7-2 Reagan|7-2 Reagan Voting District
+47|077|4060|7-4 Sardis|7-4 Sardis Voting District
+47|077|4064|7-3 Scotts Hill|7-3 Scotts Hill Voting District
+47|077|4072|2-2 South Haven|2-2 South Haven Voting District
+47|077|4076|2-1 Westover|2-1 Westover Voting District
+47|079|4088|1-3 Buchanan|1-3 Buchanan Voting District
+47|079|4092|4-1 City Hall|4-1 City Hall Voting District
+47|079|4096|1-2 Cottage Grove|1-2 Cottage Grove Voting District
+47|079|4100|4-2 Grove|4-2 Grove Voting District
+47|079|4104|2-1 Henry|2-1 Henry Voting District
+47|079|4108|5-1 Henry County High School|5-1 Henry County High School Voting District
+47|079|4112|2-3 Oakland|2-3 Oakland Voting District
+47|079|4116|3-1 Russwood|3-1 Russwood Voting District
+47|079|4124|2-2 Mansfield|2-2 Mansfield Voting District
+47|079|4128|1-1 Puryear|1-1 Puryear Voting District
+47|079|4132|3-2 Springville|3-2 Springville Voting District
+47|079|4136|3-3 Jones Chapel|3-3 Jones Chapel Voting District
+47|079|4140|5-2 Vocational School|5-2 Vocational School Voting District
+47|081|4147|07-4 Armory|07-4 Armory Voting District
+47|081|4148|07-3 Brushy|07-3 Brushy Voting District
+47|081|4152|07-1 Coble|07-1 Coble Voting District
+47|081|4153|07-2 Pleasantville|07-2 Pleasantville Voting District
+47|081|4156|01-2 Nunnelly|01-2 Nunnelly Voting District
+47|081|4157|01-1 Only|01-1 Only Voting District
+47|081|4160|02-1 Pinewood|02-1 Pinewood Voting District
+47|081|4164|02-2 Fairfield|02-2 Fairfield Voting District
+47|081|4168|01-3 Pinewood|01-3 Pinewood Voting District
+47|081|4172|03-1 East Community Center|03-1 East Community Center Voting District
+47|081|4176|04-1 Lake Benson Camp|04-1 Lake Benson Camp Voting District
+47|081|4181|05-2 Middle School|05-2 Middle School Voting District
+47|081|4184|06-1 Senior High|06-1 Senior High Voting District
+47|081|4188|06-2 Centerville Elementary|06-2 Centerville Elementary Voting District
+47|081|4192|05-4 Armory|05-4 Armory Voting District
+47|081|4194|02-3 East Bank|02-3 East Bank Voting District
+47|081|4195|05-1 Mt. Pleasant|05-1 Mt. Pleasant Voting District
+47|081|4200|05-3 Shady Grove|05-3 Shady Grove Voting District
+47|083|4208|Arlington Sr. Citizens Cntr|Arlington Sr. Citizens Cntr Voting District
+47|083|4212|Erin City Hall|Erin City Hall Voting District
+47|083|4216|Erin Elementary School|Erin Elementary School Voting District
+47|083|4220|Griffin's Chapel Church|Griffin's Chapel Church Voting District
+47|083|4224|Houston Co. Middle School|Houston Co. Middle School Voting District
+47|083|4228|Stewart Community Center|Stewart Community Center Voting District
+47|083|4232|Armory|Armory Voting District
+47|085|4240|1-1 Jera Building|1-1 Jera Building Voting District
+47|085|4244|1-2 Armory|1-2 Armory Voting District
+47|085|4256|2-3 Junior High School|2-3 Junior High School Voting District
+47|085|4260|3-4 MLEC|3-4 MLEC Voting District
+47|085|4264|4-5 FUMC|4-5 FUMC Voting District
+47|085|4276|5-6 Ag Center|5-6 Ag Center Voting District
+47|085|4284|5-7 Buffalo|5-7 Buffalo Voting District
+47|085|4292|6-8 South McEwen|6-8 South McEwen Voting District
+47|085|4304|7-9 North McEwen|7-9 North McEwen Voting District
+47|087|4310|1-1|1-1 Voting District
+47|087|4311|1-2|1-2 Voting District
+47|087|4312|1-3|1-3 Voting District
+47|087|4318|2-2|2-2 Voting District
+47|087|4322|2-1|2-1 Voting District
+47|087|4326|3-1|3-1 Voting District
+47|087|4330|3-2|3-2 Voting District
+47|087|4334|4-3|4-3 Voting District
+47|087|4338|4-1|4-1 Voting District
+47|087|4342|4-2|4-2 Voting District
+47|087|4346|5-3|5-3 Voting District
+47|087|4350|5-1|5-1 Voting District
+47|087|4354|5-2|5-2 Voting District
+47|087|4358|6-4|6-4 Voting District
+47|087|4362|6-3|6-3 Voting District
+47|087|4366|6-2|6-2 Voting District
+47|087|4370|6-1|6-1 Voting District
+47|089|4400|08 Chestnut Hill School|08 Chestnut Hill School Voting District
+47|089|4404|10 Jefferson City Fire Department|10 Jefferson City Fire Department Voting District
+47|089|4408|01 Dandridge Elementary|01 Dandridge Elementary Voting District
+47|089|4412|04 Jefferson Elementary|04 Jefferson Elementary Voting District
+47|089|4416|05 Jefferson Middle|05 Jefferson Middle Voting District
+47|089|4420|07 New Market City Hall|07 New Market City Hall Voting District
+47|089|4422|08 Old Swannsylvania School|08 Old Swannsylvania School Voting District
+47|089|4424|02 Piedmont|02 Piedmont Voting District
+47|089|4428|06 Rush Strong School|06 Rush Strong School Voting District
+47|089|4432|09 Talbott School|09 Talbott School Voting District
+47|089|4436|03 White Pine School|03 White Pine School Voting District
+47|091|4444|1A Laurel|1A Laurel Voting District
+47|091|4448|1B Cold Springs|1B Cold Springs Voting District
+47|091|4452|2 Forge/Shouns|2 Forge/Shouns Voting District
+47|091|4454|7B City School|7B City School Voting District
+47|091|4456|7A High School|7A High School Voting District
+47|091|4460|3A Trade|3A Trade Voting District
+47|091|4464|3B Neva|3B Neva Voting District
+47|091|4468|4A Dry Run|4A Dry Run Voting District
+47|091|4472|4B Butler|4B Butler Voting District
+47|091|4476|5 Doe|5 Doe Voting District
+47|091|4484|6A Shady|6A Shady Voting District
+47|091|4488|6B Sutherland|6B Sutherland Voting District
+47|093|4492|06 Green School|06 Green School Voting District
+47|093|4496|09 Moses Center|09 Moses Center Voting District
+47|093|4500|10N Fort Sanders|10N Fort Sanders Voting District
+47|093|4504|12 Eastport|12 Eastport Voting District
+47|093|4508|13 Fair Garden|13 Fair Garden Voting District
+47|093|4512|14E Austin-East|14E Austin-East Voting District
+47|093|4516|14M Walter P. Taylor Center|14M Walter P. Taylor Center Voting District
+47|093|4520|15 John T. O'Connor Center|15 John T. O'Connor Center Voting District
+47|093|4528|19 S.O.A.R. Youth Ministries|19 S.O.A.R. Youth Ministries Voting District
+47|093|4540|30 Sarah Moore Greene|30 Sarah Moore Greene Voting District
+47|093|4544|11 Central United Methodist Church|11 Central United Methodist Church Voting District
+47|093|4552|16N North Knox Recreation Center|16N North Knox Recreation Center Voting District
+47|093|4556|16S Belle Morris|16S Belle Morris Voting District
+47|093|4560|17 Christenberry|17 Christenberry Voting District
+47|093|4568|18 Lincoln Park|18 Lincoln Park Voting District
+47|093|4572|20 Beaumont|20 Beaumont Voting District
+47|093|4576|37 Inskip Elementary|37 Inskip Elementary Voting District
+47|093|4580|38 Inskip Elementary|38 Inskip Elementary Voting District
+47|093|4584|39 Inskip Recreation Center|39 Inskip Recreation Center Voting District
+47|093|4592|23N Bible Church of God|23N Bible Church of God Voting District
+47|093|4596|40 Norwood Elementary|40 Norwood Elementary Voting District
+47|093|4600|41 Norwood Library|41 Norwood Library Voting District
+47|093|4604|42 Pleasant Ridge|42 Pleasant Ridge Voting District
+47|093|4608|43 West Haven|43 West Haven Voting District
+47|093|4612|44 Ridgedale|44 Ridgedale Voting District
+47|093|4616|45 Bearden Middle|45 Bearden Middle Voting District
+47|093|4620|46 West Hills|46 West Hills Voting District
+47|093|4624|48 Pond Gap|48 Pond Gap Voting District
+47|093|4628|55 Lonas|55 Lonas Voting District
+47|093|4632|10S Stokley Athletics Center|10S Stokley Athletics Center Voting District
+47|093|4636|23S Westview|23S Westview Voting District
+47|093|4640|24N Pellissippi State Tech|24N Pellissippi State Tech Voting District
+47|093|4644|24Q Sequoyah Hills|24Q Sequoyah Hills Voting District
+47|093|4648|47 Bearden High|47 Bearden High Voting District
+47|093|4652|49 Bearden Elementary|49 Bearden Elementary Voting District
+47|093|4656|50S West High|50S West High Voting District
+47|093|4660|50N West High|50N West High Voting District
+47|093|4664|51 Deane Hill Recreation Center|51 Deane Hill Recreation Center Voting District
+47|093|4668|71 Rocky Hill|71 Rocky Hill Voting District
+47|093|4676|67 North Cedar Bluff|67 North Cedar Bluff Voting District
+47|093|4680|68 South Cedar Bluff|68 South Cedar Bluff Voting District
+47|093|4684|68E East Cedar Bluff|68E East Cedar Bluff Voting District
+47|093|4686|69S Bluegrass|69S Bluegrass Voting District
+47|093|4688|69N A.L. Lotts|69N A.L. Lotts Voting District
+47|093|4692|65 Concord|65 Concord Voting District
+47|093|4694|65N Concord North|65N Concord North Voting District
+47|093|4696|66N Farragut I|66N Farragut I Voting District
+47|093|4700|66S Farragut II|66S Farragut II Voting District
+47|093|4704|62 Hardin Valley|62 Hardin Valley Voting District
+47|093|4705|62W Hardin Valley West|62W Hardin Valley West Voting District
+47|093|4708|70 Ball Camp|70 Ball Camp Voting District
+47|093|4712|63 Karns|63 Karns Voting District
+47|093|4713|63N Karns North|63N Karns North Voting District
+47|093|4716|64 Solway|64 Solway Voting District
+47|093|4720|73 Powell|73 Powell Voting District
+47|093|4724|56 Heiskell|56 Heiskell Voting District
+47|093|4728|58 Pedigo|58 Pedigo Voting District
+47|093|4732|72E Boys and Girls Club|72E Boys and Girls Club Voting District
+47|093|4733|72M Boys and Girls Club|72M Boys and Girls Club Voting District
+47|093|4734|72W Boys and Girls Club|72W Boys and Girls Club Voting District
+47|093|4736|31 Chilhowee|31 Chilhowee Voting District
+47|093|4740|32 Spring Hill|32 Spring Hill Voting District
+47|093|4744|33 Richard Yoakley|33 Richard Yoakley Voting District
+47|093|4748|34 Fountain City Library|34 Fountain City Library Voting District
+47|093|4752|35 Shannondale|35 Shannondale Voting District
+47|093|4756|36 Gresham|36 Gresham Voting District
+47|093|4760|74 Shannondale|74 Shannondale Voting District
+47|093|4764|59 Brickey|59 Brickey Voting District
+47|093|4768|61 Halls|61 Halls Voting District
+47|093|4772|86 Carter|86 Carter Voting District
+47|093|4776|80 Corryton|80 Corryton Voting District
+47|093|4780|79 Dora Kennedy|79 Dora Kennedy Voting District
+47|093|4784|82 Ellistown|82 Ellistown Voting District
+47|093|4788|60 Fort Sumpter|60 Fort Sumpter Voting District
+47|093|4792|81 Gibbs|81 Gibbs Voting District
+47|093|4796|57 Hills|57 Hills Voting District
+47|093|4800|75 Huffs|75 Huffs Voting District
+47|093|4804|77 Ramsey|77 Ramsey Voting District
+47|093|4808|84 Ritta|84 Ritta Voting District
+47|093|4812|78 Riverdale|78 Riverdale Voting District
+47|093|4816|85 Skaggston|85 Skaggston Voting District
+47|093|4820|76 Sunnyview|76 Sunnyview Voting District
+47|093|4824|87 Thorngrove|87 Thorngrove Voting District
+47|093|4828|25 South Knox Community Center|25 South Knox Community Center Voting District
+47|093|4837|88 Kings|88 Kings Voting District
+47|093|4838|26 Dogwood|26 Dogwood Voting District
+47|093|4844|27 South Knox Optimist Club|27 South Knox Optimist Club Voting District
+47|093|4848|28 South-Doyle Middle|28 South-Doyle Middle Voting District
+47|093|4852|29 Anderson|29 Anderson Voting District
+47|093|4856|90 Bonny Kate|90 Bonny Kate Voting District
+47|093|4860|92 Gap Creek|92 Gap Creek Voting District
+47|093|4864|93 Hopewell|93 Hopewell Voting District
+47|093|4872|89 Mt.Olive|89 Mt.Olive Voting District
+47|093|4876|91 Vestal|91 Vestal Voting District
+47|095|4888|2 Lake County High School|2 Lake County High School Voting District
+47|095|4892|3 Courthouse|3 Courthouse Voting District
+47|095|4896|4 Lake Co. JHS Title I Room|4 Lake Co. JHS Title I Room Voting District
+47|095|4904|1 Tiptonville Senior Citizens|1 Tiptonville Senior Citizens Voting District
+47|097|4912|Curve|Curve Voting District
+47|097|4920|Central|Central Voting District
+47|097|4932|Ripley 2|Ripley 2 Voting District
+47|097|4936|Price|Price Voting District
+47|097|4944|Arp|Arp Voting District
+47|097|4948|Nankipoo|Nankipoo Voting District
+47|097|4952|Gates|Gates Voting District
+47|097|4956|Edith|Edith Voting District
+47|097|4960|Glimp|Glimp Voting District
+47|097|4964|McBride|McBride Voting District
+47|097|4967|Halls 8|Halls 8 Voting District
+47|097|4976|Henning|Henning Voting District
+47|097|4980|Lightfoot|Lightfoot Voting District
+47|097|5004|Conner|Conner Voting District
+47|097|5008|Ripley 3|Ripley 3 Voting District
+47|097|5012|Ripley 4|Ripley 4 Voting District
+47|099|5016|6-1 Iron City|6-1 Iron City Voting District
+47|099|5018|6-2 West Point|6-2 West Point Voting District
+47|099|5020|1-1 St. Joseph|1-1 St. Joseph Voting District
+47|099|5022|1-2 West Loretto|1-2 West Loretto Voting District
+47|099|5032|15-1 David Crocket|15-1 David Crocket Voting District
+47|099|5033|13-2 Midwest|13-2 Midwest Voting District
+47|099|5034|3-1 South East Lawrence|3-1 South East Lawrence Voting District
+47|099|5040|4-1 Crossroads|4-1 Crossroads Voting District
+47|099|5041|4-2 Fall River|4-2 Fall River Voting District
+47|099|5044|9-1 Ethridge|9-1 Ethridge Voting District
+47|099|5050|5-1 Leoma|5-1 Leoma Voting District
+47|099|5052|5-2 Gandy|5-2 Gandy Voting District
+47|099|5064|3-2 Centerpoint|3-2 Centerpoint Voting District
+47|099|5068|18-1 E. O. Coffman|18-1 E. O. Coffman Voting District
+47|099|5070|13-3 Pea Ridge|13-3 Pea Ridge Voting District
+47|099|5072|13-1 West End|13-1 West End Voting District
+47|099|5080|2-1 Loretto Civic Center|2-1 Loretto Civic Center Voting District
+47|099|5090|8-1 New Prospect|8-1 New Prospect Voting District
+47|099|5092|9-2 Mars Hill|9-2 Mars Hill Voting District
+47|099|5100|14-1 Crawfish Valley|14-1 Crawfish Valley Voting District
+47|099|5102|12-1 Center|12-1 Center Voting District
+47|099|5104|11-1 Summertown|11-1 Summertown Voting District
+47|099|5108|16-1 Rotary Park|16-1 Rotary Park Voting District
+47|099|5110|12-2 Henryville|12-2 Henryville Voting District
+47|099|5112|17-1Sowell|17-1Sowell Voting District
+47|099|5114|10-2 Brace|10-2 Brace Voting District
+47|099|5116|10-1 Howards|10-1 Howards Voting District
+47|099|5120|7-1 Lawrenceburg Public|7-1 Lawrenceburg Public Voting District
+47|099|5132|17-2 Old Armory|17-2 Old Armory Voting District
+47|101|5144|1-1|1-1 Voting District
+47|101|5148|2-1|2-1 Voting District
+47|101|5160|3-1|3-1 Voting District
+47|101|5168|4-1|4-1 Voting District
+47|101|5176|5-1|5-1 Voting District
+47|101|5184|6-1|6-1 Voting District
+47|101|5188|7-1|7-1 Voting District
+47|101|5191|9-1|9-1 Voting District
+47|101|5192|8-1|8-1 Voting District
+47|103|5200|9th Grade Academy|9th Grade Academy Voting District
+47|103|5204|Askins School|Askins School Voting District
+47|103|5208|Belleville Community Center|Belleville Community Center Voting District
+47|103|5212|Blanche School|Blanche School Voting District
+47|103|5213|Molino|Molino Voting District
+47|103|5216|Boonshill Community Center|Boonshill Community Center Voting District
+47|103|5225|Thorton Taylor Pkwy|Thorton Taylor Pkwy Voting District
+47|103|5228|Calvary Baptist Fellowship Hall|Calvary Baptist Fellowship Hall Voting District
+47|103|5232|Elora Community Center|Elora Community Center Voting District
+47|103|5236|Flintville Fire Hall|Flintville Fire Hall Voting District
+47|103|5240|Highland Rim School|Highland Rim School Voting District
+47|103|5242|FNB Community Room|FNB Community Room Voting District
+47|103|5244|Howell|Howell Voting District
+47|103|5248|South Lincoln|South Lincoln Voting District
+47|103|5252|Kelso Cumberland Presbyterian Church|Kelso Cumberland Presbyterian Church Voting District
+47|103|5256|Lincoln Community Center|Lincoln Community Center Voting District
+47|103|5260|Mulberry Fire Hall|Mulberry Fire Hall Voting District
+47|103|5264|Petersburg|Petersburg Voting District
+47|103|5268|Recreation Center|Recreation Center Voting District
+47|103|5276|Taft Firehall|Taft Firehall Voting District
+47|105|5284|Browder|Browder Voting District
+47|105|5288|Davis|Davis Voting District
+47|105|5292|Eatons|Eatons Voting District
+47|105|5296|Glendale|Glendale Voting District
+47|105|5300|Greenback|Greenback Voting District
+47|105|5304|Highland Park|Highland Park Voting District
+47|105|5312|Lenoir City Outside|Lenoir City Outside Voting District
+47|105|5316|Lenoir City|Lenoir City Voting District
+47|105|5324|Loudon Outside|Loudon Outside Voting District
+47|105|5328|Loudon|Loudon Voting District
+47|105|5332|Luttrell|Luttrell Voting District
+47|105|5334|Tellico Village East|Tellico Village East Voting District
+47|105|5336|Philadelphia|Philadelphia Voting District
+47|105|5338|Tellico Village|Tellico Village Voting District
+47|107|5896|09 Ingleside School|09 Ingleside School Voting District
+47|107|5900|10 Tennessee Tech. Centerool|10 Tennessee Tech. Centerool Voting District
+47|107|5904|11 McMinn Courthouse|11 McMinn Courthouse Voting District
+47|107|5908|12 North City School|12 North City School Voting District
+47|107|5912|13 Claxton Fire Hall|13 Claxton Fire Hall Voting District
+47|107|5920|14 EK Baker School|14 EK Baker School Voting District
+47|107|5928|15 Mountain View School|15 Mountain View School Voting District
+47|107|5932|01 City Park School|01 City Park School Voting District
+47|107|5940|02 Etowah Community Center|02 Etowah Community Center Voting District
+47|107|5942|03 Central High School|03 Central High School Voting District
+47|107|5948|04 Englewood School|04 Englewood School Voting District
+47|107|5952|05 Rogers Creek School|05 Rogers Creek School Voting District
+47|107|5956|06 Riceville School|06 Riceville School Voting District
+47|107|5960|07 Calhoun School|07 Calhoun School Voting District
+47|107|5964|08 Niota School|08 Niota School Voting District
+47|109|5972|1 Bethel Springs|1 Bethel Springs Voting District
+47|109|5984|5 Cypress|5 Cypress Voting District
+47|109|5992|5 East View|5 East View Voting District
+47|109|5996|1 Finger|1 Finger Voting District
+47|109|6000|5 Guys|5 Guys Voting District
+47|109|6004|2 Lawton|2 Lawton Voting District
+47|109|6008|3 Leapwood|3 Leapwood Voting District
+47|109|6012|1 McNairy|1 McNairy Voting District
+47|109|6016|7 Michie|7 Michie Voting District
+47|109|6024|3 North East Selmer|3 North East Selmer Voting District
+47|109|6028|4 North Selmer|4 North Selmer Voting District
+47|109|6032|3 Purdy|3 Purdy Voting District
+47|109|6036|5 Ramer|5 Ramer Voting District
+47|109|6040|4 Rose Creek|4 Rose Creek Voting District
+47|109|6044|6 Courthouse SE|6 Courthouse SE Voting District
+47|109|6048|7 Stantonville|7 Stantonville Voting District
+47|109|6052|2 Adamsville|2 Adamsville Voting District
+47|111|5340|Central School|Central School Voting District
+47|111|5344|Cross Roads Community Center|Cross Roads Community Center Voting District
+47|111|5348|Westside School|Westside School Voting District
+47|111|5352|Sally Wells Building|Sally Wells Building Voting District
+47|111|5356|Rock-n-Roll Used Cars|Rock-n-Roll Used Cars Voting District
+47|111|5360|RBS High School|RBS High School Voting District
+47|111|5364|Willette Head Start|Willette Head Start Voting District
+47|111|5368|Macon Co. Jr. High School|Macon Co. Jr. High School Voting District
+47|111|5372|Galen School Museum|Galen School Museum Voting District
+47|111|5392|Lafayette Middle School|Lafayette Middle School Voting District
+47|113|5440|1-1 Carl Perkins Civic Center|1-1 Carl Perkins Civic Center Voting District
+47|113|5442|1-2 Washington Douglas Headstart School|1-2 Washington Douglas Headstart School Voting District
+47|113|5450|2-1 Alexander Elementary School|2-1 Alexander Elementary School Voting District
+47|113|5452|2-2 Aldersgate United Methodist Church|2-2 Aldersgate United Methodist Church Voting District
+47|113|5454|2-3 Tigrett Middle School|2-3 Tigrett Middle School Voting District
+47|113|5460|3-1 Board of Education|3-1 Board of Education Voting District
+47|113|5462|3-2 Old Bells Road Fire Station #10|3-2 Old Bells Road Fire Station #10 Voting District
+47|113|5470|5-3 North Parkway Elementary School|5-3 North Parkway Elementary School Voting District
+47|113|5472|4-2 Andrew Jackson Elementary School|4-2 Andrew Jackson Elementary School Voting District
+47|113|5476|4-1 Jackson Masonic Temple Lodge #45|4-1 Jackson Masonic Temple Lodge #45 Voting District
+47|113|5480|5-1 Whitehall Elementary School|5-1 Whitehall Elementary School Voting District
+47|113|5482|5-2 Macedonia Baptist Church|5-2 Macedonia Baptist Church Voting District
+47|113|5490|6-1 Southside High School|6-1 Southside High School Voting District
+47|113|5492|6-2 South Elementary School|6-2 South Elementary School Voting District
+47|113|5494|6-3 Lesters Chapel Fire Station #1|6-3 Lesters Chapel Fire Station #1 Voting District
+47|113|5496|6-4 Malesus Community Center|6-4 Malesus Community Center Voting District
+47|113|5498|6-5 Medon City Hall|6-5 Medon City Hall Voting District
+47|113|5500|7-3 Denmark-West Community Center|7-3 Denmark-West Community Center Voting District
+47|113|5502|7-2 Tennessee Technology Center|7-2 Tennessee Technology Center Voting District
+47|113|5504|7-1 UT Experiment Station|7-1 UT Experiment Station Voting District
+47|113|5506|7-4 Mercer Fire Station #8|7-4 Mercer Fire Station #8 Voting District
+47|113|5510|8-1 Beech Bluff Ruritan Club|8-1 Beech Bluff Ruritan Club Voting District
+47|113|5512|8-2 Brown's Community Ruritan Club|8-2 Brown's Community Ruritan Club Voting District
+47|113|5514|8-3 Mifflin Fire Station #15|8-3 Mifflin Fire Station #15 Voting District
+47|113|5516|8-4 East Union Ruritan Club|8-4 East Union Ruritan Club Voting District
+47|113|5520|10-3 Northside High School|10-3 Northside High School Voting District
+47|113|5522|9-2 Pope Elementary School|9-2 Pope Elementary School Voting District
+47|113|5524|9-1 V.F.W.|9-1 V.F.W. Voting District
+47|113|5526|4-3 Festivities! Events and Party Place|4-3 Festivities! Events and Party Place Voting District
+47|113|5528|3-3 Jackson Center for Independent Living|3-3 Jackson Center for Independent Living Voting District
+47|113|5530|10-1 Spring Creek Fire Station #7|10-1 Spring Creek Fire Station #7 Voting District
+47|113|5532|10-2 Northeast Middle School|10-2 Northeast Middle School Voting District
+47|113|5534|9-3 Three Way City Meeting Room|9-3 Three Way City Meeting Room Voting District
+47|115|5580|South Pittsburg|South Pittsburg Voting District
+47|115|5584|New Hope|New Hope Voting District
+47|115|5590|Orme|Orme Voting District
+47|115|5592|Lodge|Lodge Voting District
+47|115|5594|Battle Creek|Battle Creek Voting District
+47|115|5596|Monteagle|Monteagle Voting District
+47|115|5598|Kimball|Kimball Voting District
+47|115|5600|Shellmound|Shellmound Voting District
+47|115|5602|Haletown-Ladds|Haletown-Ladds Voting District
+47|115|5620|Jasper|Jasper Voting District
+47|115|5624|Cedar Grove|Cedar Grove Voting District
+47|115|5630|Foster Falls|Foster Falls Voting District
+47|115|5636|Whitwell Mtn. FD|Whitwell Mtn. FD Voting District
+47|115|5640|Sequatchie|Sequatchie Voting District
+47|115|5649|Mineral Springs|Mineral Springs Voting District
+47|115|5650|Waldens Ridge|Waldens Ridge Voting District
+47|115|5652|Elder Mountain|Elder Mountain Voting District
+47|115|5654|Lusk Store|Lusk Store Voting District
+47|115|5672|Whitwell|Whitwell Voting District
+47|115|5674|Powells Crossroads|Powells Crossroads Voting District
+47|117|5700|8 Lewisburg Gas Dept.|8 Lewisburg Gas Dept. Voting District
+47|117|5704|3 Belfast|3 Belfast Voting District
+47|117|5708|2 Henry Horton State Park|2 Henry Horton State Park Voting District
+47|117|5716|1 Chapel Hill|1 Chapel Hill Voting District
+47|117|5720|4 South Marshall Volunteer FD|4 South Marshall Volunteer FD Voting District
+47|117|5724|9 Courthouse|9 Courthouse Voting District
+47|117|5732|7 Hardison School|7 Hardison School Voting District
+47|117|5740|6 West Hills Elementary|6 West Hills Elementary Voting District
+47|117|5752|5 Recreation Center|5 Recreation Center Voting District
+47|119|5768|Baker|Baker Voting District
+47|119|5769|Tradewinds|Tradewinds Voting District
+47|119|5770|Armory|Armory Voting District
+47|119|5772|Bigbyville|Bigbyville Voting District
+47|119|5780|College Hill|College Hill Voting District
+47|119|5792|Culleoka|Culleoka Voting District
+47|119|5796|St. Catherine|St. Catherine Voting District
+47|119|5808|Hampshire|Hampshire Voting District
+47|119|5812|Highland|Highland Voting District
+47|119|5813|First Family|First Family Voting District
+47|119|5824|West End|West End Voting District
+47|119|5832|Mt. Pleasant|Mt. Pleasant Voting District
+47|119|5840|CP Church|CP Church Voting District
+47|119|5842|Pleasant Heights|Pleasant Heights Voting District
+47|119|5844|Porters Chapel|Porters Chapel Voting District
+47|119|5848|Rally Hill|Rally Hill Voting District
+47|119|5849|Bear Creek|Bear Creek Voting District
+47|119|5852|Riverside|Riverside Voting District
+47|119|5864|Santa Fe|Santa Fe Voting District
+47|119|5868|Spring Hill|Spring Hill Voting District
+47|119|5872|Theta|Theta Voting District
+47|121|6060|2 Meigs South|2 Meigs South Voting District
+47|121|6064|3 City Hall|3 City Hall Voting District
+47|121|6068|3 Courthouse|3 Courthouse Voting District
+47|121|6072|1 Eastview|1 Eastview Voting District
+47|121|6076|4 Meigs North|4 Meigs North Voting District
+47|121|6080|5 Ten Mile|5 Ten Mile Voting District
+47|123|6088|01 Sweetwater High School|01 Sweetwater High School Voting District
+47|123|6092|10 Rural Vale Fire Dept|10 Rural Vale Fire Dept Voting District
+47|123|6096|11 Tellico Community Center|11 Tellico Community Center Voting District
+47|123|6100|12 Coker Creek School|12 Coker Creek School Voting District
+47|123|6108|14 Toqua Community Center|14 Toqua Community Center Voting District
+47|123|6112|02 Broad Street School|02 Broad Street School Voting District
+47|123|6116|03 Brown Elementary|03 Brown Elementary Voting District
+47|123|6124|05 Madisonville Inter. School|05 Madisonville Inter. School Voting District
+47|123|6128|06 Madisonville Middle School|06 Madisonville Middle School Voting District
+47|123|6129|04 Vonore Elementary School|04 Vonore Elementary School Voting District
+47|123|6132|07 Madisonville Primary School|07 Madisonville Primary School Voting District
+47|123|6136|08 Vonore Community Center|08 Vonore Community Center Voting District
+47|123|6140|09 Old Notchey Creek School|09 Old Notchey Creek School Voting District
+47|125|6150|1|1 Voting District
+47|125|6155|2|2 Voting District
+47|125|6160|3A|3A Voting District
+47|125|6162|3B|3B Voting District
+47|125|6165|4A|4A Voting District
+47|125|6166|4B|4B Voting District
+47|125|6170|5|5 Voting District
+47|125|6175|6B|6B Voting District
+47|125|6180|6A|6A Voting District
+47|125|6185|7|7 Voting District
+47|125|6190|8|8 Voting District
+47|125|6195|9|9 Voting District
+47|125|6200|10|10 Voting District
+47|125|6205|11|11 Voting District
+47|125|6210|12|12 Voting District
+47|125|6215|13|13 Voting District
+47|125|6220|14|14 Voting District
+47|125|6225|15|15 Voting District
+47|125|6228|18|18 Voting District
+47|125|6230|17|17 Voting District
+47|125|6232|16|16 Voting District
+47|125|6234|19|19 Voting District
+47|125|6236|20|20 Voting District
+47|125|6238|21|21 Voting District
+47|127|6244|3 Moore County Building|3 Moore County Building Voting District
+47|127|6248|1 Courthouse|1 Courthouse Voting District
+47|127|6252|4 Elementary School|4 Elementary School Voting District
+47|127|6256|2 Moore County High School|2 Moore County High School Voting District
+47|127|6260|5 Motlow College|5 Motlow College Voting District
+47|129|6268|5-2 Burville t|5-2 Burville t Voting District
+47|129|6276|1-1 Coalfield|1-1 Coalfield Voting District
+47|129|6280|4-2 Deer Lodge|4-2 Deer Lodge Voting District
+47|129|6282|4-3 Chestnut Ridge|4-3 Chestnut Ridge Voting District
+47|129|6284|6-2 Kellys|6-2 Kellys Voting District
+47|129|6286|4-1 Lancing|4-1 Lancing Voting District
+47|129|6296|6-3 Mossy Grove|6-3 Mossy Grove Voting District
+47|129|6300|2-1 Oakdale|2-1 Oakdale Voting District
+47|129|6304|2-2 Oakdale High|2-2 Oakdale High Voting District
+47|129|6308|6-1 Petros|6-1 Petros Voting District
+47|129|6312|5-1 Sunbright|5-1 Sunbright Voting District
+47|129|6316|3-1 Wartburg|3-1 Wartburg Voting District
+47|131|6320|2-4 WOODLAND|2-4 WOODLAND Voting District
+47|131|6368|6-2 OBION|6-2 OBION Voting District
+47|131|6370|1-1 SOUTH FULTON|1-1 SOUTH FULTON Voting District
+47|131|6382|3-2 KENTON|3-2 KENTON Voting District
+47|131|6386|3-4 RIVES|3-4 RIVES Voting District
+47|131|6388|6-1 TROY SENIOR CENTER|6-1 TROY SENIOR CENTER Voting District
+47|131|6390|5-4 HORNBEAK|5-4 HORNBEAK Voting District
+47|131|6392|5-5 SAMBURG|5-5 SAMBURG Voting District
+47|131|6394|5-2 CLOVERDALE|5-2 CLOVERDALE Voting District
+47|131|6400|2-1 EDDIE COX SR. CENTER|2-1 EDDIE COX SR. CENTER Voting District
+47|131|6408|7-2 OBION CO. LIBRARY|7-2 OBION CO. LIBRARY Voting District
+47|131|6412|4-1 FAIR GROUNDS|4-1 FAIR GROUNDS Voting District
+47|133|6428|1 Livingston|1 Livingston Voting District
+47|133|6438|2 Allons|2 Allons Voting District
+47|133|6440|2 Independence|2 Independence Voting District
+47|133|6442|2 Monroe|2 Monroe Voting District
+47|133|6448|3 Alpine|3 Alpine Voting District
+47|133|6450|3 Poteet|3 Poteet Voting District
+47|133|6452|3 Wilson|3 Wilson Voting District
+47|133|6454|3 Rushing Springs|3 Rushing Springs Voting District
+47|133|6458|4 Rickman|4 Rickman Voting District
+47|133|6460|5 Hardy Chapel|5 Hardy Chapel Voting District
+47|133|6462|4 Pleasant Valley|4 Pleasant Valley Voting District
+47|133|6468|5 Hilham|5 Hilham Voting District
+47|133|6470|5 Fairgrounds|5 Fairgrounds Voting District
+47|135|6496|101 Cedar Creek|101 Cedar Creek Voting District
+47|135|6500|102 Marsh Creek|102 Marsh Creek Voting District
+47|135|6508|201 Pineview|201 Pineview Voting District
+47|135|6512|202 Pope|202 Pope Voting District
+47|135|6516|301 Coon Creek|301 Coon Creek Voting District
+47|135|6520|302 Flatwoods|302 Flatwoods Voting District
+47|135|6528|401 Brush Creek|401 Brush Creek Voting District
+47|135|6536|403 Lobelville Elem. School|403 Lobelville Elem. School Voting District
+47|135|6540|501 Perry Co. Courthouse|501 Perry Co. Courthouse Voting District
+47|135|6544|601 Lobelville City Hall|601 Lobelville City Hall Voting District
+47|137|6556|Barnes|Barnes Voting District
+47|137|6560|Bolestown|Bolestown Voting District
+47|137|6564|Boom|Boom Voting District
+47|137|6568|Chanute|Chanute Voting District
+47|137|6572|Community Center|Community Center Voting District
+47|137|6576|High School|High School Voting District
+47|137|6580|Moodyville|Moodyville Voting District
+47|137|6584|Oak Hill|Oak Hill Voting District
+47|137|6588|Travisville|Travisville Voting District
+47|139|6596|1 Delano Lions Club|1 Delano Lions Club Voting District
+47|139|6600|3A Cooper Basin High School|3A Cooper Basin High School Voting District
+47|139|6604|1A Polk County High School|1A Polk County High School Voting District
+47|139|6608|1B Chilhowee Middle Sch. Gym|1B Chilhowee Middle Sch. Gym Voting District
+47|139|6612|2 Greasy Creek Comm. Club|2 Greasy Creek Comm. Club Voting District
+47|139|6616|2A Springtown Firehall|2A Springtown Firehall Voting District
+47|139|6620|2B Parksville|2B Parksville Voting District
+47|139|6624|2C South Polk School|2C South Polk School Voting District
+47|139|6628|2D Shiloh Baptist Youth Center|2D Shiloh Baptist Youth Center Voting District
+47|139|6632|3B Turtletown|3B Turtletown Voting District
+47|139|6640|3 Ducktown Courthouse|3 Ducktown Courthouse Voting District
+47|141|6648|11B Cookeville High School|11B Cookeville High School Voting District
+47|141|6652|12A Algood Inside|12A Algood Inside Voting District
+47|141|6656|12B Algood Outside|12B Algood Outside Voting District
+47|141|6660|07A Burgess Falls|07A Burgess Falls Voting District
+47|141|6664|11A Bangham|11A Bangham Voting District
+47|141|6672|08F Cornerstone Middle|08F Cornerstone Middle Voting District
+47|141|6676|08G Upperman|08G Upperman Voting District
+47|141|6678|10 Pavilion|10 Pavilion Voting District
+47|141|6680|08D Boma|08D Boma Voting District
+47|141|6684|05C Prescott South|05C Prescott South Voting District
+47|141|6688|12C Brotherton|12C Brotherton Voting District
+47|141|6692|08E Buffalo Valley|08E Buffalo Valley Voting District
+47|141|6704|01A Capshaw|01A Capshaw Voting District
+47|141|6714|01C South Cookeville|01C South Cookeville Voting District
+47|141|6720|09B Double Springs South|09B Double Springs South Voting District
+47|141|6722|09A Double Springs North|09A Double Springs North Voting District
+47|141|6724|05F Dry Valley|05F Dry Valley Voting District
+47|141|6738|02A Northeast Elementary|02A Northeast Elementary Voting District
+47|141|6741|04A Burks Middle School|04A Burks Middle School Voting District
+47|141|6752|04B Monterey City Hall|04B Monterey City Hall Voting District
+47|141|6755|06A Cane Creek|06A Cane Creek Voting District
+47|141|6760|05A Cookeville Community Center|05A Cookeville Community Center Voting District
+47|141|6772|10B Sycamore|10B Sycamore Voting District
+47|141|6776|07D Twin Oak|07D Twin Oak Voting District
+47|141|6780|03A University|03A University Voting District
+47|143|6800|1-1 Grandview|1-1 Grandview Voting District
+47|143|6802|1-2 St. Clair|1-2 St. Clair Voting District
+47|143|6804|1-3 Mars Hill|1-3 Mars Hill Voting District
+47|143|6810|2-1 S.C.W.|2-1 S.C.W. Voting District
+47|143|6812|2-2 S.C.E.|2-2 S.C.E. Voting District
+47|143|6820|3-1 Wolf Creek|3-1 Wolf Creek Voting District
+47|143|6830|4-1 Evensville|4-1 Evensville Voting District
+47|143|6832|4-2 Richland Park|4-2 Richland Park Voting District
+47|143|6840|5-1 North Dayton W.|5-1 North Dayton W. Voting District
+47|143|6850|6-1 South Dayton W.|6-1 South Dayton W. Voting District
+47|143|6862|7-1 Frazier|7-1 Frazier Voting District
+47|143|6870|8-1 Spivey|8-1 Spivey Voting District
+47|143|6874|8-2 North Dayton E.|8-2 North Dayton E. Voting District
+47|143|6878|9-1 Waldens Ridge|9-1 Waldens Ridge Voting District
+47|143|6882|9-2 Graysville|9-2 Graysville Voting District
+47|145|6860|Cave Creek|Cave Creek Voting District
+47|145|6864|Dyllis|Dyllis Voting District
+47|145|6868|Emory|Emory Voting District
+47|145|6872|Eureka|Eureka Voting District
+47|145|6876|Emory Heights|Emory Heights Voting District
+47|145|6884|Fairview|Fairview Voting District
+47|145|6888|Glen Alice|Glen Alice Voting District
+47|145|6892|Harriman Ward 1|Harriman Ward 1 Voting District
+47|145|6900|Johnson School House|Johnson School House Voting District
+47|145|6904|Kingston Ward 1|Kingston Ward 1 Voting District
+47|145|6908|Kingston Ward 2|Kingston Ward 2 Voting District
+47|145|6912|Lawnville|Lawnville Voting District
+47|145|6913|Cherokee|Cherokee Voting District
+47|145|6916|Midtown|Midtown Voting District
+47|145|6920|Midway|Midway Voting District
+47|145|6924|Oak Hills|Oak Hills Voting District
+47|145|6928|Oliver Springs|Oliver Springs Voting District
+47|145|6932|Orchard View|Orchard View Voting District
+47|145|6936|Paw Paw|Paw Paw Voting District
+47|145|6944|Paint Rock|Paint Rock Voting District
+47|145|6948|Renfro|Renfro Voting District
+47|145|6952|Rockwood Ward 1|Rockwood Ward 1 Voting District
+47|145|6956|Rockwood Ward 2|Rockwood Ward 2 Voting District
+47|145|6960|South Harriman|South Harriman Voting District
+47|147|6972|07-1 Adams Methodist Church|07-1 Adams Methodist Church Voting District
+47|147|6976|12-1 Bransford School|12-1 Bransford School Voting District
+47|147|6980|10-1 O.L.O.L. Catholic Church|10-1 O.L.O.L. Catholic Church Voting District
+47|147|6984|07-2 Cedar Hill Community Cnt.|07-2 Cedar Hill Community Cnt. Voting District
+47|147|6988|09-1 Robertson Co. Fair Assoc.|09-1 Robertson Co. Fair Assoc. Voting District
+47|147|6992|06-1 Coopertown School|06-1 Coopertown School Voting District
+47|147|6996|01-1 East Robertson H.S.|01-1 East Robertson H.S. Voting District
+47|147|7000|01-2 Orlinda Community Center|01-2 Orlinda Community Center Voting District
+47|147|7004|05-1 Green Ridge Ch. of Christ|05-1 Green Ridge Ch. of Christ Voting District
+47|147|7008|08-1 Krisle School|08-1 Krisle School Voting District
+47|147|7012|06-2 Mt. Sharon C.P. Church|06-2 Mt. Sharon C.P. Church Voting District
+47|147|7016|08-3 Owens Chapel Fellow Hall|08-3 Owens Chapel Fellow Hall Voting District
+47|147|7020|08-2 HATS|08-2 HATS Voting District
+47|147|7028|07-3 Stroudsville Ch.of Christ|07-3 Stroudsville Ch.of Christ Voting District
+47|147|7032|03-1 S. Haven Chrisitan Sch.|03-1 S. Haven Chrisitan Sch. Voting District
+47|147|7034|03-2 Bethlehem Baptist Ch.|03-2 Bethlehem Baptist Ch. Voting District
+47|147|7035|04-1 Ridgetop Adventist Elem.|04-1 Ridgetop Adventist Elem. Voting District
+47|147|7040|11-1 Westside School|11-1 Westside School Voting District
+47|147|7044|02-1 The Church at Grace Park|02-1 The Church at Grace Park Voting District
+47|149|7052|08-1 Blackman United Methodist Church|08-1 Blackman United Methodist Church Voting District
+47|149|7053|04-1 Advent Lutheran Church|04-1 Advent Lutheran Church Voting District
+47|149|7054|09-1 Stewart Creek Elementary|09-1 Stewart Creek Elementary Voting District
+47|149|7056|21-1 Hobgood School|21-1 Hobgood School Voting District
+47|149|7060|20-1 Creekmont General Baptist Church|20-1 Creekmont General Baptist Church Voting District
+47|149|7061|13-1 Bellwood School|13-1 Bellwood School Voting District
+47|149|7062|07-1 Blackman Elementary School|07-1 Blackman Elementary School Voting District
+47|149|7064|06-1 Buchanan School|06-1 Buchanan School Voting District
+47|149|7068|06-2 Christiana Middle School|06-2 Christiana Middle School Voting District
+47|149|7072|16-1 Central Middle School|16-1 Central Middle School Voting District
+47|149|7078|13-2 World Outreach Church|13-2 World Outreach Church Voting District
+47|149|7080|04-2 Bud's Tire Shop|04-2 Bud's Tire Shop Voting District
+47|149|7084|08-2 Eagleville Community Center|08-2 Eagleville Community Center Voting District
+47|149|7086|18-1 Patterson Park|18-1 Patterson Park Voting District
+47|149|7088|20-2 Blackman Middle School|20-2 Blackman Middle School Voting District
+47|149|7092|14-1 Northfield Elementary School|14-1 Northfield Elementary School Voting District
+47|149|7096|04-3 Kittrell School IV|04-3 Kittrell School IV Voting District
+47|149|7100|06-3 Kittrell School VI|06-3 Kittrell School VI Voting District
+47|149|7104|02-1 Lascassas School|02-1 Lascassas School Voting District
+47|149|7106|02-3 Milton Fire Hall|02-3 Milton Fire Hall Voting District
+47|149|7108|01-1 LaVergne City Hall|01-1 LaVergne City Hall Voting District
+47|149|7110|10-1 Cedar Grove Elementary|10-1 Cedar Grove Elementary Voting District
+47|149|7112|05-1 First Baptist Church of LaVergne|05-1 First Baptist Church of LaVergne Voting District
+47|149|7116|03-1 Leana Community Center|03-1 Leana Community Center Voting District
+47|149|7120|08-3 Lebanon Camp Church|08-3 Lebanon Camp Church Voting District
+47|149|7128|19-1 Mitchell Neilson Primary|19-1 Mitchell Neilson Primary Voting District
+47|149|7132|15-1 Kingwood Church of Christ|15-1 Kingwood Church of Christ Voting District
+47|149|7133|16-2 Mitchell Neilson Elementary|16-2 Mitchell Neilson Elementary Voting District
+47|149|7136|04-4 Oakland High School|04-4 Oakland High School Voting District
+47|149|7144|17-1 North Blvd Church of Christ|17-1 North Blvd Church of Christ Voting District
+47|149|7148|07-2 Riverdale High School|07-2 Riverdale High School Voting District
+47|149|7149|07-3 Middle TN Electric Membership Corp|07-3 Middle TN Electric Membership Corp Voting District
+47|149|7150|09-2 Giles Creek Baptist Church|09-2 Giles Creek Baptist Church Voting District
+47|149|7152|08-4 Rockvale Community Center|08-4 Rockvale Community Center Voting District
+47|149|7154|01-2 Roy Waldron School|01-2 Roy Waldron School Voting District
+47|149|7156|14-2 Siegal Elementary School|14-2 Siegal Elementary School Voting District
+47|149|7158|10-3 Rock Springs School III|10-3 Rock Springs School III Voting District
+47|149|7160|11-1 Smyrna Middle School|11-1 Smyrna Middle School Voting District
+47|149|7164|12-1 Tennessee Rehab Center|12-1 Tennessee Rehab Center Voting District
+47|149|7168|03-2 Nissan Activity Center|03-2 Nissan Activity Center Voting District
+47|149|7172|19-2 Seigel Middle School|19-2 Seigel Middle School Voting District
+47|149|7174|19-3 Lane Agri-Park|19-3 Lane Agri-Park Voting District
+47|149|7176|10-2 Stewartsboro School|10-2 Stewartsboro School Voting District
+47|149|7178|18-2 Mid TN Realtors Association Bldg|18-2 Mid TN Realtors Association Bldg Voting District
+47|149|7179|18-3 Wilderness Station III|18-3 Wilderness Station III Voting District
+47|149|7180|03-3 Wilson Elementary School|03-3 Wilson Elementary School Voting District
+47|149|7182|03-4 Florence Baptist Church|03-4 Florence Baptist Church Voting District
+47|149|7184|02-2 Walter Hill School|02-2 Walter Hill School Voting District
+47|151|7192|2-1 Elgin|2-1 Elgin Voting District
+47|151|7196|1-1 Fairview|1-1 Fairview Voting District
+47|151|7200|4-1 Helenwood|4-1 Helenwood Voting District
+47|151|7204|3-1 Huntsville|3-1 Huntsville Voting District
+47|151|7208|6-1 Oneida|6-1 Oneida Voting District
+47|151|7212|3-2 Paint Rock|3-2 Paint Rock Voting District
+47|151|7216|5-1 Pine Hill|5-1 Pine Hill Voting District
+47|151|7220|2-2 Robbins|2-2 Robbins Voting District
+47|151|7228|5-2 Winfield|5-2 Winfield Voting District
+47|151|7232|7-1 West Oneida|7-1 West Oneida Voting District
+47|153|7240|1 Lewis Chapel|1 Lewis Chapel Voting District
+47|153|7242|1 Welch Chapel|1 Welch Chapel Voting District
+47|153|7244|5 Chapel Hill|5 Chapel Hill Voting District
+47|153|7250|2 Cagle|2 Cagle Voting District
+47|153|7252|4 Courthouse Annex|4 Courthouse Annex Voting District
+47|153|7256|6 Daus|6 Daus Voting District
+47|153|7260|3 Electric Co-op|3 Electric Co-op Voting District
+47|153|7262|2 Fredonia|2 Fredonia Voting District
+47|153|7272|7 High School|7 High School Voting District
+47|153|7280|8 Loan Oak Church of God|8 Loan Oak Church of God Voting District
+47|155|7288|1-1 Caton's Chapel|1-1 Caton's Chapel Voting District
+47|155|7292|1-2 Jones Cove|1-2 Jones Cove Voting District
+47|155|7296|2-1 Waldens Creek|2-1 Waldens Creek Voting District
+47|155|7300|2-2 Wearwood School|2-2 Wearwood School Voting District
+47|155|7304|3-1 New Center|3-1 New Center Voting District
+47|155|7308|3-2 Vocational Ctr. Harrisbg.|3-2 Vocational Ctr. Harrisbg. Voting District
+47|155|7312|4-1 Pigeon Forge City Hall|4-1 Pigeon Forge City Hall Voting District
+47|155|7316|5-1 Sevierville Middle School|5-1 Sevierville Middle School Voting District
+47|155|7320|5-2 Senior Citizens Bldg.|5-2 Senior Citizens Bldg. Voting District
+47|155|7324|6-1 Seymour Intmdte. School|6-1 Seymour Intmdte. School Voting District
+47|155|7328|7-2 Catlettsburg|7-2 Catlettsburg Voting District
+47|155|7330|7-1 Voting Machine Warehouse|7-1 Voting Machine Warehouse Voting District
+47|155|7332|8-1 Kodak|8-1 Kodak Voting District
+47|155|7336|8-2 Underwood|8-2 Underwood Voting District
+47|155|7340|9-1 Seymour Primary School|9-1 Seymour Primary School Voting District
+47|155|7344|10-1 Boyd's Creek Elementary School|10-1 Boyd's Creek Elementary School Voting District
+47|155|7348|10-2 DuPont Community Center|10-2 DuPont Community Center Voting District
+47|155|7352|10-3 Adult H.S. (Whites)|10-3 Adult H.S. (Whites) Voting District
+47|155|7356|11-1 Gatlinburg Amer. Legion|11-1 Gatlinburg Amer. Legion Voting District
+47|155|7360|11-2 Pittman Center City Hall|11-2 Pittman Center City Hall Voting District
+47|157|7384|ARL-01|ARL-01 Voting District
+47|157|7386|ARL-02|ARL-02 Voting District
+47|157|7392|Bartlett 02|Bartlett 02 Voting District
+47|157|7396|Bartlett 03|Bartlett 03 Voting District
+47|157|7400|Bartlett 04|Bartlett 04 Voting District
+47|157|7404|Bartlett 05|Bartlett 05 Voting District
+47|157|7408|Bartlett 06|Bartlett 06 Voting District
+47|157|7409|Bartlett 10|Bartlett 10 Voting District
+47|157|7410|Bartlett 14|Bartlett 14 Voting District
+47|157|7416|Bartlett 08|Bartlett 08 Voting District
+47|157|7417|Bartlett 09|Bartlett 09 Voting District
+47|157|7419|Bartlett 11|Bartlett 11 Voting District
+47|157|7420|Brunswick 1|Brunswick 1 Voting District
+47|157|7421|Brunswick 2|Brunswick 2 Voting District
+47|157|7422|Bartlett 12|Bartlett 12 Voting District
+47|157|7423|Bartlett 13|Bartlett 13 Voting District
+47|157|7424|Capleville 1|Capleville 1 Voting District
+47|157|7428|Memphis 92-1|Memphis 92-1 Voting District
+47|157|7429|Memphis 92-2|Memphis 92-2 Voting District
+47|157|7431|Capleville 5|Capleville 5 Voting District
+47|157|7432|Collierville 1|Collierville 1 Voting District
+47|157|7433|Collierville 09|Collierville 09 Voting District
+47|157|7436|Collierville 2|Collierville 2 Voting District
+47|157|7437|Collierville 7|Collierville 7 Voting District
+47|157|7440|Collierville 3|Collierville 3 Voting District
+47|157|7441|Collierville 4|Collierville 4 Voting District
+47|157|7442|Collierville 5|Collierville 5 Voting District
+47|157|7443|Collierville 6|Collierville 6 Voting District
+47|157|7444|Memphis 95-1|Memphis 95-1 Voting District
+47|157|7445|Memphis 95-2|Memphis 95-2 Voting District
+47|157|7446|Memphis 95-7|Memphis 95-7 Voting District
+47|157|7447|Cordova 10|Cordova 10 Voting District
+47|157|7448|Memphis 95-5|Memphis 95-5 Voting District
+47|157|7449|Memphis 95-3|Memphis 95-3 Voting District
+47|157|7450|Memphis 91-3|Memphis 91-3 Voting District
+47|157|7451|Memphis 95-6|Memphis 95-6 Voting District
+47|157|7452|Cordova 3|Cordova 3 Voting District
+47|157|7456|Cordova 4|Cordova 4 Voting District
+47|157|7457|Cordova 5|Cordova 5 Voting District
+47|157|7458|Cordova 6|Cordova 6 Voting District
+47|157|7459|Memphis 91-1|Memphis 91-1 Voting District
+47|157|7460|Eads|Eads Voting District
+47|157|7462|Memphis 91-2|Memphis 91-2 Voting District
+47|157|7463|Cordova 9|Cordova 9 Voting District
+47|157|7464|Forest Hills 2|Forest Hills 2 Voting District
+47|157|7465|Forest Hills 1|Forest Hills 1 Voting District
+47|157|7468|Germantown 01|Germantown 01 Voting District
+47|157|7472|Germantown 10|Germantown 10 Voting District
+47|157|7476|Germantown 11|Germantown 11 Voting District
+47|157|7477|Germantown 12|Germantown 12 Voting District
+47|157|7480|Germantown 02|Germantown 02 Voting District
+47|157|7484|Germantown 03|Germantown 03 Voting District
+47|157|7488|Germantown 04|Germantown 04 Voting District
+47|157|7492|Germantown 05|Germantown 05 Voting District
+47|157|7496|Germantown 06|Germantown 06 Voting District
+47|157|7504|Germantown 08|Germantown 08 Voting District
+47|157|7508|Germantown 09|Germantown 09 Voting District
+47|157|7512|Memphis 93-1|Memphis 93-1 Voting District
+47|157|7516|Memphis 93-2|Memphis 93-2 Voting District
+47|157|7520|Memphis 93-3|Memphis 93-3 Voting District
+47|157|7524|Kerrville|Kerrville Voting District
+47|157|7528|Lakeland 1|Lakeland 1 Voting District
+47|157|7530|Lakeland 2|Lakeland 2 Voting District
+47|157|7532|Locke|Locke Voting District
+47|157|7536|Lucy 1|Lucy 1 Voting District
+47|157|7537|Lucy 3|Lucy 3 Voting District
+47|157|7538|Lucy 2|Lucy 2 Voting District
+47|157|7540|McConnell's|McConnell's Voting District
+47|157|7544|Memphis 01|Memphis 01 Voting District
+47|157|7548|Memphis 02|Memphis 02 Voting District
+47|157|7556|Memphis 11|Memphis 11 Voting District
+47|157|7564|Memphis 12|Memphis 12 Voting District
+47|157|7568|Memphis 13|Memphis 13 Voting District
+47|157|7588|Memphis 15|Memphis 15 Voting District
+47|157|7596|Memphis 16-1|Memphis 16-1 Voting District
+47|157|7608|Memphis 17|Memphis 17 Voting District
+47|157|7620|Memphis 20-1|Memphis 20-1 Voting District
+47|157|7628|Memphis 20-3|Memphis 20-3 Voting District
+47|157|7632|Memphis 21|Memphis 21 Voting District
+47|157|7644|Memphis 22|Memphis 22 Voting District
+47|157|7652|Memphis 25-2|Memphis 25-2 Voting District
+47|157|7669|Memphis 26-1|Memphis 26-1 Voting District
+47|157|7676|Memphis 27|Memphis 27 Voting District
+47|157|7684|Memphis 28|Memphis 28 Voting District
+47|157|7692|Memphis 29-1|Memphis 29-1 Voting District
+47|157|7696|Memphis 29-2|Memphis 29-2 Voting District
+47|157|7704|Memphis 31-1|Memphis 31-1 Voting District
+47|157|7708|Memphis 31-2|Memphis 31-2 Voting District
+47|157|7716|Memphis 31-4|Memphis 31-4 Voting District
+47|157|7720|Memphis 32|Memphis 32 Voting District
+47|157|7728|Memphis 33|Memphis 33 Voting District
+47|157|7732|Memphis 49|Memphis 49 Voting District
+47|157|7736|Memphis 34-2|Memphis 34-2 Voting District
+47|157|7740|Memphis 35-1|Memphis 35-1 Voting District
+47|157|7752|Memphis 36-1|Memphis 36-1 Voting District
+47|157|7756|Memphis 36-2|Memphis 36-2 Voting District
+47|157|7760|Memphis 36-3|Memphis 36-3 Voting District
+47|157|7764|Memphis 37|Memphis 37 Voting District
+47|157|7776|Memphis 38-2|Memphis 38-2 Voting District
+47|157|7784|Memphis 40-1|Memphis 40-1 Voting District
+47|157|7786|Memphis 40-2|Memphis 40-2 Voting District
+47|157|7792|Memphis 41-1|Memphis 41-1 Voting District
+47|157|7800|Memphis 41-3|Memphis 41-3 Voting District
+47|157|7804|Memphis 42-1|Memphis 42-1 Voting District
+47|157|7820|Memphis 43-2|Memphis 43-2 Voting District
+47|157|7824|Memphis 44-1|Memphis 44-1 Voting District
+47|157|7828|Memphis 44-2|Memphis 44-2 Voting District
+47|157|7832|Memphis 44-3|Memphis 44-3 Voting District
+47|157|7836|Memphis 44-4|Memphis 44-4 Voting District
+47|157|7840|Memphis 44-5|Memphis 44-5 Voting District
+47|157|7844|Memphis 45-1|Memphis 45-1 Voting District
+47|157|7848|Memphis 45-2|Memphis 45-2 Voting District
+47|157|7856|Memphis 45-4|Memphis 45-4 Voting District
+47|157|7860|Memphis 46-1|Memphis 46-1 Voting District
+47|157|7864|Memphis 46-2|Memphis 46-2 Voting District
+47|157|7872|Memphis 47-1|Memphis 47-1 Voting District
+47|157|7884|Memphis 48|Memphis 48 Voting District
+47|157|7900|Memphis 50-1|Memphis 50-1 Voting District
+47|157|7912|Memphis 52-1|Memphis 52-1 Voting District
+47|157|7916|Memphis 52-2|Memphis 52-2 Voting District
+47|157|7920|Memphis 52-3|Memphis 52-3 Voting District
+47|157|7924|Memphis 53-1|Memphis 53-1 Voting District
+47|157|7928|Memphis 53-2|Memphis 53-2 Voting District
+47|157|7932|Memphis 53-3|Memphis 53-3 Voting District
+47|157|7936|Memphis 54|Memphis 54 Voting District
+47|157|7944|Memphis 55-1|Memphis 55-1 Voting District
+47|157|7948|Memphis 55-2|Memphis 55-2 Voting District
+47|157|7952|Memphis 56-1|Memphis 56-1 Voting District
+47|157|7958|Memphis 56-3|Memphis 56-3 Voting District
+47|157|7960|Memphis 57|Memphis 57 Voting District
+47|157|7964|Memphis 58-1|Memphis 58-1 Voting District
+47|157|7976|Memphis 58-4|Memphis 58-4 Voting District
+47|157|7987|Memphis 59-1|Memphis 59-1 Voting District
+47|157|8004|Memphis 60-1|Memphis 60-1 Voting District
+47|157|8008|Memphis 60-2|Memphis 60-2 Voting District
+47|157|8012|Memphis 60-3|Memphis 60-3 Voting District
+47|157|8016|Memphis 60-4|Memphis 60-4 Voting District
+47|157|8020|Memphis 60-5|Memphis 60-5 Voting District
+47|157|8024|Memphis 60-6|Memphis 60-6 Voting District
+47|157|8028|Memphis 60-7|Memphis 60-7 Voting District
+47|157|8032|Memphis 60-8|Memphis 60-8 Voting District
+47|157|8036|Memphis 60-9|Memphis 60-9 Voting District
+47|157|8038|Memphis 59-5|Memphis 59-5 Voting District
+47|157|8044|Memphis 61|Memphis 61 Voting District
+47|157|8048|Memphis 62-0|Memphis 62-0 Voting District
+47|157|8060|Memphis 63-2|Memphis 63-2 Voting District
+47|157|8064|Memphis 64|Memphis 64 Voting District
+47|157|8072|Memphis 65-1|Memphis 65-1 Voting District
+47|157|8080|Memphis 66|Memphis 66 Voting District
+47|157|8092|Memphis 67-1|Memphis 67-1 Voting District
+47|157|8096|Memphis 67-3|Memphis 67-3 Voting District
+47|157|8104|Memphis 68-1|Memphis 68-1 Voting District
+47|157|8108|Memphis 68-2|Memphis 68-2 Voting District
+47|157|8112|Memphis 68-3|Memphis 68-3 Voting District
+47|157|8116|Memphis 69-1|Memphis 69-1 Voting District
+47|157|8120|Memphis 69-2|Memphis 69-2 Voting District
+47|157|8124|Memphis 70-1|Memphis 70-1 Voting District
+47|157|8128|Memphis 70-2|Memphis 70-2 Voting District
+47|157|8132|Memphis 70-3|Memphis 70-3 Voting District
+47|157|8144|Memphis 71-3|Memphis 71-3 Voting District
+47|157|8148|Memphis 71-4|Memphis 71-4 Voting District
+47|157|8150|Memphis 71-5|Memphis 71-5 Voting District
+47|157|8152|Memphis 72-1|Memphis 72-1 Voting District
+47|157|8160|Memphis 72-3|Memphis 72-3 Voting District
+47|157|8164|Memphis 72-7|Memphis 72-7 Voting District
+47|157|8168|Memphis 72-5|Memphis 72-5 Voting District
+47|157|8180|Memphis 73-1|Memphis 73-1 Voting District
+47|157|8188|Memphis 73-3|Memphis 73-3 Voting District
+47|157|8192|Memphis 73-4|Memphis 73-4 Voting District
+47|157|8216|Memphis 74-1|Memphis 74-1 Voting District
+47|157|8220|Memphis 74-2|Memphis 74-2 Voting District
+47|157|8228|Memphis 74-4|Memphis 74-4 Voting District
+47|157|8232|Memphis 74-5|Memphis 74-5 Voting District
+47|157|8236|Memphis 74-6|Memphis 74-6 Voting District
+47|157|8248|Memphis 74-9|Memphis 74-9 Voting District
+47|157|8252|Memphis 75-1|Memphis 75-1 Voting District
+47|157|8260|Memphis 75-11|Memphis 75-11 Voting District
+47|157|8268|Memphis 75-7|Memphis 75-7 Voting District
+47|157|8280|Memphis 75-5|Memphis 75-5 Voting District
+47|157|8284|Memphis 75-6|Memphis 75-6 Voting District
+47|157|8312|Memphis 76-4|Memphis 76-4 Voting District
+47|157|8316|Memphis 76-5|Memphis 76-5 Voting District
+47|157|8320|Memphis 76-6|Memphis 76-6 Voting District
+47|157|8324|Memphis 77-1|Memphis 77-1 Voting District
+47|157|8328|Memphis 77-2|Memphis 77-2 Voting District
+47|157|8332|Memphis 77-3|Memphis 77-3 Voting District
+47|157|8336|Memphis 78-1|Memphis 78-1 Voting District
+47|157|8344|Memphis 78-3|Memphis 78-3 Voting District
+47|157|8356|Memphis 79-1|Memphis 79-1 Voting District
+47|157|8360|Memphis 79-2|Memphis 79-2 Voting District
+47|157|8364|Memphis 79-3|Memphis 79-3 Voting District
+47|157|8380|Memphis 79-7|Memphis 79-7 Voting District
+47|157|8384|Memphis 79-8|Memphis 79-8 Voting District
+47|157|8396|Memphis 80-2|Memphis 80-2 Voting District
+47|157|8400|Memphis 81-1|Memphis 81-1 Voting District
+47|157|8404|Memphis 81-2|Memphis 81-2 Voting District
+47|157|8408|Memphis 81-3|Memphis 81-3 Voting District
+47|157|8412|Memphis 81-4|Memphis 81-4 Voting District
+47|157|8416|Memphis 81-5|Memphis 81-5 Voting District
+47|157|8420|Memphis 81-6|Memphis 81-6 Voting District
+47|157|8424|Memphis 81-7|Memphis 81-7 Voting District
+47|157|8428|Memphis 82-1|Memphis 82-1 Voting District
+47|157|8432|Memphis 82-2|Memphis 82-2 Voting District
+47|157|8436|Memphis 82-3|Memphis 82-3 Voting District
+47|157|8440|Memphis 83|Memphis 83 Voting District
+47|157|8444|Memphis 84-1|Memphis 84-1 Voting District
+47|157|8448|Memphis 84-2|Memphis 84-2 Voting District
+47|157|8460|Memphis 86|Memphis 86 Voting District
+47|157|8464|Memphis 87-1|Memphis 87-1 Voting District
+47|157|8472|Memphis 87-3|Memphis 87-3 Voting District
+47|157|8480|Memphis 88-2|Memphis 88-2 Voting District
+47|157|8484|Memphis 88-3|Memphis 88-3 Voting District
+47|157|8488|Memphis 89-1|Memphis 89-1 Voting District
+47|157|8492|Memphis 89-2|Memphis 89-2 Voting District
+47|157|8496|Memphis 90-1|Memphis 90-1 Voting District
+47|157|8500|Memphis 90-2|Memphis 90-2 Voting District
+47|157|8504|Memphis 90-3|Memphis 90-3 Voting District
+47|157|8512|Millington 1|Millington 1 Voting District
+47|157|8516|Millington 2|Millington 2 Voting District
+47|157|8528|Morning Sun 01|Morning Sun 01 Voting District
+47|157|8529|Memphis 96-01|Memphis 96-01 Voting District
+47|157|8530|Morning Sun 02|Morning Sun 02 Voting District
+47|157|8532|Ross Store 13|Ross Store 13 Voting District
+47|157|8544|Memphis 94-2|Memphis 94-2 Voting District
+47|157|8548|Ross Store 05|Ross Store 05 Voting District
+47|157|8552|Memphis 94-3|Memphis 94-3 Voting District
+47|157|8554|Memphis 94-7|Memphis 94-7 Voting District
+47|157|8559|Ross Store 01|Ross Store 01 Voting District
+47|157|8560|Memphis 94-5|Memphis 94-5 Voting District
+47|157|8562|Memphis 94-8|Memphis 94-8 Voting District
+47|157|8563|Ross Store 14|Ross Store 14 Voting District
+47|157|8564|Stewartville|Stewartville Voting District
+47|157|8565|Ross Store 16|Ross Store 16 Voting District
+47|157|8569|Woodstock 2|Woodstock 2 Voting District
+47|157|8570|Memphis 88-4|Memphis 88-4 Voting District
+47|157|8574|Memphis 88-5|Memphis 88-5 Voting District
+47|159|8584|01 Defeated|01 Defeated Voting District
+47|159|8588|04 Rock City|04 Rock City Voting District
+47|159|8592|03 New Middleton|03 New Middleton Voting District
+47|159|8600|07 South Carthage|07 South Carthage Voting District
+47|159|8604|08 Elmwood|08 Elmwood Voting District
+47|159|8612|05 Gordonsville|05 Gordonsville Voting District
+47|159|8636|02 Tanglewood|02 Tanglewood Voting District
+47|159|8640|06 Carthage|06 Carthage Voting District
+47|161|8648|2-1 Big Rock|2-1 Big Rock Voting District
+47|161|8656|3-1 Bumpus Mills|3-1 Bumpus Mills Voting District
+47|161|8660|6-1 County Library|6-1 County Library Voting District
+47|161|8664|4-1 Family Life Center|4-1 Family Life Center Voting District
+47|161|8672|5-1 Natcor Drive|5-1 Natcor Drive Voting District
+47|161|8674|5-2 Leatherwood|5-2 Leatherwood Voting District
+47|161|8676|7-1 Cumberland City|7-1 Cumberland City Voting District
+47|161|8678|7-2 Carlisle|7-2 Carlisle Voting District
+47|161|8680|1-1 Indian Mound|1-1 Indian Mound Voting District
+47|163|8696|01 South Holston Ruritan|01 South Holston Ruritan Voting District
+47|163|8700|02HV Holston View School|02HV Holston View School Voting District
+47|163|8704|02VP Valley Pike School|02VP Valley Pike School Voting District
+47|163|8708|03 Hickory Tree Firehall|03 Hickory Tree Firehall Voting District
+47|163|8712|04 Avoca School|04 Avoca School Voting District
+47|163|8720|05 Sullivan Co Offices|05 Sullivan Co Offices Voting District
+47|163|8728|06 Central Heights School|06 Central Heights School Voting District
+47|163|8732|07 Indian Springs School|07 Indian Springs School Voting District
+47|163|8740|08 Buffalo Ruritan Bldg|08 Buffalo Ruritan Bldg Voting District
+47|163|8744|09 Piney Flats Firehall|09 Piney Flats Firehall Voting District
+47|163|8752|10 Ketron Intermediate School|10 Ketron Intermediate School Voting District
+47|163|8764|11C Cedar Grove School|11C Cedar Grove School Voting District
+47|163|8768|11T Traders Village|11T Traders Village Voting District
+47|163|8788|11S Civic Auditorium|11S Civic Auditorium Voting District
+47|163|8792|11W Kingsport Public Library|11W Kingsport Public Library Voting District
+47|163|8800|12CB Clounds Bend United Methodist|12CB Clounds Bend United Methodist Voting District
+47|163|8804|12K Ketron Memorial Methodist|12K Ketron Memorial Methodist Voting District
+47|163|8820|13P Sullivan South High School|13P Sullivan South High School Voting District
+47|163|8828|14CH Colonial Heights Middle School|14CH Colonial Heights Middle School Voting District
+47|163|8832|14MP Miller Perry Elementary School|14MP Miller Perry Elementary School Voting District
+47|163|8836|15 Sullivan West Middle School|15 Sullivan West Middle School Voting District
+47|163|8840|16BC Bluff City Middle School|16BC Bluff City Middle School Voting District
+47|163|8844|16CG Chinquapin Ruritan Bldg|16CG Chinquapin Ruritan Bldg Voting District
+47|163|8852|17Y YMCA Of Bristol|17Y YMCA Of Bristol Voting District
+47|163|8864|17W Anderson School|17W Anderson School Voting District
+47|163|8868|18 Holston School|18 Holston School Voting District
+47|163|8876|19H East Cherokee School|19H East Cherokee School Voting District
+47|163|8884|21 East High School|21 East High School Voting District
+47|163|8888|22 Holston Valley Middle School|22 Holston Valley Middle School Voting District
+47|165|8900|06 Jack Anderson|06 Jack Anderson Voting District
+47|165|8904|03 Cairo|03 Cairo Voting District
+47|165|8906|03 Civic Center|03 Civic Center Voting District
+47|165|8908|03 Castalian Springs|03 Castalian Springs Voting District
+47|165|8912|05 Gallatin City Hall|05 Gallatin City Hall Voting District
+47|165|8920|02 Wiseman|02 Wiseman Voting District
+47|165|8924|05 South Water|05 South Water Voting District
+47|165|8928|08 Brown Elementary|08 Brown Elementary Voting District
+47|165|8932|11 Hunter|11 Hunter Voting District
+47|165|8936|09 Indian Lake|09 Indian Lake Voting District
+47|165|8944|07 Magnet School|07 Magnet School Voting District
+47|165|8948|08 Lakeside|08 Lakeside Voting District
+47|165|8952|04 Cottontown|04 Cottontown Voting District
+47|165|8956|11 Madison Creek|11 Madison Creek Voting District
+47|165|8960|11 Millersville|11 Millersville Voting District
+47|165|8964|01 Corinth|01 Corinth Voting District
+47|165|8968|09 Nannie Berry|09 Nannie Berry Voting District
+47|165|8969|09 Rock Castle|09 Rock Castle Voting District
+47|165|8972|06 Vol State|06 Vol State Voting District
+47|165|8976|01 North Sumner|01 North Sumner Voting District
+47|165|8980|12 Oakmont|12 Oakmont Voting District
+47|165|8986|07 Long Hollow|07 Long Hollow Voting District
+47|165|8992|02 Portland|02 Portland Voting District
+47|165|9000|04 Salem|04 Salem Voting District
+47|165|9012|03 Bethpage|03 Bethpage Voting District
+47|165|9016|06 Gallatin Sr. High School|06 Gallatin Sr. High School Voting District
+47|165|9020|04 County Admin. Bldg.|04 County Admin. Bldg. Voting District
+47|165|9024|03 Bushes Chapel|03 Bushes Chapel Voting District
+47|165|9028|04 Union Elementary|04 Union Elementary Voting District
+47|165|9035|10 Trinity|10 Trinity Voting District
+47|165|9036|10 Walton Ferry|10 Walton Ferry Voting District
+47|165|9037|10 Center Point|10 Center Point Voting District
+47|165|9042|07 Saundersville|07 Saundersville Voting District
+47|165|9044|01 Westmoreland|01 Westmoreland Voting District
+47|165|9051|12 White House City Hall|12 White House City Hall Voting District
+47|165|9052|12 White House Middle School|12 White House Middle School Voting District
+47|167|9068|11 E. Atoka|11 E. Atoka Voting District
+47|167|9069|10 W. Atoka|10 W. Atoka Voting District
+47|167|9072|22 Brighton|22 Brighton Voting District
+47|167|9076|06 Tipton West|06 Tipton West Voting District
+47|167|9084|19 Austin Peay|19 Austin Peay Voting District
+47|167|9092|14 S. W. Tipton|14 S. W. Tipton Voting District
+47|167|9116|12 Munford|12 Munford Voting District
+47|167|9120|01 Northeast Covington|01 Northeast Covington Voting District
+47|167|9128|03 S. E. Covington|03 S. E. Covington Voting District
+47|167|9132|21 W. Wilkinsville|21 W. Wilkinsville Voting District
+47|169|9144|10th Providence|10th Providence Voting District
+47|169|9148|1st Elementary School|1st Elementary School Voting District
+47|169|9152|2nd Cato|2nd Cato Voting District
+47|169|9156|3rd Beech Grove|3rd Beech Grove Voting District
+47|169|9160|8th Willard|8th Willard Voting District
+47|169|9164|5th Templow|5th Templow Voting District
+47|169|9168|6th Walnut Grove|6th Walnut Grove Voting District
+47|169|9172|7th Court House|7th Court House Voting District
+47|169|9176|4th City Hall|4th City Hall Voting District
+47|169|9180|9th High School|9th High School Voting District
+47|171|9188|Middle School|Middle School Voting District
+47|171|9192|Fishery|Fishery Voting District
+47|171|9196|Flag Pond|Flag Pond Voting District
+47|171|9200|Limestone Cove|Limestone Cove Voting District
+47|171|9204|Love Chapel|Love Chapel Voting District
+47|171|9216|Rock Creek|Rock Creek Voting District
+47|171|9220|Temple Hill|Temple Hill Voting District
+47|171|9224|Unicoi|Unicoi Voting District
+47|173|9232|1-1 Maynardville Elementary|1-1 Maynardville Elementary Voting District
+47|173|9236|2-2 Luttrell Elementary School|2-2 Luttrell Elementary School Voting District
+47|173|9240|3-2 Cedar Grove Community Cen.|3-2 Cedar Grove Community Cen. Voting District
+47|173|9244|3-3 Brock Community Center|3-3 Brock Community Center Voting District
+47|173|9248|4-7 Big Ridge Elementary Sch.|4-7 Big Ridge Elementary Sch. Voting District
+47|173|9252|5-10 Sharps Chapel Elementary|5-10 Sharps Chapel Elementary Voting District
+47|173|9260|5-13 Bradens School House|5-13 Bradens School House Voting District
+47|173|9264|6-5 Plainview Community Center|6-5 Plainview Community Center Voting District
+47|173|9268|6-6 Paulette Community Center|6-6 Paulette Community Center Voting District
+47|175|9276|Spencer 5|Spencer 5 Voting District
+47|175|9280|Cedar Grove Community Cntr.|Cedar Grove Community Cntr. Voting District
+47|175|9284|Cummingsville Community Cntr.|Cummingsville Community Cntr. Voting District
+47|175|9292|Fall Creek Falls Comm. Center|Fall Creek Falls Comm. Center Voting District
+47|175|9296|Piney Fire Hall|Piney Fire Hall Voting District
+47|175|9300|Spencer Elem. School|Spencer Elem. School Voting District
+47|175|9304|White Hill Community Cntr.|White Hill Community Cntr. Voting District
+47|177|9312|05-2 Beersheba Towers|05-2 Beersheba Towers Voting District
+47|177|9316|03-1 Westwood Church of Christ|03-1 Westwood Church of Christ Voting District
+47|177|9320|10-2 Centertown Comm. Ctr.|10-2 Centertown Comm. Ctr. Voting District
+47|177|9324|02-1 Courthouse|02-1 Courthouse Voting District
+47|177|9326|02-2 Warren County Airport|02-2 Warren County Airport Voting District
+47|177|9328|10-1 Centertown One|10-1 Centertown One Voting District
+47|177|9332|11-2 Hwy 56 N Church of Christ|11-2 Hwy 56 N Church of Christ Voting District
+47|177|9336|07-1 East Side School|07-1 East Side School Voting District
+47|177|9340|08-1 Fairview Community Center|08-1 Fairview Community Center Voting District
+47|177|9344|08-2 Irving College School|08-2 Irving College School Voting District
+47|177|9346|08-3 LBJ & C Headstart|08-3 LBJ & C Headstart Voting District
+47|177|9348|01-1 McMinnville Civic Center|01-1 McMinnville Civic Center Voting District
+47|177|9352|12-2 Lucky Community Center|12-2 Lucky Community Center Voting District
+47|177|9356|11-1 Midway Community Center|11-1 Midway Community Center Voting District
+47|177|9360|09-1 Morrison Ruritan Club|09-1 Morrison Ruritan Club Voting District
+47|177|9364|05-1 Three Star Mall|05-1 Three Star Mall Voting District
+47|177|9368|12-1 Northside Baptist Church|12-1 Northside Baptist Church Voting District
+47|177|9372|06-1 Warren Co. Middle School|06-1 Warren Co. Middle School Voting District
+47|177|9376|03-2 Smartt Station Fire Hall|03-2 Smartt Station Fire Hall Voting District
+47|177|9380|09-2 Viola Valley Comm. Center|09-2 Viola Valley Comm. Center Voting District
+47|177|9384|04-1 TSU Nursery Res. Center|04-1 TSU Nursery Res. Center Voting District
+47|179|9392|01 South Central School|01 South Central School Voting District
+47|179|9396|02 Conklin Ruritan|02 Conklin Ruritan Voting District
+47|179|9400|03 West View|03 West View Voting District
+47|179|9404|04 Lamar School|04 Lamar School Voting District
+47|179|9408|05 Telford Ruritan|05 Telford Ruritan Voting District
+47|179|9412|06 Embreeville|06 Embreeville Voting District
+47|179|9416|07 Fall Branch|07 Fall Branch Voting District
+47|179|9420|08-1 Midway Outside|08-1 Midway Outside Voting District
+47|179|9424|08-2 Cherokee Outside|08-2 Cherokee Outside Voting District
+47|179|9432|08-14 Cherokee Inside|08-14 Cherokee Inside Voting District
+47|179|9436|08-15 Midway Inside|08-15 Midway Inside Voting District
+47|179|9440|09-1 South Side School|09-1 South Side School Voting District
+47|179|9441|08-16 Fire Training Center|08-16 Fire Training Center Voting District
+47|179|9444|09-10 Fairmont School|09-10 Fairmont School Voting District
+47|179|9448|09-3 Keystone School|09-3 Keystone School Voting District
+47|179|9456|09-5 North Side School|09-5 North Side School Voting District
+47|179|9460|09-6 Stratton School|09-6 Stratton School Voting District
+47|179|9464|09-7 AO Asbury School|09-7 AO Asbury School Voting District
+47|179|9468|09-7 AI Woodland School|09-7 AI Woodland School Voting District
+47|179|9484|09-8 Adelphia Centre|09-8 Adelphia Centre Voting District
+47|179|9488|09-9 Henry Johnson School|09-9 Henry Johnson School Voting District
+47|179|9492|10-1 Princeton Arts Center|10-1 Princeton Arts Center Voting District
+47|179|9500|10-12E Indian Trail School|10-12E Indian Trail School Voting District
+47|179|9504|10-12W Towne Acres School|10-12W Towne Acres School Voting District
+47|179|9506|10S Town Acres South|10S Town Acres South Voting District
+47|179|9508|11E Boones Creek|11E Boones Creek Voting District
+47|179|9512|11I Boones Creek Elementary|11I Boones Creek Elementary Voting District
+47|179|9513|11L Lake Ridge School|11L Lake Ridge School Voting District
+47|179|9514|11M Marvin Chapel|11M Marvin Chapel Voting District
+47|179|9515|11W Boones Creek Elementary|11W Boones Creek Elementary Voting District
+47|179|9516|12E Gray Fairgrounds East|12E Gray Fairgrounds East Voting District
+47|179|9517|12C Gray City|12C Gray City Voting District
+47|179|9518|12W Gray Fairgrounds West|12W Gray Fairgrounds West Voting District
+47|179|9520|13 Harmony School|13 Harmony School Voting District
+47|179|9524|14 Sulphur Springs|14 Sulphur Springs Voting District
+47|179|9528|15-1 Jonesborough Town Hall|15-1 Jonesborough Town Hall Voting District
+47|179|9532|15-2 Jonesborough Courthouse|15-2 Jonesborough Courthouse Voting District
+47|179|9536|16 Leesburg Ruritan|16 Leesburg Ruritan Voting District
+47|179|9540|17 Bowmantown Ruritan|17 Bowmantown Ruritan Voting District
+47|179|9544|18 Limestone Ruritan|18 Limestone Ruritan Voting District
+47|181|9552|1 Waynesboro City|1 Waynesboro City Voting District
+47|181|9556|2 Beech Creek Fire Hall|2 Beech Creek Fire Hall Voting District
+47|181|9560|2 Clifton|2 Clifton Voting District
+47|181|9568|3 Crazy Horse|3 Crazy Horse Voting District
+47|181|9570|3 Eagle Creek Fire Hall|3 Eagle Creek Fire Hall Voting District
+47|181|9572|3 Buffalo River Fire Dept.|3 Buffalo River Fire Dept. Voting District
+47|181|9574|7 Ovilla Fire Hall|7 Ovilla Fire Hall Voting District
+47|181|9576|4 Collinwood City|4 Collinwood City Voting District
+47|181|9580|6 Southgate Fire Hall|6 Southgate Fire Hall Voting District
+47|181|9584|5 Big Cypress|5 Big Cypress Voting District
+47|181|9588|5 Lutts|5 Lutts Voting District
+47|181|9592|6 Holly Creek Fire Hall|6 Holly Creek Fire Hall Voting District
+47|181|9596|6 Shawnatee|6 Shawnatee Voting District
+47|181|9600|5 Wayne Co. High School|5 Wayne Co. High School Voting District
+47|183|9608|01A Palmersville Volunteer Fire Dept.|01A Palmersville Volunteer Fire Dept. Voting District
+47|183|9612|01B Latham Vol. Fire Dept.|01B Latham Vol. Fire Dept. Voting District
+47|183|9620|02 Gleason Community Building|02 Gleason Community Building Voting District
+47|183|9628|03 Greenfield Park Pavilion|03 Greenfield Park Pavilion Voting District
+47|183|9636|04 Sharon Fire Station|04 Sharon Fire Station Voting District
+47|183|9640|05 Buster Williams Fire Station|05 Buster Williams Fire Station Voting District
+47|183|9652|07 Vincent Implements|07 Vincent Implements Voting District
+47|183|9656|06 Trinity Presbyterian Church|06 Trinity Presbyterian Church Voting District
+47|183|9664|08 First United Methodist Ch.|08 First United Methodist Ch. Voting District
+47|183|9668|09 Dresden Sr. Citizen Center|09 Dresden Sr. Citizen Center Voting District
+47|185|9680|1-1 Sparta Civic Center|1-1 Sparta Civic Center Voting District
+47|185|9682|1-2 Sparta Civic Center|1-2 Sparta Civic Center Voting District
+47|185|9684|2-1 Ag Fair Complex|2-1 Ag Fair Complex Voting District
+47|185|9685|2-2 Thomas Union Fire Hall|2-2 Thomas Union Fire Hall Voting District
+47|185|9688|3-1 Ag Fair Complex|3-1 Ag Fair Complex Voting District
+47|185|9692|4-1 Woodland Park School|4-1 Woodland Park School Voting District
+47|185|9696|4-2 Bondecroft School|4-2 Bondecroft School Voting District
+47|185|9700|5-1 Doyle Civic Center Hall|5-1 Doyle Civic Center Hall Voting District
+47|185|9704|6-1 Central View School|6-1 Central View School Voting District
+47|185|9708|6-2 Cassville School|6-2 Cassville School Voting District
+47|185|9712|7-1 Northfield School|7-1 Northfield School Voting District
+47|187|9720|01-2 Fairview Recreation Center|01-2 Fairview Recreation Center Voting District
+47|187|9721|01-1 Fairview Elementary|01-1 Fairview Elementary Voting District
+47|187|9722|02-2 Grace Chapel|02-2 Grace Chapel Voting District
+47|187|9723|03-5 Longview|03-5 Longview Voting District
+47|187|9724|01-3 Pinewood Elementary|01-3 Pinewood Elementary Voting District
+47|187|9725|02-4 Westhaven Clubhouse|02-4 Westhaven Clubhouse Voting District
+47|187|9728|02-1 Hillsboro Elementary|02-1 Hillsboro Elementary Voting District
+47|187|9732|06-3 Holy Family Catholic Church|06-3 Holy Family Catholic Church Voting District
+47|187|9736|03-1 Thompson Station Baptist Church|03-1 Thompson Station Baptist Church Voting District
+47|187|9740|03-2 Bethesda Recreation Center|03-2 Bethesda Recreation Center Voting District
+47|187|9744|03-4 Heritage Elementary|03-4 Heritage Elementary Voting District
+47|187|9748|11-2 Moore Elementary|11-2 Moore Elementary Voting District
+47|187|9751|04-1 First Presbyterian Church|04-1 First Presbyterian Church Voting District
+47|187|9752|04-2 Millview Church of Christ|04-2 Millview Church of Christ Voting District
+47|187|9753|04-4 Franklin Christian Church|04-4 Franklin Christian Church Voting District
+47|187|9754|04-3 Trinity Baptist|04-3 Trinity Baptist Voting District
+47|187|9755|04-5 Prairie Life Fitness Center|04-5 Prairie Life Fitness Center Voting District
+47|187|9756|05-1 Brentwood Safety Center E|05-1 Brentwood Safety Center E Voting District
+47|187|9757|05-4 Whispering Hills Church|05-4 Whispering Hills Church Voting District
+47|187|9758|05-2 Nolensville Methodist Church|05-2 Nolensville Methodist Church Voting District
+47|187|9759|05-3 Triune Baptist Church|05-3 Triune Baptist Church Voting District
+47|187|9760|03-3 College Grove School|03-3 College Grove School Voting District
+47|187|9761|05-5 The Community Church|05-5 The Community Church Voting District
+47|187|9762|02-3 Oak View Elementary|02-3 Oak View Elementary Voting District
+47|187|9764|06-1 Concord Church of Christ|06-1 Concord Church of Christ Voting District
+47|187|9768|06-2 New Hope Community Church|06-2 New Hope Community Church Voting District
+47|187|9772|07-1 Otter Creek Church|07-1 Otter Creek Church Voting District
+47|187|9776|07-2 Baptist Children's Home|07-2 Baptist Children's Home Voting District
+47|187|9778|07-3 Clearview Baptist Church|07-3 Clearview Baptist Church Voting District
+47|187|9780|08-1 Grassland Middle School|08-1 Grassland Middle School Voting District
+47|187|9784|08-2 Curry Ingram Academy|08-2 Curry Ingram Academy Voting District
+47|187|9786|08-3 Episcopal Church|08-3 Episcopal Church Voting District
+47|187|9788|09-1 Walnut Grove Elementary|09-1 Walnut Grove Elementary Voting District
+47|187|9792|09-2 Benton Hall School|09-2 Benton Hall School Voting District
+47|187|9794|09-3 Hunter's Bend Elementary|09-3 Hunter's Bend Elementary Voting District
+47|187|9796|10-1 Williamson Recreation Center|10-1 Williamson Recreation Center Voting District
+47|187|9797|10-3 Johnson Elementary|10-3 Johnson Elementary Voting District
+47|187|9798|10-2 Liberty Elementary|10-2 Liberty Elementary Voting District
+47|187|9800|11-1 Franklin Elementary Upper Campus|11-1 Franklin Elementary Upper Campus Voting District
+47|187|9804|12-1 Franklin Faith Church|12-1 Franklin Faith Church Voting District
+47|187|9808|12-2 People's Church|12-2 People's Church Voting District
+47|189|9816|08 Lighthouse Assembly of God|08 Lighthouse Assembly of God Voting District
+47|189|9820|02 St. Stephens Catholic Comm.|02 St. Stephens Catholic Comm. Voting District
+47|189|9824|03 West Wilson Middle School|03 West Wilson Middle School Voting District
+47|189|9828|25 Leeville Club House|25 Leeville Club House Voting District
+47|189|9836|04 Cooks UMC Church|04 Cooks UMC Church Voting District
+47|189|9840|05 Berea Church of Christ|05 Berea Church of Christ Voting District
+47|189|9844|05 LaGuardo Utility District|05 LaGuardo Utility District Voting District
+47|189|9848|06 Carroll-Oakland School|06 Carroll-Oakland School Voting District
+47|189|9856|07 Shop Springs Baptist Church|07 Shop Springs Baptist Church Voting District
+47|189|9860|07 Watertown High School|07 Watertown High School Voting District
+47|189|9864|01 Langford Farms Club|01 Langford Farms Club Voting District
+47|189|9868|09 Cottage Home Dem. Club|09 Cottage Home Dem. Club Voting District
+47|189|9870|09 Commerce Cumberland Pres. Church|09 Commerce Cumberland Pres. Church Voting District
+47|189|9876|09 Statesville Home Dem. Club|09 Statesville Home Dem. Club Voting District
+47|189|9880|09 Watertown Community Center|09 Watertown Community Center Voting District
+47|189|9884|10 Mt.Juliet Middle School|10 Mt.Juliet Middle School Voting District
+47|189|9888|11 Rutland Elementary School|11 Rutland Elementary School Voting District
+47|189|9896|12 Cedars of Leb. St. Park Assembly Hall|12 Cedars of Leb. St. Park Assembly Hall Voting District
+47|189|9900|12 Norene Community Center|12 Norene Community Center Voting District
+47|189|9904|07 Southside Elementary School|07 Southside Elementary School Voting District
+47|189|9908|13 Gladeville Elementary|13 Gladeville Elementary Voting District
+47|189|9912|14 Gladeville Elementary|14 Gladeville Elementary Voting District
+47|189|9914|14 Silver Springs Baptist Church|14 Silver Springs Baptist Church Voting District
+47|189|9916|14 Wilson County Board of Education|14 Wilson County Board of Education Voting District
+47|189|9920|15 Full Gospel Tabernacle|15 Full Gospel Tabernacle Voting District
+47|189|9924|15 Tuckers Cross Roads School|15 Tuckers Cross Roads School Voting District
+47|189|9928|16 Center Chapel Church of Christ|16 Center Chapel Church of Christ Voting District
+47|189|9932|17 Faith Evangelical Lutheran Church|17 Faith Evangelical Lutheran Church Voting District
+47|189|9936|18 Lakeview Elementary School|18 Lakeview Elementary School Voting District
+47|189|9940|19 Jimmy Floyd Family Center|19 Jimmy Floyd Family Center Voting District
+47|189|9944|20 Market Street Community Center|20 Market Street Community Center Voting District
+47|189|9948|21 Water & Wastewater Auth. Of Wilson Co.|21 Water & Wastewater Auth. Of Wilson Co. Voting District
+47|189|9952|22 W. A. Wright Elementary School|22 W. A. Wright Elementary School Voting District
+47|189|9956|23 West Hills Baptist Church|23 West Hills Baptist Church Voting District
+47|189|9960|24 First United Methodist Church|24 First United Methodist Church Voting District
+47|189|9964|25 Maple Hill Church of Christ|25 Maple Hill Church of Christ Voting District

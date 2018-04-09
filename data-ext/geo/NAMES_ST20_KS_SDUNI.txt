@@ -1,0 +1,294 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+20|00001|Southeast of Saline Unified School District 306|Southeast of Saline Unified School District 306
+20|00002|Smoky Valley Unified School District 400|Smoky Valley Unified School District 400
+20|00003|Wamego Unified School District 320|Wamego Unified School District 320
+20|00004|Rock Creek Unified School District 323|Rock Creek Unified School District 323
+20|00005|Sabetha Unified School District 441|Sabetha Unified School District 441
+20|00006|Hiawatha Unified School District 415|Hiawatha Unified School District 415
+20|00007|Smith Center Unified School District 237|Smith Center Unified School District 237
+20|00012|Barnes Unified School District 223|Barnes Unified School District 223
+20|00013|Triplains Unified School District 275|Triplains Unified School District 275
+20|00014|Central Heights Unified School District 288|Central Heights Unified School District 288
+20|00015|Ottawa Unified School District 290|Ottawa Unified School District 290
+20|00016|Marysville Unified School District 364|Marysville Unified School District 364
+20|00017|Scott County Unified School District 466|Scott County Unified School District 466
+20|00020|Western Plains Unified School District 106|Western Plains Unified School District 106
+20|00023|Rawlins County Unified School District 105|Rawlins County Unified School District 105
+20|00028|North Central - Washington Schools Unified School District 108|North Central - Washington Schools Unified School District 108
+20|00029|Rock Hills Unified School District 107|Rock Hills Unified School District 107
+20|00030|Republic County - Hillcrest Rural Schools Unified School District 109|Republic County - Hillcrest Rural Schools Unified School District 109
+20|00346|Unified School District 110|Unified School District 110
+20|00348|Unified School District 111|Unified School District 111
+20|03180|Abilene Unified School District 435|Abilene Unified School District 435
+20|03200|Auburn-Washburn Unified School District 437|Auburn-Washburn Unified School District 437
+20|03210|North Lyon County Unified School District 251|North Lyon County Unified School District 251
+20|03240|Mill Creek Valley Unified School District 329|Mill Creek Valley Unified School District 329
+20|03270|Northern Valley Unified School District 212|Northern Valley Unified School District 212
+20|03300|Labette County Unified School District 506|Labette County Unified School District 506
+20|03360|Andover Unified School District 385|Andover Unified School District 385
+20|03390|Anthony-Harper Unified School District 361|Anthony-Harper Unified School District 361
+20|03430|Argonia Public Schools Unified School District 359|Argonia Public Schools Unified School District 359
+20|03450|Arkansas City Unified School District 470|Arkansas City Unified School District 470
+20|03480|Northeast Unified School District 246|Northeast Unified School District 246
+20|03510|Ashland Unified School District 220|Ashland Unified School District 220
+20|03540|Atchison Public Schools Unified School District 409|Atchison Public Schools Unified School District 409
+20|03570|Attica Unified School District 511|Attica Unified School District 511
+20|03630|Augusta Unified School District 402|Augusta Unified School District 402
+20|03660|Axtell Unified School District 488|Axtell Unified School District 488
+20|03690|B and B Unified School District 451|B and B Unified School District 451
+20|03720|Baldwin City Unified School District 348|Baldwin City Unified School District 348
+20|03780|Basehor-Linwood Unified School District 458|Basehor-Linwood Unified School District 458
+20|03810|Baxter Springs Unified School District 508|Baxter Springs Unified School District 508
+20|03870|Beloit Unified School District 273|Beloit Unified School District 273
+20|03900|Belle Plaine Unified School District 357|Belle Plaine Unified School District 357
+20|03960|Twin Valley Unified School District 240|Twin Valley Unified School District 240
+20|04020|Otis-Bison Unified School District 403|Otis-Bison Unified School District 403
+20|04050|Bonner Springs Unified School District 204|Bonner Springs Unified School District 204
+20|04080|Brewster Unified School District 314|Brewster Unified School District 314
+20|04140|Bucklin Unified School District 459|Bucklin Unified School District 459
+20|04170|Altoona-Midway Unified School District 387|Altoona-Midway Unified School District 387
+20|04200|Buhler Unified School District 313|Buhler Unified School District 313
+20|04230|Central Unified School District 462|Central Unified School District 462
+20|04260|Burlingame Public School Unified School District 454|Burlingame Public School Unified School District 454
+20|04290|Burlington Unified School District 244|Burlington Unified School District 244
+20|04350|Burrton Unified School District 369|Burrton Unified School District 369
+20|04380|Caldwell Unified School District 360|Caldwell Unified School District 360
+20|04410|Caney Valley Unified School District 436|Caney Valley Unified School District 436
+20|04440|Canton-Galva Unified School District 419|Canton-Galva Unified School District 419
+20|04470|Waconda Unified School District 272|Waconda Unified School District 272
+20|04500|Cedar Vale Unified School District 285|Cedar Vale Unified School District 285
+20|04560|Vermillion Unified School District 380|Vermillion Unified School District 380
+20|04590|Chanute Public Schools Unified School District 413|Chanute Public Schools Unified School District 413
+20|04620|Chapman Unified School District 473|Chapman Unified School District 473
+20|04650|Chase-Raymond Unified School District 401|Chase-Raymond Unified School District 401
+20|04670|Cheney Unified School District 268|Cheney Unified School District 268
+20|04710|Cherokee Unified School District 247|Cherokee Unified School District 247
+20|04740|Cherryvale Unified School District 447|Cherryvale Unified School District 447
+20|04770|Chetopa-St. Paul Unified School District 505|Chetopa-St. Paul Unified School District 505
+20|04790|Cheylin Unified School District 103|Cheylin Unified School District 103
+20|04800|Cimarron-Ensign Unified School District 102|Cimarron-Ensign Unified School District 102
+20|04830|North Jackson Unified School District 335|North Jackson Unified School District 335
+20|04860|Claflin Unified School District 354|Claflin Unified School District 354
+20|04890|Clay Center Unified School District 379|Clay Center Unified School District 379
+20|04920|Clearwater Unified School District 264|Clearwater Unified School District 264
+20|04950|Clifton-Clyde Unified School District 224|Clifton-Clyde Unified School District 224
+20|04980|Coffeyville Unified School District 445|Coffeyville Unified School District 445
+20|05010|Colby Public Schools Unified School District 315|Colby Public Schools Unified School District 315
+20|05040|Comanche County Unified School District 300|Comanche County Unified School District 300
+20|05070|Columbus Unified School District 493|Columbus Unified School District 493
+20|05100|Concordia Unified School District 333|Concordia Unified School District 333
+20|05130|Conway Springs Unified School District 356|Conway Springs Unified School District 356
+20|05190|Copeland Unified School District 476|Copeland Unified School District 476
+20|05250|Chase County Unified School District 284|Chase County Unified School District 284
+20|05280|Morris County Unified School District 417|Morris County Unified School District 417
+20|05310|Pike Valley Unified School District 426|Pike Valley Unified School District 426
+20|05370|Cunningham Unified School District 332|Cunningham Unified School District 332
+20|05400|Deerfield Unified School District 216|Deerfield Unified School District 216
+20|05460|Derby Unified School District 260|Derby Unified School District 260
+20|05490|De Soto Unified School District 232|De Soto Unified School District 232
+20|05520|Dexter Unified School District 471|Dexter Unified School District 471
+20|05550|Dighton Unified School District 482|Dighton Unified School District 482
+20|05580|Dodge City Unified School District 443|Dodge City Unified School District 443
+20|05610|Douglass Public Schools Unified School District 396|Douglass Public Schools Unified School District 396
+20|05640|Easton Unified School District 449|Easton Unified School District 449
+20|05700|Atchison County Community Schools Unified School District 377|Atchison County Community Schools Unified School District 377
+20|05730|El Dorado Unified School District 490|El Dorado Unified School District 490
+20|05760|Elk Valley Unified School District 283|Elk Valley Unified School District 283
+20|05790|Elkhart Unified School District 218|Elkhart Unified School District 218
+20|05800|Ell-Saline Unified School District 307|Ell-Saline Unified School District 307
+20|05820|Ellinwood Public Schools Unified School District 355|Ellinwood Public Schools Unified School District 355
+20|05850|Ellis Unified School District 388|Ellis Unified School District 388
+20|05870|Ellsworth Unified School District 327|Ellsworth Unified School District 327
+20|05910|Elwood Unified School District 486|Elwood Unified School District 486
+20|05940|Emporia Unified School District 253|Emporia Unified School District 253
+20|06000|Erie Unified School District 101|Erie Unified School District 101
+20|06060|Wabaunsee East Unified School District 330|Wabaunsee East Unified School District 330
+20|06090|Eudora Unified School District 491|Eudora Unified School District 491
+20|06120|Eureka Unified School District 389|Eureka Unified School District 389
+20|06180|Fort Scott Unified School District 234|Fort Scott Unified School District 234
+20|06210|Fowler Unified School District 225|Fowler Unified School District 225
+20|06240|Remington-Whitewater Unified School District 206|Remington-Whitewater Unified School District 206
+20|06270|Fredonia Unified School District 484|Fredonia Unified School District 484
+20|06300|Frontenac Public Schools Unified School District 249|Frontenac Public Schools Unified School District 249
+20|06330|Fort Leavenworth Unified School District 207|Fort Leavenworth Unified School District 207
+20|06360|Galena Unified School District 499|Galena Unified School District 499
+20|06390|Garden City Unified School District 457|Garden City Unified School District 457
+20|06420|Gardner Edgerton Unified School District 231|Gardner Edgerton Unified School District 231
+20|06450|Garnett Unified School District 365|Garnett Unified School District 365
+20|06480|Girard Unified School District 248|Girard Unified School District 248
+20|06510|Southern Cloud Unified School District 334|Southern Cloud Unified School District 334
+20|06540|Goddard Unified School District 265|Goddard Unified School District 265
+20|06570|Goessel Unified School District 411|Goessel Unified School District 411
+20|06580|Goodland Unified School District 352|Goodland Unified School District 352
+20|06630|Wheatland Unified School District 292|Wheatland Unified School District 292
+20|06660|Great Bend Unified School District 428|Great Bend Unified School District 428
+20|06690|Greeley County Schools Unified School District 200|Greeley County Schools Unified School District 200
+20|06720|Greensburg Unified School District 422|Greensburg Unified School District 422
+20|06780|Grinnell Public Schools Unified School District 291|Grinnell Public Schools Unified School District 291
+20|06840|Halstead Unified School District 440|Halstead Unified School District 440
+20|06870|Hamilton Unified School District 390|Hamilton Unified School District 390
+20|06900|Hanston Unified School District 228|Hanston Unified School District 228
+20|06930|Southern Lyon County Unified School District 252|Southern Lyon County Unified School District 252
+20|06960|Haven Public Schools Unified School District 312|Haven Public Schools Unified School District 312
+20|06990|Haviland Unified School District 474|Haviland Unified School District 474
+20|07020|Hays Unified School District 489|Hays Unified School District 489
+20|07050|Haysville Unified School District 261|Haysville Unified School District 261
+20|07080|Healy Public Schools Unified School District 468|Healy Public Schools Unified School District 468
+20|07110|Herington Unified School District 487|Herington Unified School District 487
+20|07170|Hesston Unified School District 460|Hesston Unified School District 460
+20|07260|Hill City Unified School District 281|Hill City Unified School District 281
+20|07290|Durham-Hillsboro-Lehigh Unified School District 410|Durham-Hillsboro-Lehigh Unified School District 410
+20|07320|Hoisington Unified School District 431|Hoisington Unified School District 431
+20|07350|Holcomb Unified School District 363|Holcomb Unified School District 363
+20|07380|Holton Unified School District 336|Holton Unified School District 336
+20|07410|Lorraine Unified School District 328|Lorraine Unified School District 328
+20|07440|Rural Vista Unified School District 481|Rural Vista Unified School District 481
+20|07470|South Brown County Unified School District 430|South Brown County Unified School District 430
+20|07500|West Elk Unified School District 282|West Elk Unified School District 282
+20|07530|Hoxie Community Schools Unified School District 412|Hoxie Community Schools Unified School District 412
+20|07560|Hugoton Public Schools Unified School District 210|Hugoton Public Schools Unified School District 210
+20|07590|Humboldt Unified School District 258|Humboldt Unified School District 258
+20|07620|Hutchinson Public Schools Unified School District 308|Hutchinson Public Schools Unified School District 308
+20|07650|Independence Unified School District 446|Independence Unified School District 446
+20|07680|Ingalls Unified School District 477|Ingalls Unified School District 477
+20|07710|Inman Unified School District 448|Inman Unified School District 448
+20|07740|Iola Unified School District 257|Iola Unified School District 257
+20|07750|Jayhawk Unified School District 346|Jayhawk Unified School District 346
+20|07800|Jetmore Unified School District 227|Jetmore Unified School District 227
+20|07860|Stanton County Unified School District 452|Stanton County Unified School District 452
+20|07890|Geary County Schools Unified School District 475|Geary County Schools Unified School District 475
+20|07950|Kansas City Unified School District 500|Kansas City Unified School District 500
+20|07970|Kaw Valley Unified School District 321|Kaw Valley Unified School District 321
+20|08040|Crest Unified School District 479|Crest Unified School District 479
+20|08070|Kingman-Norwich Unified School District 331|Kingman-Norwich Unified School District 331
+20|08100|Kinsley-Offerle Unified School District 347|Kinsley-Offerle Unified School District 347
+20|08130|South Barber Unified School District 255|South Barber Unified School District 255
+20|08190|Kismet-Plains Unified School District 483|Kismet-Plains Unified School District 483
+20|08220|LaCrosse Unified School District 395|LaCrosse Unified School District 395
+20|08250|Prairie View Unified School District 362|Prairie View Unified School District 362
+20|08280|Lakin Unified School District 215|Lakin Unified School District 215
+20|08310|Fairfield Unified School District 310|Fairfield Unified School District 310
+20|08340|Lansing Unified School District 469|Lansing Unified School District 469
+20|08370|Fort Larned Unified School District 495|Fort Larned Unified School District 495
+20|08400|Lawrence Unified School District 497|Lawrence Unified School District 497
+20|08430|Leavenworth Unified School District 453|Leavenworth Unified School District 453
+20|08520|West Solomon Valley Schools Unified School District 213|West Solomon Valley Schools Unified School District 213
+20|08550|Bluestem Unified School District 205|Bluestem Unified School District 205
+20|08610|Leoti Unified School District 467|Leoti Unified School District 467
+20|08670|Leroy-Gridley Unified School District 245|Leroy-Gridley Unified School District 245
+20|08700|Lewis Unified School District 502|Lewis Unified School District 502
+20|08730|Liberal Unified School District 480|Liberal Unified School District 480
+20|08790|Lincoln Unified School District 298|Lincoln Unified School District 298
+20|08880|Little River Unified School District 444|Little River Unified School District 444
+20|08910|Logan Unified School District 326|Logan Unified School District 326
+20|08940|Centre Unified School District 397|Centre Unified School District 397
+20|08970|Louisburg Unified School District 416|Louisburg Unified School District 416
+20|09000|Lyndon Unified School District 421|Lyndon Unified School District 421
+20|09030|Lyons Unified School District 405|Lyons Unified School District 405
+20|09060|Macksville Unified School District 351|Macksville Unified School District 351
+20|09090|Madison-Virgil Unified School District 386|Madison-Virgil Unified School District 386
+20|09140|Maize Unified School District 266|Maize Unified School District 266
+20|09180|Manhattan Unified School District 383|Manhattan Unified School District 383
+20|09240|Marion-Florence Unified School District 408|Marion-Florence Unified School District 408
+20|09320|Royal Valley Unified School District 337|Royal Valley Unified School District 337
+20|09360|McLouth Unified School District 342|McLouth Unified School District 342
+20|09390|McPherson Unified School District 418|McPherson Unified School District 418
+20|09420|Meade Unified School District 226|Meade Unified School District 226
+20|09450|Barber County North Unified School District 254|Barber County North Unified School District 254
+20|09480|Marais des Cygnes Valley Unified School District 456|Marais des Cygnes Valley Unified School District 456
+20|09510|Jefferson West Unified School District 340|Jefferson West Unified School District 340
+20|09570|North Ottawa County Unified School District 239|North Ottawa County Unified School District 239
+20|09600|Minneola Unified School District 219|Minneola Unified School District 219
+20|09630|Montezuma Unified School District 371|Montezuma Unified School District 371
+20|09660|Marmaton Valley Unified School District 256|Marmaton Valley Unified School District 256
+20|09720|Moscow Public Schools Unified School District 209|Moscow Public Schools Unified School District 209
+20|09780|Moundridge Unified School District 423|Moundridge Unified School District 423
+20|09810|Mullinville Unified School District 424|Mullinville Unified School District 424
+20|09840|Mulvane Unified School District 263|Mulvane Unified School District 263
+20|09850|Paradise Unified School District 399|Paradise Unified School District 399
+20|09900|Neodesha Unified School District 461|Neodesha Unified School District 461
+20|09930|Ness City Unified School District 303|Ness City Unified School District 303
+20|09960|Newton Unified School District 373|Newton Unified School District 373
+20|09990|Nickerson Unified School District 309|Nickerson Unified School District 309
+20|10020|Norton Community Schools Unified School District 211|Norton Community Schools Unified School District 211
+20|10050|Oakley Unified School District 274|Oakley Unified School District 274
+20|10080|Oberlin Unified School District 294|Oberlin Unified School District 294
+20|10140|Olathe Unified School District 233|Olathe Unified School District 233
+20|10170|Onaga-Havensville-Wheaton Unified School District 322|Onaga-Havensville-Wheaton Unified School District 322
+20|10230|Osage City Unified School District 420|Osage City Unified School District 420
+20|10260|Osawatomie Unified School District 367|Osawatomie Unified School District 367
+20|10290|Osborne County Unified School District 392|Osborne County Unified School District 392
+20|10320|Oskaloosa Public Schools Unified School District 341|Oskaloosa Public Schools Unified School District 341
+20|10350|Oswego Unified School District 504|Oswego Unified School District 504
+20|10410|Santa Fe Trail Unified School District 434|Santa Fe Trail Unified School District 434
+20|10440|Oxford Unified School District 358|Oxford Unified School District 358
+20|10470|Palco Unified School District 269|Palco Unified School District 269
+20|10500|Paola Unified School District 368|Paola Unified School District 368
+20|10560|Parsons Unified School District 503|Parsons Unified School District 503
+20|10590|Peabody-Burns Unified School District 398|Peabody-Burns Unified School District 398
+20|10620|Perry Public Schools Unified School District 343|Perry Public Schools Unified School District 343
+20|10650|Phillipsburg Unified School District 325|Phillipsburg Unified School District 325
+20|10680|Piper Unified School District 203|Piper Unified School District 203
+20|10710|Pittsburg Unified School District 250|Pittsburg Unified School District 250
+20|10740|Plainville Unified School District 270|Plainville Unified School District 270
+20|10770|Pleasanton Unified School District 344|Pleasanton Unified School District 344
+20|10800|West Franklin Unified School District 287|West Franklin Unified School District 287
+20|10890|Pratt Unified School District 382|Pratt Unified School District 382
+20|10920|Pretty Prairie Unified School District 311|Pretty Prairie Unified School District 311
+20|10950|Quinter Public Schools Unified School District 293|Quinter Public Schools Unified School District 293
+20|10980|Blue Valley Unified School District 384|Blue Valley Unified School District 384
+20|11040|Golden Plains Unified School District 316|Golden Plains Unified School District 316
+20|11080|Renwick Unified School District 267|Renwick Unified School District 267
+20|11100|Riley County Unified School District 378|Riley County Unified School District 378
+20|11130|Riverton Unified School District 404|Riverton Unified School District 404
+20|11190|Rolla Unified School District 217|Rolla Unified School District 217
+20|11220|Flinthills Unified School District 492|Flinthills Unified School District 492
+20|11250|Rose Hill Public Schools Unified School District 394|Rose Hill Public Schools Unified School District 394
+20|11280|Pawnee Heights Unified School District 496|Pawnee Heights Unified School District 496
+20|11310|Russell County Unified School District 407|Russell County Unified School District 407
+20|11370|Salina Unified School District 305|Salina Unified School District 305
+20|11400|Satanta Unified School District 507|Satanta Unified School District 507
+20|11430|Skyline Schools Unified School District 438|Skyline Schools Unified School District 438
+20|11490|Seaman Unified School District 345|Seaman Unified School District 345
+20|11520|Chautauqua County Community Unified School District 286|Chautauqua County Community Unified School District 286
+20|11550|Sedgwick Public Schools Unified School District 439|Sedgwick Public Schools Unified School District 439
+20|11580|Nemaha Valley Schools Unified School District 442|Nemaha Valley Schools Unified School District 442
+20|11610|Wallace County Schools Unified School District 241|Wallace County Schools Unified School District 241
+20|11640|Shawnee Mission Public Schools Unified School District|Shawnee Mission Public Schools Unified School District
+20|11700|Silver Lake Unified School District 372|Silver Lake Unified School District 372
+20|11760|Solomon Unified School District 393|Solomon Unified School District 393
+20|11790|South Haven Unified School District 509|South Haven Unified School District 509
+20|11820|Spearville Unified School District 381|Spearville Unified School District 381
+20|11850|Spring Hill Unified School District 230|Spring Hill Unified School District 230
+20|11880|St. Francis Community Schools Unified School District 297|St. Francis Community Schools Unified School District 297
+20|11910|St. John-Hudson Unified School District 350|St. John-Hudson Unified School District 350
+20|11970|Stafford Unified School District 349|Stafford Unified School District 349
+20|12000|Blue Valley Unified School District 229|Blue Valley Unified School District 229
+20|12030|Sterling Unified School District 376|Sterling Unified School District 376
+20|12060|Stockton Unified School District 271|Stockton Unified School District 271
+20|12090|Sublette Unified School District 374|Sublette Unified School District 374
+20|12120|Sylvan Grove Unified School District 299|Sylvan Grove Unified School District 299
+20|12150|Syracuse Unified School District 494|Syracuse Unified School District 494
+20|12180|Shawnee Heights Unified School District 450|Shawnee Heights Unified School District 450
+20|12210|Tonganoxie Unified School District 464|Tonganoxie Unified School District 464
+20|12260|Topeka Public Schools Unified School District 501|Topeka Public Schools Unified School District 501
+20|12300|Circle Unified School District 375|Circle Unified School District 375
+20|12330|Troy Public Schools Unified School District 429|Troy Public Schools Unified School District 429
+20|12360|Turner Unified School District 202|Turner Unified School District 202
+20|12390|Udall Unified School District 463|Udall Unified School District 463
+20|12420|Ulysses Unified School District 214|Ulysses Unified School District 214
+20|12450|Uniontown Unified School District 235|Uniontown Unified School District 235
+20|12510|Valley Center Public Schools Unified School District 262|Valley Center Public Schools Unified School District 262
+20|12540|Valley Falls Unified School District 338|Valley Falls Unified School District 338
+20|12600|Victoria Unified School District 432|Victoria Unified School District 432
+20|12630|WaKeeney Unified School District 208|WaKeeney Unified School District 208
+20|12750|Wathena Unified School District 406|Wathena Unified School District 406
+20|12780|Valley Heights Unified School District 498|Valley Heights Unified School District 498
+20|12810|Lebo-Waverly Unified School District 243|Lebo-Waverly Unified School District 243
+20|12840|Wellington Unified School District 353|Wellington Unified School District 353
+20|12870|Wellsville Unified School District 289|Wellsville Unified School District 289
+20|12900|Weskan Unified School District 242|Weskan Unified School District 242
+20|12990|Wichita Unified School District 259|Wichita Unified School District 259
+20|13020|Jefferson County North Unified School District 339|Jefferson County North Unified School District 339
+20|13050|Winfield Unified School District 465|Winfield Unified School District 465
+20|13110|Woodson Unified School District 366|Woodson Unified School District 366

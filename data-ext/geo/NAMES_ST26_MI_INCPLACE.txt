@@ -1,0 +1,534 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+26|00380|Addison|Addison village
+26|00440|Adrian|Adrian city
+26|00620|Ahmeek|Ahmeek village
+26|00700|Akron|Akron village
+26|00860|Alanson|Alanson village
+26|00980|Albion|Albion city
+26|01180|Algonac|Algonac city
+26|01260|Allegan|Allegan city
+26|01300|Allen|Allen village
+26|01380|Allen Park|Allen Park city
+26|01540|Alma|Alma city
+26|01660|Almont|Almont village
+26|01740|Alpena|Alpena city
+26|01800|Alpha|Alpha village
+26|03000|Ann Arbor|Ann Arbor city
+26|03200|Applegate|Applegate village
+26|03520|Armada|Armada village
+26|03740|Ashley|Ashley village
+26|03880|Athens|Athens village
+26|04080|Auburn|Auburn city
+26|04105|Auburn Hills|Auburn Hills city
+26|04120|Au Gres|Au Gres city
+26|04160|Augusta|Augusta village
+26|04740|Bad Axe|Bad Axe city
+26|04940|Baldwin|Baldwin village
+26|05080|Bancroft|Bancroft village
+26|05140|Bangor|Bangor city
+26|05320|Baraga|Baraga village
+26|05500|Baroda|Baroda village
+26|05580|Barryton|Barryton village
+26|05660|Barton Hills|Barton Hills village
+26|05920|Battle Creek|Battle Creek city
+26|06020|Bay City|Bay City city
+26|06460|Bear Lake|Bear Lake village
+26|06660|Beaverton|Beaverton city
+26|06900|Belding|Belding city
+26|06980|Bellaire|Bellaire village
+26|07020|Belleville|Belleville city
+26|07060|Bellevue|Bellevue village
+26|07520|Benton Harbor|Benton Harbor city
+26|07580|Benzonia|Benzonia village
+26|07660|Berkley|Berkley city
+26|07860|Berrien Springs|Berrien Springs village
+26|07960|Bessemer|Bessemer city
+26|08100|Beulah|Beulah village
+26|08160|Beverly Hills|Beverly Hills village
+26|08300|Big Rapids|Big Rapids city
+26|08460|Bingham Farms|Bingham Farms village
+26|08540|Birch Run|Birch Run village
+26|08640|Birmingham|Birmingham city
+26|09000|Blissfield|Blissfield village
+26|09180|Bloomfield Hills|Bloomfield Hills city
+26|09220|Bloomingdale|Bloomingdale village
+26|09820|Boyne City|Boyne City city
+26|09840|Boyne Falls|Boyne Falls village
+26|10160|Breckenridge|Breckenridge village
+26|10180|Breedsville|Breedsville village
+26|10580|Bridgman|Bridgman city
+26|10620|Brighton|Brighton city
+26|10760|Britton|Britton village
+26|10860|Bronson|Bronson city
+26|11000|Brooklyn|Brooklyn village
+26|11180|Brown City|Brown City city
+26|11400|Buchanan|Buchanan city
+26|11480|Buckley|Buckley village
+26|11800|Burlington|Burlington village
+26|11920|Burr Oak|Burr Oak village
+26|12060|Burton|Burton city
+26|12260|Byron|Byron village
+26|12320|Cadillac|Cadillac city
+26|12480|Caledonia|Caledonia village
+26|12580|Calumet|Calumet village
+26|12760|Camden|Camden village
+26|13140|Capac|Capac village
+26|13220|Carleton|Carleton village
+26|13400|Carney|Carney village
+26|13420|Caro|Caro village
+26|13600|Carson City|Carson City city
+26|13620|Carsonville|Carsonville village
+26|13760|Caseville|Caseville village
+26|13820|Casnovia|Casnovia village
+26|13860|Caspian|Caspian city
+26|13880|Cass City|Cass City village
+26|13900|Cassopolis|Cassopolis village
+26|14200|Cedar Springs|Cedar Springs city
+26|14260|Cement City|Cement City village
+26|14320|Center Line|Center Line city
+26|14400|Central Lake|Central Lake village
+26|14460|Centreville|Centreville village
+26|14780|Charlevoix|Charlevoix city
+26|14820|Charlotte|Charlotte city
+26|14940|Chatham|Chatham village
+26|15000|Cheboygan|Cheboygan city
+26|15020|Chelsea|Chelsea city
+26|15140|Chesaning|Chesaning village
+26|15920|Clare|Clare city
+26|16140|Clarksville|Clarksville village
+26|16160|Clawson|Clawson city
+26|16280|Clayton|Clayton village
+26|16420|Clifford|Clifford village
+26|16440|Climax|Climax village
+26|16480|Clinton|Clinton village
+26|16620|Clio|Clio city
+26|17020|Coldwater|Coldwater city
+26|17100|Coleman|Coleman city
+26|17320|Coloma|Coloma city
+26|17360|Colon|Colon village
+26|17460|Columbiaville|Columbiaville village
+26|17740|Concord|Concord village
+26|17840|Constantine|Constantine village
+26|18020|Coopersville|Coopersville city
+26|18040|Copemish|Copemish village
+26|18080|Copper City|Copper City village
+26|18300|Corunna|Corunna city
+26|18920|Croswell|Croswell city
+26|19140|Crystal Falls|Crystal Falls city
+26|19420|Custer|Custer village
+26|19560|Daggett|Daggett village
+26|19780|Dansville|Dansville village
+26|19880|Davison|Davison city
+26|21000|Dearborn|Dearborn city
+26|21020|Dearborn Heights|Dearborn Heights city
+26|21040|Decatur|Decatur village
+26|21100|Deckerville|Deckerville village
+26|21180|Deerfield|Deerfield village
+26|21780|De Tour Village|De Tour Village village
+26|22000|Detroit|Detroit city
+26|22120|DeWitt|DeWitt city
+26|22160|Dexter|Dexter village
+26|22380|Dimondale|Dimondale village
+26|22740|Douglas|Douglas city
+26|22880|Dowagiac|Dowagiac city
+26|23140|Dryden|Dryden village
+26|23380|Dundee|Dundee village
+26|23500|Durand|Durand city
+26|23560|Eagle|Eagle village
+26|23980|East Grand Rapids|East Grand Rapids city
+26|24020|East Jordan|East Jordan city
+26|24060|Eastlake|Eastlake village
+26|24120|East Lansing|East Lansing city
+26|24290|Eastpointe|Eastpointe city
+26|24420|East Tawas|East Tawas city
+26|24540|Eaton Rapids|Eaton Rapids city
+26|24580|Eau Claire|Eau Claire village
+26|24740|Ecorse|Ecorse city
+26|25000|Edmore|Edmore village
+26|25040|Edwardsburg|Edwardsburg village
+26|25180|Elberta|Elberta village
+26|25320|Elk Rapids|Elk Rapids village
+26|25360|Elkton|Elkton village
+26|25420|Ellsworth|Ellsworth village
+26|25780|Elsie|Elsie village
+26|25940|Emmett|Emmett village
+26|25980|Empire|Empire village
+26|26360|Escanaba|Escanaba city
+26|26420|Essexville|Essexville city
+26|26460|Estral Beach|Estral Beach village
+26|26640|Evart|Evart city
+26|27080|Fairgrove|Fairgrove village
+26|27380|Farmington|Farmington city
+26|27440|Farmington Hills|Farmington Hills city
+26|27500|Farwell|Farwell village
+26|27740|Fennville|Fennville city
+26|27760|Fenton|Fenton city
+26|27880|Ferndale|Ferndale city
+26|27960|Ferrysburg|Ferrysburg city
+26|28000|Fife Lake|Fife Lake village
+26|28360|Flat Rock|Flat Rock city
+26|29000|Flint|Flint city
+26|29200|Flushing|Flushing city
+26|29660|Forestville|Forestville village
+26|29940|Fountain|Fountain village
+26|30040|Fowler|Fowler village
+26|30060|Fowlerville|Fowlerville village
+26|30200|Frankenmuth|Frankenmuth city
+26|30260|Frankfort|Frankfort city
+26|30340|Franklin|Franklin village
+26|30420|Fraser|Fraser city
+26|30580|Freeport|Freeport village
+26|30600|Free Soil|Free Soil village
+26|30700|Fremont|Fremont city
+26|31000|Fruitport|Fruitport village
+26|31160|Gaastra|Gaastra city
+26|31180|Gagetown|Gagetown village
+26|31200|Gaines|Gaines village
+26|31260|Galesburg|Galesburg city
+26|31300|Galien|Galien village
+26|31380|Garden|Garden village
+26|31420|Garden City|Garden City city
+26|31720|Gaylord|Gaylord city
+26|32020|Gibraltar|Gibraltar city
+26|32300|Gladstone|Gladstone city
+26|32320|Gladwin|Gladwin city
+26|32640|Gobles|Gobles city
+26|32980|Goodrich|Goodrich village
+26|33260|Grand Beach|Grand Beach village
+26|33280|Grand Blanc|Grand Blanc city
+26|33340|Grand Haven|Grand Haven city
+26|33420|Grand Ledge|Grand Ledge city
+26|34000|Grand Rapids|Grand Rapids city
+26|34160|Grandville|Grandville city
+26|34360|Grant|Grant city
+26|34480|Grass Lake|Grass Lake village
+26|34640|Grayling|Grayling city
+26|35100|Greenville|Greenville city
+26|35480|Grosse Pointe|Grosse Pointe city
+26|35520|Grosse Pointe Farms|Grosse Pointe Farms city
+26|35540|Grosse Pointe Park|Grosse Pointe Park city
+26|35580|Grosse Pointe Woods|Grosse Pointe Woods city
+26|36280|Hamtramck|Hamtramck city
+26|36300|Hancock|Hancock city
+26|36380|Hanover|Hanover village
+26|36460|Harbor Beach|Harbor Beach city
+26|36560|Harbor Springs|Harbor Springs city
+26|36700|Harper Woods|Harper Woods city
+26|36720|Harrietta|Harrietta village
+26|36800|Harrison|Harrison city
+26|36860|Harrisville|Harrisville city
+26|36920|Hart|Hart city
+26|36960|Hartford|Hartford city
+26|37120|Hastings|Hastings city
+26|37420|Hazel Park|Hazel Park city
+26|37820|Hersey|Hersey village
+26|37860|Hesperia|Hesperia village
+26|38180|Highland Park|Highland Park city
+26|38380|Hillman|Hillman village
+26|38460|Hillsdale|Hillsdale city
+26|38640|Holland|Holland city
+26|38700|Holly|Holly village
+26|38920|Homer|Homer village
+26|39080|Honor|Honor village
+26|39180|Hopkins|Hopkins village
+26|39360|Houghton|Houghton city
+26|39500|Howard City|Howard City village
+26|39540|Howell|Howell city
+26|39660|Hubbardston|Hubbardston village
+26|39720|Hudson|Hudson city
+26|39800|Hudsonville|Hudsonville city
+26|40000|Huntington Woods|Huntington Woods city
+26|40320|Imlay City|Imlay City city
+26|40680|Inkster|Inkster city
+26|40860|Ionia|Ionia city
+26|40960|Iron Mountain|Iron Mountain city
+26|40980|Iron River|Iron River city
+26|41060|Ironwood|Ironwood city
+26|41220|Ishpeming|Ishpeming city
+26|41340|Ithaca|Ithaca city
+26|41420|Jackson|Jackson city
+26|41920|Jonesville|Jonesville village
+26|42160|Kalamazoo|Kalamazoo city
+26|42240|Kaleva|Kaleva village
+26|42260|Kalkaska|Kalkaska village
+26|42460|Keego Harbor|Keego Harbor city
+26|42780|Kent City|Kent City village
+26|42820|Kentwood|Kentwood city
+26|43220|Kinde|Kinde village
+26|43300|Kingsford|Kingsford city
+26|43340|Kingsley|Kingsley village
+26|43380|Kingston|Kingston village
+26|44200|Laingsburg|Laingsburg city
+26|44440|Lake Angelus|Lake Angelus city
+26|44460|Lake Ann|Lake Ann village
+26|44480|Lake City|Lake City city
+26|44715|Lake Isabella|Lake Isabella village
+26|44780|Lake Linden|Lake Linden village
+26|44880|Lake Odessa|Lake Odessa village
+26|44940|Lake Orion|Lake Orion village
+26|45240|Lakeview|Lakeview village
+26|45340|Lakewood Club|Lakewood Club village
+26|45540|L'Anse|L'Anse village
+26|46000|Lansing|Lansing city
+26|46040|Lapeer|Lapeer city
+26|46320|Lathrup Village|Lathrup Village city
+26|46360|Laurium|Laurium village
+26|46440|Lawrence|Lawrence village
+26|46500|Lawton|Lawton village
+26|46880|Lennon|Lennon village
+26|46940|Leonard|Leonard village
+26|47100|Le Roy|Le Roy village
+26|47180|Leslie|Leslie city
+26|47280|Lexington|Lexington village
+26|47560|Lincoln|Lincoln village
+26|47800|Lincoln Park|Lincoln Park city
+26|47820|Linden|Linden city
+26|47980|Litchfield|Litchfield city
+26|49000|Livonia|Livonia city
+26|49540|Lowell|Lowell city
+26|49640|Ludington|Ludington city
+26|49700|Luna Pier|Luna Pier city
+26|49740|Luther|Luther village
+26|49900|Lyons|Lyons village
+26|49980|McBain|McBain city
+26|50000|McBride|McBride village
+26|50280|Mackinac Island|Mackinac Island city
+26|50320|Mackinaw City|Mackinaw City village
+26|50560|Madison Heights|Madison Heights city
+26|50620|Mancelona|Mancelona village
+26|50660|Manchester|Manchester village
+26|50720|Manistee|Manistee city
+26|50760|Manistique|Manistique city
+26|50880|Manton|Manton city
+26|51200|Maple Rapids|Maple Rapids village
+26|51460|Marcellus|Marcellus village
+26|51600|Marine City|Marine City city
+26|51660|Marion|Marion village
+26|51820|Marlette|Marlette city
+26|51900|Marquette|Marquette city
+26|51940|Marshall|Marshall city
+26|51980|Martin|Martin village
+26|52080|Marysville|Marysville city
+26|52180|Mason|Mason city
+26|52380|Mattawan|Mattawan village
+26|52440|Maybee|Maybee village
+26|52540|Mayville|Mayville village
+26|52760|Mecosta|Mecosta village
+26|52920|Melvin|Melvin village
+26|52940|Melvindale|Melvindale city
+26|52960|Memphis|Memphis city
+26|52980|Mendon|Mendon village
+26|53020|Menominee|Menominee city
+26|53180|Merrill|Merrill village
+26|53320|Mesick|Mesick village
+26|53340|Metamora|Metamora village
+26|53500|Michiana|Michiana village
+26|53760|Middleville|Middleville village
+26|53780|Midland|Midland city
+26|53920|Milan|Milan city
+26|53960|Milford|Milford village
+26|54120|Millersburg|Millersburg village
+26|54220|Millington|Millington village
+26|54560|Minden City|Minden City village
+26|55020|Monroe|Monroe city
+26|55100|Montague|Montague city
+26|55220|Montgomery|Montgomery village
+26|55280|Montrose|Montrose city
+26|55500|Morenci|Morenci city
+26|55540|Morley|Morley village
+26|55560|Morrice|Morrice village
+26|55820|Mount Clemens|Mount Clemens city
+26|55960|Mount Morris|Mount Morris city
+26|56020|Mount Pleasant|Mount Pleasant city
+26|56080|Muir|Muir village
+26|56140|Mulliken|Mulliken village
+26|56200|Munising|Munising city
+26|56320|Muskegon|Muskegon city
+26|56360|Muskegon Heights|Muskegon Heights city
+26|56680|Nashville|Nashville village
+26|56860|Negaunee|Negaunee city
+26|57080|Newaygo|Newaygo city
+26|57100|New Baltimore|New Baltimore city
+26|57140|Newberry|Newberry village
+26|57220|New Buffalo|New Buffalo city
+26|57280|New Era|New Era village
+26|57380|New Haven|New Haven village
+26|57520|New Lothrop|New Lothrop village
+26|57760|Niles|Niles city
+26|57920|North Adams|North Adams village
+26|58080|North Branch|North Branch village
+26|58640|North Muskegon|North Muskegon city
+26|58740|Northport|Northport village
+26|58980|Northville|Northville city
+26|59140|Norton Shores|Norton Shores city
+26|59220|Norway|Norway city
+26|59440|Novi|Novi city
+26|59860|Oakley|Oakley village
+26|59920|Oak Park|Oak Park city
+26|60580|Olivet|Olivet city
+26|60660|Omer|Omer city
+26|60680|Onaway|Onaway city
+26|60740|Onekama|Onekama village
+26|60840|Onsted|Onsted village
+26|60860|Ontonagon|Ontonagon village
+26|61020|Orchard Lake Village|Orchard Lake Village city
+26|61220|Ortonville|Ortonville village
+26|61600|Otisville|Otisville village
+26|61620|Otsego|Otsego city
+26|61760|Otter Lake|Otter Lake village
+26|61860|Ovid|Ovid village
+26|61920|Owendale|Owendale village
+26|61940|Owosso|Owosso city
+26|62020|Oxford|Oxford village
+26|62340|Parchment|Parchment city
+26|62740|Parma|Parma village
+26|62980|Paw Paw|Paw Paw village
+26|63260|Peck|Peck village
+26|63300|Pellston|Pellston village
+26|63540|Pentwater|Pentwater village
+26|63660|Perrinton|Perrinton village
+26|63700|Perry|Perry city
+26|63800|Petersburg|Petersburg city
+26|63820|Petoskey|Petoskey city
+26|63900|Pewamo|Pewamo village
+26|64020|Pierson|Pierson village
+26|64060|Pigeon|Pigeon village
+26|64140|Pinckney|Pinckney village
+26|64160|Pinconning|Pinconning city
+26|64740|Plainwell|Plainwell city
+26|64900|Pleasant Ridge|Pleasant Ridge city
+26|65060|Plymouth|Plymouth city
+26|65440|Pontiac|Pontiac city
+26|65560|Portage|Portage city
+26|65680|Port Austin|Port Austin village
+26|65800|Port Hope|Port Hope village
+26|65820|Port Huron|Port Huron city
+26|65860|Portland|Portland city
+26|65900|Port Sanilac|Port Sanilac village
+26|66000|Posen|Posen village
+26|66100|Potterville|Potterville city
+26|66140|Powers|Powers village
+26|66300|Prescott|Prescott village
+26|66640|Quincy|Quincy village
+26|67280|Ravenna|Ravenna village
+26|67500|Reading|Reading city
+26|67820|Reed City|Reed City city
+26|67900|Reese|Reese village
+26|68240|Richland|Richland village
+26|68380|Richmond|Richmond city
+26|68760|River Rouge|River Rouge city
+26|68880|Riverview|Riverview city
+26|69020|Rochester|Rochester city
+26|69035|Rochester Hills|Rochester Hills city
+26|69080|Rockford|Rockford city
+26|69180|Rockwood|Rockwood city
+26|69260|Rogers City|Rogers City city
+26|69400|Romeo|Romeo village
+26|69420|Romulus|Romulus city
+26|69520|Roosevelt Park|Roosevelt Park city
+26|69540|Roscommon|Roscommon village
+26|69640|Rosebush|Rosebush village
+26|69680|Rose City|Rose City city
+26|69800|Roseville|Roseville city
+26|69880|Rothbury|Rothbury village
+26|70040|Royal Oak|Royal Oak city
+26|70520|Saginaw|Saginaw city
+26|70640|St. Charles|St. Charles village
+26|70680|St. Clair|St. Clair city
+26|70760|St. Clair Shores|St. Clair Shores city
+26|70840|St. Ignace|St. Ignace city
+26|70940|St. Johns|St. Johns city
+26|70960|St. Joseph|St. Joseph city
+26|71000|St. Louis|St. Louis city
+26|71140|Saline|Saline city
+26|71360|Sand Lake|Sand Lake village
+26|71540|Sandusky|Sandusky city
+26|71560|Sanford|Sanford village
+26|71660|Saranac|Saranac village
+26|71700|Saugatuck|Saugatuck city
+26|71740|Sault Ste. Marie|Sault Ste. Marie city
+26|71860|Schoolcraft|Schoolcraft village
+26|72080|Scottville|Scottville city
+26|72180|Sebewaing|Sebewaing village
+26|72840|Shelby|Shelby village
+26|72960|Shepherd|Shepherd village
+26|73100|Sheridan|Sheridan village
+26|73420|Sherwood|Sherwood village
+26|73660|Shoreham|Shoreham village
+26|74900|Southfield|Southfield city
+26|74960|Southgate|Southgate city
+26|74980|South Haven|South Haven city
+26|75100|South Lyon|South Lyon city
+26|75220|South Range|South Range village
+26|75280|South Rockwood|South Rockwood village
+26|75420|Sparta|Sparta village
+26|75700|Springfield|Springfield city
+26|75820|Spring Lake|Spring Lake village
+26|75860|Springport|Springport village
+26|76120|Standish|Standish city
+26|76220|Stanton|Stanton city
+26|76240|Stanwood|Stanwood village
+26|76380|Stephenson|Stephenson city
+26|76420|Sterling|Sterling village
+26|76460|Sterling Heights|Sterling Heights city
+26|76500|Stevensville|Stevensville village
+26|76560|Stockbridge|Stockbridge village
+26|76960|Sturgis|Sturgis city
+26|77420|Sunfield|Sunfield village
+26|77600|Suttons Bay|Suttons Bay village
+26|77700|Swartz Creek|Swartz Creek city
+26|77860|Sylvan Lake|Sylvan Lake city
+26|78140|Tawas City|Tawas City city
+26|79000|Taylor|Taylor city
+26|79120|Tecumseh|Tecumseh city
+26|79160|Tekonsha|Tekonsha village
+26|79600|Thompsonville|Thompsonville village
+26|79720|Three Oaks|Three Oaks village
+26|79760|Three Rivers|Three Rivers city
+26|80340|Traverse City|Traverse City city
+26|80420|Trenton|Trenton city
+26|80700|Troy|Troy city
+26|80820|Turner|Turner village
+26|80960|Tustin|Tustin village
+26|81020|Twining|Twining village
+26|81200|Ubly|Ubly village
+26|81360|Union City|Union City village
+26|81420|Unionville|Unionville village
+26|81540|Utica|Utica city
+26|81680|Vandalia|Vandalia village
+26|81700|Vanderbilt|Vanderbilt village
+26|81840|Vassar|Vassar city
+26|81960|Vermontville|Vermontville village
+26|82020|Vernon|Vernon village
+26|82300|Vicksburg|Vicksburg village
+26|82450|Village of Clarkston|Village of Clarkston city
+26|82453|Village of Grosse Pointe Shores|Village of Grosse Pointe Shores city
+26|82780|Wakefield|Wakefield city
+26|82880|Waldron|Waldron village
+26|82960|Walker|Walker city
+26|83020|Walkerville|Walkerville village
+26|83060|Walled Lake|Walled Lake city
+26|84000|Warren|Warren city
+26|84500|Watervliet|Watervliet city
+26|84880|Wayland|Wayland city
+26|84940|Wayne|Wayne city
+26|85080|Webberville|Webberville village
+26|85580|West Branch|West Branch city
+26|86000|Westland|Westland city
+26|86120|Westphalia|Westphalia village
+26|86680|White Cloud|White Cloud city
+26|86780|Whitehall|Whitehall city
+26|86920|White Pigeon|White Pigeon village
+26|87140|Whittemore|Whittemore city
+26|87420|Williamston|Williamston city
+26|88140|Wixom|Wixom city
+26|88240|Wolverine|Wolverine village
+26|88260|Wolverine Lake|Wolverine Lake village
+26|88380|Woodhaven|Woodhaven city
+26|88420|Woodland|Woodland village
+26|88900|Wyandotte|Wyandotte city
+26|88940|Wyoming|Wyoming city
+26|89000|Yale|Yale city
+26|89140|Ypsilanti|Ypsilanti city
+26|89260|Zeeland|Zeeland city
+26|89320|Zilwaukee|Zilwaukee city

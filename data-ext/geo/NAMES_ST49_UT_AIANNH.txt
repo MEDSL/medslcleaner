@@ -1,0 +1,8 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+49|1340|Goshute|Goshute Reservation
+49|2430|Navajo Nation|Navajo Nation Reservation and Off-Reservation Trust Land
+49|2505|Northwestern Shoshone|Northwestern Shoshone Reservation
+49|2625|Paiute (UT)|Paiute (UT) Reservation
+49|3840|Skull Valley|Skull Valley Reservation
+49|4390|Uintah and Ouray|Uintah and Ouray Reservation and Off-Reservation Trust Land
+49|4470|Ute Mountain|Ute Mountain Reservation and Off-Reservation Trust Land

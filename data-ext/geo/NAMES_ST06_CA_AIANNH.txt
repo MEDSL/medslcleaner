@@ -1,0 +1,109 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+06|0020|Agua Caliente|Agua Caliente Indian Reservation and Off-Reservation Trust Land
+06|0095|Alturas|Alturas Indian Rancheria
+06|0120|Auburn|Auburn Rancheria and Off-Reservation Trust Land
+06|0125|Augustine|Augustine Reservation
+06|0155|Barona|Barona Reservation
+06|0185|Benton Paiute|Benton Paiute Reservation and Off-Reservation Trust Land
+06|0200|Berry Creek|Berry Creek Rancheria and Off-Reservation Trust Land
+06|0215|Big Bend|Big Bend Rancheria
+06|0240|Big Lagoon|Big Lagoon Rancheria
+06|0250|Big Pine|Big Pine Reservation
+06|0265|Big Sandy|Big Sandy Rancheria
+06|0275|Big Valley|Big Valley Rancheria
+06|0290|Bishop|Bishop Reservation
+06|0325|Blue Lake|Blue Lake Rancheria and Off-Reservation Trust Land
+06|0350|Bridgeport|Bridgeport Reservation
+06|0415|Cabazon|Cabazon Reservation
+06|0435|Cahuilla|Cahuilla Reservation
+06|0450|Campo|Campo Indian Reservation
+06|0495|Capitan Grande|Capitan Grande Reservation
+06|0555|Cedarville|Cedarville Rancheria and Off-Reservation Trust Land
+06|0585|Chemehuevi|Chemehuevi Reservation
+06|0620|Chicken Ranch|Chicken Ranch Rancheria and Off-Reservation Trust Land
+06|0720|Cold Springs|Cold Springs Rancheria
+06|0735|Colorado River|Colorado River Indian Reservation
+06|0750|Colusa|Colusa Rancheria
+06|0780|Cortina|Cortina Indian Rancheria
+06|0825|Coyote Valley|Coyote Valley Reservation
+06|0955|Dry Creek|Dry Creek Rancheria
+06|1010|Elk Valley|Elk Valley Rancheria and Off-Reservation Trust Land
+06|1055|Enterprise|Enterprise Rancheria
+06|1065|Ewiiaapaayp|Ewiiaapaayp Reservation
+06|1170|Fort Bidwell|Fort Bidwell Reservation and Off-Reservation Trust Land
+06|1195|Fort Independence|Fort Independence Reservation
+06|1235|Fort Mojave|Fort Mojave Reservation and Off-Reservation Trust Land
+06|1280|Fort Yuma|Fort Yuma Indian Reservation
+06|1380|Greenville|Greenville Rancheria
+06|1395|Grindstone|Grindstone Indian Rancheria
+06|1400|Guidiville|Guidiville Rancheria and Off-Reservation Trust Land
+06|1490|Hoopa Valley|Hoopa Valley Reservation
+06|1515|Hopland|Hopland Rancheria and Off-Reservation Trust Land
+06|1560|Inaja and Cosmit|Inaja and Cosmit Reservation
+06|1640|Jackson|Jackson Rancheria
+06|1670|Jamul|Jamul Indian Village
+06|1750|Karuk|Karuk Reservation and Off-Reservation Trust Land
+06|1850|La Jolla|La Jolla Reservation
+06|1895|La Posta|La Posta Indian Reservation
+06|1925|Laytonville|Laytonville Rancheria
+06|1955|Likely|Likely Rancheria
+06|1970|Lone Pine|Lone Pine Reservation
+06|1980|Lookout|Lookout Rancheria
+06|1995|Los Coyotes|Los Coyotes Reservation
+06|2075|Lytton|Lytton Rancheria
+06|2100|Manchester-Point Arena|Manchester-Point Arena Rancheria
+06|2115|Manzanita|Manzanita Reservation and Off-Reservation Trust Land
+06|2190|Mesa Grande|Mesa Grande Reservation
+06|2255|Middletown|Middletown Rancheria
+06|2330|Montgomery Creek|Montgomery Creek Rancheria
+06|2340|Mooretown|Mooretown Rancheria and Off-Reservation Trust Land
+06|2360|Morongo|Morongo Reservation and Off-Reservation Trust Land
+06|2495|North Fork|North Fork Rancheria and Off-Reservation Trust Land
+06|2635|Pala|Pala Reservation
+06|2685|Paskenta|Paskenta Rancheria
+06|2715|Pauma and Yuima|Pauma and Yuima Reservation
+06|2745|Pechanga|Pechanga Reservation
+06|2775|Picayune|Picayune Rancheria and Off-Reservation Trust Land
+06|2820|Pinoleville|Pinoleville Rancheria
+06|2835|Pit River|Pit River Trust Land
+06|3020|Quartz Valley|Quartz Valley Reservation and Off-Reservation Trust Land
+06|3070|Ramona|Ramona Village
+06|3095|Redding|Redding Rancheria
+06|3115|Redwood Valley|Redwood Valley Rancheria
+06|3145|Resighini|Resighini Rancheria
+06|3165|Rincon|Rincon Reservation
+06|3185|Roaring Creek|Roaring Creek Rancheria
+06|3195|Robinson|Robinson Rancheria and Off-Reservation Trust Land
+06|3220|Rohnerville|Rohnerville Rancheria
+06|3250|Round Valley|Round Valley Reservation and Off-Reservation Trust Land
+06|3265|Rumsey|Rumsey Indian Rancheria
+06|3445|San Manuel|San Manuel Reservation
+06|3460|San Pasqual|San Pasqual Reservation
+06|3520|Santa Rosa|Santa Rosa Rancheria
+06|3525|Santa Rosa|Santa Rosa Reservation
+06|3540|Santa Ynez|Santa Ynez Reservation
+06|3550|Santa Ysabel|Santa Ysabel Reservation
+06|3735|Sherwood Valley|Sherwood Valley Rancheria and Off-Reservation Trust Land
+06|3750|Shingle Springs|Shingle Springs Rancheria
+06|3855|Smith River|Smith River Rancheria and Off-Reservation Trust Land
+06|3870|Soboba|Soboba Reservation and Off-Reservation Trust Land
+06|3985|Stewarts Point|Stewarts Point Rancheria
+06|4030|Sulphur Bank|Sulphur Bank Rancheria
+06|4060|Susanville|Susanville Indian Rancheria and Off-Reservation Trust Land
+06|4090|Sycuan|Sycuan Reservation
+06|4095|Table Bluff|Table Bluff Reservation
+06|4110|Table Mountain|Table Mountain Rancheria
+06|4180|Timbi-Sha Shoshone|Timbi-Sha Shoshone Reservation and Off-Reservation Trust Land
+06|4255|Torres-Martinez|Torres-Martinez Reservation
+06|4275|Trinidad|Trinidad Rancheria and Off-Reservation Trust Land
+06|4300|Tule River|Tule River Reservation and Off-Reservation Trust Land
+06|4330|Tuolumne|Tuolumne Rancheria
+06|4375|Twenty-Nine Palms|Twenty-Nine Palms Reservation
+06|4430|Upper Lake|Upper Lake Rancheria
+06|4500|Viejas|Viejas Reservation
+06|4560|Washoe Ranches|Washoe Ranches Trust Land
+06|4665|Woodfords|Woodfords Community
+06|4680|XL Ranch|XL Ranch Rancheria
+06|4760|Yurok|Yurok Reservation
+06|8300|Ione Band of Miwok|Ione Band of Miwok TDSA
+06|8450|Mechoopda|Mechoopda TDSA

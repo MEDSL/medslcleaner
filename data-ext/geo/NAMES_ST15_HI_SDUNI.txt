@@ -1,0 +1,2 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+15|00030|Hawaii Department of Education|Hawaii Department of Education

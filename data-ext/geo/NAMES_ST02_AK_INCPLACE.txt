@@ -1,0 +1,149 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+02|00065|Adak|Adak city
+02|00650|Akhiok|Akhiok city
+02|00870|Akiak|Akiak city
+02|01090|Akutan|Akutan city
+02|01200|Alakanuk|Alakanuk city
+02|01420|Aleknagik|Aleknagik city
+02|01860|Allakaket|Allakaket city
+02|01970|Ambler|Ambler city
+02|02080|Anaktuvuk Pass|Anaktuvuk Pass city
+02|03000|Anchorage|Anchorage municipality
+02|03220|Anderson|Anderson city
+02|03440|Angoon|Angoon city
+02|03550|Aniak|Aniak city
+02|03880|Anvik|Anvik city
+02|04210|Atka|Atka city
+02|04500|Atqasuk|Atqasuk city
+02|05200|Barrow|Barrow city
+02|06520|Bethel|Bethel city
+02|06630|Bettles|Bettles city
+02|08740|Brevig Mission|Brevig Mission city
+02|09600|Buckland|Buckland city
+02|12680|Chefornak|Chefornak city
+02|13230|Chevak|Chevak city
+02|13550|Chignik|Chignik city
+02|14330|Chuathbaluk|Chuathbaluk city
+02|15430|Clark's Point|Clark's Point city
+02|16360|Coffman Cove|Coffman Cove city
+02|16530|Cold Bay|Cold Bay city
+02|17410|Cordova|Cordova city
+02|17740|Craig|Craig city
+02|18510|Deering|Deering city
+02|18620|Delta Junction|Delta Junction city
+02|18950|Dillingham|Dillingham city
+02|19060|Diomede|Diomede city
+02|20380|Eagle|Eagle city
+02|21040|Eek|Eek city
+02|21150|Egegik|Egegik city
+02|21810|Ekwok|Ekwok city
+02|22250|Elim|Elim city
+02|22910|Emmonak|Emmonak city
+02|24230|Fairbanks|Fairbanks city
+02|24660|False Pass|False Pass city
+02|26760|Fort Yukon|Fort Yukon city
+02|27530|Galena|Galena city
+02|27640|Gambell|Gambell city
+02|29180|Golovin|Golovin city
+02|29290|Goodnews Bay|Goodnews Bay city
+02|30060|Grayling|Grayling city
+02|30940|Gustavus|Gustavus city
+02|33030|Holy Cross|Holy Cross city
+02|33140|Homer|Homer city
+02|33360|Hoonah|Hoonah city
+02|33470|Hooper Bay|Hooper Bay city
+02|33800|Houston|Houston city
+02|33910|Hughes|Hughes city
+02|34350|Huslia|Huslia city
+02|34460|Hydaburg|Hydaburg city
+02|36400|Juneau|Juneau city and borough
+02|36550|Kachemak|Kachemak city
+02|36770|Kake|Kake city
+02|36990|Kaktovik|Kaktovik city
+02|37430|Kaltag|Kaltag city
+02|37650|Kasaan|Kasaan city
+02|38420|Kenai|Kenai city
+02|38970|Ketchikan|Ketchikan city
+02|39300|Kiana|Kiana city
+02|39410|King Cove|King Cove city
+02|39960|Kivalina|Kivalina city
+02|40400|Klawock|Klawock city
+02|40840|Kobuk|Kobuk city
+02|40950|Kodiak|Kodiak city
+02|41720|Kotlik|Kotlik city
+02|41830|Kotzebue|Kotzebue city
+02|41940|Koyuk|Koyuk city
+02|42050|Koyukuk|Koyukuk city
+02|42160|Kupreanof|Kupreanof city
+02|42380|Kwethluk|Kwethluk city
+02|43040|Larsen Bay|Larsen Bay city
+02|45460|Lower Kalskag|Lower Kalskag city
+02|46010|McGrath|McGrath city
+02|46890|Manokotak|Manokotak city
+02|47000|Marshall|Marshall city
+02|47990|Mekoryuk|Mekoryuk city
+02|51180|Mountain Village|Mountain Village city
+02|52390|Napakiak|Napakiak city
+02|52720|Napaskiak|Napaskiak city
+02|53050|Nenana|Nenana city
+02|53270|Newhalen|Newhalen city
+02|53710|New Stuyahok|New Stuyahok city
+02|53930|Nightmute|Nightmute city
+02|54150|Nikolai|Nikolai city
+02|54920|Nome|Nome city
+02|55030|Nondalton|Nondalton city
+02|55140|Noorvik|Noorvik city
+02|55910|North Pole|North Pole city
+02|56320|Nuiqsut|Nuiqsut city
+02|56350|Nulato|Nulato city
+02|56600|Nunam Iqua|Nunam Iqua city
+02|56680|Nunapitchuk|Nunapitchuk city
+02|57340|Old Harbor|Old Harbor city
+02|58550|Ouzinkie|Ouzinkie city
+02|58660|Palmer|Palmer city
+02|59650|Pelican|Pelican city
+02|60310|Petersburg|Petersburg city
+02|60640|Pilot Point|Pilot Point city
+02|60750|Pilot Station|Pilot Station city
+02|61080|Platinum|Platinum city
+02|61630|Point Hope|Point Hope city
+02|62510|Port Alexander|Port Alexander city
+02|63390|Port Heiden|Port Heiden city
+02|63610|Port Lions|Port Lions city
+02|64600|Quinhagak|Quinhagak city
+02|65590|Ruby|Ruby city
+02|65700|Russian Mission|Russian Mission city
+02|65800|St. George|St. George city
+02|66140|St. Mary's|St. Mary's city
+02|66360|St. Michael|St. Michael city
+02|66470|St. Paul|St. Paul city
+02|67020|Sand Point|Sand Point city
+02|67460|Savoonga|Savoonga city
+02|67570|Saxman|Saxman city
+02|67680|Scammon Bay|Scammon Bay city
+02|68230|Selawik|Selawik city
+02|68340|Seldovia|Seldovia city
+02|68560|Seward|Seward city
+02|68670|Shageluk|Shageluk city
+02|68890|Shaktoolik|Shaktoolik city
+02|69770|Shishmaref|Shishmaref city
+02|70100|Shungnak|Shungnak city
+02|70540|Sitka|Sitka city and borough
+02|71640|Soldotna|Soldotna city
+02|72960|Stebbins|Stebbins city
+02|75160|Tanana|Tanana city
+02|75930|Teller|Teller city
+02|76260|Tenakee Springs|Tenakee Springs city
+02|77140|Thorne Bay|Thorne Bay city
+02|77690|Togiak|Togiak city
+02|78240|Toksook Bay|Toksook Bay city
+02|80660|Unalakleet|Unalakleet city
+02|80770|Unalaska|Unalaska city
+02|81320|Upper Kalskag|Upper Kalskag city
+02|82200|Valdez|Valdez city
+02|82750|Wainwright|Wainwright city
+02|82860|Wales|Wales city
+02|83080|Wasilla|Wasilla city
+02|84070|White Mountain|White Mountain city
+02|84510|Whittier|Whittier city
+02|86380|Wrangell|Wrangell city and borough

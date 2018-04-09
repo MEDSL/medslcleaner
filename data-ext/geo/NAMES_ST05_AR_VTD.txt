@@ -1,0 +1,2785 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+05|001|01|Gum Pond|Gum Pond Voting District
+05|001|010|Lagrue|Lagrue Voting District
+05|001|011|Prairie|Prairie Voting District
+05|001|012|Brewer|Brewer Voting District
+05|001|013|Bayou Meto|Bayou Meto Voting District
+05|001|014|Stanley|Stanley Voting District
+05|001|015|Point Deluce|Point Deluce Voting District
+05|001|016|Arkansas|Arkansas Voting District
+05|001|017|Chester|Chester Voting District
+05|001|018|Dewitt Ward 1|Dewitt Ward 1
+05|001|02|McFall|McFall Voting District
+05|001|020|Dewitt Ward 2|Dewitt Ward 2
+05|001|021|Dewitt Ward 3|Dewitt Ward 3
+05|001|022|Stuttgart Ward 1|Stuttgart Ward 1
+05|001|026|Stuttgart Ward 2|Stuttgart Ward 2
+05|001|029|Stuttgart Ward 3|Stuttgart Ward 3
+05|001|03|Keaton|Keaton Voting District
+05|001|032|Humphrey Ward 1|Humphrey Ward 1
+05|001|033|Humphrey Ward 3|Humphrey Ward 3
+05|001|034|Gillett Ward 1|Gillett Ward 1
+05|001|035|Gillett Ward 2|Gillett Ward 2
+05|001|036|Gillett Ward 3|Gillett Ward 3
+05|001|037|Almyra City|Almyra City Voting District
+05|001|038|St. Charles City|St. Charles City Voting District
+05|001|04|Henton|Henton Voting District
+05|001|05|Morris|Morris Voting District
+05|001|06|Mill Bayou|Mill Bayou Voting District
+05|001|07|Crockett|Crockett Voting District
+05|001|08|Barton|Barton Voting District
+05|001|09|Garland|Garland Voting District
+05|003|01|Milo|Milo Voting District
+05|003|010|Parkdale City|Parkdale City Voting District
+05|003|011|Parkdale Rural|Parkdale Rural Voting District
+05|003|012|Wilmot City|Wilmot City Voting District
+05|003|013|Wilmot Rural|Wilmot Rural Voting District
+05|003|014|Mist|Mist Voting District
+05|003|015|Beech Creek|Beech Creek Voting District
+05|003|016|Mt Zion|Mt Zion Voting District
+05|003|017|Hamburg Ward 1|Hamburg Ward 1
+05|003|018|Hamburg Ward 2|Hamburg Ward 2
+05|003|019|Hamburg Ward 3|Hamburg Ward 3
+05|003|02|Fountain Hill City|Fountain Hill City Voting District
+05|003|020|Hamburg Rural|Hamburg Rural Voting District
+05|003|021|Cooter|Cooter Voting District
+05|003|022|Crossroads|Crossroads Voting District
+05|003|023|Crossett Rural West|Crossett Rural West Voting District
+05|003|024|Crossett Ward 1|Crossett Ward 1
+05|003|025|Crossett Ward 2|Crossett Ward 2
+05|003|026|Crossett Ward 3|Crossett Ward 3
+05|003|027|North Crossett East|North Crossett East Voting District
+05|003|028|North Crossett West|North Crossett West Voting District
+05|003|029|Votech|Votech Voting District
+05|003|03|Fountain Hill Rural|Fountain Hill Rural Voting District
+05|003|030|Hickory Grove|Hickory Grove Voting District
+05|003|04|Snyder Trafalgar|Snyder Trafalgar Voting District
+05|003|05|Boydell|Boydell Voting District
+05|003|06|Montrose City|Montrose City Voting District
+05|003|07|Montrose Rural|Montrose Rural Voting District
+05|003|08|Portland City|Portland City Voting District
+05|003|09|Portland Rural|Portland Rural Voting District
+05|005|01|2-3|Voting District 2-3
+05|005|010|4-2|Voting District 4-2
+05|005|011|7-1|Voting District 7-1
+05|005|012|4-1|Voting District 4-1
+05|005|015|6-1|Voting District 6-1
+05|005|016|6-2|Voting District 6-2
+05|005|017|8-1|Voting District 8-1
+05|005|018|3-4|Voting District 3-4
+05|005|019|9-2|Voting District 9-2
+05|005|02|1-2|Voting District 1-2
+05|005|020|11-1|Voting District 11-1
+05|005|021|10-1|Voting District 10-1
+05|005|022|8-4|Voting District 8-4
+05|005|023|8-3|Voting District 8-3
+05|005|024|9-5|Voting District 9-5
+05|005|025|11-2|Voting District 11-2
+05|005|026|11-4|Voting District 11-4
+05|005|027|11-5|Voting District 11-5
+05|005|028|11-6|Voting District 11-6
+05|005|03|1-3|Voting District 1-3
+05|005|031|8-2|Voting District 8-2
+05|005|032|11-3|Voting District 11-3
+05|005|034|9-6|Voting District 9-6
+05|005|035|5-1|Voting District 5-1
+05|005|037|10-2|Voting District 10-2
+05|005|038|10-4|Voting District 10-4
+05|005|039|11-7|Voting District 11-7
+05|005|04|2-1|Voting District 2-1
+05|005|040|5-2|Voting District 5-2
+05|005|041|103|Voting District 103
+05|005|042|11-9|Voting District 11-9
+05|005|043|11-8|Voting District 11-8
+05|005|044|9-1|Voting District 9-1
+05|005|045|9-3|Voting District 9-3
+05|005|046|9-4|Voting District 9-4
+05|005|047|7-2|Voting District 7-2
+05|005|05|2-2|Voting District 2-2
+05|005|06|3-1|Voting District 3-1
+05|005|07|3-2|Voting District 3-2
+05|005|08|3-3|Voting District 3-3
+05|005|09|1-1|Voting District 1-1
+05|007|001|001|Voting District 001
+05|007|002|002|Voting District 002
+05|007|003|003|Voting District 003
+05|007|004|004|Voting District 004
+05|007|005|005|Voting District 005
+05|007|006|006|Voting District 006
+05|007|007|007|Voting District 007
+05|007|008|008|Voting District 008
+05|007|009|009|Voting District 009
+05|007|010|010|Voting District 010
+05|007|011|011|Voting District 011
+05|007|012|012|Voting District 012
+05|007|013|013|Voting District 013
+05|007|014|014|Voting District 014
+05|007|015|015|Voting District 015
+05|007|016|016|Voting District 016
+05|007|017|017|Voting District 017
+05|007|018|018|Voting District 018
+05|007|019|019|Voting District 019
+05|007|020|020|Voting District 020
+05|007|021|021|Voting District 021
+05|007|022|022|Voting District 022
+05|007|023|023|Voting District 023
+05|007|024|024|Voting District 024
+05|007|025|025|Voting District 025
+05|007|026|026|Voting District 026
+05|007|027|027|Voting District 027
+05|007|028|028|Voting District 028
+05|007|029|029|Voting District 029
+05|007|030|030|Voting District 030
+05|007|031|031|Voting District 031
+05|007|032|032|Voting District 032
+05|007|033|033|Voting District 033
+05|007|034|034|Voting District 034
+05|007|035|035|Voting District 035
+05|007|036|036|Voting District 036
+05|007|037|037|Voting District 037
+05|007|038|038|Voting District 038
+05|007|039|039|Voting District 039
+05|007|040|040|Voting District 040
+05|007|041|041|Voting District 041
+05|007|042|042|Voting District 042
+05|007|043|043|Voting District 043
+05|007|044|044|Voting District 044
+05|007|045|045|Voting District 045
+05|007|046|046|Voting District 046
+05|007|047|047|Voting District 047
+05|007|048|048|Voting District 048
+05|007|049|049|Voting District 049
+05|007|050|050|Voting District 050
+05|007|052|052|Voting District 052
+05|007|053|053|Voting District 053
+05|007|054|054|Voting District 054
+05|007|055|055|Voting District 055
+05|007|056|056|Voting District 056
+05|007|057|057|Voting District 057
+05|007|058|058|Voting District 058
+05|007|059|059|Voting District 059
+05|007|060|060|Voting District 060
+05|007|062|062|Voting District 062
+05|007|063|063|Voting District 063
+05|007|064|064|Voting District 064
+05|007|065|065|Voting District 065
+05|007|066|066|Voting District 066
+05|007|067|067|Voting District 067
+05|007|068|068|Voting District 068
+05|007|069|069|Voting District 069
+05|007|070|070|Voting District 070
+05|007|071|071|Voting District 071
+05|007|072|072|Voting District 072
+05|007|073|073|Voting District 073
+05|007|074|074|Voting District 074
+05|007|075|075|Voting District 075
+05|007|076|076|Voting District 076
+05|007|077|077|Voting District 077
+05|007|078|078|Voting District 078
+05|007|079|079|Voting District 079
+05|007|080|080|Voting District 080
+05|007|081|081|Voting District 081
+05|007|082|082|Voting District 082
+05|007|083|083|Voting District 083
+05|007|084|084|Voting District 084
+05|007|085|085|Voting District 085
+05|009|001|Omaha Township|Omaha Township Voting District
+05|009|002|Sugar Loaf|Sugar Loaf Voting District
+05|009|003|Long Creek|Long Creek Voting District
+05|009|004|Lee|Lee Voting District
+05|009|005|Elixer|Elixer Voting District
+05|009|006|Carrollton|Carrollton Voting District
+05|009|007|Jackson|Jackson Voting District
+05|009|008|Batavia|Batavia Voting District
+05|009|009|North Harrison|North Harrison Voting District
+05|009|010|South Harrison|South Harrison Voting District
+05|009|011|Harrison Ward 1|Harrison Ward 1
+05|009|012|Harrison Ward 2|Harrison Ward 2
+05|009|013|Harrison Ward 3|Harrison Ward 3
+05|009|014|Harrison Ward 4|Harrison Ward 4
+05|009|015|Zinc|Zinc Voting District
+05|009|016|Blythe|Blythe Voting District
+05|009|017|Summit|Summit Voting District
+05|009|018|Bryan|Bryan Voting District
+05|009|019|Gaither|Gaither Voting District
+05|009|020|Bellefonte|Bellefonte Voting District
+05|009|021|Olevy|Olevy Voting District
+05|009|022|Ewing|Ewing Voting District
+05|009|023|Jefferson|Jefferson Voting District
+05|009|024|Prairie|Prairie Voting District
+05|011|0004|Warren Ward 2|Warren Ward 2
+05|011|001|Banks|Banks Voting District
+05|011|002|North Pennington|North Pennington Voting District
+05|011|003|Warren Ward 3|Warren Ward 3
+05|011|005|Warren Ward 1|Warren Ward 1
+05|011|006|South Pennington|South Pennington Voting District
+05|011|007|Springhill|Springhill Voting District
+05|011|008|Jersey|Jersey Voting District
+05|011|009|Eagle Lake|Eagle Lake Voting District
+05|011|010|Johnsville|Johnsville Voting District
+05|011|011|Marion|Marion Voting District
+05|011|012|Hermitage|Hermitage Voting District
+05|013|01|Voting District 1|Voting District 1
+05|013|011|Voting District 3C|Voting District 3C
+05|013|012|Voting District 7W|Voting District 7W
+05|013|02|Voting District 2|Voting District 2
+05|013|03|Voting District 3|Voting District 3
+05|013|04|Voting District 4|Voting District 4
+05|013|05|Voting District 5|Voting District 5
+05|013|06|Voting District 6|Voting District 6
+05|013|07|Voting District 7|Voting District 7
+05|013|08|Voting District 8|Voting District 8
+05|013|09|Voting District 9|Voting District 9
+05|015|01|Beaver|Beaver Voting District
+05|015|010|NW & SW Prairie|NW & SW Prairie Voting District
+05|015|011|Prairie NE|Prairie NE Voting District
+05|015|012|Prairie SE|Prairie SE Voting District
+05|015|014|Hickory NW|Hickory NW Voting District
+05|015|015|Hickory NE|Hickory NE Voting District
+05|015|016|SE & SW Hickory|SE & SW Hickory Voting District
+05|015|018|Coin|Coin Voting District
+05|015|019|Cabanal|Cabanal Voting District
+05|015|02|Kings River|Kings River Voting District
+05|015|020|Liberty|Liberty Voting District
+05|015|021|Carrollton|Carrollton Voting District
+05|015|022|Omega|Omega Voting District
+05|015|023|Piney|Piney Voting District
+05|015|024|Dryfork|Dryfork Voting District
+05|015|025|Osage|Osage Voting District
+05|015|026|Eureka Springs Ward 1|Eureka Springs Ward 1
+05|015|027|Eureka Springs Ward 2|Eureka Springs Ward 2
+05|015|028|Eureka Springs Ward 3|Eureka Springs Ward 3
+05|015|029|Holiday|Holiday Voting District
+05|015|03|Polo|Polo Voting District
+05|015|030|Berryville Ward 1|Berryville Ward 1
+05|015|031|Berryville Ward 2|Berryville Ward 2
+05|015|032|Green Forest Ward 1|Green Forest Ward 1
+05|015|033|Green Forest Ward 2|Green Forest Ward 2
+05|015|04|North Yocum|North Yocum Voting District
+05|015|05|South Yocum|South Yocum Voting District
+05|015|06|Long Creek|Long Creek Voting District
+05|015|07|Johnson Springs|Johnson Springs Voting District
+05|015|08|Packard Springs|Packard Springs Voting District
+05|015|09|Winona|Winona Voting District
+05|017|01|Lake Village Ward 1|Lake Village Ward 1
+05|017|010|Planters Rural|Planters Rural Voting District
+05|017|011|Planters Rural District 1|Planters Rural District 1
+05|017|012|Dermott Ward 1|Dermott Ward 1
+05|017|013|Dermott Ward 2|Dermott Ward 2
+05|017|014|Dermott Ward 3|Dermott Ward 3
+05|017|015|Bowie Rural|Bowie Rural Voting District
+05|017|02|Lake Village Ward 2|Lake Village Ward 2
+05|017|03|Lake Village Ward 3|Lake Village Ward 3
+05|017|04|Carlton Rural|Carlton Rural Voting District
+05|017|05|Carlton Rural District 1|Carlton Rural District 1
+05|017|06|Planters Ward 1|Planters Ward 1
+05|017|07|Planters Ward 2|Planters Ward 2
+05|017|08|Planters Ward 3|Planters Ward 3
+05|017|09|Planters Ward 4|Planters Ward 4
+05|019|01|Amity General|Amity General Voting District
+05|019|010|Gum Springs Outside|Gum Springs Outside Voting District
+05|019|013|Curtis|Curtis Voting District
+05|019|015|Gurdon General|Gurdon General Voting District
+05|019|016|Gurdon Ward 1|Gurdon Ward 1
+05|019|017|Gurdon Ward 2|Gurdon Ward 2
+05|019|018|Gurdon Ward 3|Gurdon Ward 3
+05|019|02|Amity|Amity Voting District
+05|019|021|Arkadelphia JP 1|Arkadelphia JP 1
+05|019|022|Arkadelphia JP 2|Arkadelphia JP 2
+05|019|023|Arkadelphia JP 3|Arkadelphia JP 3
+05|019|024|Arkadelphia JP 4|Arkadelphia JP 4
+05|019|025|Arkadelphia JP 5|Arkadelphia JP 5
+05|019|026|South County|South County Voting District
+05|019|028|Gurdon Ward 4|Gurdon Ward 4
+05|019|029|Gurdon Ward 5|Gurdon Ward 5
+05|019|03|Alpine|Alpine Voting District
+05|019|030|Gurdon Ward 6|Gurdon Ward 6
+05|019|031|Caddo Valley Ward 2|Caddo Valley Ward 2
+05|019|032|Caddo Valley Ward 3|Caddo Valley Ward 3
+05|019|033|Caddo Valley Ward 1|Caddo Valley Ward 1
+05|019|04|Degray|Degray Voting District
+05|019|05|Caddo Valley Outside|Caddo Valley Outside Voting District
+05|019|06|West County|West County Voting District
+05|019|07|Hollywood|Hollywood Voting District
+05|019|08|Central|Central Voting District
+05|019|09|East County|East County Voting District
+05|021|01|Brown & Carpenter|Brown & Carpenter Voting District
+05|021|011|Bradshaw & Haywood|Bradshaw & Haywood Voting District
+05|021|013|Clark|Clark Voting District
+05|021|014|Cache & Wilson|Cache & Wilson Voting District
+05|021|016|Johnson|Johnson Voting District
+05|021|017|Knob|Knob Voting District
+05|021|021|Payne & Swain|Payne & Swain Voting District
+05|021|023|East Oak Bluff & Blue Cane|East Oak Bluff & Blue Cane Voting District
+05|021|024|West Oak Bluff|West Oak Bluff Voting District
+05|021|025|North St. Francis|North St. Francis Voting District
+05|021|026|South St. Francis|South St. Francis Voting District
+05|021|027|Cleveland & North Kilgore|Cleveland & North Kilgore Voting District
+05|021|028|Gleghorn & South Kilgore|Gleghorn & South Kilgore Voting District
+05|021|03|Bennett & Lemmons|Bennett & Lemmons Voting District
+05|021|04|Pollard|Pollard Voting District
+05|021|05|Chalk Bluff & Liddell|Chalk Bluff & Liddell Voting District
+05|021|07|Nelson|Nelson Voting District
+05|023|01|North Cadron|North Cadron Voting District
+05|023|010|Healing Springs|Healing Springs Voting District
+05|023|011|Heber Springs Ward 1|Heber Springs Ward 1
+05|023|012|Heber Springs Ward 2|Heber Springs Ward 2
+05|023|013|Heber Springs Ward 3|Heber Springs Ward 3
+05|023|014|Heber Springs Ward 4|Heber Springs Ward 4
+05|023|015|Heber Springs Out|Heber Springs Out Voting District
+05|023|016|McJester|McJester Voting District
+05|023|017|Morgan|Morgan Voting District
+05|023|018|Mountain|Mountain Voting District
+05|023|019|East Peter Creek|East Peter Creek Voting District
+05|023|02|South Cadron|South Cadron Voting District
+05|023|020|West Peter Creek|West Peter Creek Voting District
+05|023|021|Pickens|Pickens Voting District
+05|023|022|Pine|Pine Voting District
+05|023|023|Piney|Piney Voting District
+05|023|024|Poff|Poff Voting District
+05|023|025|Saline|Saline Voting District
+05|023|026|Sugar Camp|Sugar Camp Voting District
+05|023|027|Sugar Loaf|Sugar Loaf Voting District
+05|023|028|Valley|Valley Voting District
+05|023|029|Wilburn|Wilburn Voting District
+05|023|03|California|California Voting District
+05|023|04|Center Post|Center Post Voting District
+05|023|05|Clayton|Clayton Voting District
+05|023|06|Francis|Francis Voting District
+05|023|07|Grassey|Grassey Voting District
+05|023|08|Greers Ferry Giles|Greers Ferry Giles Voting District
+05|023|09|Giles|Giles Voting District
+05|025|01|Saline|Saline Voting District
+05|025|010|Kingsland|Kingsland Voting District
+05|025|011|Smith|Smith Voting District
+05|025|012|Rowell|Rowell Voting District
+05|025|013|Harper|Harper Voting District
+05|025|014|Redland|Redland Voting District
+05|025|015|Lee|Lee Voting District
+05|025|016|Hurricane|Hurricane Voting District
+05|025|017|Kingsland Ward 1|Kingsland Ward 1
+05|025|018|Kingsland Ward 2|Kingsland Ward 2
+05|025|019|Rison Ward A|Rison Ward A
+05|025|02|Whiteoak|Whiteoak Voting District
+05|025|020|Rison Ward B|Rison Ward B
+05|025|021|Rison Ward C|Rison Ward C
+05|025|03|Niven|Niven Voting District
+05|025|05|Bowman|Bowman Voting District
+05|025|06|Whiteville|Whiteville Voting District
+05|025|07|Hudgin|Hudgin Voting District
+05|025|08|Miller|Miller Voting District
+05|025|09|Rison|Rison Voting District
+05|027|01|Waldo TWP|Waldo TWP Voting District
+05|027|010|Magnolia North|Magnolia North Voting District
+05|027|011|Magnolia Ward 1|Magnolia Ward 1
+05|027|012|Magnolia Ward 2|Magnolia Ward 2
+05|027|013|Magnolia Ward 3|Magnolia Ward 3
+05|027|014|Magnolia Ward 4|Magnolia Ward 4
+05|027|015|McNeil TWP|McNeil TWP Voting District
+05|027|016|McNeil City|McNeil City Voting District
+05|027|018|Magnolia East|Magnolia East Voting District
+05|027|02|Waldo Ward 1|Waldo Ward 1
+05|027|020|Taylor TWP|Taylor TWP Voting District
+05|027|021|Taylor City|Taylor City Voting District
+05|027|023|Emerson TWP|Emerson TWP Voting District
+05|027|025|Emerson City|Emerson City Voting District
+05|027|03|Waldo Ward 2|Waldo Ward 2
+05|027|04|Waldo Ward 3|Waldo Ward 3
+05|027|06|Magnolia Northwest|Magnolia Northwest Voting District
+05|027|07|Magnolia Southwest|Magnolia Southwest Voting District
+05|027|08|Magnolia South|Magnolia South Voting District
+05|029|001|Austin Voting District|Austin Voting District
+05|029|002|Lick Mountain Voting District|Lick Mountain Voting District
+05|029|003|Catholic Point|Catholic Point Voting District
+05|029|004|Bird Voting District|Bird Voting District
+05|029|005|Nichols Voting District|Nichols Voting District
+05|029|006|McClaren Voting District|McClaren Voting District
+05|029|007|Union Voting District|Union Voting District
+05|029|008|Steele Voting District|Steele Voting District
+05|029|009|Washington East Voting District|Washington East Voting District
+05|029|010|St. Vincent Voting District|St. Vincent Voting District
+05|029|011|Gregory Voting District|Gregory Voting District
+05|029|012|Griffin Voting District|Griffin Voting District
+05|029|013|Old Hickory Voting District|Old Hickory Voting District
+05|029|014|Welbourne West Voting District|Welbourne West Voting District
+05|029|015|Welbourne East Voting District|Welbourne East Voting District
+05|029|016|Howard Rural|Howard Rural Voting District
+05|029|017|Menifee Rural|Menifee Rural Voting District
+05|029|018|Bentley Rural|Bentley Rural Voting District
+05|029|021|Marin Voting District|Marin Voting District
+05|029|022|Higgins Voting District|Higgins Voting District
+05|029|023|Cedar Falls Voting District|Cedar Falls Voting District
+05|029|024|Petit Jean Voting District|Petit Jean Voting District
+05|029|025|White Eagle Voting District|White Eagle Voting District
+05|029|026|Morrilton Ward 1|Morrilton Ward 1
+05|029|027|Morrilton Ward 2|Morrilton Ward 2
+05|029|028|Morrilton Ward 3|Morrilton Ward 3
+05|029|029|Morrilton Ward 4|Morrilton Ward 4
+05|029|030|Washington West Voting District|Washington West Voting District
+05|029|050|Plumerville Ward 3|Plumerville Ward 3
+05|029|051|Plumerville Ward 2|Plumerville Ward 2
+05|029|052|Plumerville Ward 1|Plumerville Ward 1
+05|029|053|Menifee City|Menifee City Voting District
+05|029|060|Bentley Ward 1|Bentley Ward 1
+05|029|061|Bentley Ward 2|Bentley Ward 2
+05|031|001|Big Creek|Big Creek Voting District
+05|031|002|Herndon|Herndon Voting District
+05|031|003|Powell|Powell Voting District
+05|031|004|Brookland|Brookland Voting District
+05|031|005|Lester|Lester Voting District
+05|031|006|Buffalo|Buffalo Voting District
+05|031|007|Promised Land|Promised Land Voting District
+05|031|008|Texas|Texas Voting District
+05|031|011|Lake|Lake Voting District
+05|031|012|Black Oak|Black Oak Voting District
+05|031|014|Little Texas|Little Texas Voting District
+05|031|015|Gilkerson|Gilkerson Voting District
+05|031|016|Greenfield|Greenfield Voting District
+05|031|017|Maumelle|Maumelle Voting District
+05|031|018|Taylor|Taylor Voting District
+05|031|019|Jonesboro PCT 1|Jonesboro PCT 1
+05|031|020|Jonesboro PCT 2|Jonesboro PCT 2
+05|031|021|Jonesboro PCT 3|Jonesboro PCT 3
+05|031|022|Jonesboro PCT 4|Jonesboro PCT 4
+05|031|023|Jonesboro PCT 5|Jonesboro PCT 5
+05|031|024|Jonesboro PCT 6|Jonesboro PCT 6
+05|031|025|Jonesboro PCT 7 North|Jonesboro PCT 7 North
+05|031|026|Jonesboro PCT 7 South|Jonesboro PCT 7 South
+05|031|027|Jonesboro PCT 8|Jonesboro PCT 8
+05|031|028|Jonesboro PCT 9|Jonesboro PCT 9
+05|033|01|Lee Creek|Lee Creek Voting District
+05|033|010|Cedarville|Cedarville Voting District
+05|033|011|Cedar Creek|Cedar Creek Voting District
+05|033|013|Lancaster|Lancaster Voting District
+05|033|014|Whitley|Whitley Voting District
+05|033|015|Jasper|Jasper Voting District
+05|033|016|Oliver Springs|Oliver Springs Voting District
+05|033|017|Rudy|Rudy Voting District
+05|033|018|Dean Springs|Dean Springs Voting District
+05|033|019|Dora|Dora Voting District
+05|033|02|Cove City|Cove City Voting District
+05|033|020|Dyer|Dyer Voting District
+05|033|022|Alma 2|Alma 2 Voting District
+05|033|023|Alma 3|Alma 3
+05|033|024|Vine Prairie|Vine Prairie Voting District
+05|033|025|Mulberry 2|Mulberry 2 Voting District
+05|033|026|Van Buren 3-4|Van Buren 3-4 Voting District
+05|033|027|Van Buren 3-2|Van Buren 3-2 Voting District
+05|033|028|Van Buren 1-2|Van Buren 1-2 Voting District
+05|033|029|Van Buren 3-6|Van Buren 3-6 Voting District
+05|033|03|Upper|Upper Voting District
+05|033|032|Van Buren 2-2|Van Buren 2-2 Voting District
+05|033|033|Van Buren 2-1|Van Buren 2-1 Voting District
+05|033|037|Van Buren 3-5|Van Buren 3-5 Voting District
+05|033|038|Van Buren 4-1|Van Buren 4-1 Voting District
+05|033|04|Porter|Porter Voting District
+05|033|043|Mulberry 3|Mulberry 3 Voting District
+05|033|044|Alma 1|Alma 1 Voting District
+05|033|045|Van Buren 3-3|Van Buren 3-3 Voting District
+05|033|046|Alma 4|Alma 4 Voting District
+05|033|047|Kibler|Kibler Voting District
+05|033|048|Van Buren 1-3|Van Buren 1-3 Voting District
+05|033|049|Mulberry 1|Mulberry 1 Voting District
+05|033|05|Chester|Chester Voting District
+05|033|050|Van Buren 3-1|Van Buren 3-1 Voting District
+05|033|051|Van Buren 1-1|Van Buren 1-1 Voting District
+05|033|056|Eagle Crest|Eagle Crest Voting District
+05|033|057|Figure Five|Figure Five Voting District
+05|033|058|Mountain|Mountain Voting District
+05|033|06|Winfrey|Winfrey Voting District
+05|033|07|Bidville|Bidville Voting District
+05|033|08|Locke|Locke Voting District
+05|033|09|Union|Union Voting District
+05|035|01|West Black Oak|West Black Oak Voting District
+05|035|010|North Tyronza|North Tyronza Voting District
+05|035|011|South Tyronza|South Tyronza Voting District
+05|035|012|Jennette|Jennette Voting District
+05|035|013|Jackson 1|Jackson 1 Voting District
+05|035|014|Jackson 2|Jackson 2 Voting District
+05|035|015|Jasper Country Box|Jasper Country Box Voting District
+05|035|016|Jasper 1|Jasper 1 Voting District
+05|035|018|Jasper 3|Jasper 3 Voting District
+05|035|019|West Memphis Ward 1-1|West Memphis Ward 1-1
+05|035|02|East Black Oak|East Black Oak Voting District
+05|035|020|West Memphis Ward 1-2|West Memphis Ward 1-2
+05|035|021|West Memphis Ward 1-3|West Memphis Ward 1-3
+05|035|022|West Memphis Ward 2-1|West Memphis Ward 2-1
+05|035|023|West Memphis Ward 2-2|West Memphis Ward 2-2
+05|035|024|West Memphis Ward 3-1|West Memphis Ward 3-1
+05|035|025|Memphis Ward 3|Memphis Ward 3
+05|035|026|West Memphis Ward 3-3|West Memphis Ward 3-3
+05|035|027|West Memphis Ward 4-2|West Memphis Ward 4-2
+05|035|029|West Memphis Ward 5-1|West Memphis Ward 5-1
+05|035|03|Bob Ward|Bob Ward
+05|035|030|West Memphis Ward 5-2|West Memphis Ward 5-2
+05|035|032|Lucas|Lucas Voting District
+05|035|033|Protor|Protor Voting District
+05|035|034|Sunset|Sunset Voting District
+05|035|035|Wapanocca|Wapanocca Voting District
+05|035|038|Mound City|Mound City Voting District
+05|035|039|Mississippi TWP|Mississippi TWP Voting District
+05|035|04|North Fogleman|North Fogleman Voting District
+05|035|040|Edmondson Bob Ward 1|Edmondson Bob Ward 1
+05|035|041|West Memphis Ward 1-4|West Memphis Ward 1-4
+05|035|042|West Memphis Ward 2-3|West Memphis Ward 2-3
+05|035|043|West Memphis Ward 4-1|West Memphis Ward 4-1
+05|035|044|Jasper 2|Jasper 2 Voting District
+05|035|045|Horseshoe Lake|Horseshoe Lake Voting District
+05|035|05|South Fogleman|South Fogleman Voting District
+05|035|06|Earle Ward 1|Earle Ward 1
+05|035|07|Earle Ward 2|Earle Ward 2
+05|035|08|Earle Ward 3|Earle Ward 3
+05|035|09|Earle Ward 4|Earle Ward 4
+05|037|01|Hickory Ridge TWP|Hickory Ridge TWP Voting District
+05|037|010|Smith|Smith Voting District
+05|037|011|Twist|Twist Voting District
+05|037|012|Tyronza|Tyronza Voting District
+05|037|013|Parkin Ward 1|Parkin Ward 1
+05|037|014|Parkin Ward 2|Parkin Ward 2
+05|037|015|Parkin Ward 3|Parkin Ward 3
+05|037|016|Wynne Ward 1|Wynne Ward 1
+05|037|017|Wynne Ward 2|Wynne Ward 2
+05|037|018|Wynne Ward 3|Wynne Ward 3
+05|037|019|Wynne Ward 4|Wynne Ward 4
+05|037|02|Brushy Lake|Brushy Lake Voting District
+05|037|020|Wynne Ward 5|Wynne Ward 5
+05|037|021|Hickory Ridge City|Hickory Ridge City Voting District
+05|037|022|Cherry Valley City|Cherry Valley City Voting District
+05|037|03|Fair Oaks|Fair Oaks Voting District
+05|037|04|Ellis|Ellis Voting District
+05|037|05|Beford|Beford Voting District
+05|037|06|Searcy|Searcy Voting District
+05|037|07|Mitchell|Mitchell Voting District
+05|037|08|Wynne|Wynne Voting District
+05|037|09|Coldwater|Coldwater Voting District
+05|039|01|1|Voting District 1
+05|039|02|2|Voting District 2
+05|039|03|3|Voting District 3
+05|039|04|4|Voting District 4
+05|039|05|5|Voting District 5
+05|039|06|6|Voting District 6
+05|039|07|7|Voting District 7
+05|039|08|8|Voting District 8
+05|039|09|9|Voting District 9
+05|041|01|Bowie Rural|Bowie Rural Voting District
+05|041|010|Silver Lake|Silver Lake Voting District
+05|041|011|Red Fork|Red Fork Voting District
+05|041|012|Mississippi|Mississippi Voting District
+05|041|013|Franklin|Franklin Voting District
+05|041|014|Jefferson|Jefferson Voting District
+05|041|015|Richland|Richland Voting District
+05|041|016|Clayton|Clayton Voting District
+05|041|017|Halley|Halley Voting District
+05|041|018|Walnut Lake|Walnut Lake Voting District
+05|041|019|Reed City|Reed City Voting District
+05|041|02|Mcghee Ward 1|Mcghee Ward 1
+05|041|03|Mcghee Ward 2|Mcghee Ward 2
+05|041|04|Mcghee Ward 3|Mcghee Ward 3
+05|041|05|Dumas Ward 1|Dumas Ward 1
+05|041|06|Dumas Ward 2|Dumas Ward 2
+05|041|07|Dumas Ward 3|Dumas Ward 3
+05|041|08|Dumas Ward 4|Dumas Ward 4
+05|041|09|Randolph Rural|Randolph Rural Voting District
+05|041|20|Tillar City|Tillar City Voting District
+05|043|01|Plantersville|Plantersville Voting District
+05|043|010|Collins|Collins Voting District
+05|043|011|Jerome|Jerome Voting District
+05|043|012|Marion North Box 1|Marion North Box 1 Voting District
+05|043|013|Marion North Box 2|Marion North Box 2 Voting District
+05|043|014|Marion South|Marion South Voting District
+05|043|015|Monticello Ward 1|Monticello Ward 1
+05|043|018|Monticello Ward 2|Monticello Ward 2
+05|043|02|Selma|Selma Voting District
+05|043|020|Monticello Ward 3|Monticello Ward 3
+05|043|022|Monticello Ward 4|Monticello Ward 4
+05|043|023|Willmar City|Willmar City Voting District
+05|043|03|Winchester|Winchester Voting District
+05|043|04|Willmar Rural|Willmar Rural Voting District
+05|043|05|Tillar|Tillar Voting District
+05|043|06|Ozment|Ozment Voting District
+05|043|07|Lacey|Lacey Voting District
+05|043|08|Enon|Enon Voting District
+05|045|1|Walker|Walker Voting District
+05|045|10|Union|Union Voting District
+05|045|11|Clifton|Clifton Voting District
+05|045|12|East Fork|East Fork Voting District
+05|045|13|Harve|Harve Voting District
+05|045|14|Newton|Newton Voting District
+05|045|15|Briston|Briston Voting District
+05|045|16|East Cypress|East Cypress Voting District
+05|045|17|Vilonia|Vilonia Voting District
+05|045|18|Vilonia Cypress|Vilonia Cypress Voting District
+05|045|19|Eagle|Eagle Voting District
+05|045|2|California|California Voting District
+05|045|20|Palarm|Palarm Voting District
+05|045|21|Wilson|Wilson Voting District
+05|045|22|Danley Rural|Danley Rural Voting District
+05|045|23|Danley|Danley Voting District
+05|045|24|Benedict|Benedict Voting District
+05|045|25|Pine Mountain|Pine Mountain Voting District
+05|045|26|West Cadron|West Cadron Voting District
+05|045|27|East Cadron B|East Cadron B Voting District
+05|045|28|East Cadron A|East Cadron A Voting District
+05|045|29|East Cadron C|East Cadron C Voting District
+05|045|3|Benton|Benton Voting District
+05|045|30|Conway 3-B|Conway 3-B Voting District
+05|045|31|Conway 3D|Conway 3D Voting District
+05|045|32|Conway 3A|Conway 3A Voting District
+05|045|33|Conway 2C|Conway 2C Voting District
+05|045|34|Conway 3C-West|Conway 3C-West Voting District
+05|045|35|Conway 3C-East|Conway 3C-East Voting District
+05|045|36|Conway 2B|Conway 2B Voting District
+05|045|37|Conway 1E-West|Conway 1E-West Voting District
+05|045|38|Conway 1E-East|Conway 1E-East Voting District
+05|045|39|Conway 1C-North|Conway 1C-North Voting District
+05|045|4|Mountain|Mountain Voting District
+05|045|40|Conway 4B|Conway 4B Voting District
+05|045|41|Conway 4D|Conway 4D Voting District
+05|045|42|Conway 2A|Conway 2A Voting District
+05|045|43|Conway 1C South|Conway 1C South Voting District
+05|045|44|Conway 4C|Conway 4C Voting District
+05|045|45|Conway 4A|Conway 4A Voting District
+05|045|5|Mt Vernon|Mt Vernon Voting District
+05|045|6|Enola|Enola Voting District
+05|045|7|Matthews|Matthews Voting District
+05|045|8|Hardin Rural|Hardin Rural Voting District
+05|045|9|Hardin City|Hardin City Voting District
+05|047|1|J P Dist 3-C|J P Dist 3-C
+05|047|10|2-A|Voting District 2-A
+05|047|11|1-B|Voting District 1-B
+05|047|12|2-B|Voting District 2-B
+05|047|13|3-A|Voting District 3-A
+05|047|14|6-D|Voting District 6-D
+05|047|15|6-B|Voting District 6-B
+05|047|16|6-C|Voting District 6-C
+05|047|17|6-A|Voting District 6-A
+05|047|18|6-E|Voting District 6-E
+05|047|19|J P Dist 5-B|J P Dist 5-B
+05|047|2|4-C|Voting District 4-C
+05|047|20|7-C|Voting District 7-C
+05|047|21|J P Dist 7-A|J P Dist 7-A
+05|047|22|7-B|Voting District 7-B
+05|047|23|J P Dist 7-D|J P Dist 7-D
+05|047|24|J P Dist 8-C|J P Dist 8-C
+05|047|25|8-A|Voting District 8-A
+05|047|26|9-A|Voting District 9-A
+05|047|27|9-B|Voting District 9-B
+05|047|28|8-B|Voting District 8-B
+05|047|29|OZARK RURAL 4-A|OZARK RURAL 4-A Voting District
+05|047|3|3-D|Voting District 3-D
+05|047|4|3-E|Voting District 3-E
+05|047|5|3-B|Voting District 3-B
+05|047|6|J P Dist 4-B|J P Dist 4-B
+05|047|7|J P Dist 5-A|J P Dist 5-A
+05|047|8|1-C|Voting District 1-C
+05|047|9|1-A|Voting District 1-A
+05|049|01|Vidette Bayou|Vidette Bayou Voting District
+05|049|02|Calm|Calm Voting District
+05|049|03|Washington|Washington Voting District
+05|049|04|Wilson|Wilson Voting District
+05|049|05|Mammoth Springs|Mammoth Springs Voting District
+05|049|06|Afton|Afton Voting District
+05|049|07|Myatt|Myatt Voting District
+05|049|08|Pleasant Ridge|Pleasant Ridge Voting District
+05|049|09|Strawberry|Strawberry Voting District
+05|049|10|Union|Union Voting District
+05|049|11|Cleveland|Cleveland Voting District
+05|049|12|Big Creek|Big Creek Voting District
+05|049|13|Fulton|Fulton Voting District
+05|049|14|Benton|Benton Voting District
+05|049|15|South Fork|South Fork Voting District
+05|051|02|Jessieville|Jessieville Voting District
+05|051|03|Hot Springs Village North|Hot Springs Village North Voting District
+05|051|04|Hot Springs Village South|Hot Springs Village South Voting District
+05|051|05|Union|Union Voting District
+05|051|06|Whittington|Whittington Voting District
+05|051|07|Phillips|Phillips Voting District
+05|051|08|Sulphur|Sulphur Voting District
+05|051|09|Antioch A|Antioch A Voting District
+05|051|10|Antioch B|Antioch B Voting District
+05|051|11|Mill|Mill Voting District
+05|051|12|Lake Hamilton|Lake Hamilton Voting District
+05|051|13|Lee|Lee Voting District
+05|051|14|Bain|Bain Voting District
+05|051|15|Mafran|Mafran Voting District
+05|051|16|Valley|Valley Voting District
+05|051|17|Baxter|Baxter Voting District
+05|051|18|Hale|Hale Voting District
+05|051|19|Mountain Pine|Mountain Pine Voting District
+05|051|20|Hot Springs 1A|Hot Springs 1A Voting District
+05|051|21|Hot Springs 1B|Hot Springs 1B Voting District
+05|051|22|Hot Springs 1C|Hot Springs 1C Voting District
+05|051|24|Hot Springs 6A|Hot Springs 6A Voting District
+05|051|25|Hot Springs 6B|Hot Springs 6B Voting District
+05|051|26|Hot Springs 2C|Hot Springs 2C Voting District
+05|051|27|Hot Springs 2B|Hot Springs 2B Voting District
+05|051|28|Hot Springs 2A|Hot Springs 2A Voting District
+05|051|29|Hot Springs 3B|Hot Springs 3B Voting District
+05|051|30|Hot Springs 3A|Hot Springs 3A Voting District
+05|051|31|Hot Springs 5A|Hot Springs 5A Voting District
+05|051|32|Hot Springs 5B|Hot Springs 5B Voting District
+05|051|33|Hot Springs 5C|Hot Springs 5C Voting District
+05|051|34|Hot Springs 4C|Hot Springs 4C Voting District
+05|051|35|Hot Springs 4B|Hot Springs 4B Voting District
+05|051|36|Hot Springs 4A|Hot Springs 4A Voting District
+05|051|37|Hot Springs TWP|Hot Springs TWP Voting District
+05|051|38|Hot Springs 3C|Hot Springs 3C Voting District
+05|053|01|DEKALB TULL 2|DEKALB TULL 2 Voting District
+05|053|02|DEKALB 1|DEKALB 1 Voting District
+05|053|03|FRANKLIN|FRANKLIN Voting District
+05|053|04|SIMPSON|SIMPSON Voting District
+05|053|05|SIMPSON 2|SIMPSON 2 Voting District
+05|053|06|FENTER|FENTER Voting District
+05|053|07|RIVER|RIVER Voting District
+05|053|08|DAVIS|DAVIS Voting District
+05|053|09|MERRY GREEN 1|MERRY GREEN 1 Voting District
+05|053|10|MERRY GREEN 2|MERRY GREEN 2 Voting District
+05|053|11|SHERIDAN WARD 1|SHERIDAN WARD 1
+05|053|12|SHERIDAN WARD 2|SHERIDAN WARD 2
+05|053|13|SHERIDAN WARD 3|SHERIDAN WARD 3
+05|053|14|WASHINGTON|WASHINGTON Voting District
+05|053|15|DARYSAW|DARYSAW Voting District
+05|053|16|TENNESSEE|TENNESSEE Voting District
+05|053|17|CALVERT|CALVERT Voting District
+05|053|18|MADISON|MADISON Voting District
+05|055|01|Jones|Jones Voting District
+05|055|02|Crowley|Crowley Voting District
+05|055|03|Breckenridge|Breckenridge Voting District
+05|055|04|Lafe/Breckenridge|Lafe/Breckenridge Voting District
+05|055|05|Hopewell|Hopewell Voting District
+05|055|06|Marmaduke/Hurricane|Marmaduke/Hurricane Voting District
+05|055|07|Hurricane|Hurricane Voting District
+05|055|08|Reynolds|Reynolds Voting District
+05|055|09|Blue Cane|Blue Cane Voting District
+05|055|10|Friendship|Friendship Voting District
+05|055|11|Oak Grove/Union|Oak Grove/Union Voting District
+05|055|12|Union|Union Voting District
+05|055|13|Sugar Creek|Sugar Creek Voting District
+05|055|14|Evening Shade|Evening Shade Voting District
+05|055|15|Lake|Lake Voting District
+05|055|16|Clark|Clark Voting District
+05|055|17|Bryan|Bryan Voting District
+05|055|18|Walnut Corner|Walnut Corner Voting District
+05|055|19|Cache|Cache Voting District
+05|055|20|Salem|Salem Voting District
+05|055|21|Shady Grove|Shady Grove Voting District
+05|055|22|Poland|Poland Voting District
+05|055|23|St. Francis|St. Francis Voting District
+05|055|24|Collier|Collier Voting District
+05|055|25|Mainshore|Mainshore Voting District
+05|055|26|Hays|Hays Voting District
+05|055|27|Paragould Ward 1|Paragould Ward 1
+05|055|28|Paragould Ward 3|Paragould Ward 3
+05|055|29|Paragould Ward 2|Paragould Ward 2
+05|055|30|Spring Grove|Spring Grove Voting District
+05|055|31|Paragould Ward 4|Paragould Ward 4
+05|057|001|Mine Creek Voting District|Mine Creek Voting District
+05|057|002|Redland Voting District|Redland Voting District
+05|057|003|Wallaceburg Voting District|Wallaceburg Voting District
+05|057|004|Saline Voting District|Saline Voting District
+05|057|005|Watercreek Voting District|Watercreek Voting District
+05|057|006|Garland Voting District|Garland Voting District
+05|057|007|Noland Voting District|Noland Voting District
+05|057|008|Ozan Voting District|Ozan Voting District
+05|057|009|Bois Darc|Bois Darc Voting District
+05|057|010|DeRoan Voting District|DeRoan Voting District
+05|057|011|Springhill Voting District|Springhill Voting District
+05|057|012|Bodcaw Voting District|Bodcaw Voting District
+05|057|013|1-A Voting District|1-A Voting District
+05|057|014|1-B Voting District|1-B Voting District
+05|057|015|1-C Voting District|1-C Voting District
+05|057|016|1-D Voting District|1-D Voting District
+05|057|017|2-A Voting District|2-A Voting District
+05|057|018|4-A Voting District|4-A Voting District
+05|057|019|Ward 3 Voting District|Ward 3 Voting District
+05|057|020|4-B Voting District|4-B Voting District
+05|057|022|Perrytown Voting District|Perrytown Voting District
+05|059|01|Magnet B|Magnet B Voting District
+05|059|02|Saline|Saline Voting District
+05|059|03|Gifford|Gifford Voting District
+05|059|04|Big Creek|Big Creek Voting District
+05|059|05|Magnet A|Magnet A Voting District
+05|059|06|ButterField|ButterField Voting District
+05|059|07|Fenter B|Fenter B Voting District
+05|059|08|Fenter C|Fenter C Voting District
+05|059|09|Malvern Ward 4|Malvern Ward 4
+05|059|10|Malvern Ward 3|Malvern Ward 3
+05|059|11|Malvern Ward 2|Malvern Ward 2
+05|059|12|Malvern Ward 1|Malvern Ward 1
+05|059|13|Rockport City|Rockport City Voting District
+05|059|14|Fenter A|Fenter A Voting District
+05|059|15|Midway|Midway Voting District
+05|059|16|Dover|Dover Voting District
+05|059|17|Clear Creek|Clear Creek Voting District
+05|059|18|Harrison|Harrison Voting District
+05|059|19|Brown Springs|Brown Springs Voting District
+05|059|20|Ouachita|Ouachita Voting District
+05|059|21|Montgomery|Montgomery Voting District
+05|059|22|Friendship City|Friendship City Voting District
+05|059|23|Lower Prairie|Lower Prairie Voting District
+05|059|24|Antioch|Antioch Voting District
+05|059|25|Deroche|Deroche Voting District
+05|059|26|Upper Prairie|Upper Prairie Voting District
+05|059|27|Lone Hill|Lone Hill Voting District
+05|059|28|Bismarck|Bismarck Voting District
+05|059|29|Valley|Valley Voting District
+05|059|30|Henderson|Henderson Voting District
+05|059|31|Perla City|Perla City Voting District
+05|061|01|DUCKETT|DUCKETT Voting District
+05|061|02|UMPIRE|UMPIRE Voting District
+05|061|03|MOUNTAIN|MOUNTAIN Voting District
+05|061|04|BURG|BURG Voting District
+05|061|05|CLAY|CLAY Voting District
+05|061|06|BLUE RIDGE|BLUE RIDGE Voting District
+05|061|07|BREWER|BREWER Voting District
+05|061|08|MADISON|MADISON Voting District
+05|061|09|HOLLY CREEK|HOLLY CREEK Voting District
+05|061|10|MUDDY FORK|MUDDY FORK Voting District
+05|061|11|CENTER POINT 1|CENTER POINT 1 Voting District
+05|061|12|CENTER POINT 2|CENTER POINT 2 Voting District
+05|061|13|SALINE|SALINE Voting District
+05|061|14|COUNTY LINE|COUNTY LINE Voting District
+05|061|15|BLUE BAYOU|BLUE BAYOU Voting District
+05|061|16|DILLARD|DILLARD Voting District
+05|061|17|FRANKLIN|FRANKLIN Voting District
+05|061|18|BUCK RANGE|BUCK RANGE Voting District
+05|061|19|BLACKLAND|BLACKLAND Voting District
+05|061|20|SARATOGA|SARATOGA Voting District
+05|061|21|MINERAL SPRINGS WARD 1|MINERAL SPRINGS WARD 1
+05|061|22|MINERAL SPRINGS WARD 2|MINERAL SPRINGS WARD 2
+05|061|23|MINERAL SPRINGS TWP|MINERAL SPRINGS TWP Voting District
+05|061|24|DIERKS WARD 1|DIERKS WARD 1
+05|061|25|DIERKS WARD 2|DIERKS WARD 2
+05|061|26|DIERKS WARD 3|DIERKS WARD 3
+05|061|27|NASHVILLE WARD 1|NASHVILLE WARD 1
+05|061|28|NASHVILLE WARD 2|NASHVILLE WARD 2
+05|061|29|NASHVILLE WARD 3|NASHVILLE WARD 3
+05|061|30|NASHVILLE WARD 4|NASHVILLE WARD 4
+05|061|31|NASHVILLE WARD 5|NASHVILLE WARD 5
+05|061|32|NASHVILLE WARD 6|NASHVILLE WARD 6
+05|061|33|NASHVILLE TWP 1|NASHVILLE TWP 1 Voting District
+05|061|34|NASHVILLE TWP 2|NASHVILLE TWP 2 Voting District
+05|061|35|TOLLETTE|TOLLETTE Voting District
+05|063|001|Batesville Ward 1 Voting District|Batesville Ward 1 Voting District
+05|063|003|Batesville Ward 2 Voting District|Batesville Ward 2 Voting District
+05|063|005|Batesville Ward 3 Voting District|Batesville Ward 3 Voting District
+05|063|007|Batesville Ward 4 Voting District|Batesville Ward 4 Voting District
+05|063|009|Ruddell Rural Voting District|Ruddell Rural Voting District
+05|063|010|Ashley Voting District|Ashley Voting District
+05|063|011|Barren Voting District|Barren Voting District
+05|063|012|Newark Ward 1 Voting District|Newark Ward 1 Voting District
+05|063|013|Newark Ward 2 Voting District|Newark Ward 2 Voting District
+05|063|014|Newark Ward 3 Voting District|Newark Ward 3 Voting District
+05|063|015|Blackriver Marshall Voting District|Blackriver Marshall Voting District
+05|063|016|Cushman-Union Voting District|Cushman-Union Voting District
+05|063|017|Departee Voting District|Departee Voting District
+05|063|018|Dota Voting District|Dota Voting District
+05|063|019|Fairview Voting District|Fairview Voting District
+05|063|020|Gainsboro Voting District|Gainsboro Voting District
+05|063|021|Greenbrier Desha Voting District|Greenbrier Desha Voting District
+05|063|022|Greenbrier TWP Voting District|Greenbrier TWP Voting District
+05|063|024|Hill Voting District|Hill Voting District
+05|063|025|Huff Voting District|Huff Voting District
+05|063|026|Jefferson Voting District|Jefferson Voting District
+05|063|027|Liberty Voting District|Liberty Voting District
+05|063|028|Big Bottom-Wycough-Logan Voting District|Big Bottom-Wycough-Logan Voting District
+05|063|029|Magness Voting District|Magness Voting District
+05|063|031|Mchue Voting District|Mchue Voting District
+05|063|032|Moorefield TWP Voting District|Moorefield TWP Voting District
+05|063|033|Oil Trough Voting District|Oil Trough Voting District
+05|063|034|Relief Voting District|Relief Voting District
+05|063|035|Rosie Voting District|Rosie Voting District
+05|063|036|Salado Voting District|Salado Voting District
+05|063|038|Washington Voting District|Washington Voting District
+05|063|039|White River Voting District|White River Voting District
+05|063|041|Moorefield 1 Voting District|Moorefield 1 Voting District
+05|063|042|Moorefield 4 Voting District|Moorefield 4 Voting District
+05|063|043|Moorefield City Voting District|Moorefield City Voting District
+05|065|01|DOLPH|DOLPH Voting District
+05|065|02|WIDEMAN|WIDEMAN Voting District
+05|065|03|OXFORD RURAL|OXFORD RURAL Voting District
+05|065|04|WISEMAN|WISEMAN Voting District
+05|065|05|PINEVILLE RURAL|PINEVILLE RURAL Voting District
+05|065|06|CALICO ROCK RURAL|CALICO ROCK RURAL Voting District
+05|065|07|CLAIRBORNE|CLAIRBORNE Voting District
+05|065|08|KNOB CREEK|KNOB CREEK Voting District
+05|065|09|NEWBURG|NEWBURG Voting District
+05|065|10|BROCKWELL|BROCKWELL Voting District
+05|065|11|VIOLET HILL|VIOLET HILL Voting District
+05|065|12|BOSWELL|BOSWELL Voting District
+05|065|13|TWIN CREEK SYLAMORE|TWIN CREEK SYLAMORE Voting District
+05|065|14|MELBOURNE RURAL|MELBOURNE RURAL Voting District
+05|065|15|LUNERBURG|LUNERBURG Voting District
+05|065|16|GUION RURAL|GUION RURAL Voting District
+05|065|17|GID|GID Voting District
+05|065|18|LAFFERTY|LAFFERTY Voting District
+05|065|19|MT. PLEASANT RURAL|MT. PLEASANT RURAL Voting District
+05|065|20|BARREN FORK|BARREN FORK Voting District
+05|065|21|SAGE|SAGE Voting District
+05|065|22|LACROSSE|LACROSSE Voting District
+05|065|23|ZION|ZION Voting District
+05|065|24|LARKIN|LARKIN Voting District
+05|065|25|STRAWBERRY|STRAWBERRY Voting District
+05|065|26|FRANKLIN RURAL|FRANKLIN RURAL Voting District
+05|065|27|MELBOURNE WARD 1|MELBOURNE WARD 1
+05|065|28|MELBOURNE WARD 2|MELBOURNE WARD 2
+05|065|29|MELBOURNE WARD 3|MELBOURNE WARD 3
+05|065|30|HORSESHOE BEND WARD 1|HORSESHOE BEND WARD 1
+05|065|31|HORSESHOE BEND WARD 2|HORSESHOE BEND WARD 2
+05|065|32|HORSESHOE BEND WARD 3|HORSESHOE BEND WARD 3
+05|065|33|HORSESHOE BEND WARD 4|HORSESHOE BEND WARD 4
+05|065|34|CALICO ROCK WARD 1|CALICO ROCK WARD 1
+05|065|35|CALICO ROCK WARD 2|CALICO ROCK WARD 2
+05|065|36|CALICO ROCK WARD 3|CALICO ROCK WARD 3
+05|065|37|CALICO ROCK WARD 4|CALICO ROCK WARD 4
+05|065|38|OXFORD WARD 1|OXFORD WARD 1
+05|065|39|OXFORD WARD 2|OXFORD WARD 2
+05|065|40|OXFORD WARD 3|OXFORD WARD 3
+05|065|41|OXFORD WARD 4|OXFORD WARD 4
+05|065|42|BIG SPRING|BIG SPRING Voting District
+05|065|43|JEFFERSON TWP A|JEFFERSON TWP A Voting District
+05|065|44|JEFFERSON TWP B|JEFFERSON TWP B Voting District
+05|065|45|JEFFERSON TWP C|JEFFERSON TWP C Voting District
+05|065|46|JEFFERSON TWP D|JEFFERSON TWP D Voting District
+05|065|47|JEFFERSON TWP E|JEFFERSON TWP E Voting District
+05|065|48|MELBOURNE WARD 4|MELBOURNE WARD 4
+05|065|49|PINEVILLE CITY|PINEVILLE CITY Voting District
+05|065|50|MT. PLEASANT CITY|MT. PLEASANT CITY Voting District
+05|065|51|FRANKLIN CITY|FRANKLIN CITY Voting District
+05|065|52|GUION CITY|GUION CITY Voting District
+05|067|01|Gourdneck Citizenship|Gourdneck Citizenship Voting District
+05|067|02|Beedeville|Beedeville Voting District
+05|067|03|Tupelo|Tupelo Voting District
+05|067|04|Weldon|Weldon Voting District
+05|067|05|Blackville|Blackville Voting District
+05|067|06|Algoa|Algoa Voting District
+05|067|07|Shoffner|Shoffner Voting District
+05|067|08|Auvergne|Auvergne Voting District
+05|067|09|Amagon|Amagon Voting District
+05|067|10|Pennington Balch|Pennington Balch Voting District
+05|067|11|Remmel|Remmel Voting District
+05|067|12|Ingleside|Ingleside Voting District
+05|067|13|Horseshoe|Horseshoe Voting District
+05|067|14|Grubbs|Grubbs Voting District
+05|067|15|Swifton|Swifton Voting District
+05|067|16|Waters Store|Waters Store Voting District
+05|067|17|Hickory Grove|Hickory Grove Voting District
+05|067|18|Liberty|Liberty Voting District
+05|067|19|Denmark|Denmark Voting District
+05|067|20|Crossroads|Crossroads Voting District
+05|067|21|New Glaise|New Glaise Voting District
+05|067|22|Olyphant|Olyphant Voting District
+05|067|23|Greenhaw|Greenhaw Voting District
+05|067|24|Tuckerman Ward 2|Tuckerman Ward 2
+05|067|25|Tuckerman Ward 1|Tuckerman Ward 1
+05|067|26|Tuckerman Ward 3|Tuckerman Ward 3
+05|067|27|Tuckerman Outside|Tuckerman Outside Voting District
+05|067|28|Campbell Station|Campbell Station Voting District
+05|067|29|Diaz|Diaz Voting District
+05|067|30|Airbase|Airbase Voting District
+05|067|31|Newport Ward 4A|Newport Ward 4A
+05|067|32|Newport Ward 4B|Newport Ward 4B
+05|067|33|Newport Ward 2C|Newport Ward 2C
+05|067|35|Algorn Center|Algorn Center Voting District
+05|067|36|Newport Ward 2B|Newport Ward 2B
+05|067|37|Newport Ward 2A|Newport Ward 2A
+05|067|38|Newport Ward 1A|Newport Ward 1A
+05|067|39|Newport Ward 3C|Newport Ward 3C
+05|067|40|Newport Ward 1B|Newport Ward 1B
+05|067|41|Island|Island Voting District
+05|067|42|Jacksonport|Jacksonport Voting District
+05|067|43|Macks|Macks Voting District
+05|069|001|830 Voting District|830 Voting District
+05|069|002|820 Voting District|820 Voting District
+05|069|003|810 Voting District|810 Voting District
+05|069|004|P12 (Barraque) Voting District|P12 (Barraque) Voting District
+05|069|005|13 (Bogy) Voting District|13 (Bogy) Voting District
+05|069|006|P14 (Bolivir)|P14 (Bolivir) Voting District
+05|069|009|19 (Dunnington) Voting District|19 (Dunnington) Voting District
+05|069|010|20 Voting District|20 Voting District
+05|069|011|07 Voting District|07 Voting District
+05|069|012|08 (Jefferson) Voting District|08 (Jefferson) Voting District
+05|069|013|21 Melton Voting District|21 Melton Voting District
+05|069|016|37 Voting District|37 Voting District
+05|069|017|23 Voting District|23 Voting District
+05|069|018|P314 Voting District|P314 Voting District
+05|069|019|P24 Voting District|P24 Voting District
+05|069|020|P317 Voting District|P317 Voting District
+05|069|021|25 (Old River) Voting District|25 (Old River) Voting District
+05|069|022|26 Pastorla Voting District|26 Pastorla Voting District
+05|069|023|651 Voting District|651 Voting District
+05|069|024|87 Voting District|87 Voting District
+05|069|025|67 Voting District|67 Voting District
+05|069|026|86 Voting District|86 Voting District
+05|069|027|28 (Plum Bayou) Voting District|28 (Plum Bayou) Voting District
+05|069|028|28 Voting District|28 Voting District
+05|069|029|611 Voting District|611 Voting District
+05|069|030|622 Voting District|622 Voting District
+05|069|031|88 Voting District|88 Voting District
+05|069|032|89 Voting District|89 Voting District
+05|069|033|P621 Voting District|P621 Voting District
+05|069|034|612 Voting District|612 Voting District
+05|069|035|610 Voting District|610 Voting District
+05|069|036|31(Richland) Voting District|31(Richland) Voting District
+05|069|037|P15 (Dudley Lake) Voting District|P15 (Dudley Lake) Voting District
+05|069|038|P851 (Humphrey) Voting District|P851 (Humphrey) Voting District
+05|069|039|P34 (Spring) Voting District|P34 (Spring) Voting District
+05|069|040|P50 Voting District|P50 Voting District
+05|069|041|P49 Voting District|P49 Voting District
+05|069|042|35 (Telladega) Voting District|35 (Telladega) Voting District
+05|069|043|P51 Voting District|P51 Voting District
+05|069|044|P109 Voting District|P109 Voting District
+05|069|045|54 Voting District|54 Voting District
+05|069|046|45 Voting District|45 Voting District
+05|069|047|57 (Villemont) Voting District|57 (Villemont) Voting District
+05|069|048|58 Voting District|58 Voting District
+05|069|049|09 Voting District|09 Voting District
+05|069|050|P731 Voting District|P731 Voting District
+05|069|051|72 Voting District|72 Voting District
+05|069|052|P60 Voting District|P60 Voting District
+05|069|053|P714 Voting District|P714 Voting District
+05|069|054|P711 Voting District|P711 Voting District
+05|069|055|P80 Voting District|P80 Voting District
+05|069|056|59 Voting District|59 Voting District
+05|069|059|P73 Voting District|P73 Voting District
+05|069|060|P63 Voting District|P63 Voting District
+05|069|061|74 (Vaugine) Voting District|74 (Vaugine) Voting District
+05|069|063|P 733 Voting District|P 733 Voting District
+05|069|064|P720 Voting District|P720 Voting District
+05|069|065|P732 Voting District|P732 Voting District
+05|069|066|P 734 Voting District|P 734 Voting District
+05|069|067|P 735 Voting District|P 735 Voting District
+05|069|068|P713 Voting District|P713 Voting District
+05|069|069|P 722 Voting District|P 722 Voting District
+05|069|070|P712 Voting District|P712 Voting District
+05|069|071|P 730 Voting District|P 730 Voting District
+05|069|072|65 Voting District|65 Voting District
+05|069|074|38 Voting District|38 Voting District
+05|069|075|P69 Voting District|P69 Voting District
+05|069|076|P70 Voting District|P70 Voting District
+05|069|077|93 Voting District|93 Voting District
+05|069|078|P413 Voting District|P413 Voting District
+05|069|079|P414 Voting District|P414 Voting District
+05|069|080|P103 Voting District|P103 Voting District
+05|069|081|P104 Voting District|P104 Voting District
+05|069|084|P105 Voting District|P105 Voting District
+05|069|085|P411 Voting District|P411 Voting District
+05|069|086|P106 Voting District|P106 Voting District
+05|069|087|P107 Voting District|P107 Voting District
+05|069|088|P108 Voting District|P108 Voting District
+05|069|089|P110 Voting District|P110 Voting District
+05|069|090|P111 Voting District|P111 Voting District
+05|069|091|P112 Voting District|P112 Voting District
+05|069|092|P114 Voting District|P114 Voting District
+05|069|093|P113 Voting District|P113 Voting District
+05|069|094|P115 Voting District|P115 Voting District
+05|069|095|P116 Voting District|P116 Voting District
+05|069|096|P117 Voting District|P117 Voting District
+05|069|097|P118 Voting District|P118 Voting District
+05|069|098|P123 Voting District|P123 Voting District
+05|069|099|P201 Voting District|P201 Voting District
+05|069|100|P202 Voting District|P202 Voting District
+05|069|101|P203 Voting District|P203 Voting District
+05|069|102|P204 Voting District|P204 Voting District
+05|069|103|P205 Voting District|P205 Voting District
+05|069|104|P206 Voting District|P206 Voting District
+05|069|105|P207 Voting District|P207 Voting District
+05|069|106|P208 Voting District|P208 Voting District
+05|069|107|P209 Voting District|P209 Voting District
+05|069|108|P210 Voting District|P210 Voting District
+05|069|109|P211 Voting District|P211 Voting District
+05|069|110|P212 Voting District|P212 Voting District
+05|069|111|P213 Voting District|P213 Voting District
+05|069|112|P214 Voting District|P214 Voting District
+05|069|113|P217 Voting District|P217 Voting District
+05|069|114|P215 Voting District|P215 Voting District
+05|069|115|P216 Voting District|P216 Voting District
+05|069|116|P218 Voting District|P218 Voting District
+05|069|117|P219 Voting District|P219 Voting District
+05|069|118|P220 Voting District|P220 Voting District
+05|069|119|P221 Voting District|P221 Voting District
+05|069|120|P222 Voting District|P222 Voting District
+05|069|121|P223 Voting District|P223 Voting District
+05|069|122|56 Voting District|56 Voting District
+05|069|123|P302 Voting District|P302 Voting District
+05|069|124|P301 Voting District|P301 Voting District
+05|069|125|61 (Whiteville)|61 (Whiteville) Voting District
+05|069|126|P303 Voting District|P303 Voting District
+05|069|127|P304 Voting District|P304 Voting District
+05|069|128|P305 Voting District|P305 Voting District
+05|069|129|P306 Voting District|P306 Voting District
+05|069|130|P307 Voting District|P307 Voting District
+05|069|131|P308 Voting District|P308 Voting District
+05|069|132|P309 Voting District|P309 Voting District
+05|069|133|P310 Voting District|P310 Voting District
+05|069|134|P311 Voting District|P311 Voting District
+05|069|135|P312 Voting District|P312 Voting District
+05|069|136|P313 Voting District|P313 Voting District
+05|069|137|P315 Voting District|P315 Voting District
+05|069|138|P316 Voting District|P316 Voting District
+05|069|139|P318 Voting District|P318 Voting District
+05|069|140|P319 Voting District|P319 Voting District
+05|069|141|P320 Voting District|P320 Voting District
+05|069|142|P401 Voting District|P401 Voting District
+05|069|143|P402 Voting District|P402 Voting District
+05|069|144|P405 Voting District|P405 Voting District
+05|069|145|P403 Voting District|P403 Voting District
+05|069|146|P404 Voting District|P404 Voting District
+05|069|147|P406 Voting District|P406 Voting District
+05|069|148|P407 Voting District|P407 Voting District
+05|069|149|P408 Voting District|P408 Voting District
+05|069|150|P409 Voting District|P409 Voting District
+05|069|151|P410 Voting District|P410 Voting District
+05|069|152|P415 Voting District|P415 Voting District
+05|069|153|P425 Voting District|P425 Voting District
+05|069|155|P416 Voting District|P416 Voting District
+05|069|156|P417 Voting District|P417 Voting District
+05|069|157|P418 Voting District|P418 Voting District
+05|069|158|P419 Voting District|P419 Voting District
+05|069|159|P420 Voting District|P420 Voting District
+05|069|160|P421 Voting District|P421 Voting District
+05|069|161|P422 Voting District|P422 Voting District
+05|069|162|02 Voting District|02 Voting District
+05|069|163|36 Voting District|36 Voting District
+05|069|164|P41 Voting District|P41 Voting District
+05|069|165|42 Voting District|42 Voting District
+05|069|166|P40 Voting District|P40 Voting District
+05|069|167|P39 Voting District|P39 Voting District
+05|069|168|78 Voting District|78 Voting District
+05|069|169|53 Voting District|53 Voting District
+05|069|170|122 Voting District|122 Voting District
+05|069|171|77 Voting District|77 Voting District
+05|069|172|76 Voting District|76 Voting District
+05|069|173|55 Voting District|55 Voting District
+05|069|174|P92 Voting District|P92 Voting District
+05|069|175|46 Voting District|46 Voting District
+05|069|176|44 Voting District|44 Voting District
+05|069|177|43 Voting District|43 Voting District
+05|069|178|P81 Voting District|P81 Voting District
+05|069|179|P715 Voting District|P715 Voting District
+05|069|180|P22 Voting District|P22 Voting District
+05|069|181|P412 Voting District|P412 Voting District
+05|069|182|P68 Voting District|P68 Voting District
+05|069|183|70 Voting District|70 Voting District
+05|069|184|P83 Voting District|P83 Voting District
+05|069|185|48 Voting District|48 Voting District
+05|069|186|P721 Voting District|P721 Voting District
+05|069|187|P423 Voting District|P423 Voting District
+05|069|188|P424 Voting District|P424 Voting District
+05|069|189|P710 Voting District|P710 Voting District
+05|069|190|P224 Voting District|P224 Voting District
+05|069|191|47 Voting District|47 Voting District
+05|069|192|P79 Voting District|P79 Voting District
+05|069|193|P91 (Roberts) Voting District|P91 (Roberts) Voting District
+05|069|194|P321 Voting District|P321 Voting District
+05|069|195|P862 (Humphrey) Voting District|P862 (Humphrey) Voting District
+05|069|196|P427 Voting District|P427 Voting District
+05|071|001|Hill Voting District|Hill Voting District
+05|071|002|Dickerson Voting District|Dickerson Voting District
+05|071|003|Mulberry Voting District|Mulberry Voting District
+05|071|004|Sherman Voting District|Sherman Voting District
+05|071|007|Stonewall Voting District|Stonewall Voting District
+05|071|008|Horsehead Voting District|Horsehead Voting District
+05|071|009|King Voting District|King Voting District
+05|071|010|Red Lick Voting District|Red Lick Voting District
+05|071|011|Perry Voting District|Perry Voting District
+05|071|012|Hickey Voting District|Hickey Voting District
+05|071|013|Lee Voting District|Lee Voting District
+05|071|014|Grant Voting District|Grant Voting District
+05|071|015|Ward Voting District|Ward Voting District
+05|071|016|Prairie Voting District|Prairie Voting District
+05|071|017|Spadra Ward 1|Spadra Ward 1
+05|071|018|Spadra Ward 2|Spadra Ward 2
+05|071|019|Spadra Ward 3|Spadra Ward 3
+05|071|020|Spadra Ward 4|Spadra Ward 4
+05|071|021|Pittsburg Voting District|Pittsburg Voting District
+05|071|022|Howell Voting District|Howell Voting District
+05|071|023|McKennon Voting District|McKennon Voting District
+05|071|024|Batson Voting District|Batson Voting District
+05|071|025|Low Gap Voting District|Low Gap Voting District
+05|073|001|Boyd Hill|Boyd Hill Voting District
+05|073|002|Piney Grove|Piney Grove Voting District
+05|073|003|Sardis|Sardis Voting District
+05|073|004|Center|Center Voting District
+05|073|005|Buckner|Buckner Voting District
+05|073|006|Oak Grove|Oak Grove Voting District
+05|073|007|Mars Hill|Mars Hill Voting District
+05|073|008|Walker Creek|Walker Creek Voting District
+05|073|009|State Line|State Line Voting District
+05|073|010|Bradley Ward 1|Bradley Ward 1
+05|073|011|Bradley Ward 2|Bradley Ward 2
+05|073|012|Bradley Ward 3|Bradley Ward 3
+05|073|013|Bradley City|Bradley City Voting District
+05|073|014|Stamps Ward 3|Stamps Ward 3
+05|073|015|Canfield|Canfield Voting District
+05|073|016|Gin City|Gin City Voting District
+05|073|017|Lewisville Ward 1|Lewisville Ward 1
+05|073|018|Lewisville Ward 2|Lewisville Ward 2
+05|073|019|Lewisville Ward 3|Lewisville Ward 3
+05|073|020|Red River|Red River Voting District
+05|073|021|Lewisville Ward 1 Outside City|Lewisville Ward 1 Outside City
+05|073|022|Stamps Ward 2 Outside City|Stamps Ward 2 Outside City
+05|073|024|Stamps Ward 2|Stamps Ward 2
+05|073|025|Stamps Ward 1|Stamps Ward 1
+05|073|026|Stamps Ward 1 PCT 2|Stamps Ward 1 PCT 2
+05|073|027|Stamps Ward 1 PCT 2 OUTSIDE CITY|Stamps Ward 1 PCT 2 OUTSIDE CITY
+05|075|0001|ANNIEVILLE|ANNIEVILLE Voting District
+05|075|0011|CAMPBELL 3 WALNUT RIDGE|CAMPBELL 3 WALNUT RIDGE Voting District
+05|075|0012|CAMPBELL 4 WALNUT RIDGE|CAMPBELL 4 WALNUT RIDGE Voting District
+05|075|0017|FLAT CREEK|FLAT CREEK Voting District
+05|075|0027|THACKER|THACKER Voting District
+05|075|02|ASHLAND|ASHLAND Voting District
+05|075|03|BLACK RIVER|BLACK RIVER Voting District
+05|075|04|BLACK ROCK|BLACK ROCK Voting District
+05|075|05|BOAS 1 HOXIE|BOAS 1 HOXIE Voting District
+05|075|06|BOAS 2 HOXIE|BOAS 2 HOXIE Voting District
+05|075|07|BOAS 3 HOXIE|BOAS 3 HOXIE Voting District
+05|075|08|CACHE|CACHE Voting District
+05|075|09|CAMPBELL 1 WALNUT RIDGE|CAMPBELL 1 WALNUT RIDGE Voting District
+05|075|10|CAMPBELL 2 WALNUT RIDGE|CAMPBELL 2 WALNUT RIDGE Voting District
+05|075|13|DENT|DENT Voting District
+05|075|14|DOWELL|DOWELL Voting District
+05|075|15|DUTY|DUTY Voting District
+05|075|16|EATON|EATON Voting District
+05|075|18|JESUP|JESUP Voting District
+05|075|19|LAWRENCE|LAWRENCE Voting District
+05|075|20|MARION|MARION Voting District
+05|075|21|MORGAN|MORGAN Voting District
+05|075|22|PROMISED LAND|PROMISED LAND Voting District
+05|075|23|REED'S CREEK|REED'S CREEK Voting District
+05|075|24|RICHWOODS|RICHWOODS Voting District
+05|075|25|SPRING RIVER|SPRING RIVER Voting District
+05|075|26|STRAWBERRY|STRAWBERRY Voting District
+05|077|01|Fleener|Fleener Voting District
+05|077|010|Richland|Richland Voting District
+05|077|011|Hardy|Hardy Voting District
+05|077|012|Marianna Ward 1|Marianna Ward 1
+05|077|013|Marianna Ward 2|Marianna Ward 2
+05|077|014|Marianna Ward 3|Marianna Ward 3
+05|077|015|Marianna Ward 4|Marianna Ward 4
+05|077|016|Walnut|Walnut Voting District
+05|077|017|Council|Council Voting District
+05|077|018|Liberty|Liberty Voting District
+05|077|019|Bear Creek|Bear Creek Voting District
+05|077|02|Texas|Texas Voting District
+05|077|03|Union|Union Voting District
+05|077|04|St. Francis|St. Francis Voting District
+05|077|05|Hampton|Hampton Voting District
+05|077|06|Oak Forest|Oak Forest Voting District
+05|077|07|Independence|Independence Voting District
+05|077|08|Big Creek|Big Creek Voting District
+05|077|09|Spring Creek|Spring Creek Voting District
+05|079|01|Auburn|Auburn Voting District
+05|079|010|Lone Pine Mt Home|Lone Pine Mt Home Voting District
+05|079|011|Mill Creek|Mill Creek Voting District
+05|079|012|Owen Glendale|Owen Glendale Voting District
+05|079|013|Owen Palmyra|Owen Palmyra Voting District
+05|079|014|Smith|Smith Voting District
+05|079|015|Spring 1|Spring 1 Voting District
+05|079|016|Spring 2|Spring 2 Voting District
+05|079|017|Wells Bayou Garrett Bridge|Wells Bayou Garrett Bridge Voting District
+05|079|018|Wells Bayou Norris Shop|Wells Bayou Norris Shop Voting District
+05|079|019|Gould Ward 1|Gould Ward 1
+05|079|02|Tarry|Tarry Voting District
+05|079|020|Gould Ward 2|Gould Ward 2
+05|079|021|Gould Ward 3|Gould Ward 3
+05|079|022|Grady Ward 1|Grady Ward 1
+05|079|023|Grady Ward 2|Grady Ward 2
+05|079|024|Star City Ward 1|Star City Ward 1
+05|079|025|Star City Ward 2|Star City Ward 2
+05|079|026|Star City Ward 3|Star City Ward 3
+05|079|03|Yorktown|Yorktown Voting District
+05|079|04|Cane Creek 1|Cane Creek 1 Voting District
+05|079|05|Cane Creek 2|Cane Creek 2 Voting District
+05|079|06|Choctaw|Choctaw Voting District
+05|079|07|Gould|Gould Voting District
+05|079|08|Kimbrough|Kimbrough Voting District
+05|079|09|Lone Pine Garnett|Lone Pine Garnett Voting District
+05|081|01|Caney|Caney Voting District
+05|081|011|Richland|Richland Voting District
+05|081|012|Wallace|Wallace Voting District
+05|081|013|Arden|Arden Voting District
+05|081|014|Red River|Red River Voting District
+05|081|015|Jefferson|Jefferson Voting District
+05|081|016|Ashdown Ward 1|Ashdown Ward 1
+05|081|017|Ashdown Ward 2|Ashdown Ward 2
+05|081|018|Ashdown Ward 3|Ashdown Ward 3
+05|081|019|Franklin|Franklin Voting District
+05|081|02|Jewell|Jewell Voting District
+05|081|020|Johnson|Johnson Voting District
+05|081|021|Foreman City 1|Foreman City 1 Voting District
+05|081|022|Foreman City 2|Foreman City 2 Voting District
+05|081|023|Foreman City 3|Foreman City 3 Voting District
+05|081|03|Little River|Little River Voting District
+05|081|04|Arkinda|Arkinda Voting District
+05|081|06|Burke|Burke Voting District
+05|081|07|Lick Creek|Lick Creek Voting District
+05|081|08|Cleveland|Cleveland Voting District
+05|081|09|Jackson|Jackson Voting District
+05|083|1|Ratcliff City|Ratcliff City Voting District
+05|083|10|Petit Jean|Petit Jean Voting District
+05|083|11|Sugar Creek|Sugar Creek Voting District
+05|083|12|Cauthron|Cauthron Voting District
+05|083|13|Tomlinson|Tomlinson Voting District
+05|083|14|Barber|Barber Voting District
+05|083|15|Boone Ward 1|Boone Ward 1
+05|083|16|Boone Ward 3|Boone Ward 3
+05|083|17|Boone Ward 2|Boone Ward 2
+05|083|18|Boone Ward 4|Boone Ward 4
+05|083|19|Delaware|Delaware Voting District
+05|083|2|Caulksville City|Caulksville City Voting District
+05|083|20|Shoal Creek|Shoal Creek Voting District
+05|083|21|Ellsworth|Ellsworth Voting District
+05|083|22|Cane Creek|Cane Creek Voting District
+05|083|23|Logan|Logan Voting District
+05|083|24|River City|River City Voting District
+05|083|25|River Rural|River Rural Voting District
+05|083|26|Mountain|Mountain Voting District
+05|083|27|Johnson|Johnson Voting District
+05|083|29|Clark Rural|Clark Rural Voting District
+05|083|3|Ratcliff Rural|Ratcliff Rural Voting District
+05|083|30|Short Mountain Ward 1|Short Mountain Ward 1
+05|083|31|Short Mountain Ward 2|Short Mountain Ward 2
+05|083|32|Short Mountain Ward 3|Short Mountain Ward 3
+05|083|33|Short Mountain Ward 4|Short Mountain Ward 4
+05|083|4|Washburn|Washburn Voting District
+05|083|5|Driggs|Driggs Voting District
+05|083|6|Reveille City|Reveille City Voting District
+05|083|7|Reveille Rural|Reveille Rural Voting District
+05|083|8|Blue Mountain City|Blue Mountain City Voting District
+05|083|9|Blue Mountain Rural|Blue Mountain Rural Voting District
+05|085|01|MAGNESS|MAGNESS Voting District
+05|085|010|CABOT WARD 2|CABOT WARD 2
+05|085|011|CABOT WARD 3|CABOT WARD 3
+05|085|012|CABOT WARD 4|CABOT WARD 4
+05|085|013|OAK GROVE|OAK GROVE Voting District
+05|085|014|GRAY|GRAY Voting District
+05|085|015|GOODRUM|GOODRUM Voting District
+05|085|016|EAGLE|EAGLE Voting District
+05|085|017|PRAIRIE|PRAIRIE Voting District
+05|085|018|CLEVELAND|CLEVELAND Voting District
+05|085|019|TOTTEN|TOTTEN Voting District
+05|085|02|WARD TWP RURAL|WARD TWP RURAL Voting District
+05|085|020|FURLOW|FURLOW Voting District
+05|085|021|PULASKI|PULASKI Voting District
+05|085|022|LONOKE RURAL|LONOKE RURAL Voting District
+05|085|023|LONOKE DISTRICT 1|LONOKE DISTRICT 1
+05|085|024|LONOKE DISTRICT 2|LONOKE DISTRICT 2
+05|085|025|LONOKE DISTRICT 3|LONOKE DISTRICT 3
+05|085|026|LONOKE DISTRICT 4|LONOKE DISTRICT 4
+05|085|027|CARLISLE RURAL|CARLISLE RURAL Voting District
+05|085|028|CARLISLE WARD 1|CARLISLE WARD 1
+05|085|029|CARLISLE WARD 2|CARLISLE WARD 2
+05|085|03|WARD CITY 1|WARD CITY 1 Voting District
+05|085|030|CARLISLE WARD 3|CARLISLE WARD 3
+05|085|031|DORTCH|DORTCH Voting District
+05|085|032|RICHWOODS|RICHWOODS Voting District
+05|085|033|WILLIAMS|WILLIAMS Voting District
+05|085|034|WALLS|WALLS Voting District
+05|085|035|SCOTT|SCOTT Voting District
+05|085|036|LAFAYETTE|LAFAYETTE Voting District
+05|085|037|KEO CITY|KEO CITY Voting District
+05|085|038|PETTUS|PETTUS Voting District
+05|085|039|FLETCHER|FLETCHER Voting District
+05|085|04|WARD CITY 2|WARD CITY 2 Voting District
+05|085|040|HAMILTON|HAMILTON Voting District
+05|085|042|ENGLAND WARD 1|ENGLAND WARD 1
+05|085|043|ENGLAND WARD 2|ENGLAND WARD 2
+05|085|044|ENGLAND WARD 3|ENGLAND WARD 3
+05|085|045|ENGLAND WARD 4|ENGLAND WARD 4
+05|085|046|INDIAN BAYOU|INDIAN BAYOU Voting District
+05|085|047|COY CITY|COY CITY Voting District
+05|085|048|CROOKED CREEK|CROOKED CREEK Voting District
+05|085|049|ISBELL|ISBELL Voting District
+05|085|05|WARD CITY 3|WARD CITY 3 Voting District
+05|085|050|GUM WOODS|GUM WOODS Voting District
+05|085|051|LONOKE DISTRICT 5|LONOKE DISTRICT 5
+05|085|052|LONOKE DISTRICT 6|LONOKE DISTRICT 6
+05|085|053|LONOKE DISTRICT 7|LONOKE DISTRICT 7
+05|085|054|LONOKE DISTRICT 8|LONOKE DISTRICT 8
+05|085|055|AUSTIN CITY|AUSTIN CITY Voting District
+05|085|06|CAROLINE|CAROLINE Voting District
+05|085|07|BUTLER|BUTLER Voting District
+05|085|08|YORK|YORK Voting District
+05|085|09|CABOT WARD 1|CABOT WARD 1
+05|087|1|Valley|Valley Voting District
+05|087|10|Lamar|Lamar Voting District
+05|087|11|Richland|Richland Voting District
+05|087|12|Bowen|Bowen Voting District
+05|087|13|Whorton|Whorton Voting District
+05|087|14|Kings River|Kings River Voting District
+05|087|15|Purdy|Purdy Voting District
+05|087|16|War Eagle 2|War Eagle 2 Voting District
+05|087|17|Bohannon|Bohannon Voting District
+05|087|18|Prairie|Prairie Voting District
+05|087|19|California|California Voting District
+05|087|2|Mill Creek|Mill Creek Voting District
+05|087|20|Marble|Marble Voting District
+05|087|21|War Eagle 1|War Eagle 1 Voting District
+05|087|22|Huntsville Ward 1|Huntsville Ward 1
+05|087|23|Huntsville Ward 2|Huntsville Ward 2
+05|087|24|Huntsville Ward 3|Huntsville Ward 3
+05|087|25|Huntsville Ward 4|Huntsville Ward 4
+05|087|26|Alabam|Alabam Voting District
+05|087|3|Hilburn|Hilburn Voting District
+05|087|4|Kentucky|Kentucky Voting District
+05|087|5|Boston|Boston Voting District
+05|087|6|Venus|Venus Voting District
+05|087|7|Lincoln|Lincoln Voting District
+05|087|8|Japton|Japton Voting District
+05|087|9|White River|White River Voting District
+05|089|1|BEARDEN|BEARDEN Voting District
+05|089|10|BULL SHOALS WARD 3B|BULL SHOALS WARD 3B
+05|089|11|CEDAR CREEK|CEDAR CREEK Voting District
+05|089|12|CROCKETT|CROCKETT Voting District
+05|089|13|CROOKED CREEK|CROOKED CREEK Voting District
+05|089|14|DESOTA|DESOTA Voting District
+05|089|15|DODD|DODD Voting District
+05|089|16|FLIPPIN CITY|FLIPPIN CITY Voting District
+05|089|17|FRANKLIN|FRANKLIN Voting District
+05|089|18|HAMPTON|HAMPTON Voting District
+05|089|19|INDEPENDENCE|INDEPENDENCE Voting District
+05|089|2|BIG CREEK|BIG CREEK Voting District
+05|089|20|JAMES CREEK|JAMES CREEK Voting District
+05|089|21|JEFFERSON|JEFFERSON Voting District
+05|089|22|KESSE|KESSE Voting District
+05|089|23|KEETER|KEETER Voting District
+05|089|24|LIBERTY|LIBERTY Voting District
+05|089|25|NORTH FORK|NORTH FORK Voting District
+05|089|26|NORTH JOE BURLESON|NORTH JOE BURLESON Voting District
+05|089|27|PRAIRIE|PRAIRIE Voting District
+05|089|28|SOUTH JOE BURLESON|SOUTH JOE BURLESON Voting District
+05|089|29|SUGAR LOAF|SUGAR LOAF Voting District
+05|089|3|BIG SPRINGS|BIG SPRINGS Voting District
+05|089|30|SUMMIT|SUMMIT Voting District
+05|089|31|SUMMIT CITY|SUMMIT CITY Voting District
+05|089|32|UNION|UNION Voting District
+05|089|33|WATER CREEK|WATER CREEK Voting District
+05|089|34|WHITERIVER|WHITERIVER Voting District
+05|089|35|YELLVILLE WARD 2|YELLVILLE WARD 2
+05|089|36|YELLVILLE WARD 3|YELLVILLE WARD 3
+05|089|37|YELLVILLE WARD 1|YELLVILLE WARD 1
+05|089|4|BLYTHE|BLYTHE Voting District
+05|089|5|BLYTHE CITY|BLYTHE CITY Voting District
+05|089|6|BUFFALO|BUFFALO Voting District
+05|089|7|BULL SHOALS WARD 2|BULL SHOALS WARD 2
+05|089|8|BULL SHOALS WARD 1|BULL SHOALS WARD 1
+05|089|9|BULL SHOALS WARD 3A|BULL SHOALS WARD 3A
+05|091|001|Mandeville Voting District|Mandeville Voting District
+05|091|002|Shiloh Precinct|Shiloh Precinct
+05|091|003|Rondo Precinct|Rondo Precinct
+05|091|004|Trice Precinct 12|Trice Precinct 12
+05|091|005|Garland Precinct|Garland Precinct
+05|091|006|Sugar Hill Precinct|Sugar Hill Precinct
+05|091|007|Central Precinct|Central Precinct
+05|091|008|Pleasant Hill Precinct|Pleasant Hill Precinct
+05|091|009|Boyd Precinct|Boyd Precinct
+05|091|010|Fouke Precinct|Fouke Precinct
+05|091|011|Bradford Precinct 1|Bradford Precinct 1
+05|091|012|Union Precinct|Union Precinct
+05|091|013|College Hill Middle School Precinct 2|College Hill Middle School Precinct 2
+05|091|014|Greenwich Village Precinct|Greenwich Village Precinct
+05|091|015|College Hill Elementary Precinct 2|College Hill Elementary Precinct 2
+05|091|016|Washington Precinct 4|Washington Precinct 4
+05|091|017|Ozon Inghram Precinct 5|Ozon Inghram Precinct 5
+05|091|018|Sandflat Precinct 6|Sandflat Precinct 6
+05|091|019|Fair View Precinct 7|Fair View Precinct 7
+05|091|020|Hickory Precinct 8|Hickory Precinct 8
+05|091|021|Arkansas Blvd Precinct 10|Arkansas Blvd Precinct 10
+05|091|022|North Heights Precinct 11|North Heights Precinct 11
+05|091|023|Arkansas High Precinct 9|Arkansas High Precinct 9
+05|091|024|Bright Star Precinct|Bright Star Precinct
+05|091|025|Doddridge Precinct|Doddridge Precinct
+05|091|026|Fort Lynn Precinct|Fort Lynn Precinct
+05|093|001|Blytheville Precinct 1A|Blytheville Precinct 1A
+05|093|002|Blytheville Precinct 1B|Blytheville Precinct 1B
+05|093|003|Blytheville Precinct 1C|Blytheville Precinct 1C
+05|093|004|Blytheville Precinct 1D|Blytheville Precinct 1D
+05|093|005|Blytheville Precinct 1E|Blytheville Precinct 1E
+05|093|007|Blytheville Precinct 2A|Blytheville Precinct 2A
+05|093|009|Blytheville Precinct 2C|Blytheville Precinct 2C
+05|093|010|Chickasawba TWP Precinct 6|Chickasawba TWP Precinct 6
+05|093|011|Blytheville Precinct 2E|Blytheville Precinct 2E
+05|093|012|Canadian TWP Precinct 10|Canadian TWP Precinct 10
+05|093|013|Blytheville Precinct 3A|Blytheville Precinct 3A
+05|093|015|Blytheville Precinct 3B|Blytheville Precinct 3B
+05|093|016|Blythville Precinct 3C|Blythville Precinct 3C
+05|093|017|Blytheville Precinct 3D|Blytheville Precinct 3D
+05|093|019|Blytheville Precinct 3F|Blytheville Precinct 3F
+05|093|020|Bowen TWP Precinct 12|Bowen TWP Precinct 12
+05|093|027|Clear Lake TWP Precinct 11A|Clear Lake TWP Precinct 11A
+05|093|028|Clear Lake TWP Precinct 11B|Clear Lake TWP Precinct 11B
+05|093|030|Gosnell Precinct 12-1|Gosnell Precinct 12-1
+05|093|031|Gosnell Precinct 12-2|Gosnell Precinct 12-2
+05|093|032|Gosnell Precinct 12-3|Gosnell Precinct 12-3
+05|093|033|Half Moon TWP Precinct 13|Half Moon TWP Precinct 13
+05|093|034|Dell Precinct 14|Dell Precinct 14
+05|093|035|Hector TWP Precinct 15|Hector TWP Precinct 15
+05|093|036|Leachville Precinct 16|Leachville Precinct 16
+05|093|037|Leachville Precinct 17|Leachville Precinct 17
+05|093|038|Leachville Precinct 18|Leachville Precinct 18
+05|093|039|Neal TWP Precinct 19|Neal TWP Precinct 19
+05|093|040|Manila Precinct 21A|Manila Precinct 21A
+05|093|041|Manila Precinct 21B|Manila Precinct 21B
+05|093|042|Manila Precinct 22|Manila Precinct 22
+05|093|043|Manila Precinct 23|Manila Precinct 23
+05|093|044|Big Lake TWP Precinct 24|Big Lake TWP Precinct 24
+05|093|045|Big Lake TWP Precinct 25|Big Lake TWP Precinct 25
+05|093|046|Burdette TWP Precinct 27|Burdette TWP Precinct 27
+05|093|047|Burdette Precinct 27A|Burdette Precinct 27A
+05|093|048|Fletcher TWP Precinct 30|Fletcher TWP Precinct 30
+05|093|049|Luxora Precinct 29-1|Luxora Precinct 29-1
+05|093|050|Luxora Precinct 29-2|Luxora Precinct 29-2
+05|093|051|Luxora Precinct 29-3|Luxora Precinct 29-3
+05|093|054|Victoria Precinct 30A|Victoria Precinct 30A
+05|093|055|Osceola Precinct 32A|Osceola Precinct 32A
+05|093|056|Osceola Precinct 32B|Osceola Precinct 32B
+05|093|057|Osceola Precinct 33A|Osceola Precinct 33A
+05|093|058|Osceola Precinct 33B|Osceola Precinct 33B
+05|093|059|Osceola Precinct 33C|Osceola Precinct 33C
+05|093|060|Osceola Precinct 34A|Osceola Precinct 34A
+05|093|061|Osceola Precinct 34B|Osceola Precinct 34B
+05|093|062|Monroe TWP Precinct 35|Monroe TWP Precinct 35
+05|093|063|Monroe TWP Precinct 36|Monroe TWP Precinct 36
+05|093|064|Keiser Precinct 37-1|Keiser Precinct 37-1
+05|093|065|Keiser Precinct 37-2|Keiser Precinct 37-2
+05|093|066|Carson TWP Precinct 38|Carson TWP Precinct 38
+05|093|067|Carson TWP Precinct 39|Carson TWP Precinct 39
+05|093|068|Marie Precinct 39A|Marie Precinct 39A
+05|093|069|Golden Lake TWP Precinct 40|Golden Lake TWP Precinct 40
+05|093|070|Wilson Precinct 41|Wilson Precinct 41
+05|093|071|Wilson Precinct 42|Wilson Precinct 42
+05|093|073|Joiner Precinct 44|Joiner Precinct 44
+05|093|074|McGavock TWP Precinct 45|McGavock TWP Precinct 45
+05|093|075|Whitton TWP Precinct 46|Whitton TWP Precinct 46
+05|093|076|Dyess Precinct 47|Dyess Precinct 47
+05|093|077|Dyess TWP Precinct 48|Dyess TWP Precinct 48
+05|093|078|Little River Precinct 50|Little River Precinct 50
+05|093|080|Chickasawba TWP Precinct 7|Chickasawba TWP Precinct 7
+05|093|081|Precinct 54|Precinct 54
+05|093|082|Bassett Precinct 54A|Bassett Precinct 54A
+05|093|084|Etowach City Precinct 50A|Etowach City Precinct 50A
+05|093|085|Osceola Precinct 33D|Osceola Precinct 33D
+05|093|086|Osceola Precinct 34C|Osceola Precinct 34C
+05|093|087|Birdsong Precinct 46A|Birdsong Precinct 46A
+05|095|001|Richland Voting District|Richland Voting District
+05|095|002|Greenfield Voting District|Greenfield Voting District
+05|095|003|Brinkley TWP Voting District|Brinkley TWP Voting District
+05|095|004|Dixon Voting District|Dixon Voting District
+05|095|005|Clarendon Ward 3|Clarendon Ward 3
+05|095|006|Keevil Voting District|Keevil Voting District
+05|095|007|Cypress Ridge Voting District|Cypress Ridge Voting District
+05|095|008|Pine Ridge Voting District|Pine Ridge Voting District
+05|095|009|Hindman Voting District|Hindman Voting District
+05|095|011|Roc Roe Voting District|Roc Roe Voting District
+05|095|012|Duncan Voting District|Duncan Voting District
+05|095|013|Raymond Voting District|Raymond Voting District
+05|095|014|Jackson Voting District|Jackson Voting District
+05|095|015|Cleburne Voting District|Cleburne Voting District
+05|095|016|Smalley Voting District|Smalley Voting District
+05|095|019|Brinkley Ward 1|Brinkley Ward 1
+05|095|020|Brinkley Ward 2|Brinkley Ward 2
+05|095|021|Brinkley Ward 3|Brinkley Ward 3
+05|095|027|Clarendon Ward 2|Clarendon Ward 2
+05|095|028|Clarendon Ward 1|Clarendon Ward 1
+05|095|029|Roc Roe City Voting District|Roc Roe City Voting District
+05|095|030|Holly Grove Ward 1 Voting District|Holly Grove Ward 1 Voting District
+05|095|031|Holly Grove Ward 2 Voting District|Holly Grove Ward 2 Voting District
+05|097|1|Hopper|Hopper Voting District
+05|097|10|Oden In|Oden In Voting District
+05|097|11|Pencil Bluff|Pencil Bluff Voting District
+05|097|12|Sims|Sims Voting District
+05|097|13|Washita|Washita Voting District
+05|097|14|Fannie|Fannie Voting District
+05|097|15|Mt Ida Out|Mt Ida Out Voting District
+05|097|16|Mt Ida Ward 1|Mt Ida Ward 1
+05|097|17|Mt Ida Ward 2|Mt Ida Ward 2
+05|097|18|Mt Ida Ward 3|Mt Ida Ward 3
+05|097|2|Caddo Gap|Caddo Gap Voting District
+05|097|3|Caney|Caney Voting District
+05|097|4|Black Springs|Black Springs Voting District
+05|097|5|Norman Out|Norman Out Voting District
+05|097|6|Norman In|Norman In Voting District
+05|097|7|Alamo|Alamo Voting District
+05|097|8|Center|Center Voting District
+05|097|9|Oden Out|Oden Out Voting District
+05|099|1|Broughton|Broughton Voting District
+05|099|10|Laneburg/Sutton|Laneburg/Sutton Voting District
+05|099|11|Union|Union Voting District
+05|099|12|Bodcaw City|Bodcaw City Voting District
+05|099|13|Bodcaw Rural|Bodcaw Rural Voting District
+05|099|14|Alabama|Alabama Voting District
+05|099|15|Willisville City|Willisville City Voting District
+05|099|16|Willisville Rural|Willisville Rural Voting District
+05|099|17|Leake|Leake Voting District
+05|099|18|Rosston City|Rosston City Voting District
+05|099|19|Rosston Rural|Rosston Rural Voting District
+05|099|2|West Rural|West Rural Voting District
+05|099|20|Cale Rural|Cale Rural Voting District
+05|099|21|Oil|Oil Voting District
+05|099|22|Georgia|Georgia Voting District
+05|099|23|Reade City|Reade City Voting District
+05|099|24|Bluff City|Bluff City Voting District
+05|099|25|Bluff City Rural|Bluff City Rural Voting District
+05|099|26|Library/New Hope|Library/New Hope Voting District
+05|099|3|Prescott Ward 1|Prescott Ward 1
+05|099|4|Prescott Ward 2|Prescott Ward 2
+05|099|5|Prescott Ward 3|Prescott Ward 3
+05|099|6|Prescott Ward 4|Prescott Ward 4
+05|099|7|East Rural|East Rural Voting District
+05|099|8|Emmet City|Emmet City Voting District
+05|099|9|Emmet Rural|Emmet Rural Voting District
+05|101|1|Plumlee|Plumlee Voting District
+05|101|10|Pleasant Hill|Pleasant Hill Voting District
+05|101|11|Richland|Richland Voting District
+05|101|12|Big Creek|Big Creek Voting District
+05|101|13|Polk|Polk Voting District
+05|101|14|White|White Voting District
+05|101|15|Hasty|Hasty Voting District
+05|101|16|Grove|Grove Voting District
+05|101|17|Dogpatch|Dogpatch Voting District
+05|101|18|Mt Sherman|Mt Sherman Voting District
+05|101|19|Hudson|Hudson Voting District
+05|101|2|Ponca|Ponca Voting District
+05|101|20|Jackson|Jackson Voting District
+05|101|21|Jasper Ward1|Jasper Ward1
+05|101|22|Jasper Ward 2|Jasper Ward 2
+05|101|3|Van Buren|Van Buren Voting District
+05|101|4|Boston|Boston Voting District
+05|101|5|Jefferson|Jefferson Voting District
+05|101|6|Low Gap|Low Gap Voting District
+05|101|7|Murray|Murray Voting District
+05|101|8|Lincoln|Lincoln Voting District
+05|101|9|Hickory Grove|Hickory Grove Voting District
+05|103|001|Red Hill Voting District|Red Hill Voting District
+05|103|002|Behestian Voting District|Behestian Voting District
+05|103|003|Carroll Voting District|Carroll Voting District
+05|103|004|Freeo Voting District|Freeo Voting District
+05|103|005|Union Voting District|Union Voting District
+05|103|006|Cleveland Voting District|Cleveland Voting District
+05|103|007|Valley Voting District|Valley Voting District
+05|103|008|River Voting District|River Voting District
+05|103|009|Bragg Voting District|Bragg Voting District
+05|103|010|Liberty Voting District|Liberty Voting District
+05|103|011|Ecore Fabre Voting District|Ecore Fabre Voting District
+05|103|012|Bradley Voting District|Bradley Voting District
+05|103|013|Lafayette A Voting District|Lafayette A Voting District
+05|103|014|Lafayette B Voting District|Lafayette B Voting District
+05|103|015|Marion Voting District|Marion Voting District
+05|103|016|Jefferson Rural Voting District|Jefferson Rural Voting District
+05|103|017|Smackover Voting District|Smackover Voting District
+05|103|018|Bridge Creek Voting District|Bridge Creek Voting District
+05|103|019|Washington Voting District|Washington Voting District
+05|103|020|Camden Ward 1|Camden Ward 1
+05|103|021|Camden Ward 2|Camden Ward 2
+05|103|022|Camden Ward 3|Camden Ward 3
+05|103|023|Camden Ward 4A|Camden Ward 4A
+05|103|024|Camden Ward 4|Camden Ward 4
+05|103|025|Camden Ward 4B|Camden Ward 4B
+05|103|026|Camden Ward 5|Camden Ward 5
+05|103|027|Camden Ward 6|Camden Ward 6
+05|103|028|Camden Ward 6A|Camden Ward 6A
+05|103|029|Camden Ward 7|Camden Ward 7
+05|103|030|Camden Ward 17B|Camden Ward 17B
+05|103|031|Camden Ward 8|Camden Ward 8
+05|103|032|Camden Ward 9|Camden Ward 9
+05|103|033|Camden Ward 9A|Camden Ward 9A
+05|103|034|Camden Ward 10|Camden Ward 10
+05|103|035|Camden Ward 11|Camden Ward 11
+05|103|036|Camden Ward 12|Camden Ward 12
+05|103|037|Camden Ward 13|Camden Ward 13
+05|103|038|Camden Ward 13A|Camden Ward 13A
+05|103|039|Camden Ward 13B|Camden Ward 13B
+05|103|040|Camden Ward 14|Camden Ward 14
+05|103|041|Camden Ward 14A|Camden Ward 14A
+05|103|042|Camden Ward 15|Camden Ward 15
+05|103|043|Camden Ward 15A|Camden Ward 15A
+05|103|044|Camden Ward 16|Camden Ward 16
+05|103|045|Camden Ward 16A|Camden Ward 16A
+05|103|046|Camden Ward 17|Camden Ward 17
+05|103|046A|Camden Ward 17A|Camden Ward 17A
+05|103|047|Bearden Ward 1|Bearden Ward 1
+05|103|048|Bearden Ward 2|Bearden Ward 2
+05|103|049|Bearden Ward 3|Bearden Ward 3
+05|103|050|Stephens Ward 1|Stephens Ward 1
+05|103|051|Stephens Ward 2|Stephens Ward 2
+05|103|052|Stephens Ward 3|Stephens Ward 3
+05|103|053|Stephens Ward 4|Stephens Ward 4
+05|103|054|Camden Ward 7A|Camden Ward 7A
+05|105|001|Rose Creek Voting District|Rose Creek Voting District
+05|105|002|Petit Jean Voting District|Petit Jean Voting District
+05|105|003|Lake Voting District|Lake Voting District
+05|105|004|Houston Voting District|Houston Voting District
+05|105|005|Union Voting District|Union Voting District
+05|105|006|Perry Voting District|Perry Voting District
+05|105|007|Casa Voting District|Casa Voting District
+05|105|008|New Tennessee Voting District|New Tennessee Voting District
+05|105|009|Alpin Voting District|Alpin Voting District
+05|105|010|Cherry Hill Voting District|Cherry Hill Voting District
+05|105|011|Fourche La Fave Voting District|Fourche La Fave Voting District
+05|105|012|Tyler Voting District|Tyler Voting District
+05|105|013|Maumelle Voting District|Maumelle Voting District
+05|105|014|Union Valley Voting District|Union Valley Voting District
+05|105|015|Rankin Voting District|Rankin Voting District
+05|105|017|Wye Voting District|Wye Voting District
+05|105|018|Perryville Ward 1 Voting District|Perryville Ward 1 Voting District
+05|105|019|Perryville Ward 2 Voting District|Perryville Ward 2 Voting District
+05|105|020|Perryville Ward 3 Voting District|Perryville Ward 3 Voting District
+05|105|021|Kenny Voting District|Kenny Voting District
+05|107|001|Hicksville Voting District|Hicksville Voting District
+05|107|002|Hickory Ridge Voting District|Hickory Ridge Voting District
+05|107|003|Marion Voting District|Marion Voting District
+05|107|004|Spring Creek 4 Voting District|Spring Creek 4 Voting District
+05|107|005|Cleburne Voting District|Cleburne Voting District
+05|107|006|Hornor 1 Voting District|Hornor 1 Voting District
+05|107|007|Languille Voting District|Languille Voting District
+05|107|008|Cypress Voting District|Cypress Voting District
+05|107|009|Cleveland Voting District|Cleveland Voting District
+05|107|010|Upper Big Creek 1 Voting District|Upper Big Creek 1 Voting District
+05|107|012|Lake Voting District|Lake Voting District
+05|107|013|Tappan 1 Voting District|Tappan 1 Voting District
+05|107|014|Mooney Voting District|Mooney Voting District
+05|107|015|Helena Ward 1 Voting District|Helena Ward 1 Voting District
+05|107|016|Helena Ward 2 Voting District|Helena Ward 2 Voting District
+05|107|017|Helena Ward 3 Voting District|Helena Ward 3 Voting District
+05|107|018|Helena Ward 4 Voting District|Helena Ward 4 Voting District
+05|107|019|Lexa Voting District|Lexa Voting District
+05|107|020|Lakeview Voting District|Lakeview Voting District
+05|107|021|West Helena Precinct 1 Voting District|West Helena Precinct 1 Voting District
+05|107|022|West Helena Precinct 1A Voting District|West Helena Precinct 1A Voting District
+05|107|023|West Helena Precinct 1B Voting District|West Helena Precinct 1B Voting District
+05|107|024|West Helena Precinct 2 Voting District|West Helena Precinct 2 Voting District
+05|107|025|West Helena Precinct 2A Voting District|West Helena Precinct 2A Voting District
+05|107|026|West Helena Precinct 2B Voting District|West Helena Precinct 2B Voting District
+05|107|027|West Helena Precinct 3 Voting District|West Helena Precinct 3 Voting District
+05|107|028|West Helena Precinct 3B Voting District|West Helena Precinct 3B Voting District
+05|107|029|West Helena Precinct 4 Voting District|West Helena Precinct 4 Voting District
+05|107|030|West Helena Precinct 4A Voting District|West Helena Precinct 4A Voting District
+05|107|031|West Helena Precinct 4B Voting District|West Helena Precinct 4B Voting District
+05|107|032|West Helena Precinct 4C Voting District|West Helena Precinct 4C Voting District
+05|107|033|West Helena Precinct 4C2 Voting District|West Helena Precinct 4C2 Voting District
+05|107|034|Elaine Ward 1 Voting District|Elaine Ward 1 Voting District
+05|107|035|Elaine Ward 2 Voting District|Elaine Ward 2 Voting District
+05|107|036|Marvel Ward 1 Voting District|Marvel Ward 1 Voting District
+05|107|037|Marvel Ward 2 Voting District|Marvel Ward 2 Voting District
+05|107|038|Marvel Ward 3 Voting District|Marvel Ward 3 Voting District
+05|107|039|Searcy 1 Voting District|Searcy 1 Voting District
+05|107|040|Lower Big Creek Voting District|Lower Big Creek Voting District
+05|107|041|Spring Creek 1 Voting District|Spring Creek 1 Voting District
+05|107|042|Spring Creek 2 Voting District|Spring Creek 2 Voting District
+05|107|043|Spring Creek 3 Voting District|Spring Creek 3 Voting District
+05|107|044|Spring Creek 5 Voting District|Spring Creek 5 Voting District
+05|107|045|Upper Big Creek 2 Voting District|Upper Big Creek 2 Voting District
+05|107|046|Tappan 2 Voting District|Tappan 2 Voting District
+05|107|047|Searcy 2 Voting District|Searcy 2 Voting District
+05|107|048|Searcy 3 Voting Distrct|Searcy 3 Voting Distrct
+05|107|049|Bush Voting District|Bush Voting District
+05|107|050|St. Francis 1 Voting District|St. Francis 1 Voting District
+05|107|051|St. Francis 2 Voting District|St. Francis 2 Voting District
+05|107|053|St. Francis 4 Voting District|St. Francis 4 Voting District
+05|107|054|Cleburne 2 Voting District|Cleburne 2 Voting District
+05|107|055|Hornor 2 Voting District|Hornor 2 Voting District
+05|107|057|Hornor 4 Voting District|Hornor 4 Voting District
+05|107|058|Hornor 5 Voting District|Hornor 5 Voting District
+05|107|059|Hornor 6 Voting Precinct|Hornor 6 Voting Precinct
+05|107|060|Hornor 7 Voting District|Hornor 7 Voting District
+05|107|061|West Helena Precinct 1C Voting District|West Helena Precinct 1C Voting District
+05|107|062|West Helena Precinct 2C Voting District|West Helena Precinct 2C Voting District
+05|107|063|West Helena Precinct 2D Voting District|West Helena Precinct 2D Voting District
+05|107|064|West Helena Precinct 2E Voting District|West Helena Precinct 2E Voting District
+05|107|065|West Helena Precinct 2F Voting District|West Helena Precinct 2F Voting District
+05|107|066|West Helena Precinct 2G|West Helena Precinct 2G
+05|107|067|West Helena Precinct 2H Voting District|West Helena Precinct 2H Voting District
+05|107|068|West Helena Precinct 2I Voting District|West Helena Precinct 2I Voting District
+05|107|069|West Helena Precinct 3A Voting District|West Helena Precinct 3A Voting District
+05|107|070|West Helena Precinct 3C Voting District|West Helena Precinct 3C Voting District
+05|107|071|West Helena Precinct 3D|West Helena Precinct 3D
+05|107|072|West Helena Precinct 3E Voting District|West Helena Precinct 3E Voting District
+05|107|073|West Helena Precinct 3F Voting District|West Helena Precinct 3F Voting District
+05|107|075|West Helena Precinct 3H Voting District|West Helena Precinct 3H Voting District
+05|107|076|West Helena Precinct 4C3 Voting District|West Helena Precinct 4C3 Voting District
+05|107|077|West Helena Precinct 4C5 Voting District|West Helena Precinct 4C5 Voting District
+05|107|078|West Helena Precinct 4C6 Voting District|West Helena Precinct 4C6 Voting District
+05|107|079|West Helena Precinct 4C7 Voting District|West Helena Precinct 4C7 Voting District
+05|107|080|West Helena Precinct WH2A Voting District|West Helena Precinct WH2A Voting District
+05|109|1|Langley/Lodi|Langley/Lodi Voting District
+05|109|10|Murfreesboro South|Murfreesboro South Voting District
+05|109|11|Delight|Delight Voting District
+05|109|12|Antoine|Antoine Voting District
+05|109|13|Pisgah|Pisgah Voting District
+05|109|2|Glenwood North|Glenwood North Voting District
+05|109|3|Glenwood South|Glenwood South Voting District
+05|109|4|Kirby|Kirby Voting District
+05|109|5|Daisy|Daisy Voting District
+05|109|6|New Hope|New Hope Voting District
+05|109|7|Murfreesboro West 1|Murfreesboro West 1 Voting District
+05|109|8|Murfreesboro West 2|Murfreesboro West 2 Voting District
+05|109|9|Murfreesboro North|Murfreesboro North Voting District
+05|111|001|Harrisburg Ward 1 Voting District|Harrisburg Ward 1 Voting District
+05|111|003|Harrisburg Ward 3 Voting District|Harrisburg Ward 3 Voting District
+05|111|004|Harrisburg Ward 4 Voting District|Harrisburg Ward 4 Voting District
+05|111|005|Lepanto Ward 1 Voting District|Lepanto Ward 1 Voting District
+05|111|006|Lapanto Ward 2 Voting District|Lapanto Ward 2 Voting District
+05|111|007|Lepanto Ward 3 Voting District|Lepanto Ward 3 Voting District
+05|111|008|Lepanto Ward 4 Voting District|Lepanto Ward 4 Voting District
+05|111|009|Marked Tree Ward 1 Voting District|Marked Tree Ward 1 Voting District
+05|111|010|Marked Tree Ward 2 Voting District|Marked Tree Ward 2 Voting District
+05|111|011|Marked Tree Ward 3 Voting District|Marked Tree Ward 3 Voting District
+05|111|012|Marked Tree Ward 4 Voting District|Marked Tree Ward 4 Voting District
+05|111|013|Trumann Ward 1 Voting District|Trumann Ward 1 Voting District
+05|111|014|Trumann Ward 2 Voting District|Trumann Ward 2 Voting District
+05|111|015|Trumann Ward 3 Voting District|Trumann Ward 3 Voting District
+05|111|016|Trumann Ward 4 Voting District|Trumann Ward 4 Voting District
+05|111|017|Trumann Ward 5 Voting District|Trumann Ward 5 Voting District
+05|111|018|Tyronza City 1 Voting District|Tyronza City 1 Voting District
+05|111|019|Tyronza City 2 Voting District|Tyronza City 2 Voting District
+05|111|020|Tyronza City 3 Voting District|Tyronza City 3 Voting District
+05|111|021|Weiner City 1 Voting District|Weiner City 1 Voting District
+05|111|022|Weiner City 2 Voting District|Weiner City 2 Voting District
+05|111|023|Weiner City 3 Voting District|Weiner City 3 Voting District
+05|111|024|Fisher City 1 Voting District|Fisher City 1 Voting District
+05|111|025|Fisher City 2 Voting District|Fisher City 2 Voting District
+05|111|026|Fisher City 3 Voting District|Fisher City 3 Voting District
+05|111|027|Fisher City 4 Voting District|Fisher City 4 Voting District
+05|111|028|Boliver North Voting District|Boliver North Voting District
+05|111|029|Boliver South Voting District|Boliver South Voting District
+05|111|030|Dobson Pitts Voting District|Dobson Pitts Voting District
+05|111|031|Dobson Cooper Haynes Voting District|Dobson Cooper Haynes Voting District
+05|111|032|Greenfield-Greenfield Voting District|Greenfield-Greenfield Voting District
+05|111|033|Greenfield Buffalo Lick Voting District|Greenfield Buffalo Lick Voting District
+05|111|034|Greenwood TWP Voting District|Greenwood TWP Voting District
+05|111|035|Rivervale City Voting District|Rivervale City Voting District
+05|111|036|Little River TWP Voting District|Little River TWP Voting District
+05|111|037|Little River Payneway Voting District|Little River Payneway Voting District
+05|111|038|Lunsford Weona Voting District|Lunsford Weona Voting District
+05|111|039|Owen Fisher Voting District|Owen Fisher Voting District
+05|111|040|Waldenburg City Voting District|Waldenburg City Voting District
+05|111|041|Tyronza Voting District|Tyronza Voting District
+05|111|042|Scott White Hall Voting District|Scott White Hall Voting District
+05|111|043|Scott Valley View Voting District|Scott Valley View Voting District
+05|111|044|West Prairie TWP Voting District|West Prairie TWP Voting District
+05|111|045|Willis TWP Voting District|Willis TWP Voting District
+05|111|046|Owen Waldenburg Voting District|Owen Waldenburg Voting District
+05|111|047|Lunsford McCormick Voting District|Lunsford McCormick Voting District
+05|111|048|Lunsford Tuloa Voting District|Lunsford Tuloa Voting District
+05|113|01|Mena|Mena Voting District
+05|113|010|Shady|Shady Voting District
+05|113|011|Shady Grove|Shady Grove Voting District
+05|113|012|Rocky|Rocky Voting District
+05|113|013|Potter|Potter Voting District
+05|113|014|Alder Springs|Alder Springs Voting District
+05|113|015|Hatfield|Hatfield Voting District
+05|113|017|Cove|Cove Voting District
+05|113|018|Vandervoort|Vandervoort Voting District
+05|113|019|Wicks|Wicks Voting District
+05|113|020|Grannis|Grannis Voting District
+05|113|021|Mena Ward 1|Mena Ward 1
+05|113|022|Mena Ward 2|Mena Ward 2
+05|113|023|Mena Ward 3|Mena Ward 3
+05|113|04|Acorn|Acorn Voting District
+05|113|05|Ink|Ink Voting District
+05|113|06|Board Camp|Board Camp Voting District
+05|113|07|Cherry Hill|Cherry Hill Voting District
+05|113|09|Big Fork|Big Fork Voting District
+05|115|001|Freeman Voting District|Freeman Voting District
+05|115|002|Smyrna Voting District|Smyrna Voting District
+05|115|003|Liberty Voting District|Liberty Voting District
+05|115|004|Jackson Voting District|Jackson Voting District
+05|115|005|Jackson Hector Voting District|Jackson Hector Voting District
+05|115|006|Martin Voting District|Martin Voting District
+05|115|007|Bayliss Voting District|Bayliss Voting District
+05|115|008|Dover Out Voting District|Dover Out Voting District
+05|115|009|Dover Ward 1 Voting District|Dover Ward 1 Voting District
+05|115|010|Dover Ward 2 Voting District|Dover Ward 2 Voting District
+05|115|011|Phoenix Voting District|Phoenix Voting District
+05|115|012|Center Voting District|Center Voting District
+05|115|013|Griffin Voting District|Griffin Voting District
+05|115|014|Clark Out Voting District|Clark Out Voting District
+05|115|016|Illinois NOWW Voting District|Illinois NOWW Voting District
+05|115|017|Illinois NOWE Voting District|Illinois NOWE Voting District
+05|115|018|Illinois NOE Voting District|Illinois NOE Voting District
+05|115|019|Illinois SOE Voting District|Illinois SOE Voting District
+05|115|020|Valley 1 Voting District|Valley 1 Voting District
+05|115|021|Valley 2 Voting District|Valley 2 Voting District
+05|115|022|Moreland Voting District|Moreland Voting District
+05|115|023|Convenience Voting District|Convenience Voting District
+05|115|024|Burnett Voting District|Burnett Voting District
+05|115|025|Gumlog Voting District|Gumlog Voting District
+05|115|026|Pottsville Galla 1 Voting District|Pottsville Galla 1 Voting District
+05|115|027|Pottsville Galla 2 Voting District|Pottsville Galla 2 Voting District
+05|115|028|Pottsville Galla 3 Voting District|Pottsville Galla 3 Voting District
+05|115|029|Galla Out Voting District|Galla Out Voting District
+05|115|030|Atkins Wilson 1 Voting District|Atkins Wilson 1 Voting District
+05|115|031|Atkins Wilson 2 Voting District|Atkins Wilson 2 Voting District
+05|115|032|Atkins Wilson 3 Voting District|Atkins Wilson 3 Voting District
+05|115|033|Russellville 1B Voting District|Russellville 1B Voting District
+05|115|034|Russellville 1C Voting District|Russellville 1C Voting District
+05|115|035|Russelville 1D Voting District|Russelville 1D Voting District
+05|115|036|Russellville 1I Voting District|Russellville 1I Voting District
+05|115|037|Russellville 1J Voting District|Russellville 1J Voting District
+05|115|038|Russellville 2A Voting District|Russellville 2A Voting District
+05|115|039|Russellville 2B Voting District|Russellville 2B Voting District
+05|115|040|Russellville 2C Voting District|Russellville 2C Voting District
+05|115|041|Russellville 2D Voting District|Russellville 2D Voting District
+05|115|042|Russellville 2E Voting District|Russellville 2E Voting District
+05|115|043|Russellville 2F Voting District|Russellville 2F Voting District
+05|115|044|Russellville 2G Voting District|Russellville 2G Voting District
+05|115|045|Russellville 2L Voting District|Russellville 2L Voting District
+05|115|046|Russellville 2J Voting District|Russellville 2J Voting District
+05|115|047|Russellville 3A Voting District|Russellville 3A Voting District
+05|115|048|Russelville 3B Voting District|Russelville 3B Voting District
+05|115|049|Russelville 3C Voting District|Russelville 3C Voting District
+05|115|050|Russellville 3D Voting District|Russellville 3D Voting District
+05|115|051|Russellville 3E Voting District|Russellville 3E Voting District
+05|115|052|Russellville 3F Voting District|Russellville 3F Voting District
+05|115|053|Russellville 3G Voting District|Russellville 3G Voting District
+05|115|054|Russellville 3H Voting District|Russellville 3H Voting District
+05|115|055|Russelville Norristown Voting District|Russelville Norristown Voting District
+05|115|056|Wilson Out East Voting District|Wilson Out East Voting District
+05|115|057|Wilson Out West Voting District|Wilson Out West Voting District
+05|115|058|Russellville 2K Voting District|Russellville 2K Voting District
+05|115|060|Russellville 1H Voting District|Russellville 1H Voting District
+05|115|062|Russellville 2I Voting District|Russellville 2I Voting District
+05|115|063|London Ward 1 Voting District|London Ward 1 Voting District
+05|115|064|London Ward 2 Voting District|London Ward 2 Voting District
+05|115|065|London Ward 3 Voting District|London Ward 3 Voting District
+05|115|066|Dover Ward 3 Voting District|Dover Ward 3 Voting District
+05|115|067|Russellville 1G Voting District|Russellville 1G Voting District
+05|115|068|Russellville 2M Voting District|Russellville 2M Voting District
+05|117|01|Hickory Plain|Hickory Plain Voting District
+05|117|010|Calhoun|Calhoun Voting District
+05|117|011|Upper Surrounded Hill|Upper Surrounded Hill Voting District
+05|117|012|Lower Surrounded Hill|Lower Surrounded Hill Voting District
+05|117|013|Hazen TWP|Hazen TWP Voting District
+05|117|014|Hazen Ward 1|Hazen Ward 1
+05|117|015|Hazen Ward 2|Hazen Ward 2
+05|117|016|Hazen Ward 3|Hazen Ward 3
+05|117|017|Wattensaw|Wattensaw Voting District
+05|117|018|Tyler|Tyler Voting District
+05|117|019|Roc Roe|Roc Roe Voting District
+05|117|02|Bullard|Bullard Voting District
+05|117|020|Belcher|Belcher Voting District
+05|117|021|ULM|ULM Voting District
+05|117|022|Biscoe|Biscoe Voting District
+05|117|023|Devalls Bluff|Devalls Bluff Voting District
+05|117|03|Des Arc TWP|Des Arc TWP Voting District
+05|117|04|Des Arc Ward 1|Des Arc Ward 1
+05|117|05|Des Arc Ward 2|Des Arc Ward 2
+05|117|06|Des Arc Ward 3|Des Arc Ward 3
+05|117|07|Union|Union Voting District
+05|117|08|Center|Center Voting District
+05|117|09|White River|White River Voting District
+05|119|0158|PCT 908N|PCT 908N
+05|119|0159|PCT 909M|PCT 909M
+05|119|1|1|Voting District 1
+05|119|10|10|Voting District 10
+05|119|100|100|Voting District 100
+05|119|101|101|Voting District 101
+05|119|102|102|Voting District 102
+05|119|103|103|Voting District 103
+05|119|104|104|Voting District 104
+05|119|105|105|Voting District 105
+05|119|106|106|Voting District 106
+05|119|107|107|Voting District 107
+05|119|108|108|Voting District 108
+05|119|109|109|Voting District 109
+05|119|11|11|Voting District 11
+05|119|110|110|Voting District 110
+05|119|111|111|Voting District 111
+05|119|112|112|Voting District 112
+05|119|113|113|Voting District 113
+05|119|114|114|Voting District 114
+05|119|115|115|Voting District 115
+05|119|116|116|Voting District 116
+05|119|117|117|Voting District 117
+05|119|118|118|Voting District 118
+05|119|119|119|Voting District 119
+05|119|12|12|Voting District 12
+05|119|120|120|Voting District 120
+05|119|121|121|Voting District 121
+05|119|122|122|Voting District 122
+05|119|123|123|Voting District 123
+05|119|124|124|Voting District 124
+05|119|125|125|Voting District 125
+05|119|126|126|Voting District 126
+05|119|127|127|Voting District 127
+05|119|128|128|Voting District 128
+05|119|129E|129E|Voting District 129E
+05|119|129W|129W|Voting District 129W
+05|119|130E|130E|Voting District 130E
+05|119|130W|130W|Voting District 130W
+05|119|131|131|Voting District 131
+05|119|132|132|Voting District 132
+05|119|133|133|Voting District 133
+05|119|13E|13E|Voting District 13E
+05|119|13W|13W|Voting District 13W
+05|119|14|14|Voting District 14
+05|119|15|15|Voting District 15
+05|119|16|16|Voting District 16
+05|119|17|17|Voting District 17
+05|119|18|18|Voting District 18
+05|119|19|19|Voting District 19
+05|119|2|2|Voting District 2
+05|119|20|20|Voting District 20
+05|119|21|21|Voting District 21
+05|119|22|22|Voting District 22
+05|119|23|23|Voting District 23
+05|119|24|24|Voting District 24
+05|119|25|25|Voting District 25
+05|119|26|26|Voting District 26
+05|119|27|27|Voting District 27
+05|119|28|28|Voting District 28
+05|119|29|29|Voting District 29
+05|119|3|3|Voting District 3
+05|119|30|30|Voting District 30
+05|119|31|31|Voting District 31
+05|119|32|32|Voting District 32
+05|119|33|33|Voting District 33
+05|119|34|34|Voting District 34
+05|119|35|35|Voting District 35
+05|119|36|36|Voting District 36
+05|119|37|37|Voting District 37
+05|119|38|38|Voting District 38
+05|119|39|39|Voting District 39
+05|119|4|4|Voting District 4
+05|119|40|40|Voting District 40
+05|119|41|41|Voting District 41
+05|119|42|42|Voting District 42
+05|119|43|43|Voting District 43
+05|119|44|44|Voting District 44
+05|119|45|45|Voting District 45
+05|119|46|46|Voting District 46
+05|119|47|47|Voting District 47
+05|119|48|48|Voting District 48
+05|119|49|49|Voting District 49
+05|119|5|5|Voting District 5
+05|119|50|50|Voting District 50
+05|119|51|51|Voting District 51
+05|119|52|52|Voting District 52
+05|119|54|54|Voting District 54
+05|119|56|56|Voting District 56
+05|119|57|57|Voting District 57
+05|119|58|58|Voting District 58
+05|119|59|59|Voting District 59
+05|119|6|6|Voting District 6
+05|119|60|60|Voting District 60
+05|119|61|61|Voting District 61
+05|119|62|62|Voting District 62
+05|119|63|63|Voting District 63
+05|119|64|64|Voting District 64
+05|119|65|65|Voting District 65
+05|119|66|66|Voting District 66
+05|119|67|67|Voting District 67
+05|119|68|68|Voting District 68
+05|119|69|69|Voting District 69
+05|119|7|7|Voting District 7
+05|119|70|70|Voting District 70
+05|119|71|71|Voting District 71
+05|119|72|72|Voting District 72
+05|119|73|73|Voting District 73
+05|119|74|74|Voting District 74
+05|119|75|75|Voting District 75
+05|119|76|76|Voting District 76
+05|119|77|77|Voting District 77
+05|119|78|78|Voting District 78
+05|119|79|79|Voting District 79
+05|119|8|8|Voting District 8
+05|119|80|80|Voting District 80
+05|119|81|81|Voting District 81
+05|119|82|82|Voting District 82
+05|119|83|83|Voting District 83
+05|119|84|84|Voting District 84
+05|119|85|85|Voting District 85
+05|119|86|86|Voting District 86
+05|119|87|87|Voting District 87
+05|119|88|88|Voting District 88
+05|119|89|89|Voting District 89
+05|119|9|9|Voting District 9
+05|119|90|90|Voting District 90
+05|119|91|91|Voting District 91
+05|119|92|92|Voting District 92
+05|119|93|93|Voting District 93
+05|119|94|94|Voting District 94
+05|119|95|95|Voting District 95
+05|119|96|96|Voting District 96
+05|119|97|97|Voting District 97
+05|119|98|98|Voting District 98
+05|119|99|99|Voting District 99
+05|121|01|Union|Union Voting District
+05|121|010|Rickardson|Rickardson Voting District
+05|121|011|Jane's Creek|Jane's Creek Voting District
+05|121|012|Water Valley|Water Valley Voting District
+05|121|013|Eleven Point|Eleven Point Voting District
+05|121|014|Foster|Foster Voting District
+05|121|015|Columbia|Columbia Voting District
+05|121|016|Running Lake|Running Lake Voting District
+05|121|017|Current River|Current River Voting District
+05|121|018|Reyno|Reyno Voting District
+05|121|019|Spring River|Spring River Voting District
+05|121|02|Dalton|Dalton Voting District
+05|121|020|West Roanoke|West Roanoke Voting District
+05|121|021|East Roanoke|East Roanoke Voting District
+05|121|022|Butler|Butler Voting District
+05|121|023|Bristow|Bristow Voting District
+05|121|024|Wiley|Wiley Voting District
+05|121|025|O'Kean|O'Kean Voting District
+05|121|026|Demun|Demun Voting District
+05|121|027|Pocahontas Ward 1|Pocahontas Ward 1
+05|121|028|Pocahontas Ward 2|Pocahontas Ward 2
+05|121|029|Pocahontas Ward 3|Pocahontas Ward 3
+05|121|03|Baker|Baker Voting District
+05|121|030|Shiloh|Shiloh Voting District
+05|121|04|Warm Springs|Warm Springs Voting District
+05|121|05|Siloam|Siloam Voting District
+05|121|06|Little Black|Little Black Voting District
+05|121|08|Jackson|Jackson Voting District
+05|121|09|Ingram|Ingram Voting District
+05|123|01|FORREST CITY WARD 1 BOX 1 PCT 35|FORREST CITY WARD 1 BOX 1 PCT 35
+05|123|010|FORREST CITY WARD 4 BOX 1 PCT 57|FORREST CITY WARD 4 BOX 1 PCT 57
+05|123|011|FORREST CITY WARD 4 BOX 2 PCT 60|FORREST CITY WARD 4 BOX 2 PCT 60
+05|123|012|FORREST CITY WARD 4 BOX 3 PCT 66|FORREST CITY WARD 4 BOX 3 PCT 66
+05|123|013|MADISON CITY PCT 14|MADISON CITY PCT 14
+05|123|014|MADISON COUNTRY PCT 15|MADISON COUNTRY PCT 15
+05|123|015|COURTHOUSE WEST PCT 26|COURTHOUSE WEST PCT 26
+05|123|016|BONAIR PCT 17|BONAIR PCT 17
+05|123|017|BLACKFISH PCT 7|BLACKFISH PCT 7
+05|123|018|ROUND POUND PCT 13|ROUND POUND PCT 13
+05|123|019|WIDENER CITY PCT 10|WIDENER CITY PCT 10
+05|123|02|FORREST CITY WARD 1 BOX 2 PCT 36|FORREST CITY WARD 1 BOX 2 PCT 36
+05|123|020|NEWCASTLE PCT 19|NEWCASTLE PCT 19
+05|123|021|COLT COUNTRY PCT 21|COLT COUNTRY PCT 21
+05|123|022|COLT CITY PCT 20|COLT CITY PCT 20
+05|123|023|CALDWELL PCT 22|CALDWELL PCT 22
+05|123|024|GARLAND PCT 4|GARLAND PCT 4
+05|123|025|HUGHES WARD 1 PCT 1|HUGHES WARD 1 PCT 1
+05|123|026|HUGHES WARD 2 PCT 2|HUGHES WARD 2 PCT 2
+05|123|027|RAWLINSON PCT 5|RAWLINSON PCT 5
+05|123|028|HETH PCT 6|HETH PCT 6
+05|123|029|PALESTINE COUNTRY PCT 31|PALESTINE COUNTRY PCT 31
+05|123|03|FORREST CITY WARD 1 BOX 3 PCT 38|FORREST CITY WARD 1 BOX 3 PCT 38
+05|123|030|PALESTINE WARD 1 PCT 28|PALESTINE WARD 1 PCT 28
+05|123|031|GOODWIN PCT 32|GOODWIN PCT 32
+05|123|032|WHEATLEY PCT 33|WHEATLEY PCT 33
+05|123|033|PINE TREE PCT 27|PINE TREE PCT 27
+05|123|034|HUGHES WARD 3 PCT 3|HUGHES WARD 3 PCT 3
+05|123|035|GRIGGS EAST PCT 8|GRIGGS EAST PCT 8
+05|123|036|GRIGGS WEST PCT 9|GRIGGS WEST PCT 9
+05|123|037|BLACKFISH PCT 7|BLACKFISH PCT 7
+05|123|038|ROUND POUND PCT 12|ROUND POUND PCT 12
+05|123|039|TUNI PCT 16|TUNI PCT 16
+05|123|040|PARROT PCT 18|PARROT PCT 18
+05|123|041|CALDWELL COUNTRY PCT 23|CALDWELL COUNTRY PCT 23
+05|123|042|MADISON TWP PCT 24|MADISON TWP PCT 24
+05|123|043|MADISON TWP PCT 25|MADISON TWP PCT 25
+05|123|044|PALESTINE WARD 2 PCT 29|PALESTINE WARD 2 PCT 29
+05|123|045|PALESTINE WARD 3 PCT 30|PALESTINE WARD 3 PCT 30
+05|123|046|WHEATLEY COUNTRY PCT 34|WHEATLEY COUNTRY PCT 34
+05|123|047|FORREST CITY WARD 1 BOX 1 PCT 36|FORREST CITY WARD 1 BOX 1 PCT 36
+05|123|048|FORREST CITY WARD 2 BOX 2 PCT 40|FORREST CITY WARD 2 BOX 2 PCT 40
+05|123|049|FORREST CITY WARD 2 BOX 2 PCT 41|FORREST CITY WARD 2 BOX 2 PCT 41
+05|123|05|FORREST CITY WARD 2 BOX 2 PCT 39|FORREST CITY WARD 2 BOX 2 PCT 39
+05|123|050|FORREST CITY WARD 2 BOX 2 PCT 42|FORREST CITY WARD 2 BOX 2 PCT 42
+05|123|051|FORREST CITY WARD 2 BOX 2 PCT 43|FORREST CITY WARD 2 BOX 2 PCT 43
+05|123|052|FORREST CITY WARD 2 BOX 2 PCT 44|FORREST CITY WARD 2 BOX 2 PCT 44
+05|123|053|FORREST CITY WARD 2 BOX 2 PCT 45|FORREST CITY WARD 2 BOX 2 PCT 45
+05|123|054|FORREST CITY WARD 2 BOX 2 PCT 46|FORREST CITY WARD 2 BOX 2 PCT 46
+05|123|055|FORREST CITY WARD 2 BOX 2 PCT 47|FORREST CITY WARD 2 BOX 2 PCT 47
+05|123|056|FORREST CITY WARD 2 BOX 2 PCT 49|FORREST CITY WARD 2 BOX 2 PCT 49
+05|123|057|FORREST CITY WARD 2 BOX 3 PCT 50|FORREST CITY WARD 2 BOX 3 PCT 50
+05|123|058|FORREST CITY WARD 2 BOX 3 PCT 51|FORREST CITY WARD 2 BOX 3 PCT 51
+05|123|059|FORREST CITY WARD 3 BOX 1 PCT 52|FORREST CITY WARD 3 BOX 1 PCT 52
+05|123|06|FORREST CITY WARD 2 BOX 3 PCT 48|FORREST CITY WARD 2 BOX 3 PCT 48
+05|123|060|FORREST CITY WARD 3 BOX 3 PCT 54|FORREST CITY WARD 3 BOX 3 PCT 54
+05|123|061|FORREST CITY WARD 3 BOX 3 PCT 55|FORREST CITY WARD 3 BOX 3 PCT 55
+05|123|062|FORREST CITY WARD 3 BOX 3 PCT 56|FORREST CITY WARD 3 BOX 3 PCT 56
+05|123|063|FORREST CITY WARD 4 BOX 1 PCT 58|FORREST CITY WARD 4 BOX 1 PCT 58
+05|123|064|FORREST CITY WARD 4 BOX 2 PCT 61|FORREST CITY WARD 4 BOX 2 PCT 61
+05|123|065|FORREST CITY WARD 4 BOX 2 PCT 62|FORREST CITY WARD 4 BOX 2 PCT 62
+05|123|066|FORREST CITY WARD 4 BOX 2 PCT 64|FORREST CITY WARD 4 BOX 2 PCT 64
+05|123|067|FORREST CITY WARD 4 BOX 2 PCT 65|FORREST CITY WARD 4 BOX 2 PCT 65
+05|123|068|FORREST CITY WARD 1 BOX 3 PCT 67|FORREST CITY WARD 1 BOX 3 PCT 67
+05|123|09|FORREST CITY WARD 3 BOX 3 PCT 53|FORREST CITY WARD 3 BOX 3 PCT 53
+05|125|01|Holland|Holland Voting District
+05|125|010|Fairplay|Fairplay Voting District
+05|125|011|Newcomb|Newcomb Voting District
+05|125|012|Haskell A|Haskell A Voting District
+05|125|013|Haskell B|Haskell B Voting District
+05|125|014|Traskwood|Traskwood Voting District
+05|125|015|Shaw|Shaw Voting District
+05|125|016|Smith|Smith Voting District
+05|125|017|Bauxite|Bauxite Voting District
+05|125|018|Hurricane|Hurricane Voting District
+05|125|019|Banner A|Banner A Voting District
+05|125|02|Jefferson|Jefferson Voting District
+05|125|020|Banner B|Banner B Voting District
+05|125|021|Otter B|Otter B Voting District
+05|125|022|Otter C|Otter C Voting District
+05|125|023|Otter D|Otter D Voting District
+05|125|024|Shannon Hills A|Shannon Hills A Voting District
+05|125|025|Shannon Hills B|Shannon Hills B Voting District
+05|125|026|Owen A|Owen A Voting District
+05|125|028|Owen C|Owen C Voting District
+05|125|029|Owen D|Owen D Voting District
+05|125|03|Marble|Marble Voting District
+05|125|030|Salem A|Salem A Voting District
+05|125|031|Salem B|Salem B Voting District
+05|125|032|Salem C|Salem C Voting District
+05|125|033|Salem D|Salem D Voting District
+05|125|034|Bryant A|Bryant A Voting District
+05|125|035|Bryant B|Bryant B Voting District
+05|125|036|Bryant C|Bryant C Voting District
+05|125|037|Bryant D|Bryant D Voting District
+05|125|038|Bryant E|Bryant E Voting District
+05|125|039|Bryant F|Bryant F Voting District
+05|125|04|Dyer A|Dyer A Voting District
+05|125|040|Benton 1A|Benton 1A Voting District
+05|125|041|Benton 1B|Benton 1B Voting District
+05|125|042|Benton 1C|Benton 1C Voting District
+05|125|043|Benton 1D|Benton 1D Voting District
+05|125|045|Benton 2A|Benton 2A Voting District
+05|125|046|Benton 2B|Benton 2B Voting District
+05|125|047|Benton 2C|Benton 2C Voting District
+05|125|048|Benton 3A|Benton 3A Voting District
+05|125|049|Benton 3B|Benton 3B Voting District
+05|125|05|Dyer B|Dyer B Voting District
+05|125|050|Benton 3C|Benton 3C Voting District
+05|125|051|Benton 3D|Benton 3D Voting District
+05|125|052|Benton 3E|Benton 3E Voting District
+05|125|053|Benton 4A|Benton 4A Voting District
+05|125|054|Benton 4B|Benton 4B Voting District
+05|125|055|Benton 4C|Benton 4C Voting District
+05|125|056|Benton 4D|Benton 4D Voting District
+05|125|057|Benton 5A|Benton 5A Voting District
+05|125|058|Benton 5B|Benton 5B Voting District
+05|125|059|Benton 5C|Benton 5C Voting District
+05|125|06|Union|Union Voting District
+05|125|060|Benton 2D|Benton 2D Voting District
+05|125|061|Bauxite City|Bauxite City Voting District
+05|125|07|Beaver|Beaver Voting District
+05|125|08|Kentucky|Kentucky Voting District
+05|125|09|Liberty|Liberty Voting District
+05|127|01|Lewis|Lewis Voting District
+05|127|010|Hickman|Hickman Voting District
+05|127|011|Mount Pleasant|Mount Pleasant Voting District
+05|127|012|James|James Voting District
+05|127|013|Brawley|Brawley Voting District
+05|127|014|Denton|Denton Voting District
+05|127|015|Lamb|Lamb Voting District
+05|127|016|Lafave|Lafave Voting District
+05|127|017|Jones|Jones Voting District
+05|127|018|Black Fork|Black Fork Voting District
+05|127|019|Blansett|Blansett Voting District
+05|127|02|Mansfield|Mansfield Voting District
+05|127|020|Mountain|Mountain Voting District
+05|127|021|Parks|Parks Voting District
+05|127|022|Cedar|Cedar Voting District
+05|127|023|Little Texas|Little Texas Voting District
+05|127|024|Mill Creek|Mill Creek Voting District
+05|127|025|Waldron Ward 1|Waldron Ward 1
+05|127|026|Waldron Ward 3|Waldron Ward 3
+05|127|027|Waldron Ward 2|Waldron Ward 2
+05|127|028|Lafayette|Lafayette Voting District
+05|127|03|Tomlinson|Tomlinson Voting District
+05|127|04|Tate|Tate Voting District
+05|127|05|Hunt|Hunt Voting District
+05|127|06|Coal|Coal Voting District
+05|127|07|Cauthron|Cauthron Voting District
+05|127|08|Oliver|Oliver Voting District
+05|127|09|Hon|Hon Voting District
+05|129|01|Prairie|Prairie Voting District
+05|129|010|Bear Creek 6|Bear Creek 6 Voting District
+05|129|011|Long Creek|Long Creek Voting District
+05|129|012|Mt. Pleasant|Mt. Pleasant Voting District
+05|129|014|Red River|Red River Voting District
+05|129|015|Wiley Cove|Wiley Cove Voting District
+05|129|016|Oxley|Oxley Voting District
+05|129|017|Shady Grove|Shady Grove Voting District
+05|129|02|Tomahawk|Tomahawk Voting District
+05|129|04|Rock Creek|Rock Creek Voting District
+05|129|05|St. Joe|St. Joe Voting District
+05|129|06|Calf Creek|Calf Creek Voting District
+05|129|07|Springs|Springs Voting District
+05|129|08|Bear Creek 4|Bear Creek 4 Voting District
+05|129|09|Bear Creek 5|Bear Creek 5 Voting District
+05|131|01|9-1-A|Voting District 9-1-A
+05|131|010|9-4-I|Voting District 9-4-I
+05|131|0100|9-3-L|Voting District 9-3-L
+05|131|0101|9-3-D|Voting District 9-3-D
+05|131|0102|9-3-H|Voting District 9-3-H
+05|131|0103|9-3-A|Voting District 9-3-A
+05|131|0104|9-4-K|Voting District 9-4-K
+05|131|0105|9-1-L|Voting District 9-1-L
+05|131|0106|9-1-F, 9-1-G, 9-1-H|Voting District 9-1-F, 9-1-G, 9-1-H
+05|131|0107|4-F|Voting District 4-F
+05|131|0108|1-I|Voting District 1-I
+05|131|0109|9-4-L|Voting District 9-4-L
+05|131|0110|9-6-A|Voting District 9-6-A
+05|131|0111|3-F|Voting District 3-F
+05|131|0112|9-4-B|Voting District 9-4-B
+05|131|0113|9-4-A|Voting District 9-4-A
+05|131|0114|9-4-C|Voting District 9-4-C
+05|131|0115|9-4-D, 9-4-E, 9-4-F|Voting District 9-4-D, 9-4-E, 9-4-F
+05|131|0116|9-4-G|Voting District 9-4-G
+05|131|0117|9-4-M|Voting District 9-4-M
+05|131|0118|9-4-J|Voting District 9-4-J
+05|131|0119|9-1-N|Voting District 9-1-N
+05|131|012|9-2-E|Voting District 9-2-E
+05|131|0120|3-O|Voting District 3-O
+05|131|0121|9-6-B|Voting District 9-6-B
+05|131|0122|9-2-D|Voting District 9-2-D
+05|131|0123|9-1-O|Voting District 9-1-O
+05|131|0124|9-2-A, 9-2-B, 9-2-C|Voting District 9-2-A, 9-2-B, 9-2-C
+05|131|0125|9-1-P|Voting District 9-1-P
+05|131|013|9-1-Q|Voting District 9-1-Q
+05|131|014|9-3-F|Voting District 9-3-F
+05|131|015|9-3-E|Voting District 9-3-E
+05|131|016|9-3-C|Voting District 9-3-C
+05|131|017|9-3-G|Voting District 9-3-G
+05|131|018|9-3-I|Voting District 9-3-I
+05|131|019|9-3-M|Voting District 9-3-M
+05|131|02|9-1-B|Voting District 9-1-B
+05|131|020|9-3-K|Voting District 9-3-K
+05|131|021|1-J|Voting District 1-J
+05|131|023|1-A|Voting District 1-A
+05|131|025|1-B|Voting District 1-B
+05|131|026|1|Voting District 1
+05|131|027|1-C|Voting District 1-C
+05|131|029|1-F|Voting District 1-F
+05|131|03|9-1-C|Voting District 9-1-C
+05|131|031|1-K|Voting District 1-K
+05|131|033|1-H|Voting District 1-H
+05|131|034|1-G|Voting District 1-G
+05|131|035|1-D|Voting District 1-D
+05|131|036|1-E|Voting District 1-E
+05|131|04|9-1-E|Voting District 9-1-E
+05|131|043|2A|Voting District 2A
+05|131|044|2-B|Voting District 2-B
+05|131|045|2-C|Voting District 2-C
+05|131|046|2-D|Voting District 2-D
+05|131|047|2-E|Voting District 2-E
+05|131|05|9-1-I, 9-1-J, 9-1-K|Voting District 9-1-I, 9-1-J, 9-1-K
+05|131|050|2-F|Voting District 2-F
+05|131|062|3-C|Voting District 3-C
+05|131|063|3-D|Voting District 3-D
+05|131|065|3-B|Voting District 3-B
+05|131|068|3-G|Voting District 3-G
+05|131|069|3-I|Voting District 3-I
+05|131|07|3-J|Voting District 3-J
+05|131|071|3-E|Voting District 3-E
+05|131|079|4-B|Voting District 4-B
+05|131|08|9-4-H|Voting District 9-4-H
+05|131|081|4-D|Voting District 4-D
+05|131|082|4-A|Voting District 4-A
+05|131|083|4-I|Voting District 4-I
+05|131|084|4-G|Voting District 4-G
+05|131|086|4-H|Voting District 4-H
+05|131|087|4-C|Voting District 4-C
+05|131|088|4-J|Voting District 4-J
+05|131|09|9-3-B|Voting District 9-3-B
+05|131|091|4-M|Voting District 4-M
+05|131|096|9-1-M|Voting District 9-1-M
+05|131|097|3-A|Voting District 3-A
+05|131|098|9-1-D|Voting District 9-1-D
+05|131|099|9-3-J|Voting District 9-3-J
+05|133|01|Mineral North|Mineral North Voting District
+05|133|010|Red Colony North|Red Colony North Voting District
+05|133|011|Clear Creek 2|Clear Creek 2 Voting District
+05|133|013|Paraclifta|Paraclifta Voting District
+05|133|014|Ben Lomond|Ben Lomond Voting District
+05|133|015|Washington|Washington Voting District
+05|133|016|Dequeen North Central|Dequeen North Central Voting District
+05|133|017|Dequeen Northwest|Dequeen Northwest Voting District
+05|133|018|Dequeen Southwest|Dequeen Southwest Voting District
+05|133|019|Dequeen East|Dequeen East Voting District
+05|133|02|Mineral South|Mineral South Voting District
+05|133|020|Bear Creek East|Bear Creek East Voting District
+05|133|03|Jefferson|Jefferson Voting District
+05|133|04|Monroe|Monroe Voting District
+05|133|05|Bear Creek West|Bear Creek West Voting District
+05|133|06|Saline West|Saline West Voting District
+05|133|07|Clear Creek 3|Clear Creek 3 Voting District
+05|133|08|Clear Creek 1|Clear Creek 1 Voting District
+05|133|09|Red Colony South|Red Colony South Voting District
+05|133|21|Saline East|Saline East Voting District
+05|135|01|Upper North|Upper North Voting District
+05|135|010|Davidson|Davidson Voting District
+05|135|011|Jackson|Jackson Voting District
+05|135|012|North Lebanon|North Lebanon Voting District
+05|135|013|Lave Creek|Lave Creek Voting District
+05|135|014|Morgan|Morgan Voting District
+05|135|015|South Lebanon|South Lebanon Voting District
+05|135|016|Piney Fork|Piney Fork Voting District
+05|135|017|North Big Rock|North Big Rock Voting District
+05|135|018|Strawberry|Strawberry Voting District
+05|135|019|West Sullivan|West Sullivan Voting District
+05|135|02|Lower North|Lower North Voting District
+05|135|020|East Sullivan|East Sullivan Voting District
+05|135|021|Washington|Washington Voting District
+05|135|022|South Big Rock|South Big Rock Voting District
+05|135|023|Big Creek|Big Creek Voting District
+05|135|025|Cave|Cave Voting District
+05|135|026|Scott|Scott Voting District
+05|135|03|North Union|North Union Voting District
+05|135|04|Cherokee|Cherokee Voting District
+05|135|05|Hardy|Hardy Voting District
+05|135|06|Ozark|Ozark Voting District
+05|135|07|South Union|South Union Voting District
+05|135|08|Highland|Highland Voting District
+05|135|09|Richwoods|Richwoods Voting District
+05|137|01|Northwest|Northwest Voting District
+05|137|010|Locust Grove|Locust Grove Voting District
+05|137|011|Timbo|Timbo Voting District
+05|137|012|Liberty|Liberty Voting District
+05|137|013|Mt View Ward 1|Mt View Ward 1
+05|137|014|Mt View Ward 2|Mt View Ward 2
+05|137|015|Mt View Ward 3|Mt View Ward 3
+05|137|016|Blue Mountain East|Blue Mountain East Voting District
+05|137|017|Blue Mountain West|Blue Mountain West Voting District
+05|137|018|Franklin|Franklin Voting District
+05|137|019|Flag|Flag Voting District
+05|137|02|Fifty Six|Fifty Six Voting District
+05|137|020|Union|Union Voting District
+05|137|021|Red River|Red River Voting District
+05|137|022|Turkey Creek|Turkey Creek Voting District
+05|137|023|Richwoods|Richwoods Voting District
+05|137|024|Smart|Smart Voting District
+05|137|025|Bryan|Bryan Voting District
+05|137|026|Arbana|Arbana Voting District
+05|137|027|Red Stripe|Red Stripe Voting District
+05|137|028|Wilson|Wilson Voting District
+05|137|029|Marcella|Marcella Voting District
+05|137|03|Optimus|Optimus Voting District
+05|137|04|Farris|Farris Voting District
+05|137|05|Roasting Ear|Roasting Ear Voting District
+05|137|06|Sylamore|Sylamore Voting District
+05|137|07|Harris|Harris Voting District
+05|137|08|Washington|Washington Voting District
+05|137|09|Jones|Jones Voting District
+05|139|01|MT HOLLY|MT HOLLY Voting District
+05|139|02|THREE CREEKS|THREE CREEKS Voting District
+05|139|03|EL DORADO WARD 1 PCT 1|EL DORADO WARD 1 PCT 1
+05|139|04|EL DORADO WARD 1 PCT 2|EL DORADO WARD 1 PCT 2
+05|139|05|EL DORADO WARD 1 PCT 3|EL DORADO WARD 1 PCT 3
+05|139|06|EL DORADO WARD 2 PCT 1|EL DORADO WARD 2 PCT 1
+05|139|07|EL DORADO WARD 2 PCT2|EL DORADO WARD 2 PCT2
+05|139|08|EL DORADO WARD 3 PCT 1|EL DORADO WARD 3 PCT 1
+05|139|09|EL DORADO WARD 3 PCT 2|EL DORADO WARD 3 PCT 2
+05|139|10|EL DORADO WARD 4 PCT 1|EL DORADO WARD 4 PCT 1
+05|139|11|EL DORADO WARD 4 PCT 2|EL DORADO WARD 4 PCT 2
+05|139|12|EL DORADO WARD 4 PCT 3|EL DORADO WARD 4 PCT 3
+05|139|13|EL DORADO WARD 4 PCT 4|EL DORADO WARD 4 PCT 4
+05|139|14|EL DORADO COUNTRY BOX 1|EL DORADO COUNTRY BOX 1 Voting District
+05|139|15|EL DORADO COUNTRY BOX 2|EL DORADO COUNTRY BOX 2 Voting District
+05|139|16|EL DORADO COUNTRY BOX 3|EL DORADO COUNTRY BOX 3 Voting District
+05|139|17|EL DORADO COUNTRY BOX 4|EL DORADO COUNTRY BOX 4 Voting District
+05|139|18|DORADO COUNTRY BOX 5|DORADO COUNTRY BOX 5 Voting District
+05|139|19|CALION CITY BOX|CALION CITY BOX Voting District
+05|139|20|CALION COUNTRY BOX|CALION COUNTRY BOX Voting District
+05|139|21|UNION|UNION Voting District
+05|139|22|WOOLEYS STORE|WOOLEYS STORE Voting District
+05|139|23|NEW UNION|NEW UNION Voting District
+05|139|24|NEW LONDON|NEW LONDON Voting District
+05|139|25|JUNCTION CITY CITY BOX|JUNCTION CITY CITY BOX Voting District
+05|139|26|JUNCTION CITY COUNTRY BOX|JUNCTION CITY COUNTRY BOX Voting District
+05|139|27|CALEDONIA|CALEDONIA Voting District
+05|139|28|URBANA|URBANA Voting District
+05|139|29|HBANKS|HBANKS Voting District
+05|139|30|AURELLE|AURELLE Voting District
+05|139|31|HUTTIG CITY BOX|HUTTIG CITY BOX Voting District
+05|139|32|HUTTIG COUNTRY BOX|HUTTIG COUNTRY BOX Voting District
+05|139|33|STRONG CITY BOX|STRONG CITY BOX Voting District
+05|139|34|STRONG COUNTRY BOX|STRONG COUNTRY BOX Voting District
+05|139|35|FELSENTHAL|FELSENTHAL Voting District
+05|139|36|NOPHLET CITY BOX|NOPHLET CITY BOX Voting District
+05|139|37|NOPHLET COUNTRY BOX|NOPHLET COUNTRY BOX Voting District
+05|139|38|SMACKOVER WARD 1|SMACKOVER WARD 1
+05|139|39|SMACKOVER WARD 2|SMACKOVER WARD 2
+05|139|40|SMACKOVER WARD 3|SMACKOVER WARD 3
+05|139|41|SMACKOVER COUNTRY BOX|SMACKOVER COUNTRY BOX Voting District
+05|139|42|NEW HOPE|NEW HOPE Voting District
+05|139|43|LISBON|LISBON Voting District
+05|139|44|WESSON|WESSON Voting District
+05|139|45|LAWSON|LAWSON Voting District
+05|139|46|EL DORADO WARD 1 PCT 4|EL DORADO WARD 1 PCT 4
+05|139|47|EL DORADO WARD 1 PCT 5|EL DORADO WARD 1 PCT 5
+05|139|48|EL DORADO COUNTRY BOX 6|EL DORADO COUNTRY BOX 6 Voting District
+05|141|01|Washington|Washington Voting District
+05|141|010|Craig|Craig Voting District
+05|141|011|Culpepper|Culpepper Voting District
+05|141|013|Chocktaw|Chocktaw Voting District
+05|141|014|Red River|Red River Voting District
+05|141|015|Davis|Davis Voting District
+05|141|016|Bradley|Bradley Voting District
+05|141|017|Barnett|Barnett Voting District
+05|141|019|Cargile|Cargile Voting District
+05|141|02|Linn Creek|Linn Creek Voting District
+05|141|020|West Griggs|West Griggs Voting District
+05|141|021|Wheeler|Wheeler Voting District
+05|141|022|Indian Rock|Indian Rock Voting District
+05|141|023|Formosa|Formosa Voting District
+05|141|024|East Griggs|East Griggs Voting District
+05|141|025|South Griggs|South Griggs Voting District
+05|141|026|Lakewood|Lakewood Voting District
+05|141|027|Mountain Ranch|Mountain Ranch Voting District
+05|141|05|Mountain/Hart Suggs|Mountain/Hart Suggs Voting District
+05|141|07|Holly Mountain|Holly Mountain Voting District
+05|141|08|Union|Union Voting District
+05|143|00|FAYETTEVILLE PCT 42|FAYETTEVILLE PCT 42
+05|143|001|BRUSH CREEK|BRUSH CREEK Voting District
+05|143|002|CANE HILL|CANE HILL Voting District
+05|143|003|CENTER|CENTER Voting District
+05|143|005|COVE CREEK|COVE CREEK Voting District
+05|143|006|CRAWFORD|CRAWFORD Voting District
+05|143|007|DURHAM|DURHAM Voting District
+05|143|008|DUTCH MILLS|DUTCH MILLS Voting District
+05|143|009|ELKINS CITY|ELKINS CITY Voting District
+05|143|010|ELM SPRINGS|ELM SPRINGS Voting District
+05|143|011|FARMINGTON|FARMINGTON Voting District
+05|143|012|FAYETTEVILLE PCT 1|FAYETTEVILLE PCT 1
+05|143|013|FAYETTEVILLE PCT 2|FAYETTEVILLE PCT 2
+05|143|014|FAYETTEVILLE PCT 31|FAYETTEVILLE PCT 31
+05|143|015|FAYETTEVILLE PCT 4|FAYETTEVILLE PCT 4
+05|143|016|FAYETTEVILLE PCT 5|FAYETTEVILLE PCT 5
+05|143|017|FAYETTEVILLE PCT 6|FAYETTEVILLE PCT 6
+05|143|018|FAYETTEVILLE PCT 7|FAYETTEVILLE PCT 7
+05|143|019|FAYETTEVILLE PCT 8|FAYETTEVILLE PCT 8
+05|143|020|FAYETTEVILLE PCT 9|FAYETTEVILLE PCT 9
+05|143|021|FAYETTEVILLE PCT 10|FAYETTEVILLE PCT 10
+05|143|022|FAYETTEVILLE PCT 11|FAYETTEVILLE PCT 11
+05|143|023|FAYETTEVILLE PCT 12|FAYETTEVILLE PCT 12
+05|143|024|FAYETTEVILLE PCT 13|FAYETTEVILLE PCT 13
+05|143|025|FAYETTEVILLE PCT 14|FAYETTEVILLE PCT 14
+05|143|026|FAYETTEVILLE PCT 38|FAYETTEVILLE PCT 38
+05|143|027|FAYETTEVILLE PCT 16|FAYETTEVILLE PCT 16
+05|143|028|GOSHEN CITY|GOSHEN CITY Voting District
+05|143|029|GREENLAND|GREENLAND Voting District
+05|143|030|HARMON|HARMON Voting District
+05|143|031|ILLINOIS|ILLINOIS Voting District
+05|143|032|JOHNSON|JOHNSON Voting District
+05|143|033|LEES CREEK|LEES CREEK Voting District
+05|143|034|LINCOLN CITY|LINCOLN CITY Voting District
+05|143|035|LITTERAL|LITTERAL Voting District
+05|143|036|MARS HILL|MARS HILL Voting District
+05|143|037|MORROW|MORROW Voting District
+05|143|038|BOSTON|BOSTON Voting District
+05|143|039|PRAIRIE 1|PRAIRIE 1 Voting District
+05|143|040|PRAIRIE 2|PRAIRIE 2 Voting District
+05|143|041|PRAIRIE 3|PRAIRIE 3 Voting District
+05|143|042|PRAIRIE 4|PRAIRIE 4 Voting District
+05|143|043|PRAIRIE GROVE|PRAIRIE GROVE Voting District
+05|143|044|RICHLAND|RICHLAND Voting District
+05|143|045|REED|REED Voting District
+05|143|046|RHEAS MILL|RHEAS MILL Voting District
+05|143|047|RICHLAND SENATE|RICHLAND SENATE Voting District
+05|143|048|STARR HILL|STARR HILL Voting District
+05|143|049|SPRINGDALE PCT 1|SPRINGDALE PCT 1
+05|143|050|SPRINGDALE PCT 2|SPRINGDALE PCT 2
+05|143|051|SPRINGDALE PCT 3|SPRINGDALE PCT 3
+05|143|052|SPRINGDALE PCT 4|SPRINGDALE PCT 4
+05|143|053|SPRINGDALE PCT 5|SPRINGDALE PCT 5
+05|143|054|SPRINGDALE PCT 6|SPRINGDALE PCT 6
+05|143|055|SPRINGDALE PCT 7|SPRINGDALE PCT 7
+05|143|056|SPRINGDALE PCT 9|SPRINGDALE PCT 9
+05|143|057|SPRINGDALE PCT 10|SPRINGDALE PCT 10
+05|143|058|SPRINGDALE PCT 11|SPRINGDALE PCT 11
+05|143|059|SPRINGDALE PCT 12|SPRINGDALE PCT 12
+05|143|060|SPRINGDALE PCT 13|SPRINGDALE PCT 13
+05|143|061|SPRINGDALE TWP|SPRINGDALE TWP Voting District
+05|143|062|TONTITOWN|TONTITOWN Voting District
+05|143|063|VALLEY|VALLEY Voting District
+05|143|064|VINEYARD|VINEYARD Voting District
+05|143|065|WEDINGTON|WEDINGTON Voting District
+05|143|066|WEST FORK|WEST FORK Voting District
+05|143|067|WHITE RIVER|WHITE RIVER Voting District
+05|143|068|WINSLOW|WINSLOW Voting District
+05|143|069|WYMAN|WYMAN Voting District
+05|143|070|FAYETTEVILLE PCT 17|FAYETTEVILLE PCT 17
+05|143|071|FAYETTEVILLE PCT 18|FAYETTEVILLE PCT 18
+05|143|072|FAYETTEVILLE PCT 19|FAYETTEVILLE PCT 19
+05|143|073|FAYETTEVILLE PCT 21|FAYETTEVILLE PCT 21
+05|143|074|FAYETTEVILLE PCT 22|FAYETTEVILLE PCT 22
+05|143|075|FAYETTEVILLE PCT 23|FAYETTEVILLE PCT 23
+05|143|076|FAYETTEVILLE PCT 24|FAYETTEVILLE PCT 24
+05|143|077|FAYETTEVILLE PCT 25|FAYETTEVILLE PCT 25
+05|143|078|WHEELER|WHEELER Voting District
+05|143|079|GOSHEN TWP|GOSHEN TWP Voting District
+05|143|080|SPRINGDALE PCT 22|SPRINGDALE PCT 22
+05|143|081|SPRINGDALE PCT 21|SPRINGDALE PCT 21
+05|143|082|SPRINGDALE PCT 14|SPRINGDALE PCT 14
+05|143|083|SPRINGDALE PCT 18|SPRINGDALE PCT 18
+05|143|084|SPRINGDALE PCT 20|SPRINGDALE PCT 20
+05|143|085|SPRINGDALE PCT 16|SPRINGDALE PCT 16
+05|143|086|SPRINGDALE PCT 15|SPRINGDALE PCT 15
+05|143|087|SPRINGDALE PCT 17|SPRINGDALE PCT 17
+05|143|088|SPRINGDALE PCT 19|SPRINGDALE PCT 19
+05|143|089|FAYETTEVILLE PCT 30|FAYETTEVILLE PCT 30
+05|143|090|SPRINGDALE PCT 23|SPRINGDALE PCT 23
+05|143|091|FAYETTEVILLE PCT 28|FAYETTEVILLE PCT 28
+05|143|092|FAYETTEVILLE PCT 29|FAYETTEVILLE PCT 29
+05|143|093|FAYETTEVILLE PCT 32|FAYETTEVILLE PCT 32
+05|143|094|FAYETTEVILLE PCT 36|FAYETTEVILLE PCT 36
+05|143|097|FAYETTEVILLE PCT 15|FAYETTEVILLE PCT 15
+05|143|098|FAYETTEVILLE PCT 35|FAYETTEVILLE PCT 35
+05|143|099|FAYETTEVILLE 20|FAYETTEVILLE 20 Voting District
+05|143|100|FAYETTEVILLE PCT 26|FAYETTEVILLE PCT 26
+05|143|101|FAYETTEVILLE PCT 3|FAYETTEVILLE PCT 3
+05|143|102|FAYETTEVILLE PCT 27|FAYETTEVILLE PCT 27
+05|143|103|SPRINGDALE PCT 24|SPRINGDALE PCT 24
+05|143|104|TONTITOWN CITY|TONTITOWN CITY Voting District
+05|143|105|CENTER HOUSE|CENTER HOUSE Voting District
+05|143|106|FAYETTEVILLE PCT 33|FAYETTEVILLE PCT 33
+05|143|107|FAYETTEVILLE PCT 37|FAYETTEVILLE PCT 37
+05|143|108|FAYETTEVILLE PCT 40|FAYETTEVILLE PCT 40
+05|143|109|FAYETTEVILLE PCT 34|FAYETTEVILLE PCT 34
+05|143|110|PRAIRIE GROVE SENATE|PRAIRIE GROVE SENATE Voting District
+05|143|111|FAYETTEVILLE PCT 40|FAYETTEVILLE PCT 40
+05|143|112|FAYETTEVILLE PCT 39|FAYETTEVILLE PCT 39
+05|145|01|Albion|Albion Voting District
+05|145|010|Big Creek|Big Creek Voting District
+05|145|011|Bradford Ward 1|Bradford Ward 1
+05|145|012|Bradford Ward 2|Bradford Ward 2
+05|145|013|Bradford Ward 3|Bradford Ward 3
+05|145|014|Cadron|Cadron Voting District
+05|145|015|Cane|Cane Voting District
+05|145|016|Crisp|Crisp Voting District
+05|145|017|Clay|Clay Voting District
+05|145|018|Cleveland|Cleveland Voting District
+05|145|019|Coffey|Coffey Voting District
+05|145|02|Antioch|Antioch Voting District
+05|145|020|Coldwell|Coldwell Voting District
+05|145|021|Crosby|Crosby Voting District
+05|145|022|Cypert|Cypert Voting District
+05|145|023|Denmark|Denmark Voting District
+05|145|024|Des Arc|Des Arc Voting District
+05|145|025|Dog Wood|Dog Wood Voting District
+05|145|026|El Paso|El Paso Voting District
+05|145|027|Francure|Francure Voting District
+05|145|028|Garner TWP|Garner TWP Voting District
+05|145|029|Garner City|Garner City Voting District
+05|145|030|Georgetown City|Georgetown City Voting District
+05|145|031|Gravel Hill|Gravel Hill Voting District
+05|145|032|Gray A|Gray A Voting District
+05|145|033|Gray B|Gray B Voting District
+05|145|034|Griffithville City|Griffithville City Voting District
+05|145|035|Gum Springs|Gum Springs Voting District
+05|145|036|Guthrie|Guthrie Voting District
+05|145|037|Harrison|Harrison Voting District
+05|145|038|Hartsell|Hartsell Voting District
+05|145|039|Higginson TWP|Higginson TWP Voting District
+05|145|04|Bald Knob Ward 1|Bald Knob Ward 1
+05|145|040|Higginson City|Higginson City Voting District
+05|145|041|Jackson|Jackson Voting District
+05|145|042|Jefferson|Jefferson Voting District
+05|145|043|Joy|Joy Voting District
+05|145|044|Judsonia Ward 1|Judsonia Ward 1
+05|145|045|Judsonia Ward 2|Judsonia Ward 2
+05|145|046|Judsonia Ward 3|Judsonia Ward 3
+05|145|047|Kensett TWP|Kensett TWP Voting District
+05|145|048|Kensett Ward 1|Kensett Ward 1
+05|145|049|Kensett Ward 2|Kensett Ward 2
+05|145|05|Bald Knob Ward 2|Bald Knob Ward 2
+05|145|050|Kensett Ward 3|Kensett Ward 3
+05|145|051|Kentucky|Kentucky Voting District
+05|145|052|Letonia City|Letonia City Voting District
+05|145|053|Liberty|Liberty Voting District
+05|145|054|Marion|Marion Voting District
+05|145|055|Marshall|Marshall Voting District
+05|145|056|McRae TWP|McRae TWP Voting District
+05|145|057|McRae Ward 1|McRae Ward 1
+05|145|058|McRae Ward 2|McRae Ward 2
+05|145|059|Mt Pisgah|Mt Pisgah Voting District
+05|145|06|Bald Ward 3|Bald Ward 3
+05|145|060|Red River|Red River Voting District
+05|145|061|Rose Bud|Rose Bud Voting District
+05|145|062|Royal|Royal Voting District
+05|145|063|Russell TWP|Russell TWP Voting District
+05|145|064|Russell City|Russell City Voting District
+05|145|065|Union|Union Voting District
+05|145|066|Velvet Ridge|Velvet Ridge Voting District
+05|145|067|Walker|Walker Voting District
+05|145|068|West Point City|West Point City Voting District
+05|145|069|Searcy Ward 1A|Searcy Ward 1A
+05|145|07|Beebe Ward 1|Beebe Ward 1
+05|145|070|Searcy Ward 1B|Searcy Ward 1B
+05|145|071|Searcy Ward 1C|Searcy Ward 1C
+05|145|072|Searcy Ward 1D|Searcy Ward 1D
+05|145|073|Searcy Ward 2A|Searcy Ward 2A
+05|145|074|Searcy Ward 2B|Searcy Ward 2B
+05|145|075|Searcy Ward 2C|Searcy Ward 2C
+05|145|076|Searcy Ward 2D|Searcy Ward 2D
+05|145|077|Searcy Ward 3A|Searcy Ward 3A
+05|145|078|Searcy Ward 3B|Searcy Ward 3B
+05|145|079|Searcy Ward 3C|Searcy Ward 3C
+05|145|08|Beebe Ward 2|Beebe Ward 2
+05|145|080|Searcy Ward 3D|Searcy Ward 3D
+05|145|081|Searcy Ward 2E|Searcy Ward 2E
+05|145|082|Searcy Ward 4A|Searcy Ward 4A
+05|145|083|Searcy Ward 4C|Searcy Ward 4C
+05|145|084|Pangburn Ward 1|Pangburn Ward 1
+05|145|085|Pangburn Ward 2|Pangburn Ward 2
+05|145|086|Harrison East|Harrison East Voting District
+05|145|087|Bald Knob North|Bald Knob North Voting District
+05|145|088|Beebe Ward 3C|Beebe Ward 3C
+05|145|09|Beebe Ward 3|Beebe Ward 3
+05|147|01|North Rural Augusta Precinct 4|North Rural Augusta Precinct 4
+05|147|011|Pumpkin Bend Precinct 19|Pumpkin Bend Precinct 19
+05|147|012|McCrory Rural Precinct 15|McCrory Rural Precinct 15
+05|147|013|McCrory Precinct 17|McCrory Precinct 17
+05|147|014|McCrory Precinct 18|McCrory Precinct 18
+05|147|016|Rural Hunter Precinct 10|Rural Hunter Precinct 10
+05|147|017|Morton Precinct 14|Morton Precinct 14
+05|147|018|Gregory Precinct 6|Gregory Precinct 6
+05|147|019|Howell Precinct 12|Howell Precinct 12
+05|147|02|Augusta Precinct 2|Augusta Precinct 2
+05|147|020|Hilleman Precinct 13|Hilleman Precinct 13
+05|147|022|Cotten Plant/Freeman Precinct 7|Cotten Plant/Freeman Precinct 7
+05|147|023|Cotton Plant Precinct 8|Cotton Plant Precinct 8
+05|147|024|Cotton Plant Precinct 9|Cotton Plant Precinct 9
+05|147|027|Hunter Precinct 11|Hunter Precinct 11
+05|147|029|Patterson Ward 16|Patterson Ward 16
+05|147|03|Augusta Precinct 1|Augusta Precinct 1
+05|147|04|Augusta Precinct 3|Augusta Precinct 3
+05|147|05|Fakes Chapel Precinct 20|Fakes Chapel Precinct 20
+05|147|09|South Rural Augusta Precinct 5|South Rural Augusta Precinct 5
+05|149|01|Waveland|Waveland Voting District
+05|149|010|Dardanelle Out|Dardanelle Out Voting District
+05|149|011|Dutch Creek|Dutch Creek Voting District
+05|149|013|Danville|Danville Voting District
+05|149|014|Ward|Ward Voting District
+05|149|015|Mason|Mason Voting District
+05|149|016|Centerville|Centerville Voting District
+05|149|017|Galla Rock|Galla Rock Voting District
+05|149|019|Gravelly|Gravelly Voting District
+05|149|02|Rickland|Rickland Voting District
+05|149|020|Bluffton|Bluffton Voting District
+05|149|021|Iron Creek|Iron Creek Voting District
+05|149|022|Briggsville|Briggsville Voting District
+05|149|023|Compton|Compton Voting District
+05|149|025|Crawford|Crawford Voting District
+05|149|026|Lamar|Lamar Voting District
+05|149|027|Havana|Havana Voting District
+05|149|028|Herring|Herring Voting District
+05|149|029|Gilkey|Gilkey Voting District
+05|149|03|Riley|Riley Voting District
+05|149|030|Belleville Ward 1|Belleville Ward 1
+05|149|031|Belleville Ward 2|Belleville Ward 2
+05|149|032|Belleville Ward 3|Belleville Ward 3
+05|149|033|Danville Ward 1|Danville Ward 1
+05|149|034|Danville Ward 2|Danville Ward 2
+05|149|035|Danville Ward 3|Danville Ward 3
+05|149|036|Dardanelle Ward 1|Dardanelle Ward 1
+05|149|037|Dardanelle Ward 2|Dardanelle Ward 2
+05|149|038|Dardanelle Ward 3|Dardanelle Ward 3
+05|149|039|Plainview Ward 1|Plainview Ward 1
+05|149|04|Mountain|Mountain Voting District
+05|149|040|Plainview Ward 2|Plainview Ward 2
+05|149|041|Plainview Ward 3|Plainview Ward 3
+05|149|042|Ola Ward 1|Ola Ward 1
+05|149|043|Ola Ward 2|Ola Ward 2
+05|149|044|Ola Ward 3|Ola Ward 3
+05|149|045|Rover|Rover Voting District
+05|149|05|Ferguson|Ferguson Voting District
+05|149|06|Sulphur Springs|Sulphur Springs Voting District
+05|149|07|Prairie|Prairie Voting District
+05|149|08|Magazine 1|Magazine 1 Voting District
+05|149|09|Magazine 2|Magazine 2 Voting District

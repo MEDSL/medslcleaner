@@ -1,0 +1,54 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+25|00840|Agawam Town|Agawam Town city
+25|01260|Amesbury Town|Amesbury Town city
+25|02690|Attleboro|Attleboro city
+25|03690|Barnstable Town|Barnstable Town city
+25|05595|Beverly|Beverly city
+25|07000|Boston|Boston city
+25|07740|Braintree Town|Braintree Town city
+25|09000|Brockton|Brockton city
+25|11000|Cambridge|Cambridge city
+25|13205|Chelsea|Chelsea city
+25|13660|Chicopee|Chicopee city
+25|19370|Easthampton Town|Easthampton Town city
+25|21990|Everett|Everett city
+25|23000|Fall River|Fall River city
+25|23875|Fitchburg|Fitchburg city
+25|25172|Franklin Town|Franklin Town city
+25|25485|Gardner|Gardner city
+25|26150|Gloucester|Gloucester city
+25|27100|Greenfield Town|Greenfield Town city
+25|29405|Haverhill|Haverhill city
+25|30840|Holyoke|Holyoke city
+25|34550|Lawrence|Lawrence city
+25|35075|Leominster|Leominster city
+25|37000|Lowell|Lowell city
+25|37490|Lynn|Lynn city
+25|37875|Malden|Malden city
+25|38715|Marlborough|Marlborough city
+25|39835|Medford|Medford city
+25|40115|Melrose|Melrose city
+25|40710|Methuen Town|Methuen Town city
+25|45000|New Bedford|New Bedford city
+25|45245|Newburyport|Newburyport city
+25|45560|Newton|Newton city
+25|46225|North Adams|North Adams city
+25|46330|Northampton|Northampton city
+25|52144|Palmer Town|Palmer Town city
+25|52490|Peabody|Peabody city
+25|53960|Pittsfield|Pittsfield city
+25|55745|Quincy|Quincy city
+25|56585|Revere|Revere city
+25|59105|Salem|Salem city
+25|62535|Somerville|Somerville city
+25|63345|Southbridge Town|Southbridge Town city
+25|67000|Springfield|Springfield city
+25|69170|Taunton|Taunton city
+25|72600|Waltham|Waltham city
+25|73440|Watertown Town|Watertown Town city
+25|76030|Westfield|Westfield city
+25|77890|West Springfield Town|West Springfield Town city
+25|78972|Weymouth Town|Weymouth Town city
+25|81005|Winthrop Town|Winthrop Town city
+25|81035|Woburn|Woburn city
+25|82000|Worcester|Worcester city

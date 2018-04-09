@@ -1,0 +1,208 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+02|00760|Akiachak|Akiachak CDP
+02|01305|Alatna|Alatna CDP
+02|01390|Alcan Border|Alcan Border CDP
+02|01560|Aleneva|Aleneva CDP
+02|03110|Anchor Point|Anchor Point CDP
+02|03990|Arctic Village|Arctic Village CDP
+02|04430|Atmautluak|Atmautluak CDP
+02|04670|Attu Station|Attu Station CDP
+02|05000|Badger|Badger CDP
+02|05585|Bear Creek|Bear Creek CDP
+02|05750|Beaver|Beaver CDP
+02|06245|Beluga|Beluga CDP
+02|06850|Big Delta|Big Delta CDP
+02|07070|Big Lake|Big Lake CDP
+02|07620|Birch Creek|Birch Creek CDP
+02|09657|Buffalo Soapstone|Buffalo Soapstone CDP
+02|09710|Butte|Butte CDP
+02|10150|Cantwell|Cantwell CDP
+02|11690|Central|Central CDP
+02|11800|Chalkyitsik|Chalkyitsik CDP
+02|12350|Chase|Chase CDP
+02|12920|Chena Ridge|Chena Ridge CDP
+02|12970|Chenega|Chenega CDP
+02|13340|Chickaloon|Chickaloon CDP
+02|13450|Chicken|Chicken CDP
+02|13670|Chignik Lagoon|Chignik Lagoon CDP
+02|13780|Chignik Lake|Chignik Lake CDP
+02|13860|Chiniak|Chiniak CDP
+02|13890|Chisana|Chisana CDP
+02|14000|Chistochina|Chistochina CDP
+02|14110|Chitina|Chitina CDP
+02|14880|Circle|Circle CDP
+02|15320|Clam Gulch|Clam Gulch CDP
+02|16420|Cohoe|Cohoe CDP
+02|16630|Coldfoot|Coldfoot CDP
+02|16750|College|College CDP
+02|17190|Cooper Landing|Cooper Landing CDP
+02|17300|Copper Center|Copper Center CDP
+02|17670|Covenant Life|Covenant Life CDP
+02|17850|Crooked Creek|Crooked Creek CDP
+02|17960|Crown Point|Crown Point CDP
+02|18675|Deltana|Deltana CDP
+02|18925|Diamond Ridge|Diamond Ridge CDP
+02|19720|Dot Lake|Dot Lake CDP
+02|19750|Dot Lake Village|Dot Lake Village CDP
+02|20020|Dry Creek|Dry Creek CDP
+02|20600|Eagle Village|Eagle Village CDP
+02|20970|Edna Bay|Edna Bay CDP
+02|21370|Eielson AFB|Eielson AFB CDP
+02|22140|Elfin Cove|Elfin Cove CDP
+02|23460|Ester|Ester CDP
+02|23720|Eureka Roadhouse|Eureka Roadhouse CDP
+02|23790|Evansville|Evansville CDP
+02|23900|Excursion Inlet|Excursion Inlet CDP
+02|24980|Farmers Loop|Farmers Loop CDP
+02|25000|Farm Loop|Farm Loop CDP
+02|25220|Ferry|Ferry CDP
+02|25550|Fishhook|Fishhook CDP
+02|25880|Flat|Flat CDP
+02|26100|Fort Greely|Fort Greely CDP
+02|26835|Four Mile Road|Four Mile Road CDP
+02|26870|Fox|Fox CDP
+02|26910|Fox River|Fox River CDP
+02|27090|Fritz Creek|Fritz Creek CDP
+02|27145|Funny River|Funny River CDP
+02|27420|Gakona|Gakona CDP
+02|27700|Game Creek|Game Creek CDP
+02|28200|Gateway|Gateway CDP
+02|28590|Glacier View|Glacier View CDP
+02|28740|Glennallen|Glennallen CDP
+02|29130|Goldstream|Goldstream CDP
+02|30500|Gulkana|Gulkana CDP
+02|31050|Haines|Haines CDP
+02|31270|Halibut Cove|Halibut Cove CDP
+02|31710|Happy Valley|Happy Valley CDP
+02|31765|Harding-Birch Lakes|Harding-Birch Lakes CDP
+02|32150|Healy|Healy CDP
+02|32310|Healy Lake|Healy Lake CDP
+02|32550|Hobart Bay|Hobart Bay CDP
+02|32810|Hollis|Hollis CDP
+02|33580|Hope|Hope CDP
+02|34570|Hyder|Hyder CDP
+02|34790|Igiugig|Igiugig CDP
+02|35120|Iliamna|Iliamna CDP
+02|35890|Ivanof Bay|Ivanof Bay CDP
+02|37250|Kalifornsky|Kalifornsky CDP
+02|37540|Karluk|Karluk CDP
+02|37975|Kasigluk|Kasigluk CDP
+02|38090|Kasilof|Kasilof CDP
+02|38910|Kenny Lake|Kenny Lake CDP
+02|39630|King Salmon|King Salmon CDP
+02|39740|Kipnuk|Kipnuk CDP
+02|40510|Klukwan|Klukwan CDP
+02|40645|Knik-Fairview|Knik-Fairview CDP
+02|40670|Knik River|Knik River CDP
+02|41210|Kodiak Station|Kodiak Station CDP
+02|41280|Kokhanok|Kokhanok CDP
+02|41500|Koliganek|Koliganek CDP
+02|41610|Kongiganak|Kongiganak CDP
+02|42490|Kwigillingok|Kwigillingok CDP
+02|42805|Lake Louise|Lake Louise CDP
+02|42820|Lake Minchumina|Lake Minchumina CDP
+02|42832|Lakes|Lakes CDP
+02|43260|Lazy Mountain|Lazy Mountain CDP
+02|43810|Levelock|Levelock CDP
+02|44030|Lime Village|Lime Village CDP
+02|44580|Livengood|Livengood CDP
+02|45020|Loring|Loring CDP
+02|45295|Lowell Point|Lowell Point CDP
+02|45700|Lutak|Lutak CDP
+02|45790|McCarthy|McCarthy CDP
+02|46560|McKinley Park|McKinley Park CDP
+02|46780|Manley Hot Springs|Manley Hot Springs CDP
+02|47735|Meadow Lakes|Meadow Lakes CDP
+02|48200|Mendeltna|Mendeltna CDP
+02|48540|Mentasta Lake|Mentasta Lake CDP
+02|48590|Mertarvik|Mertarvik CDP
+02|48870|Metlakatla|Metlakatla CDP
+02|49530|Minto|Minto CDP
+02|50080|Moose Creek|Moose Creek CDP
+02|50190|Moose Pass|Moose Pass CDP
+02|50800|Mosquito Lake|Mosquito Lake CDP
+02|51455|Mud Bay|Mud Bay CDP
+02|51960|Nabesna|Nabesna CDP
+02|52060|Naknek|Naknek CDP
+02|52210|Nanwalek|Nanwalek CDP
+02|52845|Naukati Bay|Naukati Bay CDP
+02|52915|Nelchina|Nelchina CDP
+02|52940|Nelson Lagoon|Nelson Lagoon CDP
+02|53162|New Allakaket|New Allakaket CDP
+02|53820|Newtok|Newtok CDP
+02|54050|Nikiski|Nikiski CDP
+02|54085|Nikolaevsk|Nikolaevsk CDP
+02|54260|Nikolski|Nikolski CDP
+02|54480|Ninilchik|Ninilchik CDP
+02|54700|Noatak|Noatak CDP
+02|56220|Northway|Northway CDP
+02|56250|Northway Junction|Northway Junction CDP
+02|56260|Northway Village|Northway Village CDP
+02|58330|Oscarville|Oscarville CDP
+02|59320|Paxson|Paxson CDP
+02|59540|Pedro Bay|Pedro Bay CDP
+02|60200|Perryville|Perryville CDP
+02|60460|Petersville|Petersville CDP
+02|60860|Pitkas Point|Pitkas Point CDP
+02|61120|Pleasant Valley|Pleasant Valley CDP
+02|61190|Point Baker|Point Baker CDP
+02|61700|Point Lay|Point Lay CDP
+02|61788|Point MacKenzie|Point MacKenzie CDP
+02|61825|Point Possession|Point Possession CDP
+02|62125|Pope-Vannoy Landing|Pope-Vannoy Landing CDP
+02|62285|Portage Creek|Portage Creek CDP
+02|62620|Port Alsworth|Port Alsworth CDP
+02|63170|Port Clarence|Port Clarence CDP
+02|63280|Port Graham|Port Graham CDP
+02|63870|Port Protection|Port Protection CDP
+02|64240|Primrose|Primrose CDP
+02|64380|Prudhoe Bay|Prudhoe Bay CDP
+02|64820|Rampart|Rampart CDP
+02|64930|Red Devil|Red Devil CDP
+02|64980|Red Dog Mine|Red Dog Mine CDP
+02|65345|Ridgeway|Ridgeway CDP
+02|66510|Salamatof|Salamatof CDP
+02|66550|Salcha|Salcha CDP
+02|68370|Seldovia Village|Seldovia Village CDP
+02|70320|Silver Springs|Silver Springs CDP
+02|70760|Skagway|Skagway CDP
+02|70870|Skwentna|Skwentna CDP
+02|70930|Slana|Slana CDP
+02|71090|Sleetmute|Sleetmute CDP
+02|72190|South Naknek|South Naknek CDP
+02|72230|South Van Horn|South Van Horn CDP
+02|72985|Steele Creek|Steele Creek CDP
+02|73070|Sterling|Sterling CDP
+02|73290|Stevens Village|Stevens Village CDP
+02|73400|Stony River|Stony River CDP
+02|73950|Sunrise|Sunrise CDP
+02|74340|Susitna|Susitna CDP
+02|74350|Susitna North|Susitna North CDP
+02|74525|Sutton-Alpine|Sutton-Alpine CDP
+02|74610|Takotna|Takotna CDP
+02|74830|Talkeetna|Talkeetna CDP
+02|75050|Tanacross|Tanacross CDP
+02|75077|Tanaina|Tanaina CDP
+02|75380|Tatitlek|Tatitlek CDP
+02|75480|Tazlina|Tazlina CDP
+02|76590|Tetlin|Tetlin CDP
+02|77800|Tok|Tok CDP
+02|78297|Tolsona|Tolsona CDP
+02|78350|Tonsina|Tonsina CDP
+02|78680|Trapper Creek|Trapper Creek CDP
+02|78790|Tuluksak|Tuluksak CDP
+02|79120|Tuntutuliak|Tuntutuliak CDP
+02|79230|Tununak|Tununak CDP
+02|79780|Twin Hills|Twin Hills CDP
+02|79830|Two Rivers|Two Rivers CDP
+02|79890|Tyonek|Tyonek CDP
+02|80100|Ugashik|Ugashik CDP
+02|82420|Venetie|Venetie CDP
+02|84000|Whale Pass|Whale Pass CDP
+02|84120|Whitestone|Whitestone CDP
+02|84200|Whitestone Logging Camp|Whitestone Logging Camp CDP
+02|85280|Willow|Willow CDP
+02|85290|Willow Creek|Willow Creek CDP
+02|85610|Wiseman|Wiseman CDP
+02|85680|Womens Bay|Womens Bay CDP
+02|86490|Yakutat|Yakutat CDP

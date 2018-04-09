@@ -1,0 +1,130 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+30|00700|Alberton|Alberton town
+30|01675|Anaconda-Deer Lodge County|Anaconda-Deer Lodge County
+30|03400|Bainville|Bainville town
+30|03475|Baker|Baker city
+30|04300|Bearcreek|Bearcreek town
+30|04975|Belgrade|Belgrade city
+30|05275|Belt|Belt town
+30|06250|Big Sandy|Big Sandy town
+30|06475|Big Timber|Big Timber city
+30|06550|Billings|Billings city
+30|08575|Boulder|Boulder city
+30|08950|Bozeman|Bozeman city
+30|09475|Bridger|Bridger town
+30|09700|Broadus|Broadus town
+30|09775|Broadview|Broadview town
+30|10000|Brockton|Brockton town
+30|10375|Browning|Browning town
+30|11397|Butte-Silver Bow (balance)|Butte-Silver Bow (balance)
+30|12775|Cascade|Cascade town
+30|14200|Chester|Chester town
+30|14575|Chinook|Chinook city
+30|14650|Choteau|Choteau city
+30|14950|Circle|Circle town
+30|15550|Clyde Park|Clyde Park town
+30|16525|Colstrip|Colstrip city
+30|16600|Columbia Falls|Columbia Falls city
+30|16825|Columbus|Columbus town
+30|17275|Conrad|Conrad city
+30|18475|Culbertson|Culbertson town
+30|18775|Cut Bank|Cut Bank city
+30|19300|Darby|Darby town
+30|19825|Deer Lodge|Deer Lodge city
+30|20425|Denton|Denton town
+30|20800|Dillon|Dillon city
+30|21025|Dodson|Dodson town
+30|21850|Drummond|Drummond town
+30|22600|Dutton|Dutton town
+30|23125|East Helena|East Helena city
+30|23650|Ekalaka|Ekalaka town
+30|24475|Ennis|Ennis town
+30|24850|Eureka|Eureka town
+30|25225|Fairfield|Fairfield town
+30|25300|Fairview|Fairview town
+30|26800|Flaxville|Flaxville town
+30|27700|Forsyth|Forsyth city
+30|28000|Fort Benton|Fort Benton city
+30|28450|Fort Peck|Fort Peck town
+30|29500|Froid|Froid town
+30|29575|Fromberg|Fromberg town
+30|30400|Geraldine|Geraldine town
+30|31075|Glasgow|Glasgow city
+30|31450|Glendive|Glendive city
+30|32575|Grass Range|Grass Range town
+30|32800|Great Falls|Great Falls city
+30|33775|Hamilton|Hamilton city
+30|34225|Hardin|Hardin city
+30|34375|Harlem|Harlem city
+30|34450|Harlowton|Harlowton city
+30|35050|Havre|Havre city
+30|35600|Helena|Helena city
+30|36400|Hingham|Hingham town
+30|36700|Hobson|Hobson city
+30|37825|Hot Springs|Hot Springs town
+30|38350|Hysham|Hysham town
+30|38950|Ismay|Ismay town
+30|39700|Joliet|Joliet town
+30|39925|Jordan|Jordan town
+30|40000|Judith Gap|Judith Gap city
+30|40075|Kalispell|Kalispell city
+30|40525|Kevin|Kevin town
+30|42700|Laurel|Laurel city
+30|42850|Lavina|Lavina town
+30|43375|Lewistown|Lewistown city
+30|43450|Libby|Libby city
+30|43525|Lima|Lima town
+30|43975|Livingston|Livingston city
+30|44275|Lodge Grass|Lodge Grass town
+30|47425|Malta|Malta city
+30|47575|Manhattan|Manhattan town
+30|48775|Medicine Lake|Medicine Lake town
+30|49000|Melstone|Melstone town
+30|49525|Miles City|Miles City city
+30|50200|Missoula|Missoula city
+30|51550|Moore|Moore town
+30|52900|Nashua|Nashua town
+30|53200|Neihart|Neihart town
+30|55525|Opheim|Opheim town
+30|56050|Outlook|Outlook town
+30|57175|Philipsburg|Philipsburg town
+30|57700|Pinesdale|Pinesdale town
+30|58150|Plains|Plains town
+30|58375|Plentywood|Plentywood city
+30|58450|Plevna|Plevna town
+30|58750|Polson|Polson city
+30|58975|Poplar|Poplar city
+30|61525|Red Lodge|Red Lodge city
+30|62200|Rexford|Rexford town
+30|62275|Richey|Richey town
+30|64150|Ronan|Ronan city
+30|64525|Roundup|Roundup city
+30|64975|Ryegate|Ryegate town
+30|65050|Saco|Saco town
+30|65275|St. Ignatius|St. Ignatius town
+30|66925|Scobey|Scobey city
+30|67450|Shelby|Shelby city
+30|67600|Sheridan|Sheridan town
+30|67900|Sidney|Sidney city
+30|70675|Stanford|Stanford town
+30|71200|Stevensville|Stevensville town
+30|72175|Sunburst|Sunburst town
+30|72625|Superior|Superior town
+30|73675|Terry|Terry town
+30|73825|Thompson Falls|Thompson Falls city
+30|73975|Three Forks|Three Forks city
+30|74575|Townsend|Townsend city
+30|75025|Troy|Troy city
+30|75475|Twin Bridges|Twin Bridges town
+30|76225|Valier|Valier town
+30|77125|Virginia City|Virginia City town
+30|77650|Walkerville|Walkerville town
+30|78925|Westby|Westby town
+30|79525|West Yellowstone|West Yellowstone town
+30|79825|Whitefish|Whitefish city
+30|79900|Whitehall|Whitehall town
+30|80050|White Sulphur Springs|White Sulphur Springs city
+30|80350|Wibaux|Wibaux town
+30|81025|Winifred|Winifred town
+30|81100|Winnett|Winnett town
+30|81475|Wolf Point|Wolf Point city

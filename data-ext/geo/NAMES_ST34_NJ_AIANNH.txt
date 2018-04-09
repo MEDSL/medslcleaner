@@ -1,0 +1,3 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+34|9835|Nanticoke Lenni Lenape|Nanticoke Lenni Lenape SDTSA
+34|9850|Ramapough|Ramapough SDTSA

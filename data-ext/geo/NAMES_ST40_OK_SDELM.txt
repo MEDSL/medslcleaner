@@ -1,0 +1,107 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+40|02580|Albion Public School|Albion Public School
+40|02790|Allen-Bowden Public School|Allen-Bowden Public School
+40|03010|Anderson Public School|Anderson Public School
+40|03450|Avant Public School|Avant Public School
+40|03540|Banner Public School|Banner Public School
+40|03690|Bearden Public School|Bearden Public School
+40|03840|Belfonte Public School|Belfonte Public School
+40|03870|Bell Public School|Bell Public School
+40|04470|Bishop Public School|Bishop Public School
+40|05160|Bowring Public School|Bowring Public School
+40|05430|Briggs Public School|Briggs Public School
+40|05580|Brushy Public School|Brushy Public School
+40|06030|Byars Public School|Byars Public School
+40|08010|Cleora Public School|Cleora Public School
+40|08730|Cottonwood Public School|Cottonwood Public School
+40|09150|Crutcho Public School|Crutcho Public School
+40|09360|Dahlonegah Public School|Dahlonegah Public School
+40|09420|Darlington Public School|Darlington Public School
+40|09720|Denison Public School|Denison Public School
+40|10560|Peavine Public School|Peavine Public School
+40|11400|Fanshawe Public School|Fanshawe Public School
+40|11450|Farris Public School|Farris Public School
+40|11760|Flower Mound Public School|Flower Mound Public School
+40|11850|Forest Grove Public School|Forest Grove Public School
+40|12210|Friend Public School|Friend Public School
+40|12240|Frink-Chambers Public School|Frink-Chambers Public School
+40|12750|Glover Public School|Glover Public School
+40|12840|Goodland Public School|Goodland Public School
+40|13230|Grand View Public School|Grand View Public School
+40|13260|Grandview Public School|Grandview Public School
+40|13380|Greenville Public School|Greenville Public School
+40|13500|Grove Public School|Grove Public School
+40|13600|Gypsy Public School|Gypsy Public School
+40|14100|Haywood Public School|Haywood Public School
+40|14730|Hodgen Public School|Hodgen Public School
+40|14820|Skelly Public School|Skelly Public School
+40|14890|Holly Creek Public School|Holly Creek Public School
+40|15750|Jennings Public School|Jennings Public School
+40|15900|Justice Public School|Justice Public School
+40|15930|Justus-Tiawah Public School|Justus-Tiawah Public School
+40|16320|Kenwood Public School|Kenwood Public School
+40|16440|Keys Public Schools|Keys Public Schools
+40|16470|Keystone Public School|Keystone Public School
+40|16530|Kildare Public School|Kildare Public School
+40|16720|Krebs Public School|Krebs Public School
+40|17040|Lane Public School|Lane Public School
+40|17310|Leach Public School|Leach Public School
+40|17700|Liberty Public School|Liberty Public School
+40|18240|Lone Star Public School|Lone Star Public School
+40|18480|Lowrey Public School|Lowrey Public School
+40|18570|Lukfata Public School|Lukfata Public School
+40|18870|Mannsville Public School|Mannsville Public School
+40|18900|Maple Public School|Maple Public School
+40|18960|Marble City Public School|Marble City Public School
+40|19200|Maryetta Public Schools|Maryetta Public Schools
+40|19500|McCord Public School|McCord Public School
+40|19890|Middleberg Public School|Middleberg Public School
+40|20010|Milfay Public School|Milfay Public School
+40|20160|Moffett Public School|Moffett Public School
+40|20190|Monroe Public School|Monroe Public School
+40|20430|Moseley Public School|Moseley Public School
+40|20640|Moyers Public Schools|Moyers Public Schools
+40|21120|Nashoba Public School|Nashoba Public School
+40|21840|North Rock Creek Public School|North Rock Creek Public School
+40|21870|Greasy Public School|Greasy Public School
+40|21900|Norwood Public School|Norwood Public School
+40|22160|Oak Grove Public School|Oak Grove Public School
+40|22350|Oakdale Public School|Oakdale Public School
+40|23070|Optima Public School|Optima Public School
+40|23190|Osage Public School|Osage Public School
+40|23220|Osage Hills Public School|Osage Hills Public School
+40|23700|Peckham Public School|Peckham Public School
+40|23730|Peggs Public School|Peggs Public School
+40|23910|Pickett-Center Public School|Pickett-Center Public School
+40|24150|Pioneer Public School|Pioneer Public School
+40|24270|Plainview Public School|Plainview Public School
+40|24330|Pleasant Grove Public School|Pleasant Grove Public School
+40|25080|Pretty Water Public School|Pretty Water Public School
+40|25530|Ravia Public School|Ravia Public School
+40|26010|Riverside Public School|Riverside Public School
+40|26100|Robin Hill Public School|Robin Hill Public School
+40|26250|Rocky Mountain Public School|Rocky Mountain Public School
+40|26580|Ryal Public School|Ryal Public School
+40|26640|South Coffeyville Schools|South Coffeyville Schools
+40|27420|Shady Grove Public School|Shady Grove Public School
+40|27990|South Rock Creek Public School|South Rock Creek Public School
+40|28110|Spavinaw Public School|Spavinaw Public School
+40|28620|Stidham Public School|Stidham Public School
+40|28920|Straight Public School|Straight Public School
+40|29340|Swink Public School|Swink Public School
+40|29520|Tannehill Public School|Tannehill Public School
+40|29670|Tenkiller Public School|Tenkiller Public School
+40|29760|Terral Public School|Terral Public School
+40|30290|Turkey Ford Public School|Turkey Ford Public School
+40|30390|Tuskahoma Public School|Tuskahoma Public School
+40|30450|Twin Hills Public School|Twin Hills Public School
+40|31110|Verdigris Public Schools|Verdigris Public Schools
+40|31380|Wainwright Public School|Wainwright Public School
+40|31830|Watson Public School|Watson Public School
+40|32640|White Rock Public School|White Rock Public School
+40|32670|Whitebead Public School|Whitebead Public School
+40|32700|Whitefield Public School|Whitefield Public School
+40|32760|Wickliffe Public School|Wickliffe Public School
+40|33090|Woodall Public School|Woodall Public School
+40|33540|Zaneis Public School|Zaneis Public School
+40|33600|Zion Public School|Zion Public School

@@ -1,0 +1,3251 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+08|001|01001|Adams 1|Adams 1
+08|001|01002|Adams 2|Adams 2
+08|001|01003|Adams 3|Adams 3
+08|001|01004|Adams 4|Adams 4
+08|001|01005|Adams 5|Adams 5
+08|001|01006|Adams 6|Adams 6
+08|001|01007|Adams 7|Adams 7
+08|001|01008|Adams 8|Adams 8
+08|001|01009|Adams 9|Adams 9
+08|001|01010|Adams 10|Adams 10
+08|001|01011|Adams 11|Adams 11
+08|001|01012|Adams 12|Adams 12
+08|001|01013|Adams 13|Adams 13
+08|001|01014|Adams 14|Adams 14
+08|001|01015|Adams 15|Adams 15
+08|001|01016|Adams 16|Adams 16
+08|001|01017|Adams 17|Adams 17
+08|001|01018|Adams 18|Adams 18
+08|001|01019|Adams 19|Adams 19
+08|001|01020|Adams 20|Adams 20
+08|001|01021|Adams 21|Adams 21
+08|001|01023|Adams 23|Adams 23
+08|001|01024|Adams 24|Adams 24
+08|001|01025|Adams 25|Adams 25
+08|001|01026|Adams 26|Adams 26
+08|001|01027|Adams 27|Adams 27
+08|001|01028|Adams 28|Adams 28
+08|001|01029|Adams 29|Adams 29
+08|001|01030|Adams 30|Adams 30
+08|001|01031|Adams 31|Adams 31
+08|001|01032|Adams 32|Adams 32
+08|001|01033|Adams 33|Adams 33
+08|001|01034|Adams 34|Adams 34
+08|001|01035|Adams 35|Adams 35
+08|001|01036|Adams 36|Adams 36
+08|001|01037|Adams 37|Adams 37
+08|001|01038|Adams 38|Adams 38
+08|001|01039|Adams 39|Adams 39
+08|001|01040|Adams 40|Adams 40
+08|001|01041|Adams 41|Adams 41
+08|001|01042|Adams 42|Adams 42
+08|001|01043|Adams 43|Adams 43
+08|001|01044|Adams 44|Adams 44
+08|001|01045|Adams 45|Adams 45
+08|001|01046|Adams 46|Adams 46
+08|001|01047|Adams 47|Adams 47
+08|001|01048|Adams 48|Adams 48
+08|001|01049|Adams 49|Adams 49
+08|001|01050|Adams 50|Adams 50
+08|001|01051|Adams 51|Adams 51
+08|001|01052|Adams 52|Adams 52
+08|001|01053|Adams 53|Adams 53
+08|001|01054|Adams 54|Adams 54
+08|001|01055|Adams 55|Adams 55
+08|001|01056|Adams 56|Adams 56
+08|001|01057|Adams 57|Adams 57
+08|001|01058|Adams 58|Adams 58
+08|001|01059|Adams 59|Adams 59
+08|001|01060|Adams 60|Adams 60
+08|001|01061|Adams 61|Adams 61
+08|001|01062|Adams 62|Adams 62
+08|001|01063|Adams 63|Adams 63
+08|001|01064|Adams 64|Adams 64
+08|001|01065|Adams 65|Adams 65
+08|001|01066|Adams 66|Adams 66
+08|001|01067|Adams 67|Adams 67
+08|001|01068|Adams 68|Adams 68
+08|001|01069|Adams 69|Adams 69
+08|001|01070|Adams 70|Adams 70
+08|001|01071|Adams 71|Adams 71
+08|001|01072|Adams 72|Adams 72
+08|001|01073|Adams 73|Adams 73
+08|001|01074|Adams 74|Adams 74
+08|001|01075|Adams 75|Adams 75
+08|001|01076|Adams 76|Adams 76
+08|001|01077|Adams 77|Adams 77
+08|001|01078|Adams 78|Adams 78
+08|001|01079|Adams 79|Adams 79
+08|001|01080|Adams 80|Adams 80
+08|001|01081|Adams 81|Adams 81
+08|001|01082|Adams 82|Adams 82
+08|001|01083|Adams 83|Adams 83
+08|001|01084|Adams 84|Adams 84
+08|001|01085|Adams 85|Adams 85
+08|001|01086|Adams 86|Adams 86
+08|001|01087|Adams 87|Adams 87
+08|001|01088|Adams 88|Adams 88
+08|001|01089|Adams 89|Adams 89
+08|001|01090|Adams 90|Adams 90
+08|001|01091|Adams 91|Adams 91
+08|001|01092|Adams 92|Adams 92
+08|001|01093|Adams 93|Adams 93
+08|001|01094|Adams 94|Adams 94
+08|001|01095|Adams 95|Adams 95
+08|001|01096|Adams 96|Adams 96
+08|001|01097|Adams 97|Adams 97
+08|001|01098|Adams 98|Adams 98
+08|001|01099|Adams 99|Adams 99
+08|001|01100|Adams 100|Adams 100
+08|001|01101|Adams 101|Adams 101
+08|001|01102|Adams 102|Adams 102
+08|001|01103|Adams 103|Adams 103
+08|001|01104|Adams 104|Adams 104
+08|001|01105|Adams 105|Adams 105
+08|001|01106|Adams 106|Adams 106
+08|001|01107|Adams 107|Adams 107
+08|001|01108|Adams 108|Adams 108
+08|001|01109|Adams 109|Adams 109
+08|001|01110|Adams 110|Adams 110
+08|001|01111|Adams 111|Adams 111
+08|001|01112|Adams 112|Adams 112
+08|001|01113|Adams 113|Adams 113
+08|001|01114|Adams 114|Adams 114
+08|001|01115|Adams 115|Adams 115
+08|001|01116|Adams 116|Adams 116
+08|001|01117|Adams 117|Adams 117
+08|001|01118|Adams 118|Adams 118
+08|001|01119|Adams 119|Adams 119
+08|001|01120|Adams 120|Adams 120
+08|001|01121|Adams 121|Adams 121
+08|001|01122|Adams 122|Adams 122
+08|001|01123|Adams 123|Adams 123
+08|001|01124|Adams 124|Adams 124
+08|001|01125|Adams 125|Adams 125
+08|001|01126|Adams 126|Adams 126
+08|001|01127|Adams 127|Adams 127
+08|001|01128|Adams 128|Adams 128
+08|001|01129|Adams 129|Adams 129
+08|001|01130|Adams 130|Adams 130
+08|001|01131|Adams 131|Adams 131
+08|001|01132|Adams 132|Adams 132
+08|001|01133|Adams 133|Adams 133
+08|001|01134|Adams 134|Adams 134
+08|001|01135|Adams 135|Adams 135
+08|001|01136|Adams 136|Adams 136
+08|001|01137|Adams 137|Adams 137
+08|001|01138|Adams 138|Adams 138
+08|001|01139|Adams 139|Adams 139
+08|001|01140|Adams 140|Adams 140
+08|001|01141|Adams 141|Adams 141
+08|001|01142|Adams 142|Adams 142
+08|001|01143|Adams 143|Adams 143
+08|001|01144|Adams 144|Adams 144
+08|001|01145|Adams 145|Adams 145
+08|001|01146|Adams 146|Adams 146
+08|001|01147|Adams 147|Adams 147
+08|001|01148|Adams 148|Adams 148
+08|001|01149|Adams 149|Adams 149
+08|001|01150|Adams 150|Adams 150
+08|001|01151|Adams 141|Adams 141
+08|001|01152|Adams 152|Adams 152
+08|001|01153|Adams 153|Adams 153
+08|001|01154|Adams 154|Adams 154
+08|001|01155|Adams 155|Adams 155
+08|001|01156|Adams 156|Adams 156
+08|001|01157|Adams 157|Adams 157
+08|001|01158|Adams 158|Adams 158
+08|001|01159|Adams 159|Adams 159
+08|001|01160|Adams 160|Adams 160
+08|001|01161|Adams 161|Adams 161
+08|001|01162|Adams 162|Adams 162
+08|001|01163|Adams 163|Adams 163
+08|001|01164|Adams 164|Adams 164
+08|001|01165|Adams 165|Adams 165
+08|001|01166|Adams 166|Adams 166
+08|001|01167|Adams 167|Adams 167
+08|001|01168|Adams 168|Adams 168
+08|001|01169|Adams 169|Adams 169
+08|001|01170|Adams 170|Adams 170
+08|001|01171|Adams 171|Adams 171
+08|001|01172|Adams 172|Adams 172
+08|001|01173|Adams 173|Adams 173
+08|001|01174|Adams 174|Adams 174
+08|001|01175|Adams 175|Adams 175
+08|001|01176|Adams 176|Adams 176
+08|001|01177|Adams 177|Adams 177
+08|001|01178|Adams 178|Adams 178
+08|001|01179|Adams 179|Adams 179
+08|001|01180|Adams 180|Adams 180
+08|001|01181|Adams 181|Adams 181
+08|001|01182|Adams 182|Adams 182
+08|001|01183|Adams 183|Adams 183
+08|001|01184|Adams 184|Adams 184
+08|001|01185|Adams 185|Adams 185
+08|001|01186|Adams 186|Adams 186
+08|001|01187|Adams 187|Adams 187
+08|001|01188|Adams 188|Adams 188
+08|001|01189|Adams 189|Adams 189
+08|001|01190|Adams 190|Adams 190
+08|001|01191|Adams 191|Adams 191
+08|001|01192|Adams 192|Adams 192
+08|001|01193|Adams 193|Adams 193
+08|001|01194|Adams 194|Adams 194
+08|001|01195|Adams 195|Adams 195
+08|001|01196|Adams 196|Adams 196
+08|001|01197|Adams 197|Adams 197
+08|001|01198|Adams 198|Adams 198
+08|001|01199|Adams 199|Adams 199
+08|001|01200|Adams 200|Adams 200
+08|001|01201|Adams 201|Adams 201
+08|001|01202|Adams 202|Adams 202
+08|001|01203|Adams 203|Adams 203
+08|001|01204|Adams 204|Adams 204
+08|001|01205|Adams 205|Adams 205
+08|001|01206|Adams 206|Adams 206
+08|001|01207|Adams 207|Adams 207
+08|001|01208|Adams 208|Adams 208
+08|001|01209|Adams 209|Adams 209
+08|001|01210|Adams 210|Adams 210
+08|001|01211|Adams 211|Adams 211
+08|001|01212|Adams 212|Adams 212
+08|001|01213|Adams 213|Adams 213
+08|001|01214|Adams 214|Adams 214
+08|001|01215|Adams 215|Adams 215
+08|001|01216|Adams 216|Adams 216
+08|001|01217|Adams 217|Adams 217
+08|003|02001|Alamosa 1|Alamosa 1
+08|003|02002|Alamosa 2|Alamosa 2
+08|003|02003|Alamosa 3|Alamosa 3
+08|003|02004|Alamosa 4|Alamosa 4
+08|003|02005|Alamosa 5|Alamosa 5
+08|003|02006|Alamosa 6|Alamosa 6
+08|003|02007|Alamosa 7|Alamosa 7
+08|003|02008|Alamosa 8|Alamosa 8
+08|005|03101|Arapahoe 101|Arapahoe 101
+08|005|03102|Arapahoe 102|Arapahoe 102
+08|005|03103|Arapahoe 103|Arapahoe 103
+08|005|03104|Arapahoe 104|Arapahoe 104
+08|005|03105|Arapahoe 105|Arapahoe 105
+08|005|03106|Arapahoe 106|Arapahoe 106
+08|005|03107|Arapahoe 107|Arapahoe 107
+08|005|03108|Arapahoe 108|Arapahoe 108
+08|005|03109|Arapahoe 109|Arapahoe 109
+08|005|03110|Arapahoe 110|Arapahoe 110
+08|005|03111|Arapahoe 111|Arapahoe 111
+08|005|03112|Arapahoe 112|Arapahoe 112
+08|005|03113|Arapahoe 113|Arapahoe 113
+08|005|03114|Arapahoe 114|Arapahoe 114
+08|005|03115|Arapahoe 115|Arapahoe 115
+08|005|03116|Arapahoe 116|Arapahoe 116
+08|005|03117|Arapahoe 117|Arapahoe 117
+08|005|03118|Arapahoe 118|Arapahoe 118
+08|005|03119|Arapahoe 119|Arapahoe 119
+08|005|03120|Arapahoe 120|Arapahoe 120
+08|005|03121|Arapahoe 121|Arapahoe 121
+08|005|03122|Arapahoe 122|Arapahoe 122
+08|005|03123|Arapahoe 123|Arapahoe 123
+08|005|03124|Arapahoe 124|Arapahoe 124
+08|005|03125|Arapahoe 125|Arapahoe 125
+08|005|03126|Arapahoe 126|Arapahoe 126
+08|005|03127|Arapahoe 127|Arapahoe 127
+08|005|03128|Arapahoe 128|Arapahoe 128
+08|005|03129|Arapahoe 129|Arapahoe 129
+08|005|03130|Arapahoe 130|Arapahoe 130
+08|005|03131|Arapahoe 131|Arapahoe 131
+08|005|03132|Arapahoe 132|Arapahoe 132
+08|005|03133|Arapahoe 133|Arapahoe 133
+08|005|03134|Arapahoe 134|Arapahoe 134
+08|005|03135|Arapahoe 135|Arapahoe 135
+08|005|03136|Arapahoe 136|Arapahoe 136
+08|005|03137|Arapahoe 137|Arapahoe 137
+08|005|03138|Arapahoe 138|Arapahoe 138
+08|005|03139|Arapahoe 139|Arapahoe 139
+08|005|03140|Arapahoe 140|Arapahoe 140
+08|005|03141|Arapahoe 141|Arapahoe 141
+08|005|03142|Arapahoe 142|Arapahoe 142
+08|005|03143|Arapahoe 143|Arapahoe 143
+08|005|03144|Arapahoe 144|Arapahoe 144
+08|005|03145|Arapahoe 145|Arapahoe 145
+08|005|03146|Arapahoe 146|Arapahoe 146
+08|005|03147|Arapahoe 147|Arapahoe 147
+08|005|03148|Arapahoe 148|Arapahoe 148
+08|005|03149|Arapahoe 149|Arapahoe 149
+08|005|03150|Arapahoe 150|Arapahoe 150
+08|005|03151|Arapahoe 151|Arapahoe 151
+08|005|03152|Arapahoe 152|Arapahoe 152
+08|005|03153|Arapahoe 153|Arapahoe 153
+08|005|03154|Arapahoe 154|Arapahoe 154
+08|005|03155|Arapahoe 155|Arapahoe 155
+08|005|03156|Arapahoe 156|Arapahoe 156
+08|005|03157|Arapahoe 157|Arapahoe 157
+08|005|03158|Arapahoe 158|Arapahoe 158
+08|005|03159|Arapahoe 159|Arapahoe 159
+08|005|03160|Arapahoe 160|Arapahoe 160
+08|005|03161|Arapahoe 161|Arapahoe 161
+08|005|03162|Arapahoe 162|Arapahoe 162
+08|005|03163|Arapahoe 163|Arapahoe 163
+08|005|03164|Arapahoe 164|Arapahoe 164
+08|005|03165|Arapahoe 165|Arapahoe 165
+08|005|03166|Arapahoe 166|Arapahoe 166
+08|005|03167|Arapahoe 167|Arapahoe 167
+08|005|03168|Arapahoe 168|Arapahoe 168
+08|005|03169|Arapahoe 169|Arapahoe 169
+08|005|03170|Arapahoe 170|Arapahoe 170
+08|005|03171|Arapahoe 171|Arapahoe 171
+08|005|03172|Arapahoe 172|Arapahoe 172
+08|005|03173|Arapahoe 173|Arapahoe 173
+08|005|03174|Arapahoe 174|Arapahoe 174
+08|005|03175|Arapahoe 175|Arapahoe 175
+08|005|03176|Arapahoe 176|Arapahoe 176
+08|005|03201|Arapahoe 201|Arapahoe 201
+08|005|03202|Arapahoe 202|Arapahoe 202
+08|005|03203|Arapahoe 203|Arapahoe 203
+08|005|03204|Arapahoe 204|Arapahoe 204
+08|005|03205|Arapahoe 205|Arapahoe 205
+08|005|03206|Arapahoe 206|Arapahoe 206
+08|005|03207|Arapahoe 207|Arapahoe 207
+08|005|03208|Arapahoe 208|Arapahoe 208
+08|005|03209|Arapahoe 209|Arapahoe 209
+08|005|03210|Arapahoe 210|Arapahoe 210
+08|005|03211|Arapahoe 211|Arapahoe 211
+08|005|03212|Arapahoe 212|Arapahoe 212
+08|005|03213|Arapahoe 213|Arapahoe 213
+08|005|03214|Arapahoe 214|Arapahoe 214
+08|005|03215|Arapahoe 215|Arapahoe 215
+08|005|03216|Arapahoe 216|Arapahoe 216
+08|005|03217|Arapahoe 217|Arapahoe 217
+08|005|03218|Arapahoe 218|Arapahoe 218
+08|005|03219|Arapahoe 219|Arapahoe 219
+08|005|03220|Arapahoe 220|Arapahoe 220
+08|005|03221|Arapahoe 221|Arapahoe 221
+08|005|03222|Arapahoe 222|Arapahoe 222
+08|005|03223|Arapahoe 223|Arapahoe 223
+08|005|03224|Arapahoe 224|Arapahoe 224
+08|005|03225|Arapahoe 225|Arapahoe 225
+08|005|03226|Arapahoe 226|Arapahoe 226
+08|005|03227|Arapahoe 227|Arapahoe 227
+08|005|03228|Arapahoe 228|Arapahoe 228
+08|005|03229|Arapahoe 229|Arapahoe 229
+08|005|03230|Arapahoe 230|Arapahoe 230
+08|005|03231|Arapahoe 231|Arapahoe 231
+08|005|03232|Arapahoe 232|Arapahoe 232
+08|005|03233|Arapahoe 233|Arapahoe 233
+08|005|03234|Arapahoe 234|Arapahoe 234
+08|005|03235|Arapahoe 235|Arapahoe 235
+08|005|03236|Arapahoe 236|Arapahoe 236
+08|005|03237|Arapahoe 237|Arapahoe 237
+08|005|03238|Arapahoe 238|Arapahoe 238
+08|005|03239|Arapahoe 239|Arapahoe 239
+08|005|03240|Arapahoe 240|Arapahoe 240
+08|005|03241|Arapahoe 241|Arapahoe 241
+08|005|03242|Arapahoe 242|Arapahoe 242
+08|005|03243|Arapahoe 243|Arapahoe 243
+08|005|03244|Arapahoe 244|Arapahoe 244
+08|005|03245|Arapahoe 245|Arapahoe 245
+08|005|03246|Arapahoe 246|Arapahoe 246
+08|005|03247|Arapahoe 247|Arapahoe 247
+08|005|03248|Arapahoe 248|Arapahoe 248
+08|005|03249|Arapahoe 249|Arapahoe 249
+08|005|03250|Arapahoe 250|Arapahoe 250
+08|005|03251|Arapahoe 251|Arapahoe 251
+08|005|03252|Arapahoe 252|Arapahoe 252
+08|005|03253|Arapahoe 253|Arapahoe 253
+08|005|03254|Arapahoe 254|Arapahoe 254
+08|005|03255|Arapahoe 255|Arapahoe 255
+08|005|03256|Arapahoe 256|Arapahoe 256
+08|005|03257|Arapahoe 257|Arapahoe 257
+08|005|03258|Arapahoe 258|Arapahoe 258
+08|005|03259|Arapahoe 259|Arapahoe 259
+08|005|03260|Arapahoe 260|Arapahoe 260
+08|005|03261|Arapahoe 261|Arapahoe 261
+08|005|03262|Arapahoe 262|Arapahoe 262
+08|005|03263|Arapahoe 263|Arapahoe 263
+08|005|03264|Arapahoe 264|Arapahoe 264
+08|005|03265|Arapahoe 265|Arapahoe 265
+08|005|03266|Arapahoe 266|Arapahoe 266
+08|005|03267|Arapahoe 267|Arapahoe 267
+08|005|03268|Arapahoe 268|Arapahoe 268
+08|005|03269|Arapahoe 269|Arapahoe 269
+08|005|03270|Arapahoe 270|Arapahoe 270
+08|005|03271|Arapahoe 271|Arapahoe 271
+08|005|03272|Arapahoe 272|Arapahoe 272
+08|005|03273|Arapahoe 273|Arapahoe 273
+08|005|03274|Arapahoe 274|Arapahoe 274
+08|005|03275|Arapahoe 275|Arapahoe 275
+08|005|03276|Arapahoe 276|Arapahoe 276
+08|005|03277|Arapahoe 277|Arapahoe 277
+08|005|03278|Arapahoe 278|Arapahoe 278
+08|005|03279|Arapahoe 279|Arapahoe 279
+08|005|03280|Arapahoe 280|Arapahoe 280
+08|005|03281|Arapahoe 281|Arapahoe 281
+08|005|03282|Arapahoe 282|Arapahoe 282
+08|005|03283|Arapahoe 283|Arapahoe 283
+08|005|03284|Arapahoe 284|Arapahoe 284
+08|005|03285|Arapahoe 285|Arapahoe 285
+08|005|03286|Arapahoe 286|Arapahoe 286
+08|005|03301|Arapahoe 301|Arapahoe 301
+08|005|03302|Arapahoe 302|Arapahoe 302
+08|005|03303|Arapahoe 303|Arapahoe 303
+08|005|03304|Arapahoe 304|Arapahoe 304
+08|005|03305|Arapahoe 305|Arapahoe 305
+08|005|03306|Arapahoe 306|Arapahoe 306
+08|005|03307|Arapahoe 307|Arapahoe 307
+08|005|03308|Arapahoe 308|Arapahoe 308
+08|005|03309|Arapahoe 309|Arapahoe 309
+08|005|03310|Arapahoe 310|Arapahoe 310
+08|005|03311|Arapahoe 311|Arapahoe 311
+08|005|03312|Arapahoe 312|Arapahoe 312
+08|005|03313|Arapahoe 313|Arapahoe 313
+08|005|03314|Arapahoe 314|Arapahoe 314
+08|005|03315|Arapahoe 315|Arapahoe 315
+08|005|03316|Arapahoe 316|Arapahoe 316
+08|005|03317|Arapahoe 317|Arapahoe 317
+08|005|03318|Arapahoe 318|Arapahoe 318
+08|005|03319|Arapahoe 319|Arapahoe 319
+08|005|03320|Arapahoe 320|Arapahoe 320
+08|005|03321|Arapahoe 321|Arapahoe 321
+08|005|03322|Arapahoe 322|Arapahoe 322
+08|005|03323|Arapahoe 323|Arapahoe 323
+08|005|03324|Arapahoe 324|Arapahoe 324
+08|005|03325|Arapahoe 325|Arapahoe 325
+08|005|03326|Arapahoe 326|Arapahoe 326
+08|005|03327|Arapahoe 327|Arapahoe 327
+08|005|03328|Arapahoe 328|Arapahoe 328
+08|005|03329|Arapahoe 329|Arapahoe 329
+08|005|03330|Arapahoe 330|Arapahoe 330
+08|005|03331|Arapahoe 331|Arapahoe 331
+08|005|03332|Arapahoe 332|Arapahoe 332
+08|005|03333|Arapahoe 333|Arapahoe 333
+08|005|03334|Arapahoe 334|Arapahoe 334
+08|005|03335|Arapahoe 335|Arapahoe 335
+08|005|03336|Arapahoe 336|Arapahoe 336
+08|005|03337|Arapahoe 337|Arapahoe 337
+08|005|03338|Arapahoe 338|Arapahoe 338
+08|005|03339|Arapahoe 339|Arapahoe 339
+08|005|03340|Arapahoe 340|Arapahoe 340
+08|005|03341|Arapahoe 341|Arapahoe 341
+08|005|03342|Arapahoe 342|Arapahoe 342
+08|005|03343|Arapahoe 343|Arapahoe 343
+08|005|03344|Arapahoe 344|Arapahoe 344
+08|005|03345|Arapahoe 345|Arapahoe 345
+08|005|03346|Arapahoe 346|Arapahoe 346
+08|005|03347|Arapahoe 347|Arapahoe 347
+08|005|03348|Arapahoe 348|Arapahoe 348
+08|005|03349|Arapahoe 349|Arapahoe 349
+08|005|03350|Arapahoe 350|Arapahoe 350
+08|005|03351|Arapahoe 351|Arapahoe 351
+08|005|03352|Arapahoe 352|Arapahoe 352
+08|005|03353|Arapahoe 353|Arapahoe 353
+08|005|03354|Arapahoe 354|Arapahoe 354
+08|005|03355|Arapahoe 355|Arapahoe 355
+08|005|03356|Arapahoe 356|Arapahoe 356
+08|005|03357|Arapahoe 357|Arapahoe 357
+08|005|03358|Arapahoe 358|Arapahoe 358
+08|005|03359|Arapahoe 359|Arapahoe 359
+08|005|03360|Arapahoe 360|Arapahoe 360
+08|005|03361|Arapahoe 361|Arapahoe 361
+08|005|03362|Arapahoe 362|Arapahoe 362
+08|005|03363|Arapahoe 363|Arapahoe 363
+08|005|03364|Arapahoe 364|Arapahoe 364
+08|005|03365|Arapahoe 365|Arapahoe 365
+08|005|03366|Arapahoe 366|Arapahoe 366
+08|005|03367|Arapahoe 367|Arapahoe 367
+08|005|03368|Arapahoe 368|Arapahoe 368
+08|005|03369|Arapahoe 369|Arapahoe 369
+08|005|03370|Arapahoe 370|Arapahoe 370
+08|005|03371|Arapahoe 371|Arapahoe 371
+08|005|03372|Arapahoe 372|Arapahoe 372
+08|005|03373|Arapahoe 373|Arapahoe 373
+08|005|03374|Arapahoe 374|Arapahoe 374
+08|005|03375|Arapahoe 375|Arapahoe 375
+08|005|03376|Arapahoe 376|Arapahoe 376
+08|005|03377|Arapahoe 377|Arapahoe 377
+08|005|03378|Arapahoe 378|Arapahoe 378
+08|005|03379|Arapahoe 379|Arapahoe 379
+08|005|03380|Arapahoe 380|Arapahoe 380
+08|005|03401|Arapahoe 401|Arapahoe 401
+08|005|03402|Arapahoe 402|Arapahoe 402
+08|005|03403|Arapahoe 403|Arapahoe 403
+08|005|03404|Arapahoe 404|Arapahoe 404
+08|005|03405|Arapahoe 405|Arapahoe 405
+08|005|03406|Arapahoe 406|Arapahoe 406
+08|005|03407|Arapahoe 407|Arapahoe 407
+08|005|03408|Arapahoe 408|Arapahoe 408
+08|005|03409|Arapahoe 409|Arapahoe 409
+08|005|03410|Arapahoe 410|Arapahoe 410
+08|005|03411|Arapahoe 411|Arapahoe 411
+08|005|03412|Arapahoe 412|Arapahoe 412
+08|005|03413|Arapahoe 413|Arapahoe 413
+08|005|03414|Arapahoe 414|Arapahoe 414
+08|005|03415|Arapahoe 415|Arapahoe 415
+08|005|03416|Arapahoe 416|Arapahoe 416
+08|005|03417|Arapahoe 417|Arapahoe 417
+08|005|03418|Arapahoe 418|Arapahoe 418
+08|005|03419|Arapahoe 419|Arapahoe 419
+08|005|03420|Arapahoe 420|Arapahoe 420
+08|005|03421|Arapahoe 421|Arapahoe 421
+08|005|03422|Arapahoe 422|Arapahoe 422
+08|005|03423|Arapahoe 423|Arapahoe 423
+08|005|03424|Arapahoe 424|Arapahoe 424
+08|005|03425|Arapahoe 425|Arapahoe 425
+08|005|03426|Arapahoe 426|Arapahoe 426
+08|005|03427|Arapahoe 427|Arapahoe 427
+08|005|03428|Arapahoe 428|Arapahoe 428
+08|005|03429|Arapahoe 429|Arapahoe 429
+08|005|03430|Arapahoe 430|Arapahoe 430
+08|005|03431|Arapahoe 431|Arapahoe 431
+08|005|03432|Arapahoe 432|Arapahoe 432
+08|005|03433|Arapahoe 433|Arapahoe 433
+08|005|03434|Arapahoe 434|Arapahoe 434
+08|005|03435|Arapahoe 435|Arapahoe 435
+08|005|03436|Arapahoe 436|Arapahoe 436
+08|005|03437|Arapahoe 437|Arapahoe 437
+08|005|03438|Arapahoe 438|Arapahoe 438
+08|005|03439|Arapahoe 439|Arapahoe 439
+08|005|03440|Arapahoe 440|Arapahoe 440
+08|005|03441|Arapahoe 441|Arapahoe 441
+08|005|03442|Arapahoe 442|Arapahoe 442
+08|005|03443|Arapahoe 443|Arapahoe 443
+08|005|03444|Arapahoe 444|Arapahoe 444
+08|005|03445|Arapahoe 445|Arapahoe 445
+08|005|03446|Arapahoe 446|Arapahoe 446
+08|005|03447|Arapahoe 447|Arapahoe 447
+08|005|03448|Arapahoe 448|Arapahoe 448
+08|005|03449|Arapahoe 449|Arapahoe 449
+08|005|03450|Arapahoe 450|Arapahoe 450
+08|005|03451|Arapahoe 451|Arapahoe 451
+08|005|03452|Arapahoe 452|Arapahoe 452
+08|005|03453|Arapahoe 453|Arapahoe 453
+08|005|03454|Arapahoe 454|Arapahoe 454
+08|005|03455|Arapahoe 455|Arapahoe 455
+08|005|03456|Arapahoe 456|Arapahoe 456
+08|005|03457|Arapahoe 457|Arapahoe 457
+08|005|03458|Arapahoe 458|Arapahoe 458
+08|005|03459|Arapahoe 459|Arapahoe 459
+08|005|03460|Arapahoe 460|Arapahoe 460
+08|005|03461|Arapahoe 461|Arapahoe 461
+08|005|03462|Arapahoe 462|Arapahoe 462
+08|005|03463|Arapahoe 463|Arapahoe 463
+08|005|03464|Arapahoe 464|Arapahoe 464
+08|005|03465|Arapahoe 465|Arapahoe 465
+08|005|03466|Arapahoe 466|Arapahoe 466
+08|005|03467|Arapahoe 467|Arapahoe 467
+08|005|03468|Arapahoe 468|Arapahoe 468
+08|005|03469|Arapahoe 469|Arapahoe 469
+08|005|03470|Arapahoe 470|Arapahoe 470
+08|005|03471|Arapahoe 471|Arapahoe 471
+08|005|03501|Arapahoe 501|Arapahoe 501
+08|005|03502|Arapahoe 502|Arapahoe 502
+08|005|03503|Arapahoe 503|Arapahoe 503
+08|005|03504|Arapahoe 504|Arapahoe 504
+08|005|03505|Arapahoe 505|Arapahoe 505
+08|005|03506|Arapahoe 506|Arapahoe 506
+08|005|03507|Arapahoe 507|Arapahoe 507
+08|005|03508|Arapahoe 508|Arapahoe 508
+08|005|03509|Arapahoe 509|Arapahoe 509
+08|005|03510|Arapahoe 510|Arapahoe 510
+08|005|03511|Arapahoe 511|Arapahoe 511
+08|005|03512|Arapahoe 512|Arapahoe 512
+08|005|03513|Arapahoe 513|Arapahoe 513
+08|005|03514|Arapahoe 514|Arapahoe 514
+08|005|03515|Arapahoe 515|Arapahoe 515
+08|005|03516|Arapahoe 516|Arapahoe 516
+08|005|03517|Arapahoe 517|Arapahoe 517
+08|005|03518|Arapahoe 518|Arapahoe 518
+08|005|03519|Arapahoe 519|Arapahoe 519
+08|005|03520|Arapahoe 520|Arapahoe 520
+08|005|03521|Arapahoe 521|Arapahoe 521
+08|005|03522|Arapahoe 522|Arapahoe 522
+08|005|03523|Arapahoe 523|Arapahoe 523
+08|005|03524|Arapahoe 524|Arapahoe 524
+08|005|03525|Arapahoe 525|Arapahoe 525
+08|005|03526|Arapahoe 526|Arapahoe 526
+08|005|03527|Arapahoe 527|Arapahoe 527
+08|005|03528|Arapahoe 528|Arapahoe 528
+08|005|03529|Arapahoe 529|Arapahoe 529
+08|005|03530|Arapahoe 530|Arapahoe 530
+08|005|03531|Arapahoe 531|Arapahoe 531
+08|005|03532|Arapahoe 532|Arapahoe 532
+08|005|03533|Arapahoe 533|Arapahoe 533
+08|005|03534|Arapahoe 534|Arapahoe 534
+08|005|03535|Arapahoe 535|Arapahoe 535
+08|005|03536|Arapahoe 536|Arapahoe 536
+08|005|03537|Arapahoe 537|Arapahoe 537
+08|005|03538|Arapahoe 538|Arapahoe 538
+08|005|03539|Arapahoe 539|Arapahoe 539
+08|005|03540|Arapahoe 540|Arapahoe 540
+08|005|03541|Arapahoe 541|Arapahoe 541
+08|005|03542|Arapahoe 542|Arapahoe 542
+08|005|03543|Arapahoe 543|Arapahoe 543
+08|005|03544|Arapahoe 544|Arapahoe 544
+08|005|03545|Arapahoe 545|Arapahoe 545
+08|005|03546|Arapahoe 546|Arapahoe 546
+08|005|03547|Arapahoe 547|Arapahoe 547
+08|005|03548|Arapahoe 548|Arapahoe 548
+08|005|03549|Arapahoe 549|Arapahoe 549
+08|005|03550|Arapahoe 550|Arapahoe 550
+08|005|03551|Arapahoe 551|Arapahoe 551
+08|005|03552|Arapahoe 552|Arapahoe 552
+08|005|03553|Arapahoe 553|Arapahoe 553
+08|005|03554|Arapahoe 554|Arapahoe 554
+08|005|03555|Arapahoe 555|Arapahoe 555
+08|005|03556|Arapahoe 556|Arapahoe 556
+08|007|04001|Archuleta 1|Archuleta 1
+08|007|04002|Archuleta 2|Archuleta 2
+08|007|04003|Archuleta 3|Archuleta 3
+08|007|04004|Archuleta 4|Archuleta 4
+08|007|04005|Archuleta 5|Archuleta 5
+08|007|04006|Archuleta 6|Archuleta 6
+08|007|04007|Archuleta 7|Archuleta 7
+08|007|04008|Archuleta 8|Archuleta 8
+08|009|05001|Baca 1|Baca 1
+08|009|05002|Baca 2|Baca 2
+08|009|05003|Baca 3|Baca 3
+08|009|05004|Baca 4|Baca 4
+08|009|05005|Baca 5|Baca 5
+08|009|05006|Baca 6|Baca 6
+08|009|05007|Baca 7|Baca 7
+08|009|05008|Baca 8|Baca 8
+08|009|05009|Baca 9|Baca 9
+08|011|06001|Bent 1|Bent 1
+08|011|06002|Bent 2|Bent 2
+08|011|06003|Bent 3|Bent 3
+08|011|06004|Bent 4|Bent 4
+08|011|06005|Bent 5|Bent 5
+08|013|07001|Boulder 1|Boulder 1
+08|013|07002|Boulder 2|Boulder 2
+08|013|07003|Boulder 3|Boulder 3
+08|013|07004|Boulder 4|Boulder 4
+08|013|07005|Boulder 5|Boulder 5
+08|013|07006|Boulder 6|Boulder 6
+08|013|07007|Boulder 7|Boulder 7
+08|013|07008|Boulder 8|Boulder 8
+08|013|07009|Boulder 9|Boulder 9
+08|013|07010|Boulder 10|Boulder 10
+08|013|07011|Boulder 11|Boulder 11
+08|013|07012|Boulder 12|Boulder 12
+08|013|07013|Boulder 13|Boulder 13
+08|013|07014|Boulder 14|Boulder 14
+08|013|07015|Boulder 15|Boulder 15
+08|013|07016|Boulder 16|Boulder 16
+08|013|07017|Boulder 17|Boulder 17
+08|013|07018|Boulder 18|Boulder 18
+08|013|07019|Boulder 19|Boulder 19
+08|013|07020|Boulder 20|Boulder 20
+08|013|07021|Boulder 21|Boulder 21
+08|013|07022|Boulder 22|Boulder 22
+08|013|07023|Boulder 23|Boulder 23
+08|013|07024|Boulder 24|Boulder 24
+08|013|07025|Boulder 25|Boulder 25
+08|013|07026|Boulder 26|Boulder 26
+08|013|07027|Boulder 27|Boulder 27
+08|013|07028|Boulder 28|Boulder 28
+08|013|07029|Boulder 29|Boulder 29
+08|013|07030|Boulder 30|Boulder 30
+08|013|07031|Boulder 31|Boulder 31
+08|013|07032|Boulder 32|Boulder 32
+08|013|07033|Boulder 33|Boulder 33
+08|013|07034|Boulder 34|Boulder 34
+08|013|07035|Boulder 35|Boulder 35
+08|013|07036|Boulder 36|Boulder 36
+08|013|07037|Boulder 37|Boulder 37
+08|013|07038|Boulder 38|Boulder 38
+08|013|07039|Boulder 39|Boulder 39
+08|013|07040|Boulder 40|Boulder 40
+08|013|07041|Boulder 41|Boulder 41
+08|013|07042|Boulder 42|Boulder 42
+08|013|07043|Boulder 43|Boulder 43
+08|013|07044|Boulder 44|Boulder 44
+08|013|07045|Boulder 45|Boulder 45
+08|013|07046|Boulder 46|Boulder 46
+08|013|07047|Boulder 47|Boulder 47
+08|013|07048|Boulder 48|Boulder 48
+08|013|07049|Boulder 49|Boulder 49
+08|013|07050|Boulder 50|Boulder 50
+08|013|07051|Boulder 51|Boulder 51
+08|013|07052|Boulder 52|Boulder 52
+08|013|07053|Boulder 53|Boulder 53
+08|013|07054|Boulder 54|Boulder 54
+08|013|07055|Boulder 55|Boulder 55
+08|013|07056|Boulder 56|Boulder 56
+08|013|07057|Boulder 57|Boulder 57
+08|013|07058|Boulder 58|Boulder 58
+08|013|07059|Boulder 59|Boulder 59
+08|013|07060|Boulder 60|Boulder 60
+08|013|07061|Boulder 61|Boulder 61
+08|013|07062|Boulder 62|Boulder 62
+08|013|07063|Boulder 63|Boulder 63
+08|013|07064|Boulder 64|Boulder 64
+08|013|07065|Boulder 65|Boulder 65
+08|013|07066|Boulder 66|Boulder 66
+08|013|07067|Boulder 67|Boulder 67
+08|013|07068|Boulder 68|Boulder 68
+08|013|07069|Boulder 69|Boulder 69
+08|013|07070|Boulder 70|Boulder 70
+08|013|07071|Boulder 71|Boulder 71
+08|013|07072|Boulder 72|Boulder 72
+08|013|07073|Boulder 73|Boulder 73
+08|013|07074|Boulder 74|Boulder 74
+08|013|07075|Boulder 75|Boulder 75
+08|013|07076|Boulder 76|Boulder 76
+08|013|07077|Boulder 77|Boulder 77
+08|013|07078|Boulder 78|Boulder 78
+08|013|07079|Boulder 79|Boulder 79
+08|013|07080|Boulder 80|Boulder 80
+08|013|07081|Boulder 81|Boulder 81
+08|013|07082|Boulder 82|Boulder 82
+08|013|07083|Boulder 83|Boulder 83
+08|013|07084|Boulder 84|Boulder 84
+08|013|07085|Boulder 85|Boulder 85
+08|013|07086|Boulder 86|Boulder 86
+08|013|07087|Boulder 87|Boulder 87
+08|013|07088|Boulder 88|Boulder 88
+08|013|07089|Boulder 89|Boulder 89
+08|013|07090|Boulder 90|Boulder 90
+08|013|07091|Boulder 91|Boulder 91
+08|013|07092|Boulder 92|Boulder 92
+08|013|07093|Boulder 93|Boulder 93
+08|013|07094|Boulder 94|Boulder 94
+08|013|07095|Boulder 95|Boulder 95
+08|013|07096|Boulder 96|Boulder 96
+08|013|07097|Boulder 97|Boulder 97
+08|013|07098|Boulder 98|Boulder 98
+08|013|07099|Boulder 99|Boulder 99
+08|013|07100|Boulder 100|Boulder 100
+08|013|07101|Boulder 101|Boulder 101
+08|013|07102|Boulder 102|Boulder 102
+08|013|07103|Boulder 103|Boulder 103
+08|013|07104|Boulder 104|Boulder 104
+08|013|07105|Boulder 105|Boulder 105
+08|013|07106|Boulder 106|Boulder 106
+08|013|07107|Boulder 107|Boulder 107
+08|013|07108|Boulder 108|Boulder 108
+08|013|07109|Boulder 109|Boulder 109
+08|013|07110|Boulder 110|Boulder 110
+08|013|07111|Boulder 111|Boulder 111
+08|013|07112|Boulder 112|Boulder 112
+08|013|07113|Boulder 113|Boulder 113
+08|013|07114|Boulder 114|Boulder 114
+08|013|07115|Boulder 115|Boulder 115
+08|013|07116|Boulder 116|Boulder 116
+08|013|07117|Boulder 117|Boulder 117
+08|013|07118|Boulder 118|Boulder 118
+08|013|07119|Boulder 119|Boulder 119
+08|013|07120|Boulder 120|Boulder 120
+08|013|07121|Boulder 121|Boulder 121
+08|013|07122|Boulder 122|Boulder 122
+08|013|07123|Boulder 123|Boulder 123
+08|013|07124|Boulder 124|Boulder 124
+08|013|07125|Boulder 125|Boulder 125
+08|013|07126|Boulder 126|Boulder 126
+08|013|07127|Boulder 127|Boulder 127
+08|013|07128|Boulder 128|Boulder 128
+08|013|07129|Boulder 129|Boulder 129
+08|013|07130|Boulder 130|Boulder 130
+08|013|07131|Boulder 131|Boulder 131
+08|013|07132|Boulder 132|Boulder 132
+08|013|07133|Boulder 133|Boulder 133
+08|013|07134|Boulder 134|Boulder 134
+08|013|07135|Boulder 135|Boulder 135
+08|013|07136|Boulder 136|Boulder 136
+08|013|07137|Boulder 137|Boulder 137
+08|013|07138|Boulder 138|Boulder 138
+08|013|07139|Boulder 139|Boulder 139
+08|013|07140|Boulder 140|Boulder 140
+08|013|07141|Boulder 141|Boulder 141
+08|013|07142|Boulder 142|Boulder 142
+08|013|07143|Boulder 143|Boulder 143
+08|013|07144|Boulder 144|Boulder 144
+08|013|07145|Boulder 145|Boulder 145
+08|013|07146|Boulder 146|Boulder 146
+08|013|07147|Boulder 147|Boulder 147
+08|013|07148|Boulder 148|Boulder 148
+08|013|07149|Boulder 149|Boulder 149
+08|013|07150|Boulder 150|Boulder 150
+08|013|07151|Boulder 151|Boulder 151
+08|013|07152|Boulder 152|Boulder 152
+08|013|07153|Boulder 153|Boulder 153
+08|013|07154|Boulder 154|Boulder 154
+08|013|07155|Boulder 155|Boulder 155
+08|013|07156|Boulder 156|Boulder 156
+08|013|07157|Boulder 157|Boulder 157
+08|013|07158|Boulder 158|Boulder 158
+08|013|07159|Boulder 159|Boulder 159
+08|013|07160|Boulder 160|Boulder 160
+08|013|07161|Boulder 161|Boulder 161
+08|013|07162|Boulder 162|Boulder 162
+08|013|07163|Boulder 163|Boulder 163
+08|013|07164|Boulder 164|Boulder 164
+08|013|07165|Boulder 165|Boulder 165
+08|013|07166|Boulder 166|Boulder 166
+08|013|07167|Boulder 167|Boulder 167
+08|013|07168|Boulder 168|Boulder 168
+08|013|07169|Boulder 169|Boulder 169
+08|013|07170|Boulder 170|Boulder 170
+08|013|07171|Boulder 171|Boulder 171
+08|013|07172|Boulder 172|Boulder 172
+08|013|07173|Boulder 173|Boulder 173
+08|013|07174|Boulder 174|Boulder 174
+08|013|07175|Boulder 175|Boulder 175
+08|013|07176|Boulder 176|Boulder 176
+08|013|07177|Boulder 177|Boulder 177
+08|013|07178|Boulder 178|Boulder 178
+08|013|07179|Boulder 179|Boulder 179
+08|013|07180|Boulder 180|Boulder 180
+08|013|07181|Boulder 181|Boulder 181
+08|013|07182|Boulder 182|Boulder 182
+08|013|07183|Boulder 183|Boulder 183
+08|013|07184|Boulder 184|Boulder 184
+08|013|07185|Boulder 185|Boulder 185
+08|013|07186|Boulder 186|Boulder 186
+08|013|07187|Boulder 187|Boulder 187
+08|013|07188|Boulder 188|Boulder 188
+08|013|07189|Boulder 189|Boulder 189
+08|013|07190|Boulder 190|Boulder 190
+08|013|07191|Boulder 191|Boulder 191
+08|013|07192|Boulder 192|Boulder 192
+08|013|07193|Boulder 193|Boulder 193
+08|013|07194|Boulder 194|Boulder 194
+08|013|07195|Boulder 195|Boulder 195
+08|013|07196|Boulder 196|Boulder 196
+08|013|07197|Boulder 197|Boulder 197
+08|013|07198|Boulder 198|Boulder 198
+08|013|07199|Boulder 199|Boulder 199
+08|013|07200|Boulder 200|Boulder 200
+08|013|07201|Boulder 201|Boulder 201
+08|013|07202|Boulder 202|Boulder 202
+08|013|07203|Boulder 203|Boulder 203
+08|013|07204|Boulder 204|Boulder 204
+08|013|07205|Boulder 205|Boulder 205
+08|013|07206|Boulder 206|Boulder 206
+08|013|07207|Boulder 207|Boulder 207
+08|013|07208|Boulder 208|Boulder 208
+08|013|07209|Boulder 209|Boulder 209
+08|013|07210|Boulder 210|Boulder 210
+08|013|07211|Boulder 211|Boulder 211
+08|013|07212|Boulder 212|Boulder 212
+08|013|07213|Boulder 213|Boulder 213
+08|013|07214|Boulder 214|Boulder 214
+08|013|07215|Boulder 215|Boulder 215
+08|013|07216|Boulder 216|Boulder 216
+08|013|07217|Boulder 217|Boulder 217
+08|013|07218|Boulder 218|Boulder 218
+08|013|07219|Boulder 219|Boulder 219
+08|013|07220|Boulder 220|Boulder 220
+08|013|07221|Boulder 221|Boulder 221
+08|013|07222|Boulder 222|Boulder 222
+08|013|07223|Boulder 223|Boulder 223
+08|013|07224|Boulder 224|Boulder 224
+08|013|07225|Boulder 225|Boulder 225
+08|013|07226|Boulder 226|Boulder 226
+08|013|07227|Boulder 227|Boulder 227
+08|013|07228|Boulder 228|Boulder 228
+08|013|07229|Boulder 229|Boulder 229
+08|013|07230|Boulder 230|Boulder 230
+08|013|07231|Boulder 231|Boulder 231
+08|013|07232|Boulder 232|Boulder 232
+08|013|07233|Boulder 233|Boulder 233
+08|013|07234|Boulder 234|Boulder 234
+08|014|64001|Broomfield 1|Broomfield 1
+08|014|64002|Broomfield 2|Broomfield 2
+08|014|64003|Broomfield 3|Broomfield 3
+08|014|64004|Broomfield 4|Broomfield 4
+08|014|64005|Broomfield 5|Broomfield 5
+08|014|64006|Broomfield 6|Broomfield 6
+08|014|64007|Broomfield 7|Broomfield 7
+08|014|64008|Broomfield 8|Broomfield 8
+08|014|64009|Broomfield 9|Broomfield 9
+08|014|64010|Broomfield 10|Broomfield 10
+08|014|64011|Broomfield 11|Broomfield 11
+08|014|64012|Broomfield 12|Broomfield 12
+08|014|64013|Broomfield 13|Broomfield 13
+08|014|64014|Broomfield 14|Broomfield 14
+08|014|64015|Broomfield 15|Broomfield 15
+08|014|64016|Broomfield 16|Broomfield 16
+08|014|64017|Broomfield 17|Broomfield 17
+08|014|64018|Broomfield 18|Broomfield 18
+08|014|64019|Broomfield 19|Broomfield 19
+08|014|64020|Broomfield 20|Broomfield 20
+08|014|64021|Broomfield 21|Broomfield 21
+08|014|64022|Broomfield 22|Broomfield 22
+08|014|64023|Broomfield 23|Broomfield 23
+08|014|64024|Broomfield 24|Broomfield 24
+08|014|64025|Broomfield 25|Broomfield 25
+08|014|64026|Broomfield 26|Broomfield 26
+08|014|64027|Broomfield 27|Broomfield 27
+08|014|64028|Broomfield 28|Broomfield 28
+08|014|64029|Broomfield 29|Broomfield 29
+08|014|64030|Broomfield 30|Broomfield 30
+08|014|64031|Broomfield 31|Broomfield 31
+08|014|64032|Broomfield 32|Broomfield 32
+08|014|64033|Broomfield 33|Broomfield 33
+08|014|64034|Broomfield 34|Broomfield 34
+08|014|64035|Broomfield 35|Broomfield 35
+08|014|64036|Broomfield 36|Broomfield 36
+08|014|64037|Broomfield 37|Broomfield 37
+08|014|64038|Broomfield 38|Broomfield 38
+08|015|08001|Chaffee 1|Chaffee 1
+08|015|08002|Chaffee 2|Chaffee 2
+08|015|08003|Chaffee 3|Chaffee 3
+08|015|08004|Chaffee 4|Chaffee 4
+08|015|08005|Chaffee 5|Chaffee 5
+08|015|08006|Chaffee 6|Chaffee 6
+08|015|08007|Chaffee 7|Chaffee 7
+08|015|08008|Chaffee 8|Chaffee 8
+08|015|08009|Chaffee 9|Chaffee 9
+08|015|08010|Chaffee 10|Chaffee 10
+08|015|08011|Chaffee 11|Chaffee 11
+08|015|08012|Chaffee 12|Chaffee 12
+08|015|08013|Chaffee 13|Chaffee 13
+08|015|08014|Chaffee 14|Chaffee 14
+08|015|08015|Chaffee 15|Chaffee 15
+08|017|09001|Cheyenne 1|Cheyenne 1
+08|017|09002|Cheyenne 2|Cheyenne 2
+08|017|09003|Cheyenne 3|Cheyenne 3
+08|017|09004|Cheyenne 4|Cheyenne 4
+08|017|09005|Cheyenne 5|Cheyenne 5
+08|019|10001|Clear Creek 1|Clear Creek 1
+08|019|10002|Clear Creek 2|Clear Creek 2
+08|019|10003|Clear Creek 3|Clear Creek 3
+08|019|10004|Clear Creek 4|Clear Creek 4
+08|019|10005|Clear Creek 5|Clear Creek 5
+08|019|10006|Clear Creek 6|Clear Creek 6
+08|019|10007|Clear Creek 7|Clear Creek 7
+08|019|10008|Clear Creek 8|Clear Creek 8
+08|019|10009|Clear Creek 9|Clear Creek 9
+08|021|11001|Conejos 1|Conejos 1
+08|021|11002|Conejos 2|Conejos 2
+08|021|11003|Conejos 3|Conejos 3
+08|021|11004|Conejos 4|Conejos 4
+08|021|11005|Conejos 5|Conejos 5
+08|021|11006|Conejos 6|Conejos 6
+08|021|11007|Conejos 7|Conejos 7
+08|021|11008|Conejos 8|Conejos 8
+08|021|11009|Conejos 9|Conejos 9
+08|021|11010|Conejos 10|Conejos 10
+08|023|12001|Costilla 1|Costilla 1
+08|023|12002|Costilla 2|Costilla 2
+08|023|12003|Costilla 3|Costilla 3
+08|023|12004|Costilla 4|Costilla 4
+08|023|12005|Costilla 5|Costilla 5
+08|023|12006|Costilla 6|Costilla 6
+08|023|12007|Costilla 7|Costilla 7
+08|023|12008|Costilla 8|Costilla 8
+08|025|13001|Crowley 1|Crowley 1
+08|025|13002|Crowley 2|Crowley 2
+08|025|13003|Crowley 3|Crowley 3
+08|025|13004|Crowley 4|Crowley 4
+08|025|13005|Crowley 5|Crowley 5
+08|025|13006|Crowley 6|Crowley 6
+08|027|14001|Custer 1|Custer 1
+08|027|14002|Custer 2|Custer 2
+08|027|14003|Custer 3|Custer 3
+08|029|15001|Delta 1|Delta 1
+08|029|15002|Delta 2|Delta 2
+08|029|15003|Delta 3|Delta 3
+08|029|15004|Delta 4|Delta 4
+08|029|15005|Delta 5|Delta 5
+08|029|15006|Delta 6|Delta 6
+08|029|15007|Delta 7|Delta 7
+08|029|15008|Delta 8|Delta 8
+08|029|15009|Delta 9|Delta 9
+08|029|15010|Delta 10|Delta 10
+08|029|15011|Delta 11|Delta 11
+08|029|15012|Delta 12|Delta 12
+08|029|15013|Delta 13|Delta 13
+08|029|15014|Delta 14|Delta 14
+08|029|15015|Delta 15|Delta 15
+08|029|15016|Delta 16|Delta 16
+08|029|15017|Delta 17|Delta 17
+08|029|15018|Delta 18|Delta 18
+08|029|15019|Delta 19|Delta 19
+08|029|15020|Delta 20|Delta 20
+08|031|16101|Denver 101|Denver 101
+08|031|16102|Denver 102|Denver 102
+08|031|16103|Denver 103|Denver 103
+08|031|16104|Denver 104|Denver 104
+08|031|16105|Denver 105|Denver 105
+08|031|16106|Denver 106|Denver 106
+08|031|16107|Denver 107|Denver 107
+08|031|16108|Denver 108|Denver 108
+08|031|16109|Denver 109|Denver 109
+08|031|16110|Denver 110|Denver 110
+08|031|16111|Denver 111|Denver 111
+08|031|16112|Denver 112|Denver 112
+08|031|16113|Denver 113|Denver 113
+08|031|16114|Denver 114|Denver 114
+08|031|16115|Denver 115|Denver 115
+08|031|16116|Denver 116|Denver 116
+08|031|16117|Denver 117|Denver 117
+08|031|16118|Denver 118|Denver 118
+08|031|16119|Denver 119|Denver 119
+08|031|16120|Denver 120|Denver 120
+08|031|16121|Denver 121|Denver 121
+08|031|16122|Denver 122|Denver 122
+08|031|16123|Denver 123|Denver 123
+08|031|16124|Denver 124|Denver 124
+08|031|16125|Denver 125|Denver 125
+08|031|16126|Denver 126|Denver 126
+08|031|16127|Denver 127|Denver 127
+08|031|16128|Denver 128|Denver 128
+08|031|16129|Denver 129|Denver 129
+08|031|16130|Denver 130|Denver 130
+08|031|16131|Denver 131|Denver 131
+08|031|16132|Denver 132|Denver 132
+08|031|16133|Denver 133|Denver 133
+08|031|16134|Denver 134|Denver 134
+08|031|16135|Denver 135|Denver 135
+08|031|16136|Denver 136|Denver 136
+08|031|16137|Denver 137|Denver 137
+08|031|16138|Denver 138|Denver 138
+08|031|16139|Denver 139|Denver 139
+08|031|16140|Denver 140|Denver 140
+08|031|16141|Denver 141|Denver 141
+08|031|16142|Denver 142|Denver 142
+08|031|16143|Denver 143|Denver 143
+08|031|16144|Denver 144|Denver 144
+08|031|16201|Denver 201|Denver 201
+08|031|16202|Denver 202|Denver 202
+08|031|16203|Denver 203|Denver 203
+08|031|16204|Denver 204|Denver 204
+08|031|16205|Denver 205|Denver 205
+08|031|16206|Denver 206|Denver 206
+08|031|16207|Denver 207|Denver 207
+08|031|16208|Denver 208|Denver 208
+08|031|16209|Denver 209|Denver 209
+08|031|16210|Denver 210|Denver 210
+08|031|16211|Denver 211|Denver 211
+08|031|16212|Denver 212|Denver 212
+08|031|16213|Denver 213|Denver 213
+08|031|16214|Denver 214|Denver 214
+08|031|16215|Denver 215|Denver 215
+08|031|16216|Denver 216|Denver 216
+08|031|16217|Denver 217|Denver 217
+08|031|16218|Denver 218|Denver 218
+08|031|16219|Denver 219|Denver 219
+08|031|16220|Denver 220|Denver 220
+08|031|16221|Denver 221|Denver 221
+08|031|16222|Denver 222|Denver 222
+08|031|16223|Denver 223|Denver 223
+08|031|16224|Denver 224|Denver 224
+08|031|16225|Denver 225|Denver 225
+08|031|16226|Denver 226|Denver 226
+08|031|16227|Denver 227|Denver 227
+08|031|16228|Denver 228|Denver 228
+08|031|16229|Denver 229|Denver 229
+08|031|16230|Denver 230|Denver 230
+08|031|16231|Denver 231|Denver 231
+08|031|16232|Denver 232|Denver 232
+08|031|16233|Denver 233|Denver 233
+08|031|16234|Denver 234|Denver 234
+08|031|16235|Denver 235|Denver 235
+08|031|16236|Denver 236|Denver 236
+08|031|16237|Denver 237|Denver 237
+08|031|16238|Denver 238|Denver 238
+08|031|16301|Denver 301|Denver 301
+08|031|16302|Denver 302|Denver 302
+08|031|16303|Denver 303|Denver 303
+08|031|16304|Denver 304|Denver 304
+08|031|16305|Denver 305|Denver 305
+08|031|16306|Denver 306|Denver 306
+08|031|16307|Denver 307|Denver 307
+08|031|16308|Denver 308|Denver 308
+08|031|16309|Denver 309|Denver 309
+08|031|16310|Denver 310|Denver 310
+08|031|16311|Denver 311|Denver 311
+08|031|16312|Denver 312|Denver 312
+08|031|16313|Denver 313|Denver 313
+08|031|16314|Denver 314|Denver 314
+08|031|16315|Denver 315|Denver 315
+08|031|16316|Denver 316|Denver 316
+08|031|16317|Denver 317|Denver 317
+08|031|16318|Denver 318|Denver 318
+08|031|16319|Denver 319|Denver 319
+08|031|16320|Denver 320|Denver 320
+08|031|16321|Denver 321|Denver 321
+08|031|16322|Denver 322|Denver 322
+08|031|16323|Denver 323|Denver 323
+08|031|16324|Denver 324|Denver 324
+08|031|16325|Denver 325|Denver 325
+08|031|16326|Denver 326|Denver 326
+08|031|16327|Denver 327|Denver 327
+08|031|16328|Denver 328|Denver 328
+08|031|16329|Denver 329|Denver 329
+08|031|16330|Denver 330|Denver 330
+08|031|16331|Denver 331|Denver 331
+08|031|16332|Denver 332|Denver 332
+08|031|16333|Denver 333|Denver 333
+08|031|16334|Denver 334|Denver 334
+08|031|16335|Denver 335|Denver 335
+08|031|16336|Denver 336|Denver 336
+08|031|16337|Denver 337|Denver 337
+08|031|16338|Denver 338|Denver 338
+08|031|16339|Denver 339|Denver 339
+08|031|16401|Denver 401|Denver 401
+08|031|16402|Denver 402|Denver 402
+08|031|16403|Denver 403|Denver 403
+08|031|16404|Denver 404|Denver 404
+08|031|16405|Denver 405|Denver 405
+08|031|16406|Denver 406|Denver 406
+08|031|16407|Denver 407|Denver 407
+08|031|16408|Denver 408|Denver 408
+08|031|16409|Denver 409|Denver 409
+08|031|16410|Denver 410|Denver 410
+08|031|16411|Denver 411|Denver 411
+08|031|16412|Denver 412|Denver 412
+08|031|16413|Denver 413|Denver 413
+08|031|16414|Denver 414|Denver 414
+08|031|16415|Denver 415|Denver 415
+08|031|16416|Denver 416|Denver 416
+08|031|16417|Denver 417|Denver 417
+08|031|16418|Denver 418|Denver 418
+08|031|16419|Denver 419|Denver 419
+08|031|16420|Denver 420|Denver 420
+08|031|16421|Denver 421|Denver 421
+08|031|16422|Denver 422|Denver 422
+08|031|16423|Denver 423|Denver 423
+08|031|16424|Denver 424|Denver 424
+08|031|16425|Denver 425|Denver 425
+08|031|16426|Denver 426|Denver 426
+08|031|16427|Denver 427|Denver 427
+08|031|16428|Denver 428|Denver 428
+08|031|16429|Denver 429|Denver 429
+08|031|16430|Denver 430|Denver 430
+08|031|16431|Denver 431|Denver 431
+08|031|16432|Denver 432|Denver 432
+08|031|16433|Denver 433|Denver 433
+08|031|16434|Denver 434|Denver 434
+08|031|16435|Denver 435|Denver 435
+08|031|16436|Denver 436|Denver 436
+08|031|16437|Denver 437|Denver 437
+08|031|16438|Denver 438|Denver 438
+08|031|16439|Denver 439|Denver 439
+08|031|16440|Denver 440|Denver 440
+08|031|16441|Denver 441|Denver 441
+08|031|16442|Denver 442|Denver 442
+08|031|16443|Denver 443|Denver 443
+08|031|16444|Denver 444|Denver 444
+08|031|16501|Denver 501|Denver 501
+08|031|16502|Denver 502|Denver 502
+08|031|16503|Denver 503|Denver 503
+08|031|16504|Denver 504|Denver 504
+08|031|16505|Denver 505|Denver 505
+08|031|16506|Denver 506|Denver 506
+08|031|16507|Denver 507|Denver 507
+08|031|16508|Denver 508|Denver 508
+08|031|16509|Denver 509|Denver 509
+08|031|16510|Denver 510|Denver 510
+08|031|16511|Denver 511|Denver 511
+08|031|16512|Denver 512|Denver 512
+08|031|16513|Denver 513|Denver 513
+08|031|16514|Denver 514|Denver 514
+08|031|16515|Denver 515|Denver 515
+08|031|16516|Denver 516|Denver 516
+08|031|16517|Denver 517|Denver 517
+08|031|16518|Denver 518|Denver 518
+08|031|16519|Denver 519|Denver 519
+08|031|16520|Denver 520|Denver 520
+08|031|16521|Denver 521|Denver 521
+08|031|16522|Denver 522|Denver 522
+08|031|16523|Denver 523|Denver 523
+08|031|16524|Denver 524|Denver 524
+08|031|16525|Denver 525|Denver 525
+08|031|16526|Denver 526|Denver 526
+08|031|16527|Denver 527|Denver 527
+08|031|16528|Denver 528|Denver 528
+08|031|16529|Denver 529|Denver 529
+08|031|16530|Denver 530|Denver 530
+08|031|16531|Denver 531|Denver 531
+08|031|16532|Denver 532|Denver 532
+08|031|16533|Denver 533|Denver 533
+08|031|16534|Denver 534|Denver 534
+08|031|16535|Denver 535|Denver 535
+08|031|16536|Denver 536|Denver 536
+08|031|16537|Denver 537|Denver 537
+08|031|16538|Denver 538|Denver 538
+08|031|16539|Denver 539|Denver 539
+08|031|16601|Denver 601|Denver 601
+08|031|16602|Denver 602|Denver 602
+08|031|16603|Denver 603|Denver 603
+08|031|16604|Denver 604|Denver 604
+08|031|16605|Denver 605|Denver 605
+08|031|16606|Denver 606|Denver 606
+08|031|16607|Denver 807|Denver 807
+08|031|16608|Denver 608|Denver 608
+08|031|16609|Denver 609|Denver 609
+08|031|16610|Denver 610|Denver 610
+08|031|16611|Denver 611|Denver 611
+08|031|16612|Denver 612|Denver 612
+08|031|16613|Denver 613|Denver 613
+08|031|16614|Denver 614|Denver 614
+08|031|16615|Denver 615|Denver 615
+08|031|16616|Denver 616|Denver 616
+08|031|16617|Denver 617|Denver 617
+08|031|16618|Denver 618|Denver 618
+08|031|16619|Denver 619|Denver 619
+08|031|16620|Denver 620|Denver 620
+08|031|16621|Denver 621|Denver 621
+08|031|16622|Denver 622|Denver 622
+08|031|16623|Denver 623|Denver 623
+08|031|16624|Denver 624|Denver 624
+08|031|16625|Denver 625|Denver 625
+08|031|16626|Denver 626|Denver 626
+08|031|16627|Denver 627|Denver 627
+08|031|16628|Denver 628|Denver 628
+08|031|16629|Denver 629|Denver 629
+08|031|16630|Denver 630|Denver 630
+08|031|16631|Denver 631|Denver 631
+08|031|16632|Denver 632|Denver 632
+08|031|16633|Denver 633|Denver 633
+08|031|16634|Denver 634|Denver 634
+08|031|16635|Denver 635|Denver 635
+08|031|16636|Denver 636|Denver 636
+08|031|16637|Denver 637|Denver 637
+08|031|16638|Denver 638|Denver 638
+08|031|16639|Denver 639|Denver 639
+08|031|16640|Denver 640|Denver 640
+08|031|16641|Denver 641|Denver 641
+08|031|16642|Denver 642|Denver 642
+08|031|16643|Denver 643|Denver 643
+08|031|16644|Denver 644|Denver 644
+08|031|16645|Denver 645|Denver 645
+08|031|16646|Denver 646|Denver 646
+08|031|16647|Denver 647|Denver 647
+08|031|16648|Denver 648|Denver 648
+08|031|16649|Denver 649|Denver 649
+08|031|16650|Denver 650|Denver 650
+08|031|16651|Denver 651|Denver 651
+08|031|16652|Denver 652|Denver 652
+08|031|16653|Denver 653|Denver 653
+08|031|16654|Denver 654|Denver 654
+08|031|16655|Denver 655|Denver 655
+08|031|16656|Denver 656|Denver 656
+08|031|16657|Denver 657|Denver 657
+08|031|16658|Denver 658|Denver 658
+08|031|16659|Denver 659|Denver 659
+08|031|16660|Denver 660|Denver 660
+08|031|16661|Denver 661|Denver 661
+08|031|16662|Denver 662|Denver 662
+08|031|16663|Denver 663|Denver 663
+08|031|16664|Denver 664|Denver 664
+08|031|16665|Denver 665|Denver 665
+08|031|16666|Denver 666|Denver 666
+08|031|16701|Denver 701|Denver 701
+08|031|16702|Denver 702|Denver 702
+08|031|16703|Denver 703|Denver 703
+08|031|16704|Denver 704|Denver 704
+08|031|16705|Denver 705|Denver 705
+08|031|16706|Denver 706|Denver 706
+08|031|16707|Denver 707|Denver 707
+08|031|16708|Denver 708|Denver 708
+08|031|16709|Denver 709|Denver 709
+08|031|16710|Denver 710|Denver 710
+08|031|16711|Denver 711|Denver 711
+08|031|16712|Denver 712|Denver 712
+08|031|16713|Denver 713|Denver 713
+08|031|16714|Denver 714|Denver 714
+08|031|16715|Denver 715|Denver 715
+08|031|16716|Denver 716|Denver 716
+08|031|16717|Denver 717|Denver 717
+08|031|16718|Denver 718|Denver 718
+08|031|16719|Denver 719|Denver 719
+08|031|16720|Denver 720|Denver 720
+08|031|16721|Denver 721|Denver 721
+08|031|16722|Denver 722|Denver 722
+08|031|16723|Denver 723|Denver 723
+08|031|16724|Denver 724|Denver 724
+08|031|16725|Denver 725|Denver 725
+08|031|16726|Denver 726|Denver 726
+08|031|16727|Denver 727|Denver 727
+08|031|16728|Denver 728|Denver 728
+08|031|16729|Denver 729|Denver 729
+08|031|16730|Denver 730|Denver 730
+08|031|16731|Denver 731|Denver 731
+08|031|16732|Denver 732|Denver 732
+08|031|16733|Denver 733|Denver 733
+08|031|16734|Denver 734|Denver 734
+08|031|16735|Denver 735|Denver 735
+08|031|16736|Denver 736|Denver 736
+08|031|16737|Denver 737|Denver 737
+08|031|16738|Denver 738|Denver 738
+08|031|16739|Denver 739|Denver 739
+08|031|16740|Denver 740|Denver 740
+08|031|16741|Denver 741|Denver 741
+08|031|16742|Denver 742|Denver 742
+08|031|16743|Denver 743|Denver 743
+08|031|16744|Denver 744|Denver 744
+08|031|16745|Denver 745|Denver 745
+08|031|16746|Denver 746|Denver 746
+08|031|16747|Denver 747|Denver 747
+08|031|16748|Denver 748|Denver 748
+08|031|16749|Denver 749|Denver 749
+08|031|16750|Denver 750|Denver 750
+08|031|16801|Denver 801|Denver 801
+08|031|16802|Denver 802|Denver 802
+08|031|16803|Denver 803|Denver 803
+08|031|16804|Denver 804|Denver 804
+08|031|16805|Denver 805|Denver 805
+08|031|16806|Denver 806|Denver 806
+08|031|16807|Denver 807|Denver 807
+08|031|16808|Denver 808|Denver 808
+08|031|16809|Denver 809|Denver 809
+08|031|16810|Denver 810|Denver 810
+08|031|16811|Denver 811|Denver 811
+08|031|16812|Denver 812|Denver 812
+08|031|16813|Denver 813|Denver 813
+08|031|16814|Denver 814|Denver 814
+08|031|16815|Denver 815|Denver 815
+08|031|16816|Denver 816|Denver 816
+08|031|16817|Denver 817|Denver 817
+08|031|16818|Denver 818|Denver 818
+08|031|16819|Denver 819|Denver 819
+08|031|16820|Denver 820|Denver 820
+08|031|16821|Denver 821|Denver 821
+08|031|16822|Denver 822|Denver 822
+08|031|16823|Denver 823|Denver 823
+08|031|16824|Denver 824|Denver 824
+08|031|16825|Denver 825|Denver 825
+08|031|16826|Denver 826|Denver 826
+08|031|16827|Denver 827|Denver 827
+08|031|16828|Denver 828|Denver 828
+08|031|16829|Denver 829|Denver 829
+08|031|16830|Denver 830|Denver 830
+08|031|16831|Denver 831|Denver 831
+08|031|16832|Denver 832|Denver 832
+08|031|16833|Denver 833|Denver 833
+08|031|16834|Denver 834|Denver 834
+08|031|16835|Denver 835|Denver 835
+08|031|16836|Denver 836|Denver 836
+08|031|16837|Denver 837|Denver 837
+08|031|16838|Denver 838|Denver 838
+08|031|16839|Denver 839|Denver 839
+08|031|16840|Denver 840|Denver 840
+08|031|16841|Denver 841|Denver 841
+08|031|16842|Denver 842|Denver 842
+08|031|16843|Denver 843|Denver 843
+08|031|16844|Denver 844|Denver 844
+08|031|16845|Denver 845|Denver 845
+08|031|16846|Denver 846|Denver 846
+08|031|16847|Denver 847|Denver 847
+08|031|16848|Denver 848|Denver 848
+08|031|16849|Denver 849|Denver 849
+08|031|16850|Denver 850|Denver 850
+08|031|16851|Denver 851|Denver 851
+08|031|16852|Denver 852|Denver 852
+08|031|16853|Denver 853|Denver 853
+08|031|16854|Denver 854|Denver 854
+08|031|16855|Denver 855|Denver 855
+08|031|16901|Denver 901|Denver 901
+08|031|16902|Denver 902|Denver 902
+08|031|16903|Denver 903|Denver 903
+08|031|16904|Denver 904|Denver 904
+08|031|16905|Denver 905|Denver 905
+08|031|16906|Denver 906|Denver 906
+08|031|16907|Denver 907|Denver 907
+08|031|16908|Denver 908|Denver 908
+08|031|16909|Denver 909|Denver 909
+08|031|16910|Denver 910|Denver 910
+08|031|16911|Denver 911|Denver 911
+08|031|16912|Denver 912|Denver 912
+08|031|16913|Denver 913|Denver 913
+08|031|16914|Denver 914|Denver 914
+08|031|16915|Denver 915|Denver 915
+08|031|16916|Denver 916|Denver 916
+08|031|16917|Denver 917|Denver 917
+08|031|16918|Denver 918|Denver 918
+08|031|16919|Denver 919|Denver 919
+08|031|16920|Denver 920|Denver 920
+08|031|16921|Denver 921|Denver 921
+08|031|16922|Denver 922|Denver 922
+08|031|16923|Denver 923|Denver 923
+08|031|16924|Denver 924|Denver 924
+08|031|16925|Denver 925|Denver 925
+08|031|16926|Denver 926|Denver 926
+08|031|16927|Denver 927|Denver 927
+08|031|16928|Denver 928|Denver 928
+08|031|16929|Denver 929|Denver 929
+08|031|16930|Denver 930|Denver 930
+08|031|16931|Denver 931|Denver 931
+08|031|16932|Denver 932|Denver 932
+08|031|16933|Denver 933|Denver 933
+08|031|16934|Denver 934|Denver 934
+08|031|16935|Denver 935|Denver 935
+08|031|16936|Denver 936|Denver 936
+08|031|16937|Denver 937|Denver 937
+08|031|16938|Denver 938|Denver 938
+08|031|16939|Denver 939|Denver 939
+08|031|16940|Denver 940|Denver 940
+08|031|16941|Denver 941|Denver 941
+08|031|16942|Denver 942|Denver 942
+08|031|16943|Denver 943|Denver 943
+08|031|16944|Denver 944|Denver 944
+08|031|16945|Denver 945|Denver 945
+08|031|16946|Denver 946|Denver 946
+08|031|16947|Denver 947|Denver 947
+08|031|16948|Denver 948|Denver 948
+08|031|16949|Denver 949|Denver 949
+08|031|16950|Denver 950|Denver 950
+08|031|16951|Denver 951|Denver 951
+08|031|16952|Denver 952|Denver 952
+08|031|16953|Denver 953|Denver 953
+08|031|16954|Denver 954|Denver 954
+08|033|17001|Dolores 1|Dolores 1
+08|033|17002|Dolores 2|Dolores 2
+08|033|17003|Dolores 3|Dolores 3
+08|033|17004|Dolores 4|Dolores 4
+08|035|18001|Douglas 1|Douglas 1
+08|035|18002|Douglas 2|Douglas 2
+08|035|18003|Douglas 3|Douglas 3
+08|035|18004|Douglas 4|Douglas 4
+08|035|18005|Douglas 5|Douglas 5
+08|035|18006|Douglas 6|Douglas 6
+08|035|18007|Douglas 7|Douglas 7
+08|035|18008|Douglas 8|Douglas 8
+08|035|18009|Douglas 9|Douglas 9
+08|035|18010|Douglas 10|Douglas 10
+08|035|18011|Douglas 11|Douglas 11
+08|035|18012|Douglas 12|Douglas 12
+08|035|18013|Douglas 13|Douglas 13
+08|035|18014|Douglas 14|Douglas 14
+08|035|18015|Douglas 15|Douglas 15
+08|035|18016|Douglas 16|Douglas 16
+08|035|18017|Douglas 17|Douglas 17
+08|035|18018|Douglas 18|Douglas 18
+08|035|18019|Douglas 19|Douglas 19
+08|035|18020|Douglas 20|Douglas 20
+08|035|18021|Douglas 21|Douglas 21
+08|035|18022|Douglas 22|Douglas 22
+08|035|18023|Douglas 23|Douglas 23
+08|035|18024|Douglas 24|Douglas 24
+08|035|18025|Douglas 25|Douglas 25
+08|035|18026|Douglas 26|Douglas 26
+08|035|18027|Douglas 27|Douglas 27
+08|035|18028|Douglas 28|Douglas 28
+08|035|18029|Douglas 29|Douglas 29
+08|035|18030|Douglas 30|Douglas 30
+08|035|18031|Douglas 31|Douglas 31
+08|035|18032|Douglas 32|Douglas 32
+08|035|18033|Douglas 33|Douglas 33
+08|035|18034|Douglas 34|Douglas 34
+08|035|18035|Douglas 35|Douglas 35
+08|035|18036|Douglas 36|Douglas 36
+08|035|18037|Douglas 37|Douglas 37
+08|035|18038|Douglas 38|Douglas 38
+08|035|18039|Douglas 39|Douglas 39
+08|035|18040|Douglas 40|Douglas 40
+08|035|18041|Douglas 41|Douglas 41
+08|035|18042|Douglas 42|Douglas 42
+08|035|18043|Douglas 43|Douglas 43
+08|035|18044|Douglas 44|Douglas 44
+08|035|18045|Douglas 45|Douglas 45
+08|035|18046|Douglas 46|Douglas 46
+08|035|18047|Douglas 47|Douglas 47
+08|035|18048|Douglas 48|Douglas 48
+08|035|18049|Douglas 49|Douglas 49
+08|035|18050|Douglas 50|Douglas 50
+08|035|18051|Douglas 51|Douglas 51
+08|035|18052|Douglas 52|Douglas 52
+08|035|18053|Douglas 53|Douglas 53
+08|035|18054|Douglas 54|Douglas 54
+08|035|18055|Douglas 55|Douglas 55
+08|035|18056|Douglas 56|Douglas 56
+08|035|18057|Douglas 57|Douglas 57
+08|035|18058|Douglas 58|Douglas 58
+08|035|18059|Douglas 59|Douglas 59
+08|035|18060|Douglas 60|Douglas 60
+08|035|18061|Douglas 61|Douglas 61
+08|035|18062|Douglas 62|Douglas 62
+08|035|18063|Douglas 63|Douglas 63
+08|035|18064|Douglas 64|Douglas 64
+08|035|18065|Douglas 65|Douglas 65
+08|035|18066|Douglas 66|Douglas 66
+08|035|18067|Douglas 67|Douglas 67
+08|035|18068|Douglas 68|Douglas 68
+08|035|18069|Douglas 69|Douglas 69
+08|035|18070|Douglas 70|Douglas 70
+08|035|18071|Douglas 71|Douglas 71
+08|035|18072|Douglas 72|Douglas 72
+08|035|18073|Douglas 73|Douglas 73
+08|035|18074|Douglas 74|Douglas 74
+08|035|18075|Douglas 75|Douglas 75
+08|035|18076|Douglas 76|Douglas 76
+08|035|18077|Douglas 77|Douglas 77
+08|035|18078|Douglas 78|Douglas 78
+08|035|18079|Douglas 79|Douglas 79
+08|035|18080|Douglas 80|Douglas 80
+08|035|18081|Douglas 81|Douglas 81
+08|035|18082|Douglas 82|Douglas 82
+08|035|18083|Douglas 83|Douglas 83
+08|035|18084|Douglas 84|Douglas 84
+08|035|18085|Douglas 85|Douglas 85
+08|035|18086|Douglas 86|Douglas 86
+08|035|18087|Douglas 87|Douglas 87
+08|035|18088|Douglas 88|Douglas 88
+08|035|18089|Douglas 89|Douglas 89
+08|035|18090|Douglas 90|Douglas 90
+08|035|18091|Douglas 91|Douglas 91
+08|035|18092|Douglas 92|Douglas 92
+08|035|18093|Douglas 93|Douglas 93
+08|035|18094|Douglas 94|Douglas 94
+08|035|18095|Douglas 95|Douglas 95
+08|035|18096|Douglas 96|Douglas 96
+08|035|18097|Douglas 97|Douglas 97
+08|035|18098|Douglas 98|Douglas 98
+08|035|18099|Douglas 99|Douglas 99
+08|035|18100|Douglas 100|Douglas 100
+08|035|18101|Douglas 101|Douglas 101
+08|035|18102|Douglas 102|Douglas 102
+08|035|18103|Douglas 103|Douglas 103
+08|035|18104|Douglas 104|Douglas 104
+08|035|18105|Douglas 105|Douglas 105
+08|035|18106|Douglas 106|Douglas 106
+08|035|18107|Douglas 107|Douglas 107
+08|035|18108|Douglas 108|Douglas 108
+08|035|18109|Douglas 109|Douglas 109
+08|035|18110|Douglas 110|Douglas 110
+08|035|18111|Douglas 111|Douglas 111
+08|035|18112|Douglas 112|Douglas 112
+08|035|18113|Douglas 113|Douglas 113
+08|035|18114|Douglas 114|Douglas 114
+08|035|18115|Douglas 115|Douglas 115
+08|035|18116|Douglas 116|Douglas 116
+08|035|18117|Douglas 117|Douglas 117
+08|035|18118|Douglas 118|Douglas 118
+08|035|18119|Douglas 119|Douglas 119
+08|035|18120|Douglas 120|Douglas 120
+08|035|18121|Douglas 121|Douglas 121
+08|035|18122|Douglas 122|Douglas 122
+08|035|18123|Douglas 123|Douglas 123
+08|035|18124|Douglas 124|Douglas 124
+08|035|18125|Douglas 125|Douglas 125
+08|035|18126|Douglas 126|Douglas 126
+08|035|18127|Douglas 127|Douglas 127
+08|035|18128|Douglas 128|Douglas 128
+08|035|18129|Douglas 129|Douglas 129
+08|035|18130|Douglas 130|Douglas 130
+08|035|18131|Douglas 131|Douglas 131
+08|035|18132|Douglas 132|Douglas 132
+08|035|18133|Douglas 133|Douglas 133
+08|035|18134|Douglas 134|Douglas 134
+08|035|18135|Douglas 135|Douglas 135
+08|035|18136|Douglas 136|Douglas 136
+08|035|18137|Douglas 137|Douglas 137
+08|035|18138|Douglas 138|Douglas 138
+08|035|18139|Douglas 139|Douglas 139
+08|035|18140|Douglas 140|Douglas 140
+08|035|18141|Douglas 141|Douglas 141
+08|035|18142|Douglas 142|Douglas 142
+08|035|18143|Douglas 143|Douglas 143
+08|035|18144|Douglas 144|Douglas 144
+08|035|18145|Douglas 145|Douglas 145
+08|035|18146|Douglas 146|Douglas 146
+08|035|18147|Douglas 147|Douglas 147
+08|037|19001|Eagle 1|Eagle 1
+08|037|19002|Eagle 2|Eagle 2
+08|037|19003|Eagle 3|Eagle 3
+08|037|19004|Eagle 4|Eagle 4
+08|037|19005|Eagle 5|Eagle 5
+08|037|19006|Eagle 6|Eagle 6
+08|037|19007|Eagle 7|Eagle 7
+08|037|19008|Eagle 8|Eagle 8
+08|037|19009|Eagle 9|Eagle 9
+08|037|19010|Eagle 10|Eagle 10
+08|037|19011|Eagle 11|Eagle 11
+08|037|19012|Eagle 12|Eagle 12
+08|037|19013|Eagle 13|Eagle 13
+08|037|19014|Eagle 14|Eagle 14
+08|037|19015|Eagle 15|Eagle 15
+08|037|19016|Eagle 16|Eagle 16
+08|037|19017|Eagle 17|Eagle 17
+08|037|19018|Eagle 18|Eagle 18
+08|037|19019|Eagle 19|Eagle 19
+08|037|19020|Eagle 20|Eagle 20
+08|037|19021|Eagle 21|Eagle 21
+08|037|19022|Eagle 22|Eagle 22
+08|037|19023|Eagle 23|Eagle 23
+08|037|19024|Eagle 24|Eagle 24
+08|037|19025|Eagle 25|Eagle 25
+08|037|19026|Eagle 26|Eagle 26
+08|037|19027|Eagle 27|Eagle 27
+08|037|19028|Eagle 28|Eagle 28
+08|037|19029|Eagle 29|Eagle 29
+08|037|19030|Eagle 30|Eagle 30
+08|039|20001|Elbert 1|Elbert 1
+08|039|20002|Elbert 2|Elbert 2
+08|039|20003|Elbert 3|Elbert 3
+08|039|20004|Elbert 4|Elbert 4
+08|039|20005|Elbert 5|Elbert 5
+08|039|20006|Elbert 6|Elbert 6
+08|039|20007|Elbert 7|Elbert 7
+08|039|20008|Elbert 8|Elbert 8
+08|039|20009|Elbert 9|Elbert 9
+08|039|20010|Elbert 10|Elbert 10
+08|039|20011|Elbert 11|Elbert 11
+08|039|20012|Elbert 12|Elbert 12
+08|039|20013|Elbert 13|Elbert 13
+08|039|20014|Elbert 14|Elbert 14
+08|039|20015|Elbert 15|Elbert 15
+08|039|20016|Elbert 16|Elbert 16
+08|039|20017|Elbert 17|Elbert 17
+08|039|20018|Elbert 18|Elbert 18
+08|041|21001|El Paso 1|El Paso 1
+08|041|21002|El Paso 2|El Paso 2
+08|041|21003|El Paso 3|El Paso 3
+08|041|21004|El Paso 4|El Paso 4
+08|041|21005|El Paso 5|El Paso 5
+08|041|21006|El Paso 6|El Paso 6
+08|041|21007|El Paso 7|El Paso 7
+08|041|21008|El Paso 8|El Paso 8
+08|041|21009|El Paso 9|El Paso 9
+08|041|21010|El Paso 10|El Paso 10
+08|041|21011|El Paso 11|El Paso 11
+08|041|21012|El Paso 12|El Paso 12
+08|041|21013|El Paso 13|El Paso 13
+08|041|21014|El Paso 14|El Paso 14
+08|041|21015|El Paso 15|El Paso 15
+08|041|21016|El Paso 16|El Paso 16
+08|041|21017|El Paso 17|El Paso 17
+08|041|21018|El Paso 18|El Paso 18
+08|041|21019|El Paso 19|El Paso 19
+08|041|21020|El Paso 20|El Paso 20
+08|041|21021|El Paso 21|El Paso 21
+08|041|21022|El Paso 22|El Paso 22
+08|041|21023|El Paso 23|El Paso 23
+08|041|21024|El Paso 24|El Paso 24
+08|041|21025|El Paso 25|El Paso 25
+08|041|21026|El Paso 26|El Paso 26
+08|041|21027|El Paso 27|El Paso 27
+08|041|21028|El Paso 28|El Paso 28
+08|041|21029|El Paso 29|El Paso 29
+08|041|21030|El Paso 30|El Paso 30
+08|041|21031|El Paso 31|El Paso 31
+08|041|21032|El Paso 32|El Paso 32
+08|041|21033|El Paso 33|El Paso 33
+08|041|21034|El Paso 34|El Paso 34
+08|041|21035|El Paso 35|El Paso 35
+08|041|21036|El Paso 36|El Paso 36
+08|041|21037|El Paso 37|El Paso 37
+08|041|21038|El Paso 38|El Paso 38
+08|041|21039|El Paso 39|El Paso 39
+08|041|21040|El Paso 40|El Paso 40
+08|041|21041|El Paso 41|El Paso 41
+08|041|21042|El Paso 42|El Paso 42
+08|041|21043|El Paso 43|El Paso 43
+08|041|21044|El Paso 44|El Paso 44
+08|041|21045|El Paso 45|El Paso 45
+08|041|21046|El Paso 46|El Paso 46
+08|041|21047|El Paso 47|El Paso 47
+08|041|21048|El Paso 48|El Paso 48
+08|041|21049|El Paso 49|El Paso 49
+08|041|21050|El Paso 50|El Paso 50
+08|041|21051|El Paso 51|El Paso 51
+08|041|21052|El Paso 52|El Paso 52
+08|041|21053|El Paso 53|El Paso 53
+08|041|21054|El Paso 54|El Paso 54
+08|041|21055|El Paso 55|El Paso 55
+08|041|21056|El Paso 56|El Paso 56
+08|041|21057|El Paso 57|El Paso 57
+08|041|21058|El Paso 58|El Paso 58
+08|041|21059|El Paso 59|El Paso 59
+08|041|21060|El Paso 60|El Paso 60
+08|041|21061|El Paso 61|El Paso 61
+08|041|21062|El Paso 62|El Paso 62
+08|041|21063|El Paso 63|El Paso 63
+08|041|21064|El Paso 64|El Paso 64
+08|041|21065|El Paso 65|El Paso 65
+08|041|21066|El Paso 66|El Paso 66
+08|041|21067|El Paso 67|El Paso 67
+08|041|21068|El Paso 68|El Paso 68
+08|041|21069|El Paso 69|El Paso 69
+08|041|21070|El Paso 70|El Paso 70
+08|041|21071|El Paso 71|El Paso 71
+08|041|21072|El Paso 72|El Paso 72
+08|041|21073|El Paso 73|El Paso 73
+08|041|21074|El Paso 74|El Paso 74
+08|041|21075|El Paso 75|El Paso 75
+08|041|21076|El Paso 76|El Paso 76
+08|041|21077|El Paso 77|El Paso 77
+08|041|21078|El Paso 78|El Paso 78
+08|041|21079|El Paso 79|El Paso 79
+08|041|21080|El Paso 80|El Paso 80
+08|041|21081|El Paso 81|El Paso 81
+08|041|21082|El Paso 82|El Paso 82
+08|041|21083|El Paso 83|El Paso 83
+08|041|21084|El Paso 84|El Paso 84
+08|041|21085|El Paso 85|El Paso 85
+08|041|21086|El Paso 86|El Paso 86
+08|041|21087|El Paso 87|El Paso 87
+08|041|21088|El Paso 88|El Paso 88
+08|041|21089|El Paso 89|El Paso 89
+08|041|21090|El Paso 90|El Paso 90
+08|041|21091|El Paso 91|El Paso 91
+08|041|21092|El Paso 92|El Paso 92
+08|041|21093|El Paso 93|El Paso 93
+08|041|21094|El Paso 94|El Paso 94
+08|041|21095|El Paso 95|El Paso 95
+08|041|21096|El Paso 96|El Paso 96
+08|041|21097|El Paso 97|El Paso 97
+08|041|21098|El Paso 98|El Paso 98
+08|041|21099|El Paso 99|El Paso 99
+08|041|21100|El Paso 100|El Paso 100
+08|041|21101|El Paso 101|El Paso 101
+08|041|21102|El Paso 102|El Paso 102
+08|041|21103|El Paso 103|El Paso 103
+08|041|21104|El Paso 104|El Paso 104
+08|041|21105|El Paso 105|El Paso 105
+08|041|21106|El Paso 106|El Paso 106
+08|041|21107|El Paso 107|El Paso 107
+08|041|21108|El Paso 108|El Paso 108
+08|041|21109|El Paso 109|El Paso 109
+08|041|21110|El Paso 110|El Paso 110
+08|041|21111|El Paso 111|El Paso 111
+08|041|21112|El Paso 112|El Paso 112
+08|041|21113|El Paso 113|El Paso 113
+08|041|21114|El Paso 114|El Paso 114
+08|041|21115|El Paso 115|El Paso 115
+08|041|21116|El Paso 116|El Paso 116
+08|041|21117|El Paso 117|El Paso 117
+08|041|21118|El Paso 118|El Paso 118
+08|041|21119|El Paso 119|El Paso 119
+08|041|21120|El Paso 120|El Paso 120
+08|041|21121|El Paso 121|El Paso 121
+08|041|21122|El Paso 122|El Paso 122
+08|041|21123|El Paso 123|El Paso 123
+08|041|21124|El Paso 124|El Paso 124
+08|041|21125|El Paso 125|El Paso 125
+08|041|21126|El Paso 126|El Paso 126
+08|041|21127|El Paso 127|El Paso 127
+08|041|21128|El Paso 128|El Paso 128
+08|041|21129|El Paso 129|El Paso 129
+08|041|21130|El Paso 130|El Paso 130
+08|041|21131|El Paso 131|El Paso 131
+08|041|21132|El Paso 132|El Paso 132
+08|041|21133|El Paso 133|El Paso 133
+08|041|21134|El Paso 134|El Paso 134
+08|041|21135|El Paso 135|El Paso 135
+08|041|21136|El Paso 136|El Paso 136
+08|041|21137|El Paso 137|El Paso 137
+08|041|21138|El Paso 138|El Paso 138
+08|041|21139|El Paso 139|El Paso 139
+08|041|21140|El Paso 140|El Paso 140
+08|041|21141|El Paso 141|El Paso 141
+08|041|21142|El Paso 142|El Paso 142
+08|041|21143|El Paso 143|El Paso 143
+08|041|21144|El Paso 144|El Paso 144
+08|041|21145|El Paso 145|El Paso 145
+08|041|21146|El Paso 146|El Paso 146
+08|041|21147|El Paso 147|El Paso 147
+08|041|21148|El Paso 148|El Paso 148
+08|041|21149|El Paso 149|El Paso 149
+08|041|21150|El Paso 150|El Paso 150
+08|041|21151|El Paso 151|El Paso 151
+08|041|21152|El Paso 152|El Paso 152
+08|041|21153|El Paso 153|El Paso 153
+08|041|21154|El Paso 154|El Paso 154
+08|041|21155|El Paso 155|El Paso 155
+08|041|21156|El Paso 156|El Paso 156
+08|041|21157|El Paso 157|El Paso 157
+08|041|21158|El Paso 158|El Paso 158
+08|041|21159|El Paso 159|El Paso 159
+08|041|21160|El Paso 160|El Paso 160
+08|041|21161|El Paso 161|El Paso 161
+08|041|21162|El Paso 162|El Paso 162
+08|041|21163|El Paso 163|El Paso 163
+08|041|21164|El Paso 164|El Paso 164
+08|041|21165|El Paso 165|El Paso 165
+08|041|21166|El Paso 166|El Paso 166
+08|041|21167|El Paso 167|El Paso 167
+08|041|21168|El Paso 168|El Paso 168
+08|041|21169|El Paso 169|El Paso 169
+08|041|21170|El Paso 170|El Paso 170
+08|041|21171|El Paso 171|El Paso 171
+08|041|21172|El Paso 172|El Paso 172
+08|041|21173|El Paso 173|El Paso 173
+08|041|21174|El Paso 174|El Paso 174
+08|041|21175|El Paso 175|El Paso 175
+08|041|21176|El Paso 176|El Paso 176
+08|041|21177|El Paso 177|El Paso 177
+08|041|21178|El Paso 178|El Paso 178
+08|041|21179|El Paso 179|El Paso 179
+08|041|21180|El Paso 180|El Paso 180
+08|041|21181|El Paso 181|El Paso 181
+08|041|21182|El Paso 182|El Paso 182
+08|041|21183|El Paso 183|El Paso 183
+08|041|21184|El Paso 184|El Paso 184
+08|041|21185|El Paso 185|El Paso 185
+08|041|21186|El Paso 186|El Paso 186
+08|041|21187|El Paso 187|El Paso 187
+08|041|21188|El Paso 188|El Paso 188
+08|041|21189|El Paso 189|El Paso 189
+08|041|21190|El Paso 190|El Paso 190
+08|041|21191|El Paso 191|El Paso 191
+08|041|21192|El Paso 192|El Paso 192
+08|041|21193|El Paso 193|El Paso 193
+08|041|21194|El Paso 194|El Paso 194
+08|041|21195|El Paso 195|El Paso 195
+08|041|21196|El Paso 196|El Paso 196
+08|041|21197|El Paso 197|El Paso 197
+08|041|21198|El Paso 198|El Paso 198
+08|041|21199|El Paso 199|El Paso 199
+08|041|21200|El Paso 200|El Paso 200
+08|041|21201|El Paso 201|El Paso 201
+08|041|21202|El Paso 202|El Paso 202
+08|041|21203|El Paso 203|El Paso 203
+08|041|21204|El Paso 204|El Paso 204
+08|041|21205|El Paso 205|El Paso 205
+08|041|21206|El Paso 206|El Paso 206
+08|041|21207|El Paso 207|El Paso 207
+08|041|21208|El Paso 208|El Paso 208
+08|041|21209|El Paso 209|El Paso 209
+08|041|21210|El Paso 210|El Paso 210
+08|041|21211|El Paso 211|El Paso 211
+08|041|21212|El Paso 212|El Paso 212
+08|041|21213|El Paso 213|El Paso 213
+08|041|21214|El Paso 214|El Paso 214
+08|041|21215|El Paso 215|El Paso 215
+08|041|21216|El Paso 216|El Paso 216
+08|041|21217|El Paso 217|El Paso 217
+08|041|21218|El Paso 218|El Paso 218
+08|041|21219|El Paso 219|El Paso 219
+08|041|21220|El Paso 220|El Paso 220
+08|041|21221|El Paso 221|El Paso 221
+08|041|21222|El Paso 222|El Paso 222
+08|041|21223|El Paso 223|El Paso 223
+08|041|21224|El Paso 224|El Paso 224
+08|041|21225|El Paso 225|El Paso 225
+08|041|21226|El Paso 226|El Paso 226
+08|041|21227|El Paso 227|El Paso 227
+08|041|21228|El Paso 228|El Paso 228
+08|041|21229|El Paso 229|El Paso 229
+08|041|21230|El Paso 230|El Paso 230
+08|041|21231|El Paso 231|El Paso 231
+08|041|21232|El Paso 232|El Paso 232
+08|041|21233|El Paso 233|El Paso 233
+08|041|21234|El Paso 234|El Paso 234
+08|041|21235|El Paso 235|El Paso 235
+08|041|21236|El Paso 236|El Paso 236
+08|041|21237|El Paso 237|El Paso 237
+08|041|21238|El Paso 238|El Paso 238
+08|041|21239|El Paso 239|El Paso 239
+08|041|21240|El Paso 240|El Paso 240
+08|041|21241|El Paso 241|El Paso 241
+08|041|21242|El Paso 242|El Paso 242
+08|041|21243|El Paso 243|El Paso 243
+08|041|21244|El Paso 244|El Paso 244
+08|041|21245|El Paso 245|El Paso 245
+08|041|21246|El Paso 246|El Paso 246
+08|041|21247|El Paso 247|El Paso 247
+08|041|21248|El Paso 248|El Paso 248
+08|041|21249|El Paso 249|El Paso 249
+08|041|21250|El Paso 250|El Paso 250
+08|041|21251|El Paso 251|El Paso 251
+08|041|21252|El Paso 252|El Paso 252
+08|041|21253|El Paso 253|El Paso 253
+08|041|21254|El Paso 254|El Paso 254
+08|041|21255|El Paso 255|El Paso 255
+08|041|21256|El Paso 256|El Paso 256
+08|041|21257|El Paso 257|El Paso 257
+08|041|21258|El Paso 258|El Paso 258
+08|041|21259|El Paso 259|El Paso 259
+08|041|21260|El Paso 260|El Paso 260
+08|041|21261|El Paso 261|El Paso 261
+08|041|21262|El Paso 262|El Paso 262
+08|041|21263|El Paso 263|El Paso 263
+08|041|21264|El Paso 264|El Paso 264
+08|041|21265|El Paso 265|El Paso 265
+08|041|21266|El Paso 266|El Paso 266
+08|041|21267|El Paso 267|El Paso 267
+08|041|21268|El Paso 268|El Paso 268
+08|041|21269|El Paso 269|El Paso 269
+08|041|21270|El Paso 270|El Paso 270
+08|041|21271|El Paso 271|El Paso 271
+08|041|21272|El Paso 272|El Paso 272
+08|041|21273|El Paso 273|El Paso 273
+08|041|21274|El Paso 274|El Paso 274
+08|041|21275|El Paso 275|El Paso 275
+08|041|21276|El Paso 276|El Paso 276
+08|041|21277|El Paso 277|El Paso 277
+08|041|21278|El Paso 278|El Paso 278
+08|041|21279|El Paso 279|El Paso 279
+08|041|21280|El Paso 280|El Paso 280
+08|041|21281|El Paso 281|El Paso 281
+08|041|21282|El Paso 282|El Paso 282
+08|041|21283|El Paso 283|El Paso 283
+08|041|21284|El Paso 284|El Paso 284
+08|041|21285|El Paso 285|El Paso 285
+08|041|21286|El Paso 286|El Paso 286
+08|041|21287|El Paso 287|El Paso 287
+08|041|21288|El Paso 288|El Paso 288
+08|041|21289|El Paso 289|El Paso 289
+08|041|21290|El Paso 290|El Paso 290
+08|041|21291|El Paso 291|El Paso 291
+08|041|21292|El Paso 292|El Paso 292
+08|041|21293|El Paso 293|El Paso 293
+08|041|21294|El Paso 294|El Paso 294
+08|041|21295|El Paso 295|El Paso 295
+08|041|21296|El Paso 296|El Paso 296
+08|041|21297|El Paso 297|El Paso 297
+08|041|21298|El Paso 298|El Paso 298
+08|041|21299|El Paso 299|El Paso 299
+08|041|21300|El Paso 300|El Paso 300
+08|041|21301|El Paso 301|El Paso 301
+08|041|21302|El Paso 302|El Paso 302
+08|041|21303|El Paso 303|El Paso 303
+08|041|21304|El Paso 304|El Paso 304
+08|041|21305|El Paso 305|El Paso 305
+08|041|21306|El Paso 306|El Paso 306
+08|041|21307|El Paso 307|El Paso 307
+08|041|21308|El Paso 308|El Paso 308
+08|041|21309|El Paso 309|El Paso 309
+08|041|21310|El Paso 310|El Paso 310
+08|041|21311|El Paso 311|El Paso 311
+08|041|21312|El Paso 312|El Paso 312
+08|041|21313|El Paso 313|El Paso 313
+08|041|21314|El Paso 314|El Paso 314
+08|041|21315|El Paso 315|El Paso 315
+08|041|21316|El Paso 316|El Paso 316
+08|041|21317|El Paso 317|El Paso 317
+08|041|21318|El Paso 318|El Paso 318
+08|041|21319|El Paso 319|El Paso 319
+08|041|21320|El Paso 320|El Paso 320
+08|041|21321|El Paso 321|El Paso 321
+08|041|21322|El Paso 322|El Paso 322
+08|041|21323|El Paso 323|El Paso 323
+08|041|21324|El Paso 324|El Paso 324
+08|041|21325|El Paso 394|El Paso 394
+08|041|21326|El Paso 326|El Paso 326
+08|041|21327|El Paso 327|El Paso 327
+08|041|21328|El Paso 328|El Paso 328
+08|041|21329|El Paso 329|El Paso 329
+08|041|21330|El Paso 330|El Paso 330
+08|041|21331|El Paso 331|El Paso 331
+08|041|21332|El Paso 332|El Paso 332
+08|041|21333|El Paso 333|El Paso 333
+08|041|21334|El Paso 334|El Paso 334
+08|041|21335|El Paso 335|El Paso 335
+08|041|21336|El Paso 336|El Paso 336
+08|041|21337|El Paso 337|El Paso 337
+08|041|21338|El Paso 338|El Paso 338
+08|041|21339|El Paso 339|El Paso 339
+08|041|21340|El Paso 340|El Paso 340
+08|041|21341|El Paso 341|El Paso 341
+08|041|21342|El Paso 342|El Paso 342
+08|041|21343|El Paso 343|El Paso 343
+08|041|21344|El Paso 344|El Paso 344
+08|041|21345|El Paso 345|El Paso 345
+08|041|21346|El Paso 346|El Paso 346
+08|041|21347|El Paso 347|El Paso 347
+08|041|21348|El Paso 348|El Paso 348
+08|041|21349|El Paso 349|El Paso 349
+08|041|21350|El Paso 350|El Paso 350
+08|041|21351|El Paso 351|El Paso 351
+08|041|21352|El Paso 352|El Paso 352
+08|041|21353|El Paso 353|El Paso 353
+08|041|21354|El Paso 354|El Paso 354
+08|041|21355|El Paso 355|El Paso 355
+08|041|21356|El Paso 356|El Paso 356
+08|041|21357|El Paso 357|El Paso 357
+08|041|21358|El Paso 358|El Paso 358
+08|041|21359|El Paso 359|El Paso 359
+08|041|21360|El Paso 360|El Paso 360
+08|041|21361|El Paso 361|El Paso 361
+08|041|21362|El Paso 362|El Paso 362
+08|041|21363|El Paso 363|El Paso 363
+08|041|21364|El Paso 364|El Paso 364
+08|041|21365|El Paso 365|El Paso 365
+08|041|21366|El Paso 366|El Paso 366
+08|041|21367|El Paso 367|El Paso 367
+08|041|21368|El Paso 368|El Paso 368
+08|041|21369|El Paso 369|El Paso 369
+08|041|21370|El Paso 370|El Paso 370
+08|041|21371|El Paso 371|El Paso 371
+08|041|21372|El Paso 372|El Paso 372
+08|041|21373|El Paso 373|El Paso 373
+08|041|21374|El Paso 374|El Paso 374
+08|041|21375|El Paso 375|El Paso 375
+08|041|21376|El Paso 376|El Paso 376
+08|041|21377|El Paso 377|El Paso 377
+08|041|21378|El Paso 378|El Paso 378
+08|041|21379|El Paso 379|El Paso 379
+08|041|21380|El Paso 380|El Paso 380
+08|041|21381|El Paso 381|El Paso 381
+08|041|21382|El Paso 382|El Paso 382
+08|041|21383|El Paso 383|El Paso 383
+08|041|21384|El Paso 384|El Paso 384
+08|041|21385|El Paso 385|El Paso 385
+08|041|21386|El Paso 386|El Paso 386
+08|041|21387|El Paso 387|El Paso 387
+08|041|21388|El Paso 388|El Paso 388
+08|041|21389|El Paso 389|El Paso 389
+08|041|21390|El Paso 390|El Paso 390
+08|041|21392|El Paso 392|El Paso 392
+08|041|21393|El Paso 393|El Paso 393
+08|041|21394|El Paso 325|El Paso 325
+08|041|21396|El Paso 396|El Paso 396
+08|041|21397|El Paso 397|El Paso 397
+08|041|21398|El Paso 398|El Paso 398
+08|041|21399|El Paso 399|El Paso 399
+08|041|21400|El Paso 400|El Paso 400
+08|041|21401|El Paso 401|El Paso 401
+08|041|21402|El Paso 402|El Paso 402
+08|041|21404|El Paso 404|El Paso 404
+08|043|22001|Fremont 1|Fremont 1
+08|043|22002|Fremont 2|Fremont 2
+08|043|22003|Fremont 3|Fremont 3
+08|043|22004|Fremont 4|Fremont 4
+08|043|22005|Fremont 5|Fremont 5
+08|043|22006|Fremont 6|Fremont 6
+08|043|22007|Fremont 7|Fremont 7
+08|043|22008|Fremont 8|Fremont 8
+08|043|22009|Fremont 9|Fremont 9
+08|043|22010|Fremont 10|Fremont 10
+08|043|22011|Fremont 11|Fremont 11
+08|043|22012|Fremont 12|Fremont 12
+08|043|22013|Fremont 13|Fremont 13
+08|043|22014|Fremont 14|Fremont 14
+08|043|22015|Fremont 15|Fremont 15
+08|043|22016|Fremont 16|Fremont 16
+08|043|22017|Fremont 17|Fremont 17
+08|043|22018|Fremont 18|Fremont 18
+08|043|22019|Fremont 19|Fremont 19
+08|043|22020|Fremont 20|Fremont 20
+08|043|22021|Fremont 21|Fremont 21
+08|043|22022|Fremont 22|Fremont 22
+08|043|22023|Fremont 23|Fremont 23
+08|043|22024|Fremont 24|Fremont 24
+08|043|22025|Fremont 25|Fremont 25
+08|043|22026|Fremont 26|Fremont 26
+08|043|22027|Fremont 27|Fremont 27
+08|043|22028|Fremont 28|Fremont 28
+08|043|22029|Fremont 29|Fremont 29
+08|043|22030|Fremont 30|Fremont 30
+08|045|23001|Garfield 1|Garfield 1
+08|045|23002|Garfield 2|Garfield 2
+08|045|23003|Garfield 3|Garfield 3
+08|045|23004|Garfield 4|Garfield 4
+08|045|23005|Garfield 5|Garfield 5
+08|045|23006|Garfield 6|Garfield 6
+08|045|23007|Garfield 7|Garfield 7
+08|045|23008|Garfield 8|Garfield 8
+08|045|23009|Garfield 9|Garfield 9
+08|045|23010|Garfield 10|Garfield 10
+08|045|23011|Garfield 11|Garfield 11
+08|045|23012|Garfield 12|Garfield 12
+08|045|23013|Garfield 13|Garfield 13
+08|045|23014|Garfield 14|Garfield 14
+08|045|23015|Garfield 15|Garfield 15
+08|045|23016|Garfield 16|Garfield 16
+08|045|23017|Garfield 17|Garfield 17
+08|045|23018|Garfield 18|Garfield 18
+08|045|23019|Garfield 19|Garfield 19
+08|045|23020|Garfield 20|Garfield 20
+08|045|23021|Garfield 21|Garfield 21
+08|045|23022|Garfield 22|Garfield 22
+08|045|23023|Garfield 23|Garfield 23
+08|045|23024|Garfield 24|Garfield 24
+08|045|23025|Garfield 25|Garfield 25
+08|045|23026|Garfield 26|Garfield 26
+08|045|23027|Garfield 27|Garfield 27
+08|047|24001|Gilpin 1|Gilpin 1
+08|047|24002|Gilpin 2|Gilpin 2
+08|047|24003|Gilpin 3|Gilpin 3
+08|047|24004|Gilpin 4|Gilpin 4
+08|047|24005|Gilpin 5|Gilpin 5
+08|047|24006|Gilpin 6|Gilpin 6
+08|049|25001|Grand 1|Grand 1
+08|049|25002|Grand 2|Grand 2
+08|049|25003|Grand 3|Grand 3
+08|049|25004|Grand 4|Grand 4
+08|049|25005|Grand 5|Grand 5
+08|049|25006|Grand 6|Grand 6
+08|049|25007|Grand 7|Grand 7
+08|049|25008|Grand 8|Grand 8
+08|049|25009|Grand 9|Grand 9
+08|049|25010|Grand 10|Grand 10
+08|049|25011|Grand 11|Grand 11
+08|049|25012|Grand 12|Grand 12
+08|051|26001|Gunnison 1|Gunnison 1
+08|051|26002|Gunnison 2|Gunnison 2
+08|051|26003|Gunnison 3|Gunnison 3
+08|051|26004|Gunnison 4|Gunnison 4
+08|051|26005|Gunnison 5|Gunnison 5
+08|051|26006|Gunnison 6|Gunnison 6
+08|051|26007|Gunnison 7|Gunnison 7
+08|051|26008|Gunnison 8|Gunnison 8
+08|051|26009|Gunnison 9|Gunnison 9
+08|051|26010|Gunnison 10|Gunnison 10
+08|051|26011|Gunnison 11|Gunnison 11
+08|051|26012|Gunnison 12|Gunnison 12
+08|051|26013|Gunnison 13|Gunnison 13
+08|051|26014|Gunnison 14|Gunnison 14
+08|051|26015|Gunnison 15|Gunnison 15
+08|053|27001|Hinsdale 1|Hinsdale 1
+08|053|27002|Hinsdale 2|Hinsdale 2
+08|053|27003|Hinsdale 3|Hinsdale 3
+08|055|28001|Huerfano 1|Huerfano 1
+08|055|28002|Huerfano 2|Huerfano 2
+08|055|28003|Huerfano 3|Huerfano 3
+08|055|28004|Huerfano 4|Huerfano 4
+08|055|28005|Huerfano 5|Huerfano 5
+08|055|28006|Huerfano 6|Huerfano 6
+08|055|28007|Huerfano 7|Huerfano 7
+08|055|28008|Huerfano 8|Huerfano 8
+08|055|28009|Huerfano 9|Huerfano 9
+08|055|28010|Huerfano 10|Huerfano 10
+08|055|28011|Huerfano 11|Huerfano 11
+08|057|29001|Jackson 1|Jackson 1
+08|057|29002|Jackson 2|Jackson 2
+08|057|29003|Jackson 3|Jackson 3
+08|057|29004|Jackson 4|Jackson 4
+08|057|29005|Jackson 5|Jackson 5
+08|059|30001|2192930020|2192930020
+08|059|30002|2192930001|2192930001
+08|059|30003|2162930001|2162930001
+08|059|30004|2232930001|2232930001
+08|059|30005|2162530003|2162530003
+08|059|30006|2162530004|2162530004
+08|059|30007|2162530001|2162530001
+08|059|30008|2192930016|2192930016
+08|059|30010|2192930013|2192930013
+08|059|30011|2192930011|2192930011
+08|059|30012|2192930002|2192930002
+08|059|30013|2192930005|2192930005
+08|059|30014|2192930003|2192930003
+08|059|30015|2192930018|2192930018
+08|059|30016|2192930008|2192930008
+08|059|30017|2192930004|2192930004
+08|059|30018|2192930019|2192930019
+08|059|30019|2192930006|2192930006
+08|059|30020|2192930014|2192930014
+08|059|30021|2192930012|2192930012
+08|059|30022|2192930007|2192930007
+08|059|30023|2192930015|2192930015
+08|059|30024|2192930010|2192930010
+08|059|30025|2192930017|2192930017
+08|059|30026|7192930011|7192930011
+08|059|30027|7192930013|7192930013
+08|059|30028|2192930009|2192930009
+08|059|30029|7192930010|7192930010
+08|059|30030|6162530023|6162530023
+08|059|30031|7192930009|7192930009
+08|059|30032|7192730030|7192730030
+08|059|30033|7192930012|7192930012
+08|059|30034|7192930001|7192930001
+08|059|30035|7192730031|7192730031
+08|059|30036|7192930002|7192930002
+08|059|30037|7192930003|7192930003
+08|059|30038|7192930007|7192930007
+08|059|30039|7192730008|7192730008
+08|059|30040|7192930008|7192930008
+08|059|30041|7192730026|7192730026
+08|059|30042|7192730032|7192730032
+08|059|30043|7192930006|7192930006
+08|059|30044|7192730027|7192730027
+08|059|30045|7192930005|7192930005
+08|059|30046|7192730005|7192730005
+08|059|30047|7192730028|7192730028
+08|059|30048|7192730004|7192730004
+08|059|30049|2192930022|2192930022
+08|059|30050|7192930004|7192930004
+08|059|30051|7192730013|7192730013
+08|059|30052|7192730020|7192730020
+08|059|30053|7192730006|7192730006
+08|059|30055|2192930021|2192930021
+08|059|30056|7192730024|7192730024
+08|059|30057|7162530001|7162530001
+08|059|30058|7192730007|7192730007
+08|059|30059|2162530002|2162530002
+08|059|30060|7192730025|7192730025
+08|059|30061|7192730019|7192730019
+08|059|30062|7192730022|7192730022
+08|059|30063|7192730018|7192730018
+08|059|30064|7192730011|7192730011
+08|059|30065|7192730014|7192730014
+08|059|30066|7192730012|7192730012
+08|059|30067|7192730021|7192730021
+08|059|30068|7192730016|7192730016
+08|059|30069|7192730023|7192730023
+08|059|30070|7192730017|7192730017
+08|059|30071|2162530005|2162530005
+08|059|30072|7192730010|7192730010
+08|059|30073|7192730015|7192730015
+08|059|30074|7192730009|7192730009
+08|059|30075|7202730004|7202730004
+08|059|30076|7192730001|7192730001
+08|059|30077|7192730002|7192730002
+08|059|30078|7202730006|7202730006
+08|059|30079|7192730003|7192730003
+08|059|30080|7192730029|7192730029
+08|059|30081|7202730003|7202730003
+08|059|30082|6162530022|6162530022
+08|059|30083|7202730007|7202730007
+08|059|30084|7202730001|7202730001
+08|059|30085|7202730002|7202730002
+08|059|30086|7162730001|7162730001
+08|059|30087|7162330001|7162330001
+08|059|30088|7192430001|7192430001
+08|059|30089|7202430022|7202430022
+08|059|30090|7202430036|7202430036
+08|059|30091|7202730005|7202730005
+08|059|30092|7162430001|7162430001
+08|059|30093|7202430028|7202430028
+08|059|30094|7202430001|7202430001
+08|059|30095|7202430021|7202430021
+08|059|30096|7202430002|7202430002
+08|059|30097|7202430033|7202430033
+08|059|30098|7202330023|7202330023
+08|059|30099|7202430027|7202430027
+08|059|30100|7202430017|7202430017
+08|059|30101|7202430029|7202430029
+08|059|30102|7202430024|7202430024
+08|059|30103|7202430006|7202430006
+08|059|30105|7202330028|7202330028
+08|059|30106|7202430005|7202430005
+08|059|30107|7202430020|7202430020
+08|059|30108|7202430003|7202430003
+08|059|30109|7202330025|7202330025
+08|059|30110|7202430007|7202430007
+08|059|30111|7202430009|7202430009
+08|059|30112|7202430008|7202430008
+08|059|30113|7202430010|7202430010
+08|059|30114|7202430011|7202430011
+08|059|30115|7202430012|7202430012
+08|059|30116|7202430013|7202430013
+08|059|30117|7202430014|7202430014
+08|059|30118|7202330006|7202330006
+08|059|30119|7202430037|7202430037
+08|059|30120|7202330027|7202330027
+08|059|30121|7202330018|7202330018
+08|059|30122|7202430016|7202430016
+08|059|30123|7202430018|7202430018
+08|059|30124|7202430015|7202430015
+08|059|30125|7202430031|7202430031
+08|059|30126|7202430035|7202430035
+08|059|30127|7202330021|7202330021
+08|059|30128|7202430004|7202430004
+08|059|30129|7202430030|7202430030
+08|059|30130|7202430025|7202430025
+08|059|30131|7202430023|7202430023
+08|059|30132|7202430026|7202430026
+08|059|30133|7202430034|7202430034
+08|059|30134|7202430019|7202430019
+08|059|30135|7202430032|7202430032
+08|059|30136|7202330016|7202330016
+08|059|30137|7202330013|7202330013
+08|059|30138|7202330010|7202330010
+08|059|30139|7202330012|7202330012
+08|059|30140|6162530001|6162530001
+08|059|30142|7202330015|7202330015
+08|059|30143|7212430001|7212430001
+08|059|30144|7202330026|7202330026
+08|059|30145|7202330008|7202330008
+08|059|30146|7202330020|7202330020
+08|059|30147|7202330017|7202330017
+08|059|30148|6162530002|6162530002
+08|059|30149|7212330001|7212330001
+08|059|30150|7212330005|7212330005
+08|059|30151|7212330004|7212330004
+08|059|30152|7212330002|7212330002
+08|059|30153|7202330011|7202330011
+08|059|30154|7202330014|7202330014
+08|059|30155|7202330009|7202330009
+08|059|30156|7202330007|7202330007
+08|059|30157|7202330003|7202330003
+08|059|30158|7202330001|7202330001
+08|059|30159|7212330006|7212330006
+08|059|30160|7212330003|7212330003
+08|059|30161|7202330002|7202330002
+08|059|30162|7202330005|7202330005
+08|059|30163|7212330008|7212330008
+08|059|30164|7212630025|7212630025
+08|059|30165|7212630009|7212630009
+08|059|30166|7212630021|7212630021
+08|059|30167|7202630002|7202630002
+08|059|30168|7202630001|7202630001
+08|059|30169|7202330019|7202330019
+08|059|30170|7202330024|7202330024
+08|059|30171|7202330004|7202330004
+08|059|30172|7212330007|7212330007
+08|059|30173|7202330022|7202330022
+08|059|30174|7212630027|7212630027
+08|059|30175|7212630038|7212630038
+08|059|30176|7212630023|7212630023
+08|059|30178|6162530012|6162530012
+08|059|30179|6162530019|6162530019
+08|059|30180|7212630037|7212630037
+08|059|30181|7212630031|7212630031
+08|059|30182|7212630035|7212630035
+08|059|30183|7212630019|7212630019
+08|059|30184|7212630017|7212630017
+08|059|30185|7212630018|7212630018
+08|059|30186|7212630016|7212630016
+08|059|30187|7212630022|7212630022
+08|059|30188|7212630007|7212630007
+08|059|30189|6162530006|6162530006
+08|059|30190|7212630029|7212630029
+08|059|30191|7212630013|7212630013
+08|059|30192|7212630012|7212630012
+08|059|30193|7212630014|7212630014
+08|059|30194|7212630024|7212630024
+08|059|30195|7212630008|7212630008
+08|059|30196|7212630033|7212630033
+08|059|30197|7212630015|7212630015
+08|059|30198|6162530005|6162530005
+08|059|30199|7212630026|7212630026
+08|059|30200|7212630004|7212630004
+08|059|30201|7212630020|7212630020
+08|059|30202|7212630011|7212630011
+08|059|30203|7212630010|7212630010
+08|059|30204|7212630006|7212630006
+08|059|30205|6162530021|6162530021
+08|059|30206|7212630005|7212630005
+08|059|30207|7212630030|7212630030
+08|059|30208|6062530004|6062530004
+08|059|30209|7212630028|7212630028
+08|059|30210|7212630032|7212630032
+08|059|30211|7212630001|7212630001
+08|059|30212|7212630002|7212630002
+08|059|30213|7212630003|7212630003
+08|059|30214|7212630036|7212630036
+08|059|30215|7212630034|7212630034
+08|059|30216|7212230021|7212230021
+08|059|30217|6162530024|6162530024
+08|059|30218|6162530011|6162530011
+08|059|30219|6162530020|6162530020
+08|059|30220|7212230018|7212230018
+08|059|30221|7212230001|7212230001
+08|059|30222|7212230003|7212230003
+08|059|30223|7212230005|7212230005
+08|059|30224|7212230006|7212230006
+08|059|30225|7212230007|7212230007
+08|059|30226|7212230008|7212230008
+08|059|30227|7212230009|7212230009
+08|059|30228|7212230004|7212230004
+08|059|30229|6162530008|6162530008
+08|059|30230|7212230010|7212230010
+08|059|30231|7212230002|7212230002
+08|059|30232|7212230017|7212230017
+08|059|30233|7212230012|7212230012
+08|059|30234|7212230020|7212230020
+08|059|30235|7222230003|7222230003
+08|059|30236|7212230013|7212230013
+08|059|30237|6162530007|6162530007
+08|059|30238|7212230019|7212230019
+08|059|30239|7222230002|7222230002
+08|059|30240|6162530010|6162530010
+08|059|30241|7212230015|7212230015
+08|059|30242|7212230011|7212230011
+08|059|30243|7222230001|7222230001
+08|059|30244|7212230016|7212230016
+08|059|30245|6162530009|6162530009
+08|059|30247|7212230014|7212230014
+08|059|30248|6162530012|6162530012
+08|059|30249|6222230009|6222230009
+08|059|30251|6162530016|6162530016
+08|059|30252|6222230002|6222230002
+08|059|30253|6263830001|6263830001
+08|059|30254|2162530006|2162530006
+08|059|30255|7222230004|7222230004
+08|059|30256|6222230001|6222230001
+08|059|30257|6222230014|6222230014
+08|059|30258|6222230004|6222230004
+08|059|30259|1320130001|1320130001
+08|059|30260|6222230003|6222230003
+08|059|30261|6222530011|6222530011
+08|059|30262|6222230010|6222230010
+08|059|30263|6162530017|6162530017
+08|059|30264|6162530014|6162530014
+08|059|30266|6162530018|6162530018
+08|059|30267|6222230013|6222230013
+08|059|30268|6222230011|6222230011
+08|059|30269|6222230012|6222230012
+08|059|30270|6222530006|6222530006
+08|059|30271|6222530016|6222530016
+08|059|30272|6222230006|6222230006
+08|059|30274|6222530015|6222530015
+08|059|30275|6162530015|6162530015
+08|059|30276|6222230008|6222230008
+08|059|30277|6222230007|6222230007
+08|059|30278|6222230005|6222230005
+08|059|30279|6222530004|6222530004
+08|059|30280|6162530013|6162530013
+08|059|30281|6222830037|6222830037
+08|059|30282|6222830031|6222830031
+08|059|30283|6222830029|6222830029
+08|059|30284|6222830025|6222830025
+08|059|30285|6222830007|6222830007
+08|059|30286|6222830008|6222830008
+08|059|30287|6222530005|6222530005
+08|059|30288|6222830035|6222830035
+08|059|30289|6222830009|6222830009
+08|059|30290|6222830001|6222830001
+08|059|30291|6222530019|6222530019
+08|059|30292|6222830040|6222830040
+08|059|30293|6222830012|6222830012
+08|059|30294|6222830027|6222830027
+08|059|30295|6222530018|6222530018
+08|059|30296|6222830022|6222830022
+08|059|30297|6222830006|6222830006
+08|059|30298|6222830005|6222830005
+08|059|30299|6222830004|6222830004
+08|059|30300|6222830016|6222830016
+08|059|30301|6222530002|6222530002
+08|059|30302|6222830020|6222830020
+08|059|30303|6222830033|6222830033
+08|059|30304|6222530014|6222530014
+08|059|30305|6222830002|6222830002
+08|059|30306|6222530008|6222530008
+08|059|30307|6222830003|6222830003
+08|059|30308|6222830018|6222830018
+08|059|30309|6222830014|6222830014
+08|059|30310|6222530010|6222530010
+08|059|30311|6222830013|6222830013
+08|059|30312|6222830036|6222830036
+08|059|30313|6222830034|6222830034
+08|059|30314|6222830030|6222830030
+08|059|30315|6222830032|6222830032
+08|059|30316|6222830019|6222830019
+08|059|30317|6222830010|6222830010
+08|059|30318|6222830015|6222830015
+08|059|30319|6222830038|6222830038
+08|059|30320|6222830024|6222830024
+08|059|30321|6222830039|6222830039
+08|059|30322|6222830017|6222830017
+08|059|30323|6222530013|6222530013
+08|059|30324|6222830041|6222830041
+08|059|30325|6222830021|6222830021
+08|059|30326|6222830028|6222830028
+08|059|30327|6222830026|6222830026
+08|059|30328|6222830011|6222830011
+08|059|30330|6222530003|6222530003
+08|059|30331|6222530001|6222530001
+08|059|30332|6222530017|6222530017
+08|059|30333|6222530009|6222530009
+08|059|30334|6222530012|6222530012
+08|059|30335|6222530007|6222530007
+08|059|30336|6222830023|6222830023
+08|061|31001|Kiowa 1|Kiowa 1
+08|061|31002|Kiowa 2|Kiowa 2
+08|061|31003|Kiowa 3|Kiowa 3
+08|061|31004|Kiowa 4|Kiowa 4
+08|063|32001|Kit Carson 1|Kit Carson 1
+08|063|32002|Kit Carson 2|Kit Carson 2
+08|063|32003|Kit Carson 3|Kit Carson 3
+08|063|32004|Kit Carson 4|Kit Carson 4
+08|063|32005|Kit Carson 5|Kit Carson 5
+08|063|32006|Kit Carson 6|Kit Carson 6
+08|063|32007|Kit Carson 7|Kit Carson 7
+08|063|32008|Kit Carson 8|Kit Carson 8
+08|063|32009|Kit Carson 9|Kit Carson 9
+08|063|32010|Kit Carson 10|Kit Carson 10
+08|063|32011|Kit Carson 11|Kit Carson 11
+08|063|32012|Kit Carson 12|Kit Carson 12
+08|063|32013|Kit Carson 13|Kit Carson 13
+08|065|33001|Lake 1|Lake 1
+08|065|33002|Lake 2|Lake 2
+08|065|33003|Lake 3|Lake 3
+08|065|33004|Lake 4|Lake 4
+08|065|33005|Lake 5|Lake 5
+08|065|33006|Lake 6|Lake 6
+08|067|34001|La Plata 1|La Plata 1
+08|067|34002|La Plata 2|La Plata 2
+08|067|34003|La Plata 3|La Plata 3
+08|067|34004|La Plata 4|La Plata 4
+08|067|34005|La Plata 5|La Plata 5
+08|067|34006|La Plata 6|La Plata 6
+08|067|34007|La Plata 7|La Plata 7
+08|067|34008|La Plata 8|La Plata 8
+08|067|34009|La Plata 9|La Plata 9
+08|067|34010|La Plata 10|La Plata 10
+08|067|34011|La Plata 11|La Plata 11
+08|067|34012|La Plata 12|La Plata 12
+08|067|34013|La Plata 13|La Plata 13
+08|067|34014|La Plata 14|La Plata 14
+08|067|34015|La Plata 15|La Plata 15
+08|067|34016|La Plata 16|La Plata 16
+08|067|34017|La Plata 17|La Plata 17
+08|067|34018|La Plata 18|La Plata 18
+08|067|34019|La Plata 19|La Plata 19
+08|067|34020|La Plata 20|La Plata 20
+08|067|34021|La Plata 21|La Plata 21
+08|067|34022|La Plata 22|La Plata 22
+08|067|34023|La Plata 23|La Plata 23
+08|067|34024|La Plata 24|La Plata 24
+08|067|34025|La Plata 25|La Plata 25
+08|067|34026|La Plata 26|La Plata 26
+08|067|34027|La Plata 27|La Plata 27
+08|067|34028|La Plata 28|La Plata 28
+08|067|34029|La Plata 29|La Plata 29
+08|067|34030|La Plata 30|La Plata 30
+08|069|35101|Larimer 101|Larimer 101
+08|069|35201|Larimer 201|Larimer 201
+08|069|35202|Larimer 202|Larimer 202
+08|069|35203|Larimer 203|Larimer 203
+08|069|35204|Larimer 204|Larimer 204
+08|069|35205|Larimer 205|Larimer 205
+08|069|35206|Larimer 206|Larimer 206
+08|069|35207|Larimer 207|Larimer 207
+08|069|35208|Larimer 208|Larimer 208
+08|069|35209|Larimer 209|Larimer 209
+08|069|35210|Larimer 210|Larimer 210
+08|069|35211|Larimer 211|Larimer 211
+08|069|35212|Larimer 212|Larimer 212
+08|069|35213|Larimer 213|Larimer 213
+08|069|35214|Larimer 214|Larimer 214
+08|069|35216|Larimer 216|Larimer 216
+08|069|35217|Larimer 217|Larimer 217
+08|069|35218|Larimer 218|Larimer 218
+08|069|35219|Larimer 219|Larimer 219
+08|069|35220|Larimer 220|Larimer 220
+08|069|35221|Larimer 221|Larimer 221
+08|069|35222|Larimer 222|Larimer 222
+08|069|35223|Larimer 223|Larimer 223
+08|069|35224|Larimer 224|Larimer 224
+08|069|35225|Larimer 225|Larimer 225
+08|069|35226|Larimer 226|Larimer 226
+08|069|35227|Larimer 227|Larimer 227
+08|069|35228|Larimer 228|Larimer 228
+08|069|35229|Larimer 229|Larimer 229
+08|069|35230|Larimer 230|Larimer 230
+08|069|35231|Larimer 231|Larimer 231
+08|069|35232|Larimer 232|Larimer 232
+08|069|35233|Larimer 233|Larimer 233
+08|069|35234|Larimer 234|Larimer 234
+08|069|35235|Larimer 235|Larimer 235
+08|069|35236|Larimer 236|Larimer 236
+08|069|35238|Larimer 238|Larimer 238
+08|069|35239|Larimer 239|Larimer 239
+08|069|35240|Larimer 240|Larimer 240
+08|069|35301|Larimer 301|Larimer 301
+08|069|35302|Larimer 302|Larimer 302
+08|069|35303|Larimer 303|Larimer 303
+08|069|35304|Larimer 304|Larimer 304
+08|069|35305|Larimer 305|Larimer 305
+08|069|35306|Larimer 306|Larimer 306
+08|069|35307|Larimer 307|Larimer 307
+08|069|35308|Larimer 308|Larimer 308
+08|069|35309|Larimer 309|Larimer 309
+08|069|35310|Larimer 310|Larimer 310
+08|069|35311|Larimer 311|Larimer 311
+08|069|35312|Larimer 312|Larimer 312
+08|069|35313|Larimer 313|Larimer 313
+08|069|35314|Larimer 314|Larimer 314
+08|069|35315|Larimer 315|Larimer 315
+08|069|35316|Larimer 316|Larimer 316
+08|069|35317|Larimer 317|Larimer 317
+08|069|35318|Larimer 318|Larimer 318
+08|069|35319|Larimer 319|Larimer 319
+08|069|35320|Larimer 320|Larimer 320
+08|069|35321|Larimer 321|Larimer 321
+08|069|35322|Larimer 322|Larimer 322
+08|069|35323|Larimer 323|Larimer 323
+08|069|35324|Larimer 324|Larimer 324
+08|069|35325|Larimer 325|Larimer 325
+08|069|35326|Larimer 326|Larimer 326
+08|069|35327|Larimer 327|Larimer 327
+08|069|35328|Larimer 328|Larimer 328
+08|069|35329|Larimer 329|Larimer 329
+08|069|35330|Larimer 330|Larimer 330
+08|069|35401|Larimer 401|Larimer 401
+08|069|35402|Larimer 402|Larimer 402
+08|069|35403|Larimer 403|Larimer 403
+08|069|35404|Larimer 404|Larimer 404
+08|069|35405|Larimer 405|Larimer 405
+08|069|35406|Larimer 406|Larimer 406
+08|069|35407|Larimer 407|Larimer 407
+08|069|35408|Larimer 408|Larimer 408
+08|069|35409|Larimer 409|Larimer 409
+08|069|35410|Larimer 410|Larimer 410
+08|069|35411|Larimer 411|Larimer 411
+08|069|35412|Larimer 412|Larimer 412
+08|069|35413|Larimer 413|Larimer 413
+08|069|35414|Larimer 414|Larimer 414
+08|069|35415|Larimer 415|Larimer 415
+08|069|35416|Larimer 416|Larimer 416
+08|069|35417|Larimer 417|Larimer 417
+08|069|35418|Larimer 418|Larimer 418
+08|069|35419|Larimer 419|Larimer 419
+08|069|35420|Larimer 420|Larimer 420
+08|069|35421|Larimer 421|Larimer 421
+08|069|35422|Larimer 422|Larimer 422
+08|069|35423|Larimer 423|Larimer 423
+08|069|35424|Larimer 424|Larimer 424
+08|069|35425|Larimer 425|Larimer 425
+08|069|35426|Larimer 426|Larimer 426
+08|069|35427|Larimer 427|Larimer 427
+08|069|35428|Larimer 428|Larimer 428
+08|069|35429|Larimer 429|Larimer 429
+08|069|35430|Larimer 430|Larimer 430
+08|069|35431|Larimer 431|Larimer 431
+08|069|35432|Larimer 432|Larimer 432
+08|069|35433|Larimer 433|Larimer 433
+08|069|35434|Larimer 434|Larimer 434
+08|069|35435|Larimer 435|Larimer 435
+08|069|35436|Larimer 436|Larimer 436
+08|069|35437|Larimer 437|Larimer 437
+08|069|35438|Larimer 438|Larimer 438
+08|069|35439|Larimer 439|Larimer 439
+08|069|35440|Larimer 440|Larimer 440
+08|069|35441|Larimer 441|Larimer 441
+08|069|35501|Larimer 501|Larimer 501
+08|069|35502|Larimer 502|Larimer 502
+08|069|35503|Larimer 503|Larimer 503
+08|069|35504|Larimer 504|Larimer 504
+08|069|35505|Larimer 505|Larimer 505
+08|069|35506|Larimer 506|Larimer 506
+08|069|35507|Larimer 507|Larimer 507
+08|069|35508|Larimer 508|Larimer 508
+08|069|35509|Larimer 509|Larimer 509
+08|069|35510|Larimer 510|Larimer 510
+08|069|35511|Larimer 511|Larimer 511
+08|069|35512|Larimer 512|Larimer 512
+08|069|35513|Larimer 513|Larimer 513
+08|069|35514|Larimer 514|Larimer 514
+08|069|35515|Larimer 515|Larimer 515
+08|069|35516|Larimer 516|Larimer 516
+08|069|35517|Larimer 517|Larimer 517
+08|069|35518|Larimer 518|Larimer 518
+08|069|35519|Larimer 519|Larimer 519
+08|069|35520|Larimer 520|Larimer 520
+08|069|35521|Larimer 521|Larimer 521
+08|069|35522|Larimer 522|Larimer 522
+08|069|35523|Larimer 523|Larimer 523
+08|069|35524|Larimer 524|Larimer 524
+08|069|35525|Larimer 525|Larimer 525
+08|069|35526|Larimer 526|Larimer 526
+08|069|35527|Larimer 527|Larimer 527
+08|069|35528|Larimer 528|Larimer 528
+08|069|35529|Larimer 529|Larimer 529
+08|069|35530|Larimer 530|Larimer 530
+08|069|35531|Larimer 531|Larimer 531
+08|069|35532|Larimer 532|Larimer 532
+08|069|35533|Larimer 533|Larimer 533
+08|069|35534|Larimer 534|Larimer 534
+08|069|35535|Larimer 535|Larimer 535
+08|069|35536|Larimer 536|Larimer 536
+08|069|35537|Larimer 537|Larimer 537
+08|069|35538|Larimer 538|Larimer 538
+08|069|35539|Larimer 539|Larimer 539
+08|069|35601|Larimer 601|Larimer 601
+08|069|35602|Larimer 602|Larimer 602
+08|069|35603|Larimer 603|Larimer 603
+08|069|35701|Larimer 701|Larimer 701
+08|071|36001|Las Animas 1|Las Animas 1
+08|071|36002|Las Animas 2|Las Animas 2
+08|071|36003|Las Animas 3|Las Animas 3
+08|071|36004|Las Animas 4|Las Animas 4
+08|071|36005|Las Animas 5|Las Animas 5
+08|071|36006|Las Animas 6|Las Animas 6
+08|071|36007|Las Animas 7|Las Animas 7
+08|071|36008|Las Animas 8|Las Animas 8
+08|071|36009|Las Animas 9|Las Animas 9
+08|071|36010|Las Animas 10|Las Animas 10
+08|071|36011|Las Animas 11|Las Animas 11
+08|071|36012|Las Animas 12|Las Animas 12
+08|071|36013|Las Animas 13|Las Animas 13
+08|071|36014|Las Animas 14|Las Animas 14
+08|071|36015|Las Animas 15|Las Animas 15
+08|071|36016|Las Animas 16|Las Animas 16
+08|073|37001|Lincoln 1|Lincoln 1
+08|073|37002|Lincoln 2|Lincoln 2
+08|073|37003|Lincoln 3|Lincoln 3
+08|073|37004|Lincoln 4|Lincoln 4
+08|073|37005|Lincoln 5|Lincoln 5
+08|073|37006|Lincoln 6|Lincoln 6
+08|073|37007|Lincoln 7|Lincoln 7
+08|073|37008|Lincoln 8|Lincoln 8
+08|073|37009|Lincoln 9|Lincoln 9
+08|073|37010|Lincoln 10|Lincoln 10
+08|073|37011|Lincoln 11|Lincoln 11
+08|073|37012|Lincoln 12|Lincoln 12
+08|073|37013|Lincoln 13|Lincoln 13
+08|075|38001|Logan 1|Logan 1
+08|075|38002|Logan 2|Logan 2
+08|075|38003|Logan 3|Logan 3
+08|075|38004|Logan 4|Logan 4
+08|075|38005|Logan 5|Logan 5
+08|075|38006|Logan 6|Logan 6
+08|075|38007|Logan 7|Logan 7
+08|075|38008|Logan 8|Logan 8
+08|075|38009|Logan 9|Logan 9
+08|075|38010|Logan 10|Logan 10
+08|075|38011|Logan 11|Logan 11
+08|075|38012|Logan 12|Logan 12
+08|075|38013|Logan 13|Logan 13
+08|075|38014|Logan 14|Logan 14
+08|075|38015|Logan 15|Logan 15
+08|075|38016|Logan 16|Logan 16
+08|077|39001|Mesa 1|Mesa 1
+08|077|39002|Mesa 2|Mesa 2
+08|077|39003|Mesa 3|Mesa 3
+08|077|39004|Mesa 4|Mesa 4
+08|077|39005|Mesa 5|Mesa 5
+08|077|39006|Mesa 6|Mesa 6
+08|077|39007|Mesa 7|Mesa 7
+08|077|39008|Mesa 8|Mesa 8
+08|077|39009|Mesa 9|Mesa 9
+08|077|39010|Mesa 10|Mesa 10
+08|077|39011|Mesa 11|Mesa 11
+08|077|39012|Mesa 12|Mesa 12
+08|077|39013|Mesa 13|Mesa 13
+08|077|39014|Mesa 14|Mesa 14
+08|077|39015|Mesa 15|Mesa 15
+08|077|39016|Mesa 16|Mesa 16
+08|077|39017|Mesa 17|Mesa 17
+08|077|39018|Mesa 18|Mesa 18
+08|077|39019|Mesa 19|Mesa 19
+08|077|39020|Mesa 20|Mesa 20
+08|077|39021|Mesa 21|Mesa 21
+08|077|39022|Mesa 22|Mesa 22
+08|077|39023|Mesa 23|Mesa 23
+08|077|39024|Mesa 24|Mesa 24
+08|077|39025|Mesa 25|Mesa 25
+08|077|39026|Mesa 26|Mesa 26
+08|077|39027|Mesa 27|Mesa 27
+08|077|39028|Mesa 28|Mesa 28
+08|077|39029|Mesa 29|Mesa 29
+08|077|39030|Mesa 30|Mesa 30
+08|077|39031|Mesa 31|Mesa 31
+08|077|39032|Mesa 32|Mesa 32
+08|077|39033|Mesa 33|Mesa 33
+08|077|39034|Mesa 34|Mesa 34
+08|077|39035|Mesa 35|Mesa 35
+08|077|39036|Mesa 36|Mesa 36
+08|077|39037|Mesa 37|Mesa 37
+08|077|39038|Mesa 38|Mesa 38
+08|077|39039|Mesa 39|Mesa 39
+08|077|39040|Mesa 40|Mesa 40
+08|077|39041|Mesa 41|Mesa 41
+08|077|39042|Mesa 42|Mesa 42
+08|077|39043|Mesa 43|Mesa 43
+08|077|39044|Mesa 44|Mesa 44
+08|077|39045|Mesa 45|Mesa 45
+08|077|39046|Mesa 46|Mesa 46
+08|077|39047|Mesa 47|Mesa 47
+08|077|39048|Mesa 48|Mesa 48
+08|077|39049|Mesa 49|Mesa 49
+08|077|39050|Mesa 50|Mesa 50
+08|077|39051|Mesa 51|Mesa 51
+08|077|39052|Mesa 52|Mesa 52
+08|077|39053|Mesa 53|Mesa 53
+08|077|39054|Mesa 54|Mesa 54
+08|077|39055|Mesa 55|Mesa 55
+08|077|39056|Mesa 56|Mesa 56
+08|077|39057|Mesa 57|Mesa 57
+08|077|39058|Mesa 58|Mesa 58
+08|077|39059|Mesa 59|Mesa 59
+08|077|39060|Mesa 60|Mesa 60
+08|077|39061|Mesa 61|Mesa 61
+08|077|39062|Mesa 62|Mesa 62
+08|077|39063|Mesa 63|Mesa 63
+08|077|39064|Mesa 64|Mesa 64
+08|077|39065|Mesa 65|Mesa 65
+08|077|39066|Mesa 66|Mesa 66
+08|077|39067|Mesa 67|Mesa 67
+08|077|39068|Mesa 68|Mesa 68
+08|077|39069|Mesa 69|Mesa 69
+08|077|39070|Mesa 70|Mesa 70
+08|077|39071|Mesa 71|Mesa 71
+08|077|39072|Mesa 72|Mesa 72
+08|077|39073|Mesa 73|Mesa 73
+08|077|39074|Mesa 74|Mesa 74
+08|077|39075|Mesa 75|Mesa 75
+08|077|39076|Mesa 76|Mesa 76
+08|077|39077|Mesa 77|Mesa 77
+08|077|39078|Mesa 78|Mesa 78
+08|077|39079|Mesa 79|Mesa 79
+08|077|39080|Mesa 80|Mesa 80
+08|077|39081|Mesa 81|Mesa 81
+08|077|39082|Mesa 82|Mesa 82
+08|079|40001|Mineral 1|Mineral 1
+08|081|41001|Moffat 1|Moffat 1
+08|081|41002|Moffat 2|Moffat 2
+08|081|41003|Moffat 3|Moffat 3
+08|081|41004|Moffat 4|Moffat 4
+08|081|41005|Moffat 5|Moffat 5
+08|081|41006|Moffat 6|Moffat 6
+08|081|41007|Moffat 7|Moffat 7
+08|081|41008|Moffat 8|Moffat 8
+08|081|41009|Moffat 9|Moffat 9
+08|081|41010|Moffat 10|Moffat 10
+08|081|41011|Moffat 11|Moffat 11
+08|081|41012|Moffat 12|Moffat 12
+08|081|41013|Moffat 13|Moffat 13
+08|083|42001|Montezuma 1|Montezuma 1
+08|083|42002|Montezuma 2|Montezuma 2
+08|083|42003|Montezuma 3|Montezuma 3
+08|083|42004|Montezuma 4|Montezuma 4
+08|083|42005|Montezuma 5|Montezuma 5
+08|083|42006|Montezuma 6|Montezuma 6
+08|083|42007|Montezuma 7|Montezuma 7
+08|083|42008|Montezuma 8|Montezuma 8
+08|083|42009|Montezuma 9|Montezuma 9
+08|083|42010|Montezuma 10|Montezuma 10
+08|083|42011|Montezuma 11|Montezuma 11
+08|085|43001|Montrose 1|Montrose 1
+08|085|43002|Montrose 2|Montrose 2
+08|085|43003|Montrose 3|Montrose 3
+08|085|43004|Montrose 4|Montrose 4
+08|085|43005|Montrose 5|Montrose 5
+08|085|43006|Montrose 6|Montrose 6
+08|085|43007|Montrose 7|Montrose 7
+08|085|43008|Montrose 8|Montrose 8
+08|085|43009|Montrose 9|Montrose 9
+08|085|43010|Montrose 10|Montrose 10
+08|085|43011|Montrose 11|Montrose 11
+08|085|43012|Montrose 12|Montrose 12
+08|085|43013|Montrose 13|Montrose 13
+08|085|43014|Montrose 14|Montrose 14
+08|085|43015|Montrose 15|Montrose 15
+08|085|43016|Montrose 16|Montrose 16
+08|085|43017|Montrose 17|Montrose 17
+08|085|43018|Montrose 18|Montrose 18
+08|085|43019|Montrose 19|Montrose 19
+08|085|43020|Montrose 20|Montrose 20
+08|085|43021|Montrose 21|Montrose 21
+08|085|43022|Montrose 22|Montrose 22
+08|085|43023|Montrose 23|Montrose 23
+08|085|43024|Montrose 24|Montrose 24
+08|085|43025|Montrose 25|Montrose 25
+08|085|43026|Montrose 26|Montrose 26
+08|085|43027|Montrose 27|Montrose 27
+08|085|43028|Montrose 28|Montrose 28
+08|087|44001|Morgan 1|Morgan 1
+08|087|44002|Morgan 2|Morgan 2
+08|087|44003|Morgan 3|Morgan 3
+08|087|44004|Morgan 4|Morgan 4
+08|087|44005|Morgan 5|Morgan 5
+08|087|44006|Morgan 6|Morgan 6
+08|087|44007|Morgan 7|Morgan 7
+08|087|44008|Morgan 8|Morgan 8
+08|087|44009|Morgan 9|Morgan 9
+08|087|44010|Morgan 10|Morgan 10
+08|087|44011|Morgan 11|Morgan 11
+08|087|44012|Morgan 12|Morgan 12
+08|087|44013|Morgan 13|Morgan 13
+08|087|44014|Morgan 14|Morgan 14
+08|087|44015|Morgan 15|Morgan 15
+08|087|44016|Morgan 16|Morgan 16
+08|087|44017|Morgan 17|Morgan 17
+08|089|45001|Otero 1|Otero 1
+08|089|45002|Otero 2|Otero 2
+08|089|45003|Otero 3|Otero 3
+08|089|45004|Otero 4|Otero 4
+08|089|45005|Otero 5|Otero 5
+08|089|45006|Otero 6|Otero 6
+08|089|45007|Otero 7|Otero 7
+08|089|45008|Otero 8|Otero 8
+08|089|45009|Otero 9|Otero 9
+08|089|45010|Otero 10|Otero 10
+08|089|45011|Otero 11|Otero 11
+08|089|45012|Otero 12|Otero 12
+08|089|45013|Otero 13|Otero 13
+08|089|45014|Otero 14|Otero 14
+08|089|45015|Otero 15|Otero 15
+08|089|45016|Otero 16|Otero 16
+08|089|45017|Otero 17|Otero 17
+08|091|46001|Ouray 1|Ouray 1
+08|091|46002|Ouray 2|Ouray 2
+08|091|46003|Ouray 3|Ouray 3
+08|091|46004|Ouray 4|Ouray 4
+08|091|46005|Ouray 5|Ouray 5
+08|093|47001|Park 1|Park 1
+08|093|47002|Park 2|Park 2
+08|093|47003|Park 3|Park 3
+08|093|47004|Park 4|Park 4
+08|093|47005|Park 5|Park 5
+08|093|47006|Park 6|Park 6
+08|093|47007|Park 7|Park 7
+08|093|47008|Park 8|Park 8
+08|093|47009|Park 9|Park 9
+08|093|47010|Park 10|Park 10
+08|093|47011|Park 11|Park 11
+08|093|47012|Park 12|Park 12
+08|093|47013|Park 13|Park 13
+08|095|48001|Phillips 1|Phillips 1
+08|095|48002|Phillips 2|Phillips 2
+08|095|48003|Phillips 3|Phillips 3
+08|095|48004|Phillips 4|Phillips 4
+08|095|48005|Phillips 5|Phillips 5
+08|095|48006|Phillips 6|Phillips 6
+08|095|48007|Phillips 7|Phillips 7
+08|095|48008|Phillips 8|Phillips 8
+08|097|49001|Pitkin 1|Pitkin 1
+08|097|49002|Pitkin 2|Pitkin 2
+08|097|49003|Pitkin 3|Pitkin 3
+08|097|49004|Pitkin 4|Pitkin 4
+08|097|49005|Pitkin 5|Pitkin 5
+08|097|49006|Pitkin 6|Pitkin 6
+08|097|49007|Pitkin 7|Pitkin 7
+08|097|49008|Pitkin 8|Pitkin 8
+08|097|49009|Pitkin 9|Pitkin 9
+08|097|49010|Pitkin 10|Pitkin 10
+08|099|50001|Prowers 1|Prowers 1
+08|099|50002|Prowers 2|Prowers 2
+08|099|50003|Prowers 3|Prowers 3
+08|099|50004|Prowers 4|Prowers 4
+08|099|50005|Prowers 5|Prowers 5
+08|099|50006|Prowers 6|Prowers 6
+08|099|50007|Prowers 7|Prowers 7
+08|099|50008|Prowers 8|Prowers 8
+08|099|50009|Prowers 9|Prowers 9
+08|099|50010|Prowers 10|Prowers 10
+08|099|50011|Prowers 11|Prowers 11
+08|099|50012|Prowers 12|Prowers 12
+08|099|50013|Prowers 13|Prowers 13
+08|101|51001|Pueblo 1|Pueblo 1
+08|101|51002|Pueblo 2|Pueblo 2
+08|101|51003|Pueblo 3|Pueblo 3
+08|101|51004|Pueblo 4|Pueblo 4
+08|101|51005|Pueblo 5|Pueblo 5
+08|101|51006|Pueblo 6|Pueblo 6
+08|101|51007|Pueblo 7|Pueblo 7
+08|101|51008|Pueblo 8|Pueblo 8
+08|101|51009|Pueblo 9|Pueblo 9
+08|101|51010|Pueblo 10|Pueblo 10
+08|101|51011|Pueblo 11|Pueblo 11
+08|101|51012|Pueblo 12|Pueblo 12
+08|101|51013|Pueblo 13|Pueblo 13
+08|101|51014|Pueblo 14|Pueblo 14
+08|101|51015|Pueblo 15|Pueblo 15
+08|101|51016|Pueblo 16|Pueblo 16
+08|101|51017|Pueblo 17|Pueblo 17
+08|101|51018|Pueblo 18|Pueblo 18
+08|101|51019|Pueblo 19|Pueblo 19
+08|101|51020|Pueblo 20|Pueblo 20
+08|101|51021|Pueblo 21|Pueblo 21
+08|101|51022|Pueblo 22|Pueblo 22
+08|101|51023|Pueblo 23|Pueblo 23
+08|101|51024|Pueblo 24|Pueblo 24
+08|101|51025|Pueblo 25|Pueblo 25
+08|101|51026|Pueblo 26|Pueblo 26
+08|101|51027|Pueblo 27|Pueblo 27
+08|101|51028|Pueblo 28|Pueblo 28
+08|101|51029|Pueblo 29|Pueblo 29
+08|101|51030|Pueblo 30|Pueblo 30
+08|101|51031|Pueblo 31|Pueblo 31
+08|101|51032|Pueblo 32|Pueblo 32
+08|101|51033|Pueblo 33|Pueblo 33
+08|101|51034|Pueblo 34|Pueblo 34
+08|101|51035|Pueblo 35|Pueblo 35
+08|101|51036|Pueblo 36|Pueblo 36
+08|101|51037|Pueblo 37|Pueblo 37
+08|101|51038|Pueblo 38|Pueblo 38
+08|101|51039|Pueblo 39|Pueblo 39
+08|101|51040|Pueblo 40|Pueblo 40
+08|101|51041|Pueblo 41|Pueblo 41
+08|101|51042|Pueblo 42|Pueblo 42
+08|101|51043|Pueblo 43|Pueblo 43
+08|101|51044|Pueblo 44|Pueblo 44
+08|101|51045|Pueblo 45|Pueblo 45
+08|101|51046|Pueblo 46|Pueblo 46
+08|101|51047|Pueblo 47|Pueblo 47
+08|101|51048|Pueblo 48|Pueblo 48
+08|101|51049|Pueblo 49|Pueblo 49
+08|101|51050|Pueblo 50|Pueblo 50
+08|101|51051|Pueblo 51|Pueblo 51
+08|101|51052|Pueblo 52|Pueblo 52
+08|101|51053|Pueblo 53|Pueblo 53
+08|101|51054|Pueblo 54|Pueblo 54
+08|101|51055|Pueblo 55|Pueblo 55
+08|101|51056|Pueblo 56|Pueblo 56
+08|101|51057|Pueblo 57|Pueblo 57
+08|101|51058|Pueblo 58|Pueblo 58
+08|101|51059|Pueblo 59|Pueblo 59
+08|101|51060|Pueblo 60|Pueblo 60
+08|101|51061|Pueblo 61|Pueblo 61
+08|101|51062|Pueblo 62|Pueblo 62
+08|101|51063|Pueblo 63|Pueblo 63
+08|101|51064|Pueblo 64|Pueblo 64
+08|101|51065|Pueblo 65|Pueblo 65
+08|101|51066|Pueblo 66|Pueblo 66
+08|101|51067|Pueblo 67|Pueblo 67
+08|101|51068|Pueblo 68|Pueblo 68
+08|101|51069|Pueblo 69|Pueblo 69
+08|101|51070|Pueblo 70|Pueblo 70
+08|101|51071|Pueblo 71|Pueblo 71
+08|101|51072|Pueblo 72|Pueblo 72
+08|101|51073|Pueblo 73|Pueblo 73
+08|101|51074|Pueblo 74|Pueblo 74
+08|101|51075|Pueblo 75|Pueblo 75
+08|101|51076|Pueblo 76|Pueblo 76
+08|101|51077|Pueblo 77|Pueblo 77
+08|101|51078|Pueblo 78|Pueblo 78
+08|101|51079|Pueblo 79|Pueblo 79
+08|101|51080|Pueblo 80|Pueblo 80
+08|101|51081|Pueblo 81|Pueblo 81
+08|101|51082|Pueblo 82|Pueblo 82
+08|101|51083|Pueblo 83|Pueblo 83
+08|101|51084|Pueblo 84|Pueblo 84
+08|101|51085|Pueblo 85|Pueblo 85
+08|101|51086|Pueblo 86|Pueblo 86
+08|101|51087|Pueblo 87|Pueblo 87
+08|101|51088|Pueblo 88|Pueblo 88
+08|101|51089|Pueblo 89|Pueblo 89
+08|101|51090|Pueblo 90|Pueblo 90
+08|101|51091|Pueblo 91|Pueblo 91
+08|101|51092|Pueblo 92|Pueblo 92
+08|101|51093|Pueblo 93|Pueblo 93
+08|101|51094|Pueblo 94|Pueblo 94
+08|101|51095|Pueblo 95|Pueblo 95
+08|101|51096|Pueblo 96|Pueblo 96
+08|101|51097|Pueblo 97|Pueblo 97
+08|101|51098|Pueblo 98|Pueblo 98
+08|101|51099|Pueblo 99|Pueblo 99
+08|101|51100|Pueblo 100|Pueblo 100
+08|101|51101|Pueblo 101|Pueblo 101
+08|101|51102|Pueblo 102|Pueblo 102
+08|101|51103|Pueblo 103|Pueblo 103
+08|101|51104|Pueblo 104|Pueblo 104
+08|101|51105|Pueblo 105|Pueblo 105
+08|101|51106|Pueblo 106|Pueblo 106
+08|101|51107|Pueblo 107|Pueblo 107
+08|101|51108|Pueblo 108|Pueblo 108
+08|101|51109|Pueblo 109|Pueblo 109
+08|101|51110|Pueblo 110|Pueblo 110
+08|101|51111|Pueblo 111|Pueblo 111
+08|101|51112|Pueblo 112|Pueblo 112
+08|101|51113|Pueblo 113|Pueblo 113
+08|101|51114|Pueblo 114|Pueblo 114
+08|101|51115|Pueblo 115|Pueblo 115
+08|101|51116|Pueblo 116|Pueblo 116
+08|101|51117|Pueblo 117|Pueblo 117
+08|101|51118|Pueblo 118|Pueblo 118
+08|101|51119|Pueblo 119|Pueblo 119
+08|101|51120|Pueblo 120|Pueblo 120
+08|101|51121|Pueblo 121|Pueblo 121
+08|101|51122|Pueblo 122|Pueblo 122
+08|101|51123|Pueblo 123|Pueblo 123
+08|101|51124|Pueblo 124|Pueblo 124
+08|101|51125|Pueblo 125|Pueblo 125
+08|101|51126|Pueblo 126|Pueblo 126
+08|101|51127|Pueblo 127|Pueblo 127
+08|101|51128|Pueblo 128|Pueblo 128
+08|101|51129|Pueblo 129|Pueblo 129
+08|101|51130|Pueblo 130|Pueblo 130
+08|101|51131|Pueblo 131|Pueblo 131
+08|103|52001|Rio Blanco 1|Rio Blanco 1
+08|103|52002|Rio Blanco 2|Rio Blanco 2
+08|103|52003|Rio Blanco 3|Rio Blanco 3
+08|103|52004|Rio Blanco 4|Rio Blanco 4
+08|103|52005|Rio Blanco 5|Rio Blanco 5
+08|105|53001|Rio Grande 1|Rio Grande 1
+08|105|53002|Rio Grande 2|Rio Grande 2
+08|105|53003|Rio Grande 3|Rio Grande 3
+08|105|53004|Rio Grande 4|Rio Grande 4
+08|105|53005|Rio Grande 5|Rio Grande 5
+08|105|53006|Rio Grande 6|Rio Grande 6
+08|105|53007|Rio Grande 7|Rio Grande 7
+08|105|53008|Rio Grande 8|Rio Grande 8
+08|105|53009|Rio Grande 9|Rio Grande 9
+08|105|53010|Rio Grande 10|Rio Grande 10
+08|105|53011|Rio Grande 11|Rio Grande 11
+08|105|53012|Rio Grande 12|Rio Grande 12
+08|105|53013|Rio Grande 13|Rio Grande 13
+08|105|53014|Rio Grande 14|Rio Grande 14
+08|105|53015|Rio Grande 15|Rio Grande 15
+08|107|54001|Routt 1|Routt 1
+08|107|54002|Routt 2|Routt 2
+08|107|54003|Routt 3|Routt 3
+08|107|54004|Routt 4|Routt 4
+08|107|54005|Routt 5|Routt 5
+08|107|54006|Routt 6|Routt 6
+08|107|54007|Routt 7|Routt 7
+08|107|54008|Routt 8|Routt 8
+08|107|54009|Routt 9|Routt 9
+08|107|54010|Routt 10|Routt 10
+08|107|54011|Routt 11|Routt 11
+08|107|54012|Routt 12|Routt 12
+08|107|54013|Routt 13|Routt 13
+08|107|54014|Routt 14|Routt 14
+08|107|54015|Routt 15|Routt 15
+08|107|54016|Routt 16|Routt 16
+08|107|54017|Routt 17|Routt 17
+08|107|54018|Routt 18|Routt 18
+08|109|55001|Saguache 1|Saguache 1
+08|109|55002|Saguache 2|Saguache 2
+08|109|55003|Saguache 3|Saguache 3
+08|109|55004|Saguache 4|Saguache 4
+08|109|55005|Saguache 5|Saguache 5
+08|109|55006|Saguache 6|Saguache 6
+08|109|55007|Saguache 7|Saguache 7
+08|109|55008|Saguache 8|Saguache 8
+08|109|55009|Saguache 9|Saguache 9
+08|111|56001|San Juan 1|San Juan 1
+08|113|57001|San Miguel 1|San Miguel 1
+08|113|57002|San Miguel 2|San Miguel 2
+08|113|57003|San Miguel 3|San Miguel 3
+08|113|57004|San Miguel 4|San Miguel 4
+08|113|57005|San Miguel 5|San Miguel 5
+08|113|57006|San Miguel 6|San Miguel 6
+08|115|58001|Sedgwick 1|Sedgwick 1
+08|115|58002|Sedgwick 2|Sedgwick 2
+08|115|58003|Sedgwick 3|Sedgwick 3
+08|115|58004|Sedgwick 4|Sedgwick 4
+08|115|58005|Sedgwick 5|Sedgwick 5
+08|117|59000|Summit 0|Summit 0
+08|117|59001|Summit 1|Summit 1
+08|117|59002|Summit 2|Summit 2
+08|117|59003|Summit 3|Summit 3
+08|117|59004|Summit 4|Summit 4
+08|117|59005|Summit 5|Summit 5
+08|117|59006|Summit 6|Summit 6
+08|117|59007|Summit 7|Summit 7
+08|117|59008|Summit 8|Summit 8
+08|117|59009|Summit 9|Summit 9
+08|117|59010|Summit 10|Summit 10
+08|117|59011|Summit 11|Summit 11
+08|117|59012|Summit 12|Summit 12
+08|117|59013|Summit 13|Summit 13
+08|117|59014|Summit 14|Summit 14
+08|117|59015|Summit 15|Summit 15
+08|117|59016|Summit 16|Summit 16
+08|117|59017|Summit 17|Summit 17
+08|119|60001|Teller 1|Teller 1
+08|119|60002|Teller 2|Teller 2
+08|119|60003|Teller 3|Teller 3
+08|119|60004|Teller 4|Teller 4
+08|119|60005|Teller 5|Teller 5
+08|119|60006|Teller 6|Teller 6
+08|119|60007|Teller 7|Teller 7
+08|119|60008|Teller 8|Teller 8
+08|119|60009|Teller 9|Teller 9
+08|119|60010|Teller 10|Teller 10
+08|119|60011|Teller 11|Teller 11
+08|119|60012|Teller 12|Teller 12
+08|119|60013|Teller 13|Teller 13
+08|121|61001|Washington 1|Washington 1
+08|121|61002|Washington 2|Washington 2
+08|121|61003|Washington 3|Washington 3
+08|121|61004|Washington 4|Washington 4
+08|121|61005|Washington 5|Washington 5
+08|121|61006|Washington 6|Washington 6
+08|123|62100|Weld 100|Weld 100
+08|123|62101|Weld 101|Weld 101
+08|123|62102|Weld 102|Weld 102
+08|123|62103|Weld 103|Weld 103
+08|123|62104|Weld 104|Weld 104
+08|123|62106|Weld 106|Weld 106
+08|123|62107|Weld 107|Weld 107
+08|123|62108|Weld 108|Weld 108
+08|123|62109|Weld 109|Weld 109
+08|123|62110|Weld 110|Weld 110
+08|123|62111|Weld 111|Weld 111
+08|123|62112|Weld 112|Weld 112
+08|123|62114|Weld 114|Weld 114
+08|123|62115|Weld 115|Weld 115
+08|123|62116|Weld 113|Weld 113
+08|123|62117|Weld 117|Weld 117
+08|123|62118|Weld 118|Weld 118
+08|123|62119|Weld 119|Weld 119
+08|123|62120|Weld 120|Weld 120
+08|123|62121|Weld 121|Weld 121
+08|123|62122|Weld 122|Weld 122
+08|123|62123|Weld 123|Weld 123
+08|123|62124|Weld 124|Weld 124
+08|123|62125|Weld 125|Weld 125
+08|123|62126|Weld 126|Weld 126
+08|123|62127|Weld 127|Weld 127
+08|123|62128|Weld 128|Weld 128
+08|123|62129|Weld 129|Weld 129
+08|123|62130|Weld 130|Weld 130
+08|123|62131|Weld 131|Weld 131
+08|123|62132|Weld 132|Weld 132
+08|123|62134|Weld 134|Weld 134
+08|123|62135|Weld 135|Weld 135
+08|123|62136|Weld 136|Weld 136
+08|123|62137|Weld 137|Weld 137
+08|123|62138|Weld 138|Weld 138
+08|123|62200|Weld 200|Weld 200
+08|123|62201|Weld 201|Weld 201
+08|123|62202|Weld 202|Weld 202
+08|123|62203|Weld 203|Weld 203
+08|123|62204|Weld 204|Weld 204
+08|123|62205|Weld 205|Weld 205
+08|123|62206|Weld 206|Weld 206
+08|123|62207|Weld 207|Weld 207
+08|123|62208|Weld 208|Weld 208
+08|123|62211|Weld 211|Weld 211
+08|123|62212|Weld 212|Weld 212
+08|123|62213|Weld 213|Weld 213
+08|123|62214|Weld 214|Weld 214
+08|123|62215|Weld 215|Weld 215
+08|123|62217|Weld 217|Weld 217
+08|123|62218|Weld 218|Weld 218
+08|123|62219|Weld 219|Weld 219
+08|123|62220|Weld 220|Weld 220
+08|123|62221|Weld 221|Weld 221
+08|123|62222|Weld 222|Weld 222
+08|123|62223|Weld 223|Weld 223
+08|123|62224|Weld 224|Weld 224
+08|123|62226|Weld 226|Weld 226
+08|123|62228|Weld 228|Weld 228
+08|123|62229|Weld 229|Weld 229
+08|123|62230|Weld 230|Weld 230
+08|123|62231|Weld 231|Weld 231
+08|123|62232|Weld 232|Weld 232
+08|123|62235|Weld 235|Weld 235
+08|123|62236|Weld 236|Weld 236
+08|123|62237|Weld 237|Weld 237
+08|123|62238|Weld 238|Weld 238
+08|123|62239|Weld 239|Weld 239
+08|123|62240|Weld 240|Weld 240
+08|123|62241|Weld 241|Weld 241
+08|123|62242|Weld 242|Weld 242
+08|123|62243|Weld 243|Weld 243
+08|123|62244|Weld 244|Weld 244
+08|123|62245|Weld 245|Weld 245
+08|123|62246|Weld 246|Weld 246
+08|123|62247|Weld 247|Weld 247
+08|123|62300|Weld 300|Weld 300
+08|123|62301|Weld 301|Weld 301
+08|123|62302|Weld 302|Weld 302
+08|123|62303|Weld 303|Weld 303
+08|123|62304|Weld 304|Weld 304
+08|123|62305|Weld 305|Weld 305
+08|123|62306|Weld 306|Weld 306
+08|123|62307|Weld 307|Weld 307
+08|123|62308|Weld 308|Weld 308
+08|123|62309|Weld 309|Weld 309
+08|123|62310|Weld 310|Weld 310
+08|123|62311|Weld 311|Weld 311
+08|123|62312|Weld 312|Weld 312
+08|123|62313|Weld 313|Weld 313
+08|123|62314|Weld 314|Weld 314
+08|123|62315|Weld 315|Weld 315
+08|123|62317|Weld 317|Weld 317
+08|123|62318|Weld 318|Weld 318
+08|123|62319|Weld 319|Weld 319
+08|123|62320|Weld 320|Weld 320
+08|123|62321|Weld 321|Weld 321
+08|123|62322|Weld 322|Weld 322
+08|123|62323|Weld 323|Weld 323
+08|123|62324|Weld 324|Weld 324
+08|123|62325|Weld 325|Weld 325
+08|123|62326|Weld 326|Weld 326
+08|123|62327|Weld 327|Weld 327
+08|123|62328|Weld 328|Weld 328
+08|123|62329|Weld 329|Weld 329
+08|123|62330|Weld 330|Weld 330
+08|123|62331|Weld 331|Weld 331
+08|123|62332|Weld 332|Weld 332
+08|123|62333|Weld 333|Weld 333
+08|123|62334|Weld 334|Weld 334
+08|123|62335|Weld 335|Weld 335
+08|123|62336|Weld 336|Weld 336
+08|125|63001|Yuma 1|Yuma 1
+08|125|63002|Yuma 2|Yuma 2
+08|125|63003|Yuma 3|Yuma 3
+08|125|63004|Yuma 4|Yuma 4
+08|125|63005|Yuma 5|Yuma 5
+08|125|63006|Yuma 6|Yuma 6
+08|125|63007|Yuma 7|Yuma 7
+08|125|63008|Yuma 8|Yuma 8
+08|125|63009|Yuma 9|Yuma 9
+08|125|63010|Yuma 10|Yuma 10
+08|125|63011|Yuma 11|Yuma 11
+08|125|63012|Yuma 12|Yuma 12
+08|125|63013|Yuma 13|Yuma 13
+08|125|63014|Yuma 14|Yuma 14

@@ -1,0 +1,775 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+09|001|01-001|Bethel 1|Bethel 1 Voting District
+09|001|01-002|Bethel 2|Bethel 2 Voting District
+09|001|01-003|Bethel 3|Bethel 3 Voting District
+09|001|01-004|Bethel 4|Bethel 4 Voting District
+09|001|01-005|Bethel 5|Bethel 5 Voting District
+09|001|01-006|Bridgeport 12401|Bridgeport 12401 Voting District
+09|001|01-007|Bridgeport 12402|Bridgeport 12402 Voting District
+09|001|01-008|Bridgeport 12403|Bridgeport 12403 Voting District
+09|001|01-009|Bridgeport 12404|Bridgeport 12404 Voting District
+09|001|01-010|Bridgeport 12405|Bridgeport 12405 Voting District
+09|001|01-011|Bridgeport 12601|Bridgeport 12601 Voting District
+09|001|01-012|Bridgeport 12602|Bridgeport 12602 Voting District
+09|001|01-013|Bridgeport 12603|Bridgeport 12603 Voting District
+09|001|01-014|Bridgeport 12604|Bridgeport 12604 Voting District
+09|001|01-015|Bridgeport 12605|Bridgeport 12605 Voting District
+09|001|01-016|Bridgeport 12606|Bridgeport 12606 Voting District
+09|001|01-017|Bridgeport 12701|Bridgeport 12701 Voting District
+09|001|01-018|Bridgeport 12702|Bridgeport 12702 Voting District
+09|001|01-019|Bridgeport 12703|Bridgeport 12703 Voting District
+09|001|01-020|Bridgeport 12801|Bridgeport 12801 Voting District
+09|001|01-021|Bridgeport 12802|Bridgeport 12802 Voting District
+09|001|01-022|Bridgeport 12901|Bridgeport 12901 Voting District
+09|001|01-023|Bridgeport 12902|Bridgeport 12902 Voting District
+09|001|01-024|Bridgeport 12903|Bridgeport 12903 Voting District
+09|001|01-025|Bridgeport 12904|Bridgeport 12904 Voting District
+09|001|01-026|Bridgeport 13001|Bridgeport 13001 Voting District
+09|001|01-027|Bridgeport 13002|Bridgeport 13002 Voting District
+09|001|01-028|Bridgeport 13003|Bridgeport 13003 Voting District
+09|001|01-029|Bridgeport 13004|Bridgeport 13004 Voting District
+09|001|01-030|Bridgeport 13005|Bridgeport 13005 Voting District
+09|001|01-031|Brookfield 1|Brookfield 1 Voting District
+09|001|01-032|Brookfield 2|Brookfield 2 Voting District
+09|001|01-034|Danbury 2-109|Danbury 2-109 Voting District
+09|001|01-035|Danbury 3-109|Danbury 3-109 Voting District
+09|001|01-036|Danbury 4-110|Danbury 4-110 Voting District
+09|001|01-037|Danbury 6-002|Danbury 6-002 Voting District
+09|001|01-038|Danbury 1-109|Danbury 1-109 Voting District
+09|001|01-039|Danbury 1-110|Danbury 1-110 Voting District
+09|001|01-040|Danbury 1-138|Danbury 1-138 Voting District
+09|001|01-041|Danbury 2-138|Danbury 2-138 Voting District
+09|001|01-042|Danbury 4-109|Danbury 4-109 Voting District
+09|001|01-043|Danbury 5-002|Danbury 5-002 Voting District
+09|001|01-044|Danbury 5-109|Danbury 5-109 Voting District
+09|001|01-045|Danbury 5-110|Danbury 5-110 Voting District
+09|001|01-046|Danbury 6-110|Danbury 6-110 Voting District
+09|001|01-047|Danbury 7-002|Danbury 7-002 Voting District
+09|001|01-048|Danbury 7-110|Danbury 7-110 Voting District
+09|001|01-049|Danbury 7-138|Danbury 7-138 Voting District
+09|001|01-050|Darien 1|Darien 1 Voting District
+09|001|01-051|Darien 2|Darien 2 Voting District
+09|001|01-052|Darien 3|Darien 3 Voting District
+09|001|01-053|Darien 4|Darien 4 Voting District
+09|001|01-054|Darien 5|Darien 5 Voting District
+09|001|01-055|Darien 6|Darien 6 Voting District
+09|001|01-056|Easton 1|Easton 1 Voting District
+09|001|01-057|Fairfield 1-132|Fairfield 1-132 Voting District
+09|001|01-058|Fairfield 10-132|Fairfield 10-132 Voting District
+09|001|01-059|Fairfield 2-134|Fairfield 2-134 Voting District
+09|001|01-060|Fairfield 3-133|Fairfield 3-133 Voting District
+09|001|01-061|Fairfield 4-133|Fairfield 4-133 Voting District
+09|001|01-062|Fairfield 4-134|Fairfield 4-134 Voting District
+09|001|01-063|Fairfield 5-132|Fairfield 5-132 Voting District
+09|001|01-064|Fairfield 5-133|Fairfield 5-133 Voting District
+09|001|01-066|Fairfield 6-132|Fairfield 6-132 Voting District
+09|001|01-067|Fairfield 6-133|Fairfield 6-133 Voting District
+09|001|01-068|Fairfield 7-134|Fairfield 7-134 Voting District
+09|001|01-069|Fairfield 8-132|Fairfield 8-132 Voting District
+09|001|01-070|Fairfield 9-133|Fairfield 9-133 Voting District
+09|001|01-071|Greenwich 1|Greenwich 1 Voting District
+09|001|01-072|Greenwich 10|Greenwich 10 Voting District
+09|001|01-073|Greenwich 10A|Greenwich 10A Voting District
+09|001|01-074|Greenwich 11|Greenwich 11 Voting District
+09|001|01-075|Greenwich 11A|Greenwich 11A Voting District
+09|001|01-076|Greenwich 12|Greenwich 12 Voting District
+09|001|01-077|Greenwich 1A|Greenwich 1A Voting District
+09|001|01-078|Greenwich 1B|Greenwich 1B Voting District
+09|001|01-079|Greenwich 2|Greenwich 2 Voting District
+09|001|01-080|Greenwich 2A|Greenwich 2A Voting District
+09|001|01-081|Greenwich 3|Greenwich 3 Voting District
+09|001|01-082|Greenwich 3A|Greenwich 3A Voting District
+09|001|01-083|Greenwich 4|Greenwich 4 Voting District
+09|001|01-084|Greenwich 4A|Greenwich 4A Voting District
+09|001|01-085|Greenwich 5|Greenwich 5 Voting District
+09|001|01-086|Greenwich 5A|Greenwich 5A Voting District
+09|001|01-087|Greenwich 6|Greenwich 6 Voting District
+09|001|01-088|Greenwich 7|Greenwich 7 Voting District
+09|001|01-089|Greenwich 7A|Greenwich 7A Voting District
+09|001|01-090|Greenwich 8|Greenwich 8 Voting District
+09|001|01-091|Greenwich 9|Greenwich 9 Voting District
+09|001|01-092|Monroe 1|Monroe 1 Voting District
+09|001|01-093|Monroe 2|Monroe 2 Voting District
+09|001|01-094|Monroe 3|Monroe 3 Voting District
+09|001|01-095|Monroe 4|Monroe 4 Voting District
+09|001|01-096|New Canaan 1|New Canaan 1 Voting District
+09|001|01-097|New Canaan 2|New Canaan 2 Voting District
+09|001|01-098|New Canaan 3|New Canaan 3 Voting District
+09|001|01-099|New Fairfield 108|New Fairfield 108 Voting District
+09|001|01-100|New Fairfield 138|New Fairfield 138 Voting District
+09|001|01-101|Newtown 1|Newtown 1 Voting District
+09|001|01-102|Newtown 2|Newtown 2 Voting District
+09|001|01-103|Newtown 3-1|Newtown 3-1 Voting District
+09|001|01-104|Newtown 3-2|Newtown 3-2 Voting District
+09|001|01-105|Norwalk 137A|Norwalk 137A Voting District
+09|001|01-106|Norwalk 137B|Norwalk 137B Voting District
+09|001|01-107|Norwalk 137C|Norwalk 137C Voting District
+09|001|01-108|Norwalk 137D|Norwalk 137D Voting District
+09|001|01-109|Norwalk 140A|Norwalk 140A Voting District
+09|001|01-110|Norwalk 140B|Norwalk 140B Voting District
+09|001|01-111|Norwalk 140C|Norwalk 140C Voting District
+09|001|01-112|Norwalk 141A|Norwalk 141A Voting District
+09|001|01-113|Norwalk 142A|Norwalk 142A Voting District
+09|001|01-114|Norwalk 142B|Norwalk 142B Voting District
+09|001|01-115|Norwalk 142C|Norwalk 142C Voting District
+09|001|01-116|Norwalk 142D|Norwalk 142D Voting District
+09|001|01-117|Norwalk 143A|Norwalk 143A Voting District
+09|001|01-118|Norwalk 143B|Norwalk 143B Voting District
+09|001|01-119|Redding 1|Redding 1 Voting District
+09|001|01-120|Redding 2|Redding 2 Voting District
+09|001|01-121|Ridgefield 1|Ridgefield 1 Voting District
+09|001|01-122|Ridgefield 2|Ridgefield 2 Voting District
+09|001|01-123|Ridgefield 3|Ridgefield 3 Voting District
+09|001|01-124|Shelton 1|Shelton 1 Voting District
+09|001|01-125|Shelton 2|Shelton 2 Voting District
+09|001|01-126|Shelton 3|Shelton 3 Voting District
+09|001|01-127|Shelton 4|Shelton 4 Voting District
+09|001|01-128|Shelton 5|Shelton 5 Voting District
+09|001|01-129|Shelton 6|Shelton 6 Voting District
+09|001|01-130|Sherman 1|Sherman 1 Voting District
+09|001|01-132|Stamford 1|Stamford 1 Voting District
+09|001|01-133|Stamford 10|Stamford 10 Voting District
+09|001|01-134|Stamford 11|Stamford 11 Voting District
+09|001|01-135|Stamford 12|Stamford 12 Voting District
+09|001|01-136|Stamford 13|Stamford 13 Voting District
+09|001|01-137|Stamford 14|Stamford 14 Voting District
+09|001|01-138|Stamford 15|Stamford 15 Voting District
+09|001|01-139|Stamford 16|Stamford 16 Voting District
+09|001|01-140|Stamford 17|Stamford 17 Voting District
+09|001|01-141|Stamford 18|Stamford 18 Voting District
+09|001|01-142|Stamford 19|Stamford 19 Voting District
+09|001|01-143|Stamford 2|Stamford 2 Voting District
+09|001|01-144|Stamford 20|Stamford 20 Voting District
+09|001|01-145|Stamford 21|Stamford 21 Voting District
+09|001|01-146|Stamford 22|Stamford 22 Voting District
+09|001|01-147|Stamford 23|Stamford 23 Voting District
+09|001|01-148|Stamford 3|Stamford 3 Voting District
+09|001|01-149|Stamford 4|Stamford 4 Voting District
+09|001|01-150|Stamford 5|Stamford 5 Voting District
+09|001|01-151|Stamford 6|Stamford 6 Voting District
+09|001|01-152|Stamford 7|Stamford 7 Voting District
+09|001|01-153|Stamford 8|Stamford 8 Voting District
+09|001|01-154|Stamford 9|Stamford 9 Voting District
+09|001|01-156|Stratford Baldwin|Stratford Baldwin Voting District
+09|001|01-157|Stratford Bunnell H120|Stratford Bunnell H120 Voting District
+09|001|01-158|Stratford Bunnell H122|Stratford Bunnell H122 Voting District
+09|001|01-159|Stratford Chapel|Stratford Chapel Voting District
+09|001|01-160|Stratford Franklin S23|Stratford Franklin S23 Voting District
+09|001|01-161|Stratford Franklin S21|Stratford Franklin S21 Voting District
+09|001|01-165|Stratford Johnson|Stratford Johnson Voting District
+09|001|01-166|Stratford Lordship|Stratford Lordship Voting District
+09|001|01-167|Stratford Nichols|Stratford Nichols Voting District
+09|001|01-168|Stratford Second Hill|Stratford Second Hill Voting District
+09|001|01-169|Stratford Stratford HS|Stratford Stratford HS Voting District
+09|001|01-170|Stratford Wilcoxson|Stratford Wilcoxson Voting District
+09|001|01-171|Stratford Wooster JHS|Stratford Wooster JHS Voting District
+09|001|01-172|Trumbull 1-123|Trumbull 1-123 Voting District
+09|001|01-173|Trumbull 2-123|Trumbull 2-123 Voting District
+09|001|01-174|Trumbull 3-123|Trumbull 3-123 Voting District
+09|001|01-175|Trumbull 4-134|Trumbull 4-134 Voting District
+09|001|01-176|Trumbull 5-123|Trumbull 5-123 Voting District
+09|001|01-177|Trumbull 5-134|Trumbull 5-134 Voting District
+09|001|01-178|Trumbull 6-123|Trumbull 6-123 Voting District
+09|001|01-179|Trumbull 6-134|Trumbull 6-134 Voting District
+09|001|01-180|Trumbull 7-123|Trumbull 7-123 Voting District
+09|001|01-181|Trumbull 7-134|Trumbull 7-134 Voting District
+09|001|01-182|Weston 1|Weston 1 Voting District
+09|001|01-183|Weston 2|Weston 2 Voting District
+09|001|01-184|Westport 133-1|Westport 133-1 Voting District
+09|001|01-185|Westport 136-1|Westport 136-1 Voting District
+09|001|01-186|Westport 136-2|Westport 136-2 Voting District
+09|001|01-187|Westport 136-3|Westport 136-3 Voting District
+09|001|01-188|Westport 136-4|Westport 136-4 Voting District
+09|001|01-189|Westport 136-5|Westport 136-5 Voting District
+09|001|01-190|Wilton 1|Wilton 1 Voting District
+09|001|01-191|Wilton 2|Wilton 2 Voting District
+09|001|01-192|Wilton 3|Wilton 3 Voting District
+09|001|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+09|003|03-001|Avon 1|Avon 1 Voting District
+09|003|03-002|Avon 2|Avon 2 Voting District
+09|003|03-003|Avon 3|Avon 3 Voting District
+09|003|03-004|Berlin 1|Berlin 1 Voting District
+09|003|03-005|Berlin 2|Berlin 2 Voting District
+09|003|03-006|Berlin 3|Berlin 3 Voting District
+09|003|03-007|Berlin 4|Berlin 4 Voting District
+09|003|03-008|Berlin 5|Berlin 5 Voting District
+09|003|03-009|Bloomfield 1|Bloomfield 1 Voting District
+09|003|03-010|Bloomfield 2|Bloomfield 2 Voting District
+09|003|03-011|Bloomfield 3|Bloomfield 3 Voting District
+09|003|03-012|Bloomfield 4|Bloomfield 4 Voting District
+09|003|03-013|Bloomfield 4|Bloomfield 4 Voting District
+09|003|03-014|Bloomfield 6|Bloomfield 6 Voting District
+09|003|03-015|Bristol 77D|Bristol 77D Voting District
+09|003|03-016|Bristol 22|Bristol 22 Voting District
+09|003|03-017|Bristol 77A|Bristol 77A Voting District
+09|003|03-018|Bristol 78B|Bristol 78B Voting District
+09|003|03-019|Bristol 77B|Bristol 77B Voting District
+09|003|03-020|Bristol 77C|Bristol 77C Voting District
+09|003|03-021|Bristol 78A|Bristol 78A Voting District
+09|003|03-022|Bristol 79A|Bristol 79A Voting District
+09|003|03-023|Bristol 79B|Bristol 79B Voting District
+09|003|03-024|Bristol 79C|Bristol 79C Voting District
+09|003|03-025|Burlington 1|Burlington 1 Voting District
+09|003|03-026|Canton 1|Canton 1 Voting District
+09|003|03-027|East Granby 61|East Granby 61 Voting District
+09|003|03-028|East Granby 62|East Granby 62 Voting District
+09|003|03-029|East Hartford 1|East Hartford 1 Voting District
+09|003|03-030|East Hartford 2|East Hartford 2 Voting District
+09|003|03-031|East Hartford 3|East Hartford 3 Voting District
+09|003|03-032|East Hartford 4|East Hartford 4 Voting District
+09|003|03-033|East Hartford 5|East Hartford 5 Voting District
+09|003|03-034|East Hartford 6|East Hartford 6 Voting District
+09|003|03-035|East Hartford 7|East Hartford 7 Voting District
+09|003|03-036|East Windsor 1|East Windsor 1 Voting District
+09|003|03-037|East Windsor 2|East Windsor 2 Voting District
+09|003|03-038|Enfield 1A-58|Enfield 1A-58 Voting District
+09|003|03-039|Enfield 1A-59|Enfield 1A-59 Voting District
+09|003|03-040|Enfield 2A-58|Enfield 2A-58 Voting District
+09|003|03-041|Enfield 2B-58|Enfield 2B-58 Voting District
+09|003|03-042|Enfield 3A-59|Enfield 3A-59 Voting District
+09|003|03-043|Enfield 3B-59|Enfield 3B-59 Voting District
+09|003|03-044|Enfield 4A-58|Enfield 4A-58 Voting District
+09|003|03-045|Enfield 4A-59|Enfield 4A-59 Voting District
+09|003|03-046|Enfield 4B-58|Enfield 4B-58 Voting District
+09|003|03-047|Farmington 1-1|Farmington 1-1 Voting District
+09|003|03-048|Farmington 1-2|Farmington 1-2 Voting District
+09|003|03-049|Farmington 2-4|Farmington 2-4 Voting District
+09|003|03-050|Farmington 2-6|Farmington 2-6 Voting District
+09|003|03-051|Glastonbury 1|Glastonbury 1 Voting District
+09|003|03-052|Glastonbury 2|Glastonbury 2 Voting District
+09|003|03-053|Glastonbury 3|Glastonbury 3 Voting District
+09|003|03-054|Glastonbury 4|Glastonbury 4 Voting District
+09|003|03-055|Glastonbury 5|Glastonbury 5 Voting District
+09|003|03-056|Glastonbury 6|Glastonbury 6 Voting District
+09|003|03-057|Glastonbury 7|Glastonbury 7 Voting District
+09|003|03-058|Glastonbury 8|Glastonbury 8 Voting District
+09|003|03-059|Glastonbury 9|Glastonbury 9 Voting District
+09|003|03-060|Granby 1|Granby 1 Voting District
+09|003|03-061|Granby 2|Granby 2 Voting District
+09|003|03-062|Hartford 8|Hartford 8 Voting District
+09|003|03-063|Hartford 1|Hartford 1 Voting District
+09|003|03-064|Hartford 10|Hartford 10 Voting District
+09|003|03-065|Hartford 11|Hartford 11 Voting District
+09|003|03-066|Hartford 12|Hartford 12 Voting District
+09|003|03-067|Hartford 13|Hartford 13 Voting District
+09|003|03-068|Hartford 14|Hartford 14 Voting District
+09|003|03-069|Hartford 15|Hartford 15 Voting District
+09|003|03-070|Hartford 16|Hartford 16 Voting District
+09|003|03-071|Hartford 17|Hartford 17 Voting District
+09|003|03-072|Hartford 18|Hartford 18 Voting District
+09|003|03-073|Hartford 19|Hartford 19 Voting District
+09|003|03-074|Hartford 2|Hartford 2 Voting District
+09|003|03-075|Hartford 20|Hartford 20 Voting District
+09|003|03-076|Hartford 21|Hartford 21 Voting District
+09|003|03-077|Hartford 22|Hartford 22 Voting District
+09|003|03-078|Hartford 23|Hartford 23 Voting District
+09|003|03-079|Hartford 3|Hartford 3 Voting District
+09|003|03-080|Hartford 4|Hartford 4 Voting District
+09|003|03-081|Hartford 5|Hartford 5 Voting District
+09|003|03-082|Hartford 6|Hartford 6 Voting District
+09|003|03-083|Hartford 7|Hartford 7 Voting District
+09|003|03-084|Hartford 9|Hartford 9 Voting District
+09|003|03-085|Hartland 1|Hartland 1 Voting District
+09|003|03-086|Manchester 1|Manchester 1 Voting District
+09|003|03-087|Manchester 10|Manchester 10 Voting District
+09|003|03-088|Manchester 2|Manchester 2 Voting District
+09|003|03-089|Manchester 3|Manchester 3 Voting District
+09|003|03-090|Manchester 4|Manchester 4 Voting District
+09|003|03-091|Manchester 5|Manchester 5 Voting District
+09|003|03-092|Manchester 6|Manchester 6 Voting District
+09|003|03-093|Manchester 7|Manchester 7 Voting District
+09|003|03-094|Manchester 8|Manchester 8 Voting District
+09|003|03-095|Manchester 9|Manchester 9 Voting District
+09|003|03-096|Marlborough 1|Marlborough 1 Voting District
+09|003|03-097|New Britain 1|New Britain 1 Voting District
+09|003|03-098|New Britain 2|New Britain 2 Voting District
+09|003|03-099|New Britain 3|New Britain 3 Voting District
+09|003|03-100|New Britain 4|New Britain 4 Voting District
+09|003|03-101|New Britain 5|New Britain 5 Voting District
+09|003|03-102|New Britain 5A|New Britain 5A Voting District
+09|003|03-103|New Britain 5B|New Britain 5B Voting District
+09|003|03-104|New Britain 6|New Britain 6 Voting District
+09|003|03-105|New Britain 7|New Britain 7 Voting District
+09|003|03-106|New Britain 8|New Britain 8 Voting District
+09|003|03-107|New Britain 9|New Britain 9 Voting District
+09|003|03-108|New Britain 10|New Britain 10 Voting District
+09|003|03-109|New Britain 11|New Britain 11 Voting District
+09|003|03-110|New Britain 12|New Britain 12 Voting District
+09|003|03-111|New Britain 13|New Britain 13 Voting District
+09|003|03-112|New Britain 14|New Britain 14 Voting District
+09|003|03-113|New Britain 15|New Britain 15 Voting District
+09|003|03-114|Newington 1|Newington 1 Voting District
+09|003|03-115|Newington 2|Newington 2 Voting District
+09|003|03-116|Newington 3|Newington 3 Voting District
+09|003|03-117|Newington 4|Newington 4 Voting District
+09|003|03-118|Newington 5|Newington 5 Voting District
+09|003|03-119|Newington 6|Newington 6 Voting District
+09|003|03-120|Newington 7|Newington 7 Voting District
+09|003|03-121|Newington 8|Newington 8 Voting District
+09|003|03-122|Plainville 1|Plainville 1 Voting District
+09|003|03-123|Plainville 2|Plainville 2 Voting District
+09|003|03-124|Plainville 3|Plainville 3 Voting District
+09|003|03-125|Plainville 4|Plainville 4 Voting District
+09|003|03-126|Rocky Hill 1|Rocky Hill 1 Voting District
+09|003|03-127|Rocky Hill 2|Rocky Hill 2 Voting District
+09|003|03-128|Rocky Hill 3|Rocky Hill 3 Voting District
+09|003|03-129|Simsbury 1|Simsbury 1 Voting District
+09|003|03-130|Simsbury 2|Simsbury 2 Voting District
+09|003|03-131|Simsbury 3|Simsbury 3 Voting District
+09|003|03-132|Simsbury 4|Simsbury 4 Voting District
+09|003|03-134|South Windsor 2|South Windsor 2 Voting District
+09|003|03-135|South Windsor 3|South Windsor 3 Voting District
+09|003|03-136|South Windsor 4|South Windsor 4 Voting District
+09|003|03-137|South Windsor 5|South Windsor 5 Voting District
+09|003|03-139|South Windsor 1|South Windsor 1 Voting District
+09|003|03-140|Southington 1|Southington 1 Voting District
+09|003|03-141|Southington 10|Southington 10 Voting District
+09|003|03-142|Southington 11|Southington 11 Voting District
+09|003|03-143|Southington 12|Southington 12 Voting District
+09|003|03-144|Southington 2|Southington 2 Voting District
+09|003|03-145|Southington 3|Southington 3 Voting District
+09|003|03-146|Southington 4|Southington 4 Voting District
+09|003|03-147|Southington 5|Southington 5 Voting District
+09|003|03-148|Southington 6|Southington 6 Voting District
+09|003|03-149|Southington 7|Southington 7 Voting District
+09|003|03-150|Southington 8|Southington 8 Voting District
+09|003|03-151|Southington 9|Southington 9 Voting District
+09|003|03-152|Suffield 1|Suffield 1 Voting District
+09|003|03-153|West Hartford 2-2|West Hartford 2-2 Voting District
+09|003|03-154|West Hartford 3-1|West Hartford 3-1 Voting District
+09|003|03-155|West Hartford 1-1|West Hartford 1-1 Voting District
+09|003|03-156|West Hartford 1-2|West Hartford 1-2 Voting District
+09|003|03-157|West Hartford 10-1|West Hartford 10-1 Voting District
+09|003|03-158|West Hartford 10-2|West Hartford 10-2 Voting District
+09|003|03-159|West Hartford 2-1|West Hartford 2-1 Voting District
+09|003|03-160|West Hartford 3-2|West Hartford 3-2 Voting District
+09|003|03-161|West Hartford 4-1|West Hartford 4-1 Voting District
+09|003|03-162|West Hartford 4-2|West Hartford 4-2 Voting District
+09|003|03-163|West Hartford 5-1|West Hartford 5-1 Voting District
+09|003|03-164|West Hartford 5-2|West Hartford 5-2 Voting District
+09|003|03-165|West Hartford 6-1|West Hartford 6-1 Voting District
+09|003|03-166|West Hartford 6-2|West Hartford 6-2 Voting District
+09|003|03-167|West Hartford 7-1|West Hartford 7-1 Voting District
+09|003|03-168|West Hartford 7-2|West Hartford 7-2 Voting District
+09|003|03-169|West Hartford 8-1|West Hartford 8-1 Voting District
+09|003|03-170|West Hartford 8-2|West Hartford 8-2 Voting District
+09|003|03-171|West Hartford 9-1|West Hartford 9-1 Voting District
+09|003|03-172|West Hartford 9-2|West Hartford 9-2 Voting District
+09|003|03-173|Wethersfield 1|Wethersfield 1 Voting District
+09|003|03-174|Wethersfield 10|Wethersfield 10 Voting District
+09|003|03-175|Wethersfield 2|Wethersfield 2 Voting District
+09|003|03-176|Wethersfield 3|Wethersfield 3 Voting District
+09|003|03-177|Wethersfield 4|Wethersfield 4 Voting District
+09|003|03-178|Wethersfield 5|Wethersfield 5 Voting District
+09|003|03-179|Wethersfield 6|Wethersfield 6 Voting District
+09|003|03-180|Wethersfield 7|Wethersfield 7 Voting District
+09|003|03-181|Wethersfield 8|Wethersfield 8 Voting District
+09|003|03-182|Wethersfield 9|Wethersfield 9 Voting District
+09|003|03-183|Windsor 6|Windsor 6 Voting District
+09|003|03-184|Windsor 1|Windsor 1 Voting District
+09|003|03-185|Windsor 2|Windsor 2 Voting District
+09|003|03-186|Windsor 3|Windsor 3 Voting District
+09|003|03-187|Windsor 4|Windsor 4 Voting District
+09|003|03-188|Windsor 5|Windsor 5 Voting District
+09|003|03-189|Windsor 7|Windsor 7 Voting District
+09|003|03-190|Windsor Locks 1|Windsor Locks 1 Voting District
+09|003|03-191|Windsor Locks 2|Windsor Locks 2 Voting District
+09|003|03-192|Farmington 1-3|Farmington 1-3 Voting District
+09|003|03-193|Farmington 2-5|Farmington 2-5 Voting District
+09|005|05-001|Barkhamsted 1-63|Barkhamsted 1-63 Voting District
+09|005|05-002|Barkhamsted 2-62|Barkhamsted 2-62 Voting District
+09|005|05-003|Bethlehem 1|Bethlehem 1 Voting District
+09|005|05-004|Bridgewater 1|Bridgewater 1 Voting District
+09|005|05-005|Canaan 1|Canaan 1 Voting District
+09|005|05-006|Colebrook 1|Colebrook 1 Voting District
+09|005|05-007|Cornwall 1|Cornwall 1 Voting District
+09|005|05-008|Goshen 1|Goshen 1 Voting District
+09|005|05-009|Harwinton 31|Harwinton 31 Voting District
+09|005|05-010|Harwinton 8|Harwinton 8 Voting District
+09|005|05-011|Kent 1|Kent 1 Voting District
+09|005|05-012|Litchfield 1|Litchfield 1 Voting District
+09|005|05-013|Litchfield 2|Litchfield 2 Voting District
+09|005|05-014|Litchfield 3|Litchfield 3 Voting District
+09|005|05-015|Litchfield 4|Litchfield 4 Voting District
+09|005|05-016|Morris 1|Morris 1 Voting District
+09|005|05-017|New Hartford 1|New Hartford 1 Voting District
+09|005|05-018|New Hartford 2|New Hartford 2 Voting District
+09|005|05-019|New Milford 1|New Milford 1 Voting District
+09|005|05-020|New Milford 2|New Milford 2 Voting District
+09|005|05-021|New Milford 3|New Milford 3 Voting District
+09|005|05-022|New Milford 4|New Milford 4 Voting District
+09|005|05-023|New Milford 5|New Milford 5 Voting District
+09|005|05-024|New Milford 6|New Milford 6 Voting District
+09|005|05-025|New Milford 7|New Milford 7 Voting District
+09|005|05-026|Norfolk 1|Norfolk 1 Voting District
+09|005|05-027|North Canaan 1|North Canaan 1 Voting District
+09|005|05-028|Plymouth 1|Plymouth 1 Voting District
+09|005|05-029|Plymouth 2|Plymouth 2 Voting District
+09|005|05-030|Roxbury 1|Roxbury 1 Voting District
+09|005|05-031|Salisbury 1|Salisbury 1 Voting District
+09|005|05-032|Sharon 1|Sharon 1 Voting District
+09|005|05-033|Thomaston 1|Thomaston 1 Voting District
+09|005|05-034|Torrington 1|Torrington 1 Voting District
+09|005|05-035|Torrington 2|Torrington 2 Voting District
+09|005|05-036|Torrington 3|Torrington 3 Voting District
+09|005|05-037|Torrington 4|Torrington 4 Voting District
+09|005|05-038|Torrington 5|Torrington 5 Voting District
+09|005|05-039|Torrington 6|Torrington 6 Voting District
+09|005|05-040|Torrington 7|Torrington 7 Voting District
+09|005|05-041|Torrington 8|Torrington 8 Voting District
+09|005|05-042|Warren 1|Warren 1 Voting District
+09|005|05-043|Washington 1|Washington 1 Voting District
+09|005|05-044|Watertown 68-03|Watertown 68-03 Voting District
+09|005|05-045|Watertown 68-01|Watertown 68-01 Voting District
+09|005|05-046|Watertown 68-02|Watertown 68-02 Voting District
+09|005|05-047|Watertown 68-04|Watertown 68-04 Voting District
+09|005|05-048|Winchester 1|Winchester 1 Voting District
+09|005|05-049|Woodbury 1|Woodbury 1 Voting District
+09|005|05-050|Woodbury 2|Woodbury 2 Voting District
+09|007|07-001|Chester 1|Chester 1 Voting District
+09|007|07-002|Clinton 1|Clinton 1 Voting District
+09|007|07-003|Cromwell 1|Cromwell 1 Voting District
+09|007|07-004|Deep River 1|Deep River 1 Voting District
+09|007|07-005|Durham 2|Durham 2 Voting District
+09|007|07-006|Durham 3|Durham 3 Voting District
+09|007|07-007|East Haddam 1|East Haddam 1 Voting District
+09|007|07-008|East Hampton 1|East Hampton 1 Voting District
+09|007|07-009|Essex 1|Essex 1 Voting District
+09|007|07-011|Haddam 1|Haddam 1 Voting District
+09|007|07-012|Haddam 2|Haddam 2 Voting District
+09|007|07-013|Haddam 3|Haddam 3 Voting District
+09|007|07-014|Killingworth 1|Killingworth 1 Voting District
+09|007|07-015|Middlefield 1|Middlefield 1 Voting District
+09|007|07-016|Middletown 1|Middletown 1 Voting District
+09|007|07-017|Middletown 10|Middletown 10 Voting District
+09|007|07-018|Middletown 11|Middletown 11 Voting District
+09|007|07-019|Middletown 12|Middletown 12 Voting District
+09|007|07-020|Middletown 13|Middletown 13 Voting District
+09|007|07-021|Middletown 14|Middletown 14 Voting District
+09|007|07-022|Middletown 2|Middletown 2 Voting District
+09|007|07-023|Middletown 3|Middletown 3 Voting District
+09|007|07-024|Middletown 4|Middletown 4 Voting District
+09|007|07-025|Middletown 5|Middletown 5 Voting District
+09|007|07-026|Middletown 6|Middletown 6 Voting District
+09|007|07-027|Middletown 7|Middletown 7 Voting District
+09|007|07-028|Middletown 8|Middletown 8 Voting District
+09|007|07-030|Middletown 9|Middletown 9 Voting District
+09|007|07-031|Old Saybrook 1|Old Saybrook 1 Voting District
+09|007|07-032|Old Saybrook 2|Old Saybrook 2 Voting District
+09|007|07-033|Portland 1|Portland 1 Voting District
+09|007|07-034|Westbrook 1|Westbrook 1 Voting District
+09|007|07-035|Westbrook 2|Westbrook 2 Voting District
+09|007|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+09|009|09-001|Ansonia 104-1|Ansonia 104-1 Voting District
+09|009|09-002|Ansonia 104-2|Ansonia 104-2 Voting District
+09|009|09-003|Ansonia 104-3|Ansonia 104-3 Voting District
+09|009|09-004|Ansonia 104-4|Ansonia 104-4 Voting District
+09|009|09-005|Ansonia 104-5|Ansonia 104-5 Voting District
+09|009|09-006|Ansonia 104-6|Ansonia 104-6 Voting District
+09|009|09-007|Ansonia 104-7|Ansonia 104-7 Voting District
+09|009|09-008|Ansonia 105-2|Ansonia 105-2 Voting District
+09|009|09-009|Ansonia 105-3|Ansonia 105-3 Voting District
+09|009|09-010|Beacon Falls 1|Beacon Falls 1 Voting District
+09|009|09-011|Bethany 1|Bethany 1 Voting District
+09|009|09-012|Branford 1-98|Branford 1-98 Voting District
+09|009|09-013|Branford 1-102|Branford 1-102 Voting District
+09|009|09-014|Branford 2-98|Branford 2-98 Voting District
+09|009|09-015|Branford 3-102|Branford 3-102 Voting District
+09|009|09-016|Branford 4-102|Branford 4-102 Voting District
+09|009|09-017|Branford 5-98|Branford 5-98 Voting District
+09|009|09-018|Branford 5-102|Branford 5-102 Voting District
+09|009|09-019|Cheshire 1|Cheshire 1 Voting District
+09|009|09-020|Cheshire 2|Cheshire 2 Voting District
+09|009|09-021|Cheshire 3|Cheshire 3 Voting District
+09|009|09-022|Cheshire 4|Cheshire 4 Voting District
+09|009|09-023|Cheshire 5|Cheshire 5 Voting District
+09|009|09-024|Cheshire 6|Cheshire 6 Voting District
+09|009|09-025|Cheshire 7|Cheshire 7 Voting District
+09|009|09-026|Derby 104|Derby 104 Voting District
+09|009|09-027|Derby 114|Derby 114 Voting District
+09|009|09-028|East Haven 1|East Haven 1 Voting District
+09|009|09-029|East Haven 2|East Haven 2 Voting District
+09|009|09-030|East Haven 3|East Haven 3 Voting District
+09|009|09-031|East Haven 4|East Haven 4 Voting District
+09|009|09-032|East Haven 5|East Haven 5 Voting District
+09|009|09-033|Guilford 1|Guilford 1 Voting District
+09|009|09-034|Guilford 2|Guilford 2 Voting District
+09|009|09-035|Guilford 3|Guilford 3 Voting District
+09|009|09-036|Guilford 4|Guilford 4 Voting District
+09|009|09-037|Hamden 1|Hamden 1 Voting District
+09|009|09-038|Hamden 2|Hamden 2 Voting District
+09|009|09-039|Hamden 3|Hamden 3 Voting District
+09|009|09-040|Hamden 4|Hamden 4 Voting District
+09|009|09-041|Hamden 5|Hamden 5 Voting District
+09|009|09-042|Hamden 6|Hamden 6 Voting District
+09|009|09-043|Hamden 7|Hamden 7 Voting District
+09|009|09-044|Hamden 8|Hamden 8 Voting District
+09|009|09-045|Hamden 9|Hamden 9 Voting District
+09|009|09-046|Hamden 10|Hamden 10 Voting District
+09|009|09-047|Hamden 11|Hamden 11 Voting District
+09|009|09-048|Madison 1|Madison 1 Voting District
+09|009|09-049|Madison 2|Madison 2 Voting District
+09|009|09-050|Meriden 1|Meriden 1 Voting District
+09|009|09-051|Meriden 2|Meriden 2 Voting District
+09|009|09-052|Meriden 3|Meriden 3 Voting District
+09|009|09-053|Meriden 4|Meriden 4 Voting District
+09|009|09-054|Meriden 5|Meriden 5 Voting District
+09|009|09-055|Meriden 6|Meriden 6 Voting District
+09|009|09-056|Meriden 7|Meriden 7 Voting District
+09|009|09-057|Meriden 8|Meriden 8 Voting District
+09|009|09-058|Meriden 9|Meriden 9 Voting District
+09|009|09-059|Meriden 10|Meriden 10 Voting District
+09|009|09-060|Meriden 11|Meriden 11 Voting District
+09|009|09-061|Meriden 12|Meriden 12 Voting District
+09|009|09-062|Meriden 13|Meriden 13 Voting District
+09|009|09-063|Meriden 14|Meriden 14 Voting District
+09|009|09-064|Meriden 15|Meriden 15 Voting District
+09|009|09-065|Meriden 16|Meriden 16 Voting District
+09|009|09-066|Meriden 17|Meriden 17 Voting District
+09|009|09-067|Middlebury 1|Middlebury 1 Voting District
+09|009|09-068|Milford Live-Oaks 117|Milford Live-Oaks 117 Voting District
+09|009|09-069|Milford Live-Oaks 119|Milford Live-Oaks 119 Voting District
+09|009|09-070|Milford Orange-Ave|Milford Orange-Ave Voting District
+09|009|09-071|Milford JFK|Milford JFK Voting District
+09|009|09-072|Milford Harbor-Side|Milford Harbor-Side Voting District
+09|009|09-073|Milford Meadowside|Milford Meadowside Voting District
+09|009|09-074|Milford Island-View|Milford Island-View Voting District
+09|009|09-075|Milford West-Shore|Milford West-Shore Voting District
+09|009|09-076|Milford M-S-Egan|Milford M-S-Egan Voting District
+09|009|09-077|Milford Foran|Milford Foran Voting District
+09|009|09-078|Naugatuck 1-1|Naugatuck 1-1 Voting District
+09|009|09-079|Naugatuck 1-2|Naugatuck 1-2 Voting District
+09|009|09-080|Naugatuck 1-3|Naugatuck 1-3 Voting District
+09|009|09-081|Naugatuck 2-1|Naugatuck 2-1 Voting District
+09|009|09-082|Naugatuck 2-2|Naugatuck 2-2 Voting District
+09|009|09-083|Naugatuck 2-3|Naugatuck 2-3 Voting District
+09|009|09-084|Naugatuck 3-1|Naugatuck 3-1 Voting District
+09|009|09-085|Naugatuck 3-2|Naugatuck 3-2 Voting District
+09|009|09-086|Naugatuck 3-3|Naugatuck 3-3 Voting District
+09|009|09-087|Naugatuck 3-4|Naugatuck 3-4 Voting District
+09|009|09-088|New Haven 1-02-11-94|New Haven 1-02-11-94 Voting District
+09|009|09-089|New Haven 2-02-10-93|New Haven 2-02-10-93 Voting District
+09|009|09-091|New Haven 3-02-10-93|New Haven 3-02-10-93 Voting District
+09|009|09-094|New Haven 4-02-10-95|New Haven 4-02-10-95 Voting District
+09|009|09-095|New Haven 5-10-95|New Haven 5-10-95 Voting District
+09|009|09-097|New Haven 6-02-11-93|New Haven 6-02-11-93 Voting District
+09|009|09-099|New Haven 6-04-11-95|New Haven 6-04-11-95 Voting District
+09|009|09-100|New Haven 7-01-10-93|New Haven 7-01-10-93 Voting District
+09|009|09-101|New Haven 7-02-11-94|New Haven 7-02-11-94 Voting District
+09|009|09-102|New Haven 8-02-11-95|New Haven 8-02-11-95 Voting District
+09|009|09-103|New Haven 8-03-11-96|New Haven 8-03-11-96 Voting District
+09|009|09-104|New Haven 9-11-96|New Haven 9-11-96 Voting District
+09|009|09-105|New Haven 10-11-96|New Haven 10-11-96 Voting District
+09|009|09-106|New Haven 11-01-11-97|New Haven 11-01-11-97 Voting District
+09|009|09-107|New Haven 11-02-11-97|New Haven 11-02-11-97 Voting District
+09|009|09-108|New Haven 12-02-11-97|New Haven 12-02-11-97 Voting District
+09|009|09-109|New Haven 13-11-97|New Haven 13-11-97 Voting District
+09|009|09-110|New Haven 14-01-11-95|New Haven 14-01-11-95 Voting District
+09|009|09-114|New Haven 15-02-11-96|New Haven 15-02-11-96 Voting District
+09|009|09-115|New Haven 16-11-95|New Haven 16-11-95 Voting District
+09|009|09-116|New Haven 17-11-97|New Haven 17-11-97 Voting District
+09|009|09-117|New Haven 18-11-97|New Haven 18-11-97 Voting District
+09|009|09-118|New Haven 19-01-10-94|New Haven 19-01-10-94 Voting District
+09|009|09-119|New Haven 19-02-11-94|New Haven 19-02-11-94 Voting District
+09|009|09-120|New Haven 20-02-10-94|New Haven 20-02-10-94 Voting District
+09|009|09-122|New Haven 21-02-10-94|New Haven 21-02-10-94 Voting District
+09|009|09-123|New Haven 22-01-10-94|New Haven 22-01-10-94 Voting District
+09|009|09-124|New Haven 23-01-10-92|New Haven 23-01-10-92 Voting District
+09|009|09-126|New Haven 24-10-92|New Haven 24-10-92 Voting District
+09|009|09-127|New Haven 25-10-92|New Haven 25-10-92 Voting District
+09|009|09-128|New Haven 26-01-10-92|New Haven 26-01-10-92 Voting District
+09|009|09-129|New Haven 27-10-92|New Haven 27-10-92 Voting District
+09|009|09-130|New Haven 28-10-93|New Haven 28-10-93 Voting District
+09|009|09-131|New Haven 29-10-93|New Haven 29-10-93 Voting District
+09|009|09-132|New Haven 30-01-10-93|New Haven 30-01-10-93 Voting District
+09|009|09-133|New Haven 30-02-10-93|New Haven 30-02-10-93 Voting District
+09|009|09-134|North Branford 1|North Branford 1 Voting District
+09|009|09-135|North Branford 2|North Branford 2 Voting District
+09|009|09-136|North Haven 1|North Haven 1 Voting District
+09|009|09-137|North Haven 2|North Haven 2 Voting District
+09|009|09-138|North Haven 3|North Haven 3 Voting District
+09|009|09-139|North Haven 4|North Haven 4 Voting District
+09|009|09-140|North Haven 5|North Haven 5 Voting District
+09|009|09-141|Orange 1|Orange 1 Voting District
+09|009|09-142|Orange 2|Orange 2 Voting District
+09|009|09-143|Oxford 1|Oxford 1 Voting District
+09|009|09-144|Prospect 89-1|Prospect 89-1 Voting District
+09|009|09-145|Prospect 89-2|Prospect 89-2 Voting District
+09|009|09-146|Seymour 1|Seymour 1 Voting District
+09|009|09-147|Seymour 2|Seymour 2 Voting District
+09|009|09-148|Seymour 3|Seymour 3 Voting District
+09|009|09-149|Southbury 1|Southbury 1 Voting District
+09|009|09-150|Southbury 2|Southbury 2 Voting District
+09|009|09-151|Southbury 3|Southbury 3 Voting District
+09|009|09-152|Southbury 4|Southbury 4 Voting District
+09|009|09-153|Southbury 5|Southbury 5 Voting District
+09|009|09-154|Wallingford 1|Wallingford 1 Voting District
+09|009|09-155|Wallingford 2|Wallingford 2 Voting District
+09|009|09-156|Wallingford 3|Wallingford 3 Voting District
+09|009|09-157|Wallingford 4|Wallingford 4 Voting District
+09|009|09-158|Wallingford 5|Wallingford 5 Voting District
+09|009|09-159|Wallingford 6|Wallingford 6 Voting District
+09|009|09-160|Wallingford 7|Wallingford 7 Voting District
+09|009|09-161|Wallingford 8|Wallingford 8 Voting District
+09|009|09-162|Wallingford 9|Wallingford 9 Voting District
+09|009|09-163|Waterbury 71-1|Waterbury 71-1 Voting District
+09|009|09-164|Waterbury 71-2|Waterbury 71-2 Voting District
+09|009|09-165|Waterbury 71-3|Waterbury 71-3 Voting District
+09|009|09-166|Waterbury 72-1|Waterbury 72-1 Voting District
+09|009|09-167|Waterbury 72-2|Waterbury 72-2 Voting District
+09|009|09-168|Waterbury 72-3|Waterbury 72-3 Voting District
+09|009|09-169|Waterbury 72-4|Waterbury 72-4 Voting District
+09|009|09-170|Waterbury 72-5|Waterbury 72-5 Voting District
+09|009|09-171|Waterbury 73-1|Waterbury 73-1 Voting District
+09|009|09-172|Waterbury 73-2|Waterbury 73-2 Voting District
+09|009|09-173|Waterbury 73-3|Waterbury 73-3 Voting District
+09|009|09-174|Waterbury 73-4|Waterbury 73-4 Voting District
+09|009|09-175|Waterbury 73-5|Waterbury 73-5 Voting District
+09|009|09-176|Waterbury 73-6|Waterbury 73-6 Voting District
+09|009|09-177|Waterbury 74-1|Waterbury 74-1 Voting District
+09|009|09-178|Waterbury 74-2|Waterbury 74-2 Voting District
+09|009|09-179|Waterbury 74-3|Waterbury 74-3 Voting District
+09|009|09-180|Waterbury 74-4|Waterbury 74-4 Voting District
+09|009|09-181|Waterbury 75-1|Waterbury 75-1 Voting District
+09|009|09-182|Waterbury 75-2|Waterbury 75-2 Voting District
+09|009|09-183|Waterbury 75-3|Waterbury 75-3 Voting District
+09|009|09-184|Waterbury 75-4|Waterbury 75-4 Voting District
+09|009|09-185|Waterbury 75-5|Waterbury 75-5 Voting District
+09|009|09-186|West Haven 1|West Haven 1 Voting District
+09|009|09-187|West Haven 2|West Haven 2 Voting District
+09|009|09-188|West Haven 3|West Haven 3 Voting District
+09|009|09-189|West Haven 4|West Haven 4 Voting District
+09|009|09-190|West Haven 5|West Haven 5 Voting District
+09|009|09-191|West Haven 6|West Haven 6 Voting District
+09|009|09-192|West Haven 7|West Haven 7 Voting District
+09|009|09-193|West Haven 8|West Haven 8 Voting District
+09|009|09-194|West Haven 9|West Haven 9 Voting District
+09|009|09-195|West Haven 10|West Haven 10 Voting District
+09|009|09-196|West Haven 11|West Haven 11 Voting District
+09|009|09-197|West Haven 12|West Haven 12 Voting District
+09|009|09-198|Wolcott 1|Wolcott 1 Voting District
+09|009|09-199|Wolcott 2|Wolcott 2 Voting District
+09|009|09-200|Wolcott 3|Wolcott 3 Voting District
+09|009|09-201|Woodbridge 1|Woodbridge 1 Voting District
+09|009|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+09|011|11-001|Bozrah 1|Bozrah 1 Voting District
+09|011|11-002|Colchester 1|Colchester 1 Voting District
+09|011|11-003|East Lyme 1|East Lyme 1 Voting District
+09|011|11-004|East Lyme 2|East Lyme 2 Voting District
+09|011|11-005|East Lyme 3|East Lyme 3 Voting District
+09|011|11-006|Franklin 1|Franklin 1 Voting District
+09|011|11-007|Griswold 1|Griswold 1 Voting District
+09|011|11-008|Griswold 2|Griswold 2 Voting District
+09|011|11-009|Groton 8|Groton 8 Voting District
+09|011|11-010|Groton 1|Groton 1 Voting District
+09|011|11-011|Groton 2|Groton 2 Voting District
+09|011|11-012|Groton 3|Groton 3 Voting District
+09|011|11-013|Groton 4|Groton 4 Voting District
+09|011|11-014|Groton 5|Groton 5 Voting District
+09|011|11-015|Groton 6|Groton 6 Voting District
+09|011|11-016|Groton 7|Groton 7 Voting District
+09|011|11-017|Lebanon 1|Lebanon 1 Voting District
+09|011|11-018|Ledyard 1|Ledyard 1 Voting District
+09|011|11-019|Ledyard 2|Ledyard 2 Voting District
+09|011|11-020|Lisbon 1|Lisbon 1 Voting District
+09|011|11-021|Lyme 1|Lyme 1 Voting District
+09|011|11-022|Montville 1|Montville 1 Voting District
+09|011|11-023|Montville 2|Montville 2 Voting District
+09|011|11-024|Montville 3|Montville 3 Voting District
+09|011|11-025|Montville 4|Montville 4 Voting District
+09|011|11-026|Montville 5|Montville 5 Voting District
+09|011|11-027|Montville 6|Montville 6 Voting District
+09|011|11-028|New London 1|New London 1 Voting District
+09|011|11-029|New London 2|New London 2 Voting District
+09|011|11-030|New London 3|New London 3 Voting District
+09|011|11-031|New London 4|New London 4 Voting District
+09|011|11-032|New London 5|New London 5 Voting District
+09|011|11-033|New London 6|New London 6 Voting District
+09|011|11-034|New London 7|New London 7 Voting District
+09|011|11-035|North Stonington 1|North Stonington 1 Voting District
+09|011|11-036|Norwich 1|Norwich 1 Voting District
+09|011|11-037|Norwich 10|Norwich 10 Voting District
+09|011|11-038|Norwich 2A|Norwich 2A Voting District
+09|011|11-039|Norwich 2B|Norwich 2B Voting District
+09|011|11-040|Norwich 3|Norwich 3 Voting District
+09|011|11-041|Norwich 5|Norwich 5 Voting District
+09|011|11-042|Norwich 6|Norwich 6 Voting District
+09|011|11-043|Norwich 7|Norwich 7 Voting District
+09|011|11-044|Norwich 8|Norwich 8 Voting District
+09|011|11-045|Norwich 9|Norwich 9 Voting District
+09|011|11-046|Old Lyme 1|Old Lyme 1 Voting District
+09|011|11-047|Preston 1|Preston 1 Voting District
+09|011|11-048|Salem 1|Salem 1 Voting District
+09|011|11-049|Sprague 1|Sprague 1 Voting District
+09|011|11-050|Stonington 1|Stonington 1 Voting District
+09|011|11-051|Stonington 2|Stonington 2 Voting District
+09|011|11-052|Stonington 3|Stonington 3 Voting District
+09|011|11-053|Stonington 4|Stonington 4 Voting District
+09|011|11-054|Stonington 5|Stonington 5 Voting District
+09|011|11-055|Voluntown 1|Voluntown 1 Voting District
+09|011|11-056|Waterford 1|Waterford 1 Voting District
+09|011|11-057|Waterford 2|Waterford 2 Voting District
+09|011|11-058|Waterford 3|Waterford 3 Voting District
+09|011|11-059|Waterford 4|Waterford 4 Voting District
+09|011|11-060|Colchester 2|Colchester 2 Voting District
+09|011|11-061|Colchester 3|Colchester 3 Voting District
+09|011|ZZZZZZ|Voting Districts not defined|Voting Districts not defined
+09|013|13-001|Andover 1|Andover 1 Voting District
+09|013|13-002|Bolton 1|Bolton 1 Voting District
+09|013|13-003|Columbia 1|Columbia 1 Voting District
+09|013|13-004|Coventry 1|Coventry 1 Voting District
+09|013|13-005|Coventry 2|Coventry 2 Voting District
+09|013|13-006|Ellington 1|Ellington 1 Voting District
+09|013|13-007|Ellington 2|Ellington 2 Voting District
+09|013|13-008|Hebron 1|Hebron 1 Voting District
+09|013|13-009|Mansfield 1|Mansfield 1 Voting District
+09|013|13-010|Mansfield 2|Mansfield 2 Voting District
+09|013|13-011|Mansfield 3|Mansfield 3 Voting District
+09|013|13-012|Somers 1|Somers 1 Voting District
+09|013|13-013|Stafford 1|Stafford 1 Voting District
+09|013|13-014|Stafford 2|Stafford 2 Voting District
+09|013|13-015|Stafford 3|Stafford 3 Voting District
+09|013|13-016|Tolland 1|Tolland 1 Voting District
+09|013|13-017|Tolland 2|Tolland 2 Voting District
+09|013|13-018|Union 1|Union 1 Voting District
+09|013|13-019|Vernon 1|Vernon 1 Voting District
+09|013|13-020|Vernon 2|Vernon 2 Voting District
+09|013|13-021|Vernon 3|Vernon 3 Voting District
+09|013|13-022|Vernon 4|Vernon 4 Voting District
+09|013|13-023|Vernon 5|Vernon 5 Voting District
+09|013|13-024|Vernon 6|Vernon 6 Voting District
+09|013|13-025|Willington 1|Willington 1 Voting District
+09|015|15-001|Ashford 1|Ashford 1 Voting District
+09|015|15-002|Brooklyn 1|Brooklyn 1 Voting District
+09|015|15-003|Canterbury 1|Canterbury 1 Voting District
+09|015|15-004|Chaplin 1|Chaplin 1 Voting District
+09|015|15-005|Eastford 1|Eastford 1 Voting District
+09|015|15-006|Hampton 1|Hampton 1 Voting District
+09|015|15-007|Killingly 1-44|Killingly 1-44 Voting District
+09|015|15-008|Killingly 1-51|Killingly 1-51 Voting District
+09|015|15-009|Killingly 2-44|Killingly 2-44 Voting District
+09|015|15-010|Killingly 2-51|Killingly 2-51 Voting District
+09|015|15-011|Killingly 3-44|Killingly 3-44 Voting District
+09|015|15-012|Killingly 4-44|Killingly 4-44 Voting District
+09|015|15-013|Killingly 4-51|Killingly 4-51 Voting District
+09|015|15-014|Killingly 5-44|Killingly 5-44 Voting District
+09|015|15-015|Plainfield 1-44|Plainfield 1-44 Voting District
+09|015|15-016|Plainfield 1-45|Plainfield 1-45 Voting District
+09|015|15-017|Plainfield 2|Plainfield 2 Voting District
+09|015|15-018|Plainfield 3|Plainfield 3 Voting District
+09|015|15-019|Plainfield 4|Plainfield 4 Voting District
+09|015|15-020|Pomfret 1|Pomfret 1 Voting District
+09|015|15-021|Putnam 1|Putnam 1 Voting District
+09|015|15-022|Putnam 2|Putnam 2 Voting District
+09|015|15-023|Scotland 1|Scotland 1 Voting District
+09|015|15-024|Sterling 1|Sterling 1 Voting District
+09|015|15-025|Thompson 1|Thompson 1 Voting District
+09|015|15-026|Thompson 2|Thompson 2 Voting District
+09|015|15-027|Thompson 3|Thompson 3 Voting District
+09|015|15-028|Thompson 4|Thompson 4 Voting District
+09|015|15-029|Windham 1|Windham 1 Voting District
+09|015|15-030|Windham 2|Windham 2 Voting District
+09|015|15-031|Windham 3|Windham 3 Voting District
+09|015|15-032|Windham 4|Windham 4 Voting District
+09|015|15-033|Windham 5|Windham 5 Voting District
+09|015|15-034|Woodstock 1|Woodstock 1 Voting District

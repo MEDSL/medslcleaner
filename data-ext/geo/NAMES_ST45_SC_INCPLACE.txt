@@ -1,0 +1,270 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+45|00100|Abbeville|Abbeville city
+45|00550|Aiken|Aiken city
+45|00955|Allendale|Allendale town
+45|01360|Anderson|Anderson city
+45|01450|Andrews|Andrews town
+45|02125|Arcadia Lakes|Arcadia Lakes town
+45|03205|Atlantic Beach|Atlantic Beach town
+45|03385|Awendaw|Awendaw town
+45|03430|Aynor|Aynor town
+45|03790|Bamberg|Bamberg town
+45|04060|Barnwell|Barnwell city
+45|04300|Batesburg-Leesville|Batesburg-Leesville town
+45|04690|Beaufort|Beaufort city
+45|05365|Belton|Belton city
+45|05680|Bennettsville|Bennettsville city
+45|06040|Bethune|Bethune town
+45|06310|Bishopville|Bishopville city
+45|06400|Blacksburg|Blacksburg town
+45|06490|Blackville|Blackville town
+45|06850|Blenheim|Blenheim town
+45|07210|Bluffton|Bluffton town
+45|07255|Blythewood|Blythewood town
+45|07525|Bonneau|Bonneau town
+45|07840|Bowman|Bowman town
+45|08245|Branchville|Branchville town
+45|08830|Briarcliffe Acres|Briarcliffe Acres town
+45|09865|Brunson|Brunson town
+45|10270|Burnettown|Burnettown town
+45|10720|Calhoun Falls|Calhoun Falls town
+45|10855|Camden|Camden city
+45|10900|Cameron|Cameron town
+45|11125|Campobello|Campobello town
+45|11755|Carlisle|Carlisle town
+45|12655|Cayce|Cayce city
+45|13015|Central|Central town
+45|13060|Central Pacolet|Central Pacolet town
+45|13150|Chapin|Chapin town
+45|13330|Charleston|Charleston city
+45|13600|Cheraw|Cheraw town
+45|14050|Chesnee|Chesnee city
+45|14095|Chester|Chester city
+45|14140|Chesterfield|Chesterfield town
+45|14950|Clemson|Clemson city
+45|15295|Clinton|Clinton city
+45|15310|Clio|Clio town
+45|15355|Clover|Clover town
+45|16000|Columbia|Columbia city
+45|16405|Conway|Conway city
+45|16720|Cope|Cope town
+45|16855|Cordova|Cordova town
+45|16990|Cottageville|Cottageville town
+45|17215|Coward|Coward town
+45|17260|Cowpens|Cowpens town
+45|17890|Cross Hill|Cross Hill town
+45|18565|Darlington|Darlington city
+45|19105|Denmark|Denmark city
+45|19420|Dillon|Dillon city
+45|19870|Donalds|Donalds town
+45|21040|Due West|Due West town
+45|21265|Duncan|Duncan town
+45|21985|Easley|Easley city
+45|22390|Eastover|Eastover town
+45|22795|Edgefield|Edgefield town
+45|23020|Edisto Beach|Edisto Beach town
+45|23200|Ehrhardt|Ehrhardt town
+45|23245|Elgin|Elgin town
+45|23335|Elko|Elko town
+45|23470|Elloree|Elloree town
+45|23830|Estill|Estill town
+45|24100|Eutawville|Eutawville town
+45|24370|Fairfax|Fairfax town
+45|25810|Florence|Florence city
+45|26035|Folly Beach|Folly Beach city
+45|26305|Forest Acres|Forest Acres city
+45|26845|Fort Lawn|Fort Lawn town
+45|26890|Fort Mill|Fort Mill town
+45|27070|Fountain Inn|Fountain Inn city
+45|27835|Furman|Furman town
+45|28060|Gaffney|Gaffney city
+45|28780|Gaston|Gaston town
+45|28870|Georgetown|Georgetown city
+45|29005|Gifford|Gifford town
+45|29050|Gilbert|Gilbert town
+45|29815|Goose Creek|Goose Creek city
+45|29950|Govan|Govan town
+45|30355|Gray Court|Gray Court town
+45|30490|Great Falls|Great Falls town
+45|30535|Greeleyville|Greeleyville town
+45|30850|Greenville|Greenville city
+45|30895|Greenwood|Greenwood city
+45|30985|Greer|Greer city
+45|31885|Hampton|Hampton town
+45|32065|Hanahan|Hanahan city
+45|32245|Hardeeville|Hardeeville city
+45|32335|Harleyville|Harleyville town
+45|32560|Hartsville|Hartsville city
+45|32965|Heath Springs|Heath Springs town
+45|33145|Hemingway|Hemingway town
+45|33640|Hickory Grove|Hickory Grove town
+45|33820|Hilda|Hilda town
+45|34045|Hilton Head Island|Hilton Head Island town
+45|34225|Hodges|Hodges town
+45|34360|Holly Hill|Holly Hill town
+45|34495|Hollywood|Hollywood town
+45|34810|Honea Path|Honea Path town
+45|35755|Inman|Inman city
+45|35890|Irmo|Irmo town
+45|36115|Isle of Palms|Isle of Palms city
+45|36160|Iva|Iva town
+45|36205|Jackson|Jackson town
+45|36475|Jamestown|Jamestown town
+45|36610|Jefferson|Jefferson town
+45|36655|Jenkinsville|Jenkinsville town
+45|37105|Johnsonville|Johnsonville city
+45|37150|Johnston|Johnston town
+45|37330|Jonesville|Jonesville town
+45|38095|Kershaw|Kershaw town
+45|38162|Kiawah Island|Kiawah Island town
+45|38590|Kingstree|Kingstree town
+45|38950|Kline|Kline town
+45|39310|Lake City|Lake City city
+45|39715|Lake View|Lake View town
+45|39805|Lamar|Lamar town
+45|39895|Lancaster|Lancaster city
+45|40075|Landrum|Landrum city
+45|40210|Lane|Lane town
+45|40480|Latta|Latta town
+45|40615|Laurens|Laurens city
+45|41335|Lexington|Lexington town
+45|41380|Liberty|Liberty city
+45|41740|Lincolnville|Lincolnville town
+45|41965|Little Mountain|Little Mountain town
+45|42100|Livingston|Livingston town
+45|42190|Lockhart|Lockhart town
+45|42280|Lodge|Lodge town
+45|42730|Loris|Loris city
+45|42820|Lowndesville|Lowndesville town
+45|42865|Lowrys|Lowrys town
+45|43090|Luray|Luray town
+45|43315|Lyman|Lyman town
+45|43360|Lynchburg|Lynchburg town
+45|43495|McBee|McBee town
+45|43585|McClellanville|McClellanville town
+45|43630|McColl|McColl town
+45|43675|McConnells|McConnells town
+45|43720|McCormick|McCormick town
+45|44350|Manning|Manning city
+45|44575|Marion|Marion city
+45|45115|Mauldin|Mauldin city
+45|45295|Mayesville|Mayesville town
+45|45790|Meggett|Meggett town
+45|47275|Moncks Corner|Moncks Corner town
+45|47320|Monetta|Monetta town
+45|48355|Mount Croghan|Mount Croghan town
+45|48535|Mount Pleasant|Mount Pleasant town
+45|48805|Mullins|Mullins city
+45|49075|Myrtle Beach|Myrtle Beach city
+45|49390|Neeses|Neeses town
+45|49570|Newberry|Newberry city
+45|49705|New Ellenton|New Ellenton town
+45|50110|Nichols|Nichols town
+45|50290|Ninety Six|Ninety Six town
+45|50515|Norris|Norris town
+45|50560|North|North town
+45|50695|North Augusta|North Augusta city
+45|50875|North Charleston|North Charleston city
+45|51280|North Myrtle Beach|North Myrtle Beach city
+45|51550|Norway|Norway town
+45|52540|Olanta|Olanta town
+45|52585|Olar|Olar town
+45|53080|Orangeburg|Orangeburg city
+45|53845|Pacolet|Pacolet town
+45|54025|Pageland|Pageland town
+45|54340|Pamplico|Pamplico town
+45|54700|Parksville|Parksville town
+45|54925|Patrick|Patrick town
+45|55015|Pawleys Island|Pawleys Island town
+45|55060|Paxville|Paxville town
+45|55150|Peak|Peak town
+45|55420|Pelion|Pelion town
+45|55465|Pelzer|Pelzer town
+45|55645|Pendleton|Pendleton town
+45|55960|Perry|Perry town
+45|56140|Pickens|Pickens city
+45|56950|Pine Ridge|Pine Ridge town
+45|57085|Pinewood|Pinewood town
+45|57670|Plum Branch|Plum Branch town
+45|57850|Pomaria|Pomaria town
+45|58030|Port Royal|Port Royal town
+45|58705|Prosperity|Prosperity town
+45|58795|Quinby|Quinby town
+45|59020|Ravenel|Ravenel town
+45|59380|Reevesville|Reevesville town
+45|59425|Reidville|Reidville town
+45|59920|Richburg|Richburg town
+45|60280|Ridgeland|Ridgeland town
+45|60325|Ridge Spring|Ridge Spring town
+45|60370|Ridgeville|Ridgeville town
+45|60415|Ridgeway|Ridgeway town
+45|61405|Rock Hill|Rock Hill city
+45|61495|Rockville|Rockville town
+45|62035|Rowesville|Rowesville town
+45|62080|Ruby|Ruby town
+45|62530|St. George|St. George town
+45|62620|St. Matthews|St. Matthews town
+45|62755|St. Stephen|St. Stephen town
+45|62980|Salem|Salem town
+45|63115|Salley|Salley town
+45|63250|Saluda|Saluda town
+45|63790|Santee|Santee town
+45|64465|Scotia|Scotia town
+45|64600|Scranton|Scranton town
+45|64712|Seabrook Island|Seabrook Island town
+45|65005|Sellers|Sellers town
+45|65095|Seneca|Seneca city
+45|65410|Sharon|Sharon town
+45|66400|Silverstreet|Silverstreet town
+45|66580|Simpsonville|Simpsonville city
+45|66760|Six Mile|Six Mile town
+45|67165|Smoaks|Smoaks town
+45|67210|Smyrna|Smyrna town
+45|67255|Snelling|Snelling town
+45|67435|Society Hill|Society Hill town
+45|67705|South Congaree|South Congaree town
+45|68290|Spartanburg|Spartanburg city
+45|68425|Springdale|Springdale town
+45|68470|Springfield|Springfield town
+45|68875|Starr|Starr town
+45|70045|Stuckey|Stuckey town
+45|70090|Sullivan's Island|Sullivan's Island town
+45|70225|Summerton|Summerton town
+45|70270|Summerville|Summerville town
+45|70315|Summit|Summit town
+45|70405|Sumter|Sumter city
+45|70585|Surfside Beach|Surfside Beach town
+45|70675|Swansea|Swansea town
+45|70900|Sycamore|Sycamore town
+45|71305|Tatum|Tatum town
+45|71417|Tega Cay|Tega Cay city
+45|71980|Timmonsville|Timmonsville town
+45|72430|Travelers Rest|Travelers Rest city
+45|72520|Trenton|Trenton town
+45|72655|Troy|Troy town
+45|72745|Turbeville|Turbeville town
+45|72880|Ulmer|Ulmer town
+45|73105|Union|Union city
+45|73510|Vance|Vance town
+45|73600|Varnville|Varnville town
+45|74050|Wagener|Wagener town
+45|74095|Walhalla|Walhalla city
+45|74275|Walterboro|Walterboro city
+45|74590|Ward|Ward town
+45|74680|Ware Shoals|Ware Shoals town
+45|74995|Waterloo|Waterloo town
+45|75580|Wellford|Wellford city
+45|75850|West Columbia|West Columbia city
+45|76165|Westminster|Westminster city
+45|76345|West Pelzer|West Pelzer town
+45|76435|West Union|West Union town
+45|77380|Whitmire|Whitmire town
+45|77785|Williams|Williams town
+45|77875|Williamston|Williamston town
+45|77965|Williston|Williston town
+45|78190|Windsor|Windsor town
+45|78460|Winnsboro|Winnsboro town
+45|78910|Woodford|Woodford town
+45|79090|Woodruff|Woodruff city
+45|79450|Yemassee|Yemassee town
+45|79630|York|York city

@@ -1,0 +1,243 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+41|00275|Adair Village|Adair Village city
+41|00350|Adams|Adams city
+41|00500|Adrian|Adrian city
+41|01000|Albany|Albany city
+41|02000|Amity|Amity city
+41|02250|Antelope|Antelope city
+41|02800|Arlington|Arlington city
+41|03050|Ashland|Ashland city
+41|03150|Astoria|Astoria city
+41|03200|Athena|Athena city
+41|03250|Aumsville|Aumsville city
+41|03300|Aurora|Aurora city
+41|03650|Baker City|Baker City city
+41|03800|Bandon|Bandon city
+41|03850|Banks|Banks city
+41|04000|Barlow|Barlow city
+41|04800|Bay City|Bay City city
+41|05350|Beaverton|Beaverton city
+41|05800|Bend|Bend city
+41|07200|Boardman|Boardman city
+41|07300|Bonanza|Bonanza town
+41|08650|Brookings|Brookings city
+41|09050|Brownsville|Brownsville city
+41|09800|Burns|Burns city
+41|10050|Butte Falls|Butte Falls town
+41|10750|Canby|Canby city
+41|10850|Cannon Beach|Cannon Beach city
+41|10950|Canyon City|Canyon City town
+41|11000|Canyonville|Canyonville city
+41|11150|Carlton|Carlton city
+41|11600|Cascade Locks|Cascade Locks city
+41|11850|Cave Junction|Cave Junction city
+41|12400|Central Point|Central Point city
+41|13050|Chiloquin|Chiloquin city
+41|13750|Clatskanie|Clatskanie city
+41|14400|Coburg|Coburg city
+41|14750|Columbia City|Columbia City city
+41|15000|Condon|Condon city
+41|15250|Coos Bay|Coos Bay city
+41|15350|Coquille|Coquille city
+41|15550|Cornelius|Cornelius city
+41|15800|Corvallis|Corvallis city
+41|15950|Cottage Grove|Cottage Grove city
+41|16250|Cove|Cove city
+41|16950|Creswell|Creswell city
+41|17300|Culver|Culver city
+41|17700|Dallas|Dallas city
+41|17800|Damascus|Damascus city
+41|18250|Dayton|Dayton city
+41|18300|Dayville|Dayville town
+41|18850|Depoe Bay|Depoe Bay city
+41|19100|Detroit|Detroit city
+41|20100|Donald|Donald city
+41|20500|Drain|Drain city
+41|20900|Dufur|Dufur city
+41|21050|Dundee|Dundee city
+41|21150|Dunes City|Dunes City city
+41|21250|Durham|Durham city
+41|21550|Eagle Point|Eagle Point city
+41|22200|Echo|Echo city
+41|22550|Elgin|Elgin city
+41|22800|Elkton|Elkton city
+41|23500|Enterprise|Enterprise city
+41|23800|Estacada|Estacada city
+41|23850|Eugene|Eugene city
+41|24250|Fairview|Fairview city
+41|24550|Falls City|Falls City city
+41|26050|Florence|Florence city
+41|26200|Forest Grove|Forest Grove city
+41|26650|Fossil|Fossil city
+41|28000|Garibaldi|Garibaldi city
+41|28100|Gaston|Gaston city
+41|28200|Gates|Gates city
+41|28450|Gearhart|Gearhart city
+41|28650|Gervais|Gervais city
+41|29000|Gladstone|Gladstone city
+41|29350|Glendale|Glendale city
+41|29900|Gold Beach|Gold Beach city
+41|29950|Gold Hill|Gold Hill city
+41|30500|Granite|Granite city
+41|30550|Grants Pass|Grants Pass city
+41|30650|Grass Valley|Grass Valley city
+41|31050|Greenhorn|Greenhorn city
+41|31250|Gresham|Gresham city
+41|31600|Haines|Haines city
+41|31650|Halfway|Halfway city
+41|31750|Halsey|Halsey city
+41|32050|Happy Valley|Happy Valley city
+41|32550|Harrisburg|Harrisburg city
+41|33250|Helix|Helix city
+41|33550|Heppner|Heppner city
+41|33700|Hermiston|Hermiston city
+41|34100|Hillsboro|Hillsboro city
+41|34250|Hines|Hines city
+41|34900|Hood River|Hood River city
+41|35450|Hubbard|Hubbard city
+41|35700|Huntington|Huntington city
+41|35800|Idanha|Idanha city
+41|36050|Imbler|Imbler city
+41|36150|Independence|Independence city
+41|36400|Ione|Ione city
+41|36500|Irrigon|Irrigon city
+41|36750|Island City|Island City city
+41|37000|Jacksonville|Jacksonville city
+41|37250|Jefferson|Jefferson city
+41|37550|John Day|John Day city
+41|37650|Johnson City|Johnson City city
+41|37850|Jordan Valley|Jordan Valley city
+41|37900|Joseph|Joseph city
+41|38000|Junction City|Junction City city
+41|38500|Keizer|Keizer city
+41|39150|King City|King City city
+41|39700|Klamath Falls|Klamath Falls city
+41|40300|Lafayette|Lafayette city
+41|40350|La Grande|La Grande city
+41|40550|Lake Oswego|Lake Oswego city
+41|40650|Lakeside|Lakeside city
+41|40700|Lakeview|Lakeview town
+41|41050|La Pine|La Pine city
+41|41650|Lebanon|Lebanon city
+41|42200|Lexington|Lexington town
+41|42600|Lincoln City|Lincoln City city
+41|43400|Lonerock|Lonerock city
+41|43550|Long Creek|Long Creek city
+41|43900|Lostine|Lostine city
+41|44050|Lowell|Lowell city
+41|44300|Lyons|Lyons city
+41|45000|McMinnville|McMinnville city
+41|45250|Madras|Madras city
+41|45400|Malin|Malin city
+41|45700|Manzanita|Manzanita city
+41|46500|Maupin|Maupin city
+41|46730|Maywood Park|Maywood Park city
+41|47000|Medford|Medford city
+41|47700|Merrill|Merrill city
+41|47750|Metolius|Metolius city
+41|48150|Mill City|Mill City city
+41|48300|Millersburg|Millersburg city
+41|48600|Milton-Freewater|Milton-Freewater city
+41|48650|Milwaukie|Milwaukie city
+41|49150|Mitchell|Mitchell city
+41|49450|Molalla|Molalla city
+41|49550|Monmouth|Monmouth city
+41|49600|Monroe|Monroe city
+41|49750|Monument|Monument city
+41|50000|Moro|Moro city
+41|50050|Mosier|Mosier city
+41|50150|Mount Angel|Mount Angel city
+41|50250|Mount Vernon|Mount Vernon city
+41|50950|Myrtle Creek|Myrtle Creek city
+41|51050|Myrtle Point|Myrtle Point city
+41|51700|Nehalem|Nehalem city
+41|52100|Newberg|Newberg city
+41|52450|Newport|Newport city
+41|53000|North Bend|North Bend city
+41|53150|North Plains|North Plains city
+41|53300|North Powder|North Powder city
+41|53750|Nyssa|Nyssa city
+41|54000|Oakland|Oakland city
+41|54100|Oakridge|Oakridge city
+41|54900|Ontario|Ontario city
+41|55200|Oregon City|Oregon City city
+41|56250|Paisley|Paisley city
+41|57150|Pendleton|Pendleton city
+41|57450|Philomath|Philomath city
+41|57500|Phoenix|Phoenix city
+41|57650|Pilot Rock|Pilot Rock city
+41|59000|Portland|Portland city
+41|59250|Port Orford|Port Orford city
+41|59600|Powers|Powers city
+41|59650|Prairie City|Prairie City city
+41|59750|Prescott|Prescott city
+41|59850|Prineville|Prineville city
+41|60850|Rainier|Rainier city
+41|61200|Redmond|Redmond city
+41|61300|Reedsport|Reedsport city
+41|61700|Richland|Richland city
+41|61850|Riddle|Riddle city
+41|62250|Rivergrove|Rivergrove city
+41|62900|Rockaway Beach|Rockaway Beach city
+41|63450|Rogue River|Rogue River city
+41|63650|Roseburg|Roseburg city
+41|64200|Rufus|Rufus city
+41|64600|St. Helens|St. Helens city
+41|64850|St. Paul|St. Paul city
+41|64900|Salem|Salem city
+41|65250|Sandy|Sandy city
+41|65500|Scappoose|Scappoose city
+41|65650|Scio|Scio city
+41|65800|Scotts Mills|Scotts Mills city
+41|65950|Seaside|Seaside city
+41|66200|Seneca|Seneca city
+41|66550|Shady Cove|Shady Cove city
+41|66700|Shaniko|Shaniko city
+41|67050|Sheridan|Sheridan city
+41|67100|Sherwood|Sherwood city
+41|67500|Siletz|Siletz city
+41|67650|Silverton|Silverton city
+41|67950|Sisters|Sisters city
+41|68550|Sodaville|Sodaville city
+41|69450|Spray|Spray town
+41|69600|Springfield|Springfield city
+41|69900|Stanfield|Stanfield city
+41|70200|Stayton|Stayton city
+41|70700|Sublimity|Sublimity city
+41|70850|Summerville|Summerville town
+41|71000|Sumpter|Sumpter city
+41|71650|Sutherlin|Sutherlin city
+41|71950|Sweet Home|Sweet Home city
+41|72500|Talent|Talent city
+41|72600|Tangent|Tangent city
+41|72950|The Dalles|The Dalles city
+41|73650|Tigard|Tigard city
+41|73700|Tillamook|Tillamook city
+41|74000|Toledo|Toledo city
+41|74850|Troutdale|Troutdale city
+41|74950|Tualatin|Tualatin city
+41|75150|Turner|Turner city
+41|75550|Ukiah|Ukiah city
+41|75650|Umatilla|Umatilla city
+41|75850|Union|Union city
+41|76250|Unity|Unity city
+41|76600|Vale|Vale city
+41|77050|Veneta|Veneta city
+41|77250|Vernonia|Vernonia city
+41|78000|Waldport|Waldport city
+41|78150|Wallowa|Wallowa city
+41|78900|Warrenton|Warrenton city
+41|78950|Wasco|Wasco city
+41|79050|Waterloo|Waterloo town
+41|79950|Westfir|Westfir city
+41|80150|West Linn|West Linn city
+41|80350|Weston|Weston city
+41|81300|Wheeler|Wheeler city
+41|82350|Willamina|Willamina city
+41|82800|Wilsonville|Wilsonville city
+41|83400|Winston|Winston city
+41|83750|Woodburn|Woodburn city
+41|83950|Wood Village|Wood Village city
+41|84200|Yachats|Yachats city
+41|84250|Yamhill|Yamhill city
+41|84600|Yoncalla|Yoncalla city

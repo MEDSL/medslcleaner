@@ -1,0 +1,236 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+30|00175|Absarokee|Absarokee CDP
+30|00850|Alder|Alder CDP
+30|01300|Alzada|Alzada CDP
+30|01525|Amsterdam|Amsterdam CDP
+30|02050|Antelope|Antelope CDP
+30|02425|Arlee|Arlee CDP
+30|02800|Ashland|Ashland CDP
+30|03025|Augusta|Augusta CDP
+30|03175|Avon|Avon CDP
+30|03212|Azure|Azure CDP
+30|03250|Babb|Babb CDP
+30|03625|Ballantine|Ballantine CDP
+30|04150|Basin|Basin CDP
+30|04230|Batavia|Batavia CDP
+30|04410|Bear Dance|Bear Dance CDP
+30|04575|Beaver Creek|Beaver Creek CDP
+30|04900|Belfry|Belfry CDP
+30|05050|Belknap|Belknap CDP
+30|05650|Biddle|Biddle CDP
+30|05800|Big Arm|Big Arm CDP
+30|05875|Bigfork|Bigfork CDP
+30|06325|Big Sky|Big Sky CDP
+30|06925|Birney|Birney CDP
+30|07150|Black Eagle|Black Eagle CDP
+30|08162|Boneau|Boneau CDP
+30|08462|Bonner-West Riverside|Bonner-West Riverside CDP
+30|08725|Box Elder|Box Elder CDP
+30|08800|Boyd|Boyd CDP
+30|09250|Brady|Brady CDP
+30|09500|Bridger|Bridger CDP
+30|11200|Busby|Busby CDP
+30|11500|Bynum|Bynum CDP
+30|11800|Camas|Camas CDP
+30|11995|Camp Three|Camp Three CDP
+30|12400|Cardwell|Cardwell CDP
+30|12435|Carlton|Carlton CDP
+30|12625|Carter|Carter CDP
+30|13900|Charlo|Charlo CDP
+30|13975|Charlos Heights|Charlos Heights CDP
+30|14875|Churchill|Churchill CDP
+30|15100|Clancy|Clancy CDP
+30|15475|Clinton|Clinton CDP
+30|17050|Condon|Condon CDP
+30|17200|Conner|Conner CDP
+30|17350|Cooke City|Cooke City CDP
+30|17500|Coram|Coram CDP
+30|17725|Corvallis|Corvallis CDP
+30|17800|Corwin Springs|Corwin Springs CDP
+30|18025|Craig|Craig CDP
+30|18100|Crane|Crane CDP
+30|18250|Crow Agency|Crow Agency CDP
+30|18700|Custer|Custer CDP
+30|19525|Dayton|Dayton CDP
+30|19675|De Borgia|De Borgia CDP
+30|20950|Dixon|Dixon CDP
+30|22450|Dupuyer|Dupuyer CDP
+30|22985|East Glacier Park Village|East Glacier Park Village CDP
+30|23200|East Missoula|East Missoula CDP
+30|23500|Edgar|Edgar CDP
+30|23865|Elkhorn|Elkhorn CDP
+30|23950|Elliston|Elliston CDP
+30|24100|Elmo|Elmo CDP
+30|24325|Emigrant|Emigrant CDP
+30|25000|Evaro|Evaro CDP
+30|25075|Evergreen|Evergreen CDP
+30|25375|Fallon|Fallon CDP
+30|26226|Finley Point|Finley Point CDP
+30|26950|Florence|Florence CDP
+30|27595|Forest Hill Village|Forest Hill Village CDP
+30|27850|Fort Belknap Agency|Fort Belknap Agency CDP
+30|28150|Fortine|Fortine CDP
+30|28600|Fort Shaw|Fort Shaw CDP
+30|28650|Fort Smith|Fort Smith CDP
+30|28862|Four Corners|Four Corners CDP
+30|29087|Fox Lake|Fox Lake CDP
+30|29275|Frazer|Frazer CDP
+30|29350|Frenchtown|Frenchtown CDP
+30|29875|Gallatin Gateway|Gallatin Gateway CDP
+30|29885|Gallatin River Ranch|Gallatin River Ranch CDP
+30|29950|Gardiner|Gardiner CDP
+30|30175|Garrison|Garrison CDP
+30|30550|Geyser|Geyser CDP
+30|30625|Gibson Flats|Gibson Flats CDP
+30|30700|Gildford|Gildford CDP
+30|31250|South Glastonbury|South Glastonbury CDP
+30|33250|Greycliff|Greycliff CDP
+30|34110|Happys Inn|Happys Inn CDP
+30|34525|Harrison|Harrison CDP
+30|35125|Havre North|Havre North CDP
+30|35275|Hays|Hays CDP
+30|35350|Heart Butte|Heart Butte CDP
+30|35435|Hebgen Lake Estates|Hebgen Lake Estates CDP
+30|35622|Helena Flats|Helena Flats CDP
+30|35628|Helena Valley Northeast|Helena Valley Northeast CDP
+30|35631|Helena Valley Northwest|Helena Valley Northwest CDP
+30|35634|Helena Valley Southeast|Helena Valley Southeast CDP
+30|35637|Helena Valley West Central|Helena Valley West Central CDP
+30|35640|Helena West Side|Helena West Side CDP
+30|35875|Heron|Heron CDP
+30|35912|Herron|Herron CDP
+30|36250|Highwood|Highwood CDP
+30|36475|Hinsdale|Hinsdale CDP
+30|38125|Hungry Horse|Hungry Horse CDP
+30|38200|Huntley|Huntley CDP
+30|38275|Huson|Huson CDP
+30|38480|Indian Springs|Indian Springs CDP
+30|38725|Inverness|Inverness CDP
+30|39175|Jardine|Jardine CDP
+30|39400|Jefferson City|Jefferson City CDP
+30|39627|Jette|Jette CDP
+30|39775|Joplin|Joplin CDP
+30|40355|Kerr|Kerr CDP
+30|40580|Kicking Horse|Kicking Horse CDP
+30|40675|Kila|Kila CDP
+30|40685|King Arthur Park|King Arthur Park CDP
+30|40725|Kings Point|Kings Point CDP
+30|41050|Klein|Klein CDP
+30|41087|Knife River|Knife River CDP
+30|41725|Kremlin|Kremlin CDP
+30|41910|Lake Mary Ronan|Lake Mary Ronan CDP
+30|41950|Lakeside|Lakeside CDP
+30|42250|Lame Deer|Lame Deer CDP
+30|43400|Lewistown Heights|Lewistown Heights CDP
+30|43675|Lincoln|Lincoln CDP
+30|43710|Lindisfarne|Lindisfarne CDP
+30|43830|Little Bitterroot Lake|Little Bitterroot Lake CDP
+30|43835|Little Browning|Little Browning CDP
+30|44200|Lockwood|Lockwood CDP
+30|44350|Lodge Pole|Lodge Pole CDP
+30|44500|Logan|Logan CDP
+30|44650|Lolo|Lolo CDP
+30|44800|Loma|Loma CDP
+30|44950|Lonepine|Lonepine CDP
+30|47275|Malmstrom AFB|Malmstrom AFB CDP
+30|47875|Marion|Marion CDP
+30|48100|Martin City|Martin City CDP
+30|48175|Martinsdale|Martinsdale CDP
+30|48250|Marysville|Marysville CDP
+30|48625|Maxville|Maxville CDP
+30|49400|Midvale|Midvale CDP
+30|51175|Montana City|Montana City CDP
+30|52315|Muddy|Muddy CDP
+30|52600|Musselshell|Musselshell CDP
+30|53725|Niarada|Niarada CDP
+30|54510|North Browning|North Browning CDP
+30|54925|Noxon|Noxon CDP
+30|55260|Old Agency|Old Agency CDP
+30|55450|Olney|Olney CDP
+30|55675|Orchard Homes|Orchard Homes CDP
+30|56125|Ovando|Ovando CDP
+30|56350|Pablo|Pablo CDP
+30|56425|Paradise|Paradise CDP
+30|56575|Park City|Park City CDP
+30|56650|Parker School|Parker School CDP
+30|57475|Piltzville|Piltzville CDP
+30|57950|Pioneer Junction|Pioneer Junction CDP
+30|58840|Ponderosa Pines|Ponderosa Pines CDP
+30|58900|Pony|Pony CDP
+30|59500|Power|Power CDP
+30|59725|Pray|Pray CDP
+30|59950|Pryor|Pryor CDP
+30|60450|Rader Creek|Rader Creek CDP
+30|60475|Radersburg|Radersburg CDP
+30|61075|Ravalli|Ravalli CDP
+30|61900|Reed Point|Reed Point CDP
+30|62125|Reserve|Reserve CDP
+30|63042|Riverbend|Riverbend CDP
+30|63400|Roberts|Roberts CDP
+30|63900|Rocky Boy's Agency|Rocky Boy's Agency CDP
+30|63928|Rocky Boy West|Rocky Boy West CDP
+30|63940|Rocky Point|Rocky Point CDP
+30|64075|Rollins|Rollins CDP
+30|64300|Roscoe|Roscoe CDP
+30|64375|Rosebud|Rosebud CDP
+30|64675|Roy|Roy CDP
+30|64900|Rudyard|Rudyard CDP
+30|65065|Saddle Butte|Saddle Butte CDP
+30|65400|St. Marie|St. Marie CDP
+30|65537|St. Pierre|St. Pierre CDP
+30|65575|St. Regis|St. Regis CDP
+30|65650|St. Xavier|St. Xavier CDP
+30|65950|Sand Coulee|Sand Coulee CDP
+30|66212|Sangrey|Sangrey CDP
+30|66250|Santa Rita|Santa Rita CDP
+30|67075|Sedan|Sedan CDP
+30|67150|Seeley Lake|Seeley Lake CDP
+30|67225|Shawmut|Shawmut CDP
+30|67525|Shepherd|Shepherd CDP
+30|68050|Silesia|Silesia CDP
+30|68425|Silver Gate|Silver Gate CDP
+30|68575|Simms|Simms CDP
+30|69475|Somers|Somers CDP
+30|69680|South Browning|South Browning CDP
+30|69725|South Hills|South Hills CDP
+30|69900|Spokane Creek|Spokane Creek CDP
+30|70150|Springdale|Springdale CDP
+30|70375|Springhill|Springhill CDP
+30|70825|Starr School|Starr School CDP
+30|71350|Stockett|Stockett CDP
+30|71575|Stryker|Stryker CDP
+30|71800|Sula|Sula CDP
+30|72380|Sun Prairie|Sun Prairie CDP
+30|72475|Sun River|Sun River CDP
+30|72850|Swan Lake|Swan Lake CDP
+30|73075|Sweet Grass|Sweet Grass CDP
+30|73165|Sylvanite|Sylvanite CDP
+30|73760|The Silos|The Silos CDP
+30|74500|Toston|Toston CDP
+30|74725|Trego|Trego CDP
+30|74950|Trout Creek|Trout Creek CDP
+30|75175|Turah|Turah CDP
+30|75250|Turner|Turner CDP
+30|75287|Turtle Lake|Turtle Lake CDP
+30|75775|Ulm|Ulm CDP
+30|76675|Vaughn|Vaughn CDP
+30|76900|Victor|Victor CDP
+30|78775|Weeksville|Weeksville CDP
+30|79075|West Glacier|West Glacier CDP
+30|79086|West Glendive|West Glendive CDP
+30|79098|West Havre|West Havre CDP
+30|79105|West Kootenai|West Kootenai CDP
+30|79695|Wheatland|Wheatland CDP
+30|79935|White Haven|White Haven CDP
+30|80200|Whitewater|Whitewater CDP
+30|80800|Willow Creek|Willow Creek CDP
+30|80875|Wilsall|Wilsall CDP
+30|80975|Wineglass|Wineglass CDP
+30|81175|Winston|Winston CDP
+30|81250|Wisdom|Wisdom CDP
+30|81700|Woods Bay|Woods Bay CDP
+30|81925|Worden|Worden CDP
+30|81980|Wye|Wye CDP
+30|82075|Wyola|Wyola CDP
+30|82130|Yaak|Yaak CDP
+30|82675|Zortman|Zortman CDP

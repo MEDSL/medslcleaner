@@ -1,0 +1,48 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+34|01770|Black Horse Pike Regional School District|Black Horse Pike Regional School District
+34|02800|Carlstadt-East Rutherford School District|Carlstadt-East Rutherford School District
+34|02880|Sterling High School Dist School District|Sterling High School Dist School District
+34|02910|Central Regional School District|Central Regional School District
+34|03210|Clearview Regional School District|Clearview Regional School District
+34|03620|Cumberland Regional School District|Cumberland Regional School District
+34|03750|Delaware Valley Regional School District|Delaware Valley Regional School District
+34|04380|Eastern Camden County Regional School District|Eastern Camden County Regional School District
+34|05610|Freehold Regional School District|Freehold Regional School District
+34|05820|Gateway Regional School District|Gateway Regional School District
+34|06060|Greater Egg Harbor Regional School District|Greater Egg Harbor Regional School District
+34|06660|Hanover Park Regional School District|Hanover Park Regional School District
+34|07050|Henry Hudson Regional School District|Henry Hudson Regional School District
+34|07140|High Point Regional School District|High Point Regional School District
+34|07590|Hunterdon Central Regional School District|Hunterdon Central Regional School District
+34|07980|Kingsway Regional School District|Kingsway Regional School District
+34|08060|Kittatinny Regional School District|Kittatinny Regional School District
+34|08190|Lakeland Regional School District|Lakeland Regional School District
+34|08490|Lenape Regional School District|Lenape Regional School District
+34|08500|Lenape Valley Regional School District|Lenape Valley Regional School District
+34|09090|Lower Cape May Regional School District|Lower Cape May Regional School District
+34|09360|Mainland Regional School District|Mainland Regional School District
+34|09550|North Warren Regional School District|North Warren Regional School District
+34|10440|Monmouth Regional School District|Monmouth Regional School District
+34|10740|Morris Hills Regional School District|Morris Hills Regional School District
+34|11610|North Hunterdon-Voorhees Regional School District|North Hunterdon-Voorhees Regional School District
+34|11700|Northern Burlington Regional School District|Northern Burlington Regional School District
+34|11730|Northern Highlands Regional School District|Northern Highlands Regional School District
+34|11760|Northern Valley Regional School District|Northern Valley Regional School District
+34|12260|River Dell Regional School District|River Dell Regional School District
+34|12510|Pascack Valley Regional School District|Pascack Valley Regional School District
+34|12570|Passaic Valley Regional School District|Passaic Valley Regional School District
+34|12600|Passaic County Manchester Regional School District|Passaic County Manchester Regional School District
+34|13000|Pinelands Regional School District|Pinelands Regional School District
+34|13560|Ramapo-Indian Hill Regional School District|Ramapo-Indian Hill Regional School District
+34|13620|Rancocas Valley Regional School District|Rancocas Valley Regional School District
+34|13750|Red Bank Regional School District|Red Bank Regional School District
+34|14400|Rumson-Fair Haven Regional School District|Rumson-Fair Haven Regional School District
+34|14940|Shore Regional School District|Shore Regional School District
+34|15300|South Hunterdon Regional School District|South Hunterdon Regional School District
+34|15450|Delsea Regional High School School District|Delsea Regional High School School District
+34|15480|Southern Regional School District|Southern Regional School District
+34|16870|Wallkill Valley Regional School District|Wallkill Valley Regional School District
+34|16970|Warren Hills Regional School District|Warren Hills Regional School District
+34|17220|Watchung Hills Regional School District|Watchung Hills Regional School District
+34|17460|West Essex Regional School District|West Essex Regional School District
+34|17550|West Morris Regional School District|West Morris Regional School District

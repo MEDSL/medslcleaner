@@ -1,0 +1,4 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+48|0050|Alabama-Coushatta|Alabama-Coushatta Reservation and Off-Reservation Trust Land
+48|1775|Kickapoo (TX)|Kickapoo (TX) Reservation
+48|4755|Ysleta del Sur|Ysleta del Sur Pueblo and Off-Reservation Trust Land

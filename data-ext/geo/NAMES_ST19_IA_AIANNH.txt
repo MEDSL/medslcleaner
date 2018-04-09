@@ -1,0 +1,5 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+19|2550|Omaha|Omaha Reservation
+19|2900|Ponca (NE)|Ponca (NE) Trust Land
+19|3280|Sac and Fox/Meskwaki|Sac and Fox/Meskwaki Settlement
+19|4625|Winnebago|Winnebago Reservation and Off-Reservation Trust Land

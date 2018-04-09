@@ -1,0 +1,12 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+41|0400|Burns Paiute|Burns Paiute Indian Colony and Off-Reservation Trust Land
+41|0560|Celilo|Celilo Village
+41|0770|Coos, Lower Umpqua, and Siuslaw|Coos, Lower Umpqua, and Siuslaw Reservation and Off-Reservation Trust Land
+41|0775|Coquille|Coquille Reservation
+41|0815|Cow Creek|Cow Creek Reservation and Off-Reservation Trust Land
+41|1210|Fort McDermitt|Fort McDermitt Indian Reservation
+41|1365|Grand Ronde|Grand Ronde Community and Off-Reservation Trust Land
+41|1785|Klamath|Klamath Reservation
+41|3795|Siletz|Siletz Reservation and Off-Reservation Trust Land
+41|4405|Umatilla|Umatilla Reservation
+41|4545|Warm Springs|Warm Springs Reservation and Off-Reservation Trust Land

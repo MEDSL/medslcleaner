@@ -1,0 +1,569 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+18|00640|Advance|Advance town
+18|00748|Akron|Akron town
+18|00784|Alamo|Alamo town
+18|00802|Albany|Albany town
+18|00820|Albion|Albion town
+18|00910|Alexandria|Alexandria city
+18|00964|Alfordsville|Alfordsville town
+18|01270|Alton|Alton town
+18|01288|Altona|Altona town
+18|01342|Ambia|Ambia town
+18|01360|Amboy|Amboy town
+18|01450|Amo|Amo town
+18|01468|Anderson|Anderson city
+18|01612|Andrews|Andrews town
+18|01666|Angola|Angola city
+18|01954|Arcadia|Arcadia town
+18|02044|Argos|Argos town
+18|02458|Ashley|Ashley town
+18|02602|Atlanta|Atlanta town
+18|02620|Attica|Attica city
+18|02674|Auburn|Auburn city
+18|02782|Aurora|Aurora city
+18|02800|Austin|Austin city
+18|02872|Avilla|Avilla town
+18|02908|Avon|Avon town
+18|03142|Bainbridge|Bainbridge town
+18|03394|Bargersville|Bargersville town
+18|03664|Batesville|Batesville city
+18|03718|Battle Ground|Battle Ground town
+18|04114|Bedford|Bedford city
+18|04204|Beech Grove|Beech Grove city
+18|04888|Berne|Berne city
+18|04978|Bethany|Bethany town
+18|05158|Beverly Shores|Beverly Shores town
+18|05176|Bicknell|Bicknell city
+18|05374|Birdseye|Birdseye town
+18|05716|Bloomfield|Bloomfield town
+18|05788|Bloomingdale|Bloomingdale town
+18|05860|Bloomington|Bloomington city
+18|05896|Blountsville|Blountsville town
+18|06220|Bluffton|Bluffton city
+18|06616|Boonville|Boonville city
+18|06634|Borden|Borden town
+18|06652|Boston|Boston town
+18|06706|Boswell|Boswell town
+18|06760|Bourbon|Bourbon town
+18|07174|Brazil|Brazil city
+18|07318|Bremen|Bremen town
+18|07750|Bristol|Bristol town
+18|07966|Brook|Brook town
+18|08038|Brooklyn|Brooklyn town
+18|08092|Brooksburg|Brooksburg town
+18|08146|Brookston|Brookston town
+18|08182|Brookville|Brookville town
+18|08416|Brownsburg|Brownsburg town
+18|08470|Brownstown|Brownstown town
+18|08578|Bruceville|Bruceville town
+18|08704|Bryant|Bryant town
+18|09136|Bunker Hill|Bunker Hill town
+18|09226|Burket|Burket town
+18|09244|Burlington|Burlington town
+18|09316|Burnettsville|Burnettsville town
+18|09370|Burns Harbor|Burns Harbor town
+18|09532|Butler|Butler city
+18|09712|Cadiz|Cadiz town
+18|09874|Cambridge City|Cambridge City town
+18|09910|Camden|Camden town
+18|10000|Campbellsburg|Campbellsburg town
+18|10090|Cannelburg|Cannelburg town
+18|10108|Cannelton|Cannelton city
+18|10198|Carbon|Carbon town
+18|10270|Carlisle|Carlisle town
+18|10342|Carmel|Carmel city
+18|10612|Carthage|Carthage town
+18|10954|Cayuga|Cayuga town
+18|11044|Cedar Grove|Cedar Grove town
+18|11062|Cedar Lake|Cedar Lake town
+18|11746|Center Point|Center Point town
+18|11836|Centerville|Centerville town
+18|11944|Chalmers|Chalmers town
+18|12034|Chandler|Chandler town
+18|12124|Charlestown|Charlestown city
+18|12376|Chesterfield|Chesterfield town
+18|12412|Chesterton|Chesterton town
+18|12574|Chrisney|Chrisney town
+18|12610|Churubusco|Churubusco town
+18|12628|Cicero|Cicero town
+18|12898|Clarks Hill|Clarks Hill town
+18|12934|Clarksville|Clarksville town
+18|13276|Clay City|Clay City town
+18|13312|Claypool|Claypool town
+18|13366|Clayton|Clayton town
+18|13438|Clear Lake|Clear Lake town
+18|13492|Clermont|Clermont town
+18|13582|Clifford|Clifford town
+18|13780|Clinton|Clinton city
+18|13852|Cloverdale|Cloverdale town
+18|14050|Coatesville|Coatesville town
+18|14284|Colfax|Colfax town
+18|14716|Columbia City|Columbia City city
+18|14734|Columbus|Columbus city
+18|14932|Connersville|Connersville city
+18|14986|Converse|Converse town
+18|15220|Corunna|Corunna town
+18|15256|Corydon|Corydon town
+18|15364|Country Club Heights|Country Club Heights town
+18|15490|Covington|Covington city
+18|15634|Crandall|Crandall town
+18|15652|Crane|Crane town
+18|15742|Crawfordsville|Crawfordsville city
+18|15994|Cromwell|Cromwell town
+18|16084|Crothersville|Crothersville town
+18|16138|Crown Point|Crown Point city
+18|16156|Crows Nest|Crows Nest town
+18|16300|Culver|Culver town
+18|16336|Cumberland|Cumberland town
+18|16534|Cynthiana|Cynthiana town
+18|16624|Dale|Dale town
+18|16642|Daleville|Daleville town
+18|16732|Dana|Dana town
+18|16804|Danville|Danville town
+18|16840|Darlington|Darlington town
+18|16858|Darmstadt|Darmstadt town
+18|17002|Dayton|Dayton town
+18|17074|Decatur|Decatur city
+18|17110|Decker|Decker town
+18|17614|Delphi|Delphi city
+18|17722|De Motte|De Motte town
+18|17776|Denver|Denver town
+18|18190|Dillsboro|Dillsboro town
+18|18766|Dublin|Dublin town
+18|18892|Dugger|Dugger town
+18|18982|Dune Acres|Dune Acres town
+18|19054|Dunkirk|Dunkirk city
+18|19162|Dunreith|Dunreith town
+18|19180|Dupont|Dupont town
+18|19270|Dyer|Dyer town
+18|19450|Earl Park|Earl Park town
+18|19486|East Chicago|East Chicago city
+18|19756|East Germantown|East Germantown town
+18|20080|Eaton|Eaton town
+18|20152|Economy|Economy town
+18|20332|Edgewood|Edgewood town
+18|20404|Edinburgh|Edinburgh town
+18|20458|Edwardsport|Edwardsport town
+18|20638|Elberfeld|Elberfeld town
+18|20674|Elizabeth|Elizabeth town
+18|20692|Elizabethtown|Elizabethtown town
+18|20728|Elkhart|Elkhart city
+18|20800|Ellettsville|Ellettsville town
+18|20998|Elnora|Elnora town
+18|21070|Elwood|Elwood city
+18|21214|English|English town
+18|21502|Etna Green|Etna Green town
+18|22000|Evansville|Evansville city
+18|22396|Fairland|Fairland town
+18|22432|Fairmount|Fairmount town
+18|22576|Fairview Park|Fairview Park town
+18|22738|Farmersburg|Farmersburg town
+18|22792|Farmland|Farmland town
+18|22990|Ferdinand|Ferdinand town
+18|23188|Fillmore|Fillmore town
+18|23278|Fishers|Fishers town
+18|23692|Flora|Flora town
+18|24250|Fort Branch|Fort Branch town
+18|24286|Fortville|Fortville town
+18|25000|Fort Wayne|Fort Wayne city
+18|25090|Fountain City|Fountain City town
+18|25180|Fowler|Fowler town
+18|25198|Fowlerton|Fowlerton town
+18|25288|Francesville|Francesville town
+18|25306|Francisco|Francisco town
+18|25324|Frankfort|Frankfort city
+18|25450|Franklin|Franklin city
+18|25702|Frankton|Frankton town
+18|25720|Fredericksburg|Fredericksburg town
+18|25882|Fremont|Fremont town
+18|25972|French Lick|French Lick town
+18|26152|Fulton|Fulton town
+18|26242|Galveston|Galveston town
+18|26386|Garrett|Garrett city
+18|27000|Gary|Gary city
+18|27054|Gas City|Gas City city
+18|27072|Gaston|Gaston town
+18|27216|Geneva|Geneva town
+18|27270|Gentryville|Gentryville town
+18|27324|Georgetown|Georgetown town
+18|28062|Glenwood|Glenwood town
+18|28332|Goodland|Goodland town
+18|28386|Goshen|Goshen city
+18|28440|Gosport|Gosport town
+18|28494|Grabill|Grabill town
+18|28692|Grandview|Grandview town
+18|29358|Greencastle|Greencastle city
+18|29448|Greendale|Greendale city
+18|29520|Greenfield|Greenfield city
+18|29682|Greensboro|Greensboro town
+18|29718|Greensburg|Greensburg city
+18|29754|Greens Fork|Greens Fork town
+18|29772|Greentown|Greentown town
+18|29844|Greenville|Greenville town
+18|29898|Greenwood|Greenwood city
+18|30024|Griffin|Griffin town
+18|30042|Griffith|Griffith town
+18|30402|Hagerstown|Hagerstown town
+18|30594|Hamilton|Hamilton town
+18|30708|Hamlet|Hamlet town
+18|31000|Hammond|Hammond city
+18|31216|Hanover|Hanover town
+18|31396|Hardinsburg|Hardinsburg town
+18|31486|Harmony|Harmony town
+18|32242|Hartford City|Hartford City city
+18|32332|Hartsville|Hartsville town
+18|32512|Haubstadt|Haubstadt town
+18|32728|Hazleton|Hazleton town
+18|32818|Hebron|Hebron town
+18|33466|Highland|Highland town
+18|33862|Hillsboro|Hillsboro town
+18|34114|Hobart|Hobart city
+18|34294|Holland|Holland town
+18|34366|Holton|Holton town
+18|34420|Homecroft|Homecroft town
+18|34744|Hope|Hope town
+18|35086|Hudson|Hudson town
+18|35266|Huntertown|Huntertown town
+18|35284|Huntingburg|Huntingburg city
+18|35302|Huntington|Huntington city
+18|35500|Hymera|Hymera town
+18|36003|Indianapolis city (balance)|Indianapolis city (balance)
+18|36306|Indian Village|Indian Village town
+18|36342|Ingalls|Ingalls town
+18|37692|Jamestown|Jamestown town
+18|37764|Jasonville|Jasonville city
+18|37782|Jasper|Jasper city
+18|38358|Jeffersonville|Jeffersonville city
+18|38862|Jonesboro|Jonesboro city
+18|38916|Jonesville|Jonesville town
+18|39366|Kempton|Kempton town
+18|39402|Kendallville|Kendallville city
+18|39438|Kennard|Kennard town
+18|39546|Kentland|Kentland town
+18|39618|Kewanna|Kewanna town
+18|39798|Kingman|Kingman town
+18|39816|Kingsbury|Kingsbury town
+18|39852|Kingsford Heights|Kingsford Heights town
+18|39942|Kirklin|Kirklin town
+18|40266|Knightstown|Knightstown town
+18|40302|Knightsville|Knightsville town
+18|40374|Knox|Knox city
+18|40392|Kokomo|Kokomo city
+18|40518|Kouts|Kouts town
+18|40644|Laconia|Laconia town
+18|40662|La Crosse|La Crosse town
+18|40698|Ladoga|Ladoga town
+18|40788|Lafayette|Lafayette city
+18|40842|La Fontaine|La Fontaine town
+18|40860|Lagrange|Lagrange town
+18|40896|Lagro|Lagro town
+18|41535|Lake Station|Lake Station city
+18|41670|Lakeville|Lakeville town
+18|42048|Lanesville|Lanesville town
+18|42192|La Paz|La Paz town
+18|42228|Lapel|Lapel town
+18|42246|La Porte|La Porte city
+18|42282|Larwill|Larwill town
+18|42372|Laurel|Laurel town
+18|42426|Lawrence|Lawrence city
+18|42462|Lawrenceburg|Lawrenceburg city
+18|42606|Leavenworth|Leavenworth town
+18|42624|Lebanon|Lebanon city
+18|42678|Leesburg|Leesburg town
+18|42861|Leo-Cedarville|Leo-Cedarville town
+18|43074|Lewisville|Lewisville town
+18|43434|Liberty|Liberty town
+18|43686|Ligonier|Ligonier city
+18|44082|Linden|Linden town
+18|44190|Linton|Linton city
+18|44370|Little York|Little York town
+18|44424|Livonia|Livonia town
+18|44442|Lizton|Lizton town
+18|44658|Logansport|Logansport city
+18|44784|Long Beach|Long Beach town
+18|44910|Loogootee|Loogootee city
+18|45000|Losantville|Losantville town
+18|45144|Lowell|Lowell town
+18|45468|Lynn|Lynn town
+18|45486|Lynnville|Lynnville town
+18|45504|Lyons|Lyons town
+18|45648|McCordsville|McCordsville town
+18|45774|Mackey|Mackey town
+18|45864|Macy|Macy town
+18|45990|Madison|Madison city
+18|46746|Marengo|Marengo town
+18|46908|Marion|Marion city
+18|47160|Markle|Markle town
+18|47178|Markleville|Markleville town
+18|47322|Marshall|Marshall town
+18|47448|Martinsville|Martinsville city
+18|47592|Matthews|Matthews town
+18|47628|Mauckport|Mauckport town
+18|48132|Mecca|Mecca town
+18|48186|Medaryville|Medaryville town
+18|48240|Medora|Medora town
+18|48294|Mellott|Mellott town
+18|48402|Mentone|Mentone town
+18|48456|Meridian Hills|Meridian Hills town
+18|48474|Merom|Merom town
+18|48528|Merrillville|Merrillville town
+18|48744|Michiana Shores|Michiana Shores town
+18|48798|Michigan City|Michigan City city
+18|48816|Michigantown|Michigantown town
+18|48924|Middlebury|Middlebury town
+18|49014|Middletown|Middletown town
+18|49266|Milan|Milan town
+18|49320|Milford|Milford town
+18|49536|Millersburg|Millersburg town
+18|49662|Millhousen|Millhousen town
+18|49716|Milltown|Milltown town
+18|49860|Milton|Milton town
+18|49932|Mishawaka|Mishawaka city
+18|49950|Mitchell|Mitchell city
+18|50058|Modoc|Modoc town
+18|50148|Monon|Monon town
+18|50202|Monroe|Monroe town
+18|50526|Monroe City|Monroe City town
+18|50562|Monroeville|Monroeville town
+18|50580|Monrovia|Monrovia town
+18|50616|Monterey|Monterey town
+18|50652|Montezuma|Montezuma town
+18|50688|Montgomery|Montgomery town
+18|50760|Monticello|Monticello city
+18|50796|Montpelier|Montpelier city
+18|50940|Mooreland|Mooreland town
+18|50958|Moores Hill|Moores Hill town
+18|50976|Mooresville|Mooresville town
+18|51102|Morgantown|Morgantown town
+18|51138|Morocco|Morocco town
+18|51192|Morristown|Morristown town
+18|51318|Mount Auburn|Mount Auburn town
+18|51336|Mount Ayr|Mount Ayr town
+18|51354|Mount Carmel|Mount Carmel town
+18|51408|Mount Etna|Mount Etna town
+18|51714|Mount Summit|Mount Summit town
+18|51732|Mount Vernon|Mount Vernon city
+18|51840|Mulberry|Mulberry town
+18|51876|Muncie|Muncie city
+18|51912|Munster|Munster town
+18|52002|Napoleon|Napoleon town
+18|52020|Nappanee|Nappanee city
+18|52038|Nashville|Nashville town
+18|52326|New Albany|New Albany city
+18|52398|New Amsterdam|New Amsterdam town
+18|52524|Newberry|Newberry town
+18|52650|Newburgh|Newburgh town
+18|52704|New Carlisle|New Carlisle town
+18|52740|New Castle|New Castle city
+18|52776|New Chicago|New Chicago town
+18|52974|New Harmony|New Harmony town
+18|52992|New Haven|New Haven city
+18|53262|New Market|New Market town
+18|53298|New Middletown|New Middletown town
+18|53352|New Palestine|New Palestine town
+18|53388|New Pekin|New Pekin town
+18|53478|New Point|New Point town
+18|53496|Newport|Newport town
+18|53532|New Richmond|New Richmond town
+18|53550|New Ross|New Ross town
+18|53694|Newtown|Newtown town
+18|53874|New Whiteland|New Whiteland town
+18|54180|Noblesville|Noblesville city
+18|54612|North Crows Nest|North Crows Nest town
+18|54900|North Judson|North Judson town
+18|54918|North Liberty|North Liberty town
+18|54954|North Manchester|North Manchester town
+18|55080|North Salem|North Salem town
+18|55116|North Vernon|North Vernon city
+18|55134|North Webster|North Webster town
+18|55710|Oakland City|Oakland City city
+18|55800|Oaktown|Oaktown town
+18|56052|Odon|Odon town
+18|56088|Ogden Dunes|Ogden Dunes town
+18|56286|Oldenburg|Oldenburg town
+18|56664|Onward|Onward town
+18|56682|Oolitic|Oolitic town
+18|56952|Orestes|Orestes town
+18|57006|Orland|Orland town
+18|57024|Orleans|Orleans town
+18|57114|Osceola|Osceola town
+18|57132|Osgood|Osgood town
+18|57168|Ossian|Ossian town
+18|57258|Otterbein|Otterbein town
+18|57528|Owensville|Owensville town
+18|57546|Oxford|Oxford town
+18|57726|Palmyra|Palmyra town
+18|57780|Paoli|Paoli town
+18|57870|Paragon|Paragon town
+18|57978|Parker City|Parker City town
+18|58320|Patoka|Patoka town
+18|58392|Patriot|Patriot town
+18|58662|Pendleton|Pendleton town
+18|58788|Pennville|Pennville town
+18|59238|Perrysville|Perrysville town
+18|59328|Peru|Peru city
+18|59364|Petersburg|Petersburg city
+18|59598|Pierceton|Pierceton town
+18|60084|Pine Village|Pine Village town
+18|60192|Pittsboro|Pittsboro town
+18|60246|Plainfield|Plainfield town
+18|60264|Plainville|Plainville town
+18|60822|Plymouth|Plymouth city
+18|61020|Poneto|Poneto town
+18|61092|Portage|Portage city
+18|61164|Porter|Porter town
+18|61236|Portland|Portland city
+18|61416|Poseyville|Poseyville town
+18|61470|Pottawattamie Park|Pottawattamie Park town
+18|62028|Princes Lakes|Princes Lakes town
+18|62046|Princeton|Princeton city
+18|63450|Redkey|Redkey town
+18|63756|Remington|Remington town
+18|63792|Rensselaer|Rensselaer city
+18|63918|Reynolds|Reynolds town
+18|64206|Richland|Richland town
+18|64260|Richmond|Richmond city
+18|64422|Ridgeville|Ridgeville town
+18|64512|Riley|Riley town
+18|64674|Rising Sun|Rising Sun city
+18|64728|River Forest|River Forest town
+18|64980|Roachdale|Roachdale town
+18|64998|Roann|Roann town
+18|65016|Roanoke|Roanoke town
+18|65214|Rochester|Rochester city
+18|65484|Rockport|Rockport city
+18|65520|Rockville|Rockville town
+18|65556|Rocky Ripple|Rocky Ripple town
+18|65808|Rome City|Rome City town
+18|65934|Rosedale|Rosedale town
+18|65988|Roseland|Roseland town
+18|66150|Rossville|Rossville town
+18|66222|Royal Center|Royal Center town
+18|66438|Rushville|Rushville city
+18|66510|Russellville|Russellville town
+18|66546|Russiaville|Russiaville town
+18|66834|St. Joe|St. Joe town
+18|66852|St. John|St. John town
+18|66978|St. Leon|St. Leon town
+18|67212|St. Paul|St. Paul town
+18|67302|Salamonia|Salamonia town
+18|67464|Salem|Salem city
+18|67626|Saltillo|Saltillo town
+18|67698|Sandborn|Sandborn town
+18|68022|Santa Claus|Santa Claus town
+18|68058|Saratoga|Saratoga town
+18|68220|Schererville|Schererville town
+18|68238|Schneider|Schneider town
+18|68526|Scottsburg|Scottsburg city
+18|68652|Seelyville|Seelyville town
+18|68670|Sellersburg|Sellersburg town
+18|68706|Selma|Selma town
+18|68832|Seymour|Seymour city
+18|68868|Shadeland|Shadeland town
+18|68976|Shamrock Lakes|Shamrock Lakes town
+18|69048|Sharpsville|Sharpsville town
+18|69192|Shelburn|Shelburn town
+18|69318|Shelbyville|Shelbyville city
+18|69354|Sheridan|Sheridan town
+18|69480|Shipshewana|Shipshewana town
+18|69516|Shirley|Shirley town
+18|69552|Shoals|Shoals town
+18|69678|Sidney|Sidney town
+18|69768|Silver Lake|Silver Lake town
+18|70542|Somerville|Somerville town
+18|71000|South Bend|South Bend city
+18|71486|Southport|Southport city
+18|71612|South Whitley|South Whitley town
+18|71828|Speedway|Speedway town
+18|71972|Spencer|Spencer town
+18|72008|Spiceland|Spiceland town
+18|72206|Spring Grove|Spring Grove town
+18|72232|Spring Hill|Spring Hill town
+18|72296|Spring Lake|Spring Lake town
+18|72332|Springport|Springport town
+18|72440|Spurgeon|Spurgeon town
+18|72764|State Line City|State Line City town
+18|72782|Staunton|Staunton town
+18|73178|Stilesville|Stilesville town
+18|73232|Stinesville|Stinesville town
+18|73664|Straughn|Straughn town
+18|74006|Sullivan|Sullivan city
+18|74060|Sulphur Springs|Sulphur Springs town
+18|74132|Summitville|Summitville town
+18|74168|Sunman|Sunman town
+18|74510|Swayzee|Swayzee town
+18|74546|Sweetser|Sweetser town
+18|74582|Switz City|Switz City town
+18|74744|Syracuse|Syracuse town
+18|75248|Tell City|Tell City city
+18|75302|Tennyson|Tennyson town
+18|75428|Terre Haute|Terre Haute city
+18|75626|Thorntown|Thorntown town
+18|75986|Tipton|Tipton city
+18|76184|Topeka|Topeka town
+18|76256|Town of Pines|Town of Pines town
+18|76310|Trafalgar|Trafalgar town
+18|76328|Trail Creek|Trail Creek town
+18|76634|Troy|Troy town
+18|77066|Ulen|Ulen town
+18|77768|Union City|Union City city
+18|77786|Uniondale|Uniondale town
+18|77912|Universal|Universal town
+18|77966|Upland|Upland town
+18|78110|Utica|Utica town
+18|78326|Valparaiso|Valparaiso city
+18|78470|Van Buren|Van Buren town
+18|78740|Veedersburg|Veedersburg town
+18|78776|Vera Cruz|Vera Cruz town
+18|78902|Vernon|Vernon town
+18|78974|Versailles|Versailles town
+18|79010|Vevay|Vevay town
+18|79208|Vincennes|Vincennes city
+18|79370|Wabash|Wabash city
+18|79478|Wakarusa|Wakarusa town
+18|79694|Walkerton|Walkerton town
+18|79730|Wallace|Wallace town
+18|79964|Walton|Walton town
+18|80018|Wanatah|Wanatah town
+18|80108|Warren|Warren town
+18|80234|Warren Park|Warren Park town
+18|80306|Warsaw|Warsaw city
+18|80504|Washington|Washington city
+18|81278|Waterloo|Waterloo town
+18|81458|Waveland|Waveland town
+18|82052|Waynetown|Waynetown town
+18|82376|West Baden Springs|West Baden Springs town
+18|82556|West College Corner|West College Corner town
+18|82700|Westfield|Westfield town
+18|82790|West Harrison|West Harrison town
+18|82862|West Lafayette|West Lafayette city
+18|82934|West Lebanon|West Lebanon town
+18|83276|Westport|Westport town
+18|83384|West Terre Haute|West Terre Haute town
+18|83420|Westville|Westville town
+18|83528|Wheatfield|Wheatfield town
+18|83564|Wheatland|Wheatland town
+18|83816|Whiteland|Whiteland town
+18|84014|Whitestown|Whitestown town
+18|84086|Whitewater|Whitewater town
+18|84122|Whiting|Whiting city
+18|84302|Wilkinson|Wilkinson town
+18|84374|Williams Creek|Williams Creek town
+18|84410|Williamsport|Williamsport town
+18|84734|Winamac|Winamac town
+18|84752|Winchester|Winchester city
+18|84806|Windfall City|Windfall City town
+18|84878|Winfield|Winfield town
+18|84914|Wingate|Wingate town
+18|84950|Winona Lake|Winona Lake town
+18|84968|Winslow|Winslow town
+18|85058|Wolcott|Wolcott town
+18|85076|Wolcottville|Wolcottville town
+18|85184|Woodburn|Woodburn city
+18|85400|Woodlawn Heights|Woodlawn Heights town
+18|85598|Worthington|Worthington town
+18|85742|Wynnedale|Wynnedale town
+18|85886|Yeoman|Yeoman town
+18|86084|Yorktown|Yorktown town
+18|86318|Zanesville|Zanesville town
+18|86372|Zionsville|Zionsville town

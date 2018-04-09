@@ -1,0 +1,6 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+38|1160|Fort Berthold|Fort Berthold Reservation
+38|1860|Lake Traverse|Lake Traverse Reservation and Off-Reservation Trust Land
+38|3935|Spirit Lake|Spirit Lake Reservation
+38|3970|Standing Rock|Standing Rock Reservation
+38|4345|Turtle Mountain|Turtle Mountain Reservation and Off-Reservation Trust Land

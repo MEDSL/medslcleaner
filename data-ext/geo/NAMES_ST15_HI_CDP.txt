@@ -1,0 +1,152 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+15|00400|Ahuimanu|Ahuimanu CDP
+15|00550|Aiea|Aiea CDP
+15|01085|Ainaloa|Ainaloa CDP
+15|02200|Anahola|Anahola CDP
+15|03850|Captain Cook|Captain Cook CDP
+15|05900|Discovery Harbour|Discovery Harbour CDP
+15|06290|East Honolulu|East Honolulu CDP
+15|06325|Eden Roc|Eden Roc CDP
+15|07000|Eleele|Eleele CDP
+15|07450|Ewa Beach|Ewa Beach CDP
+15|07470|Ewa Gentry|Ewa Gentry CDP
+15|07485|Ewa Villages|Ewa Villages CDP
+15|07542|Fern Acres|Fern Acres CDP
+15|07675|Fern Forest|Fern Forest CDP
+15|08950|Haena|Haena CDP
+15|09260|Haiku-Pauwela|Haiku-Pauwela CDP
+15|09700|Halaula|Halaula CDP
+15|10000|Halawa|Halawa CDP
+15|10750|Haleiwa|Haleiwa CDP
+15|10900|Haliimaile|Haliimaile CDP
+15|11350|Hana|Hana CDP
+15|11500|Hanalei|Hanalei CDP
+15|11650|Hanamaulu|Hanamaulu CDP
+15|11800|Hanapepe|Hanapepe CDP
+15|12400|Hauula|Hauula CDP
+15|12450|Hawaiian Acres|Hawaiian Acres CDP
+15|12500|Hawaiian Beaches|Hawaiian Beaches CDP
+15|12530|Hawaiian Ocean View|Hawaiian Ocean View CDP
+15|12600|Hawaiian Paradise Park|Hawaiian Paradise Park CDP
+15|13600|Hawi|Hawi CDP
+15|13900|Heeia|Heeia CDP
+15|14200|Hickam Housing|Hickam Housing CDP
+15|14650|Hilo|Hilo CDP
+15|15700|Holualoa|Holualoa CDP
+15|16000|Honalo|Honalo CDP
+15|16160|Honaunau-Napoopoo|Honaunau-Napoopoo CDP
+15|16450|Honokaa|Honokaa CDP
+15|17450|Honomu|Honomu CDP
+15|19100|Iroquois Point|Iroquois Point CDP
+15|19550|Kaaawa|Kaaawa CDP
+15|20000|Kaanapali|Kaanapali CDP
+15|21200|Kahaluu|Kahaluu CDP
+15|21230|Kahaluu-Keauhou|Kahaluu-Keauhou CDP
+15|22250|Kahuku|Kahuku CDP
+15|22700|Kahului|Kahului CDP
+15|23000|Kailua|Kailua CDP
+15|23150|Kailua|Kailua CDP
+15|24850|Kalaeloa|Kalaeloa CDP
+15|24950|Kalaheo|Kalaheo CDP
+15|25400|Kalaoa|Kalaoa CDP
+15|26750|Kalihiwai|Kalihiwai CDP
+15|28250|Kaneohe|Kaneohe CDP
+15|28400|Kaneohe Station|Kaneohe Station CDP
+15|28850|Kapaa|Kapaa CDP
+15|29000|Kapaau|Kapaau CDP
+15|29725|Kapalua|Kapalua CDP
+15|30300|Kapolei|Kapolei CDP
+15|30650|Kaumakani|Kaumakani CDP
+15|31100|Kaunakakai|Kaunakakai CDP
+15|32700|Kawela Bay|Kawela Bay CDP
+15|32900|Keaau|Keaau CDP
+15|33950|Kealakekua|Kealakekua CDP
+15|35600|Kekaha|Kekaha CDP
+15|36050|Keokea|Keokea CDP
+15|36500|Kihei|Kihei CDP
+15|36650|Kilauea|Kilauea CDP
+15|39200|Koloa|Koloa CDP
+15|39400|Ko Olina|Ko Olina CDP
+15|39500|Kualapuu|Kualapuu CDP
+15|41000|Kukuihaele|Kukuihaele CDP
+15|41600|Kula|Kula CDP
+15|42800|Kurtistown|Kurtistown CDP
+15|42950|Lahaina|Lahaina CDP
+15|43250|Laie|Laie CDP
+15|43700|Lanai City|Lanai City CDP
+15|44075|Launiupoko|Launiupoko CDP
+15|44150|Laupahoehoe|Laupahoehoe CDP
+15|44450|Lawai|Lawai CDP
+15|44562|Leilani Estates|Leilani Estates CDP
+15|45200|Lihue|Lihue CDP
+15|46400|Maalaea|Maalaea CDP
+15|47050|Mahinahina|Mahinahina CDP
+15|47300|Maili|Maili CDP
+15|47450|Makaha|Makaha CDP
+15|47560|Makaha Valley|Makaha Valley CDP
+15|47600|Makakilo|Makakilo CDP
+15|48050|Makawao|Makawao CDP
+15|48350|Makena|Makena CDP
+15|49425|Manele|Manele CDP
+15|50150|Maunaloa|Maunaloa CDP
+15|50750|Maunawili|Maunawili CDP
+15|51000|Mililani Mauka|Mililani Mauka CDP
+15|51050|Mililani Town|Mililani Town CDP
+15|52550|Mokuleia|Mokuleia CDP
+15|53300|Mountain View|Mountain View CDP
+15|53600|Naalehu|Naalehu CDP
+15|53900|Nanakuli|Nanakuli CDP
+15|53975|Nanawale Estates|Nanawale Estates CDP
+15|54100|Napili-Honokowai|Napili-Honokowai CDP
+15|56685|Ocean Pointe|Ocean Pointe CDP
+15|57350|Olinda|Olinda CDP
+15|57650|Olowalu|Olowalu CDP
+15|57800|Omao|Omao CDP
+15|58775|Orchidlands Estates|Orchidlands Estates CDP
+15|59300|Paauilo|Paauilo CDP
+15|59750|Pahala|Pahala CDP
+15|59900|Pahoa|Pahoa CDP
+15|60200|Paia|Paia CDP
+15|60350|Pakala Village|Pakala Village CDP
+15|61550|Papaikou|Papaikou CDP
+15|61700|Paukaa|Paukaa CDP
+15|62600|Pearl City|Pearl City CDP
+15|63650|Pepeekeo|Pepeekeo CDP
+15|64550|Poipu|Poipu CDP
+15|65075|Princeville|Princeville CDP
+15|65150|Puako|Puako CDP
+15|65750|Puhi|Puhi CDP
+15|65900|Pukalani|Pukalani CDP
+15|66500|Punaluu|Punaluu CDP
+15|66800|Pupukea|Pupukea CDP
+15|68815|Royal Kunia|Royal Kunia CDP
+15|69050|Schofield Barracks|Schofield Barracks CDP
+15|70700|Ualapu'e|Ualapu'e CDP
+15|71550|Urban Honolulu|Urban Honolulu CDP
+15|72350|Volcano|Volcano CDP
+15|72650|Wahiawa|Wahiawa CDP
+15|74000|Waialua|Waialua CDP
+15|74450|Waianae|Waianae CDP
+15|75510|Waihee-Waiehu|Waihee-Waiehu CDP
+15|75800|Waikane|Waikane CDP
+15|75950|Waikapu|Waikapu CDP
+15|76250|Waikele|Waikele CDP
+15|76600|Waikoloa Village|Waikoloa Village CDP
+15|76925|Wailea|Wailea CDP
+15|77000|Wailua|Wailua CDP
+15|77225|Wailua Homesteads|Wailua Homesteads CDP
+15|77450|Wailuku|Wailuku CDP
+15|77750|Waimalu|Waimalu CDP
+15|78050|Waimanalo|Waimanalo CDP
+15|78200|Waimanalo Beach|Waimanalo Beach CDP
+15|78500|Waimea|Waimea CDP
+15|78800|Waimea|Waimea CDP
+15|78950|Wainaku|Wainaku CDP
+15|79250|Wainiha|Wainiha CDP
+15|79550|Waiohinu|Waiohinu CDP
+15|79700|Waipahu|Waipahu CDP
+15|79860|Waipio|Waipio CDP
+15|80000|Waipio Acres|Waipio Acres CDP
+15|80470|West Loch Estate|West Loch Estate CDP
+15|80600|Wheeler AFB|Wheeler AFB CDP
+15|80900|Whitmore Village|Whitmore Village CDP

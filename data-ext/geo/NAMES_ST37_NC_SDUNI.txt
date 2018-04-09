@@ -1,0 +1,119 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+37|00011|Cumberland County Schools|Cumberland County Schools
+37|00012|Pitt County Schools|Pitt County Schools
+37|00013|Camp Lejeune Schools|Camp Lejeune Schools
+37|00014|Fort Bragg Schools|Fort Bragg Schools
+37|00030|Alamance-Burlington Schools|Alamance-Burlington Schools
+37|00090|Alexander County Schools|Alexander County Schools
+37|00120|Alleghany County Schools|Alleghany County Schools
+37|00180|Anson County Schools|Anson County Schools
+37|00210|Ashe County Schools|Ashe County Schools
+37|00240|Asheboro City Schools|Asheboro City Schools
+37|00270|Asheville City Schools|Asheville City Schools
+37|00300|Avery County Schools|Avery County Schools
+37|00330|Beaufort County Schools|Beaufort County Schools
+37|00360|Bertie County Schools|Bertie County Schools
+37|00390|Bladen County Schools|Bladen County Schools
+37|00420|Brunswick County Schools|Brunswick County Schools
+37|00450|Buncombe County Schools|Buncombe County Schools
+37|00480|Burke County Schools|Burke County Schools
+37|00530|Cabarrus County Schools|Cabarrus County Schools
+37|00580|Caldwell County Schools|Caldwell County Schools
+37|00600|Camden County Schools|Camden County Schools
+37|00630|Carteret County Schools|Carteret County Schools
+37|00660|Caswell County Schools|Caswell County Schools
+37|00690|Catawba County Schools|Catawba County Schools
+37|00720|Chapel Hill-Carrboro Schools|Chapel Hill-Carrboro Schools
+37|00750|Chatham County Schools|Chatham County Schools
+37|00780|Cherokee County Schools|Cherokee County Schools
+37|00840|Edenton-Chowan Schools|Edenton-Chowan Schools
+37|00870|Clay County Schools|Clay County Schools
+37|00900|Cleveland County Schools|Cleveland County Schools
+37|00930|Clinton City Schools|Clinton City Schools
+37|00960|Columbus County Schools|Columbus County Schools
+37|01080|Currituck County Schools|Currituck County Schools
+37|01110|Dare County Schools|Dare County Schools
+37|01140|Davidson County Schools|Davidson County Schools
+37|01170|Davie County Schools|Davie County Schools
+37|01200|Duplin County Schools|Duplin County Schools
+37|01260|Durham Public Schools|Durham Public Schools
+37|01320|Edgecombe County Schools|Edgecombe County Schools
+37|01380|Elkin City Schools|Elkin City Schools
+37|01500|Forsyth County Schools|Forsyth County Schools
+37|01530|Franklin County Schools|Franklin County Schools
+37|01620|Gaston County Schools|Gaston County Schools
+37|01680|Gates County Schools|Gates County Schools
+37|01770|Graham County Schools|Graham County Schools
+37|01800|Granville County Schools|Granville County Schools
+37|01830|Greene County Schools|Greene County Schools
+37|01920|Guilford County Schools|Guilford County Schools
+37|01950|Halifax County Schools|Halifax County Schools
+37|02010|Harnett County Schools|Harnett County Schools
+37|02040|Haywood County Schools|Haywood County Schools
+37|02100|Henderson County Schools|Henderson County Schools
+37|02160|Hertford County Schools|Hertford County Schools
+37|02190|Hickory City Schools|Hickory City Schools
+37|02250|Hoke County Schools|Hoke County Schools
+37|02280|Hyde County Schools|Hyde County Schools
+37|02310|Iredell-Statesville Schools|Iredell-Statesville Schools
+37|02340|Jackson County Schools|Jackson County Schools
+37|02370|Johnston County Schools|Johnston County Schools
+37|02400|Jones County Schools|Jones County Schools
+37|02430|Kannapolis City Schools|Kannapolis City Schools
+37|02560|Lee County Schools|Lee County Schools
+37|02610|Lenoir County Schools|Lenoir County Schools
+37|02640|Lexington City Schools|Lexington City Schools
+37|02680|Lincoln County Schools|Lincoln County Schools
+37|02760|Macon County Schools|Macon County Schools
+37|02820|Madison County Schools|Madison County Schools
+37|02880|Martin County Schools|Martin County Schools
+37|02940|McDowell County Schools|McDowell County Schools
+37|02970|Charlotte-Mecklenburg Schools|Charlotte-Mecklenburg Schools
+37|03000|Mitchell County Schools|Mitchell County Schools
+37|03060|Montgomery County Schools|Montgomery County Schools
+37|03090|Moore County Schools|Moore County Schools
+37|03120|Mooresville City Schools|Mooresville City Schools
+37|03210|Mount Airy City Schools|Mount Airy City Schools
+37|03270|Nash-Rocky Mount Schools|Nash-Rocky Mount Schools
+37|03310|Craven County Schools|Craven County Schools
+37|03330|New Hanover County Schools|New Hanover County Schools
+37|03360|Newton-Conover City Schools|Newton-Conover City Schools
+37|03420|Northampton County Schools|Northampton County Schools
+37|03450|Onslow County Schools|Onslow County Schools
+37|03480|Orange County Schools|Orange County Schools
+37|03510|Pamlico County Schools|Pamlico County Schools
+37|03540|Pasquotank County Schools|Pasquotank County Schools
+37|03570|Pender County Schools|Pender County Schools
+37|03600|Perquimans County Schools|Perquimans County Schools
+37|03630|Person County Schools|Person County Schools
+37|03720|Polk County Schools|Polk County Schools
+37|03780|Randolph County Schools|Randolph County Schools
+37|03870|Richmond County Schools|Richmond County Schools
+37|03900|Roanoke Rapids City Schools|Roanoke Rapids City Schools
+37|03930|Robeson County Schools|Robeson County Schools
+37|03990|Rockingham County Schools|Rockingham County Schools
+37|04050|Rowan-Salisbury Schools|Rowan-Salisbury Schools
+37|04080|Rutherford County Schools|Rutherford County Schools
+37|04140|Sampson County Schools|Sampson County Schools
+37|04200|Scotland County Schools|Scotland County Schools
+37|04320|Stanly County Schools|Stanly County Schools
+37|04380|Stokes County Schools|Stokes County Schools
+37|04410|Surry County Schools|Surry County Schools
+37|04440|Swain County Schools|Swain County Schools
+37|04500|Thomasville City Schools|Thomasville City Schools
+37|04530|Transylvania County Schools|Transylvania County Schools
+37|04590|Tyrrell County Schools|Tyrrell County Schools
+37|04620|Union County Public Schools|Union County Public Schools
+37|04650|Vance County Schools|Vance County Schools
+37|04720|Wake County Schools|Wake County Schools
+37|04740|Warren County Schools|Warren County Schools
+37|04800|Washington County Schools|Washington County Schools
+37|04830|Watauga County Schools|Watauga County Schools
+37|04880|Wayne County Public Schools|Wayne County Public Schools
+37|04890|Weldon City Schools|Weldon City Schools
+37|04920|Whiteville City Schools|Whiteville City Schools
+37|04950|Wilkes County Schools|Wilkes County Schools
+37|05020|Wilson County Schools|Wilson County Schools
+37|05040|Yadkin County Schools|Yadkin County Schools
+37|05070|Yancey County Schools|Yancey County Schools
+37|37099|Eastern Cherokee Reservation|Eastern Cherokee Reservation

@@ -1,0 +1,188 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+08|00320|Acres Green|Acres Green CDP
+08|00620|Aetna Estates|Aetna Estates CDP
+08|00870|Air Force Academy|Air Force Academy CDP
+08|01145|Alamosa East|Alamosa East CDP
+08|01420|Allenspark|Allenspark CDP
+08|01640|Alpine|Alpine CDP
+08|01740|Altona|Altona CDP
+08|01915|Amherst|Amherst CDP
+08|02575|Applewood|Applewood CDP
+08|02905|Arboles|Arboles CDP
+08|03015|Aristocrat Ranchettes|Aristocrat Ranchettes CDP
+08|03730|Aspen Park|Aspen Park CDP
+08|03840|Atwood|Atwood CDP
+08|04165|Avondale|Avondale CDP
+08|04620|Bark Ranch|Bark Ranch CDP
+08|05120|Battlement Mesa|Battlement Mesa CDP
+08|06172|Berkley|Berkley CDP
+08|06602|Beulah Valley|Beulah Valley CDP
+08|06970|Black Forest|Black Forest CDP
+08|07245|Blende|Blende CDP
+08|07420|Blue Sky|Blue Sky CDP
+08|07580|Bonanza Mountain Estates|Bonanza Mountain Estates CDP
+08|08290|Brandon|Brandon CDP
+08|08530|Brick Center|Brick Center CDP
+08|10985|Byers|Byers CDP
+08|11975|Capulin|Capulin CDP
+08|12325|Cascade-Chipita Park|Cascade-Chipita Park CDP
+08|12387|Castle Pines|Castle Pines CDP
+08|12450|Cathedral|Cathedral CDP
+08|12460|Catherine|Catherine CDP
+08|12470|Cattle Creek|Cattle Creek CDP
+08|12945|Chacra|Chacra CDP
+08|13590|Cherry Creek|Cherry Creek CDP
+08|14587|Cimarron Hills|Cimarron Hills CDP
+08|15165|Clifton|Clifton CDP
+08|15302|Coal Creek|Coal Creek CDP
+08|15440|Coaldale|Coaldale CDP
+08|15825|Colona|Colona CDP
+08|15935|Colorado City|Colorado City CDP
+08|16110|Columbine|Columbine CDP
+08|16465|Comanche Creek|Comanche Creek CDP
+08|16715|Conejos|Conejos CDP
+08|17150|Copper Mountain|Copper Mountain CDP
+08|17485|Cotopaxi|Cotopaxi CDP
+08|18585|Crisman|Crisman CDP
+08|19150|Dakota Ridge|Dakota Ridge CDP
+08|20275|Derby|Derby CDP
+08|20605|Divide|Divide CDP
+08|21155|Dotsero|Dotsero CDP
+08|21330|Dove Valley|Dove Valley CDP
+08|21390|Downieville-Lawson-Dumont|Downieville-Lawson-Dumont CDP
+08|22575|East Pleasant View|East Pleasant View CDP
+08|23300|Edwards|Edwards CDP
+08|23520|Elbert|Elbert CDP
+08|23575|Eldora|Eldora CDP
+08|23630|Eldorado Springs|Eldorado Springs CDP
+08|23795|El Jebel|El Jebel CDP
+08|24235|Ellicott|Ellicott CDP
+08|24290|El Moro|El Moro CDP
+08|25390|Evergreen|Evergreen CDP
+08|25550|Fairmount|Fairmount CDP
+08|27095|Florissant|Florissant CDP
+08|27175|Floyd Hill|Floyd Hill CDP
+08|27370|Fort Carson|Fort Carson CDP
+08|27535|Fort Garland|Fort Garland CDP
+08|28250|Franktown|Franktown CDP
+08|28800|Fruitvale|Fruitvale CDP
+08|28830|Fulford|Fulford CDP
+08|29295|Garfield|Garfield CDP
+08|29625|Genesee|Genesee CDP
+08|29845|Gerrard|Gerrard CDP
+08|30350|Glendale|Glendale CDP
+08|30420|Gleneagle|Gleneagle CDP
+08|30890|Goldfield|Goldfield CDP
+08|30945|Gold Hill|Gold Hill CDP
+08|31935|Grand View Estates|Grand View Estates CDP
+08|33420|Guffey|Guffey CDP
+08|33502|Gunbarrel|Gunbarrel CDP
+08|34685|Hasty|Hasty CDP
+08|35400|Heeney|Heeney CDP
+08|35860|Hidden Lake|Hidden Lake CDP
+08|36410|Highlands Ranch|Highlands Ranch CDP
+08|36940|Hoehne|Hoehne CDP
+08|37220|Holly Hills|Holly Hills CDP
+08|37655|Howard|Howard CDP
+08|38425|Idalia|Idalia CDP
+08|38480|Idledale|Idledale CDP
+08|38810|Indian Hills|Indian Hills CDP
+08|38910|Inverness|Inverness CDP
+08|39160|Jackson Lake|Jackson Lake CDP
+08|39250|Jansen|Jansen CDP
+08|39745|Joes|Joes CDP
+08|39800|Johnson Village|Johnson Village CDP
+08|40377|Ken Caryl|Ken Caryl CDP
+08|40550|Keystone|Keystone CDP
+08|40900|Kirk|Kirk CDP
+08|41065|Kittredge|Kittredge CDP
+08|42000|Laird|Laird CDP
+08|42165|La Junta Gardens|La Junta Gardens CDP
+08|43220|Laporte|Laporte CDP
+08|44270|Lazy Acres|Lazy Acres CDP
+08|44375|Leadville North|Leadville North CDP
+08|44595|Lewis|Lewis CDP
+08|44695|Leyner|Leyner CDP
+08|45145|Lincoln Park|Lincoln Park CDP
+08|45680|Loghill Village|Loghill Village CDP
+08|45750|Loma|Loma CDP
+08|46410|Louviers|Louviers CDP
+08|47015|Lynn|Lynn CDP
+08|47345|McCoy|McCoy CDP
+08|49325|Maybell|Maybell CDP
+08|49490|Maysville|Maysville CDP
+08|50012|Meridian|Meridian CDP
+08|50380|Midland|Midland CDP
+08|51975|Morgan Heights|Morgan Heights CDP
+08|52210|Mountain Meadows|Mountain Meadows CDP
+08|52820|Mulford|Mulford CDP
+08|53780|Niwot|Niwot CDP
+08|53875|No Name|No Name CDP
+08|53945|Norrie|Norrie CDP
+08|54495|North La Junta|North La Junta CDP
+08|54750|North Washington|North Washington CDP
+08|55925|Orchard|Orchard CDP
+08|56035|Orchard Mesa|Orchard Mesa CDP
+08|56695|Padroni|Padroni CDP
+08|57445|Paragon Estates|Paragon Estates CDP
+08|57850|Parshall|Parshall CDP
+08|58400|Penrose|Penrose CDP
+08|58510|Peoria|Peoria CDP
+08|58592|Perry Park|Perry Park CDP
+08|58675|Peyton|Peyton CDP
+08|58758|Phippsburg|Phippsburg CDP
+08|58960|Piedra|Piedra CDP
+08|59240|Pine Brook Hill|Pine Brook Hill CDP
+08|60655|Ponderosa Park|Ponderosa Park CDP
+08|60765|Portland|Portland CDP
+08|62220|Pueblo West|Pueblo West CDP
+08|63320|Red Feather Lakes|Red Feather Lakes CDP
+08|63375|Redlands|Redlands CDP
+08|63650|Redstone|Redstone CDP
+08|63705|Redvale|Redvale CDP
+08|64870|Rock Creek Park|Rock Creek Park CDP
+08|65685|Rollinsville|Rollinsville CDP
+08|66197|Roxborough Park|Roxborough Park CDP
+08|66995|Saddle Ridge|Saddle Ridge CDP
+08|67040|St. Ann Highlands|St. Ann Highlands CDP
+08|67142|St. Mary's|St. Mary's CDP
+08|67445|Salt Creek|Salt Creek CDP
+08|67500|San Acacio|San Acacio CDP
+08|68847|Security-Widefield|Security-Widefield CDP
+08|68875|Sedalia|Sedalia CDP
+08|68985|Segundo|Segundo CDP
+08|69110|Seven Hills|Seven Hills CDP
+08|69480|Shaw Heights|Shaw Heights CDP
+08|69810|Sherrelwood|Sherrelwood CDP
+08|71625|Smeltertown|Smeltertown CDP
+08|71790|Snyder|Snyder CDP
+08|72320|Southern Ute|Southern Ute CDP
+08|74080|Stonegate|Stonegate CDP
+08|74275|Stonewall Gap|Stonewall Gap CDP
+08|74375|Strasburg|Strasburg CDP
+08|74430|Stratmoor|Stratmoor CDP
+08|74980|Sugarloaf|Sugarloaf CDP
+08|75585|Sunshine|Sunshine CDP
+08|76190|Tabernash|Tabernash CDP
+08|76325|Tall Timber|Tall Timber CDP
+08|77235|The Pinery|The Pinery CDP
+08|77757|Todd Creek|Todd Creek CDP
+08|78280|Towaoc|Towaoc CDP
+08|78335|Towner|Towner CDP
+08|78345|Trail Side|Trail Side CDP
+08|79100|Twin Lakes|Twin Lakes CDP
+08|79105|Twin Lakes|Twin Lakes CDP
+08|79785|Upper Bear Creek|Upper Bear Creek CDP
+08|80095|Valdez|Valdez CDP
+08|80370|Valmont|Valmont CDP
+08|80755|Vernon|Vernon CDP
+08|81305|Vineland|Vineland CDP
+08|82905|Watkins|Watkins CDP
+08|83120|Welby|Welby CDP
+08|83175|Weldona|Weldona CDP
+08|83500|Westcreek|Westcreek CDP
+08|84000|Weston|Weston CDP
+08|84042|West Pleasant View|West Pleasant View CDP
+08|85760|Wolcott|Wolcott CDP
+08|86117|Woodmoor|Woodmoor CDP
+08|86200|Woody Creek|Woody Creek CDP
