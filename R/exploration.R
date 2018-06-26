@@ -1,4 +1,4 @@
-#' Syntactic sugar for clean-up of precinct returns 
+# Functions for exploring returns during clean-up
 
 #' Inspect variables' unique values
 #'

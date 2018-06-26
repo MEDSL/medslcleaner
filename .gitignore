@@ -8,3 +8,5 @@ src/*.o
 src/*.so
 .Rproj.user
 medslcleaner.Rproj
+vignettes/*_cache
+*.~lock*

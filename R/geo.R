@@ -16,11 +16,10 @@ add_geo_ids = function(.data, must_work = TRUE) {
 
 #' Add county identifiers to precinct returns
 #'
-#' @import elections
 #' @inheritParams write_precincts
 #' @export
 add_county_ids = function(.data, must_work = TRUE) {
-  data('county_ids', package = 'elections', envir = environment())
+  data('county_ids', package = 'medslcleaner', envir = environment())
   stopifnot(!anyDuplicated(county_ids, by = c('county_fips', 'state_postal')))
   .data = merge(.data, county_ids, by = c('county_fips', 'state_postal'), all.x = TRUE)
   if (isTRUE(must_work)) {
@@ -148,13 +147,12 @@ not_in_eavs = function(.data, eavs, must_work = TRUE) {
 #' ICPSR codes.
 #'
 #' @inheritParams write_precincts
-#' @import elections
 add_state_ids = function(.data) {
   # We expect a single, known state abbreviation
   .data = normalize_state(.data)
   assert_that(has_name(.data, 'state_postal'))
   assert_that(is_postal(.data$state_postal))
-  data('state_ids', package = 'elections', envir = environment())
+  data('state_ids', package = 'medslcleaner', envir = environment())
   stopifnot(!anyDuplicated(state_ids, by = 'state_postal'))
   .data = merge(.data, state_ids, by = 'state_postal', all.x = TRUE)
   .data

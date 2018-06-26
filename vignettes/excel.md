@@ -1,0 +1,291 @@
+Extracting Returns from Excel Files
+================
+
+This vignette demonstrates the extraction of election results from Excel
+files using the `medslcleaner` package. We’ll introduce a toolset and
+workflow for examples of common spreadsheet layouts.
+
+``` r
+library(medslcleaner)
+library(dplyr)
+library(stringr)
+```
+
+# Tutorial
+
+The following is an excerpt from the Excel-formatted source data for
+Merrimack, New Hampshire. We’ve added indexes down the left-hand side
+and across the top for exposition. Excel indexes columns with letters,
+but we’ll use numbers *j ∈ 1, …, K* and index rows *i ∈ 1, …, N*.
+
+Reading the sheet into R as if it were ordinary tabular data (e.g., with
+the excellent [`readxl`](https://github.com/tidyverse/readxl) package)
+wouldn’t work very well. Notice the multiple rows of headers: we see the
+jurisdiction in row `2`; row `3` indicates offices, and row `4` gives
+candidates. Another common hurdle is multi-column cells: headers
+`Sheriff`, `Attorney`, and `Treasurer` each apply to *two* columns.
+These are considered “merged” cells in a spreadsheet applications, but
+that’s just formatting. In R, the values will occupy only one of the
+merged columns (the first).
+
+![Merrimack Precinct Returns](merrimack.png)
+
+Our goal is to extract the vote counts for each candidate, by precinct,
+and correctly associate candidates with offices, districts, and parties.
+Here’s a partial view of result:
+
+We read the data with `read_xlreturns`. You can specify a sheet other
+than the first with the `sheet`
+argument.
+
+``` r
+path = system.file('data-ext', 'example-returns', 'Merrimack-NH-2016_edits_small.xlsx', package = 'medslcleaner')
+d = read_xlreturns(path, sheet = 1)
+```
+
+Let’s take a closer look at the data. The columns you need to know about
+are `value`, `i`, and `j`. Each element in the `value` column gives the
+contents of a single spreadsheet cell. Columns `i` and `j` indicate the
+row and column indexes of that cell. Each row in the cell data (our
+representation of the spreadsheet in R) thus gives an `(i, j, value)`
+triple like `(3, 2, 'Sheriff')` or `(3, 3, 'Attorney')`.
+
+``` r
+d %>%
+  select(address, row, col, value) %>%
+  head()
+```
+
+The `as_idcol` function creates new columns (say, `office`) from values
+that don’t represent vote counts. We specify which cells contain these
+values using either indexes or functions that return logical
+vectors.`as_idcol` takes arguments `i` and `j` to identify which row(s)
+and column(s) to select. We can carry these cells’ contents `right`
+along rows or `down` columns.
+
+Consider the precinct names in column `1`. To identify them as
+describing all the vote counts to their right, we can do this:
+
+``` r
+d = as_idcol(d, 'precinct', j = 1, right = TRUE)
+d %>%
+  filter(row > 4) %>%
+  select(address, row, col, precinct)
+```
+
+What does this call do? All the values in column `j=1` describe the
+cells to their `right`. We created a new variable `precinct` that takes
+as values the contents of cells where `j` is `1` (otherwise `NA`). We
+then carried these values `right` across rows.
+
+The `right` argument carries cell contents matched by `i` and `j` along
+their rows until either the next matching cell or the end of the row,
+whichever comes first. (If you’re familiar with “last observation
+carry-forward,” you may recognize this operation as LOCF on non-missing
+values.)
+
+Let’s do the remaining identifiers:
+
+``` r
+d = d %>%
+  as_idcol('jurisdiction', i = 2, j = 2, down = TRUE, right = TRUE) %>%
+  as_idcol('office', i = 3, right = TRUE, down = TRUE) %>%
+  as_idcol('candidate', i = 4, down = TRUE)
+d %>%
+  filter(row > 4)
+```
+
+To keep only the columns we created and rename the `value` column
+`votes`:
+
+``` r
+d %>%
+  filter(row > 4) %>%
+  finalize()
+```
+
+``` r
+# To demonstrate an approach to multiple header rows, we'll work with just the
+# first of the three splits, instead of iterating over them.
+# rows = cells[[1]]
+# office_pattern = 'sheriff|register|commissioners'
+# rows = as_idcol(rows, idcol = 'office', i = row_contains(rows, office_pattern), down = TRUE, right = TRUE)
+# unique(rows$office)
+```
+
+``` r
+head(d)
+d[, jurisdiction := str_remove(jurisdiction, ' County Offices')]
+d = as_idcol(d, 'precinct', j = 1, right = TRUE)
+d = as_idcol(d, 'office', i = 3, right = TRUE, down = TRUE)
+d = as_idcol(d, 'candidate', i = 4, down = TRUE)
+d = d[(row > 4 & col > 1)]
+d = finalize(d)
+```
+
+Above, we name the new column `office` by specifying `idcol = 'office'`.
+Argument `i` specifies the
+<!-- One way of choosing these values is by pattern, and creates a new column in the data whose values are the contents of the matching cells. -->
+
+``` r
+# rows = as_idcol(rows, 'candidate', i = row_contains(rows, 'scatter'),
+#   down = TRUE)
+# rows = as_idcol(rows, 'precinct', j = 1, right = TRUE)
+# rows = rows[!value %=% 'no election']
+# rows = rows[!precinct %=% 'total']
+# rows = rows[!row_contains(rows, 'total')]
+# rows = rows[is.na(get('formula'))]
+# rows = rows[!all_na(rows, .by = 'col')]
+# rows = rows[!is.na(candidate)]
+# rows = finalize(rows)
+# head(rows)
+```
+
+## Multiple tables per spreadsheet
+
+Vote counts appear in three disjoint row spans: `5:9`, `13:17`, and
+`22:26`.
+
+In real applications like the complete New Hampshire returns, there are
+many sheets like this one, but larger and varying in their layouts. We
+need solutions that are accordingly flexible.
+
+A common problem in Excel-formatted returns is that sheets contains more
+than one table of data. Consider this larger excerpt from the Merrimack
+returns, which stack tables vertically:
+
+``` r
+# TODO
+```
+
+The `split_cells` function searches cell values for a pattern and splits
+a sheet along the rows that contain matches. It returns a list of single
+tables that we can iterate over.
+
+An effective pattern in the Merrimack sheet is `TOTALS`. It matches rows
+`9`, `17`, and `26` in column `1`. Each of these rows ends a table.
+
+``` r
+# TODO: read from GitHub / data()
+sheet = tidyxl::xlsx_cells('../data-ext/example-returns/Merrimack-NH-2016_edits.xlsx')
+
+cells = split_cells(.data = sheet, pattern = 'TOTALS', starts = FALSE)
+#> Split sheet with 28 rows into 3 tables
+#>   Rows 1-9
+#>   Rows 10-17
+#>   Rows 18-26
+```
+
+The output indicates that the result is a split into three tables. The
+first split extends from row `1` through the first pattern match in row
+`9`. The second split begins in row `10` and ends with the next match in
+row `17`. Similarly for the third split. Our pattern identifies rows
+that *end* tables, so we specified `starts = FALSE`. If we saw a pattern
+indicating the starts of tables, we would use the default `starts =
+TRUE`. (One such pattern is `'sheriff|register|commissioners'`, which
+gives ranges `3:10`, `11:18`, and `19:26`.)
+
+# Scratch
+
+We can use the `read_spreadsheet` function to arrive at
+this:
+
+``` r
+                    office party              candidate jurisdiction precinct votes
+1: UNITED STATES PRESIDENT   IND      Darrell L. Castle          ADA     1401     4
+2: UNITED STATES PRESIDENT   DEM Hillary Rodham Clinton          ADA     1401   206
+3: UNITED STATES PRESIDENT   CON         Scott Copeland          ADA     1401     0
+4: UNITED STATES PRESIDENT   IND     Rocky De La Fuente          ADA     1401     0
+5: UNITED STATES PRESIDENT   LIB           Gary Johnson          ADA     1401    35
+6: UNITED STATES PRESIDENT   IND          Evan McMullin          ADA     1401    63
+```
+
+Here’s how we’d call `read_spreadsheet`:
+
+  - `path`: Path to the `xlsx` file.
+  - `sheet`: Sheet to read. Either a character vector (the name of the
+    sheet) or an integer (the index of the sheet). If missing, defaults
+    to the first sheet.
+  - `top`: A named list whose elements are row ranges. Names give the
+    variable to be created to represent the header, so we’ll specify
+
+<!-- end list -->
+
+``` r
+top = list(president = 1:3, party = 4, candidate = 5)
+```
+
+When more than one row is given, their values are concatenated
+column-wise. This achieves goal (1).
+
+  - `inner`: This argument will handle (2). It takes a list of predicate
+    functions that identify further, arbitrarily-located headers like
+    “ADA”. (A predicate is a function that returns a logical.) The
+    list’s names indicate the variable to be created. We could
+specify:
+
+<!-- end list -->
+
+``` r
+inner = list(jurisdiction = function(d) { d$col == 1 & d$row > 5 & d$local_format_id == 83 },
+  precinct = function(d) { d$col == 1 & d$row > 5 & d$local_format_id != 83 })
+```
+
+This will result in variables `jurisdiction` and `precinct` (from the
+list names), whose values will be `"ADA", "ADA", "ADA", ...` and
+`1401, 1402, 1403, ...`, respectively. How this works requires some
+explanation. Our function wraps the `read_cells` function from
+[tidyxl](https://github.com/nacnudus/tidyxl), which represents the
+contents of the sheet in a table whose rows represent
+    *cells*:
+
+    address row col data_type numeric     character height     width local_format_id
+         A2   2   1     blank      NA            NA   13.2 20.000000               4
+         B2   2   2 character      NA UNITED STATES   13.2  8.886719             101
+         C2   2   3     blank      NA            NA   13.2  8.886719             101
+         D2   2   4     blank      NA            NA   13.2  8.886719             101
+         E2   2   5     blank      NA            NA   13.2  8.886719             101
+         F2   2   6     blank      NA            NA   13.2  8.886719             101
+
+The one argument to the predicate functions above (which we called `d`)
+is this table. We can use any of its variables to identify headers. To
+create the new `jurisdiction` variable, we looked for `col == 1`, `row
+> 5`, and `local_format_id == 83`; this happens to represents the
+gray-and-bold cell formatting used in the interstitial headers. We
+wouldn’t know this without peeking at the value of `read_cells`.
+Alternatively, we could’ve matched `d$character` (the value of text
+cells) against known county names, or perhaps tested the cell `width`.
+(But you might notice that the width of `A6` is only `20` despite it
+spanning `A:I`. In merged cells, the first cell owns the value and the
+others are blank.) The other important thing to know is that `"ADA"`
+will be associated with all the rows between it and the next predicate
+match, `"ADA (Continued)"`. (Via last observation carry-forward.)
+
+Similarly, with the `precinct` predicate function we match all the cells
+in column `A` that *aren’t* in `jurisdiction` rows. This accomplishes
+goal (3).
+
+Finally, we can use the `drop` argument to meet (4), with something
+like:
+
+``` r
+drop = list(
+   function(d) { d$character %=% 'total' },
+   function(d) { d$row >= 1130 })
+```
+
+This works like `inner`, but the result is that wherever any predicate
+returns `TRUE`, the spreadsheet row of the match is dropped. Here we
+drop rows in which a text cell matches the pattern `'total'`, and also
+all rows from `1130` (where the vote totals end).
+
+In summary, the key arguments are:
+
+  - `top`: Collapse top header rows;
+  - `inner`: Locate and fill forward “inner headers,” or identifiers
+    that appear intermittently and describe the rows below them; and
+  - `drop`: Drop rows.
+
+A final note: by default, the last three columns of the result give the
+source in the spreadsheet of the `votes` value for testing purposes. Or,
+they can be omitted by passing `debug = FALSE`.

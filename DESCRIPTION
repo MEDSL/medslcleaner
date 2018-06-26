@@ -1,8 +1,8 @@
 Package: medslcleaner
 Title: A MEDSL Package for Cleaning Election Returns
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("James", "Dunham", email = "james@jdunham.io", role = c("aut", "cre"))
-Description: If this were more than a skeleton of an R package, its description would go here.
+Description: WIP.
 License: MIT
 Encoding: UTF-8
 LazyData: true
@@ -10,10 +10,7 @@ Depends: R (>= 3.3.0),
 Imports:
     assertthat,
     data.table,
-    elections,
-    feather (>= 0.3.0),
     purrr (>= 0.2.3),
-    readr (>= 1.2),
     readxl (>= 1.0.0),
     stringr,
     tidyxl (>= 1.0.0)

@@ -3,8 +3,7 @@
 \name{col_values}
 \alias{col_values}
 \alias{su}
-\title{Syntactic sugar for clean-up of precinct returns
-Inspect variables' unique values}
+\title{Inspect variables' unique values}
 \usage{
 col_values(.data, n_max = 1000)
 
@@ -19,7 +18,6 @@ to disable.}
 \item{x}{A vector.}
 }
 \description{
-Syntactic sugar for clean-up of precinct returns
 Inspect variables' unique values
 }
 \section{Functions}{

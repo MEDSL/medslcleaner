@@ -10,8 +10,6 @@ read_xlreturns(path = path, ..., keep_all = FALSE)
 Read Excel spreadsheets
 }
 \examples{
-`\%>\%` = magrittr::`\%>\%`
 d = read_xlreturns('../data-ext/example-returns/16gen_stwd_pct.xlsx')
-d = d \%>\%
-  as_idcol('office', i = 1)
+as_idcol(d, 'office', i = 1)
 }

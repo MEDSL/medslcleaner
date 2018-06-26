@@ -4,7 +4,7 @@
 #' @param state_postal State postal abbreviation.
 #' @param skip Validations in \code{precinct_validity} to skip, as a list whose
 #' names are variables and whose values are properties.
-#' @import feather readr
+#' @return Processed `.data`.
 #' @export
 #' @examples
 #' # 2016 MI precinct returns include statistical adjustments with negative
@@ -24,8 +24,9 @@ write_precincts = function(.data, state_postal, skip = NULL) {
   .data = order_columns(.data)
   .data = convert_types(.data)
   assert_that(is_valid(.data, skip = skip))
-  readr::write_csv(.data, glue("2016-{str_to_lower(state_postal)}-precinct.csv"))
-  feather::write_feather(.data, glue("2016-{str_to_lower(state_postal)}-precinct.feather"))
+  fwrite(.data, glue("2016-{str_to_lower(state_postal)}-precinct.csv"))
+  saveRDS(.data, glue("2016-{str_to_lower(state_postal)}-precinct.Rds"))
+  .data[]
 }
 
 #' Assign write-ins the `candidate` value of `['write-in']`

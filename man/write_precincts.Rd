@@ -14,6 +14,9 @@ write_precincts(.data, state_postal, skip = NULL)
 \item{skip}{Validations in \code{precinct_validity} to skip, as a list whose
 names are variables and whose values are properties.}
 }
+\value{
+Processed \code{.data}.
+}
 \description{
 Save returns to disk after validation
 }

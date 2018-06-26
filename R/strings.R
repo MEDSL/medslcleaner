@@ -83,7 +83,7 @@ char_cols = function(.data) {
 
 is_postal = function(x) {
   assert_that(is.character(x))
-  data('state_ids', package = 'elections', envir = environment())
+  state_ids = c(state.abb, 'DC')
   assert_that(all(x %chin% state_ids$state_postal))
 }
 

@@ -15,7 +15,7 @@ string \%r\% pattern
 \item{pattern}{A regular expression.}
 }
 \description{
-Remove a pattern match from a string. Think of of this as regex-powered
+Remove a pattern match from a string. Think of this as regex-powered
 string subtraction. Matching is case-insensitive and greedy, i.e., all
 matches will be removed.
 }

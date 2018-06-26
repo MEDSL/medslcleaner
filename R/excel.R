@@ -4,10 +4,8 @@
 #'
 #' @export
 #' @examples
-#' `%>%` = magrittr::`%>%`
 #' d = read_xlreturns('../data-ext/example-returns/16gen_stwd_pct.xlsx')
-#' d = d %>%
-#'   as_idcol('office', i = 1)
+#' as_idcol(d, 'office', i = 1)
 read_xlreturns = function(path = path, ..., keep_all = FALSE) {
   ret = do.call(tidyxl::xlsx_cells, c(path = path, list(...)))
   ret = combine_value_cols(setDT(ret))
@@ -16,7 +14,6 @@ read_xlreturns = function(path = path, ..., keep_all = FALSE) {
   }
   ret[]
 }
-
 
 #' Concatenate strings omitting NAs 
 #'
@@ -36,6 +33,7 @@ paste_omit_na = function(..., sep = " ", collapse = NULL) {
 #' 
 #' @export
 carry_right = function(.data, i = TRUE, idcol = NULL) {
+  classes = class(.data)
   setDT(.data, key = c('row', 'col'))
   stopifnot('value' %in% names(.data))
   if (is.numeric(i)) {
@@ -46,6 +44,8 @@ carry_right = function(.data, i = TRUE, idcol = NULL) {
   } else {
     .data[i, value := zoo::na.locf0(value), by = 'row'][]
   }
+  class(.data) = union(class(.data), classes)
+  .data[]
 }
 
 #' Carry values right in tidy Excel data
@@ -56,6 +56,7 @@ carry_right = function(.data, i = TRUE, idcol = NULL) {
 #' @inheritParams as_idcol
 #' @export
 carry_down = function(.data, i = TRUE, j = TRUE, idcol = NULL) {
+  classes = class(.data)
   setDT(.data, key = c('row', 'col'))
   stopifnot('value' %in% names(.data))
   if (is.numeric(i)) {
@@ -78,6 +79,7 @@ carry_down = function(.data, i = TRUE, j = TRUE, idcol = NULL) {
 #' @export
 as_idcol = function(.data, idcol, i = TRUE, j = TRUE, right = FALSE, down =
   FALSE, .drop = TRUE) {
+  classes = class(.data)
   setDT(.data, key = c('row', 'col'))
   if (is.numeric(i)) {
     i = .data$row %in% i
@@ -103,10 +105,11 @@ as_idcol = function(.data, idcol, i = TRUE, j = TRUE, right = FALSE, down =
 #' @inheritParams as_idcol
 #' @export
 keep_minimal = function(.data, types = FALSE) {
+  classes = class(.data)
   setDT(.data, key = c('row', 'col'))
-  cols = c("sheet", "address", "row", "col", "data_type", "formula", "value")
+  cols = c("sheet", "address", "row", "col", "data_type", "value")
   if (types) {
-    cols = c(cols, c("is_blank", "logical", "numeric", "date", "character"))
+    cols = c(cols, c("is_blank", "logical", "numeric", "date", "character", "formula"))
   }
   .data = .data[, c(cols), with = FALSE]
   .data[]
@@ -246,7 +249,9 @@ split_sheet = function(path, pattern_column, pattern, adjust_start = 0,
   adjust_max = 0, sheet = NULL, idcol = NULL, use_names = TRUE) {
 
   # First read the full sheet that we'll search for table headers
-  full = setDT(readxl::read_excel(path, col_names = FALSE, sheet = sheet))
+  full = readxl::read_excel(path, col_names = FALSE, sheet = sheet)
+  classes = class(full)
+  setDT(full)
   # Identify the rows in which headers appear
   header_rows = which(full[[pattern_column]] %=% pattern)
   # Get the ranges of each table given the header indexes
@@ -259,8 +264,9 @@ split_sheet = function(path, pattern_column, pattern, adjust_start = 0,
     .n_max = length(.range) + adjust_max
     cat('skip: ', .skip, '\n')
     cat('n_max: ', .n_max, '\n')
-    tbl = setDT(readxl::read_excel(path, skip = .skip, n_max = .n_max, sheet = sheet,
-        col_names = TRUE))
+    tbl = readxl::read_excel(path, skip = .skip, n_max = .n_max, sheet = sheet,
+        col_names = TRUE)
+    classes = class(tbl)
     # Drop all-NA columns
     suppressWarnings({
       tbl[, names(tbl)[purrr::map_lgl(tbl, ~ all(is.na(.x) | str_trim(.x) == ''))] := NULL]
@@ -282,6 +288,7 @@ split_sheet = function(path, pattern_column, pattern, adjust_start = 0,
 #'
 #' @export
 split_cells = function(.data, pattern, i = TRUE, j = TRUE, starts = TRUE) {
+  classes = class(.data)
   setDT(.data, key = c('row', 'col'))
   if (!'value' %in% names(.data)) {
     .data = combine_value_cols(.data)
@@ -388,6 +395,7 @@ row_contains = function(.data, pattern, i = TRUE, j = TRUE) {
 #' 
 #' @export
 finalize = function(.data) {
+  classes = class(.data)
   setDT(.data, key = c('row', 'col'))
   for (col in intersect(names(.data), c('sheet', 'address', 'row', 'col',
         'data_type', 'formula', "character", "character_formatted", "comment",
@@ -429,6 +437,7 @@ totals = function(.data, .by = c('office', 'candidate')) {
 #' # predicate 2 -> drop 'total' row
 #' drop_by_predicate(d, drop)
 drop_by_predicate = function(d, drop_predicates) {
+  classes = class(d)
   if (!is.data.table(d)) setDT(d)
   assert(is.list(drop_predicates))
   assert(has_name(d, 'row'))
@@ -511,6 +520,7 @@ read_spreadsheet = function(path,
   if (missing(sheet)) {
     sheet = tidyxl::xlsx_sheet_names(path)[1]
   }
+  classes = class(d)
   d = setDT(tidyxl::xlsx_cells(path, sheets = sheet))
   d = combine_value_cols(d)
 

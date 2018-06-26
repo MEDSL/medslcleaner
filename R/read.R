@@ -56,22 +56,6 @@ read_dir = function(path = '../raw', f = data.table::fread, idcol = 'path', ...)
   d
 }
 
-
-#' Map first-row headers to second-row headers
-#'
-#' Use in the case where the first row gives candidate names and the second row
-#' gives their party
-#'
-#' @inheritParams read_precincts
-#' @export
-read_double_header = function(path, sep = ',' , h1_name = 'candidate', h2_name =
-  'party', ...) {
-  headers = fread(path, sep = sep, nrows = 2, header = FALSE, ...)
-  headers = data.table(t(headers))
-  setnames(headers, c('V1', 'V2'), c(h1_name, h2_name))
-  headers[]
-}
-
 #' Rename legacy variable names
 #'
 #' @inheritParams read_precincts
@@ -95,7 +79,7 @@ rename_legacy_vars = function(.data) {
 
 normalize_state = function(.data) {
   if (has_name(.data, 'state')) {
-    data('state_ids', package = 'elections', envir = environment())
+    data('state_ids', package = 'medslcleaner', envir = environment())
 		if (all(.data[['state']] %chin% state_ids$state_postal)) {
 			# We have a state variable whose values are state_postal codes
 			setnames(.data, 'state', 'state_postal')
