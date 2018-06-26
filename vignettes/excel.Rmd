@@ -1,9 +1,10 @@
 ---
 title: "Extracting Returns from Excel Files"
-author: "James Dunham"
-date: "June 26, 2018"
-output: 
-  github_document
+output: rmarkdown::github_document
+vignette: >
+  %\VignetteIndexEntry{Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
 
 This vignette demonstrates the extraction of election results from Excel files

@@ -1,8 +1,10 @@
 ---
 title: "Workflow"
-author: "James Dunham"
-date: "June 26, 2018"
-output: github_document
+output: rmarkdown::github_document
+vignette: >
+  %\VignetteIndexEntry{Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
 
 ```{r setup, include=FALSE}
