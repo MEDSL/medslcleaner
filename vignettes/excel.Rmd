@@ -29,11 +29,7 @@ devtools::load_all(export_all=FALSE)
 The following is an excerpt from the Excel-formatted source data for Merrimack,
 New Hampshire. 
 
-```{r, echo = FALSE}
-# FIXME: hack for pandoc error
-path = 'merrimack.png'
-knitr::include_graphics(file.path(normalizePath(dirname(path)), path))
-```
+![Merrimack Spreadsheet](merrimack.png)
 
 Reading this sheet into R as if it were ordinary tabular data, with the
 excellent [`readxl`](https://github.com/tidyverse/readxl) package, doesn't work

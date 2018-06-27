@@ -10,7 +10,7 @@ workflow for examples of common spreadsheet layouts.
 The following is an excerpt from the Excel-formatted source data for
 Merrimack, New Hampshire.
 
-![](/home/james/medsl/medslcleaner/vignettes/merrimack.png)<!-- -->
+![Merrimack Spreadsheet](merrimack.png)
 
 Reading this sheet into R as if it were ordinary tabular data, with the
 excellent [`readxl`](https://github.com/tidyverse/readxl) package,
