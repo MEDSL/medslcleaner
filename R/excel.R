@@ -185,49 +185,6 @@ expand_colnames = function(.data, i, f = paste_omit_na, collapse = ' ', drop = T
   .data[]
 }
 
-#' Split tables by pattern
-#'
-#' Search for headers that delimit multiple tables in a spreadsheet, and read
-#' the tables separately.
-#' @importFrom purrr imap map_lgl
-#' @export
-split_sheet = function(path, pattern_column, pattern, adjust_start = 0,
-  adjust_max = 0, sheet = NULL, idcol = NULL, use_names = TRUE) {
-
-  # First read the full sheet that we'll search for table headers
-  full = readxl::read_excel(path, col_names = FALSE, sheet = sheet)
-  setDT(full)
-  # Identify the rows in which headers appear
-  header_rows = which(full[[pattern_column]] %=% pattern)
-  # Get the ranges of each table given the header indexes
-  ranges = interval_to_index(header_rows, nrow(full), is_start = FALSE)
-  ranges = setNames(ranges, full[[pattern_column]][header_rows])
-
-  # Read each table in the full sheet independently
-  tables = purrr::imap(ranges, function(.range, id) {
-    .skip = max(0, min(.range) - 1 + adjust_start)
-    .n_max = length(.range) + adjust_max
-    cat('skip: ', .skip, '\n')
-    cat('n_max: ', .n_max, '\n')
-    tbl = readxl::read_excel(path, skip = .skip, n_max = .n_max, sheet = sheet,
-        col_names = TRUE)
-    # Drop all-NA columns
-    suppressWarnings({
-      tbl[, names(tbl)[purrr::map_lgl(tbl, ~ all(is.na(.x) | str_trim(.x) == ''))] := NULL]
-    })
-    # Assign the value of the district pattern match to a new district column
-    if (length(idcol)) {
-      tbl[, c(idcol) := id]
-    }
-    tbl
-  })
-  if (use_names) {
-    tables
-  } else {
-    unname(tables)
-  }
-}
-
 #' Split cells by row
 #'
 #' @export
