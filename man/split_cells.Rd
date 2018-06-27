@@ -2,10 +2,10 @@
 % Please edit documentation in R/excel.R
 \name{split_cells}
 \alias{split_cells}
-\title{Split cells by row}
+\title{Split multiple tables in spreadsheets into separate dataframes}
 \usage{
 split_cells(.data, pattern, i = TRUE, j = TRUE, starts = TRUE)
 }
 \description{
-Split cells by row
+Split multiple tables in spreadsheets into separate dataframes
 }

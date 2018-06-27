@@ -2,10 +2,10 @@
 % Please edit documentation in R/excel.R
 \name{finalize}
 \alias{finalize}
-\title{Drop columns in tidyxl data not used in final returns data}
+\title{Finalize spreadsheet data}
 \usage{
 finalize(.data)
 }
 \description{
-Drop columns in tidyxl data not used in final returns data
+Drop columns in tidy spreadsheet data, and rename \code{values} as \code{votes}.
 }

@@ -2,10 +2,24 @@
 % Please edit documentation in R/excel.R
 \name{keep_minimal}
 \alias{keep_minimal}
-\title{Subset columns in a tidyxl table to those typically useful}
+\title{Keep a subset of columns in spreadsheet data}
 \usage{
 keep_minimal(.data, types = FALSE)
 }
+\arguments{
+\item{.data}{A table of tidy spreadsheet data (i.e., with columns \code{row}, \code{col}, and \code{value}).}
+
+\item{types}{If \code{TRUE}, also keep columns \code{is_blank}, \code{logical}, \code{numeric},
+\code{date}, \code{character}, and \code{formula}.}
+}
 \description{
-Subset columns in a tidyxl table to those typically useful
+Keeps these columns, if they exist: \code{sheet}, \code{address}, \code{row}, \code{col},
+\code{data_type}, and \code{value}, and if \code{types} is \code{TRUE}, also \code{is_blank},
+\code{logical}, \code{numeric}, \code{date}, \code{character}, and \code{formula}.
+}
+\examples{
+.data = data.frame(row=rep(1:3, each = 2), col = rep(1:2, times = 3), value = sample.int(6),
+  format_code = sample.int(6))
+head(.data)
+keep_minimal(.data)
 }

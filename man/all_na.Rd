@@ -2,10 +2,10 @@
 % Please edit documentation in R/excel.R
 \name{all_na}
 \alias{all_na}
-\title{Predicate for all-\code{NA} rows or columns in tidy excel tables}
+\title{Identify all-\code{NA} rows or columns in spreadsheet}
 \usage{
 all_na(.data, .by = "row", i = TRUE, j = TRUE)
 }
 \description{
-Predicate for all-\code{NA} rows or columns in tidy excel tables
+Identify all-\code{NA} rows or columns in spreadsheet
 }

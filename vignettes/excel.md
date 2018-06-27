@@ -10,7 +10,7 @@ workflow for examples of common spreadsheet layouts.
 The following is an excerpt from the Excel-formatted source data for
 Merrimack, New Hampshire.
 
-![Merrimack Spreadsheet](merrimack.png)
+![](merrimack.png)
 
 Reading this sheet into R as if it were ordinary tabular data, with the
 excellent [`readxl`](https://github.com/tidyverse/readxl) package,
@@ -39,16 +39,16 @@ read_excel(merrimack_path, col_names = FALSE) %>%
 
 Notice:
 
-  - **Multiple header rows:** We see the jurisdiction in row `2`. Row
-    `3` indicates offices. Row `4` gives candidates.
+  - *Multiple header rows:* We see the jurisdiction in row `2`. Row `3`
+    indicates offices. Row `4` gives candidates.
 
-  - **Multiple-column or “merged” cells:** headers `Sheriff`,
-    `Attorney`, and `Treasurer` each apply to two columns. But in R,
-    these values occupy only the first of the merged columns.
+  - *Multiple-column or “merged” cells:* headers `Sheriff`, `Attorney`,
+    and `Treasurer` each apply to two columns. But in R, these values
+    occupy only the first of the merged columns.
 
-We can use some `medslcleaner` functions to extract the vote counts for
-each candidate, by precinct, and correctly associate candidates with
-offices, districts, and parties. Here’s where we’re going:
+We can use `medslcleaner` to extract the vote counts for each candidate
+by precinct, and correctly associate candidates with offices, districts,
+and parties. Here’s where we’re going:
 
 ``` r
 # Instead of `read_excel`, `read_xlreturns`

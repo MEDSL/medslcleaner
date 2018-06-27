@@ -30,7 +30,7 @@ write_precincts = function(.data, state_postal, skip = NULL) {
   .data[]
 }
 
-#' Assign write-ins the `candidate` value of `['write-in']`
+# Assign write-ins the `candidate` value of `['write-in']`
 fill_writein_candidate = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
   if ('writein' %in% colnames(.data)) {
@@ -39,7 +39,7 @@ fill_writein_candidate = function(.data) {
   .data[]
 }
 
-#' Convert types before saving
+# Convert types before saving
 convert_types = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
   # Type-convert character variables we expect to be integer/numeric/logical 
@@ -58,7 +58,7 @@ convert_types = function(.data) {
   .data[]
 }
 
-#' Assert validity of precinct returns
+# Assert validity of precinct returns
 is_valid = function(.data, skip = NULL) {
   for (varname in names(precinct_validity)) {
     assert_that(has_name(.data, varname))
@@ -98,7 +98,7 @@ is_valid = function(.data, skip = NULL) {
   return(TRUE)
 }
 
-#' Keep expected columns in precinct returns
+# Keep expected columns in precinct returns
 keep_columns = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
   for (extra_col in setdiff(names(.data), names(precinct_validity))) {
@@ -128,7 +128,7 @@ normalize_whitespace = function(.data, inner = TRUE) {
   .data[]
 }
 
-#' Set column order in precinct returns
+# Set column order in precinct returns
 order_columns = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
   col_order = intersect(names(.data), names(precinct_validity))
@@ -137,6 +137,11 @@ order_columns = function(.data) {
 }
 
 #' Assign default values to missing precinct return variables
+#' 
+#' Create and fill with reasonable defaults the variables `writein`, `year`,
+#' `stage`, `special`, and `mode`.
+#' 
+#' @inheritParams write_precincts
 #' @export
 assign_defaults = function(.data, state_postal) {
   if (!is.data.table(.data)) setDT(.data)

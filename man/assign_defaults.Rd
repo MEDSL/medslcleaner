@@ -6,6 +6,12 @@
 \usage{
 assign_defaults(.data, state_postal)
 }
+\arguments{
+\item{.data}{A table of returns.}
+
+\item{state_postal}{State postal abbreviation.}
+}
 \description{
-Assign default values to missing precinct return variables
+Create and fill with reasonable defaults the variables \code{writein}, \code{year},
+\code{stage}, \code{special}, and \code{mode}.
 }

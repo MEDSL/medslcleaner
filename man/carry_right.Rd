@@ -2,7 +2,7 @@
 % Please edit documentation in R/excel.R
 \name{carry_right}
 \alias{carry_right}
-\title{Carry values right in tidy Excel data}
+\title{Carry spreadsheet values right row-wise}
 \usage{
 carry_right(.data, i = TRUE, idcol = NULL)
 }

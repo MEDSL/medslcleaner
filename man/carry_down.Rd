@@ -2,9 +2,18 @@
 % Please edit documentation in R/excel.R
 \name{carry_down}
 \alias{carry_down}
-\title{Carry values right in tidy Excel data}
+\title{Carry spreadsheet values down column-wise}
 \usage{
 carry_down(.data, i = TRUE, j = TRUE, idcol = NULL)
+}
+\arguments{
+\item{.data}{A table of tidy spreadsheet data (i.e., with columns \code{row}, \code{col}, and \code{value}).}
+
+\item{i}{One of: a vector of spreadsheet row indexes; a logical vector with
+length equal to the row count of dataframe .data; or a length-one logical
+vector applied to all spreadsheet rows."))}
+
+\item{idcol}{String giving the name of the new identifier column.}
 }
 \description{
 Usually called by \link{as_idcol}, not directly. This is row-wise last

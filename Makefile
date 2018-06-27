@@ -69,7 +69,7 @@ data/candidates.rda: data-ext/candidates/candidates.R \
 data/virginia_precincts.rda: data-ext/example-returns/virginia_precincts.R data-ext/example-returns/virginia_precincts.csv 
 	cd data-ext/example-returns && Rscript $(<F)
 
-site:
+site: docs docs/index.html
 	R --vanilla --slave -e "pkgdown::build_site()"
 
 .PHONY: clean docs data

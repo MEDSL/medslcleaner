@@ -16,12 +16,9 @@ if (!require(devtools, quietly = TRUE)) install.packages('devtools')
 devtools::install_github('MEDSL/medslcleaner')
 ```
 
-## Use
+## Getting started
 
-See the
-    vignettes:
-
-  - [Workflow](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/workflow.md)
-  - [Excel
-    files](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/excel.md)
-  - [Data](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/data.md)
+  - [Read about our workflow for cleaning elections
+    data](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/workflow.md)
+  - [Learn how to extract data from spreadsheets quickly and
+    safely](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/excel.md)

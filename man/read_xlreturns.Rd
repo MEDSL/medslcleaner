@@ -2,12 +2,12 @@
 % Please edit documentation in R/excel.R
 \name{read_xlreturns}
 \alias{read_xlreturns}
-\title{Read Excel spreadsheets}
+\title{Read spreadsheet data from Excel files}
 \usage{
 read_xlreturns(path = path, ..., keep_all = FALSE)
 }
 \description{
-Read Excel spreadsheets
+Read spreadsheet data from Excel files
 }
 \examples{
 d = read_xlreturns('../data-ext/example-returns/16gen_stwd_pct.xlsx')

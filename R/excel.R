@@ -1,6 +1,6 @@
 # Functions for working with Excel-formatted spreadsheets
 
-#' Read Excel spreadsheets
+#' Read spreadsheet data from Excel files
 #'
 #' @export
 #' @examples
@@ -15,7 +15,7 @@ read_xlreturns = function(path = path, ..., keep_all = FALSE) {
   ret[]
 }
 
-#' Concatenate strings omitting NAs 
+#' Concatenate strings omitting NAs
 #'
 #' @export
 paste_omit_na = function(..., sep = " ", collapse = NULL) {
@@ -27,10 +27,10 @@ paste_omit_na = function(..., sep = " ", collapse = NULL) {
   }
 }
 
-#' Carry values right in tidy Excel data
-#' 
+#' Carry spreadsheet values right row-wise
+#'
 #' Usually called by [as_idcol], not directly.
-#' 
+#'
 #' @importFrom zoo na.locf0
 #' @export
 carry_right = function(.data, i = TRUE, idcol = NULL) {
@@ -47,11 +47,11 @@ carry_right = function(.data, i = TRUE, idcol = NULL) {
   .data[]
 }
 
-#' Carry values right in tidy Excel data
-#' 
+#' Carry spreadsheet values down column-wise
+#'
 #' Usually called by [as_idcol], not directly. This is row-wise last
 #' non-missing observation carried forward.
-#' 
+#'
 #' @inheritParams as_idcol
 #' @export
 carry_down = function(.data, i = TRUE, j = TRUE, idcol = NULL) {
@@ -70,122 +70,100 @@ carry_down = function(.data, i = TRUE, j = TRUE, idcol = NULL) {
   }
 }
 
-#' Create identifier columns in tidy Excel data
-#' 
+#' Create identifier columns in spreadsheet data
+#'
 #' See the Excel vignette for use.
-#' 
+#'
+#' @param .data A table of tidy spreadsheet data (i.e., with columns `row`, `col`, and `value`).
+#' @param idcol String giving the name of the new identifier column.
+#' @param i One of: a vector of spreadsheet row indexes; a logical vector with
+#'   length equal to the row count of dataframe .data; or a length-one logical
+#'   vector applied to all spreadsheet rows."))
+#' @param i One of: a vector of spreadsheet column indexes; a logical vector with
+#'   length equal to the *row* count of dataframe .data; or a length-one logical
+#'   vector applied to all spreadsheet columns."))
+#' @param right If `TRUE`, carry non-missing values in cells selected by `i` and
+#'   j` rightward along spreadsheet rows. Can be used together with `down`.
+#' @param down If `TRUE`, carry non-missing values in cells selected by `i` and
+#'   j` downward along spreadsheet rows. Can be used together with `up`.
+#' @param .drop If `TRUE`, drop spreadsheet cells selected by `i` and `j` after
+#'   creating the new identifier column.
 #' @export
 as_idcol = function(.data, idcol, i = TRUE, j = TRUE, right = FALSE, down =
   FALSE, .drop = TRUE) {
   setDT(.data, key = c('row', 'col'))
+  # If i gives row numbers, create an N-length logical vector, `TRUE` for rows
+  # specified by `i`
   if (is.numeric(i)) {
     i = .data$row %in% i
+  } else if (is.logical(i)) {
+    # Otherwise, if logical, it should be length-one or length-ncol(.data)
+    assert_that(is.flag(i) | length(i) == nrow(.data))
+  } else {
+    stop(glue("i can give row numbers, a logical vector with length equal to the ",
+      "row count of .data ({nrow(.data)}), or be TRUE"))
   }
+  # If j gives column numbers, create an N-length logical vector, `TRUE` for
+  # columns specified by `j`
   if (is.numeric(j)) {
     j = .data$col %in% j
+  } else if (is.logical(j)) {
+    # Otherwise, if logical, it should be length-one or length-ncol(.data)
+    assert_that(is.flag(j) | length(j) == nrow(.data))
+  } else {
+    stop(glue("j can select columns by one of: their index; a logical vector with ",
+      "length equal to the row count of .data ({nrow(.data)}), or a length-one ",
+      "logical vector for all columns."))
   }
+  # This works because .data is keyed
   .data[i & j, c(idcol) := value]
+  # If `right` or `down`, carry forward non-missing `value` values, across rows
+  # or down columns
+  assert(is.flag(right))
   if (isTRUE(right)) {
     .data = carry_right(.data, idcol = idcol)
   }
+  assert(is.flag(down))
   if (isTRUE(down)) {
     .data = carry_down(.data, idcol = idcol)
   }
+  assert(is.flag(.drop))
   if (isTRUE(.drop)) {
     .data = .data[!(i & j)]
   }
   .data[]
 }
 
-#' Subset columns in a tidyxl table to those typically useful
-#' 
+#' Keep a subset of columns in spreadsheet data
+#'
+#' Keeps these columns, if they exist: `sheet`, `address`, `row`, `col`,
+#' `data_type`, and `value`, and if `types` is `TRUE`, also `is_blank`,
+#' `logical`, `numeric`, `date`, `character`, and `formula`.
+#'
 #' @inheritParams as_idcol
+#' @param types If `TRUE`, also keep columns `is_blank`, `logical`, `numeric`,
+#'   `date`, `character`, and `formula`.
 #' @export
+#' @examples
+#' .data = data.frame(row=rep(1:3, each = 2), col = rep(1:2, times = 3), value = sample.int(6),
+#'   format_code = sample.int(6))
+#' head(.data)
+#' keep_minimal(.data)
 keep_minimal = function(.data, types = FALSE) {
-  setDT(.data, key = c('row', 'col'))
+  if (!is.data.table(.data)) setDT(.data)
   cols = c("sheet", "address", "row", "col", "data_type", "value")
   if (types) {
     cols = c(cols, c("is_blank", "logical", "numeric", "date", "character", "formula"))
   }
-  .data = .data[, c(cols), with = FALSE]
-  .data[]
-}
-
-#' Collapse rows of characters
-#'
-#' Concatenate rows column-wise into a single row.
-#'
-#' @param .data A data.table.
-#' @param i A vector of row indexes.
-#' @param f Concatenation (or other) function.
-#' @param drop Drop all but the first row.
-#' @export
-collapse_rows = function(.data, i, f = paste_omit_na, collapse = ' ', drop = TRUE)  {
-  if (!is.data.table(.data)) setDT(.data)
-  char_cols = names(.data)[sapply(.data, is.character)]
-  if (length(char_cols) != length(.data)) {
-    warning('Dropping non-character values in i')
-  }
-  if (length(char_cols)) {
-    .data[i, (char_cols) := lapply(.SD, f, collapse = collapse), .SDcols = char_cols]
-    .data = .data[-i[-1]]
-  }
-  if (isTRUE(drop)) {
-    .data = .data[-c(setdiff(i, i[1]))]
-  }
-  .data
-}
-
-#' Collapse cells
-#'
-#' Concatenate rows column-wise into a single row.
-#'
-#' @param .data A data.table.
-#' @param i A vector of row indexes.
-#' @param f Concatenation (or other) function.
-#' @param drop Drop all but the first row.
-#' @export
-collapse_cells = function(.data, i, f = paste_omit_na, collapse = ' ', .drop = TRUE) {
-  if (!is.data.table(.data)) setDT(.data)
-  stopifnot('row' %in% colnames(.data) & 'value' %in% colnames(.data))
-  if (!'value' %in% names(.data)) {
-    .data = combine_value_cols(.data)
-  }
-  if (is.numeric(i)) {
-    i = .data$row %in% i
-  }
-  # if (is.numeric(j)) {
-  #   j = .data$col %in% j
-  # }
-  if (sum(i) <= 0) {
-    stop("Need more than 1 row to collapse")
-  }
-  .data[i, value := f(value, collapse = collapse)]
-  .data = .data[-i[-1]]
-  if (isTRUE(.drop)) {
-    .data = .data[!(i)]
-  }
-  .data
-}
-
-#' Expand headers to include values in initial rows
-#' 
-#' @export
-#' @examples
-#' d = data.frame(A = c('B', 'C'), L = c('M', 'N'), stringsAsFactors = FALSE)
-#' d = expand_colnames(d, 1:2)
-#' d
-expand_colnames = function(.data, i, f = paste_omit_na, collapse = ' ', drop = TRUE) {
-  if (!is.data.table(.data)) setDT(.data)
-  suffixes = vapply(.data[i, ], f, collapse = collapse, FUN.VALUE = character(1))
-  setnames(.data, colnames(.data), paste(colnames(.data), na.omit(suffixes), sep = collapse))
-  if (drop) {
-    .data = .data[-i, ]
+  # Drop columns not in cols
+  drop_cols = setdiff(names(.data), cols)
+  for (col in drop_cols) {
+    .data[, c(col) := NULL]
   }
   .data[]
 }
 
-#' Split cells by row
+#' Split multiple tables in spreadsheets into separate dataframes
 #'
 #' @export
 split_cells = function(.data, pattern, i = TRUE, j = TRUE, starts = TRUE) {
@@ -215,7 +193,7 @@ split_cells = function(.data, pattern, i = TRUE, j = TRUE, starts = TRUE) {
 
 # TODO: need same but for footers, i.e., starting range from 1 and ending with
 # first index; etc.
-# 
+#
 # If row 2 gives 'District 1' and row 29 gives 'District 2', then read rows 3-28
 # and then rows 30+
 #' @importFrom purrr imap_int pmap
@@ -240,8 +218,8 @@ interval_to_index = function(i, n = NULL, is_start = TRUE) {
   }
 }
 
-#' Predicate for all-`NA` rows or columns in tidy excel tables
-#' 
+#' Identify all-`NA` rows or columns in spreadsheet
+#'
 #' @export
 all_na = function(.data, .by = 'row', i = TRUE, j = TRUE) {
   if (!is.data.table(.data)) setDT(.data)
@@ -257,8 +235,8 @@ all_na = function(.data, .by = 'row', i = TRUE, j = TRUE) {
   .data[[.by]] %in% na_ij[[.by]]
 }
 
-#' Predicate for rows in tidy excel table containing a pattern
-#' 
+#' Identify spreadsheet rows that contain a pattern
+#'
 #' @export
 row_contains = function(.data, pattern, i = TRUE, j = TRUE) {
   if (!is.data.table(.data)) setDT(.data)
@@ -274,8 +252,28 @@ row_contains = function(.data, pattern, i = TRUE, j = TRUE) {
   .data$row %in% match_i
 }
 
-#' Drop columns in tidyxl data not used in final returns data
-#' 
+#' @describeIn row_contains Identify spreadsheet columns that contain a pattern
+#'
+#' @export
+#' @inheritParams row_contains
+col_contains = function(.data, pattern, i = TRUE, j = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
+  stopifnot('value' %in% names(.data))
+  if (is.numeric(i)) {
+    i = .data$row %in% i
+  }
+  if (is.numeric(j)) {
+    j = .data$col %in% j
+  }
+  match_j = .data[i & j, any(stringr::str_detect(value,
+      stringr::regex(pattern, TRUE))), by = 'col'][(V1), row]
+  .data$col %in% match_j
+}
+
+#' Finalize spreadsheet data
+#'
+#' Drop columns in tidy spreadsheet data, and rename `values` as `votes`.
+#'
 #' @export
 finalize = function(.data) {
   setDT(.data, key = c('row', 'col'))
@@ -301,37 +299,7 @@ totals = function(.data, .by = c('office', 'candidate')) {
   .data[, sum(get(vote_col), na.rm = TRUE), by = .by][]
 }
 
-#' Drop tidyxl rows via predicate functions
-#'
-#' Example uses are dropping spreadsheet rows beyond some (spreadsheet) row
-#' number, or dropping spreadsheet rows in which any cell's values match
-#' a pattern like \code{'total'}.
-#'
-#' @export
-#' @examples
-#' library(data.table)
-#' d = data.table(row = 1:4, character = c('a', 'b', 'c', 'total'))
-#' d
-#' drop_predicates = list(
-#'   function(d) { d$row == 3 },
-#'   function(d) { d$character %=% 'total' })
-#' # predicate 1 -> drop rows 3
-#' # predicate 2 -> drop 'total' row
-#' drop_by_predicate(d, drop_predicates)
-drop_by_predicate = function(d, drop_predicates) {
-  if (!is.data.table(d)) setDT(d)
-  assert(is.list(drop_predicates))
-  assert(has_name(d, 'row'))
-  # Get the values of matching *row columns* in a tidyxl table
-  drop_rows = map(drop_predicates, ~ d[.x(d), row])
-  # Drop all rows whose *row column* value was matched
-  drop_rows = unique(unlist(drop_rows))
-  d[!row %in% drop_rows][]
-
-}
-
-#' Combine value columns in tidyxl data
-#' 
+# Combine value columns in tidyxl data
 combine_value_cols = function(.data) {
   # Combine value columns
   .data[data_type == 'numeric', value := as.character(numeric)]

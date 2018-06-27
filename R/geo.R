@@ -14,10 +14,10 @@ add_geo_ids = function(.data, must_work = TRUE) {
   .data[]
 }
 
-#' Add county identifiers to precinct returns
-#'
-#' @inheritParams write_precincts
-#' @export
+# Add county identifiers to precinct returns
+#
+# @inheritParams write_precincts
+# @export
 add_county_ids = function(.data, must_work = TRUE) {
   if (!is.data.table(.data)) setDT(.data)
   data('county_ids', package = 'medslcleaner', envir = environment())
@@ -30,10 +30,10 @@ add_county_ids = function(.data, must_work = TRUE) {
   .data[]
 }
 
-#' Standardize county FIPS codes
-#'
-#' @inheritParams write_precincts
-#' @export
+# Standardize county FIPS codes
+#
+# @inheritParams write_precincts
+# @export
 standardize_county_fips = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
   assert_that(has_name(.data, 'jurisdiction_fips'))
@@ -147,12 +147,12 @@ not_in_eavs = function(.data, eavs, must_work = TRUE) {
   invisible(disjoint)
 }
 
-#' Add state identifiers to precinct returns
-#'
-#' Given the state postal code, add the full name of the state and its FIPS and
-#' ICPSR codes.
-#'
-#' @inheritParams write_precincts
+# Add state identifiers to precinct returns
+#
+# Given the state postal code, add the full name of the state and its FIPS and
+# ICPSR codes.
+#
+# @inheritParams write_precincts
 add_state_ids = function(.data) {
   # We expect a single, known state abbreviation
   .data = normalize_state(.data)
@@ -164,13 +164,15 @@ add_state_ids = function(.data) {
   .data
 }
 
-#' Add Census identifiers to precinct returns
-#'
-#' @inheritParams write_precincts
-#' @inheritParams add_jurisdiction_fips 
-#' @export
+# Add Census identifiers to precinct returns
+#
+# @inheritParams write_precincts
+# @inheritParams add_jurisdiction_fips 
+# @export
 merge_census = function(.data, state_postal = NULL, must_work = TRUE) {
   if (!is.data.table(.data)) setDT(.data)
+  data('census_precincts', package = 'medslcleaner', envir = environment())
+  setDT(census_precincts)
   census = census_precincts[state == state_postal]
   if (!(all(unique(.data$merge_name) %in% unique(census$merge_name)))) {
     if (must_work) {
@@ -205,10 +207,10 @@ merge_census = function(.data, state_postal = NULL, must_work = TRUE) {
   .data[]
 }
 
-#' Fill missing data for new precincts
-#'
-#' @inheritParams write_precincts
-#' @export
+# Fill missing data for new precincts
+#
+# @inheritParams write_precincts
+# @export
 fill_new_precincts = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
   .data[, county_fips := ifelse(is.na(county_fips), unique(na.omit(county_fips)),

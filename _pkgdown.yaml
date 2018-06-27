@@ -1,0 +1,96 @@
+reference:
+
+- title: "Extract Data from Spreadsheets"
+  desc: >
+    These are functions for manipulating data in spreadsheets, e.g. Excel-formatted files
+    or CSVs. Such spreadsheets often have multiple or nested headers; "merged" cells; and
+    multiple tables in the same file or sheet.
+  contents:
+  - '`read_xlreturns`'
+  - '`split_cells`'
+  - '`as_idcol`'
+  - '`carry_down`'
+  - '`carry_right`'
+  - '`all_na`'
+  - '`row_contains`'
+  - '`excel_example_path`'
+  - '`keep_minimal`'
+
+- title: "Exploration"
+  desc: These are functions for interactively exploring datasets.
+  contents:
+  - '`col_values`'
+  - '`search_all`'
+
+- title: "String Wrangling"
+  desc: These are functions for working with string values.
+  contents:
+  - '`%-%`'
+  - '`%=%`'
+  - '`%e%`'
+  - '`move`'
+  - '`normalize_whitespace`'
+  - '`paste_omit_na`'
+
+- title: "Geographic variables, datasets, and validation"
+  contents:
+  - '`add_geo_ids`'
+  - '`add_jurisdiction_fips`'
+  - '`jurisdiction_merge_name`'
+  - '`census_precincts`'
+  - '`county_ids`'
+  - '`county_sub_ids`'
+  - '`eavs`'
+  - '`not_in_eavs`'
+  - '`not_in_state`'
+  - '`state_eavs`'
+  - '`state_ids`'
+
+- title: "Candidate values"
+  contents:
+  - '`add_candidate_ids`'
+  - '`normalize_presidential_candidates`'
+  - '`candidates`'
+  - '`candidate_merge_name`'
+
+
+- title: "Dataverse values"
+  contents:
+  - '`assign_fixed`'
+  - '`assign_match`'
+  - '`dvna`'
+  - '`ogrep`'
+
+- title: "District values"
+  contents:
+  - '`normalize_district_numbers`'
+
+- title: "Office values"
+  contents:
+  - '`normalize_office`'
+
+- title: "Party values"
+  contents:
+  - '`expand_party_abbr`'
+
+- title: "Dataset Validation"
+  contents:
+  - '`precinct_validity`'
+  - '`write_precincts`'
+  - '`compare_votes`'
+  - '`eavs`'
+  - '`assign_defaults`'
+  - '`precinct_column_types`'
+  - '`precinct_columns`'
+  - '`finalize`'
+
+- title: "Working with Legacy Data"
+  contents:
+  - '`read_precincts`'
+  - '`rename_legacy_vars`'
+
+- title: "Iterators, Wrappers and Utilities"
+  contents:
+  - '`melt_votes`'
+  - '`nlapply`'
+  - '`read_dir`'

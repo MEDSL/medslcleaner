@@ -2,10 +2,18 @@
 % Please edit documentation in R/excel.R
 \name{row_contains}
 \alias{row_contains}
-\title{Predicate for rows in tidy excel table containing a pattern}
+\alias{col_contains}
+\title{Identify spreadsheet rows that contain a pattern}
 \usage{
 row_contains(.data, pattern, i = TRUE, j = TRUE)
+
+col_contains(.data, pattern, i = TRUE, j = TRUE)
 }
 \description{
-Predicate for rows in tidy excel table containing a pattern
+Identify spreadsheet rows that contain a pattern
 }
+\section{Functions}{
+\itemize{
+\item \code{col_contains}: Identify spreadsheet columns that contain a pattern
+}}
+

@@ -2,7 +2,7 @@
 % Please edit documentation in R/exploration.R
 \name{search_all}
 \alias{search_all}
-\title{Search across character columns}
+\title{Search across all character columns}
 \usage{
 search_all(.data, pattern, ignore_case = TRUE)
 }
@@ -14,5 +14,5 @@ search_all(.data, pattern, ignore_case = TRUE)
 \item{ignore_case}{Should case differences be ignored in the match?}
 }
 \description{
-Search across character columns
+Search across all character columns
 }

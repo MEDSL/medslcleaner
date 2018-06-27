@@ -2,10 +2,32 @@
 % Please edit documentation in R/excel.R
 \name{as_idcol}
 \alias{as_idcol}
-\title{Create identifier columns in tidy Excel data}
+\title{Create identifier columns in spreadsheet data}
 \usage{
 as_idcol(.data, idcol, i = TRUE, j = TRUE, right = FALSE, down = FALSE,
   .drop = TRUE)
+}
+\arguments{
+\item{.data}{A table of tidy spreadsheet data (i.e., with columns \code{row}, \code{col}, and \code{value}).}
+
+\item{idcol}{String giving the name of the new identifier column.}
+
+\item{i}{One of: a vector of spreadsheet row indexes; a logical vector with
+length equal to the row count of dataframe .data; or a length-one logical
+vector applied to all spreadsheet rows."))}
+
+\item{right}{If \code{TRUE}, carry non-missing values in cells selected by \code{i} and
+j\code{rightward along spreadsheet rows. Can be used together with}down`.}
+
+\item{down}{If \code{TRUE}, carry non-missing values in cells selected by \code{i} and
+j\code{downward along spreadsheet rows. Can be used together with}up`.}
+
+\item{.drop}{If \code{TRUE}, drop spreadsheet cells selected by \code{i} and \code{j} after
+creating the new identifier column.}
+
+\item{i}{One of: a vector of spreadsheet column indexes; a logical vector with
+length equal to the \emph{row} count of dataframe .data; or a length-one logical
+vector applied to all spreadsheet columns."))}
 }
 \description{
 See the Excel vignette for use.
