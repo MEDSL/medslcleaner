@@ -33,6 +33,7 @@ assign_match = function(.data, pattern, dv, ignore_case = TRUE, ...) {
 #' @inheritParams assign_match
 #' @export
 ogrep = function(.data, pattern, ignore_case = TRUE, ...) {
+  if (!is.data.table(.data)) setDT(.data)
   matched = unique(.data[grepl(pattern, office, ignore.case = ignore_case, ...), .(office = substr(office, 1, 50), jurisdiction, dataverse)])
   matched = matched[, .(
     n_j = length(unique(jurisdiction)),
@@ -48,7 +49,7 @@ ogrep = function(.data, pattern, ignore_case = TRUE, ...) {
 #' @inheritParams write_precincts
 #' @export
 dvna = function(.data) {
-
+  if (!is.data.table(.data)) setDT(.data)
   na_dv = unique(.data[is.na(dataverse), .(
     office = substr(office, 1, 50) # ,
     # n_j = length(unique(jurisdiction))

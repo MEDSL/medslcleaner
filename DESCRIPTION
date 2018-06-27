@@ -13,7 +13,8 @@ Imports:
     purrr (>= 0.2.3),
     readxl (>= 1.0.0),
     stringr,
-    tidyxl (>= 1.0.0)
+    tidyxl (>= 1.0.0),
+    zoo
 Suggests: testthat,
     knitr,
     rmarkdown,

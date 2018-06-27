@@ -19,6 +19,7 @@ add_geo_ids = function(.data, must_work = TRUE) {
 #' @inheritParams write_precincts
 #' @export
 add_county_ids = function(.data, must_work = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
   data('county_ids', package = 'medslcleaner', envir = environment())
   stopifnot(!anyDuplicated(county_ids, by = c('county_fips', 'state_postal')))
   .data = merge(.data, county_ids, by = c('county_fips', 'state_postal'), all.x = TRUE)
@@ -34,6 +35,7 @@ add_county_ids = function(.data, must_work = TRUE) {
 #' @inheritParams write_precincts
 #' @export
 standardize_county_fips = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   assert_that(has_name(.data, 'jurisdiction_fips'))
   if (!is.numeric(.data$jurisdiction_fips)) {
     .data[, jurisdiction_fips := type.convert(jurisdiction_fips)]
@@ -55,6 +57,7 @@ standardize_county_fips = function(.data) {
 #' @inheritParams read_precincts
 #' @export
 add_jurisdiction_fips = function(.data, state_postal, add_key = TRUE, must_work = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
   eavs = state_eavs(state_postal)
   if (isTRUE(add_key)) {
     .data = jurisdiction_merge_name(.data)
@@ -91,6 +94,7 @@ state_eavs = function(state_postal) {
 #' @inheritParams read_precincts
 #' @export
 jurisdiction_merge_name = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   .data[, merge_name := sub('\\s*county', '', jurisdiction, ignore.case = TRUE)]
   .data[, merge_name := sub('^W\\. ', 'West ', merge_name)]
   .data[, merge_name := sub('^S\\. ', 'South ', merge_name)]
@@ -106,6 +110,7 @@ jurisdiction_merge_name = function(.data) {
 #' @inheritParams read_precincts
 #' @export
 not_in_state = function(.data, eavs, must_work = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
   stopifnot('merge_name' %in% names(.data))
   stopifnot('merge_name' %in% names(eavs))
   disjoint = sort(setdiff(unique(eavs$merge_name), unique(.data$merge_name)),
@@ -126,6 +131,7 @@ not_in_state = function(.data, eavs, must_work = TRUE) {
 #' @inheritParams not_in_state
 #' @export
 not_in_eavs = function(.data, eavs, must_work = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
   stopifnot('merge_name' %in% names(.data))
   stopifnot('merge_name' %in% names(eavs))
   disjoint = sort(setdiff(unique(.data$merge_name), unique(eavs$merge_name)),
@@ -164,6 +170,7 @@ add_state_ids = function(.data) {
 #' @inheritParams add_jurisdiction_fips 
 #' @export
 merge_census = function(.data, state_postal = NULL, must_work = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
   census = census_precincts[state == state_postal]
   if (!(all(unique(.data$merge_name) %in% unique(census$merge_name)))) {
     if (must_work) {
@@ -203,6 +210,7 @@ merge_census = function(.data, state_postal = NULL, must_work = TRUE) {
 #' @inheritParams write_precincts
 #' @export
 fill_new_precincts = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   .data[, county_fips := ifelse(is.na(county_fips), unique(na.omit(county_fips)),
     county_fips), by = c('jurisdiction')]
   .data[, state_fips := ifelse(is.na(state_fips), unique(na.omit(state_fips)),

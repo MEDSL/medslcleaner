@@ -38,7 +38,7 @@ read_precincts = function(path, strict = TRUE, use_types = FALSE) {
 #' - Locate paths with `list.files`, using `full.names = TRUE` and perhaps a `pattern`
 #' - Apply a read function like [`fread`](data.table) or
 #'   [`read_excel`](xlreader) to each path
-#' - Combine the data with [`rbindlist`] or [`bind_rows`], using the paths as an
+#' - Combine the data with [`rbindlist`] or [`dplyr::bind_rows`], using the paths as an
 #'   identifier column
 #' 
 #' @param path Path to a directory of returns.
@@ -61,6 +61,7 @@ read_dir = function(path = '../raw', f = data.table::fread, idcol = 'path', ...)
 #' @inheritParams read_precincts
 #' @export
 rename_legacy_vars = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   if (has_name(.data, 'candidate.votes')) {
     setnames(.data, 'candidate.votes', 'votes')
   }
@@ -78,6 +79,7 @@ rename_legacy_vars = function(.data) {
 }
 
 normalize_state = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   if (has_name(.data, 'state')) {
     data('state_ids', package = 'medslcleaner', envir = environment())
 		if (all(.data[['state']] %chin% state_ids$state_postal)) {

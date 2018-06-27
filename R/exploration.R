@@ -7,6 +7,7 @@
 #'   to disable.
 #' @export
 col_values = function(.data, n_max = 1000) {
+  if (!is.data.table(.data)) setDT(.data)
   cols = setdiff(names(.data), c('votes', 'candidate.votes', 'total.votes'))
   cols = intersect(unique(c('precinct', 'jurisdiction', cols)), cols)
   lapply(.data[, cols, with = FALSE], function(x) {
@@ -32,6 +33,7 @@ su = function(x) {
 #' @inheritParams stringr::regex
 #' @export
 search_all = function (.data, pattern, ignore_case = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
   result = lapply(char_cols(.data), function(colname) { 
     unique(str_subset(.data[[colname]], regex(pattern, ignore_case)))
   })

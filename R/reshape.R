@@ -5,6 +5,7 @@
 #' @export
 melt_votes = function(data, ..., na.rm = TRUE, value.name = 'votes', variable.name = 'candidate',
   variable.factor = FALSE, value.factor = FALSE) {
+  if (!is.data.table(.data)) setDT(.data)
   melt(data, ..., na.rm = na.rm, value.name = value.name, variable.name =
     variable.name, variable.factor = variable.factor, value.factor = FALSE)
 }

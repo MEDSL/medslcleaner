@@ -10,6 +10,7 @@
 #' @inheritParams write_precincts
 #' @export
 normalize_presidential_candidates = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   .data[office == 'US President' & str_detect(candidate, coll('kennedy', TRUE)),
     candidate := 'Allyson Kennedy']
   .data[office == 'US President' & str_detect(candidate, coll('rocky', TRUE)),

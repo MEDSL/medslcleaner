@@ -1,6 +1,7 @@
 # Functions related to the `district` variable in precinct returns data
 
 add_districts = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   # TODO
 }
 

@@ -16,6 +16,7 @@
 #' data(precinct_validity)
 #' precinct_validity$votes
 write_precincts = function(.data, state_postal, skip = NULL) {
+  if (!is.data.table(.data)) setDT(.data)
   .data = rename_legacy_vars(.data)
   .data = fill_writein_candidate(.data)
   .data = keep_columns(.data)
@@ -31,6 +32,7 @@ write_precincts = function(.data, state_postal, skip = NULL) {
 
 #' Assign write-ins the `candidate` value of `['write-in']`
 fill_writein_candidate = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   if ('writein' %in% colnames(.data)) {
     .data[is.na(candidate) & get('writein'), candidate := '[Write-in]']
   }
@@ -39,6 +41,7 @@ fill_writein_candidate = function(.data) {
 
 #' Convert types before saving
 convert_types = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   # Type-convert character variables we expect to be integer/numeric/logical 
   for (varname in intersect(char_cols(.data), names(precinct_validity))) {
     if (precinct_validity[[varname]]$type %in% c('integer', 'numeric', 'logical')) {
@@ -97,6 +100,7 @@ is_valid = function(.data, skip = NULL) {
 
 #' Keep expected columns in precinct returns
 keep_columns = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   for (extra_col in setdiff(names(.data), names(precinct_validity))) {
     .data[, c(extra_col) := NULL]
   }
@@ -112,6 +116,7 @@ keep_columns = function(.data) {
 #' @inheritParams write_precincts
 #' @export
 normalize_whitespace = function(.data, inner = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
   columns = names(.data)[sapply(.data, is.character)]
   if (inner) {
     .data[, c(columns) := lapply(.SD, str_replace_all, '\\s+', ' '), .SDcols = columns]
@@ -125,6 +130,7 @@ normalize_whitespace = function(.data, inner = TRUE) {
 
 #' Set column order in precinct returns
 order_columns = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
   col_order = intersect(names(.data), names(precinct_validity))
   setcolorder(.data, col_order)
   .data[]
@@ -133,6 +139,7 @@ order_columns = function(.data) {
 #' Assign default values to missing precinct return variables
 #' @export
 assign_defaults = function(.data, state_postal) {
+  if (!is.data.table(.data)) setDT(.data)
   if (!missing(state_postal) & !has_name(.data, 'state_postal')) {
     .data[, state_postal := str_to_upper(state_postal)]
   }

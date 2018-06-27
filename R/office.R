@@ -3,7 +3,7 @@
 #' Normalize office values
 #' @export
 normalize_office = function(.data) {
-  setDT(.data)
+  if (!is.data.table(.data)) setDT(.data)
   .data[office %=% 'president.*vice[\\s-]+president', office := 'US President']
   .data[office %=% 'u[\\s.]+s[\\s.]+ senat', office := 'US Senate']
   .data[office %=% 'united states senat', office := 'US Senate']
