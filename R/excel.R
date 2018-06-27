@@ -172,15 +172,9 @@ collapse_cells = function(.data, i, f = paste_omit_na, collapse = ' ', .drop = T
 #' 
 #' @export
 #' @examples
-#' d = data.table(A = c('B', 'C'), L = c('M', 'N'), stringsAsFactors = FALSE)
+#' d = data.frame(A = c('B', 'C'), L = c('M', 'N'), stringsAsFactors = FALSE)
 #' d = expand_colnames(d, 1:2)
 #' d
-#> Empty data.table (0 rows) of 2 cols: A B C,L M N
-#' d = data.table(A = c('B', 'C'), L = c('M', 'N'), stringsAsFactors = FALSE)
-#' d = expand_colnames(d, 2)
-#' d
-#>    A C L N
-#> 1:   B   M
 expand_colnames = function(.data, i, f = paste_omit_na, collapse = ' ', drop = TRUE) {
   if (!is.data.table(.data)) setDT(.data)
   suffixes = vapply(.data[i, ], f, collapse = collapse, FUN.VALUE = character(1))

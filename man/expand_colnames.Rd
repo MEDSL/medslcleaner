@@ -10,10 +10,7 @@ expand_colnames(.data, i, f = paste_omit_na, collapse = " ", drop = TRUE)
 Expand headers to include values in initial rows
 }
 \examples{
-d = data.table(A = c('B', 'C'), L = c('M', 'N'), stringsAsFactors = FALSE)
+d = data.frame(A = c('B', 'C'), L = c('M', 'N'), stringsAsFactors = FALSE)
 d = expand_colnames(d, 1:2)
-d
-d = data.table(A = c('B', 'C'), L = c('M', 'N'), stringsAsFactors = FALSE)
-d = expand_colnames(d, 2)
 d
 }
