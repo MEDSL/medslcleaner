@@ -5,7 +5,8 @@
 
 The `medslcleaner` R package helps prepare election returns for release
 by [MEDSL](https://electionlab.mit.edu). We use the package in R scripts
-that normalize or clean raw data.
+that normalize or clean raw data. It’s in early development and anything
+may change.
 
 ## Installation
 
