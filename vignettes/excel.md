@@ -1,9 +1,9 @@
-Extracting Returns from Excel Files
+Working with Spreadsheets
 ================
 
 This vignette demonstrates the extraction of election results from Excel
-files using the `medslcleaner` package. We’ll introduce a toolset and
-workflow for examples of common spreadsheet layouts.
+and CSV files using the `medslcleaner` package. We introduce the
+available tools and show solutions for common spreadsheet layouts.
 
 # Tutorial
 
@@ -12,9 +12,10 @@ Merrimack, New Hampshire.
 
 ![](merrimack.png)
 
-Reading this sheet into R as if it were ordinary tabular data, with the
-excellent [`readxl`](https://github.com/tidyverse/readxl) package,
-doesn’t work very well.
+## Problem
+
+Reading this sheet into R as if it were ordinary tabular data doesn’t
+work very well.
 
 ``` r
 library(dplyr)
@@ -22,7 +23,6 @@ library(stringr)
 library(readxl)
 
 merrimack_path = excel_example_path('merrimack')
-
 read_excel(merrimack_path, col_names = FALSE) %>%
   head()
 ```
@@ -39,16 +39,18 @@ read_excel(merrimack_path, col_names = FALSE) %>%
 
 Notice:
 
-  - *Multiple header rows:* We see the jurisdiction in row `2`. Row `3`
-    indicates offices. Row `4` gives candidates.
+  - *Multiple header rows:* The jurisdiction is in row `2`. Row `3`
+    indicates offices. Row `4` gives candidates. We refer to these rows
+    as header rows, and their non-blank cells as header cells.
 
-  - *Multiple-column or “merged” cells:* headers `Sheriff`, `Attorney`,
-    and `Treasurer` each apply to two columns. But in R, these values
-    occupy only the first of the merged columns.
+  - *Multiple-column or “merged” cells:* the header cells with values
+    `Sheriff`, `Attorney`, and `Treasurer` are associated with both of
+    the two columns beneath them. But under this approach, the header
+    cell values appear only above the first column.
 
-We can use `medslcleaner` to extract the vote counts for each candidate
-by precinct, and correctly associate candidates with offices, districts,
-and parties. Here’s where we’re going:
+## Solution
+
+Here’s where we’re going:
 
 ``` r
 # Instead of `read_excel`, `read_xlreturns`
@@ -77,10 +79,14 @@ head(d)
     ## 5:  1296 Merrimack County Offices   Allenstown Treasurer    Hammond, r
     ## 6:   699 Merrimack County Offices   Allenstown Treasurer  Rodriguez, d
 
-Some parsing remains, but that’s the heavy lifting in fewer than 10
-lines. Now step by step. We read the data with function
-`read_xlreturns`. You can specify a sheet other than the first with the
-`sheet` argument.
+Some cleaning up remains, but the heavy lifting is done in fewer than 10
+lines.
+
+## Steps
+
+### Reading from the disk
+
+We read the data with function `read_xlreturns`.
 
 ``` r
 d = read_xlreturns(merrimack_path, sheet = 1)
@@ -99,47 +105,67 @@ d %>%
     ## 5:      E1   1   5                                      <NA>
     ## 6:      F1   1   6                                      <NA>
 
-Consider how the spreadsheet has been represented in R, as shown above.
-The columns you need to know about are `value`, `i`, and `j`. Each
-element in the `value` column gives the contents of a single spreadsheet
-cell. Columns `i` and `j` indicate the row and column indexes of that
-cell.
+### Spreadsheet data in R
 
-Excel indexes columns with letters, but we’re using numbers *j ∈ 1, …,
-K* for *K* columns and index rows *i ∈ 1, …, N* for *N* rows. Each row
-in the cell data (our representation of the spreadsheet in R) thus gives
-an `(i, j, value)` triple like `(3, 2, 'Sheriff')` or `(3, 3,
-'Attorney')`.
+Consider how the spreadsheet is now represented in R. Each element in
+the `value` column gives the contents of a single spreadsheet cell.
+Columns `row` and `col` indicate the row and column of that cell. (Excel
+identifies columns with letters, but we use numbers.)
 
-With that in mind, we use the `as_idcol` function to create new columns
-(say, `office`) from values that don’t represent vote counts. We specify
-which cells contain these values using indexes. (In more difficult
-scenarios we can use functions, but more on that later.) The `as_idcol`
-function takes arguments `i` and `j` to identify which row(s) and
-column(s) to select. We can carry these cells’ contents right along rows
-using `right = TRUE` or down columns with `down = TRUE`, or both. The
-source cell or cells then drop from the data (by default).
+This format will turn out to be convenient, but right now the
+relationship between headers and vote cells is unclear.
 
-Consider the precinct names in column `1`. To identify them as
-describing all the vote counts to their right, we can do this:
+### Associating headers with vote cells
+
+Our task is to specify all of the relationships between header cells and
+vote cells. We do this with the `as_idcol` function. It adds a new
+column to the data that takes its values from header cells – for all the
+vote cells we specify as associated with that header.
+
+We can select header cells by their row and column indexes. (Or in more
+difficult spreadsheets with logical functions, as discussed later.)
+`as_idcol` takes arguments `i` and `j` for row(s) and column(s). For
+example, if we specified `i = 2`, the values of the second row in the
+spreadsheet would be considered header values. With both `i = 2` and `j
+= 1`, we could define the cell in the second row and first column as a
+header cell. So `i` and `j` define part of the relationship between
+headers and votes – by identifying which cells are headers.
+
+We identify the vote cells associated with a header by giving directions
+from the header cell. We can move rightward in the spreadsheet from a
+header cell, associating it with all the vote cells in the spreadsheet
+row to its right. We can move downward, linking the header with the vote
+cells below its spreadsheet column. Or, we can do both at once,
+associating a header with all the vote cells under it and to the right.
+The arguments `right` and `down` control this behavior.
+
+What makes this operation powerful for extracting data from spreadsheets
+is our ability to specify more than one row in `i` or column in `j`.
+
+The source cell or cells then drop from the data (by default).
+
+Consider again the precinct names in column `1` of the Merrimack
+spreadsheet. To associate them with all the vote counts to their right,
+we do this:
 
 ``` r
 # `j = 1` refers to the first column  
 d = as_idcol(d, 'precinct', j = 1, right = TRUE)
 ```
 
-What did this call do? All the values in column `j=1` describe the cells
-to their `right`. We created a new variable `precinct` that takes as
-values the contents of cells where `j` is `1` (otherwise `NA`). We then
-carried these values `right` across
-rows.
+We just created a new variable `precinct` that takes as values the
+contents of cells where `j` is `1` (otherwise `NA`), for all the vote
+cells to their `right` in the spreadsheet.
 
-![](/home/james/medsl/medslcleaner/vignettes/merrimack-carry-precincts-right.png)<!-- -->
+Defining cells as headers causes them to drop them from the spreadsheet
+data (by default) after moving their values into the new identifier
+column in the spreadsheet data. One way to think of the `as_idcol`
+function is as transformation of headers from spreadsheet cells into
+characteristics of spreadsheet cells.
 
-The `right` argument carries cell contents matched by `i` and `j` along
-their rows until either the next matching cell (specified in `i` or `j`)
-or the end of the row or column, whichever comes first. The result is
-this:
+![](merrimack-carry-precincts-right.png)
+
+The result is this:
 
 ``` r
 d %>%
@@ -155,9 +181,6 @@ d %>%
     ## 4      E5   5   5 Allenstown
     ## 5      F5   5   6 Allenstown
     ## 6      G5   5   7 Allenstown
-
-If you’re familiar with “last observation carry-forward,” you might
-recognize this operation as LOCF on non-missing values.
 
 Let’s do the remaining identifiers:
 
