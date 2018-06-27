@@ -33,4 +33,8 @@ devtools::install_github('MEDSL/medslcleaner')
 
 ## Use
 
-See the `vignettes` directory.
+See the vignettes:
+
+* [Workflow](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/workflow.md)
+* [Excel files](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/excel.md)
+* [Data](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/data.md)

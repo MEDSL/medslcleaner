@@ -8,7 +8,8 @@ vignette: >
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+#! rmarkdown::render('workflow.Rmd')
+knitr::opts_chunk$set(echo = TRUE, collapse = TRUE)
 ```
 
 ## Overview
@@ -29,11 +30,6 @@ some guidance.
 
 
 ### Read returns
-
-```{r}
-library(data.table)
-library(medslcleaner)
-```
 
 #### CSV
 
@@ -67,11 +63,7 @@ already look like sane tabular data, with a single header row followed by observ
 
 This isn't always so. Consider an excerpt:
 
-```{r, echo=FALSE}
-# FIXME: hack for pandoc error
-path = 'excel-example.png'
-knitr::include_graphics(file.path(normalizePath(dirname(path)), path))
-```
+![Excel Example](excel-example.png)
 
 The top of the sheet has three headers, which give:
 
@@ -159,7 +151,8 @@ appear in the raw data. In the future, this might change. See the
 `normalize_office` function.
 
 ```{r}
-d = data.table(
+library(medslcleaner)
+d = data.frame(
   office = 'President and Vice President of the United States',
   candidate = 'Write-ins')
 normalize_office(d)
@@ -176,7 +169,7 @@ in which they appear on the ballot. In practice, candidate names appear
 consistently at least within jurisdictions, and usually within states.
 
 ```{r}
-d = data.table(
+d = data.frame(
   office = c('US President'),
   candidate = c('TRUMP', 'CLINTON'))
 normalize_presidential_candidates(d)
@@ -189,8 +182,8 @@ We standardize the names of parties where it seems useful. Exactly how could
 change in the future, but we use `expand_party_abbr()`.
 
 ```{r}
-d = data.table(party = c('DEM', 'REP'))
-d[, expand_party_abbr(party)][]
+d = data.frame(party = c('DEM', 'REP'))
+expand_party_abbr(d$party)
 ```
 
 
@@ -220,9 +213,9 @@ and `dvna` no longer produces an error.
 
 First assign standardized offices:
 ```{r}
-d = data.table(office = c('US House', 'County Commissioner'), jurisdiction =
+d = data.frame(office = c('US House', 'County Commissioner'), jurisdiction =
   c('Appleton', 'Racine'))
-print(d)
+d
 
 d = assign_fixed(d)
 d
@@ -285,6 +278,7 @@ For example, there must exist in the data a variable `state_postal` of type
 can't be missing, and in fact must take one of 51 valid values:
 
 ```{r}
+data(precinct_validity)
 str(precinct_validity[['state_postal']])
 ```
 

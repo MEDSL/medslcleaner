@@ -23,7 +23,7 @@ A wrapper for the pattern:
 \item Locate paths with \code{list.files}, using \code{full.names = TRUE} and perhaps a \code{pattern}
 \item Apply a read function like \href{data.table}{fread} or
 \href{xlreader}{read_excel} to each path
-\item Combine the data with \code{\link{rbindlist}} or \code{\link{bind_rows}}, using the paths as an
+\item Combine the data with \code{\link{rbindlist}} or \code{\link[dplyr:bind_rows]{dplyr::bind_rows}}, using the paths as an
 identifier column
 }
 }

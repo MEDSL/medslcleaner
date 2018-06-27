@@ -20,5 +20,5 @@ drop_predicates = list(
   function(d) { d$character \%=\% 'total' })
 # predicate 1 -> drop rows 3
 # predicate 2 -> drop 'total' row
-drop_by_predicate(d, drop)
+drop_by_predicate(d, drop_predicates)
 }

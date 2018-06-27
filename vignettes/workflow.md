@@ -21,11 +21,6 @@ and offer some guidance.
 
 ### Read returns
 
-``` r
-library(data.table)
-library(medslcleaner)
-```
-
 #### CSV
 
 Column *type* problems often arise when reading returns from delimited
@@ -60,7 +55,7 @@ row followed by observations whose identifiers are in columns.
 
 This isn’t always so. Consider an excerpt:
 
-![](/home/james/medsl/medslcleaner/vignettes/excel-example.png)<!-- -->
+![Excel Example](excel-example.png)
 
 The top of the sheet has three headers, which give:
 
@@ -151,14 +146,14 @@ left as they appear in the raw data. In the future, this might change.
 See the `normalize_office` function.
 
 ``` r
-d = data.table(
+library(medslcleaner)
+d = data.frame(
   office = 'President and Vice President of the United States',
   candidate = 'Write-ins')
 normalize_office(d)
+##          office candidate
+## 1: US President Write-ins
 ```
-
-    ##          office candidate
-    ## 1: US President Write-ins
 
 #### candidate
 
@@ -173,15 +168,14 @@ names appear consistently at least within jurisdictions, and usually
 within states.
 
 ``` r
-d = data.table(
+d = data.frame(
   office = c('US President'),
   candidate = c('TRUMP', 'CLINTON'))
 normalize_presidential_candidates(d)
+##          office       candidate
+## 1: US President    Donald Trump
+## 2: US President Hillary Clinton
 ```
-
-    ##          office       candidate
-    ## 1: US President    Donald Trump
-    ## 2: US President Hillary Clinton
 
 #### party
 
@@ -189,11 +183,10 @@ We standardize the names of parties where it seems useful. Exactly how
 could change in the future, but we use `expand_party_abbr()`.
 
 ``` r
-d = data.table(party = c('DEM', 'REP'))
-d[, expand_party_abbr(party)][]
+d = data.frame(party = c('DEM', 'REP'))
+expand_party_abbr(d$party)
+## [1] "democratic" "republican"
 ```
-
-    ## [1] "democratic" "republican"
 
 ### Assign dataverses
 
@@ -224,23 +217,19 @@ First assign standardized
 offices:
 
 ``` r
-d = data.table(office = c('US House', 'County Commissioner'), jurisdiction =
+d = data.frame(office = c('US House', 'County Commissioner'), jurisdiction =
   c('Appleton', 'Racine'))
-print(d)
-```
+d
+##                office jurisdiction
+## 1            US House     Appleton
+## 2 County Commissioner       Racine
 
-    ##                 office jurisdiction
-    ## 1:            US House     Appleton
-    ## 2: County Commissioner       Racine
-
-``` r
 d = assign_fixed(d)
 d
+##                 office jurisdiction dataverse
+## 1:            US House     Appleton     house
+## 2: County Commissioner       Racine      <NA>
 ```
-
-    ##                 office jurisdiction dataverse
-    ## 1:            US House     Appleton     house
-    ## 2: County Commissioner       Racine      <NA>
 
 `dvna` would now show unassigned offices and stop. To assign them to
 dataverses:
@@ -248,30 +237,22 @@ dataverses:
 ``` r
 # We test out a pattern that matches some number of the `office` values
 ogrep(d, 'County')
-```
+##                 office n_j   dv
+## 1: County Commissioner   1 <NA>
 
-    ##                 office n_j   dv
-    ## 1: County Commissioner   1 <NA>
-
-``` r
 # Then assign matching rows a given `dataverse` value, in this case `local`
 d = assign_match(d, 'County', 'local')
 d
-```
+##                 office jurisdiction dataverse
+## 1:            US House     Appleton     house
+## 2: County Commissioner       Racine     local
 
-    ##                 office jurisdiction dataverse
-    ## 1:            US House     Appleton     house
-    ## 2: County Commissioner       Racine     local
-
-``` r
 # `dvna` no longer produces an error because all rows have a `dataverse`;
 # Leave it in the script here, as confirmation this remains true
 dvna(d)
+## Empty data.table (0 rows) of 1 col: office
+## [1] TRUE
 ```
-
-    ## Empty data.table (0 rows) of 1 col: office
-
-    ## [1] TRUE
 
 ### Add geo IDs
 
@@ -318,14 +299,14 @@ observations; it can’t be missing, and in fact must take one of 51 valid
 values:
 
 ``` r
+data(precinct_validity)
 str(precinct_validity[['state_postal']])
+## List of 4
+##  $ type    : chr "character"
+##  $ no_na   : logi TRUE
+##  $ n_unique: num 1
+##  $ values  : chr [1:51] "AL" "AK" "AZ" "AR" ...
 ```
-
-    ## List of 4
-    ##  $ type    : chr "character"
-    ##  $ no_na   : logi TRUE
-    ##  $ n_unique: num 1
-    ##  $ values  : chr [1:51] "AL" "AK" "AZ" "AR" ...
 
 The important changes that `write_precincts` makes before writing to
 disk are to keep only the expected columns and normalize whitespace in

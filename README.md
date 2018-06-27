@@ -13,9 +13,15 @@ Install from GitHub using e.g. `devtools`.
 
 ``` r
 if (!require(devtools, quietly = TRUE)) install.packages('devtools')
-# devel version of readr
-devtools::install_github('tidyverse/readr')
 devtools::install_github('MEDSL/medslcleaner')
 ```
 
 ## Use
+
+See the
+    vignettes:
+
+  - [Workflow](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/workflow.md)
+  - [Excel
+    files](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/excel.md)
+  - [Data](https://github.com/MEDSL/medslcleaner/blob/master/vignettes/data.md)
