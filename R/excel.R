@@ -240,23 +240,6 @@ interval_to_index = function(i, n = NULL, is_start = TRUE) {
   }
 }
 
-#' Combine the results of split_sheet()
-#' 
-#' Deprecated in favor of [finalize]
-#' 
-#' @export
-combine_sheet = function(returns, id.vars = 'precinct') {
-  returns = suppressWarnings({lapply(returns, melt, id.vars = id.vars,
-    value.name = 'votes', variable.name = 'candidate', variable.factor =
-      FALSE)})
-  returns = rbindlist(returns, fill = TRUE)
-  returns = returns[!votes %=% '-']
-  returns[, votes := type.convert(votes)]
-  returns[, L1 := NULL]
-  returns = expand_parties(returns)
-  returns[]
-}
-
 #' Predicate for all-`NA` rows or columns in tidy excel tables
 #' 
 #' @export
