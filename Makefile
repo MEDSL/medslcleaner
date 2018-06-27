@@ -5,7 +5,7 @@ MAKEFILE_PATH := $(abspath $(lastword $(MAKEFILE_LIST)))
 R_ARGS := --no-site-file --no-environ --no-save \
 	  --no-restore --no-resave-data --no-manual --quiet
 
-all: clean docs data readme build check install
+all: clean docs data build check install
 
 quick: clean 
 
@@ -35,11 +35,16 @@ install-quick:
 	R CMD INSTALL --no-multiarch --no-docs --no-html \
 	  --with-keep.source .
 
-readme: README.Rmd
+README.md: README.Rmd
 	R --vanilla --slave -e "rmarkdown::render('README.Rmd')"
 
-docs:
+docs: vignettes README.md
 	R --vanilla --slave -e "devtools::document()"
+
+vignettes: $(wildcard vignettes/*.md)
+
+vignettes/%.md: vignettes/%.Rmd
+	cd vignettes && Rscript -e "rmarkdown::render('$(<F)')"
 
 data: $(wildcard data/*.rda)
 
