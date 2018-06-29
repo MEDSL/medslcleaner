@@ -31,7 +31,7 @@ New Hampshire.
 
 ![](merrimack.png)
 
-## Problem
+## The Problem
 
 Reading this sheet into R as if it were ordinary tabular data doesn't work
 very well. 
@@ -41,7 +41,7 @@ library(dplyr)
 library(stringr)
 library(readxl)
 
-merrimack_path = excel_example_path('merrimack')
+merrimack_path = spreadsheet_example('merrimack')
 read_excel(merrimack_path, col_names = FALSE) %>%
   head()
 ```
@@ -104,36 +104,31 @@ Consider how the spreadsheet is now represented in R. Each element in the
 and `col` indicate the row and column of that cell. (Excel identifies columns
 with letters, but we use numbers.)
 
-This format will turn out to be convenient, but right now the relationship
-between headers and vote cells is unclear.
 
 ### Associating headers with vote cells
 
-Our task is to specify all of the relationships between header cells and vote
-cells. We do this with the `as_idcol` function. It adds a new column to the data
-that takes its values from header cells -- for all the vote cells we specify as
-associated with that header.
+This format will turn out to be convenient, but right now the relationship
+between headers and vote cells is unclear. Our task is to specify all of the
+relationships between header cells and vote cells. We do this with the
+`as_idcol` function. It adds a new column to the data that takes its values from
+header cells -- but only for cells associated with that header.
 
-We can select header cells by their row and column indexes. (Or in more
-difficult spreadsheets with logical functions, as discussed later.) `as_idcol`
-takes arguments `i` and `j` for row(s) and column(s). For example, if we
-specified `i = 2`, the values of the second row in the spreadsheet would be
-considered header values. With both `i = 2` and `j = 1`, we could define the
-cell in the second row and first column as a header cell. So `i` and `j` define
-part of the relationship between headers and votes -- by identifying which cells
-are headers.
+We select header cells by their row and column indexes. (Or in more difficult
+spreadsheets with logical functions, as discussed in the next section.)
+`as_idcol` takes arguments `i` and `j` for spreadsheet row(s) and column(s). For
+example, if we specified `i = 2`, the values of the second row in the
+spreadsheet would be considered header values. With both `i = 2` and `j = 1`, we
+could define the cell in the second row and first column as a header cell. So
+`i` and `j` define part of the relationship between headers and votes -- by
+identifying which cells are headers.
 
 We identify the vote cells associated with a header by giving directions from
 the header cell. We can move rightward in the spreadsheet from a header cell,
 associating it with all the vote cells in the spreadsheet row to its right. We
-can move downward, linking the header with the vote cells below its spreadsheet
-column. Or, we can do both at once, associating a header with all the vote cells
-under it and to the right. The arguments `right` and `down` control this behavior.
-
-What makes this operation powerful for extracting data from spreadsheets is our
-ability to specify more than one row in `i` or column in `j`. 
-
-The source cell or cells then drop from the data (by default).
+can move downward, linking the header with the vote cells beneath it in a
+spreadsheet column. Or, we can do both at once, associating a header with all
+the vote cells under it and to the right. The arguments `right` and `down`
+control this behavior.
 
 Consider again the precinct names in column `1` of the Merrimack spreadsheet. To
 associate them with all the vote counts to their right, we do this:
@@ -190,10 +185,10 @@ there's a bit more work to do. We'd clean up the values of `jurisdiction` as
 (e.g., `r` and `d`) into their own `party` column. But we've reached our goal of
 parsing the Excel file into a tidy dataframe.
 
-This ends the tutorial. The sections that follow demonstrate solutions for more
-difficult spreadsheets. In particular, they introduce more flexible ways of
-specifying arguments `i` and `j`: using functions to select the desired rows and
-columns.
+The sections that follow demonstrate other ways to use `as_idcol`. They explain
+how and when to specify multiple rows or columns in `i` or `j`; how to use
+logical functions in `i` and `j`; and some helper functions for spreadsheet
+data.
 
 
 ## Multiple tables per spreadsheet (WIP)
