@@ -6,6 +6,9 @@
 \usage{
 rename_legacy_vars(.data)
 }
+\arguments{
+\item{.data}{A table of returns.}
+}
 \description{
 Rename legacy variable names
 }

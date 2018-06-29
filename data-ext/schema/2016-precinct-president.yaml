@@ -1,0 +1,22 @@
+name: 2016-precinct-president
+title: U.S. President Precinct-Level Returns 2016
+author: MIT Election Data and Science Lab (https://electionlab.mit.edu)
+homepage: http://dx.doi.org/10.7910/DVN/LYWX3D
+dataverse: medsl_president
+doi: doi:10.7910/DVN/LYWX3D
+level: precinct-level
+record_definition: >
+  Each record in the dataset gives the number of votes reported from a precinct for a line on a ballot: a party
+  candidate running for office, write-ins, or a ballot measure.
+r_alias: presidential_precincts_2016
+election_year: 2016
+election_date: November 8, 2016
+fields: fields.yaml
+values:
+  includes:
+    - ../metadata/candidates/2016-president.csv
+    - ../metadata/geo/2016-precincts.csv
+  totals:
+    - ../metadata/totals/2016-president.csv
+    - ../metadata/totals/2016-leip-by-state.csv
+    - ../metadata/totals/2016-leip-by-jurisdiction.csv

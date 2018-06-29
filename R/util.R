@@ -2,6 +2,7 @@
 #' 
 #' This is equivalent to `sapply(x, f, simplify = FALSE, USE.NAMES = TRUE)`.
 #'
+#' @inheritParams base::lapply
 #' @param name_transform A function to transform `X` before using it as the
 #'   output's names.
 #' @export

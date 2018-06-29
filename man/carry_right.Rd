@@ -4,8 +4,17 @@
 \alias{carry_right}
 \title{Carry spreadsheet values right row-wise}
 \usage{
-carry_right(.data, i = TRUE, idcol = NULL)
+carry_right(.data, rows = TRUE, idcol = NULL)
+}
+\arguments{
+\item{.data}{A table of tidy spreadsheet data (i.e., with columns \code{row}, \code{col}, and \code{value}).}
+
+\item{rows}{One of: a vector of spreadsheet row indexes; a logical vector with
+length equal to the row count \emph{of dataframe \code{.data}}; or a length-one logical
+vector (i.e., \code{TRUE} or \code{FALSE}) applied to all spreadsheet rows.}
+
+\item{idcol}{String giving the name of the new identifier column.}
 }
 \description{
-Usually called by \link{as_idcol}, not directly.
+Usually called by \link{as_header}, not directly.
 }

@@ -42,7 +42,7 @@ format that preserves types, e.g. an R data format. But we haven’t
 always done this, and in the 2016 returns there are a lot of
 intermediate CSVs.
 
-Read these intermediate CSVs with the `read_precincts` function. It
+Read these intermediate CSVs with the `read_legacy_csv` function. It
 promotes parser warnings to errors, and can read expected columns with
 the appropriate types if `use_types = TRUE`.
 

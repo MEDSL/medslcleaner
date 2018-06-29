@@ -6,6 +6,12 @@
 \usage{
 state_eavs(state_postal)
 }
+\arguments{
+\item{state_postal}{State postal abbreviation, e.g. \code{"NY"}.}
+}
+\value{
+The \code{[eavs]} dataset subset to \code{state_postal}.
+}
 \description{
 Load EAVS precinct data for a given state
 }

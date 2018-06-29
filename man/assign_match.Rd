@@ -11,6 +11,9 @@ assign_match(.data, pattern, dv, ignore_case = TRUE, ...)
 
 \item{pattern}{Pattern to modify behaviour.}
 
+\item{dv}{A value to assign the \code{dataverse} variable for rows in \code{.data} that
+match \code{pattern} in column \code{office}.}
+
 \item{ignore_case}{Should case differences be ignored in the match?}
 
 \item{...}{Further arguments to \code{grepl}}

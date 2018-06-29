@@ -4,9 +4,27 @@
 \alias{melt_votes}
 \title{Melt candidate votes}
 \usage{
-melt_votes(data, ..., na.rm = TRUE, value.name = "votes",
+melt_votes(.data, ..., na.rm = TRUE, value.name = "votes",
   variable.name = "candidate", variable.factor = FALSE,
   value.factor = FALSE)
+}
+\arguments{
+\item{.data}{A table of returns.}
+
+\item{...}{any other arguments to be passed to/from other methods.}
+
+\item{na.rm}{If \code{TRUE}, \code{NA} values will be removed from the molten
+data.}
+
+\item{value.name}{name for the molten data values column(s). The default name is \code{'value'}. Multiple names can be provided here for the case when \code{measure.vars} is a \code{list}, though note well that the names provided in \code{measure.vars} take precedence. }
+
+\item{variable.name}{name for the measured variable names column. The default name is \code{'variable'}.}
+
+\item{variable.factor}{If \code{TRUE}, the \code{variable} column will be
+converted to \code{factor}, else it will be a \code{character} column.}
+
+\item{value.factor}{If \code{TRUE}, the \code{value} column will be converted
+to \code{factor}, else the molten value type is left unchanged.}
 }
 \description{
 A wrapper for \code{[melt]} in the common case where candidates are in columns and

@@ -4,18 +4,22 @@
 \alias{carry_down}
 \title{Carry spreadsheet values down column-wise}
 \usage{
-carry_down(.data, i = TRUE, j = TRUE, idcol = NULL)
+carry_down(.data, rows = TRUE, cols = TRUE, idcol = NULL)
 }
 \arguments{
 \item{.data}{A table of tidy spreadsheet data (i.e., with columns \code{row}, \code{col}, and \code{value}).}
 
-\item{i}{One of: a vector of spreadsheet row indexes; a logical vector with
-length equal to the row count of dataframe .data; or a length-one logical
-vector applied to all spreadsheet rows."))}
+\item{rows}{One of: a vector of spreadsheet row indexes; a logical vector with
+length equal to the row count \emph{of dataframe \code{.data}}; or a length-one logical
+vector (i.e., \code{TRUE} or \code{FALSE}) applied to all spreadsheet rows.}
+
+\item{cols}{One of: a vector of spreadsheet column indexes; a logical vector with
+length equal to the column count \emph{of dataframe \code{.data}}; or a length-one logical
+vector (i.e., \code{TRUE} or \code{FALSE}) applied to all spreadsheet columns}
 
 \item{idcol}{String giving the name of the new identifier column.}
 }
 \description{
-Usually called by \link{as_idcol}, not directly. This is row-wise last
+Usually called by \link{as_header}, not directly. This is row-wise last
 non-missing observation carried forward.
 }

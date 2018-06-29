@@ -7,6 +7,16 @@
 nlapply(X, FUN, ..., name_transform = NULL)
 }
 \arguments{
+\item{X}{a vector (atomic or list) or an \code{\link{expression}}
+    object.  Other objects (including classed objects) will be coerced
+    by \code{base::\link{as.list}}.}
+
+\item{FUN}{the function to be applied to each element of \code{X}:
+    see \sQuote{Details}.  In the case of functions like
+    \code{+}, \code{\%*\%}, the function name must be backquoted or quoted.}
+
+\item{...}{optional arguments to \code{FUN}.}
+
 \item{name_transform}{A function to transform \code{X} before using it as the
 output's names.}
 }

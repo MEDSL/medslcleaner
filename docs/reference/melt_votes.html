@@ -62,7 +62,7 @@ cells give votes." />
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -84,9 +84,6 @@ cells give votes." />
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="../articles/excel.html">Extracting Returns from Excel Files</a>
-    </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
@@ -120,15 +117,52 @@ cells give votes.</p>
     
     </div>
 
-    <pre class="usage"><span class='fu'>melt_votes</span>(<span class='no'>data</span>, <span class='no'>...</span>, <span class='kw'>na.rm</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>value.name</span> <span class='kw'>=</span> <span class='st'>"votes"</span>,
+    <pre class="usage"><span class='fu'>melt_votes</span>(<span class='no'>.data</span>, <span class='no'>...</span>, <span class='kw'>na.rm</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>value.name</span> <span class='kw'>=</span> <span class='st'>"votes"</span>,
   <span class='kw'>variable.name</span> <span class='kw'>=</span> <span class='st'>"candidate"</span>, <span class='kw'>variable.factor</span> <span class='kw'>=</span> <span class='fl'>FALSE</span>,
   <span class='kw'>value.factor</span> <span class='kw'>=</span> <span class='fl'>FALSE</span>)</pre>
-        
+    
+    <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
+    <table class="ref-arguments">
+    <colgroup><col class="name" /><col class="desc" /></colgroup>
+    <tr>
+      <th>.data</th>
+      <td><p>A table of returns.</p></td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td><p>any other arguments to be passed to/from other methods.</p></td>
+    </tr>
+    <tr>
+      <th>na.rm</th>
+      <td><p>If <code>TRUE</code>, <code>NA</code> values will be removed from the molten
+data.</p></td>
+    </tr>
+    <tr>
+      <th>value.name</th>
+      <td><p>name for the molten data values column(s). The default name is <code>'value'</code>. Multiple names can be provided here for the case when <code>measure.vars</code> is a <code>list</code>, though note well that the names provided in <code>measure.vars</code> take precedence.</p></td>
+    </tr>
+    <tr>
+      <th>variable.name</th>
+      <td><p>name for the measured variable names column. The default name is <code>'variable'</code>.</p></td>
+    </tr>
+    <tr>
+      <th>variable.factor</th>
+      <td><p>If <code>TRUE</code>, the <code>variable</code> column will be
+converted to <code>factor</code>, else it will be a <code>character</code> column.</p></td>
+    </tr>
+    <tr>
+      <th>value.factor</th>
+      <td><p>If <code>TRUE</code>, the <code>value</code> column will be converted
+to <code>factor</code>, else the molten value type is left unchanged.</p></td>
+    </tr>
+    </table>
+    
 
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>
     <ul class="nav nav-pills nav-stacked">
+      <li><a href="#arguments">Arguments</a></li>
                 </ul>
 
   </div>

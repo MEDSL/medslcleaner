@@ -6,6 +6,15 @@
 \usage{
 paste_omit_na(..., sep = " ", collapse = NULL)
 }
+\arguments{
+\item{...}{one or more \R objects, to be converted to character vectors.}
+
+\item{sep}{a character string to separate the terms.  Not
+    \code{\link{NA_character_}}.}
+
+\item{collapse}{an optional character string to separate the results.  Not
+    \code{\link{NA_character_}}.}
+}
 \description{
 Concatenate strings omitting NAs
 }

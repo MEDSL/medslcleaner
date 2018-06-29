@@ -32,7 +32,7 @@
 
 <meta property="og:title" content="Carry spreadsheet values down column-wise — carry_down" />
 
-<meta property="og:description" content="Usually called by as_idcol, not directly. This is row-wise last
+<meta property="og:description" content="Usually called by as_header, not directly. This is row-wise last
 non-missing observation carried forward." />
 <meta name="twitter:card" content="summary" />
 
@@ -62,7 +62,7 @@ non-missing observation carried forward." />
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -84,9 +84,6 @@ non-missing observation carried forward." />
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="../articles/excel.html">Extracting Returns from Excel Files</a>
-    </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
@@ -115,12 +112,12 @@ non-missing observation carried forward." />
 
     <div class="ref-description">
     
-    <p>Usually called by <a href='as_idcol.html'>as_idcol</a>, not directly. This is row-wise last
+    <p>Usually called by <a href='as_header.html'>as_header</a>, not directly. This is row-wise last
 non-missing observation carried forward.</p>
     
     </div>
 
-    <pre class="usage"><span class='fu'>carry_down</span>(<span class='no'>.data</span>, <span class='kw'>i</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>j</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>idcol</span> <span class='kw'>=</span> <span class='kw'>NULL</span>)</pre>
+    <pre class="usage"><span class='fu'>carry_down</span>(<span class='no'>.data</span>, <span class='kw'>rows</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>cols</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>idcol</span> <span class='kw'>=</span> <span class='kw'>NULL</span>)</pre>
     
     <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
     <table class="ref-arguments">
@@ -130,10 +127,16 @@ non-missing observation carried forward.</p>
       <td><p>A table of tidy spreadsheet data (i.e., with columns <code>row</code>, <code>col</code>, and <code>value</code>).</p></td>
     </tr>
     <tr>
-      <th>i</th>
+      <th>rows</th>
       <td><p>One of: a vector of spreadsheet row indexes; a logical vector with
-length equal to the row count of dataframe .data; or a length-one logical
-vector applied to all spreadsheet rows."))</p></td>
+length equal to the row count <em>of dataframe <code>.data</code></em>; or a length-one logical
+vector (i.e., <code>TRUE</code> or <code>FALSE</code>) applied to all spreadsheet rows.</p></td>
+    </tr>
+    <tr>
+      <th>cols</th>
+      <td><p>One of: a vector of spreadsheet column indexes; a logical vector with
+length equal to the column count <em>of dataframe <code>.data</code></em>; or a length-one logical
+vector (i.e., <code>TRUE</code> or <code>FALSE</code>) applied to all spreadsheet columns</p></td>
     </tr>
     <tr>
       <th>idcol</th>

@@ -3,6 +3,9 @@
 #' Add state and county identifiers to precinct returns
 #'
 #' @inheritParams write_precincts
+#' @param must_work Whether adding county identifiers must be completely successful.
+#'   If `TRUE`, assert there are no `NA` values in `county_name` or values other
+#'   than length-five strings in `county_fips`.
 #' @export
 add_geo_ids = function(.data, must_work = TRUE) {
   initial_precinct_n = nrow(.data)
@@ -53,8 +56,13 @@ standardize_county_fips = function(.data) {
 
 #' Merge FIPS codes from EAVS
 #'
-#' @param must_work Stop if any jurisdictions aren't matched to FIPS codes.
-#' @inheritParams read_precincts
+#' @inheritParams write_precincts
+#' @param add_key If `TRUE`, add a merge key called `merge_name` to `.data` with
+#'   a call to `jurisdiction_merge_name`. If `FALSE`, expect the merge key to
+#'   exist in `.data.` already.
+#' @param must_work Whether adding jurisdiction identifiers must be completely
+#'   successful.  If `TRUE`, assert there are no `NA` values in
+#'   `jurisdiction_fips`.
 #' @export
 add_jurisdiction_fips = function(.data, state_postal, add_key = TRUE, must_work = TRUE) {
   if (!is.data.table(.data)) setDT(.data)
@@ -78,7 +86,8 @@ add_jurisdiction_fips = function(.data, state_postal, add_key = TRUE, must_work 
 
 #' Load EAVS precinct data for a given state
 #'
-#' @inheritParams read_precincts
+#' @param state_postal State postal abbreviation, e.g. `"NY"`.
+#' @return The `[eavs]` dataset subset to `state_postal`.
 #' @export
 state_eavs = function(state_postal) {
   .state = state_postal
@@ -91,7 +100,7 @@ state_eavs = function(state_postal) {
 
 #' Create a merge key for jurisdictions
 #'
-#' @inheritParams read_precincts
+#' @inheritParams write_precincts
 #' @export
 jurisdiction_merge_name = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
@@ -106,8 +115,10 @@ jurisdiction_merge_name = function(.data) {
 
 #' Display `jurisdiction` merge keys in EAVS but not precinct returns
 #'
-#' @param eavs A table of EAVS data.
-#' @inheritParams read_precincts
+#' @inheritParams write_precincts
+#' @param eavs A table of geo IDs from the [eavs] dataset.
+#' @param must_work Whether to stop if any jurisdictions in `.data` cannot be
+#' matched with those in `eavs`.
 #' @export
 not_in_state = function(.data, eavs, must_work = TRUE) {
   if (!is.data.table(.data)) setDT(.data)
@@ -128,7 +139,10 @@ not_in_state = function(.data, eavs, must_work = TRUE) {
 
 #' Display `jurisdiction` merge keys in precinct returns but not EAVS
 #'
+#' @inheritParams write_precincts
 #' @inheritParams not_in_state
+#' @param must_work Whether to stop if any jurisdictions in `eavs` cannot be
+#' matched with those in `.data`.
 #' @export
 not_in_eavs = function(.data, eavs, must_work = TRUE) {
   if (!is.data.table(.data)) setDT(.data)

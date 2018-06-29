@@ -63,7 +63,7 @@ matches will be removed." />
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -85,9 +85,6 @@ matches will be removed." />
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="../articles/excel.html">Extracting Returns from Excel Files</a>
-    </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
@@ -139,6 +136,10 @@ matches will be removed.</p>
     </tr>
     </table>
     
+    <h2 class="hasAnchor" id="value"><a class="anchor" href="#value"></a>Value</h2>
+
+    <p>The vector <code>string</code> without any substrings matching <code>pattern</code>.</p>
+    
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
     <p>The equivalent alternatives are <code>str_remove_all(x, regex(pattern, ignore_case = TRUE))</code> (which this function wraps) or <code>gsub('pattern', '', x, ignore.case = TRUE)</code>.</p>
@@ -158,6 +159,8 @@ matches will be removed.</p>
     <ul class="nav nav-pills nav-stacked">
       <li><a href="#arguments">Arguments</a></li>
       
+      <li><a href="#value">Value</a></li>
+
       <li><a href="#details">Details</a></li>
 
       <li><a href="#functions">Functions</a></li>

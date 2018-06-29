@@ -6,6 +6,9 @@
 \usage{
 jurisdiction_merge_name(.data)
 }
+\arguments{
+\item{.data}{A table of returns.}
+}
 \description{
 Create a merge key for jurisdictions
 }

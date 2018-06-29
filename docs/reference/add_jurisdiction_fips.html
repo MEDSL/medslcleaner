@@ -61,7 +61,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -83,9 +83,6 @@
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="../articles/excel.html">Extracting Returns from Excel Files</a>
-    </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
@@ -124,8 +121,24 @@
     <table class="ref-arguments">
     <colgroup><col class="name" /><col class="desc" /></colgroup>
     <tr>
+      <th>.data</th>
+      <td><p>A table of returns.</p></td>
+    </tr>
+    <tr>
+      <th>state_postal</th>
+      <td><p>State postal abbreviation.</p></td>
+    </tr>
+    <tr>
+      <th>add_key</th>
+      <td><p>If <code>TRUE</code>, add a merge key called <code>merge_name</code> to <code>.data</code> with
+a call to <code>jurisdiction_merge_name</code>. If <code>FALSE</code>, expect the merge key to
+exist in <code>.data.</code> already.</p></td>
+    </tr>
+    <tr>
       <th>must_work</th>
-      <td><p>Stop if any jurisdictions aren't matched to FIPS codes.</p></td>
+      <td><p>Whether adding jurisdiction identifiers must be completely
+successful.  If <code>TRUE</code>, assert there are no <code>NA</code> values in
+<code>jurisdiction_fips</code>.</p></td>
     </tr>
     </table>
     

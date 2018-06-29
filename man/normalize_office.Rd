@@ -6,6 +6,9 @@
 \usage{
 normalize_office(.data)
 }
+\arguments{
+\item{.data}{A table of returns.}
+}
 \description{
 Normalize office values
 }

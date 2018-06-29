@@ -61,7 +61,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -83,9 +83,6 @@
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="../articles/excel.html">Extracting Returns from Excel Files</a>
-    </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
@@ -123,6 +120,22 @@
     <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
     <table class="ref-arguments">
     <colgroup><col class="name" /><col class="desc" /></colgroup>
+    <tr>
+      <th>X</th>
+      <td><p>a vector (atomic or list) or an <code>expression</code>
+    object.  Other objects (including classed objects) will be coerced
+    by <code><a href='http://www.rdocumentation.org/packages/base/topics/list'>base::as.list</a></code>.</p></td>
+    </tr>
+    <tr>
+      <th>FUN</th>
+      <td><p>the function to be applied to each element of <code>X</code>:
+    see &#8216;Details&#8217;.  In the case of functions like
+    <code>+</code>, <code>%*%</code>, the function name must be backquoted or quoted.</p></td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td><p>optional arguments to <code>FUN</code>.</p></td>
+    </tr>
     <tr>
       <th>name_transform</th>
       <td><p>A function to transform <code>X</code> before using it as the

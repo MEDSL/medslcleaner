@@ -14,6 +14,9 @@ string \%r\% pattern
 
 \item{pattern}{A regular expression.}
 }
+\value{
+The vector \code{string} without any substrings matching \code{pattern}.
+}
 \description{
 Remove a pattern match from a string. Think of this as regex-powered
 string subtraction. Matching is case-insensitive and greedy, i.e., all

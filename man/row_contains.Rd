@@ -5,9 +5,22 @@
 \alias{col_contains}
 \title{Identify spreadsheet rows that contain a pattern}
 \usage{
-row_contains(.data, pattern, i = TRUE, j = TRUE)
+row_contains(.data, pattern, rows = TRUE, cols = TRUE)
 
-col_contains(.data, pattern, i = TRUE, j = TRUE)
+col_contains(.data, pattern, rows = TRUE, cols = TRUE)
+}
+\arguments{
+\item{.data}{A table of tidy spreadsheet data (i.e., with columns \code{row}, \code{col}, and \code{value}).}
+
+\item{pattern}{Pattern to modify behaviour.}
+
+\item{rows}{One of: a vector of spreadsheet row indexes; a logical vector with
+length equal to the row count \emph{of dataframe \code{.data}}; or a length-one logical
+vector (i.e., \code{TRUE} or \code{FALSE}) applied to all spreadsheet rows.}
+
+\item{cols}{One of: a vector of spreadsheet column indexes; a logical vector with
+length equal to the column count \emph{of dataframe \code{.data}}; or a length-one logical
+vector (i.e., \code{TRUE} or \code{FALSE}) applied to all spreadsheet columns}
 }
 \description{
 Identify spreadsheet rows that contain a pattern

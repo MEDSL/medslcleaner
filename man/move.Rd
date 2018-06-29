@@ -6,6 +6,18 @@
 \usage{
 move(.data, pattern, from, to)
 }
+\arguments{
+\item{.data}{A table of returns.}
+
+\item{pattern}{A regular expression.}
+
+\item{from}{Source column in \code{.data}.}
+
+\item{to}{Destination column in \code{.data}.}
+}
+\value{
+The dataframe \code{.data} with new column \code{to}.
+}
 \description{
 Move a pattern match between columns
 }

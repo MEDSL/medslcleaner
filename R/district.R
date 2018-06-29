@@ -11,6 +11,7 @@ add_districts = function(.data) {
 #' values are entirely numeric, we would like these numbers to be formatted
 #' consistently, especially for merging purposes (see `[add_candidate_ids]`).
 #'
+#' @param x A vector of district identifiers.
 #' @export
 normalize_district_numbers = function(x) {
   stopifnot(is.character(x))

@@ -1,10 +1,10 @@
 # Functions for manipulating tables into tidy formats
+# Left over from first attempt at spreadsheets; not exported
 
 # Collapse rows of characters
 #
 # Concatenate rows column-wise into a single row.
 #
-# @param .data A data.table.
 # @param i A vector of row indexes.
 # @param f Concatenation (or other) function.
 # @param drop Drop all but the first row.
@@ -57,16 +57,17 @@ collapse_cells = function(.data, i, f = paste_omit_na, collapse = ' ', .drop = T
 
 # Expand headers to include values in initial rows
 # 
+# @export
 # @examples
 # d = data.frame(A = c('B', 'C'), L = c('M', 'N'), stringsAsFactors = FALSE)
-# d = expand_colnames(d, 1:2)
+# d = expand_colnames(d, rows = 1:2)
 # d
-expand_colnames = function(.data, i, f = paste_omit_na, collapse = ' ', drop = TRUE) {
-  if (!is.data.table(.data)) setDT(.data)
-  suffixes = vapply(.data[i, ], f, collapse = collapse, FUN.VALUE = character(1))
+expand_colnames = function(.data, rows, f = paste_omit_na, collapse = ' ', drop = TRUE) {
+  .data = to_datatable(.data)
+  suffixes = vapply(.data[rows, ], f, collapse = collapse, FUN.VALUE = character(1))
   setnames(.data, colnames(.data), paste(colnames(.data), na.omit(suffixes), sep = collapse))
   if (drop) {
-    .data = .data[-i, ]
+    .data = .data[-rows, ]
   }
   .data[]
 }

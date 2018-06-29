@@ -29,7 +29,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -52,9 +52,6 @@
   </a>
   <ul class="dropdown-menu" role="menu">
 <li>
-      <a href="../articles/excel.html">Extracting Returns from Excel Files</a>
-    </li>
-    <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
   </ul>
@@ -105,7 +102,7 @@
 <p>Column <em>type</em> problems often arise when reading returns from delimited text (e.g., CSV) files. We also may encounter column names that are duplicated, missing, or contain special characters. Base R’s <code>read.csv</code> doesn’t handle these situations as safely as <code>fread</code> from <code>data.table</code> and <code>read_csv</code> from <code>readr</code>.</p>
 <p><code>fread</code> and <code>read_csv</code> produce warnings on parser errors that we can resolve by setting column types explicitly via the <code>colClasses</code> argument for <code>fread</code> or <code>col_types</code> for <code>read_*</code>. Other than the two functions’ return types, <code>data.table</code> and <code>tibble</code>, the most relevant difference in implementation for us is that the <code>read_</code> family infers column types from the first <code>guess_max</code> rows, whereas <code>fread</code> uses a sample.</p>
 <p>We’d ideally read returns from a delimited-text format only once, and for any intermediate writes to the disk during processing use a binary format that preserves types, e.g. an R data format. But we haven’t always done this, and in the 2016 returns there are a lot of intermediate CSVs.</p>
-<p>Read these intermediate CSVs with the <code>read_precincts</code> function. It promotes parser warnings to errors, and can read expected columns with the appropriate types if <code>use_types = TRUE</code>.</p>
+<p>Read these intermediate CSVs with the <code>read_legacy_csv</code> function. It promotes parser warnings to errors, and can read expected columns with the appropriate types if <code>use_types = TRUE</code>.</p>
 </div>
 <div id="excel" class="section level4">
 <h4 class="hasAnchor">
@@ -214,9 +211,9 @@
 <div id="party" class="section level4">
 <h4 class="hasAnchor">
 <a href="#party" class="anchor"></a>party</h4>
-<p>We standardize the names of parties where it seems useful. Exactly how could change in the future, but we use <code><a href="../reference/expand_party_abbr.html">expand_party_abbr()</a></code>.</p>
+<p>We standardize the names of parties where it seems useful. Exactly how could change in the future, but we use <code><a href="../reference/normalize_party.html">expand_party_abbr()</a></code>.</p>
 <div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" data-line-number="1">d =<span class="st"> </span><span class="kw">data.frame</span>(<span class="dt">party =</span> <span class="kw">c</span>(<span class="st">'DEM'</span>, <span class="st">'REP'</span>))</a>
-<a class="sourceLine" id="cb4-2" data-line-number="2"><span class="kw"><a href="../reference/expand_party_abbr.html">expand_party_abbr</a></span>(d<span class="op">$</span>party)</a>
+<a class="sourceLine" id="cb4-2" data-line-number="2"><span class="kw"><a href="../reference/normalize_party.html">expand_party_abbr</a></span>(d<span class="op">$</span>party)</a>
 <a class="sourceLine" id="cb4-3" data-line-number="3">## [1] "democratic" "republican"</a></code></pre></div>
 </div>
 </div>

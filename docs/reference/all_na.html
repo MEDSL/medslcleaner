@@ -61,7 +61,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -83,9 +83,6 @@
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="../articles/excel.html">Extracting Returns from Excel Files</a>
-    </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
@@ -118,13 +115,40 @@
     
     </div>
 
-    <pre class="usage"><span class='fu'>all_na</span>(<span class='no'>.data</span>, <span class='kw'>.by</span> <span class='kw'>=</span> <span class='st'>"row"</span>, <span class='kw'>i</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>j</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>)</pre>
-        
+    <pre class="usage"><span class='fu'>all_na</span>(<span class='no'>.data</span>, <span class='kw'>.by</span> <span class='kw'>=</span> <span class='st'>"row"</span>, <span class='kw'>rows</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>cols</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>)</pre>
+    
+    <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
+    <table class="ref-arguments">
+    <colgroup><col class="name" /><col class="desc" /></colgroup>
+    <tr>
+      <th>.data</th>
+      <td><p>A table of tidy spreadsheet data (i.e., with columns <code>row</code>, <code>col</code>, and <code>value</code>).</p></td>
+    </tr>
+    <tr>
+      <th>.by</th>
+      <td><p>Either <code>"row"</code> to find all-NA spreadsheet rows or <code>"col"</code> to find all-NA
+columns.</p></td>
+    </tr>
+    <tr>
+      <th>rows</th>
+      <td><p>One of: a vector of spreadsheet row indexes; a logical vector with
+length equal to the row count <em>of dataframe <code>.data</code></em>; or a length-one logical
+vector (i.e., <code>TRUE</code> or <code>FALSE</code>) applied to all spreadsheet rows.</p></td>
+    </tr>
+    <tr>
+      <th>cols</th>
+      <td><p>One of: a vector of spreadsheet column indexes; a logical vector with
+length equal to the column count <em>of dataframe <code>.data</code></em>; or a length-one logical
+vector (i.e., <code>TRUE</code> or <code>FALSE</code>) applied to all spreadsheet columns</p></td>
+    </tr>
+    </table>
+    
 
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>
     <ul class="nav nav-pills nav-stacked">
+      <li><a href="#arguments">Arguments</a></li>
                 </ul>
 
   </div>

@@ -4,7 +4,23 @@
 \alias{split_cells}
 \title{Split multiple tables in spreadsheets into separate dataframes}
 \usage{
-split_cells(.data, pattern, i = TRUE, j = TRUE, starts = TRUE)
+split_cells(.data, pattern, rows = TRUE, cols = TRUE, starts = TRUE)
+}
+\arguments{
+\item{.data}{A table of tidy spreadsheet data (i.e., with columns \code{row}, \code{col}, and \code{value}).}
+
+\item{pattern}{Pattern to modify behaviour.}
+
+\item{rows}{One of: a vector of spreadsheet row indexes; a logical vector with
+length equal to the row count \emph{of dataframe \code{.data}}; or a length-one logical
+vector (i.e., \code{TRUE} or \code{FALSE}) applied to all spreadsheet rows.}
+
+\item{cols}{One of: a vector of spreadsheet column indexes; a logical vector with
+length equal to the column count \emph{of dataframe \code{.data}}; or a length-one logical
+vector (i.e., \code{TRUE} or \code{FALSE}) applied to all spreadsheet columns}
+
+\item{starts}{Whether the pattern indicates the start of a table or the end of the
+table.}
 }
 \description{
 Split multiple tables in spreadsheets into separate dataframes

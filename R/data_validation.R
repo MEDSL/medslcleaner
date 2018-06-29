@@ -17,11 +17,20 @@
 #' Expected column names in MEDSL precinct returns 
 #' 
 #' Generated from `[precinct_validity]`. 
-#'
+#' @seealso `[precinct_validity]`
 'precinct_columns'
 
 #' Expected column types in MEDSL precinct returns
 #' 
 #' Generated from `[precinct_validity]`.
-#'
+#' @seealso `[precinct_validity]`
 'precinct_column_types'
+
+#' Presidential vote totals in 2016, by state
+#' 
+#' A table of vote totals from [Dave Leip's US Election Atlas](https://uselectionatlas.org/RESULTS).
+'state_totals'
+
+#' Field schema in datapackage format
+#'
+'fields'

@@ -8,6 +8,10 @@ add_geo_ids(.data, must_work = TRUE)
 }
 \arguments{
 \item{.data}{A table of returns.}
+
+\item{must_work}{Whether adding county identifiers must be completely successful.
+If \code{TRUE}, assert there are no \code{NA} values in \code{county_name} or values other
+than length-five strings in \code{county_fips}.}
 }
 \description{
 Add state and county identifiers to precinct returns

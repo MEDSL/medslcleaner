@@ -8,6 +8,8 @@ normalize_whitespace(.data, inner = TRUE)
 }
 \arguments{
 \item{.data}{A table of returns.}
+
+\item{inner}{Whether to normalize inner whitespace.}
 }
 \description{
 Replaces 1+ whitespace characters with one space; trims leading and

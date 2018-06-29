@@ -6,6 +6,9 @@
 \usage{
 normalize_district_numbers(x)
 }
+\arguments{
+\item{x}{A vector of district identifiers.}
+}
 \description{
 The \code{district} column is expected to be type \code{character}, but where its
 values are entirely numeric, we would like these numbers to be formatted

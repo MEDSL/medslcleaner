@@ -11,4 +11,7 @@ precinct_columns
 \description{
 Generated from \code{[precinct_validity]}.
 }
+\seealso{
+\code{[precinct_validity]}
+}
 \keyword{datasets}

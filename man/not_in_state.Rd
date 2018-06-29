@@ -7,7 +7,12 @@
 not_in_state(.data, eavs, must_work = TRUE)
 }
 \arguments{
-\item{eavs}{A table of EAVS data.}
+\item{.data}{A table of returns.}
+
+\item{eavs}{A table of geo IDs from the \link{eavs} dataset.}
+
+\item{must_work}{Whether to stop if any jurisdictions in \code{.data} cannot be
+matched with those in \code{eavs}.}
 }
 \description{
 Display \code{jurisdiction} merge keys in EAVS but not precinct returns

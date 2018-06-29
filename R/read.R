@@ -8,9 +8,9 @@
 #'
 #' @param path Path to a CSV.
 #' @param strict Promote warnings to errors.
-#' @param use_types Read expected columns with expected types. 
+#' @param use_types Read expected columns with expected types.
 #' @export
-read_precincts = function(path, strict = TRUE, use_types = FALSE) {
+read_legacy_csv = function(path, strict = TRUE, use_types = FALSE) {
   if (isTRUE(use_types)) {
     # Subset type specification to the columns in the data
 		headers = names(fread(path, nrows=0))
@@ -32,15 +32,15 @@ read_precincts = function(path, strict = TRUE, use_types = FALSE) {
 }
 
 #' Read a directory of returns data
-#' 
+#'
 #' A wrapper for the pattern:
-#' 
+#'
 #' - Locate paths with `list.files`, using `full.names = TRUE` and perhaps a `pattern`
 #' - Apply a read function like [`fread`](data.table) or
 #'   [`read_excel`](xlreader) to each path
 #' - Combine the data with [`rbindlist`] or [`dplyr::bind_rows`], using the paths as an
 #'   identifier column
-#' 
+#'
 #' @param path Path to a directory of returns.
 #' @param ... Further arguments to \code{\link[base]{list.files}}.
 #' @param f A function for reading files from disk.
@@ -58,7 +58,7 @@ read_dir = function(path = '../raw', f = data.table::fread, idcol = 'path', ...)
 
 #' Rename legacy variable names
 #'
-#' @inheritParams read_precincts
+#' @inheritParams write_precincts
 #' @export
 rename_legacy_vars = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
@@ -78,12 +78,13 @@ rename_legacy_vars = function(.data) {
   .data[]
 }
 
+# We sometimes encounter in old CSVs a state variable whose values are actually
+# state_postal codes
 normalize_state = function(.data) {
   if (!is.data.table(.data)) setDT(.data)
   if (has_name(.data, 'state')) {
     data('state_ids', package = 'medslcleaner', envir = environment())
 		if (all(.data[['state']] %chin% state_ids$state_postal)) {
-			# We have a state variable whose values are state_postal codes
 			setnames(.data, 'state', 'state_postal')
 		}
 	}

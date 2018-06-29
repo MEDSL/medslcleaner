@@ -1,6 +1,8 @@
 # Functions related to the `office` variable in precinct returns data
 
 #' Normalize office values
+#'
+#' @inheritParams write_precincts
 #' @export
 normalize_office = function(.data) {
   if (!is.data.table(.data)) setDT(.data)

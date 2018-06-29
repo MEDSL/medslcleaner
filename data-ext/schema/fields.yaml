@@ -1,0 +1,138 @@
+name: medsl-precinct-returns
+title: MEDSL Precinct-Level Election Returns
+author: MIT Election Data and Science Lab (https://electionlab.mit.edu)
+homepage: https://github.com/MEDSL/precinct-returns
+fields:
+  - name: year
+    title: Year
+    description: Year of election.
+    type: integer
+    constraints:
+      required: true
+
+  - name: state_postal
+    title: State Postal Code
+    description: State U.S. Postal Service abbreviation (two-letter ISO 1366 code).
+    type: string
+    constraints:
+      required: true
+      enum: ['AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'GA',
+      'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD', 'MA', 'MI',
+      'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND',
+      'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VA',
+      'WA', 'WV', 'WI', 'WY']
+
+  - name: jurisdiction
+    title: Election Administration Jurisdiction
+    description: The name of the administrative jurisdiction, most often a county.
+    source: Precinct returns for `jurisdiction`.
+    type: string
+    constraints:
+      required: true
+
+  # - name: jurisdiction_type
+  #   title: Type of Administrative Jurisdiction
+  #   type: string
+  #   constraints:
+  #     required: true
+  #     enum: ['county', 'county subdivision', 'place', 'legislative district']
+
+  - name: precinct
+    title: Precinct
+    description: The name of the precinct.
+    source: Precinct returns for `jurisdiction`.
+    type: string
+    constraints:
+      required: true
+
+  - name: office
+    title: Office
+    description: The office for which the `candidate` ran.
+    source: Precinct returns for `jurisdiction`.
+    type: string
+
+  - name: district
+    title: Office District
+    description: District associated with the `office`, where applicable.
+    source: Precinct returns for `jurisdiction`.
+    type: string
+
+  - name: stage
+    title: Election Stage
+    type: string
+    description: The electoral stage (general or primary).
+    constraints:
+      required: true
+      enum: [gen, pri]
+
+  - name: special
+    title: Special Election
+    description: Whether the election was a special election.
+    source: Precinct returns for `jurisdiction`.
+    type: boolean
+    constraints:
+      required: true
+
+  - name: candidate
+    title: Candidate Name
+    description: The name of the candidate, standardized across jurisdictions.
+    source: Precinct returns for `jurisdiction`.
+    type: string
+
+  - name: writein
+    description: Whether the record describes a write-in candidate.
+    source: Precinct returns for `jurisdiction`.
+    type: boolean
+    constraints:
+      required: true
+
+  - name: party
+    title: Candidate Party per Ballot
+    description: >
+      Party of the `candidate`, where applicable. Candidates may run on
+      multiple party lines, so to compute two-party vote shares or candidate vote totals,
+      aggregate over `party`. We standardize values across jurisdictions.
+    source: Precinct returns for `jurisdiction`.
+    type: string
+
+  - name: mode
+    title: Vote Mode
+    description: Vote mode, e.g., `mail` or `Election Day`.
+    source: Precinct returns for `jurisdiction`.
+    type: string
+    constraints:
+      required: true
+
+  - name: votes
+    title: Vote Count
+    description: Number of votes received.
+    source: Precinct returns for `jurisdiction`.
+    type: integer
+    constraints:
+      required: true
+
+  - name: dataverse
+    title: Dataverse Name
+    description: Archive and Dataverse into which the .
+    type: string
+    constraints:
+      required: true
+      enum: [president, senate, house, state, local, all]
+
+foreignKeys:
+  - fields: [state_postal]
+    reference:
+      resource: states
+      fields:
+        - state
+        - state_postal
+        - state_fips
+        - state_icpsr
+
+missingValues:
+  - ''
+  - NA
+  - nan
+  - '-'
+  - '--'
+  - '---'

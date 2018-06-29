@@ -6,6 +6,9 @@
 \usage{
 finalize(.data)
 }
+\arguments{
+\item{.data}{A table of returns.}
+}
 \description{
 Drop columns in tidy spreadsheet data, and rename \code{values} as \code{votes}.
 }

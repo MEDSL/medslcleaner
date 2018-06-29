@@ -7,7 +7,17 @@
 add_jurisdiction_fips(.data, state_postal, add_key = TRUE, must_work = TRUE)
 }
 \arguments{
-\item{must_work}{Stop if any jurisdictions aren't matched to FIPS codes.}
+\item{.data}{A table of returns.}
+
+\item{state_postal}{State postal abbreviation.}
+
+\item{add_key}{If \code{TRUE}, add a merge key called \code{merge_name} to \code{.data} with
+a call to \code{jurisdiction_merge_name}. If \code{FALSE}, expect the merge key to
+exist in \code{.data.} already.}
+
+\item{must_work}{Whether adding jurisdiction identifiers must be completely
+successful.  If \code{TRUE}, assert there are no \code{NA} values in
+\code{jurisdiction_fips}.}
 }
 \description{
 Merge FIPS codes from EAVS

@@ -31,7 +31,9 @@
 #' = TRUE))` (which this function wraps) or `gsub('pattern', '', x, ignore.case
 #' = TRUE)`.
 #'
-#' @inheritParams %=%
+#' @param string A character vector.
+#' @param pattern A regular expression.
+#' @return The vector `string` without any substrings matching `pattern`.
 #' @export
 #' @examples
 #' 'APPLE' %-% 'l\\w' == 'APP'
@@ -48,9 +50,14 @@
 
 #' Move a pattern match between columns
 #' 
+#' @inheritParams write_precincts
+#' @inheritParams %=%
+#' @param from Source column in `.data`.
+#' @param to Destination column in `.data`.
+#' @return The dataframe `.data` with new column `to`.
 # '@export
 move = function(.data, pattern, from, to) {
-  stopifnot(is.data.table(.data))
+  .data = to_datatable(.data)
   n_affected = sum(str_detect(.data[[from]], regex(pattern, TRUE)))
   message(glue('{n_affected}/{nrow(.data)} matching rows in `{from}`'))
   .data[, (to) := str_extract(get(from), regex(pattern, TRUE))]

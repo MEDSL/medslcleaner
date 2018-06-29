@@ -1,0 +1,22 @@
+  - name: state
+    title: State
+    description: State name.
+    type: string
+    constraints:
+      required: true
+
+  - name: state_fips
+    title: State FIPS Code
+    description: Numeric state FIPS 5-2 code.
+    type: integer
+    constraints:
+      required: true
+
+  - name: state_icpsr
+    title: State ICPSR Code
+    description: Numeric ICPSR state code.
+    type: integer
+    constraints:
+      required: true
+
+

@@ -114,6 +114,7 @@ keep_columns = function(.data) {
 #' trailing whitespace; and replaces zero-length strings with \code{NA}.
 #'
 #' @inheritParams write_precincts
+#' @param inner Whether to normalize inner whitespace.
 #' @export
 normalize_whitespace = function(.data, inner = TRUE) {
   if (!is.data.table(.data)) setDT(.data)

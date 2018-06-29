@@ -6,14 +6,13 @@ reference:
     or CSVs. Such spreadsheets often have multiple or nested headers; "merged" cells; and
     multiple tables in the same file or sheet.
   contents:
-  - '`read_xlreturns`'
   - '`split_cells`'
-  - '`as_idcol`'
+  - '`as_header`'
   - '`carry_down`'
   - '`carry_right`'
   - '`all_na`'
   - '`row_contains`'
-  - '`excel_example_path`'
+  - '`spreadsheet_example`'
   - '`keep_minimal`'
 
 - title: "Exploration"

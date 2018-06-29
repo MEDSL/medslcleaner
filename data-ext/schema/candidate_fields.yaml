@@ -1,0 +1,96 @@
+
+  - name: candidate_last
+    title: Candidate Last Name
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_first
+    title: Candidate First Name
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_middle
+    title: Candidate Middle Name
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_normalized
+    title: Candidate Normalized Name Stub
+    description: >
+      A normalizing transformation of the candidate''s name for joins by
+      name. This is a single word from `candidate`, usually the last name, in lowercase.
+      In the case of hyphenated names, only the final name is included.'
+    source: MEDSL.
+    type: string
+
+  - name: candidate_full
+    title: Candidate Full Name
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_suffix
+    title: Candidate Name Suffix
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_nickname
+    title: Candidate Nickname
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_fec
+    title: Candidate FEC ID
+    description: >
+      Candidate's [FEC identifier](https://www.fec.gov/data/advanced/?tab=candidates).
+      Multiple FEC IDs appear concatenated, separated by a semicolon and space (`; `).
+    source: >
+      The [@unitedstates](https://github.com/unitedstates/congress-legislators)
+      project and [FEC](https://www.fec.gov/data/advanced/?tab=candidates).
+    type: string
+
+  - name: candidate_fec_name
+    title: Candidate FEC Name
+    description: Candidate's name as it appears in FEC data.
+    source: '[FEC](https://www.fec.gov/data).'
+    type: string
+
+  - name: candidate_google
+    title: Candidate Google ID
+    description: Candidate's [Google Knowledge Graph](https://developers.google.com/knowledge-graph) entity identifier.
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_govtrack
+    title: Candidate GovTrack ID
+    description: Candidate's [GovTrack.us](https://www.govtrack.us) identifier.
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_icpsr
+    title: Candidate ICPSR ID
+    description: Candidate's [ICPSR](https://www.icpsr.umich.edu) identifier.
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_maplight
+    title: Candidate MapLight ID
+    description: Candidate's [MapLight](https://maplight.org) identifier.
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators)
+      project.
+    type: string
+
+  - name: candidate_opensecrets
+    description: Candidate's [OpenSecrets.org](https://www.opensecrets.org) identifier.
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_wikidata
+    description: Candidate's [WikiData](https://www.wikidata.org) identifier.
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
+  - name: candidate_party
+    description: Candidate's party affiliation. Values may differ from `party`, which gives the candidate's party on the ballot.
+    source: The [@unitedstates](https://github.com/unitedstates/congress-legislators) project.
+    type: string
+
