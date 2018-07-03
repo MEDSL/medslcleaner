@@ -4,6 +4,7 @@
 # package namespace
 `%chin%` <- data.table::`%chin%`
 `:=` <- data.table::`:=`
+`%>%` <- stringr::`%>%`
 are_equal <- assertthat::are_equal
 assert <- assertthat::assert_that
 assert_that <- assertthat::assert_that

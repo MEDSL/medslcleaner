@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Expected column names in MEDSL precinct returns — precinct_columns • medslcleaner</title>
+<title>A lookup table for Harvard Election Data Archive codes — heda_codes • medslcleaner</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -30,9 +30,11 @@
 
 
 
-<meta property="og:title" content="Expected column names in MEDSL precinct returns — precinct_columns" />
+<meta property="og:title" content="A lookup table for Harvard Election Data Archive codes — heda_codes" />
 
-<meta property="og:description" content="Generated from [precinct_validity]." />
+<meta property="og:description" content="This dataset maps election variable codes in the
+2014 HEDA documentation
+to values used in MEDSL returns." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -104,26 +106,32 @@
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Expected column names in MEDSL precinct returns</h1>
+    <h1>A lookup table for Harvard Election Data Archive codes</h1>
     
-    <div class="hidden name"><code>precinct_columns.Rd</code></div>
+    <div class="hidden name"><code>heda_codes.Rd</code></div>
     </div>
 
     <div class="ref-description">
     
-    <p>Generated from <code>[precinct_validity]</code>.</p>
+    <p>This dataset maps election variable codes in the
+<a href='https://dataverse.harvard.edu/file.xhtml?fileId=2456568&amp;datasetVersionId=42865'>2014 HEDA documentation</a>
+to values used in MEDSL returns.</p>
     
     </div>
 
-    <pre class="usage"><span class='no'>precinct_columns</span></pre>
+    <pre class="usage"><span class='no'>heda_codes</span></pre>
         
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>An object of class <code>character</code> of length 14.</p>
+    <p>An object of class <code>list</code> of length 4.</p>
     
-    <h2 class="hasAnchor" id="see-also"><a class="anchor" href="#see-also"></a>See also</h2>
+    <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
-    <div class='dont-index'><p><code>[precinct_validity]</code></p></div>
+    <p>The naming convention for measure variables in HEDA tables is roughly
+<code>eYYYY_OOO*_vv*</code>, where <code>e</code> gives election characteristics (e.g., general or
+special); <code>YYYY</code> is a year; <code>OOO*</code> is a 3- or 4-letter office abbreviation;
+and <code>vv*</code> is a suffix with other characteristics including party and vote
+mode.</p>
     
 
   </div>
@@ -133,7 +141,7 @@
       
       <li><a href="#format">Format</a></li>
 
-      <li><a href="#see-also">See also</a></li>
+      <li><a href="#details">Details</a></li>
           </ul>
 
   </div>

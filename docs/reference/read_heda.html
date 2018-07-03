@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Expected column names in MEDSL precinct returns — precinct_columns • medslcleaner</title>
+<title>Read and reshape Harvard Election Data Archive returns — read_heda • medslcleaner</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -30,9 +30,11 @@
 
 
 
-<meta property="og:title" content="Expected column names in MEDSL precinct returns — precinct_columns" />
+<meta property="og:title" content="Read and reshape Harvard Election Data Archive returns — read_heda" />
 
-<meta property="og:description" content="Generated from [precinct_validity]." />
+<meta property="og:description" content="Read and melt a file of HEDA returns, then apply known mappings from HEDA
+codes to MEDSL variable values. These mappings are from the 2014documentation
+and not exhaustive. Warnings accompany unknown HEDA codes." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -104,36 +106,42 @@
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Expected column names in MEDSL precinct returns</h1>
+    <h1>Read and reshape Harvard Election Data Archive returns</h1>
     
-    <div class="hidden name"><code>precinct_columns.Rd</code></div>
+    <div class="hidden name"><code>read_heda.Rd</code></div>
     </div>
 
     <div class="ref-description">
     
-    <p>Generated from <code>[precinct_validity]</code>.</p>
+    <p>Read and melt a file of HEDA returns, then apply known mappings from HEDA
+codes to MEDSL variable values. These mappings are from the <a href='https://dataverse.harvard.edu/file.xhtml?fileId=2456568&amp;datasetVersionId=42865'>2014documentation</a>
+and not exhaustive. Warnings accompany unknown HEDA codes.</p>
     
     </div>
 
-    <pre class="usage"><span class='no'>precinct_columns</span></pre>
-        
-    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
-
-    <p>An object of class <code>character</code> of length 14.</p>
+    <pre class="usage"><span class='fu'>read_heda</span>(<span class='no'>path</span>)</pre>
     
-    <h2 class="hasAnchor" id="see-also"><a class="anchor" href="#see-also"></a>See also</h2>
+    <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
+    <table class="ref-arguments">
+    <colgroup><col class="name" /><col class="desc" /></colgroup>
+    <tr>
+      <th>path</th>
+      <td><p>Path to a tabular file of HEDA election returns.</p></td>
+    </tr>
+    </table>
+    
+    <h2 class="hasAnchor" id="value"><a class="anchor" href="#value"></a>Value</h2>
 
-    <div class='dont-index'><p><code>[precinct_validity]</code></p></div>
+    <p>A dataframe of MEDSL-formatted returns.</p>
     
 
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>
     <ul class="nav nav-pills nav-stacked">
+      <li><a href="#arguments">Arguments</a></li>
       
-      <li><a href="#format">Format</a></li>
-
-      <li><a href="#see-also">See also</a></li>
+      <li><a href="#value">Value</a></li>
           </ul>
 
   </div>

@@ -4,7 +4,7 @@
 \name{precinct_columns}
 \alias{precinct_columns}
 \title{Expected column names in MEDSL precinct returns}
-\format{An object of class \code{character} of length 38.}
+\format{An object of class \code{character} of length 14.}
 \usage{
 precinct_columns
 }

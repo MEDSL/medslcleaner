@@ -38,8 +38,8 @@ read_legacy_csv = function(path, strict = TRUE, use_types = FALSE) {
 #' - Locate paths with `list.files`, using `full.names = TRUE` and perhaps a `pattern`
 #' - Apply a read function like [`fread`](data.table) or
 #'   [`read_excel`](xlreader) to each path
-#' - Combine the data with [`rbindlist`] or [`dplyr::bind_rows`], using the paths as an
-#'   identifier column
+#' - Combine the data with e.g. [`rbindlist`], using the paths as an identifier
+#' column
 #'
 #' @param path Path to a directory of returns.
 #' @param ... Further arguments to \code{\link[base]{list.files}}.
@@ -52,7 +52,7 @@ read_dir = function(path = '../raw', f = data.table::fread, idcol = 'path', ...)
   d = map(paths, f)
   d = map(d, setDT)
   d = setNames(d, paths)
-  d = rbindlist(d, idcol = idcol)
+  d = rbindlist(d, idcol = idcol, fill = TRUE)
   d
 }
 

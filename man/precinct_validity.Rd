@@ -4,7 +4,7 @@
 \name{precinct_validity}
 \alias{precinct_validity}
 \title{Expected Properties of Columns in MEDSL Precinct Returns}
-\format{An object of class \code{list} of length 38.}
+\format{An object of class \code{list} of length 14.}
 \usage{
 precinct_validity
 }
