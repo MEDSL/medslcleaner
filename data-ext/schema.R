@@ -1,5 +1,6 @@
 #! /usr/bin/env Rscript
 
+library(data.table)
 library(stringr)
 library(yaml)
 library(assertthat)
@@ -9,8 +10,14 @@ fields = field_schema$fields
 field_names = sapply(fields, `[[`, 'name')
 fields = lapply(fields, function(x) {
   assert_that(x %has_name% 'type')
-  if (is.null(x$required)) {
-    x$required = FALSE
+  if (is.null(x$constraints)) {
+    x$constraints = list()
+  }
+  if (is.null(x$constraints$required)) {
+    x$constraints$required = FALSE
+  }
+  if (!is.null(x$required)) {
+    x$required = NULL
   }
   x
 })
