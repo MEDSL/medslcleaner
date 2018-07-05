@@ -618,7 +618,7 @@ body {
 <p>Column <em>type</em> problems often arise when reading returns from delimited text (e.g., CSV) files. We also may encounter column names that are duplicated, missing, or contain special characters. Base R’s <code>read.csv</code> doesn’t handle these situations as safely as <code>fread</code> from <code>data.table</code> and <code>read_csv</code> from <code>readr</code>.</p>
 <p><code>fread</code> and <code>read_csv</code> produce warnings on parser errors that we can resolve by setting column types explicitly via the <code>colClasses</code> argument for <code>fread</code> or <code>col_types</code> for <code>read_*</code>. Other than the two functions’ return types, <code>data.table</code> and <code>tibble</code>, the most relevant difference in implementation for us is that the <code>read_</code> family infers column types from the first <code>guess_max</code> rows, whereas <code>fread</code> uses a sample.</p>
 <p>We’d ideally read returns from a delimited-text format only once, and for any intermediate writes to the disk during processing use a binary format that preserves types, e.g. an R data format. But we haven’t always done this, and in the 2016 returns there are a lot of intermediate CSVs.</p>
-<p>Read these intermediate CSVs with the <code>read_precincts</code> function. It promotes parser warnings to errors, and can read expected columns with the appropriate types if <code>use_types = TRUE</code>.</p>
+<p>Read these intermediate CSVs with the <code>read_legacy_csv</code> function. It promotes parser warnings to errors, and can read expected columns with the appropriate types if <code>use_types = TRUE</code>.</p>
 <h4 id="excel">Excel</h4>
 <p>We deal with quite a few Excel files. Some can be handled with the <a href="http://readxl.tidyverse.org">readxl</a> package. It works well when spreadsheets already look like sane tabular data, with a single header row followed by observations whose identifiers are in columns.</p>
 <p>This isn’t always so. Consider an excerpt:</p>
@@ -759,25 +759,7 @@ body {
 <p>The <code>medslcleaner</code> package includes a <code>candidates</code> dataset with various identifiers for (at this point only) federal candidates, pulled from the FEC and the @unitedstates project. Linking ballot names to these datasets is already done, so merging in the identifiers only requires a call to <code>add_candidate_ids</code>.</p>
 <p>If this fails, then the <code>candidates</code> dataset needs to be rebuilt to include new candidates; see the <code>data-ext/candidates</code> directory. In the future this should be more robust.</p>
 <h3 id="save-the-result">Save the result</h3>
-<p>We use <code>write_precincts</code> to write the final result to disk. This function makes final normalizing adjustments to the data, and then checks it against our expectations about which variables exist and the values they take. These criteria are given in a package dataset called <code>precinct_validity</code>.</p>
-<p>For example, there must exist in the data a variable <code>state_postal</code> of type <code>character</code>, which takes a single non-missing value for all observations; it can’t be missing, and in fact must take one of 51 valid values:</p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb7-1" data-line-number="1"><span class="kw">data</span>(precinct_validity)</a>
-<a class="sourceLine" id="cb7-2" data-line-number="2"><span class="kw">str</span>(precinct_validity[[<span class="st">'state_postal'</span>]])</a>
-<a class="sourceLine" id="cb7-3" data-line-number="3">## List of 4</a>
-<a class="sourceLine" id="cb7-4" data-line-number="4">##  $ type    : chr &quot;character&quot;</a>
-<a class="sourceLine" id="cb7-5" data-line-number="5">##  $ no_na   : logi TRUE</a>
-<a class="sourceLine" id="cb7-6" data-line-number="6">##  $ n_unique: num 1</a>
-<a class="sourceLine" id="cb7-7" data-line-number="7">##  $ values  : chr [1:51] &quot;AL&quot; &quot;AK&quot; &quot;AZ&quot; &quot;AR&quot; ...</a></code></pre></div>
-<p>The important changes that <code>write_precincts</code> makes before writing to disk are to keep only the expected columns and normalize whitespace in character columns. If certain columns with default values are missing (e.g., <code>stage = &quot;gen&quot;</code>), they’ll be created.</p>
-<p><code>write_precincts</code> then confirms the data meets <code>precinct validity</code> criteria:</p>
-<ul>
-<li>Variable type</li>
-<li>Existence of <code>NA</code> values</li>
-<li>Number of unique values</li>
-<li>Whether all values are in a set of predefined valid values</li>
-<li>The result of a custom validation function</li>
-</ul>
-<p>Not all criteria are defined for each variable. If any fail, we get an error; if successful, the function writes the returns to disk.</p>
+<p>We use <code>write_precincts</code> to write the final result to disk. The important changes that <code>write_precincts</code> makes before writing to disk are to keep only the expected columns and normalize whitespace in character columns. If certain columns with default values are missing (e.g., <code>stage = &quot;gen&quot;</code>), they’ll be created.</p>
 
 </body>
 </html>

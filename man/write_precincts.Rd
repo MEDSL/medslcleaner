@@ -4,7 +4,7 @@
 \alias{write_precincts}
 \title{Save returns to disk}
 \usage{
-write_precincts(.data, state_postal, skip = NULL)
+write_precincts(.data, state_postal)
 }
 \arguments{
 \item{.data}{A table of returns.}

@@ -20,7 +20,7 @@
 #' @param state_postal State postal abbreviation.
 #' @return Processed `.data`.
 #' @export
-write_precincts = function(.data, state_postal, skip = NULL) {
+write_precincts = function(.data, state_postal) {
   if (!is.data.table(.data)) setDT(.data)
   .data = rename_legacy_vars(.data)
   .data = keep_columns(.data)
