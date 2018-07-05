@@ -32,9 +32,7 @@
 
 <meta property="og:title" content="Read CSV-formatted returns from the disk — read_legacy_csv" />
 
-<meta property="og:description" content="Expected columns are read with the type given in
-precinct_column_types. Parser warnings are promoted to errors
-by default." />
+<meta property="og:description" content="Parser warnings are promoted to errors and legacy variables are renamed." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -86,6 +84,9 @@ by default." />
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
+      <a href="../articles/excel.html">Extracting election data from spreadsheets</a>
+    </li>
+    <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
   </ul>
@@ -113,13 +114,11 @@ by default." />
 
     <div class="ref-description">
     
-    <p>Expected columns are read with the type given in
-<code><a href='precinct_column_types.html'>precinct_column_types</a></code>. Parser warnings are promoted to errors
-by default.</p>
+    <p>Parser warnings are promoted to errors and legacy variables are renamed.</p>
     
     </div>
 
-    <pre class="usage"><span class='fu'>read_legacy_csv</span>(<span class='no'>path</span>, <span class='kw'>strict</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>use_types</span> <span class='kw'>=</span> <span class='fl'>FALSE</span>)</pre>
+    <pre class="usage"><span class='fu'>read_legacy_csv</span>(<span class='no'>path</span>, <span class='kw'>strict</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>)</pre>
     
     <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
     <table class="ref-arguments">
@@ -131,10 +130,6 @@ by default.</p>
     <tr>
       <th>strict</th>
       <td><p>Promote warnings to errors.</p></td>
-    </tr>
-    <tr>
-      <th>use_types</th>
-      <td><p>Read expected columns with expected types.</p></td>
     </tr>
     </table>
     

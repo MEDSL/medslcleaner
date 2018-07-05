@@ -10,5 +10,5 @@ rename_legacy_vars(.data)
 \item{.data}{A table of returns.}
 }
 \description{
-Rename legacy variable names
+FIXME: This function also drops variables, so its name is misleading.
 }

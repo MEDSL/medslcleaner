@@ -2,29 +2,19 @@
 
 #' Read CSV-formatted returns from the disk
 #'
-#' Expected columns are read with the type given in
-#' \code{\link{precinct_column_types}}. Parser warnings are promoted to errors
-#' by default.
+#' Parser warnings are promoted to errors and legacy variables are renamed.
 #'
 #' @param path Path to a CSV.
 #' @param strict Promote warnings to errors.
-#' @param use_types Read expected columns with expected types.
 #' @export
-read_legacy_csv = function(path, strict = TRUE, use_types = FALSE) {
-  if (isTRUE(use_types)) {
-    # Subset type specification to the columns in the data
-		headers = names(fread(path, nrows=0))
-		col_types = purrr::keep(precinct_column_types, ~ .x %in% headers)
-	} else {
-		col_types = NULL
-	}
+read_legacy_csv = function(path, strict = TRUE) {
   if (isTRUE(strict)) {
     # Promote warnings
 		.data = withCallingHandlers({
-			fread(path, colClasses = col_types)
+			fread(path)
 		}, warning = function(w) stop(w))
 	} else {
-		.data = fread(path, colClasses = col_types)
+		.data = fread(path)
 	}
   .data = rename_legacy_vars(.data)
   assert_that(not_empty(.data))
@@ -36,10 +26,8 @@ read_legacy_csv = function(path, strict = TRUE, use_types = FALSE) {
 #' A wrapper for the pattern:
 #'
 #' - Locate paths with `list.files`, using `full.names = TRUE` and perhaps a `pattern`
-#' - Apply a read function like [`fread`](data.table) or
-#'   [`read_excel`](xlreader) to each path
-#' - Combine the data with e.g. [`rbindlist`], using the paths as an identifier
-#' column
+#' - Apply a read function like [`fread`](data.table) or [`read_excel`](xlreader) to each path
+#' - Combine the data with e.g. [`rbindlist`], using the paths as an identifier column
 #'
 #' @param path Path to a directory of returns.
 #' @param ... Further arguments to \code{\link[base]{list.files}}.
@@ -57,6 +45,8 @@ read_dir = function(path = '../raw', f = data.table::fread, idcol = 'path', ...)
 }
 
 #' Rename legacy variable names
+#'
+#' FIXME: This function also drops variables, so its name is misleading.
 #'
 #' @inheritParams write_precincts
 #' @export

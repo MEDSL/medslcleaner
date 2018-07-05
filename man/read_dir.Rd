@@ -21,9 +21,7 @@ A wrapper for the pattern:
 \details{
 \itemize{
 \item Locate paths with \code{list.files}, using \code{full.names = TRUE} and perhaps a \code{pattern}
-\item Apply a read function like \href{data.table}{fread} or
-\href{xlreader}{read_excel} to each path
-\item Combine the data with e.g. \code{\link{rbindlist}}, using the paths as an identifier
-column
+\item Apply a read function like \href{data.table}{fread} or \href{xlreader}{read_excel} to each path
+\item Combine the data with e.g. \code{\link{rbindlist}}, using the paths as an identifier column
 }
 }

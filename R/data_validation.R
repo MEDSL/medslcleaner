@@ -1,36 +1,14 @@
-#' Expected Properties of Columns in MEDSL Precinct Returns
+#' Field schema in datapackage format
 #' 
 #' Defines a schema for column validity. The name of each list element is a
 #' column that may occur in MEDSL precinct returns. Sub-elements describe
-#' constraints to be imposed on these columns. (This validation is implemented
-#' in `[write_precincts`]).
+#' characteristics of these columns, including constraints imposed. 
 #' 
-#' For example, the `dataverse` element of `precinct_validity` defines the
-#' expected `type` of the column named `dataverse` in precinct returns:
-#' `character`. It should not have `NA` values, so `no_na = TRUE`. In fact, it
-#' should only take one of the enumerated `values`: `"president"`, `"senate"`,
-#' etc.
-#' 
-#' @seealso `[write_precincts]`
-'precinct_validity'
-
-#' Expected column names in MEDSL precinct returns 
-#' 
-#' Generated from `[precinct_validity]`. 
-#' @seealso `[precinct_validity]`
-'precinct_columns'
-
-#' Expected column types in MEDSL precinct returns
-#' 
-#' Generated from `[precinct_validity]`.
-#' @seealso `[precinct_validity]`
-'precinct_column_types'
+#' @seealso `[validate]`
+'fields'
 
 #' Presidential vote totals in 2016, by state
 #' 
 #' A table of vote totals from [Dave Leip's US Election Atlas](https://uselectionatlas.org/RESULTS).
 'state_totals'
 
-#' Field schema in datapackage format
-#'
-'fields'

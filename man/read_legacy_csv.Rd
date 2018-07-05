@@ -4,17 +4,13 @@
 \alias{read_legacy_csv}
 \title{Read CSV-formatted returns from the disk}
 \usage{
-read_legacy_csv(path, strict = TRUE, use_types = FALSE)
+read_legacy_csv(path, strict = TRUE)
 }
 \arguments{
 \item{path}{Path to a CSV.}
 
 \item{strict}{Promote warnings to errors.}
-
-\item{use_types}{Read expected columns with expected types.}
 }
 \description{
-Expected columns are read with the type given in
-\code{\link{precinct_column_types}}. Parser warnings are promoted to errors
-by default.
+Parser warnings are promoted to errors and legacy variables are renamed.
 }

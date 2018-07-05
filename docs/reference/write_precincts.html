@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Save returns to disk after validation — write_precincts • medslcleaner</title>
+<title>Save returns to disk — write_precincts • medslcleaner</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -30,9 +30,11 @@
 
 
 
-<meta property="og:title" content="Save returns to disk after validation — write_precincts" />
+<meta property="og:title" content="Save returns to disk — write_precincts" />
 
-<meta property="og:description" content="Save returns to disk after validation" />
+<meta property="og:description" content="Write data to disk as .csv and .Rds, using the naming convention
+2016-{state_postal}-precinct. Transformations are applied before saving;
+see details." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -84,6 +86,9 @@
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
+      <a href="../articles/excel.html">Extracting election data from spreadsheets</a>
+    </li>
+    <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
   </ul>
@@ -104,14 +109,16 @@
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Save returns to disk after validation</h1>
+    <h1>Save returns to disk</h1>
     
     <div class="hidden name"><code>write_precincts.Rd</code></div>
     </div>
 
     <div class="ref-description">
     
-    <p>Save returns to disk after validation</p>
+    <p>Write data to disk as <code>.csv</code> and <code>.Rds</code>, using the naming convention
+<code>2016-{state_postal}-precinct</code>. Transformations are applied before saving;
+see details.</p>
     
     </div>
 
@@ -128,38 +135,27 @@
       <th>state_postal</th>
       <td><p>State postal abbreviation.</p></td>
     </tr>
-    <tr>
-      <th>skip</th>
-      <td><p>Validations in <code>precinct_validity</code> to skip, as a list whose
-names are variables and whose values are properties.</p></td>
-    </tr>
     </table>
     
     <h2 class="hasAnchor" id="value"><a class="anchor" href="#value"></a>Value</h2>
 
     <p>Processed <code>.data</code>.</p>
     
+    <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
-    <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='co'># 2016 MI precinct returns include statistical adjustments with negative</span>
-<span class='co'># `votes`, which requires an exception to the requirement that `votes` values</span>
-<span class='co'># are integers &gt;= 0. We might pass:</span>
-<span class='no'>skip</span> <span class='kw'>=</span> <span class='fu'>list</span>(<span class='kw'>votes</span> <span class='kw'>=</span> <span class='st'>'is_valid'</span>)
-<span class='co'># Because the `is_valid` callable in `precinct_validity$votes` enforces the</span>
-<span class='co'># &gt;=0 requirement:</span>
-<span class='fu'>data</span>(<span class='no'>precinct_validity</span>)
-<span class='no'>precinct_validity</span>$<span class='no'>votes</span></div><div class='output co'>#&gt; $type
-#&gt; [1] "integer"
-#&gt; 
-#&gt; $no_na
-#&gt; [1] TRUE
-#&gt; 
-#&gt; $is_valid
-#&gt; function (x) 
-#&gt; {
-#&gt;     x &gt;= 0 &amp; x%%1 == 0
-#&gt; }
-#&gt; </div></pre>
+    <p>Before saving:</p><ul>
+<li><p>Rename or drop legacy variables, which appear in some old intermediate
+CSVs, e.g., <code>total votes</code> or <code>candidate.votes</code></p></li>
+<li><p>Keep only the columns defined in the <code>[fields]</code> schema</p></li>
+<li><p>Assign default values for these columns (e.g., <code>FALSE</code> for <code>special</code>)</p></li>
+<li><p>Normalize whitespace in character columns (trim exterior whitespace;
+replace 1+ interior whitespace with single whitespace)</p></li>
+<li><p>Reorder the columns</p></li>
+<li><p>Convert variables to expected types (e.g., numeric -&gt; integer), which
+should be non-destructive if the <code><a href='validate.html'>validate(.data)</a></code> was successful.</p></li>
+</ul>
+    
+
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>
@@ -167,9 +163,9 @@ names are variables and whose values are properties.</p></td>
       <li><a href="#arguments">Arguments</a></li>
       
       <li><a href="#value">Value</a></li>
-      
-      <li><a href="#examples">Examples</a></li>
-    </ul>
+
+      <li><a href="#details">Details</a></li>
+          </ul>
 
   </div>
 </div>

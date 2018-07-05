@@ -1,37 +1,65 @@
-extracting election data from spreadsheets
+Extracting election data from spreadsheets
 ========================================================
 author: James Dunham, MIT MEDSL
 date: July 3, 2018
 autosize: true
 
-First Slide
+The problem
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+![plot of chunk unnamed-chunk-1](merrimack-long.png)
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-Slide With Code
+Approach
 ========================================================
+
+1. Identify which cells are **data** and which are **headers**
+2. Define the **relationships** between data cells and header cells
+
+Tools:
+
+```r
+library(tidyxl)
+library(unpivotr)
+library(tidyverse)
+library(medslcleaner)
+```
+
+Read data
+====================
+
+We read the data with function `xlsx_cells` from the `tidyxl` package.
 
 
 ```r
-summary(cars)
+merrimack_path = spreadsheet_example('merrimack')
+d = xlsx_cells(merrimack_path, sheet = 1)
+```
+
+Take a look
+======
+
+
+```r
+d %>%
+  filter(!is_blank) %>%
+  select(address, row, col, data_type, character, numeric) %>%
+  head()
 ```
 
 ```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
+# A tibble: 6 x 6
+  address   row   col data_type character                          numeric
+  <chr>   <int> <int> <chr>     <chr>                                <dbl>
+1 B1          1     2 character State of New Hampshire - General …      NA
+2 B2          2     2 character "Merrimack County Offices  "            NA
+3 A3          3     1 date      <NA>                                    NA
+4 B3          3     2 character Sheriff                                 NA
+5 D3          3     4 character Attorney                                NA
+6 F3          3     6 character Treasurer                               NA
 ```
 
-Slide With Plot
-========================================================
+Resources
+====================
 
-![plot of chunk unnamed-chunk-2](excel-figure/unnamed-chunk-2-1.png)
+* [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies): <https://nacnudus.github.io/spreadsheet-munging-strategies>
+

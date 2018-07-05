@@ -13,5 +13,5 @@ assign_defaults(.data, state_postal)
 }
 \description{
 Create and fill with reasonable defaults the variables \code{writein}, \code{year},
-\code{stage}, \code{special}, and \code{mode}.
+\code{stage}, \code{special}, \code{mode}, and \code{candidate} where \code{writein} is \code{TRUE}.
 }

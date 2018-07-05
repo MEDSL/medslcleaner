@@ -268,32 +268,8 @@ be more robust.
 
 ### Save the result
 
-We use `write_precincts` to write the final result to disk. This function makes
-final normalizing adjustments to the data, and then checks it against our
-expectations about which variables exist and the values they take. These
-criteria are given in a package dataset called `precinct_validity`.
-
-For example, there must exist in the data a variable `state_postal` of type
-`character`, which takes a single non-missing value for all observations; it
-can't be missing, and in fact must take one of 51 valid values:
-
-```{r}
-data(precinct_validity)
-str(precinct_validity[['state_postal']])
-```
-
-The important changes that `write_precincts` makes before writing to disk are to
-keep only the expected columns and normalize whitespace in character columns. If
-certain columns with default values are missing (e.g., `stage = "gen"`),
-they'll be created.
-
-`write_precincts` then confirms the data meets `precinct validity` criteria:
-
-- Variable type
-- Existence of `NA` values
-- Number of unique values
-- Whether all values are in a set of predefined valid values
-- The result of a custom validation function
-
-Not all criteria are defined for each variable. If any fail, we get an error; if
-successful, the function writes the returns to disk.
+We use `write_precincts` to write the final result to disk. The important
+changes that `write_precincts` makes before writing to disk are to keep only the
+expected columns and normalize whitespace in character columns. If certain
+columns with default values are missing (e.g., `stage = "gen"`), they'll be
+created.

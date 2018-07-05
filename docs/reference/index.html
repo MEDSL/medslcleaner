@@ -81,6 +81,9 @@
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
+      <a href="../articles/excel.html">Extracting election data from spreadsheets</a>
+    </li>
+    <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
   </ul>
@@ -416,27 +419,33 @@
       <tr>
         
         <td>
-          <p><code><a href="precinct_validity.html">precinct_validity</a></code> </p>
+          <p><code><a href="add_candidate_ids.html">add_candidate_ids()</a></code> </p>
         </td>
-        <td><p>Expected Properties of Columns in MEDSL Precinct Returns</p></td>
+        <td><p>Add candidate identifiers to precinct returns</p></td>
       </tr><tr>
         
         <td>
-          <p><code><a href="write_precincts.html">write_precincts()</a></code> </p>
+          <p><code><a href="add_geo_ids.html">add_geo_ids()</a></code> </p>
         </td>
-        <td><p>Save returns to disk after validation</p></td>
+        <td><p>Add state and county identifiers to precinct returns</p></td>
       </tr><tr>
         
         <td>
-          <p><code><a href="compare_votes.html">compare_votes()</a></code> </p>
+          <p><code><a href="add_jurisdiction_fips.html">add_jurisdiction_fips()</a></code> </p>
         </td>
-        <td><p>Compare vote totals</p></td>
+        <td><p>Merge FIPS codes from EAVS</p></td>
       </tr><tr>
         
         <td>
-          <p><code><a href="eavs.html">eavs</a></code> </p>
+          <p><code><a href="all_na.html">all_na()</a></code> </p>
         </td>
-        <td><p>The 2016 Election Administration Voting Survey</p></td>
+        <td><p>Identify all-<code>NA</code> rows or columns in spreadsheet</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="as_header.html">as_header()</a></code> </p>
+        </td>
+        <td><p>Create identifier columns in spreadsheet data</p></td>
       </tr><tr>
         
         <td>
@@ -446,21 +455,273 @@
       </tr><tr>
         
         <td>
-          <p><code><a href="precinct_column_types.html">precinct_column_types</a></code> </p>
+          <p><code><a href="assign_fixed.html">assign_fixed()</a></code> </p>
         </td>
-        <td><p>Expected column types in MEDSL precinct returns</p></td>
+        <td><p>Assign dataverse identifiers by expected values of <code>office</code>.</p></td>
       </tr><tr>
         
         <td>
-          <p><code><a href="precinct_columns.html">precinct_columns</a></code> </p>
+          <p><code><a href="assign_match.html">assign_match()</a></code> </p>
         </td>
-        <td><p>Expected column names in MEDSL precinct returns</p></td>
+        <td><p>Assign rows matching an <code>office</code> pattern to a dataverse</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="candidate_merge_name.html">candidate_merge_name()</a></code> </p>
+        </td>
+        <td><p>Create a merge key from candidate names</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="candidates.html">candidates</a></code> </p>
+        </td>
+        <td><p>A lookup table for candidate identifiers</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="carry_down.html">carry_down()</a></code> </p>
+        </td>
+        <td><p>Carry spreadsheet values down column-wise</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="carry_right.html">carry_right()</a></code> </p>
+        </td>
+        <td><p>Carry spreadsheet values right row-wise</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="census_precincts.html">census_precincts</a></code> </p>
+        </td>
+        <td><p>A table describing Census voting districts</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="col_values.html">col_values()</a></code> <code><a href="col_values.html">su()</a></code> </p>
+        </td>
+        <td><p>Inspect variables' unique values</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="compare_votes.html">compare_votes()</a></code> </p>
+        </td>
+        <td><p>Compare vote totals</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="county_ids.html">county_ids</a></code> </p>
+        </td>
+        <td><p>County Identifiers</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="county_sub_ids.html">county_sub_ids</a></code> </p>
+        </td>
+        <td><p>County Subdivison Identifiers</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="dvna.html">dvna()</a></code> </p>
+        </td>
+        <td><p>Test for <code>office</code> values not yet assigned to a dataverse</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="eavs.html">eavs</a></code> </p>
+        </td>
+        <td><p>The 2016 Election Administration Voting Survey</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="field_schema.html">field_schema()</a></code> </p>
+        </td>
+        <td><p>Retrieve field schema for a single field</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="fields.html">fields</a></code> </p>
+        </td>
+        <td><p>Field schema in datapackage format</p></td>
       </tr><tr>
         
         <td>
           <p><code><a href="finalize.html">finalize()</a></code> </p>
         </td>
         <td><p>Finalize spreadsheet data</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="grapes-e-grapes.html">`%e%`</a></code> </p>
+        </td>
+        <td><p>Extract pattern matches</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="grapes-equals-grapes.html">`%=%`</a></code> </p>
+        </td>
+        <td><p>Detect pattern matches</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="grapes-grapes.html">`%-%`</a></code> <code><a href="grapes-grapes.html">`%r%`</a></code> </p>
+        </td>
+        <td><p>Remove pattern matches</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="jurisdiction_merge_name.html">jurisdiction_merge_name()</a></code> </p>
+        </td>
+        <td><p>Create a merge key for jurisdictions</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="medslcleaner.html">medslcleaner</a></code> </p>
+        </td>
+        <td><p>An R Package for Cleaning MEDSL Data</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="melt_votes.html">melt_votes()</a></code> </p>
+        </td>
+        <td><p>Melt candidate votes</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="move.html">move()</a></code> </p>
+        </td>
+        <td><p>Move a pattern match between columns</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="nlapply.html">nlapply()</a></code> </p>
+        </td>
+        <td><p><code>lapply</code> with named outputs</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="normalize_district_numbers.html">normalize_district_numbers()</a></code> </p>
+        </td>
+        <td><p>Drop leading zeroes from district numbers-as-strings</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="normalize_office.html">normalize_office()</a></code> </p>
+        </td>
+        <td><p>Normalize office values</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="normalize_party.html">normalize_party()</a></code> <code><a href="normalize_party.html">expand_party_abbr()</a></code> </p>
+        </td>
+        <td><p>Expand common party abbreviations</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="normalize_presidential_candidates.html">normalize_presidential_candidates()</a></code> </p>
+        </td>
+        <td><p>Normalize names of presidential candidates</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="normalize_whitespace.html">normalize_whitespace()</a></code> </p>
+        </td>
+        <td><p>Normalize whitespace in character columns</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="not_in_eavs.html">not_in_eavs()</a></code> </p>
+        </td>
+        <td><p>Display <code>jurisdiction</code> merge keys in precinct returns but not EAVS</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="not_in_state.html">not_in_state()</a></code> </p>
+        </td>
+        <td><p>Display <code>jurisdiction</code> merge keys in EAVS but not precinct returns</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="ogrep.html">ogrep()</a></code> </p>
+        </td>
+        <td><p>Test an <code>office</code> pattern for assigning rows to a dataverse</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="paste_omit_na.html">paste_omit_na()</a></code> </p>
+        </td>
+        <td><p>Concatenate strings omitting NAs</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="read_dir.html">read_dir()</a></code> </p>
+        </td>
+        <td><p>Read a directory of returns data</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="read_legacy_csv.html">read_legacy_csv()</a></code> </p>
+        </td>
+        <td><p>Read CSV-formatted returns from the disk</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="rename_legacy_vars.html">rename_legacy_vars()</a></code> </p>
+        </td>
+        <td><p>Rename legacy variable names</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="row_contains.html">row_contains()</a></code> <code><a href="row_contains.html">col_contains()</a></code> </p>
+        </td>
+        <td><p>Identify spreadsheet rows that contain a pattern</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="search_all.html">search_all()</a></code> </p>
+        </td>
+        <td><p>Search across all character columns</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="split_cells.html">split_cells()</a></code> </p>
+        </td>
+        <td><p>Split multiple tables in spreadsheets into separate dataframes</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="spreadsheet_example.html">spreadsheet_example()</a></code> </p>
+        </td>
+        <td><p>Retrieve paths to packaged Excel spreadsheets</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="state_eavs.html">state_eavs()</a></code> </p>
+        </td>
+        <td><p>Load EAVS precinct data for a given state</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="state_ids.html">state_ids</a></code> </p>
+        </td>
+        <td><p>State Identifiers</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="state_totals.html">state_totals</a></code> </p>
+        </td>
+        <td><p>Presidential vote totals in 2016, by state</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="validate.html">validate()</a></code> <code><a href="validate.html">validate_field()</a></code> <code><a href="validate.html">select_noninteger()</a></code> <code><a href="validate.html">select_nonstring()</a></code> <code><a href="validate.html">select_not_enumerated()</a></code> <code><a href="validate.html">select_missing()</a></code> </p>
+        </td>
+        <td><p>Validate election returns against schema</p></td>
+      </tr><tr>
+        
+        <td>
+          <p><code><a href="write_precincts.html">write_precincts()</a></code> </p>
+        </td>
+        <td><p>Save returns to disk</p></td>
       </tr>
     </tbody><tbody>
       <tr>
@@ -622,12 +883,6 @@
       </tr><tr>
         
         <td>
-          <p><code><a href="heda_codes.html">heda_codes</a></code> </p>
-        </td>
-        <td><p>A lookup table for Harvard Election Data Archive codes</p></td>
-      </tr><tr>
-        
-        <td>
           <p><code><a href="jurisdiction_merge_name.html">jurisdiction_merge_name()</a></code> </p>
         </td>
         <td><p>Create a merge key for jurisdictions</p></td>
@@ -712,33 +967,9 @@
       </tr><tr>
         
         <td>
-          <p><code><a href="precinct_column_types.html">precinct_column_types</a></code> </p>
-        </td>
-        <td><p>Expected column types in MEDSL precinct returns</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="precinct_columns.html">precinct_columns</a></code> </p>
-        </td>
-        <td><p>Expected column names in MEDSL precinct returns</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="precinct_validity.html">precinct_validity</a></code> </p>
-        </td>
-        <td><p>Expected Properties of Columns in MEDSL Precinct Returns</p></td>
-      </tr><tr>
-        
-        <td>
           <p><code><a href="read_dir.html">read_dir()</a></code> </p>
         </td>
         <td><p>Read a directory of returns data</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="read_heda.html">read_heda()</a></code> </p>
-        </td>
-        <td><p>Read and reshape Harvard Election Data Archive returns</p></td>
       </tr><tr>
         
         <td>
@@ -804,7 +1035,7 @@
         <td>
           <p><code><a href="write_precincts.html">write_precincts()</a></code> </p>
         </td>
-        <td><p>Save returns to disk after validation</p></td>
+        <td><p>Save returns to disk</p></td>
       </tr>
     </tbody><tbody>
       <tr>

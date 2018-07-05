@@ -2,7 +2,7 @@
 % Please edit documentation in R/write.R
 \name{write_precincts}
 \alias{write_precincts}
-\title{Save returns to disk after validation}
+\title{Save returns to disk}
 \usage{
 write_precincts(.data, state_postal, skip = NULL)
 }
@@ -10,23 +10,26 @@ write_precincts(.data, state_postal, skip = NULL)
 \item{.data}{A table of returns.}
 
 \item{state_postal}{State postal abbreviation.}
-
-\item{skip}{Validations in \code{precinct_validity} to skip, as a list whose
-names are variables and whose values are properties.}
 }
 \value{
 Processed \code{.data}.
 }
 \description{
-Save returns to disk after validation
+Write data to disk as \code{.csv} and \code{.Rds}, using the naming convention
+\code{2016-{state_postal}-precinct}. Transformations are applied before saving;
+see details.
 }
-\examples{
-# 2016 MI precinct returns include statistical adjustments with negative
-# `votes`, which requires an exception to the requirement that `votes` values
-# are integers >= 0. We might pass:
-skip = list(votes = 'is_valid')
-# Because the `is_valid` callable in `precinct_validity$votes` enforces the
-# >=0 requirement:
-data(precinct_validity)
-precinct_validity$votes
+\details{
+Before saving:
+\itemize{
+\item Rename or drop legacy variables, which appear in some old intermediate
+CSVs, e.g., \code{total votes} or \code{candidate.votes}
+\item Keep only the columns defined in the \code{[fields]} schema
+\item Assign default values for these columns (e.g., \code{FALSE} for \code{special})
+\item Normalize whitespace in character columns (trim exterior whitespace;
+replace 1+ interior whitespace with single whitespace)
+\item Reorder the columns
+\item Convert variables to expected types (e.g., numeric -> integer), which
+should be non-destructive if the \code{validate(.data)} was successful.
+}
 }

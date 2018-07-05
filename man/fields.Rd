@@ -9,6 +9,11 @@
 fields
 }
 \description{
-Field schema in datapackage format
+Defines a schema for column validity. The name of each list element is a
+column that may occur in MEDSL precinct returns. Sub-elements describe
+characteristics of these columns, including constraints imposed.
+}
+\seealso{
+\code{[validate]}
 }
 \keyword{datasets}

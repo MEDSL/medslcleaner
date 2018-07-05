@@ -5,11 +5,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Working with Spreadsheets • medslcleaner</title>
+<title>Extracting election data from spreadsheets • medslcleaner</title>
 <!-- jquery --><script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script><!-- Bootstrap --><link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script><!-- Font Awesome icons --><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 <!-- clipboard.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js" integrity="sha384-cV+rhyOuRHc9Ub/91rihWcGmMmCXDeksTtCihMupQHSsi8GIIRDG0ThDc3HGQFJ3" crossorigin="anonymous"></script><!-- sticky kit --><script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js" integrity="sha256-c4Rlo1ZozqTPE2RLuvbusY3+SU1pQaJC0TjuhygMipw=" crossorigin="anonymous"></script><!-- pkgdown --><link href="../pkgdown.css" rel="stylesheet">
-<script src="../pkgdown.js"></script><meta property="og:title" content="Working with Spreadsheets">
+<script src="../pkgdown.js"></script><meta property="og:title" content="Extracting election data from spreadsheets">
 <meta property="og:description" content="">
 <meta name="twitter:card" content="summary">
 <!-- mathjax --><script src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><!--[if lt IE 9]>
@@ -29,7 +29,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -52,7 +52,7 @@
   </a>
   <ul class="dropdown-menu" role="menu">
 <li>
-      <a href="../articles/excel.html">Working with Spreadsheets</a>
+      <a href="../articles/excel.html">Extracting election data from spreadsheets</a>
     </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
@@ -72,8 +72,10 @@
       </header><div class="row">
   <div class="col-md-9 contents">
     <div class="page-header toc-ignore">
-      <h1>Working with Spreadsheets</h1>
+      <h1>Extracting election data from spreadsheets</h1>
+                        <h4 class="author">James Dunham, MIT MEDSL</h4>
             
+            <h4 class="date">July 3, 2018</h4>
       
       
       <div class="hidden name"><code>excel.Rmd</code></div>
@@ -82,23 +84,22 @@
 
     
     
-<p>This vignette demonstrates the extraction of election results from Excel and CSV files using the <code>medslcleaner</code> package. We introduce the available tools and show solutions for common spreadsheet layouts.</p>
-<div id="tutorial" class="section level1">
+<div id="the-problem" class="section level1">
 <h1 class="hasAnchor">
-<a href="#tutorial" class="anchor"></a>Tutorial</h1>
-<p>The following is an excerpt from the Excel-formatted source data for Merrimack, New Hampshire.</p>
-<p><img src="merrimack.png"></p>
-<div id="problem" class="section level2">
-<h2 class="hasAnchor">
-<a href="#problem" class="anchor"></a>Problem</h2>
-<p>Reading this sheet into R as if it were ordinary tabular data doesn’t work very well.</p>
+<a href="#the-problem" class="anchor"></a>The problem</h1>
+<p><img src="merrimack-long.png" width="542"></p>
+</div>
+<div id="pretend-its-tabular" class="section level1">
+<h1 class="hasAnchor">
+<a href="#pretend-its-tabular" class="anchor"></a>Pretend it’s tabular?</h1>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="kw">library</span>(dplyr)</a>
 <a class="sourceLine" id="cb1-2" data-line-number="2"><span class="kw">library</span>(stringr)</a>
 <a class="sourceLine" id="cb1-3" data-line-number="3"><span class="kw">library</span>(readxl)</a>
-<a class="sourceLine" id="cb1-4" data-line-number="4"></a>
-<a class="sourceLine" id="cb1-5" data-line-number="5">merrimack_path =<span class="st"> </span><span class="kw"><a href="../reference/excel_example_path.html">excel_example_path</a></span>(<span class="st">'merrimack'</span>)</a>
-<a class="sourceLine" id="cb1-6" data-line-number="6"><span class="kw"><a href="http://www.rdocumentation.org/packages/readxl/topics/read_excel">read_excel</a></span>(merrimack_path, <span class="dt">col_names =</span> <span class="ot">FALSE</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb1-7" data-line-number="7"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
+<a class="sourceLine" id="cb1-4" data-line-number="4"><span class="kw">library</span>(medslcleaner)</a>
+<a class="sourceLine" id="cb1-5" data-line-number="5"></a>
+<a class="sourceLine" id="cb1-6" data-line-number="6">merrimack_path =<span class="st"> </span><span class="kw"><a href="../reference/spreadsheet_example.html">spreadsheet_example</a></span>(<span class="st">'merrimack'</span>)</a>
+<a class="sourceLine" id="cb1-7" data-line-number="7"><span class="kw"><a href="http://www.rdocumentation.org/packages/readxl/topics/read_excel">read_excel</a></span>(merrimack_path, <span class="dt">col_names =</span> <span class="ot">FALSE</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb1-8" data-line-number="8"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
 <pre><code>## # A tibble: 6 x 8
 ##   ..1        ..2               ..3    ..4     ..5    ..6     ..7     ..8  
 ##   &lt;chr&gt;      &lt;chr&gt;             &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt;   &lt;chr&gt;
@@ -108,126 +109,237 @@
 ## 4 &lt;NA&gt;       Hilliard, r/d     Scatt… Murray… Scatt… Hammon… Rodrig… Scat…
 ## 5 Allenstown 2035              8      2013    3      1296    699     2    
 ## 6 Andover    1310              3      1277    &lt;NA&gt;   714     564     &lt;NA&gt;</code></pre>
-<p>Notice:</p>
+</div>
+<div id="alternative-solution" class="section level1">
+<h1 class="hasAnchor">
+<a href="#alternative-solution" class="anchor"></a>Alternative solution</h1>
+<ol style="list-style-type: decimal">
+<li>Identify which cells are <strong>data</strong> and which are <strong>headers</strong>
+</li>
+<li>Define the <strong>relationships</strong> between data cells and header cells</li>
+</ol>
+<p><img src="merrimack-long.png" width="542"></p>
+</div>
+<div id="tools" class="section level1">
+<h1 class="hasAnchor">
+<a href="#tools" class="anchor"></a>Tools</h1>
+<p>R packages:</p>
 <ul>
-<li><p><em>Multiple header rows:</em> The jurisdiction is in row <code>2</code>. Row <code>3</code> indicates offices. Row <code>4</code> gives candidates. We refer to these rows as header rows, and their non-blank cells as header cells.</p></li>
-<li><p><em>Multiple-column or “merged” cells:</em> the header cells with values <code>Sheriff</code>, <code>Attorney</code>, and <code>Treasurer</code> are associated with both of the two columns beneath them. But under this approach, the header cell values appear only above the first column.</p></li>
+<li><code>tidyverse</code></li>
+<li><code>tidyxl</code></li>
+<li><code>unpivotr</code></li>
+<li><code>medslcleaner</code></li>
 </ul>
 </div>
-<div id="solution" class="section level2">
-<h2 class="hasAnchor">
-<a href="#solution" class="anchor"></a>Solution</h2>
-<p>Here’s where we’re going:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1"><span class="co"># Instead of `read_excel`, `read_xlreturns`</span></a>
-<a class="sourceLine" id="cb3-2" data-line-number="2">d =<span class="st"> </span><span class="kw"><a href="../reference/read_xlreturns.html">read_xlreturns</a></span>(merrimack_path)</a>
-<a class="sourceLine" id="cb3-3" data-line-number="3"></a>
-<a class="sourceLine" id="cb3-4" data-line-number="4"><span class="co"># The main function for reshaping Excel data is `as_idcol`</span></a>
-<a class="sourceLine" id="cb3-5" data-line-number="5">d =<span class="st"> </span>d <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb3-6" data-line-number="6"><span class="st">  </span><span class="kw"><a href="../reference/as_idcol.html">as_idcol</a></span>(<span class="st">'jurisdiction'</span>, <span class="dt">i =</span> <span class="dv">2</span>, <span class="dt">j =</span> <span class="dv">2</span>, <span class="dt">down =</span> <span class="ot">TRUE</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb3-7" data-line-number="7"><span class="st">  </span><span class="kw"><a href="../reference/as_idcol.html">as_idcol</a></span>(<span class="st">'precinct'</span>, <span class="dt">j =</span> <span class="dv">1</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb3-8" data-line-number="8"><span class="st">  </span><span class="kw"><a href="../reference/as_idcol.html">as_idcol</a></span>(<span class="st">'office'</span>, <span class="dt">i =</span> <span class="dv">3</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>, <span class="dt">down =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb3-9" data-line-number="9"><span class="st">  </span><span class="kw"><a href="../reference/as_idcol.html">as_idcol</a></span>(<span class="st">'candidate'</span>, <span class="dt">i =</span> <span class="dv">4</span>, <span class="dt">down =</span> <span class="ot">TRUE</span>) </a>
-<a class="sourceLine" id="cb3-10" data-line-number="10">  </a>
-<a class="sourceLine" id="cb3-11" data-line-number="11"><span class="co"># Drop remaining header rows and `finalize`</span></a>
-<a class="sourceLine" id="cb3-12" data-line-number="12">d =<span class="st"> </span>d <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb3-13" data-line-number="13"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/filter.html">filter</a></span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span> <span class="op">&amp;</span><span class="st"> </span>col<span class="op">&gt;</span><span class="st"> </span><span class="dv">1</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb3-14" data-line-number="14"><span class="st">  </span><span class="kw"><a href="../reference/finalize.html">finalize</a></span>()</a>
-<a class="sourceLine" id="cb3-15" data-line-number="15"></a>
-<a class="sourceLine" id="cb3-16" data-line-number="16"><span class="kw">head</span>(d)</a></code></pre></div>
-<pre><code>##    votes               jurisdiction   precinct    office     candidate
-## 1:  2035 Merrimack County Offices   Allenstown   Sheriff Hilliard, r/d
-## 2:     8 Merrimack County Offices   Allenstown   Sheriff       Scatter
-## 3:  2013 Merrimack County Offices   Allenstown  Attorney   Murray, r/d
-## 4:     3 Merrimack County Offices   Allenstown  Attorney       Scatter
-## 5:  1296 Merrimack County Offices   Allenstown Treasurer    Hammond, r
-## 6:   699 Merrimack County Offices   Allenstown Treasurer  Rodriguez, d</code></pre>
-<p>Some cleaning up remains, but the heavy lifting is done in fewer than 10 lines.</p>
+<div id="read-the-data" class="section level1">
+<h1 class="hasAnchor">
+<a href="#read-the-data" class="anchor"></a>Read the data</h1>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1"><span class="kw">library</span>(medslcleaner)</a>
+<a class="sourceLine" id="cb3-2" data-line-number="2"><span class="kw">library</span>(tidyverse)</a>
+<a class="sourceLine" id="cb3-3" data-line-number="3"><span class="kw">library</span>(tidyxl)</a>
+<a class="sourceLine" id="cb3-4" data-line-number="4"><span class="kw">library</span>(unpivotr)</a>
+<a class="sourceLine" id="cb3-5" data-line-number="5"></a>
+<a class="sourceLine" id="cb3-6" data-line-number="6"><span class="co"># For this example only: get path to the spreadsheet</span></a>
+<a class="sourceLine" id="cb3-7" data-line-number="7">merrimack_path =<span class="st"> </span><span class="kw"><a href="../reference/spreadsheet_example.html">spreadsheet_example</a></span>(<span class="st">'merrimack'</span>)</a>
+<a class="sourceLine" id="cb3-8" data-line-number="8"></a>
+<a class="sourceLine" id="cb3-9" data-line-number="9">cells =<span class="st"> </span><span class="kw"><a href="http://www.rdocumentation.org/packages/tidyxl/topics/xlsx_cells">xlsx_cells</a></span>(merrimack_path, <span class="dt">sheet =</span> <span class="dv">1</span>)  <span class="co"># from tidyxl</span></a></code></pre></div>
 </div>
-<div id="steps" class="section level2">
-<h2 class="hasAnchor">
-<a href="#steps" class="anchor"></a>Steps</h2>
-<div id="reading-from-the-disk" class="section level3">
-<h3 class="hasAnchor">
-<a href="#reading-from-the-disk" class="anchor"></a>Reading from the disk</h3>
-<p>We read the data with function <code>read_xlreturns</code>.</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb5-1" data-line-number="1">d =<span class="st"> </span><span class="kw"><a href="../reference/read_xlreturns.html">read_xlreturns</a></span>(merrimack_path, <span class="dt">sheet =</span> <span class="dv">1</span>)</a>
-<a class="sourceLine" id="cb5-2" data-line-number="2"></a>
-<a class="sourceLine" id="cb5-3" data-line-number="3"><span class="co"># Take a look</span></a>
-<a class="sourceLine" id="cb5-4" data-line-number="4">d <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb5-5" data-line-number="5"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, value) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb5-6" data-line-number="6"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
-<pre><code>##    address row col                                     value
-## 1:      A1   1   1                                      &lt;NA&gt;
-## 2:      B1   1   2 State of New Hampshire - General Election
-## 3:      C1   1   3                                      &lt;NA&gt;
-## 4:      D1   1   4                                      &lt;NA&gt;
-## 5:      E1   1   5                                      &lt;NA&gt;
-## 6:      F1   1   6                                      &lt;NA&gt;</code></pre>
+<div id="representation-in-r" class="section level1">
+<h1 class="hasAnchor">
+<a href="#representation-in-r" class="anchor"></a>Representation in R</h1>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" data-line-number="1">cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb4-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, data_type, character, numeric) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb4-3" data-line-number="3"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
+<pre><code>## # A tibble: 6 x 6
+##   address   row   col data_type character                          numeric
+##   &lt;chr&gt;   &lt;int&gt; &lt;int&gt; &lt;chr&gt;     &lt;chr&gt;                                &lt;dbl&gt;
+## 1 A1          1     1 blank     &lt;NA&gt;                                    NA
+## 2 B1          1     2 character State of New Hampshire - General …      NA
+## 3 C1          1     3 blank     &lt;NA&gt;                                    NA
+## 4 D1          1     4 blank     &lt;NA&gt;                                    NA
+## 5 E1          1     5 blank     &lt;NA&gt;                                    NA
+## 6 F1          1     6 blank     &lt;NA&gt;                                    NA</code></pre>
 </div>
-<div id="spreadsheet-data-in-r" class="section level3">
-<h3 class="hasAnchor">
-<a href="#spreadsheet-data-in-r" class="anchor"></a>Spreadsheet data in R</h3>
-<p>Consider how the spreadsheet is now represented in R. Each element in the <code>value</code> column gives the contents of a single spreadsheet cell. Columns <code>row</code> and <code>col</code> indicate the row and column of that cell. (Excel identifies columns with letters, but we use numbers.)</p>
-<p>This format will turn out to be convenient, but right now the relationship between headers and vote cells is unclear.</p>
+<div id="associate-headers-with-cells" class="section level1">
+<h1 class="hasAnchor">
+<a href="#associate-headers-with-cells" class="anchor"></a>Associate headers with cells</h1>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb6-1" data-line-number="1">cells =<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb6-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/filter.html">filter</a></span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">2</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb6-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="http://www.rdocumentation.org/packages/unpivotr/topics/behead">behead</a></span>(<span class="st">'W'</span>, <span class="st">'precinct'</span>)</a>
+<a class="sourceLine" id="cb6-4" data-line-number="4"></a>
+<a class="sourceLine" id="cb6-5" data-line-number="5">cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb6-6" data-line-number="6"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/filter.html">filter</a></span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb6-7" data-line-number="7"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/arrange.html">arrange</a></span>(row, col) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb6-8" data-line-number="8"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, character, numeric, precinct)</a></code></pre></div>
+<pre><code>## # A tibble: 35 x 6
+##    address   row   col character numeric precinct  
+##    &lt;chr&gt;   &lt;int&gt; &lt;int&gt; &lt;chr&gt;       &lt;dbl&gt; &lt;chr&gt;     
+##  1 B5          5     2 &lt;NA&gt;         2035 Allenstown
+##  2 C5          5     3 &lt;NA&gt;            8 Allenstown
+##  3 D5          5     4 &lt;NA&gt;         2013 Allenstown
+##  4 E5          5     5 &lt;NA&gt;            3 Allenstown
+##  5 F5          5     6 &lt;NA&gt;         1296 Allenstown
+##  6 G5          5     7 &lt;NA&gt;          699 Allenstown
+##  7 H5          5     8 &lt;NA&gt;            2 Allenstown
+##  8 B6          6     2 &lt;NA&gt;         1310 Andover   
+##  9 C6          6     3 &lt;NA&gt;            3 Andover   
+## 10 D6          6     4 &lt;NA&gt;         1277 Andover   
+## # ... with 25 more rows</code></pre>
 </div>
-<div id="associating-headers-with-vote-cells" class="section level3">
-<h3 class="hasAnchor">
-<a href="#associating-headers-with-vote-cells" class="anchor"></a>Associating headers with vote cells</h3>
-<p>Our task is to specify all of the relationships between header cells and vote cells. We do this with the <code>as_idcol</code> function. It adds a new column to the data that takes its values from header cells – for all the vote cells we specify as associated with that header.</p>
-<p>We can select header cells by their row and column indexes. (Or in more difficult spreadsheets with logical functions, as discussed later.) <code>as_idcol</code> takes arguments <code>i</code> and <code>j</code> for row(s) and column(s). For example, if we specified <code>i = 2</code>, the values of the second row in the spreadsheet would be considered header values. With both <code>i = 2</code> and <code>j = 1</code>, we could define the cell in the second row and first column as a header cell. So <code>i</code> and <code>j</code> define part of the relationship between headers and votes – by identifying which cells are headers.</p>
-<p>We identify the vote cells associated with a header by giving directions from the header cell. We can move rightward in the spreadsheet from a header cell, associating it with all the vote cells in the spreadsheet row to its right. We can move downward, linking the header with the vote cells below its spreadsheet column. Or, we can do both at once, associating a header with all the vote cells under it and to the right. The arguments <code>right</code> and <code>down</code> control this behavior.</p>
-<p>What makes this operation powerful for extracting data from spreadsheets is our ability to specify more than one row in <code>i</code> or column in <code>j</code>.</p>
-<p>The source cell or cells then drop from the data (by default).</p>
-<p>Consider again the precinct names in column <code>1</code> of the Merrimack spreadsheet. To associate them with all the vote counts to their right, we do this:</p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb7-1" data-line-number="1"><span class="co"># `j = 1` refers to the first column  </span></a>
-<a class="sourceLine" id="cb7-2" data-line-number="2">d =<span class="st"> </span><span class="kw"><a href="../reference/as_idcol.html">as_idcol</a></span>(d, <span class="st">'precinct'</span>, <span class="dt">j =</span> <span class="dv">1</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>)</a></code></pre></div>
-<p>We just created a new variable <code>precinct</code> that takes as values the contents of cells where <code>j</code> is <code>1</code> (otherwise <code>NA</code>), for all the vote cells to their <code>right</code> in the spreadsheet.</p>
-<p>Defining cells as headers causes them to drop them from the spreadsheet data (by default) after moving their values into the new identifier column in the spreadsheet data. One way to think of the <code>as_idcol</code> function is as transformation of headers from spreadsheet cells into characteristics of spreadsheet cells.</p>
-<p><img src="merrimack-carry-precincts-right.png"></p>
-<p>The result is this:</p>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb8-1" data-line-number="1">d <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb8-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/filter.html">filter</a></span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb8-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, precinct) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb8-4" data-line-number="4"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
-<pre><code>##   address row col   precinct
-## 1      B5   5   2 Allenstown
-## 2      C5   5   3 Allenstown
-## 3      D5   5   4 Allenstown
-## 4      E5   5   5 Allenstown
-## 5      F5   5   6 Allenstown
-## 6      G5   5   7 Allenstown</code></pre>
-<p>Let’s do the remaining identifiers:</p>
-<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb10-1" data-line-number="1">d =<span class="st"> </span>d <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb10-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="../reference/as_idcol.html">as_idcol</a></span>(<span class="st">'jurisdiction'</span>, <span class="dt">i =</span> <span class="dv">2</span>, <span class="dt">j =</span> <span class="dv">2</span>, <span class="dt">down =</span> <span class="ot">TRUE</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb10-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="../reference/as_idcol.html">as_idcol</a></span>(<span class="st">'office'</span>, <span class="dt">i =</span> <span class="dv">3</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>, <span class="dt">down =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb10-4" data-line-number="4"><span class="st">  </span><span class="kw"><a href="../reference/as_idcol.html">as_idcol</a></span>(<span class="st">'candidate'</span>, <span class="dt">i =</span> <span class="dv">4</span>, <span class="dt">down =</span> <span class="ot">TRUE</span>)</a></code></pre></div>
-<p>Finally, to keep only the columns we created and rename the <code>value</code> column <code>votes</code>:</p>
-<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb11-1" data-line-number="1">d =<span class="st"> </span>d <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb11-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/filter.html">filter</a></span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb11-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="../reference/finalize.html">finalize</a></span>()</a>
-<a class="sourceLine" id="cb11-4" data-line-number="4"></a>
-<a class="sourceLine" id="cb11-5" data-line-number="5"><span class="kw">head</span>(d)</a></code></pre></div>
-<pre><code>##    votes   precinct               jurisdiction    office     candidate
-## 1:  2035 Allenstown Merrimack County Offices     Sheriff Hilliard, r/d
-## 2:     8 Allenstown Merrimack County Offices     Sheriff       Scatter
-## 3:  2013 Allenstown Merrimack County Offices    Attorney   Murray, r/d
-## 4:     3 Allenstown Merrimack County Offices    Attorney       Scatter
-## 5:  1296 Allenstown Merrimack County Offices   Treasurer    Hammond, r
-## 6:   699 Allenstown Merrimack County Offices   Treasurer  Rodriguez, d</code></pre>
-<p>To finish processing this data per the MEDSL schema for precinct returns, there’s a bit more work to do. We’d clean up the values of <code>jurisdiction</code> as <code>Merrimack County</code>, and split the party abbreviations in the <code>candidate</code> column (e.g., <code>r</code> and <code>d</code>) into their own <code>party</code> column. But we’ve reached our goal of parsing the Excel file into a tidy dataframe.</p>
-<p>This ends the tutorial. The sections that follow demonstrate solutions for more difficult spreadsheets. In particular, they introduce more flexible ways of specifying arguments <code>i</code> and <code>j</code>: using functions to select the desired rows and columns.</p>
+<div id="associate-headers-with-cells-1" class="section level1">
+<h1 class="hasAnchor">
+<a href="#associate-headers-with-cells-1" class="anchor"></a>Associate headers with cells</h1>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb8-1" data-line-number="1">cells =<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb8-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://www.rdocumentation.org/packages/unpivotr/topics/behead">behead</a></span>(<span class="st">'NNW'</span>, <span class="st">'office'</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb8-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="http://www.rdocumentation.org/packages/unpivotr/topics/behead">behead</a></span>(<span class="st">'N'</span>, <span class="st">'candidate'</span>)</a>
+<a class="sourceLine" id="cb8-4" data-line-number="4"></a>
+<a class="sourceLine" id="cb8-5" data-line-number="5">cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb8-6" data-line-number="6"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/arrange.html">arrange</a></span>(row, col) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb8-7" data-line-number="7"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, character, numeric, precinct, office, candidate)</a></code></pre></div>
+<pre><code>## # A tibble: 35 x 8
+##    address   row   col character numeric precinct   office    candidate   
+##    &lt;chr&gt;   &lt;int&gt; &lt;int&gt; &lt;chr&gt;       &lt;dbl&gt; &lt;chr&gt;      &lt;chr&gt;     &lt;chr&gt;       
+##  1 B5          5     2 &lt;NA&gt;         2035 Allenstown Sheriff   Hilliard, r…
+##  2 C5          5     3 &lt;NA&gt;            8 Allenstown Sheriff   Scatter     
+##  3 D5          5     4 &lt;NA&gt;         2013 Allenstown Attorney  Murray, r/d 
+##  4 E5          5     5 &lt;NA&gt;            3 Allenstown Attorney  Scatter     
+##  5 F5          5     6 &lt;NA&gt;         1296 Allenstown Treasurer " Hammond, …
+##  6 G5          5     7 &lt;NA&gt;          699 Allenstown Treasurer Rodriguez, d
+##  7 H5          5     8 &lt;NA&gt;            2 Allenstown Treasurer Scatter     
+##  8 B6          6     2 &lt;NA&gt;         1310 Andover    Sheriff   Hilliard, r…
+##  9 C6          6     3 &lt;NA&gt;            3 Andover    Sheriff   Scatter     
+## 10 D6          6     4 &lt;NA&gt;         1277 Andover    Attorney  Murray, r/d 
+## # ... with 25 more rows</code></pre>
 </div>
+<div id="finalize" class="section level1">
+<h1 class="hasAnchor">
+<a href="#finalize" class="anchor"></a>Finalize</h1>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb10-1" data-line-number="1">cells =<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb10-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, precinct, office, candidate, <span class="dt">votes =</span> numeric)</a>
+<a class="sourceLine" id="cb10-3" data-line-number="3"></a>
+<a class="sourceLine" id="cb10-4" data-line-number="4"><span class="kw">head</span>(cells)</a></code></pre></div>
+<pre><code>## # A tibble: 6 x 7
+##   address   row   col precinct   office  candidate     votes
+##   &lt;chr&gt;   &lt;int&gt; &lt;int&gt; &lt;chr&gt;      &lt;chr&gt;   &lt;chr&gt;         &lt;dbl&gt;
+## 1 B5          5     2 Allenstown Sheriff Hilliard, r/d  2035
+## 2 C5          5     3 Allenstown Sheriff Scatter           8
+## 3 B6          6     2 Andover    Sheriff Hilliard, r/d  1310
+## 4 C6          6     3 Andover    Sheriff Scatter           3
+## 5 B7          7     2 Boscawen   Sheriff Hilliard, r/d  1661
+## 6 C7          7     3 Boscawen   Sheriff Scatter          10</code></pre>
 </div>
-<div id="multiple-tables-per-spreadsheet-wip" class="section level2">
-<h2 class="hasAnchor">
-<a href="#multiple-tables-per-spreadsheet-wip" class="anchor"></a>Multiple tables per spreadsheet (WIP)</h2>
-<p>In the complete New Hampshire precinct returns, each spreadsheet contains many tables like the one used in the tutorial, stacked vertically …</p>
-<p>[figure]</p>
-<p>The <code>split_cells</code> function searches cell values for a pattern, and splits the spreadsheet along the rows that contain matches. It returns a list of single tables that we can iterate over. An effective pattern for splitting the Merrimack sheet is <code>TOTALS</code>. It matches rows <code>9</code>, <code>17</code>, and <code>26</code> in column <code>1</code>. Each of these rows ends a table.</p>
-<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb13-1" data-line-number="1"><span class="co"># cells = split_cells(.data = sheet, pattern = 'TOTALS', starts = FALSE)</span></a>
-<a class="sourceLine" id="cb13-2" data-line-number="2"><span class="co"># str(cells)</span></a></code></pre></div>
-<p>The output indicates that the result is a split into three tables: the first split extends from row <code>1</code> through the first pattern match in row <code>9</code>; the second split begins in row <code>10</code> and ends with the next match in row <code>17</code>, and so on. Our pattern identified the rows that <em>end</em> tables, so we specified <code>starts = FALSE</code>. If instead we saw a pattern indicating the starts of tables, we would use the default <code>starts = TRUE</code>. (One such pattern is <code>'sheriff|register|commissioners'</code>, which gives ranges <code>3:10</code>, <code>11:18</code>, and <code>19:26</code>.)</p>
+<div id="schema" class="section level1">
+<h1 class="hasAnchor">
+<a href="#schema" class="anchor"></a>Schema</h1>
+<p>Field schema define our expectations about data:</p>
+<pre><code>- name: votes
+  title: Vote Count
+  description: Number of votes received.
+  source: Precinct returns for `jurisdiction`.
+  type: integer
+  constraints:
+    required: true</code></pre>
 </div>
+<div id="representation-in-r-1" class="section level1">
+<h1 class="hasAnchor">
+<a href="#representation-in-r-1" class="anchor"></a>Representation in R</h1>
+<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb13-1" data-line-number="1"><span class="kw">data</span>(fields, <span class="dt">package =</span> <span class="st">'medslcleaner'</span>)</a>
+<a class="sourceLine" id="cb13-2" data-line-number="2">fields[[<span class="st">'votes'</span>]]</a></code></pre></div>
+<pre><code>## $name
+## [1] "votes"
+## 
+## $title
+## [1] "Vote Count"
+## 
+## $description
+## [1] "Number of votes received."
+## 
+## $source
+## [1] "Precinct returns for `jurisdiction`."
+## 
+## $type
+## [1] "integer"
+## 
+## $constraints
+## $constraints$required
+## [1] TRUE</code></pre>
+</div>
+<div id="validation" class="section level1">
+<h1 class="hasAnchor">
+<a href="#validation" class="anchor"></a>Validation</h1>
+<div class="sourceCode" id="cb15"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb15-1" data-line-number="1"><span class="kw">data</span>(wyoming, <span class="dt">package =</span> <span class="st">'medslcleaner'</span>)</a>
+<a class="sourceLine" id="cb15-2" data-line-number="2">wyoming <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb15-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/mutate.html">mutate</a></span>(<span class="dt">precinct =</span> <span class="kw">substr</span>(precinct, <span class="dv">1</span>, <span class="dv">10</span>)) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb15-4" data-line-number="4"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(state_postal, jurisdiction, precinct, office, candidate, writein, votes) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb15-5" data-line-number="5"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
+<pre><code>##   state_postal jurisdiction   precinct   office candidate writein votes
+## 1           WY       Albany Shields St US House      &lt;NA&gt;    TRUE     7
+## 2           WY       Albany Albany Cou US House      &lt;NA&gt;    TRUE     5
+## 3           WY       Albany Harmony Sc US House      &lt;NA&gt;    TRUE     2
+## 4           WY       Albany Centennial US House      &lt;NA&gt;    TRUE     0
+## 5           WY       Albany Rock River US House      &lt;NA&gt;    TRUE     1
+## 6           WY       Albany Shields St US House      &lt;NA&gt;    TRUE     2</code></pre>
+</div>
+<div id="validation-1" class="section level1">
+<h1 class="hasAnchor">
+<a href="#validation-1" class="anchor"></a>Validation</h1>
+<div class="sourceCode" id="cb17"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb17-1" data-line-number="1"><span class="kw"><a href="../reference/validate.html">validate</a></span>(wyoming)</a>
+<a class="sourceLine" id="cb17-2" data-line-number="2">## Validating:</a>
+<a class="sourceLine" id="cb17-3" data-line-number="3">##  ✔ year</a>
+<a class="sourceLine" id="cb17-4" data-line-number="4">##  ✔ state_postal</a>
+<a class="sourceLine" id="cb17-5" data-line-number="5">##  ✔ jurisdiction</a>
+<a class="sourceLine" id="cb17-6" data-line-number="6">##  ✔ precinct</a>
+<a class="sourceLine" id="cb17-7" data-line-number="7">##  ✔ office</a>
+<a class="sourceLine" id="cb17-8" data-line-number="8">##  ✔ district</a>
+<a class="sourceLine" id="cb17-9" data-line-number="9">##  ✔ stage</a>
+<a class="sourceLine" id="cb17-10" data-line-number="10">##  ✔ special</a>
+<a class="sourceLine" id="cb17-11" data-line-number="11">##  ✔ candidate</a>
+<a class="sourceLine" id="cb17-12" data-line-number="12">##  ✔ writein</a>
+<a class="sourceLine" id="cb17-13" data-line-number="13">##  ✔ party</a>
+<a class="sourceLine" id="cb17-14" data-line-number="14">##  ✔ mode</a>
+<a class="sourceLine" id="cb17-15" data-line-number="15">##  ✔ votes</a>
+<a class="sourceLine" id="cb17-16" data-line-number="16">##  ✔ dataverse</a>
+<a class="sourceLine" id="cb17-17" data-line-number="17">## Success!</a></code></pre></div>
+</div>
+<div id="validation-2" class="section level1">
+<h1 class="hasAnchor">
+<a href="#validation-2" class="anchor"></a>Validation</h1>
+<div class="sourceCode" id="cb18"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb18-1" data-line-number="1">returns =<span class="st"> </span><span class="kw">data.frame</span>(<span class="dt">votes =</span> <span class="kw">c</span>(<span class="dv">2</span>, <span class="ot">NA</span>))</a>
+<a class="sourceLine" id="cb18-2" data-line-number="2">returns</a></code></pre></div>
+<pre><code>##   votes
+## 1     2
+## 2    NA</code></pre>
+<div class="sourceCode" id="cb20"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb20-1" data-line-number="1"><span class="co"># validate_field(returns, 'votes')</span></a>
+<a class="sourceLine" id="cb20-2" data-line-number="2"><span class="co">#&gt; Error: votes has missing values.</span></a>
+<a class="sourceLine" id="cb20-3" data-line-number="3"></a>
+<a class="sourceLine" id="cb20-4" data-line-number="4"><span class="kw"><a href="../reference/validate.html">select_missing</a></span>(returns, <span class="st">'votes'</span>)</a></code></pre></div>
+<pre><code>## 1/2 rows have missing "votes" values</code></pre>
+<pre><code>##    votes
+## 1:    NA</code></pre>
+</div>
+<div id="validation-3" class="section level1">
+<h1 class="hasAnchor">
+<a href="#validation-3" class="anchor"></a>Validation</h1>
+<div class="sourceCode" id="cb23"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb23-1" data-line-number="1"><span class="co"># validate(returns)</span></a>
+<a class="sourceLine" id="cb23-2" data-line-number="2"><span class="co">#&gt; Error: .data does not have name year</span></a></code></pre></div>
+</div>
+<div id="resources" class="section level1">
+<h1 class="hasAnchor">
+<a href="#resources" class="anchor"></a>Resources</h1>
+<ul>
+<li>
+<a href="https://nacnudus.github.io/unpivotr/">unpivotr documentation</a>: <a href="https://nacnudus.github.io/unpivotr" class="uri">https://nacnudus.github.io/unpivotr</a>
+</li>
+<li>
+<a href="https://github.com/MEDSL/medslcleaner/">medslcleaner github</a>: <a href="https://github.com/MEDSL/medslcleaner" class="uri">https://github.com/MEDSL/medslcleaner</a>
+</li>
+<li>
+<a href="https://nacnudus.github.io/tidyxl">tidyxl documentation</a>: <a href="https://nacnudus.github.io/tidyxl/" class="uri">https://nacnudus.github.io/tidyxl/</a>
+</li>
+<li>
+<a href="https://nacnudus.github.io/spreadsheet-munging-strategies"><em>Spreadsheet Munging Strategies</em></a>: <a href="https://nacnudus.github.io/spreadsheet-munging-strategies" class="uri">https://nacnudus.github.io/spreadsheet-munging-strategies</a>
+</li>
+</ul>
 </div>
   </div>
 
@@ -236,14 +348,22 @@
       <h2 class="hasAnchor">
 <a href="#tocnav" class="anchor"></a>Contents</h2>
       <ul class="nav nav-pills nav-stacked">
-<li>
-<a href="#tutorial">Tutorial</a><ul class="nav nav-pills nav-stacked">
-<li><a href="#problem">Problem</a></li>
-      <li><a href="#solution">Solution</a></li>
-      <li><a href="#steps">Steps</a></li>
-      <li><a href="#multiple-tables-per-spreadsheet-wip">Multiple tables per spreadsheet (WIP)</a></li>
-      </ul>
-</li>
+<li><a href="#the-problem">The problem</a></li>
+      <li><a href="#pretend-its-tabular">Pretend it’s tabular?</a></li>
+      <li><a href="#alternative-solution">Alternative solution</a></li>
+      <li><a href="#tools">Tools</a></li>
+      <li><a href="#read-the-data">Read the data</a></li>
+      <li><a href="#representation-in-r">Representation in R</a></li>
+      <li><a href="#associate-headers-with-cells">Associate headers with cells</a></li>
+      <li><a href="#associate-headers-with-cells-1">Associate headers with cells</a></li>
+      <li><a href="#finalize">Finalize</a></li>
+      <li><a href="#schema">Schema</a></li>
+      <li><a href="#representation-in-r-1">Representation in R</a></li>
+      <li><a href="#validation">Validation</a></li>
+      <li><a href="#validation-1">Validation</a></li>
+      <li><a href="#validation-2">Validation</a></li>
+      <li><a href="#validation-3">Validation</a></li>
+      <li><a href="#resources">Resources</a></li>
       </ul>
 </div>
       </div>
