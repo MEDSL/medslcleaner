@@ -265,7 +265,13 @@ totals = function(.data, .by = c('office', 'candidate')) {
   .data[, sum(get(vote_col), na.rm = TRUE), by = .by][]
 }
 
-# Combine value columns in tidyxl data
+#' Combine value columns in tidyxl tables
+#' 
+#' Creates a new column, `value`, taking the values for each observation of
+#' column `numeric`, `logical`, or `character`, whichever is specified in
+#' `data_type`.
+#' @inheritParams as_header
+#' @export
 combine_value_cols = function(.data) {
   # Combine value columns
   .data[data_type == 'numeric', value := as.character(numeric)]
@@ -275,13 +281,31 @@ combine_value_cols = function(.data) {
   .data[]
 }
 
-by_row = function(.data) {
-  .data %>%
-    group_by(row, col)
+#' Keep a subset of columns in spreadsheet data
+#'
+#' Keeps these columns, if they exist: `sheet`, `address`, `row`, `col`,
+#' `data_type`, and `value`, and if `types` is `TRUE`, also `is_blank`,
+#' `logical`, `numeric`, `date`, `character`, and `formula`.
+#'
+#' @inheritParams as_header
+#' @param types If `TRUE`, also keep columns `is_blank`, `logical`, `numeric`,
+#'   `date`, `character`, and `formula`.
+#' @export
+#' @examples
+#' .data = data.frame(row=rep(1:3, each = 2), col = rep(1:2, times = 3), value = sample.int(6),
+#'   format_code = sample.int(6))
+#' head(.data)
+#' keep_minimal(.data)
+keep_minimal = function(.data, types = FALSE) {
+  if (!is.data.table(.data)) setDT(.data)
+  cols = c("sheet", "address", "row", "col", "data_type", "value")
+  if (types) {
+    cols = c(cols, c("is_blank", "logical", "numeric", "date", "character", "formula"))
+  }
+  # Drop columns not in cols
+  drop_cols = setdiff(names(.data), cols)
+  for (col in drop_cols) {
+    .data[, c(col) := NULL]
+  }
+  .data[]
 }
-
-by_column = function(.data) {
-  .data %>%
-    group_by(col, row)
-}
-

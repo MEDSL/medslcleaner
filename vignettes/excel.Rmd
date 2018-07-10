@@ -1,5 +1,5 @@
 ---
-title: "Working with Election Data in R"
+title: "R for MEDSL Data"
 author: "James Dunham"
 institution: "MEDSL"
 date: "July 10, 2018"
@@ -9,31 +9,221 @@ output:
 header-includes:
   - \usepackage{booktabs}
 ---
-```{r, echo = FALSE}
+
+```{r setup, include=FALSE}
+library(knitr)  
+library(kableExtra)
+library(pander)
+library(tidyverse)
+library(tidyxl)
+library(dplyr)
+library(readxl)
+devtools::load_all('.')
+# # To render PDF:
 # rmarkdown::render('excel.Rmd')
+knitr::opts_chunk$set(cache = TRUE)
+options(knitr.kable.NA = '')
 ```
 
-Getting Started
-===============
-
-## Installation
+Installing R
+============
 
 * Install R from https://cloud.r-project.org
-* Also install RStudio, which is an interface for working in R: https://www.rstudio.com/products/rstudio/download
 
-## Resources
+* Also install RStudio, an interface for working in R: https://www.rstudio.com/products/rstudio/download
+
+Writing R code (R4DS)
+===========
+
+```{r}
+1 / 200 * 30
+```
+
+&nbsp;\
+
+```{r}
+(59 + 73 + 2) / 3
+```
+
+&nbsp;\
+
+```{r}
+sin(pi / 2)
+```
+
+Assignment (R4DS)
+=================
+
+Create new objects with `<-`:
+
+```{r}
+x <- 3 * 4
+x
+```
+
+&nbsp;\
+
+
+All R statements where you create objects have the same form:
+
+```{r, eval = FALSE}
+object_name <- value
+```
+
+&nbsp;\
+
+Errata:
+
+* Shortcut in RStudio for typing `<-` is ALT-minus
+* `=` is an alternative to `<-`. It's either convenient and the universal
+assignment operator or *dangerous* and *lazy.*
+* `->` also exists, because R.
+
+Functions (R4DS)
+=========
+
+R has a large [*ed:* bloated] collection of built-in functions.
+
+Called like this:
+
+```
+function_name(arg1 = val1, arg2 = val2, ...)
+```
+
+&nbsp;\
+
+For example:
+
+```{r}
+seq(1, 10)
+```
+
+&nbsp;\
+
+Assign the *return value*:
+
+```{r}
+x <- seq(1, 10)
+```
+
+Getting help
+============
+
+Function help:
+
+```{r, eval = FALSE}
+?seq
+help(seq)
+```
+
+Other sources of help:
+
+* [rdocumentation.org](https://www.rdocumentation.org)
+
+* [stackoverflow.com](https://stackoverflow.com/questions/tagged/r)
+
+* [#r on Slack](https://medsl.slack.com/messages/CBP4JB6EA)
+
+StackOverflow
+=============
+
+![](finding-help-1.png)
+
+StackOverflow
+=============
+
+![](finding-help-2.png)
+
+StackOverflow
+=============
+
+![](finding-help-3.png)
+
+StackOverflow
+=============
+
+![](finding-help-4.png)
+
+The hadleyverse (tidyverse)
+==========================
+
+```{r echo=FALSE, fig.align='center'}
+knitr::include_graphics('hadley.png', dpi = round(96 * 1.7))
+```
+
+```{r message=FALSE, eval = FALSE, warning=FALSE, results='hide'}
+# https://www.tidyverse.org/
+install.packages("tidyverse")
+library(tidyverse)
+```
+
+A grammar for data
+==================
+
+```{r}
+data('mpg', package = 'ggplot2')
+mpg %>%
+  select(manufacturer, model, displ) %>%
+  head(3)
+```
+
+A grammar for data
+==================
+
+```{r}
+mpg %>%
+  select(manufacturer, model, displ) %>%
+  filter(displ > 2) %>%
+  head(3)
+```
+
+A grammar for data
+==================
+
+```{r}
+mpg %>%
+  select(manufacturer, model, displ) %>%
+  filter(displ > 2) %>%
+  mutate(displ_squared = displ ^ 2) %>%
+  head(3)
+```
+
+
+Resources
+=========
+
+RStudio Cheatsheets:
+
+* ["Data Import"](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
+
+* ["Data Transformation"](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+
+* ["Work with Strings"](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
+
+* ["RStudio"](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+
+Books:
 
 * [*R for Data Science*](http://r4ds.had.co.nz/index.html), especially the section "Wrangle"
-* DataCamp's [*Introduction to R*](https://www.datacamp.com/courses/free-introduction-to-r)
+
 * [*An Introduction to Statistical and Data Sciences via R*](http://moderndive.com)
+
+Courses:
+
+* DataCamp's [*Introduction to R*](https://www.datacamp.com/courses/free-introduction-to-r)
+
+* [*R Basics*](https://learn.edx.org/harvard-r-basics) from Harvard's edX Data Science Series 
+
 
 Workflow
 ========
 
 ![](medsl-workflow.pdf)
 
-Toolkit
-=======
+Our toolkit
+===========
+
+Install once:
 
 ```{r, eval = FALSE}
 install.packages("tidyverse")
@@ -42,7 +232,15 @@ install.packages("devtools")
 devtools::install_github('MEDSL/medslcleaner')
 ```
 
+&nbsp;\
 
+Load every time:
+
+```{r, message = FALSE}
+library(tidyverse)
+library(tidyxl)
+library(medslcleaner)
+```
 
 Source data
 ===========
@@ -70,78 +268,223 @@ Multiple-column or "merged" cells:
 Typical approach
 ================
 
-```{r include=FALSE}
-# not required - used for presentation
-library(knitr)  
-library(pander)
-library(kableExtra)
-options(knitr.kable.NA = '')
-```
-
 ```{r, message=FALSE, results = 'hide'}
-# required packages
-library(tidyverse)
-library(medslcleaner)
-library(readxl)
-library(tidyxl)
-
 # Get the path to the packaged example
-merrimack_path = spreadsheet_example('merrimack')
+merrimack_path <- spreadsheet_example('merrimack')
 
 # Use `read_excel` from the `readxl` package
-sheet = read_excel(merrimack_path, col_names = FALSE)
+sheet <- read_excel(merrimack_path)
 ```
+
 
 Result
 ======
 
 ```{r}
-sheet[-c(1:2), 1:5]
+sheet %>%
+  # Select first three columns
+  select(1:3)
 ```
-
 
 Alternative approach 
 ====================
 
 Using `medslcleaner` and `tidyxl`,
 
+&nbsp;\
+
 * Identify which cells are *data* and which are *headers*
+
 * Define the relationships between data cells and header cells
 
-```{r, echo = TRUE, message=FALSE, warning=FALSE, result = 'hide'}
-# read with tidyxl
-cells = xlsx_cells(merrimack_path, sheet = 1)
+Reading from the disk
+=====
 
-# take a subset for inspection
-peek = cells %>%
-  select(address, row, col, character, data_type,
-    numeric) %>%
-  filter(row %in% 3:5 & col %in% 1:5)
+Instead of `read_excel`,
+
+```{r}
+cells <- read_xlreturns(merrimack_path)
+```
+
+&nbsp;\
+
+```{r}
+# Take a look at a few rows and columns
+peek <- cells %>%
+  select(-sheet) %>%
+  filter(data_type != "blank") %>%
+  filter(row > 3)
 ```
 
 Result
-==========
-
-```{r}
-head(peek, 12)
-```
-
-Associate headers with cells
-============================
-```{r}
-# cells = cells %>%
-#   filter(row > 2) %>%
-# 
-# cells %>%
-#   filter(row > 4) %>%
-#   arrange(row, col) %>%
-#   select(address, row, col, character, numeric, precinct)
-```
-
-Schema
 ======
 
-Field schema define our expectations about data:
+```{r}
+head(peek)
+```
+
+&nbsp;\
+
+* Each row gives the contents of a single spreadsheet cell;
+
+* Columns `row` and `col` give the cell's position;
+
+* Excel identifies columns with letters, but we're using numbers.
+
+Associating headers and data 
+============================
+
+Consider again the precinct names in column `1` of the Merrimack spreadsheet.
+
+&nbsp;\
+
+```{r}
+cells %>%
+  select(-sheet) %>%
+  filter(col == 1 & row > 4)
+```
+
+Associating headers and data 
+============================
+
+To associate each `precinct` header with all the cells to their right:
+
+&nbsp;
+
+```{r}
+cells <- cells %>%
+  as_header('precinct', cols = 1, right = TRUE)
+```
+
+&nbsp;\
+
+* We just created a new variable `precinct`
+
+* It takes as values the contents of cells where `col` is `1` (otherwise `NA`) ...
+
+* For all the cells to the `right` of the header cells in the spreadsheet
+
+Associating headers and data 
+============================
+
+The result:
+
+&nbsp;
+
+```{r}
+cells %>%
+  filter(row > 4) %>%
+  select(-sheet) %>%
+  head()
+```
+
+
+`as_header`
+==========
+
+```
+function (.data, idcol, rows = TRUE, cols = TRUE,
+  right = FALSE,  down = FALSE, .drop = TRUE) 
+```
+
+&nbsp;\
+
+Identifying headers:
+
+* Arguments `row` and `col` select header cells by spreadsheet row and column indexes
+
+* If we specify `rows = 2`, values of the second row in the spreadsheet would be considered header values
+
+* With both `rows = 2` and `cols = 1`, we could define the cell in the second row and first column as a header cell
+
+* In more difficult cases, we can use logical functions for selection
+
+`as_header`
+==========
+
+```
+function (.data, idcol, rows = TRUE, cols = TRUE,
+  right = FALSE,  down = FALSE, .drop = TRUE) 
+```
+
+&nbsp;\
+
+Identifying data:
+
+* Identify data cells by giving directions from header cells
+
+* We can move rightward, downward, or both
+
+`as_header`
+==========
+
+```
+function (.data, idcol, rows = TRUE, cols = TRUE,
+  right = FALSE,  down = FALSE, .drop = TRUE) 
+```
+
+&nbsp;\
+
+Argument `.drop`:
+
+* Defining cells as headers drops them from the data after moving their values into a new column 
+
+* One way to think of the `as_header` function is as transformation of headers from spreadsheet cells into characteristics of spreadsheet cells.
+
+Associating headers and data 
+============================
+
+Let's do the remaining identifiers:
+
+```{r}
+cells <- cells %>%
+  as_header('jurisdiction', rows = 2, cols = 2,
+    down = TRUE, right = TRUE) %>%
+  as_header('office', rows = 3, right = TRUE,
+    down = TRUE) %>%
+  as_header('candidate', rows = 4, down = TRUE)
+```
+
+Associating headers and data 
+============================
+
+Finally, to keep only the columns we created and rename the `value` column
+`votes`:
+
+```{r}
+cells <- cells %>%
+  filter(row > 4) %>%
+  finalize()
+
+glimpse(cells)
+```
+
+Full Solution
+=============
+
+```{r}
+cells <- read_xlreturns(merrimack_path)
+
+cells <- cells %>%
+  as_header('jurisdiction', rows = 2, cols = 2,
+    down = TRUE, right = TRUE) %>%
+  as_header('precinct', cols = 1, right = TRUE) %>%
+  as_header('office', rows = 3, right = TRUE,
+    down = TRUE) %>%
+  as_header('candidate', rows = 4, down = TRUE)
+
+# Drop remaining header rows and `finalize`
+cells <- cells %>%
+  filter(row > 4 & col> 1) %>%
+  finalize()
+```
+
+Validation
+==========
+
+Schema define our expectations about data:
+
+&nbsp;\
 
 ```
 - name: votes
@@ -158,7 +501,7 @@ Representation in R
 
 ```{r}
 data(fields, package = 'medslcleaner')
-fields[['votes']]
+str(fields[['votes']])
 ```
 
 Validation
@@ -168,7 +511,8 @@ Validation
 data(wyoming, package = 'medslcleaner')
 wyoming %>%
   mutate(precinct = substr(precinct, 1, 10)) %>%
-  select(state_postal, jurisdiction, precinct, office, candidate, writein, votes) %>%
+  select(state_postal, jurisdiction, precinct, 
+    office, candidate, writein, votes) %>%
   head()
 ```
 
@@ -183,183 +527,39 @@ Validation
 ==========
 
 ```{r, collapse = FALSE}
-returns = data.frame(votes = c(2, NA))
+returns <- data.frame(votes = c(2, NA))
 returns
+```
 
-# validate_field(returns, 'votes')
+```{r, eval = FALSE}
+validate_field(returns, 'votes')
+```
+
+```{r}
 #> Error: votes has missing values.
-
-select_missing(returns, 'votes')
 ```
 
 Validation
 ==========
 
+```{r}
+select_missing(returns, 'votes')
+```
+
+```{r, eval = FALSE}
+validate(returns)
+```
+
 ```{r, collapse = FALSE}
-# validate(returns)
 #> Error: .data does not have name year
 ```
 
-Further Resources
+Spreadsheet resources
 =================
 
-* [medslcleaner github](https://github.com/MEDSL/medslcleaner/): <https://github.com/MEDSL/medslcleaner>
-* [tidyxl documentation](https://nacnudus.github.io/tidyxl): <https://nacnudus.github.io/tidyxl/>
-* [*Spreadsheet Munging Strategies*](https://nacnudus.github.io/spreadsheet-munging-strategies): <https://nacnudus.github.io/spreadsheet-munging-strategies>
+* [medslcleaner documentation](https://github.com/MEDSL/medslcleaner/)
 
+* [tidyxl documentation](https://nacnudus.github.io/tidyxl)
 
-## Solution
+* [*Spreadsheet Munging Strategies*](https://nacnudus.github.io/spreadsheet-munging-strategies)
 
-Here's where we're going:
-
-```{r}
-d = xlsx_cells(merrimack_path)
-
-# The main function for reshaping Excel data is `as_idcol`
-d = d %>%
-  as_header('jurisdiction', row = 2, col = 2, down = TRUE, right = TRUE) %>%
-  as_header('precinct', j = col, right = TRUE) %>%
-  as_header('office', row = 3, right = TRUE, down = TRUE) %>%
-  as_header('candidate', row = 4, down = TRUE)
-
-# Drop remaining header rows and `finalize`
-d = d %>%
-  filter(row > 4 & col> 1) %>%
-  finalize()
-
-head(d)
-```
-
-Some cleaning up remains, but the heavy lifting is done in fewer than 10 lines.
-
-## Steps
-
-### Reading from the disk
-
-We read the data with function `read_xlreturns`.
-
-```{r}
-d = read_xlreturns(merrimack_path, sheet = 1)
-
-# Take a look
-d %>%
-  select(address, row, col, value) %>%
-  head()
-```
-
-### Spreadsheet data in R
-
-Consider how the spreadsheet is now represented in R. Each element in the
-`value` column gives the contents of a single spreadsheet cell. Columns `row`
-and `col` indicate the row and column of that cell. (Excel identifies columns
-with letters, but we use numbers.)
-
-
-### Associating headers with vote cells
-
-This format will turn out to be convenient, but right now the relationship
-between headers and vote cells is unclear. Our task is to specify all of the
-relationships between header cells and vote cells. We do this with the
-`as_idcol` function. It adds a new column to the data that takes its values from
-header cells -- but only for cells associated with that header.
-
-We select header cells by their row and column indexes. (Or in more difficult
-spreadsheets with logical functions, as discussed in the next section.)
-`as_idcol` takes arguments `i` and `j` for spreadsheet row(s) and column(s). For
-example, if we specified `i = 2`, the values of the second row in the
-spreadsheet would be considered header values. With both `i = 2` and `j = 1`, we
-could define the cell in the second row and first column as a header cell. So
-`i` and `j` define part of the relationship between headers and votes -- by
-identifying which cells are headers.
-
-We identify the vote cells associated with a header by giving directions from
-the header cell. We can move rightward in the spreadsheet from a header cell,
-associating it with all the vote cells in the spreadsheet row to its right. We
-can move downward, linking the header with the vote cells beneath it in a
-spreadsheet column. Or, we can do both at once, associating a header with all
-the vote cells under it and to the right. The arguments `right` and `down`
-control this behavior.
-
-Consider again the precinct names in column `1` of the Merrimack spreadsheet. To
-associate them with all the vote counts to their right, we do this:
-
-```{r}
-# `j = 1` refers to the first column
-d = as_idcol(d, 'precinct', j = 1, right = TRUE)
-```
-
-We just created a new variable `precinct` that takes as values the contents of
-cells where `j` is `1` (otherwise `NA`), for all the vote cells to their `right`
-in the spreadsheet.
-
-Defining cells as headers causes them to drop them from the spreadsheet data (by
-default) after moving their values into the new identifier column in the
-spreadsheet data. One way to think of the `as_idcol` function is as
-transformation of headers from spreadsheet cells into characteristics of
-spreadsheet cells.
-
-![](merrimack-carry-precincts-right.png)
-
-The result is this:
-
-```{r}
-d %>%
-  filter(row > 4) %>%
-  select(address, row, col, precinct) %>%
-  head()
-```
-
-Let's do the remaining identifiers:
-
-```{r}
-d = d %>%
-  as_idcol('jurisdiction', i = 2, j = 2, down = TRUE, right = TRUE) %>%
-  as_idcol('office', i = 3, right = TRUE, down = TRUE) %>%
-  as_idcol('candidate', i = 4, down = TRUE)
-```
-
-Finally, to keep only the columns we created and rename the `value` column
-`votes`:
-
-```{r}
-d = d %>%
-  filter(row > 4) %>%
-  finalize()
-
-head(d)
-```
-
-To finish processing this data per the MEDSL schema for precinct returns,
-there's a bit more work to do. We'd clean up the values of `jurisdiction` as
-`Merrimack County`, and split the party abbreviations in the `candidate` column
-(e.g., `r` and `d`) into their own `party` column. But we've reached our goal of
-parsing the Excel file into a tidy dataframe.
-
-The sections that follow demonstrate other ways to use `as_idcol`. They explain
-how and when to specify multiple rows or columns in `i` or `j`; how to use
-logical functions in `i` and `j`; and some helper functions for spreadsheet
-data.
-
-
-## Multiple tables per spreadsheet (WIP)
-
-In the complete New Hampshire precinct returns, each spreadsheet contains many tables like the one used in the tutorial, stacked vertically ...
-
-[figure]
-
-The `split_cells` function searches cell values for a pattern, and splits the spreadsheet along the rows that contain matches. It returns a list of single tables that we can iterate over. An effective pattern for splitting the Merrimack sheet is `TOTALS`. It matches rows `9`,
-`17`, and `26` in column `1`. Each of these rows ends a table.
-
-```{r}
-# cells = split_cells(.data = sheet, pattern = 'TOTALS', starts = FALSE)
-# str(cells)
-```
-
-The output indicates that the result is a split into three tables: the first
-split extends from row `1` through the first pattern match in row `9`; the
-second split begins in row `10` and ends with the next match in row `17`, and so
-on. Our pattern identified the rows that *end* tables, so we specified `starts =
-FALSE`. If instead we saw a pattern indicating the starts of tables, we would
-use the default `starts = TRUE`. (One such pattern is
-`'sheriff|register|commissioners'`, which gives ranges `3:10`, `11:18`, and
-`19:26`.)

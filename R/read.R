@@ -1,5 +1,22 @@
 # Functions for reading returns data from the disk
 
+#' Read spreadsheet data from Excel files
+#'
+#' @param path Path to the xlsx file.
+#' @param ... Further arguments to [`tidyxl::xlsx_cells`]
+#' @export
+#' @examples
+#' d = read_xlreturns('../data-ext/example-returns/16gen_stwd_pct.xlsx')
+#' as_idcol(d, 'office', i = 1)
+read_xlreturns = function(path, ..., keep_all = FALSE) {
+  ret = do.call(tidyxl::xlsx_cells, c(path = path, list(...)))
+  ret = combine_value_cols(setDT(ret))
+  if (!isTRUE(keep_all)) {
+    ret = keep_minimal(ret)
+  }
+  ret[]
+}
+
 #' Read CSV-formatted returns from the disk
 #'
 #' Parser warnings are promoted to errors and legacy variables are renamed.

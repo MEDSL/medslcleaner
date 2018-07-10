@@ -61,7 +61,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.2</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
       </span>
     </div>
 
@@ -84,7 +84,7 @@
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="../articles/excel.html">Working with Spreadsheets</a>
+      <a href="../articles/excel.html">R for MEDSL Data</a>
     </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
@@ -118,15 +118,29 @@
     
     </div>
 
-    <pre class="usage"><span class='fu'>read_xlreturns</span>(<span class='kw'>path</span> <span class='kw'>=</span> <span class='no'>path</span>, <span class='no'>...</span>, <span class='kw'>keep_all</span> <span class='kw'>=</span> <span class='fl'>FALSE</span>)</pre>
-        
+    <pre class="usage"><span class='fu'>read_xlreturns</span>(<span class='no'>path</span>, <span class='no'>...</span>, <span class='kw'>keep_all</span> <span class='kw'>=</span> <span class='fl'>FALSE</span>)</pre>
+    
+    <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
+    <table class="ref-arguments">
+    <colgroup><col class="name" /><col class="desc" /></colgroup>
+    <tr>
+      <th>path</th>
+      <td><p>Path to the xlsx file.</p></td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td><p>Further arguments to <code><a href='http://www.rdocumentation.org/packages/tidyxl/topics/xlsx_cells'>tidyxl::xlsx_cells</a></code></p></td>
+    </tr>
+    </table>
+    
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='no'>d</span> <span class='kw'>=</span> <span class='fu'>read_xlreturns</span>(<span class='st'>'../data-ext/example-returns/16gen_stwd_pct.xlsx'</span>)</div><div class='output co'>#&gt; <span class='error'>Error: '../data-ext/example-returns/16gen_stwd_pct.xlsx' does not exist in current working directory ('/home/james/medsl/medslcleaner/docs/reference').</span></div><div class='input'><span class='fu'><a href='as_idcol.html'>as_idcol</a></span>(<span class='no'>d</span>, <span class='st'>'office'</span>, <span class='kw'>i</span> <span class='kw'>=</span> <span class='fl'>1</span>)</div><div class='output co'>#&gt; <span class='error'>Error in is.data.table(x): object 'd' not found</span></div></pre>
+    <pre class="examples"><div class='input'><span class='no'>d</span> <span class='kw'>=</span> <span class='fu'>read_xlreturns</span>(<span class='st'>'../data-ext/example-returns/16gen_stwd_pct.xlsx'</span>)</div><div class='output co'>#&gt; <span class='error'>Error: '../data-ext/example-returns/16gen_stwd_pct.xlsx' does not exist in current working directory ('/home/james/medsl/medslcleaner/docs/reference').</span></div><div class='input'><span class='fu'>as_idcol</span>(<span class='no'>d</span>, <span class='st'>'office'</span>, <span class='kw'>i</span> <span class='kw'>=</span> <span class='fl'>1</span>)</div><div class='output co'>#&gt; <span class='error'>Error in as_idcol(d, "office", i = 1): could not find function "as_idcol"</span></div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>
     <ul class="nav nav-pills nav-stacked">
+      <li><a href="#arguments">Arguments</a></li>
             
       <li><a href="#examples">Examples</a></li>
     </ul>

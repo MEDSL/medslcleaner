@@ -5,11 +5,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Extracting election data from spreadsheets • medslcleaner</title>
+<title>R for MEDSL Data • medslcleaner</title>
 <!-- jquery --><script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script><!-- Bootstrap --><link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script><!-- Font Awesome icons --><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 <!-- clipboard.js --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js" integrity="sha384-cV+rhyOuRHc9Ub/91rihWcGmMmCXDeksTtCihMupQHSsi8GIIRDG0ThDc3HGQFJ3" crossorigin="anonymous"></script><!-- sticky kit --><script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js" integrity="sha256-c4Rlo1ZozqTPE2RLuvbusY3+SU1pQaJC0TjuhygMipw=" crossorigin="anonymous"></script><!-- pkgdown --><link href="../pkgdown.css" rel="stylesheet">
-<script src="../pkgdown.js"></script><meta property="og:title" content="Extracting election data from spreadsheets">
+<script src="../pkgdown.js"></script><meta property="og:title" content="R for MEDSL Data">
 <meta property="og:description" content="">
 <meta name="twitter:card" content="summary">
 <!-- mathjax --><script src="https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><!--[if lt IE 9]>
@@ -52,7 +52,7 @@
   </a>
   <ul class="dropdown-menu" role="menu">
 <li>
-      <a href="../articles/excel.html">Extracting election data from spreadsheets</a>
+      <a href="../articles/excel.html">R for MEDSL Data</a>
     </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
@@ -72,10 +72,10 @@
       </header><div class="row">
   <div class="col-md-9 contents">
     <div class="page-header toc-ignore">
-      <h1>Extracting election data from spreadsheets</h1>
-                        <h4 class="author">James Dunham, MIT MEDSL</h4>
+      <h1>R for MEDSL Data</h1>
+                        <h4 class="author">James Dunham</h4>
             
-            <h4 class="date">July 3, 2018</h4>
+            <h4 class="date">July 10, 2018</h4>
       
       
       <div class="hidden name"><code>excel.Rmd</code></div>
@@ -84,154 +84,417 @@
 
     
     
-<div id="the-problem" class="section level1">
+<div id="installing-r" class="section level1">
 <h1 class="hasAnchor">
-<a href="#the-problem" class="anchor"></a>The problem</h1>
-<p><img src="merrimack-long.png" width="542"></p>
-</div>
-<div id="pretend-its-tabular" class="section level1">
-<h1 class="hasAnchor">
-<a href="#pretend-its-tabular" class="anchor"></a>Pretend it’s tabular?</h1>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="kw">library</span>(dplyr)</a>
-<a class="sourceLine" id="cb1-2" data-line-number="2"><span class="kw">library</span>(stringr)</a>
-<a class="sourceLine" id="cb1-3" data-line-number="3"><span class="kw">library</span>(readxl)</a>
-<a class="sourceLine" id="cb1-4" data-line-number="4"><span class="kw">library</span>(medslcleaner)</a>
-<a class="sourceLine" id="cb1-5" data-line-number="5"></a>
-<a class="sourceLine" id="cb1-6" data-line-number="6">merrimack_path =<span class="st"> </span><span class="kw"><a href="../reference/spreadsheet_example.html">spreadsheet_example</a></span>(<span class="st">'merrimack'</span>)</a>
-<a class="sourceLine" id="cb1-7" data-line-number="7"><span class="kw"><a href="http://www.rdocumentation.org/packages/readxl/topics/read_excel">read_excel</a></span>(merrimack_path, <span class="dt">col_names =</span> <span class="ot">FALSE</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb1-8" data-line-number="8"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
-<pre><code>## # A tibble: 6 x 8
-##   ..1        ..2               ..3    ..4     ..5    ..6     ..7     ..8  
-##   &lt;chr&gt;      &lt;chr&gt;             &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt;  &lt;chr&gt;   &lt;chr&gt;   &lt;chr&gt;
-## 1 &lt;NA&gt;       State of New Ham… &lt;NA&gt;   &lt;NA&gt;    &lt;NA&gt;   &lt;NA&gt;    &lt;NA&gt;    &lt;NA&gt; 
-## 2 &lt;NA&gt;       Merrimack County… &lt;NA&gt;   &lt;NA&gt;    &lt;NA&gt;   &lt;NA&gt;    &lt;NA&gt;    &lt;NA&gt; 
-## 3 42682      Sheriff           &lt;NA&gt;   Attorn… &lt;NA&gt;   Treasu… &lt;NA&gt;    &lt;NA&gt; 
-## 4 &lt;NA&gt;       Hilliard, r/d     Scatt… Murray… Scatt… Hammon… Rodrig… Scat…
-## 5 Allenstown 2035              8      2013    3      1296    699     2    
-## 6 Andover    1310              3      1277    &lt;NA&gt;   714     564     &lt;NA&gt;</code></pre>
-</div>
-<div id="alternative-solution" class="section level1">
-<h1 class="hasAnchor">
-<a href="#alternative-solution" class="anchor"></a>Alternative solution</h1>
-<ol style="list-style-type: decimal">
-<li>Identify which cells are <strong>data</strong> and which are <strong>headers</strong>
-</li>
-<li>Define the <strong>relationships</strong> between data cells and header cells</li>
-</ol>
-<p><img src="merrimack-long.png" width="542"></p>
-</div>
-<div id="tools" class="section level1">
-<h1 class="hasAnchor">
-<a href="#tools" class="anchor"></a>Tools</h1>
-<p>R packages:</p>
+<a href="#installing-r" class="anchor"></a>Installing R</h1>
 <ul>
-<li><code>tidyverse</code></li>
-<li><code>tidyxl</code></li>
-<li><code>unpivotr</code></li>
-<li><code>medslcleaner</code></li>
+<li><p>Install R from <a href="https://cloud.r-project.org" class="uri">https://cloud.r-project.org</a></p></li>
+<li><p>Also install RStudio, an interface for working in R: <a href="https://www.rstudio.com/products/rstudio/download" class="uri">https://www.rstudio.com/products/rstudio/download</a></p></li>
 </ul>
 </div>
-<div id="read-the-data" class="section level1">
+<div id="writing-r-code-r4ds" class="section level1">
 <h1 class="hasAnchor">
-<a href="#read-the-data" class="anchor"></a>Read the data</h1>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1"><span class="kw">library</span>(medslcleaner)</a>
-<a class="sourceLine" id="cb3-2" data-line-number="2"><span class="kw">library</span>(tidyverse)</a>
-<a class="sourceLine" id="cb3-3" data-line-number="3"><span class="kw">library</span>(tidyxl)</a>
-<a class="sourceLine" id="cb3-4" data-line-number="4"><span class="kw">library</span>(unpivotr)</a>
-<a class="sourceLine" id="cb3-5" data-line-number="5"></a>
-<a class="sourceLine" id="cb3-6" data-line-number="6"><span class="co"># For this example only: get path to the spreadsheet</span></a>
-<a class="sourceLine" id="cb3-7" data-line-number="7">merrimack_path =<span class="st"> </span><span class="kw"><a href="../reference/spreadsheet_example.html">spreadsheet_example</a></span>(<span class="st">'merrimack'</span>)</a>
-<a class="sourceLine" id="cb3-8" data-line-number="8"></a>
-<a class="sourceLine" id="cb3-9" data-line-number="9">cells =<span class="st"> </span><span class="kw"><a href="http://www.rdocumentation.org/packages/tidyxl/topics/xlsx_cells">xlsx_cells</a></span>(merrimack_path, <span class="dt">sheet =</span> <span class="dv">1</span>)  <span class="co"># from tidyxl</span></a></code></pre></div>
+<a href="#writing-r-code-r4ds" class="anchor"></a>Writing R code (R4DS)</h1>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="dv">1</span> <span class="op">/</span><span class="st"> </span><span class="dv">200</span> <span class="op">*</span><span class="st"> </span><span class="dv">30</span></a></code></pre></div>
+<pre><code>## [1] 0.15</code></pre>
+<p> <br></p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1">(<span class="dv">59</span> <span class="op">+</span><span class="st"> </span><span class="dv">73</span> <span class="op">+</span><span class="st"> </span><span class="dv">2</span>) <span class="op">/</span><span class="st"> </span><span class="dv">3</span></a></code></pre></div>
+<pre><code>## [1] 44.66667</code></pre>
+<p> <br></p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb5-1" data-line-number="1"><span class="kw">sin</span>(pi <span class="op">/</span><span class="st"> </span><span class="dv">2</span>)</a></code></pre></div>
+<pre><code>## [1] 1</code></pre>
 </div>
-<div id="representation-in-r" class="section level1">
+<div id="assignment-r4ds" class="section level1">
 <h1 class="hasAnchor">
-<a href="#representation-in-r" class="anchor"></a>Representation in R</h1>
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" data-line-number="1">cells <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb4-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, data_type, character, numeric) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb4-3" data-line-number="3"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
-<pre><code>## # A tibble: 6 x 6
-##   address   row   col data_type character                          numeric
-##   &lt;chr&gt;   &lt;int&gt; &lt;int&gt; &lt;chr&gt;     &lt;chr&gt;                                &lt;dbl&gt;
-## 1 A1          1     1 blank     &lt;NA&gt;                                    NA
-## 2 B1          1     2 character State of New Hampshire - General …      NA
-## 3 C1          1     3 blank     &lt;NA&gt;                                    NA
-## 4 D1          1     4 blank     &lt;NA&gt;                                    NA
-## 5 E1          1     5 blank     &lt;NA&gt;                                    NA
-## 6 F1          1     6 blank     &lt;NA&gt;                                    NA</code></pre>
+<a href="#assignment-r4ds" class="anchor"></a>Assignment (R4DS)</h1>
+<p>Create new objects with <code>&lt;-</code>:</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb7-1" data-line-number="1">x &lt;-<span class="st"> </span><span class="dv">3</span> <span class="op">*</span><span class="st"> </span><span class="dv">4</span></a>
+<a class="sourceLine" id="cb7-2" data-line-number="2">x</a></code></pre></div>
+<pre><code>## [1] 12</code></pre>
+<p> <br></p>
+<p>All R statements where you create objects have the same form:</p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb9-1" data-line-number="1">object_name &lt;-<span class="st"> </span>value</a></code></pre></div>
+<p> <br></p>
+<p>Errata:</p>
+<ul>
+<li>Shortcut in RStudio for typing <code>&lt;-</code> is ALT-minus</li>
+<li>
+<code>=</code> is an alternative to <code>&lt;-</code>. It’s either convenient and the universal assignment operator or <em>dangerous</em> and <em>lazy.</em>
+</li>
+<li>
+<code>-&gt;</code> also exists, because R.</li>
+</ul>
 </div>
-<div id="associate-headers-with-cells" class="section level1">
+<div id="functions-r4ds" class="section level1">
 <h1 class="hasAnchor">
-<a href="#associate-headers-with-cells" class="anchor"></a>Associate headers with cells</h1>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb6-1" data-line-number="1">cells =<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb6-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/filter.html">filter</a></span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">2</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb6-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="http://www.rdocumentation.org/packages/unpivotr/topics/behead">behead</a></span>(<span class="st">'W'</span>, <span class="st">'precinct'</span>)</a>
-<a class="sourceLine" id="cb6-4" data-line-number="4"></a>
-<a class="sourceLine" id="cb6-5" data-line-number="5">cells <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb6-6" data-line-number="6"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/filter.html">filter</a></span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb6-7" data-line-number="7"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/arrange.html">arrange</a></span>(row, col) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb6-8" data-line-number="8"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, character, numeric, precinct)</a></code></pre></div>
-<pre><code>## # A tibble: 35 x 6
-##    address   row   col character numeric precinct  
-##    &lt;chr&gt;   &lt;int&gt; &lt;int&gt; &lt;chr&gt;       &lt;dbl&gt; &lt;chr&gt;     
-##  1 B5          5     2 &lt;NA&gt;         2035 Allenstown
-##  2 C5          5     3 &lt;NA&gt;            8 Allenstown
-##  3 D5          5     4 &lt;NA&gt;         2013 Allenstown
-##  4 E5          5     5 &lt;NA&gt;            3 Allenstown
-##  5 F5          5     6 &lt;NA&gt;         1296 Allenstown
-##  6 G5          5     7 &lt;NA&gt;          699 Allenstown
-##  7 H5          5     8 &lt;NA&gt;            2 Allenstown
-##  8 B6          6     2 &lt;NA&gt;         1310 Andover   
-##  9 C6          6     3 &lt;NA&gt;            3 Andover   
-## 10 D6          6     4 &lt;NA&gt;         1277 Andover   
-## # ... with 25 more rows</code></pre>
+<a href="#functions-r4ds" class="anchor"></a>Functions (R4DS)</h1>
+<p>R has a large [<em>ed:</em> bloated] collection of built-in functions.</p>
+<p>Called like this:</p>
+<pre><code>function_name(arg1 = val1, arg2 = val2, ...)</code></pre>
+<p> <br></p>
+<p>For example:</p>
+<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb11-1" data-line-number="1"><span class="kw">seq</span>(<span class="dv">1</span>, <span class="dv">10</span>)</a></code></pre></div>
+<pre><code>##  [1]  1  2  3  4  5  6  7  8  9 10</code></pre>
+<p> <br></p>
+<p>Assign the <em>return value</em>:</p>
+<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb13-1" data-line-number="1">x &lt;-<span class="st"> </span><span class="kw">seq</span>(<span class="dv">1</span>, <span class="dv">10</span>)</a></code></pre></div>
 </div>
-<div id="associate-headers-with-cells-1" class="section level1">
+<div id="getting-help" class="section level1">
 <h1 class="hasAnchor">
-<a href="#associate-headers-with-cells-1" class="anchor"></a>Associate headers with cells</h1>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb8-1" data-line-number="1">cells =<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb8-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://www.rdocumentation.org/packages/unpivotr/topics/behead">behead</a></span>(<span class="st">'NNW'</span>, <span class="st">'office'</span>) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb8-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="http://www.rdocumentation.org/packages/unpivotr/topics/behead">behead</a></span>(<span class="st">'N'</span>, <span class="st">'candidate'</span>)</a>
-<a class="sourceLine" id="cb8-4" data-line-number="4"></a>
-<a class="sourceLine" id="cb8-5" data-line-number="5">cells <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb8-6" data-line-number="6"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/arrange.html">arrange</a></span>(row, col) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb8-7" data-line-number="7"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, character, numeric, precinct, office, candidate)</a></code></pre></div>
-<pre><code>## # A tibble: 35 x 8
-##    address   row   col character numeric precinct   office    candidate   
-##    &lt;chr&gt;   &lt;int&gt; &lt;int&gt; &lt;chr&gt;       &lt;dbl&gt; &lt;chr&gt;      &lt;chr&gt;     &lt;chr&gt;       
-##  1 B5          5     2 &lt;NA&gt;         2035 Allenstown Sheriff   Hilliard, r…
-##  2 C5          5     3 &lt;NA&gt;            8 Allenstown Sheriff   Scatter     
-##  3 D5          5     4 &lt;NA&gt;         2013 Allenstown Attorney  Murray, r/d 
-##  4 E5          5     5 &lt;NA&gt;            3 Allenstown Attorney  Scatter     
-##  5 F5          5     6 &lt;NA&gt;         1296 Allenstown Treasurer " Hammond, …
-##  6 G5          5     7 &lt;NA&gt;          699 Allenstown Treasurer Rodriguez, d
-##  7 H5          5     8 &lt;NA&gt;            2 Allenstown Treasurer Scatter     
-##  8 B6          6     2 &lt;NA&gt;         1310 Andover    Sheriff   Hilliard, r…
-##  9 C6          6     3 &lt;NA&gt;            3 Andover    Sheriff   Scatter     
-## 10 D6          6     4 &lt;NA&gt;         1277 Andover    Attorney  Murray, r/d 
-## # ... with 25 more rows</code></pre>
+<a href="#getting-help" class="anchor"></a>Getting help</h1>
+<p>Function help:</p>
+<div class="sourceCode" id="cb14"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb14-1" data-line-number="1">?seq</a>
+<a class="sourceLine" id="cb14-2" data-line-number="2"><span class="kw">help</span>(seq)</a></code></pre></div>
+<p>Other sources of help:</p>
+<ul>
+<li><p><a href="https://www.rdocumentation.org">rdocumentation.org</a></p></li>
+<li><p><a href="https://stackoverflow.com/questions/tagged/r">stackoverflow.com</a></p></li>
+<li><p><a href="https://medsl.slack.com/messages/CBP4JB6EA">#r on Slack</a></p></li>
+</ul>
 </div>
-<div id="finalize" class="section level1">
+<div id="stackoverflow" class="section level1">
 <h1 class="hasAnchor">
-<a href="#finalize" class="anchor"></a>Finalize</h1>
-<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb10-1" data-line-number="1">cells =<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb10-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(address, row, col, precinct, office, candidate, <span class="dt">votes =</span> numeric)</a>
-<a class="sourceLine" id="cb10-3" data-line-number="3"></a>
-<a class="sourceLine" id="cb10-4" data-line-number="4"><span class="kw">head</span>(cells)</a></code></pre></div>
-<pre><code>## # A tibble: 6 x 7
-##   address   row   col precinct   office  candidate     votes
-##   &lt;chr&gt;   &lt;int&gt; &lt;int&gt; &lt;chr&gt;      &lt;chr&gt;   &lt;chr&gt;         &lt;dbl&gt;
-## 1 B5          5     2 Allenstown Sheriff Hilliard, r/d  2035
-## 2 C5          5     3 Allenstown Sheriff Scatter           8
-## 3 B6          6     2 Andover    Sheriff Hilliard, r/d  1310
-## 4 C6          6     3 Andover    Sheriff Scatter           3
-## 5 B7          7     2 Boscawen   Sheriff Hilliard, r/d  1661
-## 6 C7          7     3 Boscawen   Sheriff Scatter          10</code></pre>
+<a href="#stackoverflow" class="anchor"></a>StackOverflow</h1>
+<p><img src="finding-help-1.png"></p>
 </div>
-<div id="schema" class="section level1">
+<div id="stackoverflow-1" class="section level1">
 <h1 class="hasAnchor">
-<a href="#schema" class="anchor"></a>Schema</h1>
-<p>Field schema define our expectations about data:</p>
+<a href="#stackoverflow-1" class="anchor"></a>StackOverflow</h1>
+<p><img src="finding-help-2.png"></p>
+</div>
+<div id="stackoverflow-2" class="section level1">
+<h1 class="hasAnchor">
+<a href="#stackoverflow-2" class="anchor"></a>StackOverflow</h1>
+<p><img src="finding-help-3.png"></p>
+</div>
+<div id="stackoverflow-3" class="section level1">
+<h1 class="hasAnchor">
+<a href="#stackoverflow-3" class="anchor"></a>StackOverflow</h1>
+<p><img src="finding-help-4.png"></p>
+</div>
+<div id="the-hadleyverse-tidyverse" class="section level1">
+<h1 class="hasAnchor">
+<a href="#the-hadleyverse-tidyverse" class="anchor"></a>The hadleyverse (tidyverse)</h1>
+<p><img src="hadley.png" width="236" style="display: block; margin: auto;"></p>
+<div class="sourceCode" id="cb15"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb15-1" data-line-number="1"><span class="co"># https://www.tidyverse.org/</span></a>
+<a class="sourceLine" id="cb15-2" data-line-number="2"><span class="kw">install.packages</span>(<span class="st">"tidyverse"</span>)</a>
+<a class="sourceLine" id="cb15-3" data-line-number="3"><span class="kw">library</span>(tidyverse)</a></code></pre></div>
+</div>
+<div id="a-grammar-for-data" class="section level1">
+<h1 class="hasAnchor">
+<a href="#a-grammar-for-data" class="anchor"></a>A grammar for data</h1>
+<div class="sourceCode" id="cb16"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb16-1" data-line-number="1"><span class="kw">data</span>(<span class="st">'mpg'</span>, <span class="dt">package =</span> <span class="st">'ggplot2'</span>)</a>
+<a class="sourceLine" id="cb16-2" data-line-number="2">mpg <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb16-3" data-line-number="3"><span class="st">  </span><span class="kw">select</span>(manufacturer, model, displ) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb16-4" data-line-number="4"><span class="st">  </span><span class="kw">head</span>(<span class="dv">3</span>)</a></code></pre></div>
+<pre><code>## # A tibble: 3 x 3
+##   manufacturer model displ
+##   &lt;chr&gt;        &lt;chr&gt; &lt;dbl&gt;
+## 1 audi         a4      1.8
+## 2 audi         a4      1.8
+## 3 audi         a4      2</code></pre>
+</div>
+<div id="a-grammar-for-data-1" class="section level1">
+<h1 class="hasAnchor">
+<a href="#a-grammar-for-data-1" class="anchor"></a>A grammar for data</h1>
+<div class="sourceCode" id="cb18"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb18-1" data-line-number="1">mpg <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb18-2" data-line-number="2"><span class="st">  </span><span class="kw">select</span>(manufacturer, model, displ) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb18-3" data-line-number="3"><span class="st">  </span><span class="kw">filter</span>(displ <span class="op">&gt;</span><span class="st"> </span><span class="dv">2</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb18-4" data-line-number="4"><span class="st">  </span><span class="kw">head</span>(<span class="dv">3</span>)</a></code></pre></div>
+<pre><code>## # A tibble: 3 x 3
+##   manufacturer model displ
+##   &lt;chr&gt;        &lt;chr&gt; &lt;dbl&gt;
+## 1 audi         a4      2.8
+## 2 audi         a4      2.8
+## 3 audi         a4      3.1</code></pre>
+</div>
+<div id="a-grammar-for-data-2" class="section level1">
+<h1 class="hasAnchor">
+<a href="#a-grammar-for-data-2" class="anchor"></a>A grammar for data</h1>
+<div class="sourceCode" id="cb20"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb20-1" data-line-number="1">mpg <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb20-2" data-line-number="2"><span class="st">  </span><span class="kw">select</span>(manufacturer, model, displ) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb20-3" data-line-number="3"><span class="st">  </span><span class="kw">filter</span>(displ <span class="op">&gt;</span><span class="st"> </span><span class="dv">2</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb20-4" data-line-number="4"><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">displ_squared =</span> displ <span class="op">^</span><span class="st"> </span><span class="dv">2</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb20-5" data-line-number="5"><span class="st">  </span><span class="kw">head</span>(<span class="dv">3</span>)</a></code></pre></div>
+<pre><code>## # A tibble: 3 x 4
+##   manufacturer model displ displ_squared
+##   &lt;chr&gt;        &lt;chr&gt; &lt;dbl&gt;         &lt;dbl&gt;
+## 1 audi         a4      2.8          7.84
+## 2 audi         a4      2.8          7.84
+## 3 audi         a4      3.1          9.61</code></pre>
+</div>
+<div id="resources" class="section level1">
+<h1 class="hasAnchor">
+<a href="#resources" class="anchor"></a>Resources</h1>
+<p>RStudio Cheatsheets:</p>
+<ul>
+<li><p><a href="https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf">“Data Import”</a></p></li>
+<li><p><a href="https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf">“Data Transformation”</a></p></li>
+<li><p><a href="https://github.com/rstudio/cheatsheets/raw/master/strings.pdf">“Work with Strings”</a></p></li>
+<li><p><a href="https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf">“RStudio”</a></p></li>
+</ul>
+<p>Books:</p>
+<ul>
+<li><p><a href="http://r4ds.had.co.nz/index.html"><em>R for Data Science</em></a>, especially the section “Wrangle”</p></li>
+<li><p><a href="http://moderndive.com"><em>An Introduction to Statistical and Data Sciences via R</em></a></p></li>
+</ul>
+<p>Courses:</p>
+<ul>
+<li><p>DataCamp’s <a href="https://www.datacamp.com/courses/free-introduction-to-r"><em>Introduction to R</em></a></p></li>
+<li><p><a href="https://learn.edx.org/harvard-r-basics"><em>R Basics</em></a> from Harvard’s edX Data Science Series</p></li>
+</ul>
+</div>
+<div id="workflow" class="section level1">
+<h1 class="hasAnchor">
+<a href="#workflow" class="anchor"></a>Workflow</h1>
+<p><embed src="medsl-workflow.pdf"></embed></p>
+</div>
+<div id="our-toolkit" class="section level1">
+<h1 class="hasAnchor">
+<a href="#our-toolkit" class="anchor"></a>Our toolkit</h1>
+<p>Install once:</p>
+<div class="sourceCode" id="cb22"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb22-1" data-line-number="1"><span class="kw">install.packages</span>(<span class="st">"tidyverse"</span>)</a>
+<a class="sourceLine" id="cb22-2" data-line-number="2"><span class="kw">install.packages</span>(<span class="st">"tidyxl"</span>)</a>
+<a class="sourceLine" id="cb22-3" data-line-number="3"><span class="kw">install.packages</span>(<span class="st">"devtools"</span>)</a>
+<a class="sourceLine" id="cb22-4" data-line-number="4">devtools<span class="op">::</span><span class="kw"><a href="http://www.rdocumentation.org/packages/devtools/topics/install_github">install_github</a></span>(<span class="st">'MEDSL/medslcleaner'</span>)</a></code></pre></div>
+<p> <br></p>
+<p>Load every time:</p>
+<div class="sourceCode" id="cb23"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb23-1" data-line-number="1"><span class="kw">library</span>(tidyverse)</a>
+<a class="sourceLine" id="cb23-2" data-line-number="2"><span class="kw">library</span>(tidyxl)</a>
+<a class="sourceLine" id="cb23-3" data-line-number="3"><span class="kw">library</span>(medslcleaner)</a></code></pre></div>
+</div>
+<div id="source-data" class="section level1">
+<h1 class="hasAnchor">
+<a href="#source-data" class="anchor"></a>Source data</h1>
+<p><img src="merrimack.png"></p>
+<p>Multiple headers:</p>
+<ul>
+<li>Row 2: <code>jurisdiction</code>
+</li>
+<li>Row 3: <code>office</code>
+</li>
+<li>Row 4: <code>candidate</code>
+</li>
+<li>Column A: <code>precinct</code>
+</li>
+</ul>
+</div>
+<div id="source-data-1" class="section level1">
+<h1 class="hasAnchor">
+<a href="#source-data-1" class="anchor"></a>Source data</h1>
+<p><img src="merrimack.png"></p>
+<p>Multiple-column or “merged” cells:</p>
+<ul>
+<li><code>Sheriff</code></li>
+<li><code>Attorney</code></li>
+<li><code>Treasurer</code></li>
+</ul>
+</div>
+<div id="typical-approach" class="section level1">
+<h1 class="hasAnchor">
+<a href="#typical-approach" class="anchor"></a>Typical approach</h1>
+<div class="sourceCode" id="cb24"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb24-1" data-line-number="1"><span class="co"># Get the path to the packaged example</span></a>
+<a class="sourceLine" id="cb24-2" data-line-number="2">merrimack_path &lt;-<span class="st"> </span><span class="kw"><a href="../reference/spreadsheet_example.html">spreadsheet_example</a></span>(<span class="st">'merrimack'</span>)</a>
+<a class="sourceLine" id="cb24-3" data-line-number="3"></a>
+<a class="sourceLine" id="cb24-4" data-line-number="4"><span class="co"># Use `read_excel` from the `readxl` package</span></a>
+<a class="sourceLine" id="cb24-5" data-line-number="5">sheet &lt;-<span class="st"> </span><span class="kw">read_excel</span>(merrimack_path)</a></code></pre></div>
+</div>
+<div id="result" class="section level1">
+<h1 class="hasAnchor">
+<a href="#result" class="anchor"></a>Result</h1>
+<div class="sourceCode" id="cb25"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb25-1" data-line-number="1">sheet <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb25-2" data-line-number="2"><span class="st">  </span><span class="co"># Select first three columns</span></a>
+<a class="sourceLine" id="cb25-3" data-line-number="3"><span class="st">  </span><span class="kw">select</span>(<span class="dv">1</span><span class="op">:</span><span class="dv">3</span>)</a></code></pre></div>
+<pre><code>## # A tibble: 8 x 3
+##   ..1        `State of New Hampshire - General Election` ..3    
+##   &lt;chr&gt;      &lt;chr&gt;                                       &lt;chr&gt;  
+## 1 &lt;NA&gt;       Merrimack County Offices                    &lt;NA&gt;   
+## 2 42682      Sheriff                                     &lt;NA&gt;   
+## 3 &lt;NA&gt;       Hilliard, r/d                               Scatter
+## 4 Allenstown 2035                                        8      
+## 5 Andover    1310                                        3      
+## 6 Boscawen   1661                                        10     
+## 7 Bow        4585                                        13     
+## 8 TOTALS     9591                                        34</code></pre>
+</div>
+<div id="alternative-approach" class="section level1">
+<h1 class="hasAnchor">
+<a href="#alternative-approach" class="anchor"></a>Alternative approach</h1>
+<p>Using <code>medslcleaner</code> and <code>tidyxl</code>,</p>
+<p> <br></p>
+<ul>
+<li><p>Identify which cells are <em>data</em> and which are <em>headers</em></p></li>
+<li><p>Define the relationships between data cells and header cells</p></li>
+</ul>
+</div>
+<div id="reading-from-the-disk" class="section level1">
+<h1 class="hasAnchor">
+<a href="#reading-from-the-disk" class="anchor"></a>Reading from the disk</h1>
+<p>Instead of <code>read_excel</code>,</p>
+<div class="sourceCode" id="cb27"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb27-1" data-line-number="1">cells &lt;-<span class="st"> </span><span class="kw"><a href="../reference/read_xlreturns.html">read_xlreturns</a></span>(merrimack_path)</a></code></pre></div>
+<p> <br></p>
+<div class="sourceCode" id="cb28"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb28-1" data-line-number="1"><span class="co"># Take a look at a few rows and columns</span></a>
+<a class="sourceLine" id="cb28-2" data-line-number="2">peek &lt;-<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb28-3" data-line-number="3"><span class="st">  </span><span class="kw">select</span>(<span class="op">-</span>sheet) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb28-4" data-line-number="4"><span class="st">  </span><span class="kw">filter</span>(data_type <span class="op">!=</span><span class="st"> "blank"</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb28-5" data-line-number="5"><span class="st">  </span><span class="kw">filter</span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">3</span>)</a></code></pre></div>
+</div>
+<div id="result-1" class="section level1">
+<h1 class="hasAnchor">
+<a href="#result-1" class="anchor"></a>Result</h1>
+<div class="sourceCode" id="cb29"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb29-1" data-line-number="1"><span class="kw">head</span>(peek)</a></code></pre></div>
+<pre><code>##   address row col data_type         value
+## 1      B4   4   2 character Hilliard, r/d
+## 2      C4   4   3 character       Scatter
+## 3      D4   4   4 character   Murray, r/d
+## 4      E4   4   5 character       Scatter
+## 5      F4   4   6 character    Hammond, r
+## 6      G4   4   7 character  Rodriguez, d</code></pre>
+<p> <br></p>
+<ul>
+<li><p>Each row gives the contents of a single spreadsheet cell;</p></li>
+<li><p>Columns <code>row</code> and <code>col</code> give the cell’s position;</p></li>
+<li><p>Excel identifies columns with letters, but we’re using numbers.</p></li>
+</ul>
+</div>
+<div id="associating-headers-and-data" class="section level1">
+<h1 class="hasAnchor">
+<a href="#associating-headers-and-data" class="anchor"></a>Associating headers and data</h1>
+<p>Consider again the precinct names in column <code>1</code> of the Merrimack spreadsheet.</p>
+<p> <br></p>
+<div class="sourceCode" id="cb31"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb31-1" data-line-number="1">cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb31-2" data-line-number="2"><span class="st">  </span><span class="kw">select</span>(<span class="op">-</span>sheet) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb31-3" data-line-number="3"><span class="st">  </span><span class="kw">filter</span>(col <span class="op">==</span><span class="st"> </span><span class="dv">1</span> <span class="op">&amp;</span><span class="st"> </span>row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span>)</a></code></pre></div>
+<pre><code>##   address row col data_type      value
+## 1      A5   5   1 character Allenstown
+## 2      A6   6   1 character    Andover
+## 3      A7   7   1 character   Boscawen
+## 4      A8   8   1 character        Bow
+## 5      A9   9   1 character     TOTALS</code></pre>
+</div>
+<div id="associating-headers-and-data-1" class="section level1">
+<h1 class="hasAnchor">
+<a href="#associating-headers-and-data-1" class="anchor"></a>Associating headers and data</h1>
+<p>To associate each <code>precinct</code> header with all the cells to their right:</p>
+<p> </p>
+<div class="sourceCode" id="cb33"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb33-1" data-line-number="1">cells &lt;-<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb33-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="../reference/as_header.html">as_header</a></span>(<span class="st">'precinct'</span>, <span class="dt">cols =</span> <span class="dv">1</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>)</a></code></pre></div>
+<p> <br></p>
+<ul>
+<li><p>We just created a new variable <code>precinct</code></p></li>
+<li><p>It takes as values the contents of cells where <code>col</code> is <code>1</code> (otherwise <code>NA</code>) …</p></li>
+<li><p>For all the cells to the <code>right</code> of the header cells in the spreadsheet</p></li>
+</ul>
+</div>
+<div id="associating-headers-and-data-2" class="section level1">
+<h1 class="hasAnchor">
+<a href="#associating-headers-and-data-2" class="anchor"></a>Associating headers and data</h1>
+<p>The result:</p>
+<p> </p>
+<div class="sourceCode" id="cb34"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb34-1" data-line-number="1">cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb34-2" data-line-number="2"><span class="st">  </span><span class="kw">filter</span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb34-3" data-line-number="3"><span class="st">  </span><span class="kw">select</span>(<span class="op">-</span>sheet) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb34-4" data-line-number="4"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
+<pre><code>##   address row col data_type value   precinct
+## 1      B5   5   2   numeric  2035 Allenstown
+## 2      C5   5   3   numeric     8 Allenstown
+## 3      D5   5   4   numeric  2013 Allenstown
+## 4      E5   5   5   numeric     3 Allenstown
+## 5      F5   5   6   numeric  1296 Allenstown
+## 6      G5   5   7   numeric   699 Allenstown</code></pre>
+</div>
+<div id="as_header" class="section level1">
+<h1 class="hasAnchor">
+<a href="#as_header" class="anchor"></a><code>as_header</code>
+</h1>
+<pre><code>function (.data, idcol, rows = TRUE, cols = TRUE,
+  right = FALSE,  down = FALSE, .drop = TRUE) </code></pre>
+<p> <br></p>
+<p>Identifying headers:</p>
+<ul>
+<li><p>Arguments <code>row</code> and <code>col</code> select header cells by spreadsheet row and column indexes</p></li>
+<li><p>If we specify <code>rows = 2</code>, values of the second row in the spreadsheet would be considered header values</p></li>
+<li><p>With both <code>rows = 2</code> and <code>cols = 1</code>, we could define the cell in the second row and first column as a header cell</p></li>
+<li><p>In more difficult cases, we can use logical functions for selection</p></li>
+</ul>
+</div>
+<div id="as_header-1" class="section level1">
+<h1 class="hasAnchor">
+<a href="#as_header-1" class="anchor"></a><code>as_header</code>
+</h1>
+<pre><code>function (.data, idcol, rows = TRUE, cols = TRUE,
+  right = FALSE,  down = FALSE, .drop = TRUE) </code></pre>
+<p> <br></p>
+<p>Identifying data:</p>
+<ul>
+<li><p>Identify data cells by giving directions from header cells</p></li>
+<li><p>We can move rightward, downward, or both</p></li>
+</ul>
+</div>
+<div id="as_header-2" class="section level1">
+<h1 class="hasAnchor">
+<a href="#as_header-2" class="anchor"></a><code>as_header</code>
+</h1>
+<pre><code>function (.data, idcol, rows = TRUE, cols = TRUE,
+  right = FALSE,  down = FALSE, .drop = TRUE) </code></pre>
+<p> <br></p>
+<p>Argument <code>.drop</code>:</p>
+<ul>
+<li><p>Defining cells as headers drops them from the data after moving their values into a new column</p></li>
+<li><p>One way to think of the <code>as_header</code> function is as transformation of headers from spreadsheet cells into characteristics of spreadsheet cells.</p></li>
+</ul>
+</div>
+<div id="associating-headers-and-data-3" class="section level1">
+<h1 class="hasAnchor">
+<a href="#associating-headers-and-data-3" class="anchor"></a>Associating headers and data</h1>
+<p>Let’s do the remaining identifiers:</p>
+<div class="sourceCode" id="cb39"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb39-1" data-line-number="1">cells &lt;-<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb39-2" data-line-number="2"><span class="st">  </span><span class="kw"><a href="../reference/as_header.html">as_header</a></span>(<span class="st">'jurisdiction'</span>, <span class="dt">rows =</span> <span class="dv">2</span>, <span class="dt">cols =</span> <span class="dv">2</span>,</a>
+<a class="sourceLine" id="cb39-3" data-line-number="3">    <span class="dt">down =</span> <span class="ot">TRUE</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb39-4" data-line-number="4"><span class="st">  </span><span class="kw"><a href="../reference/as_header.html">as_header</a></span>(<span class="st">'office'</span>, <span class="dt">rows =</span> <span class="dv">3</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>,</a>
+<a class="sourceLine" id="cb39-5" data-line-number="5">    <span class="dt">down =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb39-6" data-line-number="6"><span class="st">  </span><span class="kw"><a href="../reference/as_header.html">as_header</a></span>(<span class="st">'candidate'</span>, <span class="dt">rows =</span> <span class="dv">4</span>, <span class="dt">down =</span> <span class="ot">TRUE</span>)</a></code></pre></div>
+</div>
+<div id="associating-headers-and-data-4" class="section level1">
+<h1 class="hasAnchor">
+<a href="#associating-headers-and-data-4" class="anchor"></a>Associating headers and data</h1>
+<p>Finally, to keep only the columns we created and rename the <code>value</code> column <code>votes</code>:</p>
+<div class="sourceCode" id="cb40"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb40-1" data-line-number="1">cells &lt;-<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb40-2" data-line-number="2"><span class="st">  </span><span class="kw">filter</span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb40-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="../reference/finalize.html">finalize</a></span>()</a>
+<a class="sourceLine" id="cb40-4" data-line-number="4"></a>
+<a class="sourceLine" id="cb40-5" data-line-number="5"><span class="kw">glimpse</span>(cells)</a></code></pre></div>
+<pre><code>## Observations: 35
+## Variables: 5
+## $ votes        &lt;int&gt; 2035, 8, 2013, 3, 1296, 699, 2, 1310, 3, 1277, NA...
+## $ precinct     &lt;chr&gt; "Allenstown", "Allenstown", "Allenstown", "Allens...
+## $ jurisdiction &lt;chr&gt; "Merrimack County Offices  ", "Merrimack County O...
+## $ office       &lt;chr&gt; "Sheriff", "Sheriff", "Attorney", "Attorney", "Tr...
+## $ candidate    &lt;chr&gt; "Hilliard, r/d", "Scatter", "Murray, r/d", "Scatt...</code></pre>
+</div>
+<div id="full-solution" class="section level1">
+<h1 class="hasAnchor">
+<a href="#full-solution" class="anchor"></a>Full Solution</h1>
+<div class="sourceCode" id="cb42"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb42-1" data-line-number="1">cells &lt;-<span class="st"> </span><span class="kw"><a href="../reference/read_xlreturns.html">read_xlreturns</a></span>(merrimack_path)</a>
+<a class="sourceLine" id="cb42-2" data-line-number="2"></a>
+<a class="sourceLine" id="cb42-3" data-line-number="3">cells &lt;-<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb42-4" data-line-number="4"><span class="st">  </span><span class="kw"><a href="../reference/as_header.html">as_header</a></span>(<span class="st">'jurisdiction'</span>, <span class="dt">rows =</span> <span class="dv">2</span>, <span class="dt">cols =</span> <span class="dv">2</span>,</a>
+<a class="sourceLine" id="cb42-5" data-line-number="5">    <span class="dt">down =</span> <span class="ot">TRUE</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb42-6" data-line-number="6"><span class="st">  </span><span class="kw"><a href="../reference/as_header.html">as_header</a></span>(<span class="st">'precinct'</span>, <span class="dt">cols =</span> <span class="dv">1</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb42-7" data-line-number="7"><span class="st">  </span><span class="kw"><a href="../reference/as_header.html">as_header</a></span>(<span class="st">'office'</span>, <span class="dt">rows =</span> <span class="dv">3</span>, <span class="dt">right =</span> <span class="ot">TRUE</span>,</a>
+<a class="sourceLine" id="cb42-8" data-line-number="8">    <span class="dt">down =</span> <span class="ot">TRUE</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb42-9" data-line-number="9"><span class="st">  </span><span class="kw"><a href="../reference/as_header.html">as_header</a></span>(<span class="st">'candidate'</span>, <span class="dt">rows =</span> <span class="dv">4</span>, <span class="dt">down =</span> <span class="ot">TRUE</span>)</a>
+<a class="sourceLine" id="cb42-10" data-line-number="10"></a>
+<a class="sourceLine" id="cb42-11" data-line-number="11"><span class="co"># Drop remaining header rows and `finalize`</span></a>
+<a class="sourceLine" id="cb42-12" data-line-number="12">cells &lt;-<span class="st"> </span>cells <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb42-13" data-line-number="13"><span class="st">  </span><span class="kw">filter</span>(row <span class="op">&gt;</span><span class="st"> </span><span class="dv">4</span> <span class="op">&amp;</span><span class="st"> </span>col<span class="op">&gt;</span><span class="st"> </span><span class="dv">1</span>) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb42-14" data-line-number="14"><span class="st">  </span><span class="kw"><a href="../reference/finalize.html">finalize</a></span>()</a></code></pre></div>
+</div>
+<div id="validation" class="section level1">
+<h1 class="hasAnchor">
+<a href="#validation" class="anchor"></a>Validation</h1>
+<p>Schema define our expectations about data:</p>
+<p> <br></p>
 <pre><code>- name: votes
   title: Vote Count
   description: Number of votes received.
@@ -240,105 +503,86 @@
   constraints:
     required: true</code></pre>
 </div>
-<div id="representation-in-r-1" class="section level1">
+<div id="representation-in-r" class="section level1">
 <h1 class="hasAnchor">
-<a href="#representation-in-r-1" class="anchor"></a>Representation in R</h1>
-<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb13-1" data-line-number="1"><span class="kw">data</span>(fields, <span class="dt">package =</span> <span class="st">'medslcleaner'</span>)</a>
-<a class="sourceLine" id="cb13-2" data-line-number="2">fields[[<span class="st">'votes'</span>]]</a></code></pre></div>
-<pre><code>## $name
-## [1] "votes"
-## 
-## $title
-## [1] "Vote Count"
-## 
-## $description
-## [1] "Number of votes received."
-## 
-## $source
-## [1] "Precinct returns for `jurisdiction`."
-## 
-## $type
-## [1] "integer"
-## 
-## $constraints
-## $constraints$required
-## [1] TRUE</code></pre>
-</div>
-<div id="validation" class="section level1">
-<h1 class="hasAnchor">
-<a href="#validation" class="anchor"></a>Validation</h1>
-<div class="sourceCode" id="cb15"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb15-1" data-line-number="1"><span class="kw">data</span>(wyoming, <span class="dt">package =</span> <span class="st">'medslcleaner'</span>)</a>
-<a class="sourceLine" id="cb15-2" data-line-number="2">wyoming <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb15-3" data-line-number="3"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/mutate.html">mutate</a></span>(<span class="dt">precinct =</span> <span class="kw">substr</span>(precinct, <span class="dv">1</span>, <span class="dv">10</span>)) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb15-4" data-line-number="4"><span class="st">  </span><span class="kw"><a href="http://dplyr.tidyverse.org/reference/select.html">select</a></span>(state_postal, jurisdiction, precinct, office, candidate, writein, votes) <span class="op">%&gt;%</span></a>
-<a class="sourceLine" id="cb15-5" data-line-number="5"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
-<pre><code>##   state_postal jurisdiction   precinct   office candidate writein votes
-## 1           WY       Albany Shields St US House      &lt;NA&gt;    TRUE     7
-## 2           WY       Albany Albany Cou US House      &lt;NA&gt;    TRUE     5
-## 3           WY       Albany Harmony Sc US House      &lt;NA&gt;    TRUE     2
-## 4           WY       Albany Centennial US House      &lt;NA&gt;    TRUE     0
-## 5           WY       Albany Rock River US House      &lt;NA&gt;    TRUE     1
-## 6           WY       Albany Shields St US House      &lt;NA&gt;    TRUE     2</code></pre>
+<a href="#representation-in-r" class="anchor"></a>Representation in R</h1>
+<div class="sourceCode" id="cb44"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb44-1" data-line-number="1"><span class="kw">data</span>(fields, <span class="dt">package =</span> <span class="st">'medslcleaner'</span>)</a>
+<a class="sourceLine" id="cb44-2" data-line-number="2"><span class="kw">str</span>(fields[[<span class="st">'votes'</span>]])</a></code></pre></div>
+<pre><code>## List of 6
+##  $ name       : chr "votes"
+##  $ title      : chr "Vote Count"
+##  $ description: chr "Number of votes received."
+##  $ source     : chr "Precinct returns for `jurisdiction`."
+##  $ type       : chr "integer"
+##  $ constraints:List of 1
+##   ..$ required: logi TRUE</code></pre>
 </div>
 <div id="validation-1" class="section level1">
 <h1 class="hasAnchor">
 <a href="#validation-1" class="anchor"></a>Validation</h1>
-<div class="sourceCode" id="cb17"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb17-1" data-line-number="1"><span class="kw"><a href="../reference/validate.html">validate</a></span>(wyoming)</a>
-<a class="sourceLine" id="cb17-2" data-line-number="2">## Validating:</a>
-<a class="sourceLine" id="cb17-3" data-line-number="3">##  ✔ year</a>
-<a class="sourceLine" id="cb17-4" data-line-number="4">##  ✔ state_postal</a>
-<a class="sourceLine" id="cb17-5" data-line-number="5">##  ✔ jurisdiction</a>
-<a class="sourceLine" id="cb17-6" data-line-number="6">##  ✔ precinct</a>
-<a class="sourceLine" id="cb17-7" data-line-number="7">##  ✔ office</a>
-<a class="sourceLine" id="cb17-8" data-line-number="8">##  ✔ district</a>
-<a class="sourceLine" id="cb17-9" data-line-number="9">##  ✔ stage</a>
-<a class="sourceLine" id="cb17-10" data-line-number="10">##  ✔ special</a>
-<a class="sourceLine" id="cb17-11" data-line-number="11">##  ✔ candidate</a>
-<a class="sourceLine" id="cb17-12" data-line-number="12">##  ✔ writein</a>
-<a class="sourceLine" id="cb17-13" data-line-number="13">##  ✔ party</a>
-<a class="sourceLine" id="cb17-14" data-line-number="14">##  ✔ mode</a>
-<a class="sourceLine" id="cb17-15" data-line-number="15">##  ✔ votes</a>
-<a class="sourceLine" id="cb17-16" data-line-number="16">##  ✔ dataverse</a>
-<a class="sourceLine" id="cb17-17" data-line-number="17">## Success!</a></code></pre></div>
+<div class="sourceCode" id="cb46"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb46-1" data-line-number="1"><span class="kw">data</span>(wyoming, <span class="dt">package =</span> <span class="st">'medslcleaner'</span>)</a>
+<a class="sourceLine" id="cb46-2" data-line-number="2">wyoming <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb46-3" data-line-number="3"><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">precinct =</span> <span class="kw">substr</span>(precinct, <span class="dv">1</span>, <span class="dv">10</span>)) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb46-4" data-line-number="4"><span class="st">  </span><span class="kw">select</span>(state_postal, jurisdiction, precinct, </a>
+<a class="sourceLine" id="cb46-5" data-line-number="5">    office, candidate, writein, votes) <span class="op">%&gt;%</span></a>
+<a class="sourceLine" id="cb46-6" data-line-number="6"><span class="st">  </span><span class="kw">head</span>()</a></code></pre></div>
+<pre><code>##   state_postal jurisdiction   precinct   office  candidate writein votes
+## 1           WY       Albany Shields St US House [Write-in]    TRUE     7
+## 2           WY       Albany Albany Cou US House [Write-in]    TRUE     5
+## 3           WY       Albany Harmony Sc US House [Write-in]    TRUE     2
+## 4           WY       Albany Centennial US House [Write-in]    TRUE     0
+## 5           WY       Albany Rock River US House [Write-in]    TRUE     1
+## 6           WY       Albany Shields St US House [Write-in]    TRUE     2</code></pre>
 </div>
 <div id="validation-2" class="section level1">
 <h1 class="hasAnchor">
 <a href="#validation-2" class="anchor"></a>Validation</h1>
-<div class="sourceCode" id="cb18"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb18-1" data-line-number="1">returns =<span class="st"> </span><span class="kw">data.frame</span>(<span class="dt">votes =</span> <span class="kw">c</span>(<span class="dv">2</span>, <span class="ot">NA</span>))</a>
-<a class="sourceLine" id="cb18-2" data-line-number="2">returns</a></code></pre></div>
-<pre><code>##   votes
-## 1     2
-## 2    NA</code></pre>
-<div class="sourceCode" id="cb20"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb20-1" data-line-number="1"><span class="co"># validate_field(returns, 'votes')</span></a>
-<a class="sourceLine" id="cb20-2" data-line-number="2"><span class="co">#&gt; Error: votes has missing values.</span></a>
-<a class="sourceLine" id="cb20-3" data-line-number="3"></a>
-<a class="sourceLine" id="cb20-4" data-line-number="4"><span class="kw"><a href="../reference/validate.html">select_missing</a></span>(returns, <span class="st">'votes'</span>)</a></code></pre></div>
-<pre><code>## 1/2 rows have missing "votes" values</code></pre>
-<pre><code>##    votes
-## 1:    NA</code></pre>
+<div class="sourceCode" id="cb48"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb48-1" data-line-number="1"><span class="kw"><a href="../reference/validate.html">validate</a></span>(wyoming)</a>
+<a class="sourceLine" id="cb48-2" data-line-number="2">## Validating:</a>
+<a class="sourceLine" id="cb48-3" data-line-number="3">##  ✔ year</a>
+<a class="sourceLine" id="cb48-4" data-line-number="4">##  ✔ state_postal</a>
+<a class="sourceLine" id="cb48-5" data-line-number="5">##  ✔ jurisdiction</a>
+<a class="sourceLine" id="cb48-6" data-line-number="6">##  ✔ precinct</a>
+<a class="sourceLine" id="cb48-7" data-line-number="7">##  ✔ office</a>
+<a class="sourceLine" id="cb48-8" data-line-number="8">##  ✔ district</a>
+<a class="sourceLine" id="cb48-9" data-line-number="9">##  ✔ stage</a>
+<a class="sourceLine" id="cb48-10" data-line-number="10">##  ✔ special</a>
+<a class="sourceLine" id="cb48-11" data-line-number="11">##  ✔ candidate</a>
+<a class="sourceLine" id="cb48-12" data-line-number="12">##  ✔ writein</a>
+<a class="sourceLine" id="cb48-13" data-line-number="13">##  ✔ party</a>
+<a class="sourceLine" id="cb48-14" data-line-number="14">##  ✔ mode</a>
+<a class="sourceLine" id="cb48-15" data-line-number="15">##  ✔ votes</a>
+<a class="sourceLine" id="cb48-16" data-line-number="16">##  ✔ dataverse</a>
+<a class="sourceLine" id="cb48-17" data-line-number="17">## Success!</a></code></pre></div>
 </div>
 <div id="validation-3" class="section level1">
 <h1 class="hasAnchor">
 <a href="#validation-3" class="anchor"></a>Validation</h1>
-<div class="sourceCode" id="cb23"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb23-1" data-line-number="1"><span class="co"># validate(returns)</span></a>
-<a class="sourceLine" id="cb23-2" data-line-number="2"><span class="co">#&gt; Error: .data does not have name year</span></a></code></pre></div>
+<div class="sourceCode" id="cb49"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb49-1" data-line-number="1">returns &lt;-<span class="st"> </span><span class="kw">data.frame</span>(<span class="dt">votes =</span> <span class="kw">c</span>(<span class="dv">2</span>, <span class="ot">NA</span>))</a>
+<a class="sourceLine" id="cb49-2" data-line-number="2">returns</a></code></pre></div>
+<pre><code>##   votes
+## 1     2
+## 2    NA</code></pre>
+<div class="sourceCode" id="cb51"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb51-1" data-line-number="1"><span class="kw"><a href="../reference/validate.html">validate_field</a></span>(returns, <span class="st">'votes'</span>)</a></code></pre></div>
+<div class="sourceCode" id="cb52"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb52-1" data-line-number="1"><span class="co">#&gt; Error: votes has missing values.</span></a></code></pre></div>
 </div>
-<div id="resources" class="section level1">
+<div id="validation-4" class="section level1">
 <h1 class="hasAnchor">
-<a href="#resources" class="anchor"></a>Resources</h1>
+<a href="#validation-4" class="anchor"></a>Validation</h1>
+<div class="sourceCode" id="cb53"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb53-1" data-line-number="1"><span class="kw"><a href="../reference/validate.html">select_missing</a></span>(returns, <span class="st">'votes'</span>)</a></code></pre></div>
+<pre><code>## 1/2 rows have missing "votes" values</code></pre>
+<pre><code>##    votes
+## 1:    NA</code></pre>
+<div class="sourceCode" id="cb56"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb56-1" data-line-number="1"><span class="kw"><a href="../reference/validate.html">validate</a></span>(returns)</a></code></pre></div>
+<div class="sourceCode" id="cb57"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb57-1" data-line-number="1"><span class="co">#&gt; Error: .data does not have name year</span></a></code></pre></div>
+</div>
+<div id="spreadsheet-resources" class="section level1">
+<h1 class="hasAnchor">
+<a href="#spreadsheet-resources" class="anchor"></a>Spreadsheet resources</h1>
 <ul>
-<li>
-<a href="https://nacnudus.github.io/unpivotr/">unpivotr documentation</a>: <a href="https://nacnudus.github.io/unpivotr" class="uri">https://nacnudus.github.io/unpivotr</a>
-</li>
-<li>
-<a href="https://github.com/MEDSL/medslcleaner/">medslcleaner github</a>: <a href="https://github.com/MEDSL/medslcleaner" class="uri">https://github.com/MEDSL/medslcleaner</a>
-</li>
-<li>
-<a href="https://nacnudus.github.io/tidyxl">tidyxl documentation</a>: <a href="https://nacnudus.github.io/tidyxl/" class="uri">https://nacnudus.github.io/tidyxl/</a>
-</li>
-<li>
-<a href="https://nacnudus.github.io/spreadsheet-munging-strategies"><em>Spreadsheet Munging Strategies</em></a>: <a href="https://nacnudus.github.io/spreadsheet-munging-strategies" class="uri">https://nacnudus.github.io/spreadsheet-munging-strategies</a>
-</li>
+<li><p><a href="https://github.com/MEDSL/medslcleaner/">medslcleaner documentation</a></p></li>
+<li><p><a href="https://nacnudus.github.io/tidyxl">tidyxl documentation</a></p></li>
+<li><p><a href="https://nacnudus.github.io/spreadsheet-munging-strategies"><em>Spreadsheet Munging Strategies</em></a></p></li>
 </ul>
 </div>
   </div>
@@ -348,22 +592,45 @@
       <h2 class="hasAnchor">
 <a href="#tocnav" class="anchor"></a>Contents</h2>
       <ul class="nav nav-pills nav-stacked">
-<li><a href="#the-problem">The problem</a></li>
-      <li><a href="#pretend-its-tabular">Pretend it’s tabular?</a></li>
-      <li><a href="#alternative-solution">Alternative solution</a></li>
-      <li><a href="#tools">Tools</a></li>
-      <li><a href="#read-the-data">Read the data</a></li>
-      <li><a href="#representation-in-r">Representation in R</a></li>
-      <li><a href="#associate-headers-with-cells">Associate headers with cells</a></li>
-      <li><a href="#associate-headers-with-cells-1">Associate headers with cells</a></li>
-      <li><a href="#finalize">Finalize</a></li>
-      <li><a href="#schema">Schema</a></li>
-      <li><a href="#representation-in-r-1">Representation in R</a></li>
+<li><a href="#installing-r">Installing R</a></li>
+      <li><a href="#writing-r-code-r4ds">Writing R code (R4DS)</a></li>
+      <li><a href="#assignment-r4ds">Assignment (R4DS)</a></li>
+      <li><a href="#functions-r4ds">Functions (R4DS)</a></li>
+      <li><a href="#getting-help">Getting help</a></li>
+      <li><a href="#stackoverflow">StackOverflow</a></li>
+      <li><a href="#stackoverflow-1">StackOverflow</a></li>
+      <li><a href="#stackoverflow-2">StackOverflow</a></li>
+      <li><a href="#stackoverflow-3">StackOverflow</a></li>
+      <li><a href="#the-hadleyverse-tidyverse">The hadleyverse (tidyverse)</a></li>
+      <li><a href="#a-grammar-for-data">A grammar for data</a></li>
+      <li><a href="#a-grammar-for-data-1">A grammar for data</a></li>
+      <li><a href="#a-grammar-for-data-2">A grammar for data</a></li>
+      <li><a href="#resources">Resources</a></li>
+      <li><a href="#workflow">Workflow</a></li>
+      <li><a href="#our-toolkit">Our toolkit</a></li>
+      <li><a href="#source-data">Source data</a></li>
+      <li><a href="#source-data-1">Source data</a></li>
+      <li><a href="#typical-approach">Typical approach</a></li>
+      <li><a href="#result">Result</a></li>
+      <li><a href="#alternative-approach">Alternative approach</a></li>
+      <li><a href="#reading-from-the-disk">Reading from the disk</a></li>
+      <li><a href="#result-1">Result</a></li>
+      <li><a href="#associating-headers-and-data">Associating headers and data</a></li>
+      <li><a href="#associating-headers-and-data-1">Associating headers and data</a></li>
+      <li><a href="#associating-headers-and-data-2">Associating headers and data</a></li>
+      <li><a href="#as_header"><code>as_header</code></a></li>
+      <li><a href="#as_header-1"><code>as_header</code></a></li>
+      <li><a href="#as_header-2"><code>as_header</code></a></li>
+      <li><a href="#associating-headers-and-data-3">Associating headers and data</a></li>
+      <li><a href="#associating-headers-and-data-4">Associating headers and data</a></li>
+      <li><a href="#full-solution">Full Solution</a></li>
       <li><a href="#validation">Validation</a></li>
+      <li><a href="#representation-in-r">Representation in R</a></li>
       <li><a href="#validation-1">Validation</a></li>
       <li><a href="#validation-2">Validation</a></li>
       <li><a href="#validation-3">Validation</a></li>
-      <li><a href="#resources">Resources</a></li>
+      <li><a href="#validation-4">Validation</a></li>
+      <li><a href="#spreadsheet-resources">Spreadsheet resources</a></li>
       </ul>
 </div>
       </div>
