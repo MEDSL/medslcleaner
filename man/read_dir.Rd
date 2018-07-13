@@ -13,15 +13,18 @@ read_dir(path = "../raw", f = data.table::fread, idcol = "path", ...)
 
 \item{idcol}{A name for the column in the result giving file paths.}
 
-\item{...}{Further arguments to \code{\link[base]{list.files}}.}
+\item{...}{Further arguments to \code{[list.files]}.}
 }
 \description{
 A wrapper for the pattern:
 }
 \details{
 \itemize{
-\item Locate paths with \code{list.files}, using \code{full.names = TRUE} and perhaps a \code{pattern}
-\item Apply a read function like \href{data.table}{fread} or \href{xlreader}{read_excel} to each path
-\item Combine the data with e.g. \code{\link{rbindlist}}, using the paths as an identifier column
+\item Locate paths with \code{\link[base:list.files]{base::list.files()}}, using \code{full.names = TRUE} and
+perhaps a \code{pattern}
+\item Apply a read function like \code{\link[data.table:fread]{data.table::fread()}} or \code{\link[readxl:read_excel]{readxl::read_excel()}}
+to each path
+\item Combine the data with e.g. \code{\link[data.table:rbindlist]{data.table::rbindlist()}}, using the paths as an
+identifier column
 }
 }

@@ -2,7 +2,7 @@
 % Please edit documentation in R/excel.R
 \name{all_na}
 \alias{all_na}
-\title{Identify all-\code{NA} rows or columns in spreadsheet}
+\title{Identify all-\code{NA} rows or columns in spreadsheet data}
 \usage{
 all_na(.data, .by = "row", rows = TRUE, cols = TRUE)
 }
@@ -21,5 +21,5 @@ length equal to the column count \emph{of dataframe \code{.data}}; or a length-o
 vector (i.e., \code{TRUE} or \code{FALSE}) applied to all spreadsheet columns}
 }
 \description{
-Identify all-\code{NA} rows or columns in spreadsheet
+Identify all-\code{NA} rows or columns in spreadsheet data
 }

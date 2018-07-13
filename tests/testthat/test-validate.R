@@ -29,7 +29,7 @@ test_that('validate_field tests for types', {
   expect_true(validate_field(data.frame(votes = 1:4), 'votes'))
   # boolean types
   expect_true(validate_field(data.frame(special = c(TRUE, FALSE)), 'special'))
-  expect_rror(validate_field(data.frame(special = c(0, 1)), 'special'),
+  expect_error(validate_field(data.frame(special = c(0, 1)), 'special'),
     "should be logical")
   # constraints: 'required'
   expect_error(validate_field(data.frame(year = c(2016, NA)), 'year'))

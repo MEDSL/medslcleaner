@@ -22,51 +22,6 @@ paste_omit_na = function(..., sep = " ", collapse = NULL) {
   }
 }
 
-#' Carry spreadsheet values right row-wise
-#'
-#' Usually called by [as_header], not directly.
-#'
-#' @inheritParams as_header
-#' @importFrom zoo na.locf0
-#' @export
-carry_right = function(.data, rows = TRUE, idcol = NULL) {
-  .data = to_datatable(.data)
-  setkeyv(.data, c('row', 'col'))
-  stopifnot('value' %in% names(.data))
-  if (is.numeric(rows)) {
-    rows = .data$row %in% rows
-  }
-  if (length(idcol)) {
-    .data[rows, c(idcol) := zoo::na.locf0(get(idcol)), by = 'row'][]
-  } else {
-    .data[rows, value := zoo::na.locf0(value), by = 'row'][]
-  }
-  .data[]
-}
-
-#' Carry spreadsheet values down column-wise
-#'
-#' Usually called by [as_header], not directly. This is row-wise last
-#' non-missing observation carried forward.
-#'
-#' @inheritParams as_header
-#' @export
-carry_down = function(.data, rows = TRUE, cols = TRUE, idcol = NULL) {
-  .data = to_datatable(.data)
-  setkeyv(.data, c('row', 'col'))
-  stopifnot('value' %in% names(.data))
-  if (is.numeric(rows)) {
-    rows = .data$row %in% rows
-  }
-  if (is.numeric(cols)) {
-    cols = .data$col %in% cols
-  }
-  if (length(idcol)) {
-    .data[rows & cols, c(idcol) := zoo::na.locf0(get(idcol)), by = 'col'][]
-  } else {
-    .data[rows & cols, value := zoo::na.locf0(value), by = 'col'][]
-  }
-}
 
 #' Create identifier columns in spreadsheet data
 #'
@@ -119,17 +74,63 @@ as_header = function(.data, idcol, rows = TRUE, cols = TRUE, right = FALSE, down
   # or down columns
   assert(is.flag(right))
   if (isTRUE(right)) {
-    .data = carry_right(.data, idcol = idcol)
+    .data = carry_right(.data, value.name = idcol)
   }
   assert(is.flag(down))
   if (isTRUE(down)) {
-    .data = carry_down(.data, idcol = idcol)
+    .data = carry_down(.data, value.name = idcol)
   }
   assert(is.flag(.drop))
   if (isTRUE(.drop)) {
     .data = .data[!(rows & cols)]
   }
   .data[]
+}
+
+#' Carry spreadsheet values forward row-wise or column-wise
+#'
+#' `carry_forward` implements row-wise or column-wise last non-missing
+#' observation carried forward, in a table of tidy Excel data created by
+#' [read_xlreturns()] or [tidyxl::xlsx_cells()]. Usually called by
+#' [as_header()], not directly.
+#'
+#' @inheritParams as_header
+#' @param value.name Column in `.data` to operate on.
+#' @param .by Carry forward by `"row"` or by `"col"`.
+#' @importFrom zoo na.locf0
+#' @export
+carry_forward = function(.data, rows = TRUE, cols = TRUE, .by = 'row',
+  value.name = 'value') {
+  .data = to_datatable(.data)
+  assert_that(is.numeric(rows) || is.logical(rows))
+  assert_that(is.numeric(cols) || is.logical(cols))
+  assert_that(.data %has_name% 'row')
+  assert_that(.data %has_name% 'col')
+  assert_that(is.string(.by))
+  assert_that(.by %in% c('row', 'col'))
+  assert_that(.data %has_name% value.name)
+  setkeyv(.data, c('row', 'col'))
+  if (is.numeric(rows)) {
+    rows = .data$row %in% rows
+  }
+  if (is.numeric(cols)) {
+    cols = .data$col %in% cols
+  }
+  .data[rows & cols, c(value.name) := zoo::na.locf0(get(value.name)), by = .by][]
+}
+
+#' @rdname carry_forward
+#' @export
+carry_right = function(.data, rows = TRUE, cols = TRUE, value.name = 'value') {
+  carry_forward(.data, rows = rows, cols = cols, .by = 'row', value.name =
+    value.name)[]
+}
+
+#' @rdname carry_forward
+#' @export
+carry_down = function(.data, rows = TRUE, cols = TRUE, value.name = 'value') {
+  carry_forward(.data, rows = rows, cols = cols, .by = 'col', value.name =
+    value.name)[]
 }
 
 #' Split multiple tables in spreadsheets into separate dataframes
@@ -151,7 +152,7 @@ split_cells = function(.data, pattern, rows = TRUE, cols = TRUE, starts = TRUE) 
     cols = .data$col %in% cols
   }
   rows = .data[rows & cols & str_detect(value, regex(pattern, TRUE)), sort(unique(row))]
-  ranges = interval_to_index(i, nrow(.data), starts)
+  ranges = interval_to_index(rows, nrow(.data), starts)
   if (length(ranges)) {
     message(glue('Split sheet with {max(.data$row)} rows into {length(ranges)} tables'))
     for (r in ranges) {
@@ -176,7 +177,7 @@ interval_to_index = function(i, n = NULL, is_start = TRUE) {
   }
 }
 
-#' Identify all-`NA` rows or columns in spreadsheet
+#' Identify all-`NA` rows or columns in spreadsheet data
 #'
 #' @inheritParams as_header
 #' @param .data A table of tidy spreadsheet data (i.e., with columns `row`, `col`, and `value`).
@@ -265,7 +266,7 @@ totals = function(.data, .by = c('office', 'candidate')) {
   .data[, sum(get(vote_col), na.rm = TRUE), by = .by][]
 }
 
-#' Combine value columns in tidyxl tables
+#' Combine value columns in spreadsheet data
 #' 
 #' Creates a new column, `value`, taking the values for each observation of
 #' column `numeric`, `logical`, or `character`, whichever is specified in
@@ -309,3 +310,39 @@ keep_minimal = function(.data, types = FALSE) {
   }
   .data[]
 }
+
+#' Retrieve paths to packaged Excel spreadsheets
+#'
+#' The package includes spreadsheets for use in examples and vignettes.
+#' Installation places them in the package directory. This function retrieves
+#' the path to a spreadsheet, given one of the names below.
+#'
+#' Spreadsheet names: 
+#' * `common-toc`
+#' * `louisiana`
+#' * `merrimack-excerpt`
+#' * `nebraska`
+#' * `new-hampshire`
+#' * `new-york-cortland`
+#' * `ohio`
+#' * `oregon`
+#' * `south-dakota`
+#' * `utah-salt-lake`
+#' * `vermont`
+#' * `wisconsin`
+#'
+#' @param name Name of an Excel file example. See details.
+#' @return Path to the example.
+#' @export
+#' @examples
+#' # Paths will vary system-to-system
+#' spreadsheet_example('merrimack-excerpt')
+spreadsheet_example = function(name) {
+  assert_that(is.string(name))
+  path = system.file(glue('{name}.xlsx'), package = 'medslcleaner')
+  if (!file.exists(path)) {
+    stop(deparse(name), ' is not the name of an example spreadsheet')
+  }
+  path
+}
+

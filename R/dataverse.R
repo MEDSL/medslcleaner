@@ -22,7 +22,7 @@ assign_fixed = function(.data) {
 #' @inheritParams stringr::regex
 #' @param dv A value to assign the `dataverse` variable for rows in `.data` that
 #'   match `pattern` in column `office`.
-#' @param ... Further arguments to \code{grepl}
+#' @param ... Further arguments to `grepl`
 #' @export
 assign_match = function(.data, pattern, dv, ignore_case = TRUE, ...) {
   if (!is.data.table(.data)) setDT(.data)

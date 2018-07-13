@@ -2,7 +2,7 @@
 % Please edit documentation in R/excel.R
 \name{combine_value_cols}
 \alias{combine_value_cols}
-\title{Combine value columns in tidyxl tables}
+\title{Combine value columns in spreadsheet data}
 \usage{
 combine_value_cols(.data)
 }

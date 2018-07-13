@@ -1,7 +1,7 @@
-#' Melt candidate votes
+#' Melt wide-formatted returns
 #'
-#' A wrapper for `[melt]` in the common case where candidates are in columns and
-#' cells give votes.
+#' A wrapper for [data.table::melt()] in the common case where candidates are in
+#' columns and cells give votes.
 #' @inheritParams write_precincts
 #' @inheritParams data.table::melt
 #' @export

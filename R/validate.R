@@ -77,7 +77,7 @@ select_nonstring = function(.data, name) {
   if (!is.data.table(.data)) setDT(.data)
   if (!is.character(.data[[name]])) {
     selection = .data
-    message(glue('"{name}" is factor, not character'))
+    message(glue('"{name}" is {class(.data[[name]])}, not character'))
   } else {
     selection = .data[str_trim(get(name)) == '' & !is.na(get(name))]
     message(glue('{nrow(selection)}/{nrow(.data)} rows take non-string ',

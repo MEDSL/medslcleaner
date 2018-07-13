@@ -19,14 +19,14 @@ A logical vector.
 and vectorized over \code{string}.
 }
 \details{
-This is almost identical to \code{\%like\%} in \code{data.table} but it
-ignores case by default. We could use \code{grepl} or \code{str_detect}, but
+This is almost identical to \code{\link[data.table]{\%like\%}} but it ignores
+case by default. We could use \code{\link[base:grepl]{base::grepl()}} or \code{\link[stringr:str_detect]{stringr::str_detect()}}, but
 we do a lot of subsetting, and \code{\%=\%} is as many as 30 characters
 shorter when ignoring case, while maintaining readability.
 }
 \examples{
 c('apple', 'banana', 'pear') \%=\% 'pp'
 
-data(virginia_precincts)
-virginia_precincts[OfficeTitle \%=\% 'house', .(OfficeTitle)]
+data(virginia)
+virginia[OfficeTitle \%=\% 'house', .(OfficeTitle)]
 }

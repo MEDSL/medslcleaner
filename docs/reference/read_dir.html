@@ -61,7 +61,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.4</span>
       </span>
     </div>
 
@@ -83,9 +83,6 @@
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="../articles/excel.html">R for MEDSL Data</a>
-    </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
@@ -137,16 +134,19 @@
     </tr>
     <tr>
       <th>...</th>
-      <td><p>Further arguments to <code><a href='http://www.rdocumentation.org/packages/base/topics/list.files'>list.files</a></code>.</p></td>
+      <td><p>Further arguments to <code>[list.files]</code>.</p></td>
     </tr>
     </table>
     
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
     <ul>
-<li><p>Locate paths with <code>list.files</code>, using <code>full.names = TRUE</code> and perhaps a <code>pattern</code></p></li>
-<li><p>Apply a read function like <a href='data.table'>fread</a> or <a href='xlreader'>read_excel</a> to each path</p></li>
-<li><p>Combine the data with e.g. <code>rbindlist</code>, using the paths as an identifier column</p></li>
+<li><p>Locate paths with <code><a href='http://www.rdocumentation.org/packages/base/topics/list.files'>base::list.files()</a></code>, using <code>full.names = TRUE</code> and
+perhaps a <code>pattern</code></p></li>
+<li><p>Apply a read function like <code><a href='http://www.rdocumentation.org/packages/data.table/topics/fread'>data.table::fread()</a></code> or <code><a href='http://www.rdocumentation.org/packages/readxl/topics/read_excel'>readxl::read_excel()</a></code>
+to each path</p></li>
+<li><p>Combine the data with e.g. <code><a href='http://www.rdocumentation.org/packages/data.table/topics/rbindlist'>data.table::rbindlist()</a></code>, using the paths as an
+identifier column</p></li>
 </ul>
     
 

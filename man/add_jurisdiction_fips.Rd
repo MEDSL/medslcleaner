@@ -12,7 +12,7 @@ add_jurisdiction_fips(.data, state_postal, add_key = TRUE, must_work = TRUE)
 \item{state_postal}{State postal abbreviation.}
 
 \item{add_key}{If \code{TRUE}, add a merge key called \code{merge_name} to \code{.data} with
-a call to \code{jurisdiction_merge_name}. If \code{FALSE}, expect the merge key to
+a call to \code{\link[=jurisdiction_merge_name]{jurisdiction_merge_name()}}. If \code{FALSE}, expect the merge key to
 exist in \code{.data.} already.}
 
 \item{must_work}{Whether adding jurisdiction identifiers must be completely

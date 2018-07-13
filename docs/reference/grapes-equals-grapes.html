@@ -62,7 +62,7 @@ and vectorized over string." />
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.4</span>
       </span>
     </div>
 
@@ -84,9 +84,6 @@ and vectorized over string." />
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="../articles/excel.html">R for MEDSL Data</a>
-    </li>
     <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
@@ -141,15 +138,27 @@ and vectorized over <code>string</code>.</p>
     
     <h2 class="hasAnchor" id="details"><a class="anchor" href="#details"></a>Details</h2>
 
-    <p>This is almost identical to <code>%like%</code> in <code>data.table</code> but it
-ignores case by default. We could use <code>grepl</code> or <code>str_detect</code>, but
+    <p>This is almost identical to <code><a href='http://www.rdocumentation.org/packages/data.table/topics/like'>%like%</a></code> but it ignores
+case by default. We could use <code><a href='http://www.rdocumentation.org/packages/base/topics/grep'>base::grepl()</a></code> or <code><a href='http://www.rdocumentation.org/packages/stringr/topics/str_detect'>stringr::str_detect()</a></code>, but
 we do a lot of subsetting, and <code>%=%</code> is as many as 30 characters
 shorter when ignoring case, while maintaining readability.</p>
     
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
     <pre class="examples"><div class='input'><span class='fu'>c</span>(<span class='st'>'apple'</span>, <span class='st'>'banana'</span>, <span class='st'>'pear'</span>) <span class='kw'>%=%</span> <span class='st'>'pp'</span></div><div class='output co'>#&gt; [1]  TRUE FALSE FALSE</div><div class='input'>
-<span class='fu'>data</span>(<span class='no'>virginia_precincts</span>)</div><div class='output co'>#&gt; <span class='warning'>Warning: data set ‘virginia_precincts’ not found</span></div><div class='input'><span class='no'>virginia_precincts</span>[<span class='no'>OfficeTitle</span> <span class='kw'>%=%</span> <span class='st'>'house'</span>, <span class='fu'>.</span>(<span class='no'>OfficeTitle</span>)]</div><div class='output co'>#&gt; <span class='error'>Error in eval(expr, envir, enclos): object 'virginia_precincts' not found</span></div></pre>
+<span class='fu'>data</span>(<span class='no'>virginia</span>)
+<span class='no'>virginia</span>[<span class='no'>OfficeTitle</span> <span class='kw'>%=%</span> <span class='st'>'house'</span>, <span class='fu'>.</span>(<span class='no'>OfficeTitle</span>)]</div><div class='output co'>#&gt;                           OfficeTitle
+#&gt;    1: Member House of Representatives
+#&gt;    2: Member House of Representatives
+#&gt;    3: Member House of Representatives
+#&gt;    4: Member House of Representatives
+#&gt;    5: Member House of Representatives
+#&gt;   ---                                
+#&gt; 9060: Member House of Representatives
+#&gt; 9061: Member House of Representatives
+#&gt; 9062: Member House of Representatives
+#&gt; 9063: Member House of Representatives
+#&gt; 9064: Member House of Representatives</div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>

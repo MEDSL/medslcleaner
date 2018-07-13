@@ -58,7 +58,7 @@ standardize_county_fips = function(.data) {
 #'
 #' @inheritParams write_precincts
 #' @param add_key If `TRUE`, add a merge key called `merge_name` to `.data` with
-#'   a call to `jurisdiction_merge_name`. If `FALSE`, expect the merge key to
+#'   a call to [jurisdiction_merge_name()]. If `FALSE`, expect the merge key to
 #'   exist in `.data.` already.
 #' @param must_work Whether adding jurisdiction identifiers must be completely
 #'   successful.  If `TRUE`, assert there are no `NA` values in
@@ -176,6 +176,19 @@ add_state_ids = function(.data) {
   stopifnot(!anyDuplicated(state_ids, by = 'state_postal'))
   .data = merge(.data, state_ids, by = 'state_postal', all.x = TRUE)
   .data
+}
+
+# We sometimes encounter in old CSVs a state variable whose values are actually
+# state_postal codes
+normalize_state = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
+  if (has_name(.data, 'state')) {
+    data('state_ids', package = 'medslcleaner', envir = environment())
+		if (all(.data[['state']] %chin% state_ids$state_postal)) {
+			setnames(.data, 'state', 'state_postal')
+		}
+	}
+  .data[]
 }
 
 # Add Census identifiers to precinct returns

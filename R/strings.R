@@ -1,10 +1,31 @@
+#' Normalize whitespace in character columns
+#'
+#' Replaces 1+ whitespace characters with one space; trims leading and
+#' trailing whitespace; and replaces zero-length strings with `NA`.
+#'
+#' @inheritParams write_precincts
+#' @param inner Whether to normalize inner whitespace.
+#' @export
+normalize_whitespace = function(.data, inner = TRUE) {
+  if (!is.data.table(.data)) setDT(.data)
+  columns = names(.data)[sapply(.data, is.character)]
+  if (inner) {
+    .data[, c(columns) := lapply(.SD, str_replace_all, '\\s+', ' '), .SDcols = columns]
+  }
+  .data[, c(columns) := lapply(.SD, str_trim), .SDcols = columns]
+  for (column in columns) {
+    .data[get(column) == '', c(column) := NA]
+  }
+  .data[]
+}
+
 #' Detect pattern matches
 #' 
 #' \code{\%=\%} is made for subsetting dataframes. Matching is case-insensitive
-#' and vectorized over \code{string}.
+#' and vectorized over `string`.
 #'
-#' This is almost identical to \code{\%like\%} in \code{data.table} but it
-#' ignores case by default. We could use \code{grepl} or \code{str_detect}, but
+#' This is almost identical to \code{\link[data.table]{\%like\%}} but it ignores
+#' case by default. We could use [base::grepl()] or [stringr::str_detect()], but
 #' we do a lot of subsetting, and \code{\%=\%} is as many as 30 characters
 #' shorter when ignoring case, while maintaining readability.
 #'
@@ -15,8 +36,8 @@
 #' @examples
 #' c('apple', 'banana', 'pear') %=% 'pp'
 #'
-#' data(virginia_precincts)
-#' virginia_precincts[OfficeTitle %=% 'house', .(OfficeTitle)]
+#' data(virginia)
+#' virginia[OfficeTitle %=% 'house', .(OfficeTitle)]
 `%=%` = function(string, pattern) {
   str_detect(string, stringr::regex(pattern, TRUE))
 }

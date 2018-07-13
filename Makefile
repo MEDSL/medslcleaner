@@ -65,10 +65,6 @@ data/candidates.rda: data-ext/candidates/candidates.R \
   data-ext/candidates/federal-legislators.feather
 	cd data-ext/candidates && Rscript $(<F)
 
-# Create example raw precinct data
-data/virginia_precincts.rda: data-ext/example-returns/virginia_precincts.R data-ext/example-returns/virginia_precincts.csv 
-	cd data-ext/example-returns && Rscript $(<F)
-
 site: docs docs/index.html
 	R --vanilla --slave -e "pkgdown::build_site()"
 

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Carry spreadsheet values right row-wise — carry_right • medslcleaner</title>
+<title>Carry forward spreadsheet values row-wise or column-wise — carry_right • medslcleaner</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -30,9 +30,10 @@
 
 
 
-<meta property="og:title" content="Carry spreadsheet values right row-wise — carry_right" />
+<meta property="og:title" content="Carry forward spreadsheet values row-wise or column-wise — carry_right" />
 
-<meta property="og:description" content="Usually called by as_header, not directly." />
+<meta property="og:description" content="Usually called by as_header(), not directly. carry_right implements
+row-wise last non-missing observation carried forward." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -61,7 +62,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.4</span>
       </span>
     </div>
 
@@ -84,9 +85,6 @@
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="../articles/excel.html">R for MEDSL Data</a>
-    </li>
-    <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
   </ul>
@@ -107,18 +105,21 @@
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Carry spreadsheet values right row-wise</h1>
+    <h1>Carry forward spreadsheet values row-wise or column-wise</h1>
     
     <div class="hidden name"><code>carry_right.Rd</code></div>
     </div>
 
     <div class="ref-description">
     
-    <p>Usually called by <a href='as_header.html'>as_header</a>, not directly.</p>
+    <p>Usually called by <code><a href='as_header.html'>as_header()</a></code>, not directly. <code>carry_right</code> implements
+row-wise last non-missing observation carried forward.</p>
     
     </div>
 
-    <pre class="usage"><span class='fu'>carry_right</span>(<span class='no'>.data</span>, <span class='kw'>rows</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>idcol</span> <span class='kw'>=</span> <span class='kw'>NULL</span>)</pre>
+    <pre class="usage"><span class='fu'>carry_right</span>(<span class='no'>.data</span>, <span class='kw'>rows</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>idcol</span> <span class='kw'>=</span> <span class='kw'>NULL</span>)
+
+<span class='fu'>carry_down</span>(<span class='no'>.data</span>, <span class='kw'>rows</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>cols</span> <span class='kw'>=</span> <span class='fl'>TRUE</span>, <span class='kw'>idcol</span> <span class='kw'>=</span> <span class='kw'>NULL</span>)</pre>
     
     <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
     <table class="ref-arguments">
@@ -136,6 +137,12 @@ vector (i.e., <code>TRUE</code> or <code>FALSE</code>) applied to all spreadshee
     <tr>
       <th>idcol</th>
       <td><p>String giving the name of the new identifier column.</p></td>
+    </tr>
+    <tr>
+      <th>cols</th>
+      <td><p>One of: a vector of spreadsheet column indexes; a logical vector with
+length equal to the column count <em>of dataframe <code>.data</code></em>; or a length-one logical
+vector (i.e., <code>TRUE</code> or <code>FALSE</code>) applied to all spreadsheet columns</p></td>
     </tr>
     </table>
     

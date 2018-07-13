@@ -3,6 +3,7 @@
 #' Expand common party abbreviations
 #'
 #' @inheritParams write_precincts
+#' @export
 normalize_party = function(.data) {
   assert_that(.data %has_name% 'party')
   .data = to_datatable(.data)

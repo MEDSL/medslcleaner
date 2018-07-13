@@ -2,7 +2,7 @@
 % Please edit documentation in R/reshape.R
 \name{melt_votes}
 \alias{melt_votes}
-\title{Melt candidate votes}
+\title{Melt wide-formatted returns}
 \usage{
 melt_votes(.data, ..., na.rm = TRUE, value.name = "votes",
   variable.name = "candidate", variable.factor = FALSE,
@@ -27,6 +27,6 @@ converted to \code{factor}, else it will be a \code{character} column.}
 to \code{factor}, else the molten value type is left unchanged.}
 }
 \description{
-A wrapper for \code{[melt]} in the common case where candidates are in columns and
-cells give votes.
+A wrapper for \code{\link[data.table:melt]{data.table::melt()}} in the common case where candidates are in
+columns and cells give votes.
 }

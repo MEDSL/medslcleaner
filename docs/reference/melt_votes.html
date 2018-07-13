@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Melt candidate votes — melt_votes • medslcleaner</title>
+<title>Melt wide-formatted returns — melt_votes • medslcleaner</title>
 
 <!-- jquery -->
 <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha384-nrOSfDHtoPMzJHjVTdCopGqIqeYETSXhZDFyniQ8ZHcVy08QesyHcnOUpMpqnmWq" crossorigin="anonymous"></script>
@@ -30,10 +30,10 @@
 
 
 
-<meta property="og:title" content="Melt candidate votes — melt_votes" />
+<meta property="og:title" content="Melt wide-formatted returns — melt_votes" />
 
-<meta property="og:description" content="A wrapper for [melt] in the common case where candidates are in columns and
-cells give votes." />
+<meta property="og:description" content="A wrapper for data.table::melt() in the common case where candidates are in
+columns and cells give votes." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -62,7 +62,7 @@ cells give votes." />
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">medslcleaner</a>
-        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.3</span>
+        <span class="label label-default" data-toggle="tooltip" data-placement="bottom" title="Released package">0.0.4</span>
       </span>
     </div>
 
@@ -85,9 +85,6 @@ cells give votes." />
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="../articles/excel.html">R for MEDSL Data</a>
-    </li>
-    <li>
       <a href="../articles/workflow.html">Workflow</a>
     </li>
   </ul>
@@ -108,15 +105,15 @@ cells give votes." />
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Melt candidate votes</h1>
+    <h1>Melt wide-formatted returns</h1>
     
     <div class="hidden name"><code>melt_votes.Rd</code></div>
     </div>
 
     <div class="ref-description">
     
-    <p>A wrapper for <code>[melt]</code> in the common case where candidates are in columns and
-cells give votes.</p>
+    <p>A wrapper for <code><a href='http://www.rdocumentation.org/packages/data.table/topics/melt.data.table'>data.table::melt()</a></code> in the common case where candidates are in
+columns and cells give votes.</p>
     
     </div>
 

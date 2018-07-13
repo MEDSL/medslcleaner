@@ -3,11 +3,13 @@
 #' Read spreadsheet data from Excel files
 #'
 #' @param path Path to the xlsx file.
-#' @param ... Further arguments to [`tidyxl::xlsx_cells`]
+#' @param keep_all Keep all variables returned by [tidyxl::xlsx_cells()],
+#'   instead of only those typically needed. (See [keep_minimal()].)
+#' @param ... Further arguments to [tidyxl::xlsx_cells()]
 #' @export
 #' @examples
-#' d = read_xlreturns('../data-ext/example-returns/16gen_stwd_pct.xlsx')
-#' as_idcol(d, 'office', i = 1)
+#' path = spreadsheet_example('wisconsin')
+#' d = read_xlreturns(path)
 read_xlreturns = function(path, ..., keep_all = FALSE) {
   ret = do.call(tidyxl::xlsx_cells, c(path = path, list(...)))
   ret = combine_value_cols(setDT(ret))
@@ -42,12 +44,15 @@ read_legacy_csv = function(path, strict = TRUE) {
 #'
 #' A wrapper for the pattern:
 #'
-#' - Locate paths with `list.files`, using `full.names = TRUE` and perhaps a `pattern`
-#' - Apply a read function like [`fread`](data.table) or [`read_excel`](xlreader) to each path
-#' - Combine the data with e.g. [`rbindlist`], using the paths as an identifier column
+#' - Locate paths with [base::list.files()], using `full.names = TRUE` and
+#'   perhaps a `pattern`
+#' - Apply a read function like [data.table::fread()] or [readxl::read_excel()]
+#'   to each path
+#' - Combine the data with e.g. [data.table::rbindlist()], using the paths as an
+#'   identifier column
 #'
 #' @param path Path to a directory of returns.
-#' @param ... Further arguments to \code{\link[base]{list.files}}.
+#' @param ... Further arguments to `[list.files]`.
 #' @param f A function for reading files from disk.
 #' @param idcol A name for the column in the result giving file paths.
 #'
@@ -61,39 +66,3 @@ read_dir = function(path = '../raw', f = data.table::fread, idcol = 'path', ...)
   d
 }
 
-#' Rename legacy variable names
-#'
-#' FIXME: This function also drops variables, so its name is misleading.
-#'
-#' @inheritParams write_precincts
-#' @export
-rename_legacy_vars = function(.data) {
-  if (!is.data.table(.data)) setDT(.data)
-  if (has_name(.data, 'candidate.votes')) {
-    setnames(.data, 'candidate.votes', 'votes')
-  }
-  if (has_name(.data, 'candidatevotes')) {
-    setnames(.data, 'candidatevotes', 'votes')
-  }
-  if (has_name(.data, 'write.in')) {
-    setnames(.data, 'write.in', 'writein')
-  }
-  if (has_name(.data, 'total.votes')) {
-    .data[, total.votes := NULL]
-  }
-  .data = normalize_state(.data)
-  .data[]
-}
-
-# We sometimes encounter in old CSVs a state variable whose values are actually
-# state_postal codes
-normalize_state = function(.data) {
-  if (!is.data.table(.data)) setDT(.data)
-  if (has_name(.data, 'state')) {
-    data('state_ids', package = 'medslcleaner', envir = environment())
-		if (all(.data[['state']] %chin% state_ids$state_postal)) {
-			setnames(.data, 'state', 'state_postal')
-		}
-	}
-  .data[]
-}

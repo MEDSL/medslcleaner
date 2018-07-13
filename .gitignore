@@ -10,3 +10,4 @@ src/*.so
 medslcleaner.Rproj
 vignettes/*_cache
 *.~lock*
+TODO

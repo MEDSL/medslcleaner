@@ -9,12 +9,15 @@ read_xlreturns(path, ..., keep_all = FALSE)
 \arguments{
 \item{path}{Path to the xlsx file.}
 
-\item{...}{Further arguments to \code{\link[tidyxl:xlsx_cells]{tidyxl::xlsx_cells}}}
+\item{...}{Further arguments to \code{\link[tidyxl:xlsx_cells]{tidyxl::xlsx_cells()}}}
+
+\item{keep_all}{Keep all variables returned by \code{\link[tidyxl:xlsx_cells]{tidyxl::xlsx_cells()}},
+instead of only those typically needed. (See \code{\link[=keep_minimal]{keep_minimal()}}.)}
 }
 \description{
 Read spreadsheet data from Excel files
 }
 \examples{
-d = read_xlreturns('../data-ext/example-returns/16gen_stwd_pct.xlsx')
-as_idcol(d, 'office', i = 1)
+path = spreadsheet_example('wisconsin')
+d = read_xlreturns(path)
 }

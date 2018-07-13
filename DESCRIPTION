@@ -1,8 +1,11 @@
 Package: medslcleaner
 Title: A MEDSL Package for Cleaning Election Returns
-Version: 0.0.3
+Version: 0.0.4.9000
 Authors@R: person("James", "Dunham", email = "james@jdunham.io", role = c("aut", "cre"))
-Description: WIP.
+Description: The medslcleaner R package helps prepare election returns for
+    release by MEDSL. We use the package in R scripts that normalize or clean raw
+    data. It's in early development and anything may change.
+URL: https://github.com/MEDSL/medslcleaner
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

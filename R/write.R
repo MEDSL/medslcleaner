@@ -32,6 +32,26 @@ write_precincts = function(.data, state_postal) {
   .data[]
 }
 
+# Rename legacy variable names and drop unused legacy variables
+rename_legacy_vars = function(.data) {
+  if (!is.data.table(.data)) setDT(.data)
+  if (has_name(.data, 'candidate.votes')) {
+    setnames(.data, 'candidate.votes', 'votes')
+  }
+  if (has_name(.data, 'candidatevotes')) {
+    setnames(.data, 'candidatevotes', 'votes')
+  }
+  if (has_name(.data, 'write.in')) {
+    setnames(.data, 'write.in', 'writein')
+  }
+  if (has_name(.data, 'total.votes')) {
+    .data[, total.votes := NULL]
+  }
+  .data = normalize_state(.data)
+  .data[]
+}
+
+
 # Keep expected columns in precinct returns
 keep_columns = function(.data) {
   data('fields', package = 'medslcleaner', envir = environment())
@@ -40,27 +60,6 @@ keep_columns = function(.data) {
     .data[, c(extra_col) := NULL]
   }
   .data = order_columns(.data)
-  .data[]
-}
-
-#' Normalize whitespace in character columns
-#'
-#' Replaces 1+ whitespace characters with one space; trims leading and
-#' trailing whitespace; and replaces zero-length strings with \code{NA}.
-#'
-#' @inheritParams write_precincts
-#' @param inner Whether to normalize inner whitespace.
-#' @export
-normalize_whitespace = function(.data, inner = TRUE) {
-  if (!is.data.table(.data)) setDT(.data)
-  columns = names(.data)[sapply(.data, is.character)]
-  if (inner) {
-    .data[, c(columns) := lapply(.SD, str_replace_all, '\\s+', ' '), .SDcols = columns]
-  }
-  .data[, c(columns) := lapply(.SD, str_trim), .SDcols = columns]
-  for (column in columns) {
-    .data[get(column) == '', c(column) := NA]
-  }
   .data[]
 }
 
