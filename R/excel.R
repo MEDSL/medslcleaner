@@ -72,15 +72,15 @@ as_header = function(.data, idcol, rows = TRUE, cols = TRUE, right = FALSE, down
   .data[rows & cols, c(idcol) := value]
   # If `right` or `down`, carry forward non-missing `value` values, across rows
   # or down columns
-  assert(is.flag(right))
+  assert_that(is.flag(right))
   if (isTRUE(right)) {
     .data = carry_right(.data, value.name = idcol)
   }
-  assert(is.flag(down))
+  assert_that(is.flag(down))
   if (isTRUE(down)) {
     .data = carry_down(.data, value.name = idcol)
   }
-  assert(is.flag(.drop))
+  assert_that(is.flag(.drop))
   if (isTRUE(.drop)) {
     .data = .data[!(rows & cols)]
   }

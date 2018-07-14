@@ -1,6 +1,6 @@
 Package: medslcleaner
 Title: A MEDSL Package for Cleaning Election Returns
-Version: 0.0.4.9000
+Version: 0.0.4.9001
 Authors@R: person("James", "Dunham", email = "james@jdunham.io", role = c("aut", "cre"))
 Description: The medslcleaner R package helps prepare election returns for
     release by MEDSL. We use the package in R scripts that normalize or clean raw
