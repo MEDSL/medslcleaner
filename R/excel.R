@@ -232,7 +232,7 @@ col_contains = function(.data, pattern, rows = TRUE, cols = TRUE) {
     cols = .data$col %in% cols
   }
   match_cols = .data[rows & cols, any(stringr::str_detect(value,
-      stringr::regex(pattern, TRUE))), by = 'col'][(V1), row]
+      stringr::regex(pattern, TRUE))), by = 'col'][(V1), col]
   .data$col %in% match_cols
 }
 
