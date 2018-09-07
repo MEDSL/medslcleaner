@@ -31,6 +31,8 @@ normalize_presidential_candidates = function(.data) {
         candidate := 'Zoltan Gyurko']
   .data[office == 'US President' & str_detect(candidate, regex('la\\s*riva', TRUE)),
     candidate := 'Gloria La Riva']
+  .data[, candidate := str_trim(str_replace_all(candidate, '\\s+', ' '))]
+  .data[get('candidate') == '', candidate := NA]
   .data[]
 }
 
